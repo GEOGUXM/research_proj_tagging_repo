@@ -83,17 +83,8 @@ class affiliation_operations:
             fp = open(json_file_path, "r")
         except:
             return
-        all_contents = fp.read()
+        all_json = json.loads(fp.read())
         fp.close()
-
-        all_json = None
-        try:
-            all_json = json.loads(all_contents)
-        except:
-            all_json = json.loads(all_contents + "}")
-        # print(all_json)
-        print(all_contents)
-        print(json_file_path)
 
         aff_contents = {}
         aff_contents["affiliation_info"] = []
@@ -111,11 +102,11 @@ class affiliation_operations:
             temp_position = position.strip().split("%")[0]
             temp_line = position.strip().split("%")[1]
             aff_contents["affiliation_info"].append({"position": {"line_num":  int(temp_line), "text": temp_position}})
+
         # write to origin file
-        # res = json.dumps(json_contents)
-        # if aff_contents["affiliation_info"] != []:
-        #     print(aff_contents)
-        # print(all_contents)
-        # fp = open(json_file_path, "w+")
-        # fp.write()
-        # fp.close()
+        all_json.update(aff_contents)
+        res = json.dumps(all_json)
+
+        fp = open(json_file_path, "w+")
+        fp.write(res)
+        fp.close()
