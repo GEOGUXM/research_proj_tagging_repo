@@ -1,0 +1,24 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Skip to main content
+About
+Research
+People
+News
+Members
+People
+Directors
+Faculty
+Staff
+Students
+Meet Our Directors: Jimmy Zhu and James Bain
+Dr. Jian-Gang (Jimmy) Zhu is the ABB Professor of Electrical and Computer Engineering at Carnegie Mellon University. He is also the director of the Data Storage Systems Center, a world-leading research institution in hard drive technology. He also holds Professorship in the Department of Material Science and Engineering and the Department of Physics at CMU.  
+Dr. Zhu received his B.S. degree in physics from Huazhong University of Science and Technology, China in 1982 and his Ph.D. in Physics from University of California at San Diego in 1989. Before coming to Carnegie Mellon in 1997, he had been a faculty member in the Department of Electrical Engineering at University of Minnesota from 1990-1996.
+Some of the awards that Dr. Zhu has received include the McKnight Land Grant Professorship from University of Minnesota in 1992, the NSF Presidential Young Investigator Award in 1993, the R&D Magazine Top 100 Invention Award in 1996, IEEE Magnetic Society Distinguished Lecturer in 2004, Carnegie Mellon University Outstanding Research Award in 2010, and IEEE Magnetic Society Achievement Award, the highest award of the IEEE Magnetic Society, in 2011. He also received ETA KAPPA NU Excellent Teaching Award in 2012 at Carnegie Mellon. He has authored and co-authored over 300 refereed papers in major international journals along with seven book chapters and has given over 90 invited papers at various major international conferences. He holds 20 U.S. patents. He is an IEEE Fellow. 
+James Bain,
+associate director of the DSSC, is a professor in ECE and MSE. His research interests are in thin film materials and devices, with a particular emphasis on device physics for non-volatile switching in magnetic, thermomagnetic and semiconductor systems. His work focuses on how to deliver energy to very small volumes of material to change the material's state in a reversible but non-volatile way.
+He is also involved in research projects and technology roadmapping exercises run by the Information Storage Industry Consortium (INSIC), and he has served on the organizing committee of three International Probe Storage Workshops. He holds three U.S. patents and has co-authored more than 90 papers about magnetic recording, thin film devices and materials. He is a member of the IEEE Magnetics Society and Sigma Xi. He received his B.S. degree in MSE from the University of Pennsylvania in 1988 and his M.S. and Ph.D. also in MSE from Stanford University in 1991 and 1993, respectively.
+Data Storage Systems Center / Pittsburgh, PA 15213-3890 / Phone: 412-268-6600 / Fax: 412-268-3497

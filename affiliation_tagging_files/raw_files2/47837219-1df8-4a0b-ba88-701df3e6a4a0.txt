@@ -1,0 +1,78 @@
+###AuthorName=Don Hewitt
+###AuthorTitle=
+###Affiliation=Electrical and Electronic Engineering
+###Position=
+##############################
+Skip to navigation
+Skip to content
+University Home
+Search
+Support the Campaign Current Students Staff Alumni Library Contact & Maps
+The University of Melbourne
+Browse the University
+STUDY
+RESEARCH
+ENGAGE
+ABOUT US
+Melbourne School of Engineering
+Electrical and Electronic Engineering
+ABOUT US
+PEOPLE
+STUDY WITH US
+RESEARCH
+INDUSTRY AND COMMUNITY
+INTRANET
+HOME
+
+Mr Don Hewitt
+Recent Publications
+Do C, Tran AV, Zhu C, Hewitt D, Skafidas E. Data-Aided OSNR Estimation for QPSK and 16-QAM Coherent Optical System. IEEE Photonics Journal. IEEE - Institute of Electrical and Electronic Engineers. 2013, Vol. 5, Issue 5.
+Do C, Tran AV, Chen S, Anderson T, Hewitt D, Skafidas E. Flexible bandwidth DGD estimation for coherent optical OFDM system. Optics Express. Optical Society of America. 2013, Vol. 21, Issue 22.
+Chen S, Anderson T, Hewitt D, Tran A, Skafidas E. Non-data-aided PMD monitoring for optical OFDM systems using low bandwidth coherent receivers. 2013 Optical Fiber Communication Conference and Exposition and the National Fiber Optic Engineers Conference (OFC/NFOEC). IEEE Press. 2013.
+Tran A, Zhu C, Do CC, Chen S, Anderson T, Hewitt D, Skafidas E. 8x40-Gb/s Optical Coherent Pol-Mux Single Carrier System With Frequency Domain Equalization and Training Sequences. IEEE Photonics Technology Letters. IEEE - Institute of Electrical and Electronic Engineers. 2012, Vol. 24, Issue 11.
+Do C, Zhu C, Tran A, Chen S, Anderson T, Hewitt D, Skafidas E. Chromatic Dispersion Estimation in 40 Gb/s Coherent Polarization-Multiplexed Single Carrier System using Complementary Golay Sequences. 2012 combined meeting of the Conference on Optical Fiber Communication (OFC) and the National Fiber Optic Engineers Conference (NFOEC). OSA - Optical Society of America. 2012.
+Do C, Tran A, Zhu C, Chen S, Anderson T, Hewitt D, Skafidas E. Data-aided chromatic dispersion estimation for polarization multiplexed optical systems. IEEE Photonics Journal. IEEE - Institute of Electrical and Electronic Engineers. 2012, Vol. 4, Issue 5.
+Anderson T, Chen S, Hewitt D, Tran A, Beaman D, Ferra H, Morgan T. Measurement of PMD using the time-domain evolution of the Stokes vector. 2012 17th Opto-Electronics and Communications Conference (OECC 2012). IEEE Press. 2012.
+Chen S, Anderson T, Hewitt D, Tran A, Zhu C, Du LB, Lowery AJ, Skafidas E. Optical performance monitoring for OFDM using low bandwidth coherent receivers. Optics Express. Optical Society of America. 2012, Vol. 20, Issue 27.
+Tran A, Zhu C, Do C, Chen S, Du L, Anderson T, Hewitt D, Lowery A, Skafidas E. Single carrier QPSK and 16 QAM system demonstration using frequency domain equalization and training sequences. 2012 17th Opto-Electronics and Communications Conference (OECC 2012). IEEE Press. 2012.
+Do CTD, Tran A, Hewitt D. Chromatic dispersion estimation based on complementary Golay sequences for 80 Gb/s QPSK single-carrier system with frequency domain equalization. Australasian Telecommunication Networks and Applications Conference, ATNAC 2011. IEEE Press. 2011.
+Anderson T, Dods SD, Kowalczyk A, Clarke K, Hewitt D, Li J. Optical Performance Monitoring Based on Asynchronous Delay-Tap Sampling. performance monitoring: advanced techniques for next-generation photonic networks. Academic Press. 2010.
+Anderson T, Kowalczyk A, Clarke K, Dods SD, Hewitt D, Li J. Multi Impairment Monitoring for Optical Networks. Journal of Lightwave Technology. IEEE - Institute of Electrical and Electronic Engineers. 2009, Vol. 27, Issue 16.
+Hewitt D, Nadarajah N. Comparisons between single and double sideband direct-detection and coherent baseband OFDM optical transmission. OECC/ACOFT 2008 Conference: Joint Conference of the Opto-Electronics and Communications Conference and the Australian Conference on Optical Fibre Technology. IEEE - Institute of Electrical and Electronic Engineers. 2008.
+Hewitt D. Orthogonal frequency division multiplexing using baseband optical single sideband for simpler adaptive dispersion compensation. OFC/NFOEC 2007. Omnipress. 2007.
+Bakaul M, Clarke K, Anderson T, Hewitt D, Dods SD. Low-cost in-band optical signal-to-noise ratio monitoring using an optical interferometer. 2006 IEEE LEOS Annual Meeting Conference. IEEE - Institute of Electrical and Electronic Engineers. 2006.
+Don Hewitt
+University of Melbourne
+3010 Australia
+
+E: dfhewitt@unimelb.edu.au
+View a full list of publications on the University of Melbourne’s ‘Find An Expert’ profile
+Electrical and Electronic Engineering
+Electrical Engineering Building
+Level 4
+The University of Melbourne
+Parkville 3010 VIC Australia
+Phone: +61 3 8344 6699
+Fax: +61 3 8344 7412
+Contact Us
+Authoriser:
+Head of Department
+Maintainer:
+Tony Zara, Melbourne School of Engineering
+Date created:
+1 April 2012
+Last modified:
+Back to top
+We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated.
+Phone:
+13 MELB (13 6352) | International: +(61 3) 9035 5511
+
+The University of Melbourne ABN:
+84 002 705 224
+
+CRICOS Provider Code:
+00116K (visa information)
+
+Disclaimer & copyright
+Accessibility
+Privacy

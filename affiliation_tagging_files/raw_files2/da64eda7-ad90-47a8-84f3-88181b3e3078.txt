@@ -1,0 +1,43 @@
+###AuthorName=Hu Ding
+###AuthorTitle=Ph.D
+###Affiliation=department of computer science and engineering 
+###Position=
+##############################
+Hu Ding
+I join the department of computer science and engineering at Michigan State University in 2016, as a tenure-track assistant professor. I got my Ph.D under supervision of Dr. Jinhui Xu,  in the Department of Computer Science and Engineering, State University of New York at Buffalo, in Sep 2015. I received my bachelor degree in Mathematics from Sun Yat-Sen (Zhong Shan) University in Jun 2009. My research centers around designing efficient geometric algorithms and emphasizes both theoretical development and their applications in real world.
+I am looking for motivated Ph.D students who are interested in theory/algorithms starting from Fall 2017
+Recent news:
+1. Our recent paper in Human Molecular Genetics is recommended by F1000Prime as an Article of Special Significance to the research on 3D pattern of chromosome territories!
+  2. One paper is accepted to AAAI 2017, two papers are accepted to WADS 2017.
+  3. Gave a seminar talk at SUNY at Buffalo, Novel Geometric Techniques for Reducing Communication Cost in Distributed Data Analysis, April 17, 2017.
+  4. Gave one hour featured talk at Simons Center, SUNY at Stony Brook, Simplex Lemma And The Applications in Data Analysis, April 20, 2017.
+  5. I teach CSE891 Selected Topics: Geometric Algorithms for Machine Learning in Spring 2017.
+  Publications:
+Peer-Reviewed Conference Papers:
+Y. Liu, H. Ding, Z. Huang, and J. Xu, `` Distributed and Robust Support Vector Machine,"  Accepted to the 27th International Symposium on Algorithms and Computation (ISAAC 2016) .
+  Z. Chen, D. Chen, H. Ding, Z. Huang, Z. Li, N. Sehgal, A. Fritz, R. Berezney, and J. Xu, `` Finding Rigid Sub-Structure Patterns From 3D Point-Sets,"  Accepted to the 23rd International Conference on Pattern Recognition (ICPR 2016).
+  H. Ding, L. Huang, Y. Liu, and J. Li, `` K-Means Clustering with Distributed Dimensions,"  Accepted to the 33rd International Conference on Machine Learning (ICML 2016) . We study the popular k-means clustering problem in the environment that the dimensions are distributed, and our algorithmic framework matches the approximation ratio by the recent [Cohen et al. STOC 2015], but has a much lower communication complexity.
+  H. Ding, L. Su, and J. Xu, `` Towards Distributed Ensemble Clustering for Networked Sensing Systems: A Novel Geometric Approach,"  Accepted to the 17th International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc 2016) .
+  H. Ding, J. Gao, and J. Xu, `` Finding Global Optimum for Truth Discovery: Entropy Based Geometric Variance,"  Accepted to the 32nd International Symposium on Computational Geometry (SoCG 2016) . We provide the first global optimal solution for truth discovery, which is a popular topic in data mining for a couple of years.
+  C. Meng, W. Jiang, Y. Li, J. Gao, L. Su, H. Ding, and Y. Cheng, `` Truth Discovery on Crowd Sensing of Correlated Entities,"  Proc. 13th ACM Conference on Embedded Networked Sensor Systems (SenSys 2015).
+  Z. Chen, H. Ding, D. Chen, X. Wang, A. Fritz, N. Sehgal, R. Berezney, and J. Xu, `` Mining k-Median Chromosome Association Graphs from a Population of Heterogeneous Cells,"  Proc. 6th ACM Conference on Bioinformatics, Computational Biology and Health Informatics (BCB 2015).
+  H. Ding and J. Xu, ``Random Gradient Descent Tree: A Combinatorial Approach for SVM with Outliers,"  Proc. 29th AAAI Conference on Artificial Intelligence (AAAI 2015).
+  H. Ding and J. Xu, ``A Unified Framework for Clustering Constrained Data without Locality Property,"  Proc. 26th ACM-SIAM Symposium on Discrete Algorithms (SODA 2015) slides.
+  H. Ding and J. Xu, ``Finding Median Point-Set Using Earth Mover’s Distance," Proc. 28th AAAI Conference on Artificial Intelligence (AAAI 2014).
+  H. Ding and J. Xu, ``Sub-linear Time Hybrid Approximations for Least Trimmed Squares Estimator and Related Problems,"  Proc. 30th ACM Symposium on Computational Geometry (SoCG'14). (Full version).
+  H. Ding, R. Berezney, and J. Xu, ``k-Prototype Learning for 3D Rigid Structures," Advances in Neural Information Processing Systems (NIPS 2013), December 5-8, 2013, Lake Tahoe, Nevada, USA. (Full version).
+  H. Ding and J. Xu, ``FPTAS for Minimizing Earth Mover's Distance under Rigid Transformations,'' Proc. 21st European Symposium on Algorithms (ESA 2013), pp.~397-408, Sept. 2-4, Sophia Antipolis, France. (Full version).
+  H. Ding, B. Stojkovic, R. Berezney, and J. Xu, ``Gauging Association Patterns of Chromosome Territories via Chromatic Median," IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013. Also selected as an oral presentation (acceptance rate is 3.2%).
+  L. Xu, B. Stojkovic, H. Ding, Q. Song, X. Wu, M. Sonka, and J. Xu, ``Efficient Searching of Globally Optimal and Smooth Multisurfaces with Shape Priors,"  Proc. SPIE Symposium on Medical Imaging (2012) 8314, 83140N,  Feb. 6-9, 2012, San Diego, California, USA
+  L. Xu, B. Stojkovic, H. Ding, Q. Song, X. Wu, M. Sonka, and J. Xu, ``Faster Segmentation Algorithm for Optical Coherence Tomography Images with Guaranteed Smoothness,''  Proc. 2nd International Workshop: Machine Learning in Medical Imaging (Conjunction with MICCAI 2011), LNCS 7009, pp~308-316, Sept. 18, 2011, Toronto, Canada.
+  H. Ding and J. Xu, ``Solving the Chromatic Cone Clustering Problem via Minimum Spanning Sphere," Proc. 38th International Colloquium on Automata, Languages and Programming (ICALP'11), LNCS 6755, pp.~773-784,  July 4-8, 2011,  Zurich, Switzerland. (Full version).
+    Journal Papers:
+p.s., I have published a couple of papers in biological journals due to the collaboration with Dr. Ronald Berezney and his group, where we develop algorithms to discover the interaction patterns and topology structures of chromosome territories.
+      H. Ding and J. Xu, ``FPTAS for Minimizing the Earth Mover′s Distance Under Rigid Transformations and Related Problems," accepted to Algorithmica in 2016.
+  N. Sehgal, A. Fritz, J. Vecerova, H. Ding, Z. Chen, B. Stojkovic, S. Bhattacharya, J. Xu, and R. Berezney, ``Large Scale Probabilistic 3-D Organization of Human Chromosome Territories," Human Molecular Genetics (impact factor=6.393) in Nov 2015. (Awarded Cover Page)
+  N. Sehgal, B. Seifert, H. Ding, Z. Chen, B. Stojkovic, S. Bhattacharya, J. Xu, and R. Berezney, ``Reorganization of the interchromosomal network during keratinocyte differentiation," Chromosoma (impact factor=4.602) in Oct 2015.
+  H. Ding, B. Stojkovic, A. Huges, Z. Chen, L. Xu, A. Fritz, R. Berezney, and J. Xu, `` Chromatic Kernel and Its Applications," accepted to Journal of Combinatorial Optimization.
+  A. Pliss, A. Fritz, B. Stojkovic, H. Ding, L. Mukherjee, S. Bhattacharya, J. Xu, and R. Berezney, ``Non-random Patterns in the Distribution of NOR-bearing Chromosome Territories," Journal of Cellular Physiology (impact factor=4.218) in Feb 2015. (Awarded Cover Page)
+  A. Fritz, B. Stojkovic, H. Ding, J. Xu, S. Bhattacharya, and R. Berezney, ``Cell Type Specific Alternations in Interchromosomal Networks Across the Cell Cycle," PLoS Computational Biology (impact factor=4.867) in Oct 2014.
+  A. Fritz, B. Stojkovic, H. Ding, J. Xu, and R. Berezney, ``Wide-scale Alterations in Interchromosomal Organization in Breast Cancer Cells: Defining a Network of Interacting Chromosomes," Human Molecular Genetics (impact factor=6.393) in Oct 2014.
+   

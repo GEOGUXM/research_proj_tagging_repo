@@ -1,0 +1,64 @@
+###AuthorName=MICHAEL HONIG
+###AuthorTitle=Professor
+###Affiliation=Electrical Engineering and Computer Science
+###Position=Professor of Electrical Engineering and Computer Science
+##############################
+STUDENTS
+FACULTY & STAFF
+ALUMNI
+COMPANIES
+NEWS & EVENTS
+CONTACT & VISIT
+ABOUT
+ACADEMICS
+RESEARCH & FACULTY
+OFFICES & SERVICES
+EXPLORE
+RESEARCH AND FACULTY
+IN THIS SECTION
+Research and Faculty
+Faculty Directory
+Faculty Fellows
+FACULTY DIRECTORY
+MICHAEL HONIG
+Professor of Electrical Engineering and Computer Science
+CONTACT
+2145 Sheridan Road
+Tech Room L314
+Evanston, IL 60208-3109
+
+847-491-7803
+Email Michael Honig
+WEBSITE
+Michael Honig's Homepage
+Communications and Networking Laboratory
+DEPARTMENTS
+Electrical Engineering and Computer Science
+Download CV
+EDUCATION
+Ph.D. Electrical Engineering, University of California, Berkeley, CA
+M.S. Electrical Engineering, University of California, Berkeley, CA
+B.S. Electrical Engineeirng (with honors), Stanford University, Palo Alto, CA
+
+RESEARCH INTERESTS
+My research interests are in the areas of communications, signal processing, and networks. My recent work as focused on wireless channels with feedback, resource allocation, and spectrum markets.
+
+SELECTED PUBLICATIONS
+C Shi, RA Berry, ML Honig, “Adaptive beamforming in interference networks via bi-directional training”, Arxiv preprint arXiv:1003.4764, (2010)
+Y Zhu, D Guo, ML Honig, “Joint Channel Estimation and Co-Channel Interference Cancellation in Wireless Networks Using Belief Propagation”, Citeseer, (2010)
+W Santipach, ML Honig, “Optimization of Training and Feedback Overhead for Beamforming over Block Fading Channels”, Arxiv preprint arXiv:0908.2277, (2009)
+ML Honig, “Advances in multiuser detection”, books.google.com, (2009)
+DA SCHMIDT;CX SHI;RA BERRY;ML HONIG;W UTSCHICK, “Distributed Resource Allocation Schemes”, Ieee Signal Processing Magazine, (2009)
+DJ RYAN;IVL CLARKSON;IB COLLINGS;et al., “QAM and PSK Codebooks for Limited Feedback MIMO Beamforming”, IEEE TRANSACTIONS ON COMMUNICATIONS, (2009)
+DA Schmidt, C Shi, RA Berry, ML Honig, W ..., “Minimum mean squared error interference alignment”, Proc. of Asilomar ..., (2009)
+H Zhou, RA Berry, ML Honig, R Vohra, “Complementarities in spectrum markets”, Proceedings of the 47th annual ..., (2009)
+W Santipach, ML Honig, Y Pritykin, KD Mulmuley, S ..., “Capacity of a Multiple-Antenna Fading Channel with a Quantized Precoding Matrix”, IEEE Transactions on Information Theory, (2009)
+J Bae, E Beigman, R Berry, ML Honig, R Vohra, “Incentives and Resource Sharing in Spectrum Commons”, 3rd IEEE Symposium on New Frontiers in Dynamic Spectrum ..., (2008)
+  BACK TO TOP
+McCormick School of Engineering,  Northwestern University
+Technological Institute, 2145 Sheridan Road, Evanston, IL 60208
+view all contact info
+AdmissionsFaculty DirectoryGive to McCormickTech Room Finder / MapsEmergency InformationNorthwestern HomeTech Lost and Found
+Northwestern Seal
+McCormick on twitterMcCormick on facebookMcCormick on googleMcCormick on linkedinMcCormick on rssMcCormick on youtube
+© 2017 Robert R. McCormick School of Engineering and Applied Science, Northwestern University Disclaimer

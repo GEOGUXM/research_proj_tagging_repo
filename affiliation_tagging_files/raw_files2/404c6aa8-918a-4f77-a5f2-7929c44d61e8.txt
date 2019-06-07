@@ -1,0 +1,62 @@
+###AuthorName=Christine Suetterlin
+###AuthorTitle=Ph.D
+###Affiliation=Department of Developmental & Cell Biology
+###Position=Associate Professor & Graduate Advisor
+##############################
+HOME
+ABOUT
+FACULTY
+ADMINISTRATION
+GRADUATE
+POSTDOCTORAL SCHOLARS
+UNDERGRADUATE
+RESEARCH
+EVENTS
+Home › Faculty › Christine Suetterlin
+Christine Suetterlin
+Christine Suetterlin, Ph.D.
+also spelled Sutterlin or Sütterlin
+Associate Professor & Graduate Advisor
+4242 McGaugh Hall
+University of California Irvine
+Irvine, CA 92697
+Tel: (949) 824-7140
+Fax: (949) 824-4709
+Email: suetterc@uci.edu
+Website: Lab Homepage
+  The Regulation of Golgi and Centrosome Dynamics in Mammalian Cells – We are interested in how organelles of the pericentriolar region communicate with each other. In mammalian cells, Golgi membranes are positioned in close proximity to the centrosome, the major microtubule organizing center of a cell. This specific localization is only seen during interphase as Golgi membranes are fragmented and dispersed throughout the cytosol during mitosis.
+Another organelle that is positioned in this region of an infected cell is the inclusion, a membrane-bound compartment in which the bacterium, Chlamydia, resides and replicates. As an obligatory intracellular parasite, Chlamydia has extensive, but often poorly characterized interactions with its host.
+Major projects in the lab:
+The functional link between the Golgi and the centrosome in mammalian cellsWe found that the Golgi protein, GM130, controls the organization and function of the centrosome. This regulatory pathway involves Cdc42 and its specific activator, Tuba, which both localize to the Golgi. We are in the process of characterizing this regulatory pathway through interactor screens, small compound screens and functional assays. We are also interested in analyzing other regulatory pathways by which these two organelles communicate.
+Host-pathogen interactions that affect Golgi and centrosome organization and functionWe are interested in how infections with Chlamydia sp. alter intracellular protein transport.We found that specific cell surface proteins are rerouted to the chlamydial inclusion and wish to determine the mechanism by which this bacterium modifies protein transport and sorting in the secretory pathway.We are also investigating the mechanism by which chlamydial infections induce centrosome abnormalities that may represent the critical the link between this intracellular bacterium and cervical cancer.
+Recent Publications
+Chen A., Johnson KA., Lee, JK., *Sütterlin, C.., and *Tan M.: “CPAF: a chlamydial protease without a substrate”. PloS Pathogens 8, e1002842 – * joint corresponding authors
+Karanikolas and Sütterlin, C: Functional associations between the Golgi apparatus and the centrosome in mammalian cells. In: The Centrosome: Cell and Molecular Mechanisms of Functions and Dysfunctions in Disease, published by Humana Press ISBN 978-1-62703-034-2
+Schnermann MJ, Beaudry CM, Genung NE, Canham SM, Untiedt NL, Karanikolas BD, Sütterlin C, Overman LE. (2011): Divergent synthesis and chemical reactivity of bicyclic lactone fragments of complex rearranged spongian diterpenes. J Am Chem Soc. 2;133:17494-503. PMID: 21988207
+A. Kodani, Tonthat, V., Wu, B. and Sütterlin, C. (2010) Par6 interacts with the dynactin subunit p150Glued and is a critical regulator of centrosomal protein recruitment. Mol. Biol. Cell, in press.
+Schnermann, M.J., Beaudry, C.M., Egorova, A.V., Polishchuk, R.S., Sütterlin C*, Overman LE* (2010) Golgi-modifying properties of macfarlandin E and the synthesis and evaluation of its 2,7-dioxabicyclo[3.2.1]octan-3-one core. PNAS 107:6158-63, PMCID: PMC2851978, * joint corresponding authors
+Sütterlin, C. and Colanzi, A. (2010) The Golgi – centrosome partnership during the cell cycle. J. Cell Biol. 188:621-8, PMCID: PMC2835931
+A. Kodani and Sütterlin, C. (2009) A new function for an old organelle: Microtubule nucleation at the Golgi apparatus EMBO J., 28:995-6, PMCID: PMC2683713
+K. Johnson, Tan, M., and Sütterlin, C. (2009) Centrosome abnormalities during a Chlamydia trachomatis infection are caused by dysregulation of the normal duplication pathway Cellular Microbiology, 11, 1064–1073
+Kodani, A., Kristensen, I., Huang, L., and Sütterlin, C. (2009): GM130-dependent control of Cdc42 activity at the Golgi regulates centrosome function. Mol. Biol. Cell 20:1192-200
+A. Kodani, Sütterlin, C. (2009): A new function for an old organelle: Microtubule nucleation at the Golgi apparatus. EMBO J., 28:995-6
+K. Johnson, Tan M., and Sütterlin, C. (2009): Centrosome abnormalities during a Chlamydia trachomatis infection are caused by dysregulation of the normal duplication pathway. Cellular Microbiology, 11:1064-73
+A. Hasegawa, Sogo, LF., Tan, M., and Sütterlin, C. (2009): The host complement regulatory protein, CD59, is transported to the chlamydial inclusion by a Golgi-independent pathway. Infection and Immunity, 77:1285-92
+Kodani, A., and Sütterlin, C. (2008): The Golgi protein GM130 regulates centrosome organization and function. Mol. Biol. Cell 19:745-53
+C. Sütterlin, Polishchuk, R., Pecot, M. and Malhotra, V (2005). The Golgi-associated protein GRASP65 regulates spindle dynamics and is essential for cell division. Mol. Biol. Cell 16, 3211- 3222
+Colanzi, A., Sütterlin, C. and Malhotra, V. (2003). Cell-cycle specific Golgi fragmentation: how and why? Curr. Op. Cell Biol. 15, 1-6. Equal contribution of the first 2 authors.
+Sütterlin, C., Hsu, P., Mallabiabarrena and Malhotra, V. (2002): Fragmentation and dispersal of the pericentriolar Golgi complex is required for entry into mitosis in mammalian cells. Cell 109, 359-369
+Faculty Log In
+in
+Share
+UC Irvine Homepage
+UCI School of Biological Sciences Homepage
+Contact Us
+Faculty Login
+Employment
+Privacy and Legal Notice
+© 2013 UC REGENTS
+ALL RIGHTS RESERVED
+UCI Department of Developmental & Cell Biology
+2011 Biological Sciences III
+Irvine, CA 92697-2300

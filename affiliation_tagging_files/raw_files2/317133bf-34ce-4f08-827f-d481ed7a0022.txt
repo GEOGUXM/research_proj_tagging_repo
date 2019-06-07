@@ -1,0 +1,177 @@
+###AuthorName=Andrew Walsh
+###AuthorTitle=Dr
+###Affiliation=Faculty of Science and Engineering
+###Position=researcher
+##############################
+Skip to content
+ Curtin University
+Search
+A to Z index Contact us Map Help OASIS login Find staff
+CURTIN HOME
+STUDY
+ABOUT
+RESEARCH
+COMMUNITY
+POPULAR LINKS
+STAFF PROFILE
+Dr Andrew Walsh
+Dr Andrew Walsh
+POSITION Associate Supervisor
+FACULTY Faculty of Science and Engineering
+SCHOOL School of Science
+DEPARTMENT Department of Physics and Astronomy
+CAMPUS Technology Park
+LOCATION 610.152
+PHONE 08 9266 9179
+EMAIL Andrew.Walsh@curtin.edu.au
+Brief Summary
+Dr Walsh is a world-renowned expert in the formation of high-mass stars within our Milky Way Galaxy. He is the most accomplished researcher in the field of methanol masers and internationally recognised for his work in maser research. He has spearheaded multiple Galactic Plane surveys including HOPS, MALT-45, SPLASH and the first MWA survrey of molecular line emission at low frequencies. In addition to this, he is a major contributor to other surveys such as GASKAP, THOR, the Mopra CO survey and multiple surveys of the Central Molecular Zone of our Galaxy.
+Dr Walsh is also an active researcher in diverse fields, such as astrochemistry, supernova remnants, asteroid orbital element determination, water fountains and evolved stars, accretion disks and the formation of planetary zones, history of astronomy, interstellar medium magnetic fields, planetary nebulae, ultracompact HII regions, gamma-ray astronomy, molecular cloud formation, Galactic structure, the centre of the Milky Way, maser parallax measurements and super star clusters.
+In addition to his outstanding and diverse astrophysics research, Dr Walsh is also dedicated to the cause of addressing the very important issue of equity (eg. gender, ethnic background, disability) to make our workplaces a positive and balanced experience for all staff and students.
+He is also an avid and enthusiastic presenter of his work to the public, with talks at small local groups, primary and high schools, pubs, clubs, conferences, as well as at TEDxPerth in 2014, with an audience of 1700 at Perth Concert hall and many more online. The online version of his TEDxPerth talk was the most popular that year, with over 4000 individual views.
+Memberships, Awards and Training
+Professional Awards
+Senior Research Fellowship -  Curtin University (2014-2017)
+Host organiser for the Astronomical Society of Australian ASM - Curtin University (2015)
+ARC LIEF grant - NANTEN2 Consortium (2012-2017)
+ARC LIEF grant - NANTEN2 consortium (2011)
+ARC LIEF grant - NANTEN2 consortium (2010)
+James Cook University Research Development Award (2008)
+ARC LIEF grant - Water vapour radiometers (2008)
+Memberships
+Member Faculty Self Assessment Team for Athena SWAN Bronze application (2016-present)
+Chair of Curtin Development Committee (2016-present)
+Member of Curtin Development Committee (2014-present)
+Steering Committee Astronomical Society of Australia Women in Astronomy Chapter (2013-2016)
+Co-chair of both SOC and LOC for Astronomical Society of Australia ASM conference (2015)
+Chair of both LOC and SOC for "Great barriers in High Mass Star Formation" conference (2010)
+Councillor of the Astronomical Society of Australia (2010-2013)
+Member JCU School of Engineering and Physical Sciences Research Committee (2012)
+Member JCU Faculty Communication and Consultation Committee (2010)
+Member JCU School of Engineering and Physical Sciences Workload Model Committee (2009-2010)
+Member JCU School of Engineering and Physical Sciences Senior Executive Committee (2009-2012)
+JCU member representative Astronomy Australia Limited (2008-2012)
+Member Australia Telescope Users Committee (2007-2010)
+ATNF Time Assignment Committee (2006 and 2010-2014)
+Back to top
+Employment History
+Senior Research Fellow - Curtin University (2013-present)
+Associate Professor - James Cook University (2011-2012)
+Director - Centre for Astronomy - James Cook University (2007-2012)
+Senior Lecturer - James Cook University (2006-2010)
+Postdoctoral Researcher - University of New South Wales (2004-2006)
+Postdoctoral Researcher - Harvard-Smithsonian Center for Astrophysics (2001-2004)
+Postdoctoral Researcher - Max Planck Institut fuer Radioastronomie (1998-2001)
+Back to top
+Publications
+2016
+Journal Articles (Research)
+Qiao, H., A. J. Walsh, J. Green, S. Breen, J. Dawson, S. Ellingsen, J. Gómez, C. Jordan, Z. Shen, V. Lowe et al. 2016.“ACCURATE OH MASER POSITIONS from the SPLASH PILOT REGION.”Astrophysical Journal Supplement Series 227 (2): ---.
+Walsh, A. J., H. Beuther, S. Bihr, K. Johnston, J. Dawson, J. Ott, S. Longmore, Q. Luong, R. Klessen, S. Ragan et al. 2016.“A survey for hydroxyl in the THOR pilot region around W43.”Monthly Notices of the Royal Astronomical Society 455 (3): 3494-3510.
+Conference Articles (Research)
+Qiao, H., A. J. Walsh, Z. Shen, and J. Dawson. 2016.“Ground-state OH maser distributions in the Galactic Centre region.”.
+Dawson, J., and A. J. Walsh. 2016.“OH as a Probe of The Milky Way's Hidden Gas: First Results from SPLASH.” In 315th Symposium of the International-Astronomical-Union.
+Federrath, C., J. Rathborne, S. Longmore, J. Kruijssen, J. Bally, Y. Contreras, R. Crocker, G. Garay, J. Jackson, L. Testi et al. 2016.“The link between solenoidal turbulence and slow star formation in G0.253+0.016.”.
+2015
+Journal Articles (Research)
+Ginsburg, A., A. J. Walsh, C. Henkel, P. Jones, M. Cunningham, J. Kauffmann, T. Pillai, E. Mills, J. Ott, J. Kruijssen et al. 2015.“High-mass star-forming cloud G0.38+0.04 in the Galactic center dust ridge contains H2CO and SiO masers.”Astronomy & Astrophysics 584 (2015).
+Bihr, S., H. Beuther, J. Ott, K. Johnston, A. Brunthaler, L. Anderson, F. Bigiel, P. Carlhoff, E. Churchwell, S. Glover et al. 2015.“THOR: The Hi, OH, Recombination line survey of the Milky Way: The pilot study: Hi observations of the giant molecular cloud W43.”Astronomy and Astrophysics 580.
+Rathborne, J., S. Longmore, J. Jackson, J. Alves, J. Bally, N. Bastian, Y. Contreras, J. Foster, G. Garay, J. Kruijssen et al. 2015.“A cluster in the making: ALMA reveals the initial conditions for high-mass cluster formation.”Astrophysical Journal 802 (2).
+Krishnan, V., S. Ellingsen, M. Reid, A. Brunthaler, A. Sanna, J. McCallum, C. Reynolds, H. E. Bignall, C. Phillips, R. Dodson et al. 2015.“First parallax measurements toward a 6.7 GHZ methanol maser with the Australian long baseline array - Distance to G 339.884-1.259.”Astrophysical Journal 805 (2).
+Corby, J., P. Jones, M. Cunningham, K. Menten, A. Belloche, F. Schwab, A. J. Walsh, E. Balnozan, L. Bronfman, N. Lo et al. 2015.“An ATCA survey of Sagittarius B2 at 7 mm: Chemical complexity meets broad-band interferometry.”Monthly Notices of the Royal Astronomical Society 452 (4): 3969-3993.
+Jordan, C., A. J. Walsh, V. Lowe, M. Voronkov, S. Ellingsen, S. Breen, C. Purcell, P. Barnes, M. Burton, M. Cunningham et al. 2015.“MALT-45: a 7 mm survey of the southern Galaxy - I. Techniques and spectral line data.”Monthly Notices of the Royal Astronomical Society 448 (3): 2344-2361.
+Reynoso, E., and A. J. Walsh. 2015.“Radio spectral characteristics of the supernova remnant puppis A and nearby sources.”Monthly Notices of the Royal Astronomical Society 451 (3): 3044-3054.
+Tremblay, C., A. J. Walsh, S. Longmore, J. Urquhart, and C. König. 2015.“A Search for High-Mass Stars Forming in Isolation using CORNISH and ATLASGAL.”Publications of the Astronomical Society of Australia 32 (e047).
+Braiding, C., M. Burton, R. Blackwell, C. Glück, J. Hawkes, C. Kulesa, N. Maxted, D. Rebolledo, G. Rowell, A. Stark et al. 2015.“The Mopra Southern Galactic Plane CO Survey-Data Release 1.”Publications of the Astronomical Society of Australia 32.
+2014
+Journal Articles (Research)
+Bally, J., J. M. Rathborne, S. N. Longmore, J. M. Jackson, J. F. Alves, E. Bressert, Y. Contreras, J. B. Foster, G. Garay, A. Ginsburg et al. 2014.“Absorption filaments toward the massive clump g0.253+0.016.”Astrophysical Journal 795 (28).
+Rathborne, J. M., S. N. Longmore, J. M. Jackson, J. M. Kruijssen, J. F. Alves, J. Bally, N. Bastian, Y. Contreras, J. B. Foster, G. Garay et al. 2014.“Turbulence Sets the Initial Conditions for Star Formation in High-Pressure Environments.”Astrophysical Journal Letters 795 (2): 1-6.
+Walsh, A. J., C. R. Purcell, S. N. Longmore, S. L. Breen, A. J. Green, L. Harvey-Smith, C. H. Jordan, and C. Macpherson. 2014.“Accurate water maser positions from HOPS.”Monthly Notices of the Royal Astronomical Society 442: 2240-2252.
+Lowe, V., M. R. Cunningham, J. S. Urquhart, J. P. Marshall, S. Horiuchi, N. Lo, A. J. Walsh, C. H. Jordan, P. A. Jones, and T. Hill. 2014.“Molecular line mapping of the giant molecular cloud associated with RCW 106-IV. Ammonia towards dust emission.”Monthly Notices of the Royal Astronomical Society 441 (1): 256-273.
+Green, C. -., J. A. Green, M. G. Burton, S. Horiuchi, N. F. Tothill, A. J. Walsh, C. R. Purcell, J. Lovell, and T. J. Millar. 2014.“New detections of HC5N towards hot cores associated with 6.7 GHz methanol masers.”Monthly Notices of the Royal Astronomical Society 443: 2252-2263.
+Dawson, J., A. J. Walsh, P. A. Jones, S. L. Breen, M. R. Cunningham, V. Lowe, C. Jones, C. Purcell, J. L. Caswell, E. Carretti et al. 2014.“SPLASH: The Southern Parkes large-area survey in hydroxyl-first science from the pilot region.”Monthly Notices of the Royal Astronomical Society 439 (2): 1596-1614.
+2013
+Journal Articles (Research)
+Maxted, N. I., G. Rowell, B. R. Dawson, M. G. Burton, Y. Fukui, A. J. Walsh, A. Kawamura, H. Horachi, H. Sano, S. Yoshiike et al. 2013.“Interstellar gas towards ctb 37a and the tev gamma-ray source hess j1714-385.”Monthly Notices of the Royal Astronomical Society 434 (3): 2188-2201.
+Jordan, C. H., A. J. Walsh, V. Lowe, N. Lo, C. R. Purcell, M. A. Voronkov, and S. N. Longmore. 2013.“Pilot observations for MALT-45: a Galactic plane survey at 7 mm.”Monthly Notices of the Royal Astronomical Society 429: 469-481.
+Jones, P. A., M. G. Burton, M. Cunningham, N. F. Tothill, and A. J. Walsh. 2013.“Spectral imaging of the central molecular zone in multiple 7-mm molecular lines.”Monthly Notices of the Royal Astronomical Society 433 (1): 221-234.
+Longmore, S. N., J. Bally, L. Testi, C. R. Purcell, A. J. Walsh, E. Bressert, M. Pestalozzi, S. Molinari, J. Ott, L. Cortese et al. 2013.“Variations in the Galactic star formation rate and density thresholds for star formation.”Monthly Notices of the Royal Astronomical Society 429 (2): 987-1000.
+Foster, J. B., J. M. Rathborne, P. Sanhueza, C. Claysmith, J. Whitaker, J. M. Jackson, J. L. Mascoop, M. Wienen, S. L. Breen, F. Herpin et al. 2013.“Characterisation of the MALT90 Survey and the Mopra Telescope at 90 GHz.”Publications of the Astronomical Society of Australia 30 (1).
+Maxted, N. I., G. Rowell, B. R. Dawson, M. Burton, Y. Fukui, J. Lazendic, A. Kawamura, H. Horachi, H. Sano, A. J. Walsh et al. 2013.“Dense Gas Towards the RX J1713.7–3946 Supernova Remnant.”Publications of the Astronomical Society of Australia 30 (1).
+Dickey, J., N. McClure-Griffiths, S. J. Gibson, J. F. Gómez, H. Imai, P. A. Jones, S. Stanimirovic, J. T. Van Loon, A. J. Walsh, A. Alberdi et al. 2013.“GASKAP-The Galactic ASKAP Survey.”Publications of the Astronomical Society of Australia 30 (1).
+Jackson, J. M., J. M. Rathborne, J. B. Foster, J. Whitaker, P. Sanhueza, C. Claysmith, J. L. Mascoop, M. Wienen, S. L. Breen, F. Herpin et al. 2013.“MALT90: The Millimetre Astronomy Legacy Team 90 GHz Survey.”Publications of the Astronomical Society of Australia 30: e057-1-e0571-14.
+Burton, M., C. Braiding, C. Glueck, P. Goldsmith, J. Hawkes, D. J. Hollenbach, C. Kulesa, C. L. Martin, J. L. Pineda, G. Rowell et al. 2013.“The Mopra Southern Galactic Plane CO Survey.”Publications of the Astronomical Society of Australia 30 (1).
+Burton, M. G., R. Crocker, J. Rathborne, G. Rowell, . Tothill, and A. J. Walsh. 2013.“The Interstellar Medium White Paper.”eprint arXiv 0: 1-15.
+Conference Articles (Research)
+Motogi, K., K. Fujisawa, K. Sugiyama, K. Niinuma, K. Sorai, M. Honma, T. Hirota, Y. Yonekura, K. Hachisuka, and A. J. Walsh. 2013.“New Detection of an Extremely Blue-shift Dominated Jet in G353.273+0.641: A Possible Disk-Jet System on 100 AU Scale.” In New Trends in Radio Astronomy in the ALMA Era: The 30th Anniversary of Nobeyama Radio Observatory, Aug 3, 2012, Hakone, Japan: Astronomical Society of the Pacific.
+2012
+Journal Articles (Research)
+Maxted, N. I., G. Rowell, B. R. Dawson, M. G. Burton, B. P. Nicholas, Y. Fukui, A. J. Walsh, A. Kawamura, H. Horachi, and H. Sano. 2012.“3 to 12 millimetre studies of dense gas towards the western rim of supernova remnant RXJ1713.7-3946.”Monthly Notices of the Royal Astronomical Society 422: 2230-2245.
+Nicholas, B. P., G. Rowell, M. G. Burton, A. J. Walsh, Y. Fukui, A. Kawamura, and N. I. Maxted. 2012.“A 7mm line survey of the shocked and disrupted molecular gas towards the W28 field TeV gamma-ray sources.”Monthly Notices of the Royal Astronomical Society 419: 251-266.
+Jones, P. A., M. G. Burton, M. R. Cunningham, M. A. Requena-Torres, K. Menten, P. Schilke, A. Belloche, S. Leurini, J. Martin-Pintado, J. Ott et al. 2012.“Spectral imaging of the Central Molecular Zone in multiple 3-mm molecular lines.”Monthly Notices of the Royal Astronomical Society 419 (4): 2961-2986.
+Purcell, C. R., S. N. Longmore, A. J. Walsh, M. T. Whiting, S. L. Breen, T. R. Britton, K. Brooks, M. G. Burton, M. Cunningham, J. A. Green et al. 2012.“The H2O Southern Galactic Plane Survey: NH3 (1,1) and (2,2) catalogues.”Monthly Notices of the Royal Astronomical Society 426 (3): 1972-1991.
+Walsh, A. J., C. Purcell, S. Longmore, C. H. Jordan, and V. Lowe. 2012.“Maser Source-Finding Methods in HOPS.”Publications of the Astronomical Society of Australia 29: 262-268.
+Longmore, S. N., J. Rathborne, N. Bastian, J. Alves, J. Ascenso, J. Bally, L. Testi, A. Longmore, C. Battersby, E. Bressert et al. 2012.“G0.253 + 0.016: A molecular cloud progenitor of an Arches-like cluster.”The Astrophysical Journal 746.
+2011
+Journal Articles (Research)
+Voronkov, M. A., A. J. Walsh, J. L. Caswell, S. P. Ellingsen, S. L. Breen, S. N. Longmore, C. R. Purcell, and J. S. Urquhart. 2011.“Discovery of the new class I methanol maser transition at 23.4 GHz.”Monthly Notices of the Royal Astronomical Society 413: 2339-2344.
+Walsh, A. J., S. L. Breen, T. R. Britton, K. Brooks, M. G. Burton, M. R. Cunningham, J. A. Green, L. Harvey-Smith, L. Hindson, M. Hoare et al. 2011.“The H2O Southern Galactic Plane Survey (HOPS) – I. Techniques and H2O maser data.”Monthly Notices of the Royal Astronomical Society 416 (3): 1764-1821.
+2010
+Journal Articles (Research)
+Russeil, D., A. Zavagno, F. Motte, N. Schneider, S. Bontemps, and A. J. Walsh. 2010.“The earliest phases of high-mass star formation: the NGC 6334-NGC 6357 complex.”Astronomy and Astrophysics 515: 1-18.
+Cozens, G., A. J. Walsh, and W. Orchiston. 2010.“James Dunlop's Historical Catalogue of Southern Nebulae and Clusters.”Journal of Astronomical History and Heritage 13 (1): 59-73.
+Nicholas, B. P., G. Rowell, M. G. Burton, A. J. Walsh, Y. Fukui, A. Kawamura, S. N. Longmore, and E. Keto. 2010.“12 mm line survey of the dense molecular gas towards the W28 field TeV gamma-ray sources.”Monthly Notices of the Royal Astronomical Society 411 (2): 1367-1385.
+Walsh, A. J., S. Thorwirth, H. Beuther, and M. G. Burton. 2010.“Mopra line survey mapping of NGC 6334 I and I(N) at 3mm.”Monthly Notices of the Royal Astronomical Society 404: 1396-1414.
+Caswell, J. L., G. A. Fuller, A. J. Green, A. Avison, S. L. Breen, K. J. Brooks, M. G. Burton, A. Chrysostomou, J. Cox, P. J. Diamond et al. 2010.“The 6-GHz methanol multibeam maser catalogue – I. Galactic Centre region, longitudes 345° to 6°.”Monthly Notices of the Royal Astronomical Society 404: 1029-1060.
+2009
+Journal Articles (Research)
+Purcell, C. R., V. Minier, S. N. Longmore, P. André, A. J. Walsh, P. Jones, F. Herpin, T. Hill, M. R. Cunningham, and M. G. Burton. 2009.“Multi-generation massive star-formation in NGC 3576.”Astronomy and Astrophysics 504: 139-159.
+Chapman, J. F., T. J. Millar, M. Wardle, M. G. Burton, and A. J. Walsh. 2009.“Cyanopolyynes in hot cores: modelling G305.2+0.2.”Monthly Notices of the Royal Astronomical Society 394: 221-230.
+Purcell, C. R., S. N. Longmore, M. G. Burton, A. J. Walsh, V. Minier, M. R. Cunningham, and R. Balasubramanyam. 2009.“Physical and chemical conditions in methanol maser selected hot cores and UCH II regions.”Monthly Notices of the Royal Astronomical Society 394 (1): 323-339.
+Green, J. A., J. L. Caswell, G. A. Fuller, A. Avison, S. L. Breen, K. Brooks, M. G. Burton, A. Chrysostomou, J. Cox, P. J. Diamond et al. 2009.“The 6-GHz multibeam maser survey – I. Techniques.”Monthly Notices of the Royal Astronomical Society 392 (2): 783-794.
+Longmore, S. N., M. G. Burton, E. Keto, S. Kurtz, and A. J. Walsh. 2009.“Too large and overlooked? Extended free–free emission towards massive star formation regions.”Monthly Notices of the Royal Astronomical Society 399: 861-877.
+Walsh, A. J., S. L. Breen, I. Bains, and W. Vlemmings. 2009.“High-velocity H2O maser emission from the post-asymptotic-giant-branch star OH 009.1–0.4.”Monthly Notices of the Royal Astronomical Society: Letters 394: L70-L73.
+Beuther, H., A. J. Walsh, and S. N. Longmore. 2009.“Hot High-Mass Accretion Disk Candidates.”The Astrophysical Journal Supplement Series 184: 366-386.
+2008
+Journal Articles (Research)
+Beuther, H., A. J. Walsh, S. Thorwirth, Q. Zhang, R. T. Hunter, S. T. Megeath, and K. M. Menten. 2008.“ATCA 3 mm observations of NGC 6334I and I(N): dense cores, outflows, and an UCH II region.”Astronomy and Astrophysics 481 (1): 169-181.
+Green, J. A., J. L. Caswell, G. A. Fuller, S. L. Breen, K. Brooks, M. G. Burton, A. Chrysostomou, J. Cox, P. J. Diamond, S. P. Ellingsen et al. 2008.“Multibeam maser survey of methanol and excited OH in the Magellanic Clouds: new detections and maser abundance estimates.”Monthly Notices of the Royal Astronomical Society 385 (2): 948-956.
+Jones, P. A., M. G. Burton, M. R. Cunningham, M. K. Menten, P. Schilke, A. Belloche, S. Leurini, J. Ott, and A. J. Walsh. 2008.“Spectral imaging of the Sagittarius B2 region in multiple 3-mm molecular lines with the Mopra telescope.”Monthly Notices of the Royal Astronomical Society 386: 117-137.
+Walsh, A. J., N. Lo, M. G. Burton, G. L. White, C. R. Purcell, S. N. Longmore, C. J. Phillips, and K. J. Brooks. 2008.“A Pilot Survey for the H2O Southern Galactic Plane Survey.”Publications of the Astronomical Society of Australia 25 (2): 105-113.
+Beuther, H., and A. J. Walsh. 2008.“Kinematics of a Hot Massive Accretion Disk Candidate.”The Astrophysical Journal 673: L55-L58.
+Additional publication categories
+Back to top
+Curtin home
+Site map
+Future students
+International students
+About Curtin
+Research
+Current students
+Staff
+CONTACT US
+Telephone enquiries
+Website feedback
+Complaints
+Emergency and security numbers
+Address
+Kent Street, Bentley, Perth
+Western Australia 6102
+LOCATIONS
+Bentley (main campus)
+Other WA campuses
+Curtin Dubai
+Curtin Malaysia
+Curtin Singapore
+LEGAL
+CRICOS Provider Code
+00301J
+ABN: 99 143 842 569
+TEQSA: PRV12158
+Copyright and accuracy
+Privacy statement
+Accessibility information
+Social media at Curtin
+ Australian Technology Network of Universities
+Page last modified: 20 April 2016

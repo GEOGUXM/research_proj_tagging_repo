@@ -1,0 +1,66 @@
+###AuthorName=David Carchedi
+###AuthorTitle=postdoc
+###Affiliation=
+###Position=Assistant Professor of Mathematics
+##############################
+                      David Carchedi
+About
+Research
+Publications
+Teaching
+Positions
+Seminars
+David Carchedi, Assistant Professor of Mathematics
+I am an assistant professor of mathematics at George Mason University.
+I completed my PhD in 2011 under the supervision of Ieke Moerdijk at Utrecht University, in the Netherlands. My thesis title was "Categorical Properties of Topological and Differentiable Stacks."
+Click here for a PDF version
+Email:
+davidcarchedi@gmail.com
+Thesis
+Categorical Properties of Topological and Diffentiable Stacks
+Prezi
+A prezi outlining some of my research areas. It was part of my presentation in MPI's Oberseminar in 2012
+(Outdated)
+Curriculum vitae
+                                                                                                                                                Research
+A central theme of my research is applications of higher category theory to topology and differential and algebraic geometry. In particular, I am interested in derived geometry. I also maintain an active interest in field theory.
+I am currently involved in many different research projects. One of the larger endeavors I am working on is an active collaboration with Dima Roytenberg centered around modeling derived manifolds using differential graded manifolds. I am also working with Hiro Tanaka on extended these ideas to the infinite dimensional setting.
+Publications
+Published Papers
+1. Higher Orbifolds and Deligne-Mumford Stacks as Structured Infinity Topoi. Memoirs of the American Mathematical Society (Accepted) arXiv link
+2. Kato-Nakayama spaces, infinite root stacks, and the profinite homotopy type of log schemes with Scherotzke S., Sibilla N., and Talpo M. Geometry & Topology (to appear) arXiv link
+3. On The Homotopy Type of Higher Orbifolds and Haefliger Classifying Spaces. Advances in Mathematics, Volume 294, 14 May 2016, Pages 756–818 arXiv link
+4. Correction to the article : An étalé space construction for stacks. Algebraic & Geometric Topology 16(1):541-546, February 2016
+5. On Theories of Superalgebras of Differentiable Functions. Theory and Applications of Categories, Vol. 28, 2013, No. 30, pp 1022-1098. with Roytenberg D.
+6. An Étalé Space Construction for Stacks. Algebraic & Geometric Topology 13(2):831-903, 2013
+7. Compactly Generated Stacks: A Cartesian closed theory of topological stacks. Advances in Mathematics, Volume 229, Issue 6, April 1 2012, Pages 3339-3397 arXiv link
+Preprints
+On the étale homotopy type of higher stacks
+Homological Algebra for Superalgebras of Differentiable Functions with Roytenberg D.
+Étalé Stacks as Prolongations
+Sheaf Theory for Étale Geometric Stacks
+Additional Material
+Informal notes about Étale stacks I wrote for Alan Weinstein: A Quick Note on Étale Stacks
+PhD Thesis
+  Teaching
+
+Math 629 Algebraic Topology I GMU (spring 2017)
+Math 649 Category Theory GMU (fall 2016)
+Math 631 Graduate Topology GMU (spring 2016)
+Math 321 Abstract Algebra GMU (fall 2015)
+Math 101 (Calc II), Sec. 205 (UBC 2015)
+Master's Course on Topos Theory (University of Bonn 2013)
+Positions
+I was a postdoc with Kai Behrend at the University of British Columbia from 2014-2015.
+I was a postdoc at the Max Planck Institute for Mathematics from 2011-2014.
+I was a Visiting Scholar at UC Berkeley from Jan.-May of 2014 with Alan Weinstein.
+I was a Visiting Scholar at MIT during the summers of 2009, 2010, 2012, and 2013.
+Before starting my PhD at Utrecht, I spent a year in Utrecht as a participant in the Master Class in Symplectic Geometry from 2006-2007.
+I also participated quite a bit in the Master Class in Calabi-Yau Geometry from 2008-2009.
+In Fall of 2002, I was a participant in the "Math in Moscow Program."
+Seminars
+Past Seminars
+Higher Differential Geometry Seminar (co-organizer, w/ Christian Blohmann and Peter Teichner)
+Student Seminar on Higher Categories I
+Student Seminar on Higher Categories II
+                                                                                    ©2013 David Carchedi     ©2013 Smoking Hen Studios

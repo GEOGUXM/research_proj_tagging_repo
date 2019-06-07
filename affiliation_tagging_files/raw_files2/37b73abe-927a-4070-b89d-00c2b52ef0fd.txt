@@ -1,0 +1,108 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Statistics and Actuarial Science
+This site SFU.ca
+A-Z DIRECTORY
+SIGN IN
+HOME
+UNDERGRADUATE STUDIES
+GRADUATE STUDIES
+RESEARCH
+Computing Info
+Departmental Seminar Series
+M.Sc. and Ph.D. Thesis Defences
+Graduate Theses
+Meetings and Workshops
+Undergraduate Student Research Awards
+CONSULTING
+CONTACT US
+K-12 TEACHERS
+PEOPLE
+TEACHING
+JOBS
+NEWS AND EVENTS
+DEPARTMENT NEWSLETTERS
+ADMINISTRATION
+IT SUPPORT
+Home / Research / Undergraduate Student Research Awards
+Undergraduate Student Research Awards
+The Undergraduate Student Research Awards (USRA) programs expose undergraduate students to research, with the goal of encouraging students to pursue graduate studies leading to research careers. Previous students have been able to link their USRA to a co-op work term; please contact the Science Co-op office for more information on this possibility.  If you wish to obtain credit for a co-op work term through your USRA, please check with your supervisor first.
+Science students have access to two programs, the Natural Sciences and Engineering Research Council (NSERC) USRA program and the SFU Vice President, Research (VPR) USRA program. NSERC USRAs are restricted to Canadian citizens and permanent residents; VPR USRAs are open to international students. For more information, please see the SFU Dean of Graduate Studies USRA website.  
+The Department of Statistics and Actuarial Science is hoping to appoint six students during the summer of 2017. The list of proposed projects is given below, and may be updated in the coming weeks.
+Goodness of Fit Testing for Poisson Regression Models                                                 Supervisor: Tom Loughin
+The real relationship from which data are drawn may not adhere to a proposed model for this structure.  Goodness-of-fit (GOF) tests help to identify when a model is a poor fit for a given dataset.  A special GOF test for logistic regression models, the Hosmer-Lemeshow test, has been extensively studied.  A parallel test for Poisson regression models has been proposed, but its performance features are not well known.  We will research the literature for past studies of a GOF test for Poisson regression test, and perform a simulation study to explore the ability of this test to identify poor-fitting models.   
+Inflation Modelling: Implications for Insurers and Pension Plans                               Supervisor: Jean-François Bégin
+Fluctuation in the general price level of goods and services is reflected through the inflation rate. Despite rather small changes in the inflation rate over the past two decades, the last recession created the potential for price instability. Lately, inflation risk has become much more symmetric, and a fear that inflation may fall too low has emerged.
+Insurance and pension liabilities are sensitive to unexpected inflation. Different approaches have been proposed to account for inflation in actuarial science. In this project, we will review the literature, collect data, estimate the most popular models, and investigate the financial implications of inflation. 
+What's the successful trading rules in stock market?                                                     Supervisor: Jiguo Cao
+Can the technical trading rules consistently generate profits? Are their success just being lucky? This project will use the historical data for stock prices to compare some popular trading rules and investigate some novel trading rules. This project will be collaborated with Prof. Jijun Niu in finance at SFU. Another potential project is to analyze the effect of air pollution to public health. 
+Sports Analytics                                                                                                                     Supervisor: Tim Swartz
+This project involves prediction in golf through the use of the Shot Link dataset which records detailed records on every shot taken on the PGA tour.
+Identifying and Cataloging Minimal SOS Designs                                                                Senior Supervisor: Boxin Tang
+Second order saturated (SOS) designs allow all their degrees of freedom to be used in estimating main effects and two-factor interactions. Obviously, adding a factor to an SOS design still gives an SOS design. An SOS design is said to be minimal if it is no longer minimal after any of its factors is deleted. Thus, all SOS designs can be obtained if we know all minimal SOS designs. The main objective of this project is to explore, identify and catalog all SOS designs for small run sizes. The secondary objective is to find some good SOS designs under the minimum aberration or other robust design criteria. Having STAT 430 is a plus but not required. The project will involve some paper reading and R programming.
+Comparison of software packages in Bayesian phylogenetics                                       Senoir Supervisor: Liangliang Wang
+Bayesian phylogenetics, which approximates a posterior distribution of phylogenetic trees using molecular sequences,  has become more and more popular with the development of  Monte Carlo methods.  This project involves investigating several popular software packages in Bayesian phylogenetics, comparing them with my proposed algorithms using simulation studies and real data analysis, and then summarizing the results. R programming and good writing are required. Being familiar with Java is a plus but not required. 
+and attach an up to date unofficial transcripts (not an advising transcript)
+f you are interested in applying, here are the steps that you need to do:
+Step 1
+A - If you wish to apply for the NSERC USRA, go online at the NSERC site: www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA- BRPC_eng.asp. Please submit the following: printed NSERC Form 202 (Part I) with your NSERC Online Reference #, photocopies of current official transcript (advising transcripts are not acceptable), to the Grad Secretary in the Department of Statstics & Actuarial Science Room SC K10547 by January 29, 2017.
+B - If you are only VPR USRA-eligible, go to www.sfu.ca/dean-gradstudies/awards/undergraduate-awards/sciences-awards.html and complete the application form, print it and attach an up to date unofficial transcripts (not an advising transcript) to the Grad Secretary in the Department of Statstics & Actuarial Science Room SC K10547 by January 29, 2017.
+Step 2 
+The department will A-rank and B-rank applicants. I will then ask supervisors to fill out some forms. Selected students will then be notified and ask to do some more online stuff that needs to be completed by the inflexible February 9, 2017 deadline.
+NSERC & VPR USRA Holders
+2016
+Description Supervisor Student Semester Award Type
+Sports Analytics T. Swatz E. Adeeb Summer NSERC USRA
+Spatial Multivariate Probit Models and Variable Selection D.Campbell / D.Bingham Maude Lachain-Loisell Summer NSERC USRA
+Are first and second born children more likely to be female? R. Altman F. Villasenor Summer VPR USRA
+Good Hadamard Matrices B. Tang A. Chen
+Summer VPR USRA
+Buhlmann-based approaches to modelling mortality rates for multiple populations C. Tsai D. Wu Summer VPR USRA
+A Hidden Markov Model for Time-dependent Recommendation L. Wang J. Zhang Summer   VPR USRA
+2015
+Description Supervisor Student Semester Award Type
+Model Development for Quality of Life (QOL) Planner
+J. Hu
+P. Swartz Summer NSERC USRA
+Measuring Intergenerational Equity in Pension Plans Y. Lu/B. Sanders N. Easau Summer NSERC USRA
+Modeling and analysis of insurance loss data B. Sanders/Y. Lu H. Li Summer VPR USRA
+Wrangling the Pediatric Vasculitis Database J. Graham A. Chen
+Summer VPR USRA
+Procedures to Prepare the ADNI Genomic Data for Statistical Analysis J. Graham
+W. Wang Summer VPR USRA
+Soccer Analytics T. Swartz
+Y. Wu Summer   VPR USRA
+2014
+Description Supervisor Student Semester Award Type
+Regression trees with heteroscedastic data T. Loughin W. Ruth Summer NSERC USRA
+Alternatives to Gaussian Processes for Model Calibration D. Bingham P. Swartz Summer NSERC USRA
+Prioritizing sequence variants from cancer families J. Graham J. Voong Summer NSERC USRA
+Methods for parameter-driven and wait time models R. Altman C. Zheng Summer VPR USRA
+Target benefit plan modelling B. Sanders J. Wang Summer VPR USRA
+  Admission
+Programs
+Learning
+Research
+Community
+About
+Maps + directions
+Library
+Academic Calendar
+Road Report
+Give to SFU
+CONNECT WITH US
+Facebook
+Twitter
+YouTube
+CONTACT US
+Department of Statistics & Actuarial Science
+Simon Fraser University
+Room SC K10545
+8888 University Drive
+Burnaby, B.C.
+Canada V5A 1S6
+Terms and conditions
+© Simon Fraser University

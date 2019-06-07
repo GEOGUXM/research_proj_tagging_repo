@@ -1,0 +1,56 @@
+###AuthorName=Lina Battestilli
+###AuthorTitle=Dr
+###Affiliation=Computer Science
+###Position=Teaching Assistant Professor
+##############################
+NC State Home
+RESOURCES
+Computer Science
+About
+Academics
+Research
+People
+News
+Contact
+Dr. Lina Battestilli, Teaching Assistant Professor
+2256 EB II
+Phone: 919-513-0638
+lbattestilli AT ncsu.edu
+Web Site     Campus Map
+
+Biography
+Lina Battestilli received her Ph.D. in Computer Science from NCSU in August 2005, her masters in Computer Networking in August 2002 also at NCSU and her BS in Electrical Engineering and Minor in Applied Mathematics from Kettering University in 1999.
+
+Prior to joining North Carolina State University, she was a network research engineer at the Next Generation Computing Systems at IBM Research.  She worked on the PowerEN Technology, a blur between general purpose and networking processors and hardware accelerators.  She identifed and studied workloads at the edge of the network that required high-throughput and fast deep-packet processing.  
+
+Her research interests include the transformation of Datacenter networking to support Cloud Computing, Software Defined Networking, Openflow, techniques and uses of Deep Packet Processing, scale-out architectures, advanced scheduling of network resources, Control & Management plane design and development.
+
+Dr. Battestilli’s is also interested in innovation in Computer Science Education, especially via the use of Cloud Computing Technology.
+Research Areas
+Cloud Computing
+Networking and Performance Evaluation
+Publications
+Lina Battestilli, Terry Nelms, Steven W. Hunter, Gary Shippy, ”High Performing Scale-Out Solution for Deep Packet Processing via Adaptive Load Balancing”, Proceedings of the 18th IEEE Workshop on Local and Metropolitan Area Networks (LANMAN 2011), October 2011, Chapel Hill, NC. (best paper award)
+Lina Battestilli, Gary Shippy, Terry Nelms and Steven W. Hunter, ”Load-balancing via Modulus Distribution and TCP Redirection due to Server Overload”, IBM Patent 2010
+L. Battestilli, H. Perros, S. Chukova,” Burst Lost Probabilities in a Network with Simultaneous Link Possession: A Single-Node Decomposition Algorithm”, IET Communications, vol 3, no. 3, pp.441-453, March 2009
+Gigi Karmous-Edwards, Arun Viswanath, Douglas Reeves, Lina Battestilli, Priyanka Vegesna, George N. Rouskas, ”Edge-Recon?gurable Optical Networks (ERONs): Rationale, Network Design and Evaluation”, IEEE/OSA Journal of Lightwave Technology, vol. 27, no.12, pp. 1837-1845, June 15, 2009
+Department of Computer Science
+College of Engineering
+Campus Box 8206
+890 Oval Drive
+Engineering Building II
+Raleigh, NC 27695
+Contact Us
+Employment
+Events
+Gallery
+Facebook
+Twitter
+Instagram
+
+YouTube
+Linked In
+Flickr
+Campus Map
+© 2017 NC State University. All rights reserved.
+About this site

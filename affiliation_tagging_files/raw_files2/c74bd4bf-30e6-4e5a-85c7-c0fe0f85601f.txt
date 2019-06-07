@@ -1,0 +1,91 @@
+###AuthorName=ROBERT HASELKORN
+###AuthorTitle=Professor
+###Affiliation=Department of Chemistry
+###Position=Professor Emeritus
+##############################
+Skip to main content
+Search
+UChicago Home
+News & Awards
+Events
+Contact
+ABOUT
+HISTORY
+SEMINARS
+RESEARCH
+FACILITIES
+STAFF
+GRADUATE
+POSTDOCTORAL
+FACULTY
+UNDERGRADUATE
+Back to all Faculty
+ROBERT HASELKORN
+Fanny L. Pritzker Professor Emeritus
+OFFICE: CLSC 1039A
+PHONE: (773)702-1069
+FAX: (773)702-2853
+EMAIL: rh01@uchicago.edu
+Research Interests:
+We study the molecular genetics of nitrogen fixation and photosynthesis in cyanobacteria and purple bacteria. We also study genes encoding the enzyme acetyl-CoA carboxylase in plants, parasites, and mammals.
+The cyanobacterium Anabaena grows in filaments of 100 cells or more. When starved for nitrogen, specialized cells called heterocysts differentiate from the photosynthetic vegetative cells at regular intervals along each filament. Heterocysts are anaerobic factories for nitrogen fixation; in them, the nitrogenase enzyme complex is synthesized and the components of the oxygen-evolving photosystem II are turned off. More than 1000 genes are believed to be differentially expressed during the (irreversible) development of a heterocyst from a vegetative cell. We have cloned and sequenced genes for nitrogen fixation (nif) and others encoding RuBP carboxylase, glutamine synthetase, the D1, CP-47 and water-oxidizing proteins of photosystem II, all the components of phycobilisome rods, and the sigma and core sub-units of RNA polymerase. Mutants unable to fix nitrogen aerobically have been isolated. Among these are some that have altered heterocyst morphology or an altered pattern. Four of these have been studied in detail, using a complementation system to isolate the wild-type gene defective in the mutants. One mutant fails to deposit the necessary glycolipid layer that forms part of the heterocyst envelope. A second mutant fails to make any heterocysts at all. A third makes them only at the ends of filaments. A fourth makes them too late and too frequently! In these cases, the sequences of the complementing genes are highly informative, corresponding to proteins that participate in environment-sensing regulatory cascades.
+The relationships among these regulatory proteins are being worked out by using the Green Fluorescent Protein from the jellyfish as a cell-specific reporter of gene expression and by controlling expression of the genes with a Cu++-responsive promoter. Fatty acid synthesis, in plants as well as in cyanobacteria, begins with the reaction catalyzed by acetyl-CoA carboxylase (ACC). ACC in bacteria, including cyanobacteria, is comprised of four subunits: biotin carboxyl carrier protein (BCCP), biotin carboxylase (BC), and two subunits of carboxyltransferase. In chicken, rat, yeast and plants all of these domains reside in a single polypeptide. We have cloned and sequenced genes encoding BC and BCCP from two cyanobacteria and used this information to design probes for the cloning of ACC cDNA from wheat. We have a complete cDNA for the wheat cytoplasmic enzyme and have expressed it in yeast. It turns out that wheat chloroplasts also have an ACC and this one is the real target of the grass-specific herbicides. The chloroplast ACC has been expressed in yeast also, as a chimera with the N-terminal half coming from the cytoplasmic enzyme. This system was used to identify the amino acid residue that is responsible for sensitivity or resistance to the herbicides. Parasites such as malaria and Toxoplasma contain a primitive chloroplast called the apicoplast. We discovered that the apicoplast contains an ACC that is similar to the chloroplast enzyme of grasses and we have shown that it is the target of the same herbicides that kill grasses.
+One of our herbicides inhibits the growth of Toxoplasma in human cells in culture and also inhibits the multiplication of Plasmodium yoelli in the mouse. We intend to use the yeast gene-replacement system to screen for new inhibitors of these parasites. Humans also have two forms of ACC. One, expressed in the cytoplasm of liver and fat cells, is essential for fatty acid synthesis. The other form is expressed in muscle cells and is transported into mitochondria, where it plays a role in the regulation of fatty acid oxidation. Mice without this second form eat a lot and do not gain weight. We are cloning and expressing the human ACCs in yeast and using those yeast strains to screen for inhibitors of ACC2 that do not affect ACC1. These inhibitors will be good candidates for drugs to treat obesity. ACC also provides an entry into cancer research. The human protein BRCA1 is involved in breast cancer. Recently it has been shown by others to form tight complexes with ACC. Since we are already cloning the human ACC gene, we can look at the ACC domains involved in that interaction and determine which ACC activities are present in the complex.
+Selected References
+Complex nested promoters control tissue-specific expression of acetyl-CoA carboxylase genes in wheat. PNAS, 101, 1403-1408 (2004).
+  Genome sequence of Bacillus cereus and comparative analysis with Bacillus anthracis. Nature, 423, 87-91 (2003).
+  Expression of the Anabaena hetR gene from a copper-regulated promoter leads to heterocyst differentiation under repressing conditions. Proc. Natl. Acad. Sci. USA, 98, 2729-2734, (2001).
+  Subcellular localization of acetyl-CoA carboxylase in the apicomplexan parasite Toxoplasma gondii. Proc. Natl Acad. Sci USA, 98, 2723-2728, (2001).
+  Growth of Toxoplasma gondii is inhibited by aryloxyphenoxypropionate herbicides targeting acetyl-CoA carboxylase. Proc. Natl. Acad. Sci. USA, 96,13387-13392, (1999).
+  Heterocyst differentiation and nitrogen fixation in the cyanobacterium Anabaena. in Highlights of Nitrogen Fixation Research, Kluver Academic Press, New York, pp 185-188. (1999).
+  Research Areas
+Chemical Biology
+Education & Positions
+Princeton University, A.B., 1956
+Harvard University, Ph.D., 1959
+American Cancer Society Postdoctoral Fellow, Cambridge, England, 1959-1961
+The University of Chicago, Professor, 1961-
+Joint Appointment in the Department of Molecular Genetics and Cell Biology
+Faculty Accolades
+Fellow, American Academy of Arts and Sciences
+Adriano Buzatti-Traverso Memorial Lecture, Rome 1997
+Gregor Mendel Medal in Biological Science, Academy of Sciences of the Czech Republic 1996
+Vice-President and Chair of the Midwest Center 1993-
+Fellow, Sackler Institute for Advanced Study, Tel Aviv University 1987
+Darbaker Prize of the Botanical Society of America 1982
+Guggenheim Fellow 1975
+Llewellyn John and Harriett Manchester Quantrell Award for Excellence in Undergraduate Teaching, The University of Chicago 1974
+Interstate Postgraduate Medical Association Research Award 1967
+U.S. Public Health Service Research Career Development Award 1963-1969
+Member, National Academy of Sciences
+Graduate Studies
+The Ph.D. program in the Department of Chemistry offers wide opportunity and unusual flexibility for advanced study and research, and is designed to encourage individuality, independence, and excellence in students.
+Undergraduates
+Typically by fall or winter quarter of your junior year, if you are considering graduate study in chemistry or a related field, you should seek out an opportunity to do research.
+Postdoctorates
+Postdoctoral research opportunities to work alongside the world's foremost chemistry faculty are available at the University of Chicago.
+About the Department
+Faculty
+Research
+Facilities
+News & Awards
+Events
+Alumni
+Career and Jobs
+Giving to Chemistry
+Contact
+Contact Us
+Enter your e-mail address below to contact the Department of Chemistry with any questions.
+GO
+Facebook
+Twitter
+LinkedIn
+YouTube
+Instagram
+The University of Chicago
+Department of Chemistry
+5735 S Ellis Ave, Chicago, IL 60637
+Phone: 773-702-7250
+Copyright 2017 University of Chicago Chemistry
+Sitemap
+ShareThis Copy and Paste

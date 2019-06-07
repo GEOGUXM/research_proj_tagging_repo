@@ -1,0 +1,123 @@
+###AuthorName=Nigel Wilson
+###AuthorTitle=Professor
+###Affiliation=Department of Civil and Environmental Engineering
+###Position=
+##############################
+Home
+About
+Undergraduate
+Graduate
+Postdoctorate
+Research
+People
+Resources and Opportunities
+Events
+Blog
+Contact
+Apply
+Nigel Wilson
+Professor
+Research Interests: urban transportation systems
+Connect
+MIT
+Room 1-238
+77 Massachusetts Avenue
+Cambridge, MA, 02139
+Telephone: 617.253.5046
+Email: nhmw@mit.edu
+Assistant: Tse Yiu, Mei-Chun Ruth / ryiu@mit.edu
+Research Website: http://transitlab.mit.edu
+Education
+B.Sc.(Eng) 1965, Imperial College, London University
+S.M. 1967, MIT
+Ph.D. 1970, MIT
+Research Interests
+Public transportation
+Transport system design
+New transportation systems
+Selected Publications
+1. Wilson, N., “Opportunities Provided by Automated Data Collection Systems,” in ‘Restructuring Public Transport through Bus Rapid Transit.” The Policy Press, University of Bristol, publication pending (February 2016).
+2. Sanchez-Martinez, G.E., H.N. Koutsopoulos, and N.H.M. Wilson.  “Event-Driven Holding Control for High-Frequency Transit.”  Transportation Research Record: Journal of the Transportation Research Board, No. 2535, pp 65-72 (2015).
+3. Delgado, F., J.C. Munoz, R. Giesen, and N.H.M. Wilson.   “Integrated Real-Time Transit Signal Priority Control for High-Frequency Transit Service.”  Transportation Research Record: Journal of the Transportation Research Board, No. 2533, pp 28-38 (2015).
+4. Tribone, D., D. Block-Schachter, F.P. Salvucci, J. Attanucci, and N.H.M. Wilson.  “An Automated Data Driven Performance Regime for Operations Management, Planning, and Control.” Transportation Research Record: Journal of the Transportation Research Board, No. 2415, pp 72-79 (2014).
+5. TRB Special Report 313 (co-author): “Framing Surface Transportation Research for the Nation’s Future.”  National Academy of Engineering, Research Frameworks Committee (2013).
+6. Zhao, J., M. Frumin, N. Wilson, and Z. Zhao, “Unified estimator for excess journey time under heterogeneous passenger incidence behavior using smartcard data.”  Transportation Research Part C: Emerging Technologies 34, pp 70–88 (2013).
+7. Gordon, J.B., H.N. Koutsopoulos, N.H.M. Wilson, and J.P. Attanucci.  “Automated Inference of Linked Transit Journeys in London Using Fare-Transaction and Vehicle Location Data.” Transportation Research Record: Journal of the Transportation Research Board, No. 2343, pp 17-24 (2013).
+8. Frumin, M., J. Zhao, N.H.M. Wilson, and Z. Zhao.  “Automatic Data for Applied Railway Management: A Case Study on the London Overground. Transportation Research Record: Journal of the Transportation Research Board, No. 2353, pp 47-56 (2013).
+9. Hickey, S.W., E.C. Paul, and N.H.M. Wilson.  “Using automatically collected data to measure passenger experience: Applications to London Underground.”  Proceedings of the 12th Conference on Advanced Systems for Public Transport.  Santiago, Chile, July 2012.
+10. Raveau, S., Z. Guo, J.C. Muñoz, and N.H.M. Wilson.  “Route Choice Modelling on Metro Networks.” Proceedings of the 12th Conference on Advanced Systems for Public Transport.  Santiago, Chile, July 2012.
+11. Wang, W., J.P. Attanucci, and N.H.M. Wilson.  “Bus Passenger Origin-Destination Estimation and Related Analyses Using Automated Data Collection Systems.” Journal of Public Transportation, Vol. 14, No. 4, pp 111-130 (2011).
+12. Guo, Z. and N.H.M. Wilson. ” Assessing the Cost of Transfer Inconvenience in Public Transport Systems: A Case Study of the London Underground.” Transportation Research Part A: Policy and Practice. Vol. 45, Issue 2, pp 91-104 (2011).
+13. Extraboard Workforce Planning for Bus Transit Operations. Gupta, D., F. Li, and N. Wilson.  Center for Urban and Regional Affairs, University of Minnesota.  CURA Reporter Volume 41, No. 3 and 4, pp 11-18 (2011).
+14. Carrel, A., R.G. Mishalani, N.H.M. Wilson, J. Attanucci, and A.B. Rahbee. “Decision Factors in Service Control on a High‐frequency Metro Line and Their Importance in Service Delivery.” Transportation Research Record: Journal of the Transportation Research Board, Vol. 2146, pp 52-59 (2010).
+15. Uniman, D.L., J. Attanucci, R.G. Mishalani, and N.H.M. Wilson. “Service Reliability Measurement Using Automated Fare Card Data: Application to the London Underground.” Transportation Research Record: Journal of the Transportation Research Board, pp 92-99 (2010).
+16. van Oort, N., N.H.M. Wilson, and R. van Nes. “Reliability Improvement in Short Headway Transit Services: Schedule- and Headway-Based Holding Strategies.” Transportation Research Record: Journal of the Transportation Research Board, V 2143, pp 67-76 (2010).
+17. Zureiqat, H., N.H. Wilson, and J. Attanucci. “Fare Policy Analysis for Public Transport: A Discrete-Continuous Modeling Approach Using Panel Data.” TRB Paper #09-1591.  In Proceedings of the 88th Annual Meeting of the Transportation Research Board.  CD-ROM.  Transportation Research Board of the National Academies, Washington D.C. (2009).
+18. Seaborn, Catherine, N.H.M. Wilson, and J. Attanucci. “Using Smart Card Fare Payment Data to Analyze Multimodal Public Transport Journeys in London.” Transportation Research Record: Journal of the Transportation Research Board, pp 55-62 (2009).
+19. Wilson, N.H.M., A. Rahbee, and J. Zhao. “The Potential Impact of Automated Data Collection Systems on Urban Public Transport Planning.” Schedule-Based Modeling of Transportation Networks: Theory and Applications, pp 75-99. Springer, 2009.
+20. Wilson, N.H.M. and A. Nuzzolo (eds.), Schedule-Based Modeling of Transportation Networks: Theory and applications. Operations Research/Computer Science Interfaces Series, Vol. 46. Springer (2008).
+21. Wilson, Nigel H.M., John P. Attanucci, Joanne Chan, and Alex Cui. 2008. “The use of automated data collection systems to improve public transport performance.” Proceedings of the 10th International Conference on Application of Advanced Technologies in Transportation. Athens, May 2008.
+22. Panglinan, C., N.H.M. Wilson and A. Dluger. “Bus Supervision Deployment Strategies and the Use of Real-Time AVL for Improved Bus Service Reliability.” Transportation Research Record: Journal of the Transportation Research Board 2063, pp 28-33 (2008).
+23. Puong, A, and N.H.M. Wilson, “A Train Holding Model for Urban Rail Transit Systems.” Proceedings of 2004 conference on Computer Aided Scheduling of Public Transport, Lecture Notes in Economics and Mathematical Systems (S. Voss, editor), pp 319-337 (2008).
+24. Guo, Z., N.H.M. Wilson, and A. Rahbee. “The Impact of Weather on Transit Ridership in Chicago.” Transportation Research Record: Journal of the Transportation Research Board, Vol. 2034, pp 3-10 (2007).
+25. Guo, Z. and N.H.M. Wilson, “Modeling the Effects of Transit System Transfers on Travel Behavior: The Case of Commuter Rail and Subway in Downtown Boston.” Transportation Research Record: Journal of the Transportation Research Board 2006, pp 11-20 (2007).
+26. Zhao, J., A. Rahbee, and N.H.M. Wilson, “Estimating a Rail Passenger Trip Origin-Destination Matrix Using Automatic Data Collection Systems.” Computer-Aided Civil and Infrastructure Engineering 22, pp 376-387 (2007).
+27. Utsunomiya, M., J. Attanucci, and N. Wilson. “Potential Uses of Transit Smart Card Registration and Transaction Data to Improve Transit Planning.” Transportation Research Record: Journal of the Transportation Research Board 1971, pp 119-126 (2006).
+28. Wilson, N.H.M., J. Zhao, and A. Rahbee, “The Potential Impact of Automated Data Collection Systems on Urban Public Transport Planning.” TRAIL Research School, Delft, May 2005.
+29. Guo, Z and N.H.M. Wilson, “Assessment of the Transfer Penalty for Transit Trips: A GIS-based Disaggregate Modeling Approach.” Transportation Research Record 1872, pp 10-18 (2004).
+30. Wilson, N.H.M. and A. Nuzzolo (eds.), Schedule-Based Dynamic Transit Modeling: Theory and Applications. Kluwer Academic Publishers (2004).
+31. Wilson, N.H.M., “An Optimal Integrated Real-Time Disruption Control Model for Rail Transit Systems.” Papers of TRAIL Seminar on Rail Operations at TU Delft, March 2002.
+32. Wilson, N.H.M., “Public Transport in the USA: A Critical Appraisal and Prospects for Future Industry Restructuring.” Papers of TRAIL Seminar on Competition, Public Transport, and Service Innovations at TU Delft, March 2002.
+33. Rye, T. and Wilson, N.H.M., “The Urban Bus Situation in the UK: Recent Developments and a Case Study of Edinburgh.” Papers of TRAIL Seminar on Competition, Public Transport, and Service Innovations at TU Delft, March 2002.
+34. Izquierdo-Encarnación, J.M.; Mercado, L.E.; Colucci, B.; Salvucci, F.P.; Wilson, N.H.M.; “A New Model for Applied University Research and Professional Development: The Tren Urbano Program.” Transportation Research Record 1812, pp 161-168 (2002).
+35. “Contracting for Bus and Demand-Responsive Transit Services” (Nigel Wilson was one of 12 committee members responsible for this report). Transportation Research Board Special Report 258, National Academy Press, Washington DC (2001).
+36. Shiftan, Y. and N.H.M. Wilson, “The Absence Consequences of Overtime in the Transit Industry”, Journal of Public Transportation, Vol. 3, No. 4, pp 25-39 (2001).
+37. Shen, S. and N.H.M. Wilson, “Optimal Integrated Real-Time Disruption Control Model for Rail Transit Systems”, Computer-Aided Scheduling of Public Transport, Lecture Notes in Economics and Mathematical Systems #505 (S. Voss and J. Daduna, co-editors), pp 335-364 (2001). 
+38. Eberlein, X.J., Bernstein, D.H. and N.H.M. Wilson, “The Holding Problem with Real-Time Information Available, Transportation Science, Vol. 35, No. 1, pp 1-18 (2001).
+39. González-Quevedo, A.A., B. Colucci, L.E. Mercado-Sherman, K.E. Kruckemeyer, and N.H.M. Wilson, “The Tren Urbano UPR/MIT Professional Development Program”, Journal of Engineering Education, pp 127-132 (2000).
+40. Wilson, N.H.M. (ed.), Lecture Notes in Economics and Mathematical Systems #471: Computer-Aided Scheduling, Springer-Verlag (1999). 
+41. Heimburger, D.E., A.Y. Herzenberg, and N.H.M. Wilson, “Using Simple Simulation Models in the Operational Analysis of Rail Transit Lines: A Case Study of the MBTA’s Red Line,” Transportation Research Record 1677, pp 21-30 (1999).
+42. O’Dell, S.W. and N.H.M. Wilson, “Optimal Real-Time Control Strategies for Rail Transit Operations During Disruptions,” Lecture Notes in Economics and Mathematical Systems #471: Computer-Aided Scheduling (ed. by N.H.M. Wilson), Springer-Verlag, pp 299-323 (1999).
+43. Eberlein, X.J., N.H.M. Wilson and D. Bernstein, “Modeling Real-Time Control Strategies in Public Transit Operations,” Lecture Notes in Economics and Mathematical Systems #471: Computer-Aided Scheduling (ed. by N.H.M. Wilson), Springer-Verlag, pp 325-346 (1999).
+44. Eberlein, X.J., M.H.M. Wilson, C. Barnhart and D. Bernstein, “The Real-Time Deadheading Problem in Transit Operations Control,” Transportation Research (Part B), Vol. 32, No. 2, pp 77-100 (1998).
+45. Wilson, N.H.M., “Dispatch/Service Management” section in Transit ITS Compendium, L.B. Wilson (Editor), Published by the Institution for Transportation Engineers (1997).
+About
+Mission
+Diversity and Inclusion
+Giving to CEE
+Contact
+Apply
+Undergraduate
+Undergraduate Degrees
+Minors
+Undergraduate Opportunities
+Undergraduate Student Life
+Educational Objectives and Outcomes
+Graduate
+Graduate Degrees
+Graduate Admissions
+Graduate Timeline and FAQ
+Graduate Funding
+Graduate Resources and Opportunities
+Graduate Student Life
+Research
+Ecological Systems
+Resources and Sustainability
+Structures and Design
+Urban Systems
+Global Systems
+People
+Faculty
+Postdocs
+Researchers
+Staff
+Faculty Search
+Lecturers
+Resources
+Resources
+Events
+Blog
+Massachusetts Institute of Technology Department of Civil and Environmental Engineering
+77 Massachusetts Avenue, Room 1-290 Cambridge, MA 02139-4307 (617) 253-7101
+Sign up for news and updates
+MIT Home

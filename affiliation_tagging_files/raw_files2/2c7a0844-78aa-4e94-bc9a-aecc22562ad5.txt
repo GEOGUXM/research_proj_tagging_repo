@@ -1,0 +1,104 @@
+###AuthorName=Sergii Veremieiev
+###AuthorTitle=Dr
+###Affiliation=School of Engineering and Computing Sciences
+###Position=Assistant Professor
+##############################
+Cookies
+We use cookies to ensure that we give you the best experience on our website. You can change your cookie settings at any time. Otherwise, we'll assume you're OK to continue.
+A-Z Index Accessibility
+Undergraduate
+Postgraduate
+International
+Research
+Business
+Alumni
+About Us
+Visitors
+School of Engineering and Computing Sciences (ECS)
+You are in: Home ⇨ ECS ⇨ Profiles
+Profiles
+Dr Sergii Veremieiev
+Personal web page
+Assistant Professor in the School of Engineering and Computing Sciences
+Telephone: +44 (0) 191 33 44287
+Room number: E323 (Floor 3.5 Christopherson)
+(email at s.veremieiev@durham.ac.uk)
+Biography
+Sergii Veremieiev obtained his Bachelor and Master degrees, both in Physics, from Donetsk National University in 2006 and 2007, respectively. Then he moved to the UK to undertake a PhD degree in Mechanical Engineering in the University of Leeds under the EST Marie Curie Research Programme. Upon completion of his PhD in 2011, he took up a research fellow position in Leeds to work in the area of Computational Fluid Dynamics. Late in 2013 he joined Liverpool John Moores University to work as a Lecturer in Mechanical Engineering. In January 2015 he started a Lectureship at the School of Engineering and Computing Sciences of Durham University.
+Research Interests
+Fluid mechanics, in particular stability analysis and modelling of free-surface and two-phase fluid flows with moving contact lines, such as thin films, droplets and rivulets, encountered in engineering and biologically related applications
+Numerical analysis, development and coding of partial differential equation solvers, such as multigrid, multifrontal and generalised minimal residual methods, high performance computing.
+Publications
+Journal Article
+Veremieiev, S., Thompson, H.M. & Gaskell, P.H. (2015). Free-surface film flow over topography: full three-dimensional finite element solutions. Computers & Fluids 122: 66-82.
+Veremieiev, S., Brown, A., Gaskell, P.H., Glass, C.R., Kapur, N. & Thompson, H.M. (2014). Modelling the flow of droplets of bio-pesticide on foliage. Interfacial Phenomena and Heat Transfer 2(1): 1-14.
+Slade, D., Veremieiev, S., Lee, Y.C. & Gaskell, P.H. (2013). Gravity-driven thin film flow: the influence of topography and thermal effects on rivulet formation. Chemical Engineering and Processing: Process Intensification 68: 7-12.
+Veremieiev, S., Thompson, H.M., Scholle, M., Lee, Y.C. & Gaskell, P.H. (2012). Electrified thin film flow at finite Reynolds number on planar substrates featuring topography. International Journal of Multiphase Flow 44: 48-69.
+Veremieiev, S., Thompson, H.M., Lee, Y.C. & Gaskell, P.H. (2011). Inertial two- and three-dimensional thin film flow over topography. Chemical Engineering and Processing: Process Intensification 50(5-6): 537-542.
+Veremieiev, S., Thompson, H.M., Lee, Y.C. & Gaskell, P.H. (2010). Inertial thin film flow on planar surfaces featuring topography. Computers & Fluids 39(3): 431-450.
+Supervises
+Mr Adam Leaver
+Mr Florian Marner
+School of Engineering and Computing Sciences
+Prospective Undergraduates
+Prospective Postgraduates
+Current Students and Staff Environment
+Research
+Industry
+People
+News
+Seminars
+School Contact Details
+Health and Safety
+The University
+Home
+About
+Jobs
+Contact Us
+Visit us
+What's On
+News
+Colleges
+Academic Departments
+Professional Support Services
+Study with Us
+Undergraduate
+Postgraduate
+International
+Course Finder
+Student Life
+Business Services
+Business Gateway
+Contacts
+Business Engagement
+Consultancy
+Research Commercialisation
+Knowledge Transfer Partnerships
+Analytical Services
+Employing Durham Graduates
+Our Research
+Research Institutes
+Research Centres
+Centres for Doctoral Training
+News and Events
+Research Directory
+Alumni
+Benefits
+Events
+Login/Register
+Volunteer
+For Students
+Student Gateway
+Dialogue Signposts (student)
+DUO
+Student appeals, complaints and discipline
+For Staff
+Staff Gateway
+Dialogue Signposts (staff)
+Staff Directory
+Updated: 21st June 2017
+Comments & Questions
+Charitable Status
+Disclaimer
+Trading Name
+Cookie Policy

@@ -1,0 +1,74 @@
+###AuthorName=Guanglei Hong
+###AuthorTitle=Ph.D
+###Affiliation=Department of Comparative Human Development
+###Position=
+##############################
+Skip to main navigation
+Skip to main content
+Department of Comparative Human Development
+University of Chicago
+Guanglei Hong
+Home
+Faculty
+News & Events
+Courses
+Undergraduate Students
+Prospective Graduate Students
+Current Ph.D. Students
+Lecturers and Postdoctoral Researchers
+Alumni
+75 years of Comparative Human Development
+Contact Us
+Search
+  ghong@uchicago.edu
+Guanglei Hong obtained a Master's degree in Statistics and a Ph.D. in Education from the University of Michigan in 2004. She is a member of the Committee on Education at the University of Chicago. Before joining the University of Chicago faculty in July 2009, she had been an Assistant Professor in the Human Development and Applied Psychology Department in the Ontario Institute for Studies in Education of the University of Toronto.
+Research
+She has focused her research on developing causal inference theories and methods for evaluating educational and social policies and programs in multi-level, longitudinal settings. Her work addresses issues including (1) how to conceptualize and evaluate the causal effects of treatments when individual responses to alternative treatments depend on various features of the organizational settings, (2) how to adjust for selection bias in estimating the effects of concurrent multi-valued treatments, (3) how to evaluate the cumulative effects of time-varying treatments, and (4) how to conceptualize and analyze the causal mediation mechanisms.
+Because advancements in these quantitative research methods are best illustrated and utilized through empirical investigations of prominent scientific issues, she communicates with a broad audience through applying the causal inference methods to studies of specific policies and practices in education and beyond.
+Her research has received support from the Social Sciences and Humanities Research Council of Canada, the Spencer Foundation, the National Academy of Education, the American Educational Research Association Grants Program, the William T. Grant Foundation, and the US Department of Education Institute of Education Sciences among other sources of funding. She has been elected to serve on the Editorial Boards of the Journal of Educational and Behavioral Statistics, Educational Evaluation and Policy Analysis, the Journal of Research on Educational Effectiveness, and Effective Education. She served as the Guest Editor for the Journal of Research on Educational Effectiveness special issue on the statistical approaches to studying mediator effects in education research in 2012.
+Teaching
+She teaches quantitative methods courses including Applied Statistics in Human Development Research, Causal Inference, and Mediation, Moderation, and Spillover Effects.
+Contact Information
+ghong@uchicago.edu
+Personal website: http://voices.uchicago.edu/ghong/
+Publications (selective)
+Book
+Hong, G. (2015). Causality in a social world: Moderation, mediation, and spill-over. West Sussex, UK: Wiley-Blackwell.
+Articles
+Hong, G., Deutsch, J., & Hill, H. D. (in press). Ratio-of-mediator-probability weighting for causal mediation analysis in the presence of treatment-by-mediator interaction. Journal of Educational and Behavioral Statistics.
+Qin, X., & Hong, G. (2014). Causal mediation analysis in multi-site trials: An application of ratio-of-mediator-probability weighting to the Head Start Impact Study. In JSM Proceedings, Social Statistics Section. Alexandria, VA: American Statistical Association, pp.912-926.
+VanderWeele, T., Hong, G., Jones, S., & Brown, J. (2013). Mediation and spillover effects in group-randomized trials: A case study of the 4R’s educational intervention. Journal of the American Statistical Association, 108(502), 469-482.
+Hong, G., Raudenbush, S. W. (2013). Heterogeneous agents, social interactions, and causal inference. In the Handbook of Causal Analysis for Social Research (pp.331-352) edited by Stephen L. Morgan. NY: Springer.
+Hong, G. (2013). Covariate-informed parallel design: Discussion of “experimental designs for identifying causal mechanisms” by Imai, Tingley, and Yamamoto. Journal of the Royal Statistical Society, Serial A, 176, 35.
+Hong, G., & Nomi, T. (2012). Weighting methods for assessing policy effects mediated by peer change. Journal of Research on Educational Effectiveness special issue on the statistical approaches to studying mediator effects in education research, 5(3), 261-289.
+Hong, G., & Nomi, T. (2012). Rejoinder. Journal of Research on Educational Effectiveness special issue on the statistical approaches to studying mediator effects in education research, 5(3), 299-302.
+Hong, G. (2012). Editorial comments. Journal of Research on Educational Effectiveness special issue on the statistical approaches to studying mediator effects in education research, 5(3), 213-214.
+Hong, G. (2012). Marginal mean weighting through stratification: A generalized method for evaluating multi-valued and multiple treatments with non-experimental data. Psychological Methods, 17(1), 44-60.
+Hong, G., Corter, C., Hong, Y., & Pelletier, J. (2012). Differential effects of literacy instruction time and homogeneous grouping in kindergarten: Who will benefit? Who will suffer? Educational Evaluation and Policy Analysis, 34(1), 69-88.
+Hong, G., Nomi, T., & Yu, B. (2012). Prognostic score-based difference-in-differences. In JSM Proceedings, Social Statistics Section. Alexandria, VA: American Statistical Association, 4952-4966.
+Hong, G., Deutsch, J., & Hill, H. (2011). Parametric and non-parametric weighting methods for estimating mediation effects: An application to the National Evaluation of Welfare-to-Work Strategies. In JSM Proceedings, Social Statistics Section. Alexandria, VA: American Statistical Association, 3215-3229.
+Hong, G. (2010). Marginal mean weighting through stratification: Adjustment for selection bias in multilevel data. Journal of Educational and Behavioral Statistics, 35(5), 499-531.
+Chen-Bumgardner, X., Xu, F., Kim, N., Hong, G., Wang, Y. (2010). Effects of cross-language transfer on first language phonological awareness and literacy skills in Chinese children receiving English instruction. Journal of Educational Psychology, 102(3), 712-728.
+Hong, G. (2010). Ratio of mediator probability weighting for estimating natural direct and indirect effects. In JSM Proceedings, Biometrics Section, Alexandria, VA: American Statistical Association. 2401-2415.
+Hong, G., & Hong, Y. (2009). Reading instruction time and homogeneous grouping in kindergarten: An application of marginal mean weighting through stratification. Educational Evaluation and Policy Analysis, 31(1), 54-81.
+Hong, G., & Raudenbush, S. W. (2008) Causal inference for time-varying instructional treatments. Journal of Educational and Behavioral Statistics, 33(3), 333-362.
+Hong, G., & Yu, B. (2008). Effects of kindergarten retention on children’s social-emotional development: An application of propensity score method to multivariate multi-level data. Special Section on New Methods in Developmental Psychology, 44(2), 407-421.
+Hong, G., & Yu, B. (2007). Early grade retention and children’s reading and math learning in elementary years. Educational Evaluation and Policy Analysis, 29(4), 239-261.
+Hong, G., & Raudenbush, S. W. (2006). Evaluating kindergarten retention policy: A case study of causal inference for multi-level observational data. Journal of the American Statistical Association, 101(475), 901-910.
+Hong, G., & Raudenbush, S. W. (2005). Effects of kindergarten retention policy on children's cognitive growth in reading and mathematics. Educational Evaluation and Policy Analysis, 27(3), 205-224.
+Hong, G., & Raudenbush, S. W. (2003). “Causal inference for multi-level observational data with application to kindergarten retention study." In JSM 2003 Proceedings, Social Statistics Section, Alexandria, VA: American Statistical Association. 1849-1856.
+Awards
+William T. Grant Scholar, William T. Grant Foundation, 2009-2014
+NAE/Spencer Postdoctoral Fellowship, National Academy of Education and Spencer Foundation, 2006-2007
+AERA Mary Catherine Ellwein Outstanding Dissertation Award – Measurement and Quantitative Research Methodology, American Educational Research Association, Division D, 2005
+Spencer Dissertation Fellowship for Research Related to Education, Spencer Foundation, 2003-2004
+Joint Statistical Meetings Student Paper Competition Award, American Statistical Association, 2003
+AERA Dissertation Grant, American Educational Research Association, 2002-2003
+The University of Chicago
+©2017 The University of Chicago
+Department of Comparative Human Development
+Mailing Address:
+Social Sciences Research Building
+Office 103, 1126 East 59th Street
+Chicago, IL 60637
+Office Location: 1101 East 58th Street, Rosenwald 3rd Floor Chicago, IL 60637

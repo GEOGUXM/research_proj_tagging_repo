@@ -1,0 +1,88 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+A PHP Error was encountered
+Severity: Notice
+Message: Undefined index: hide
+Filename: libraries/Doctor.php
+Line Number: 285
+A PHP Error was encountered
+Severity: Notice
+Message: Undefined index: hide
+Filename: libraries/Doctor.php
+Line Number: 285
+About UHealth International Patients En Español
+Home
+Find a Doctor
+Appointments
+Referrals
+Patient Services
+Locations
+Billing
+My UHealthChart
+Find a Doctor » Profile
+Sorry, no doctors match your search
+Try your search again
+You can search by letter, specialty or location:
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Search by Specialty
+Search by Location
+Search the UHealth Website
+Try searching the UHealth System website to find what you're looking for.
+Submit
+Print
+E-mail
+
+Practice Locations
+Bascom Palmer Eye Institute at Miami
+
+Miami, FL 33136
+»
+Specialties
+Internal Medicine
+University of Miami Health System Internal Medicine is focused on helping patients maintain good health and avoid serious illness. In addition, our world-class physicians are experts at diagnosing and treating a wide range of illnesses and diseases.
+Learn more about Internal Medicine at UHealth »
+Research and Medical Education by:
+University of Miami Health System
+About UHealth
+Careers
+Contact
+Newsletter Signup
+Twitter
+Facebook
+YouTube
+Community
+Medical Disclaimer
+Terms of Use
+Privacy Statement
+© Copyright 2017
+Every Gift Counts
+University of Miami Health System, delivering South Florida's most advanced medical care.
+For general information call 305-243-4000. International patients please call 305-243-9100.

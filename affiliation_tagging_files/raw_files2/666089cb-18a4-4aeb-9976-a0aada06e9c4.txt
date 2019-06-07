@@ -1,0 +1,80 @@
+###AuthorName=Rong Qu
+###AuthorTitle=
+###Affiliation=Faculty of Science
+###Position=Associate Professor
+##############################
+Cookies help us to give you the best experience on our website. You can change your cookie settings if you wish. Otherwise we'll assume you're OK to continue.OKSee our policy
+UK
+China
+Malaysia
+Study
+Research
+Business
+Global
+About
+A-Z
+   You are here:
+  University of NottinghamComputer SciencePeople
+School of Computer Science
+Home
+About the School
+Study with us
+Research
+Equality and Diversity
+Outreach Activities
+Working with industry
+People
+Honorary appointments
+Events
+News
+Contact us
+       School Intranet Portal
+  Rong Qu
+Associate Professor, Faculty of Science
+Download to vCard
+Back to the Staff Directory
+Personal Details
+Research
+Publications
+Contact
+Room C71 Computer Science
+Jubilee Campus
+Wollaton Road
+Nottingham
+NG8 1BB
+UK
+0115 84 66503
+rong.qu@nottingham.ac.uk
+http://www.cs.nott.ac.uk/~rxq
+Expertise Summary
+Research interests: - Real world applications: logistic transport scheduling; workforce / personnel scheduling; portfolio optimization; multicast network routing (based on network coding), timetabling problems - Algorithms/techniques: meta-heuristics; constraint programming; (mixed) integer programming, data mining, knowledge based systems;
+Teaching Summary
+* Introduction to Artificial Intelligence * Selected Topics in Artificial Intelligence * Constraint Logic Programming * Artificial Intelligence Methods * Decision Support Methodologies
+Research Summary
+- Real world applications: logistic transport scheduling, workforce / personnel scheduling, multicast network routing (based on network coding), portfolio optimization, timetabling problems -… read more
+Selected Publications
+QU, R, BURKE, E.K, MCCOLLUM, B, MERLOT, L.T.G. and LEE, S.Y., 2009. A Survey of Search Methodologies and Automated System Development for Examination Timetabling Journal of Scheduling. 12(1), 55-89
+QU, R., BURKE, E.K. and MCCOLLUM, B., 2009. Adaptive automated construction of hybrid heuristics for exam timetabling and graph colouring problems European Journal of Operational Research. 198(2), 392-404
+QU, R. and BURKE, E.K., 2009. Hybridisations within a graph-based hyper-heuristic framework for university timetabling problems Journal of the Operational Research Society. 60, 1273-1285
+BURKE, E.K., CURTOIS, T.E., POST, G., QU, R. and VELTMAN, B., 2008. A hybrid heuristic ordering and variable neighbourhood search for the nurse rostering problem European Journal of Operational Research. 188(2), 330-341
+View all publications
+School of Computer Science
+University of Nottingham
+Jubilee Campus
+Wollaton Road
+Nottingham, NG8 1BB
+For all enquires please visit:
+www.nottingham.ac.uk/enquire
+Legal information
+Copyright
+Terms and conditions
+Privacy
+Posting rules
+Accessibility
+Freedom of information
+Charity gateway
+Cookie policy
+Get social
+Connect with the University of Nottingham through social media and our blogs.
+        Campus maps | More contact information | Jobs
+ 

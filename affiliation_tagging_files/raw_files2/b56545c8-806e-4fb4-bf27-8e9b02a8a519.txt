@@ -1,0 +1,120 @@
+###AuthorName=Corey J. Evans
+###AuthorTitle=Dr
+###Affiliation=Department of Chemistry
+###Position=Associate Professor
+##############################
+Personal tools
+Web Editor Log in
+Search Site
+Advanced Search…
+|
+Navigation
+University HomeUniversity A-ZMaps and Directions
+Department of Chemistry
+Home / Academic Departments / Chemistry Home / People / Academic Staff / Dr Corey J. Evans
+Dr Corey J. Evans
+  Associate Professor in Physical Chemistry
+            Tel: +44 (0)116 252 3985
+Email: cje8@le.ac.uk
+Personal details
+BSc, PhD (Monash, Australia)
+Fellow of the Higher Education Academy
+Research Group: Spectroscopy and Dynamics
+Research
+Infrared spectroscopy
+Two projects are currently being undertaken involving infrared spectroscopy. The first project involves the analysis of high-resolution infrared spectroscopic data in collaboration with Monash University (Australia) and La Trobe University (Australia). The molecules currently being studied are N-methylformamide, thiirane, formamide, acetic acid and dichlorodifluoromethane. All the spectra have been recorded at the Australia Synchrotron Facility (Melbourne, Australia).
+Publications
+1. “Synchrotron Infrared Spectroscopy of the ν4, ν8, ν10, ν11 and ν14 Fundamental Bands of Thiirane” Evans C. J.; Carter J. P.; Appadoo D. R. T.; Wong A.;, McNaughton D. J. Mol. Spectrosc. (2015), 316, 32-37
+2. “IR Band Profiling of Dichlorodifluoromethane in the Greenhouse Window: High-Resolution FTIR Spectroscopy of ν2 and ν8” Evans C.J.; Sinik A.; Medcraft C.; McNaughton D.; Appadoo D. R. T.; Robertson E. G. J. Phys. Chem. A (2014), 118, 2480-2487
+The second project involves the construction of a multipass cell system to be used to look at the real-time monitoring of products formed from the reactions of terpenes with ozone. This work is in collaboration with Prof. Paul Monks and Prof. John Remedios (University of Leicester).
+Laser induced fluorescence spectroscopy
+Many silicon-containing molecules have a potentially significant effect on the chemistry in space. Ten silicon-bearing molecules have been discovered in interstellar clouds or circumstellar shells, including the diatomics SiO and SiS, the carbon chain SiC4, and the two rings species, SiC2 and SiC3. Interstellar clouds are of interest to astronomers as they are often the sites of star and planet formation. Various carbon, hydrogen, nitrogen and silicon-containing species have been identified in well studied stars such as IRC+10216 (located 500 light years away in the constellation of Leo).
+Our aim is generate new silicon species in our laboratory and to carry out spectroscopic measurements on them in order to ascertain their structures. The resulting data will then allow astronomers to detect these species in space.
+In this work we use a high-voltage (10-15 kV) source (Telsa coil or a car-ignition coil) to generate molecules of interest via a suitable precursor. The molecules of interest are then probed using either laser induced fluorescence (LIF) or dispersed fluorescence (DF) techniques.
+Currently we have carried out LIF and DF measurements on HSiNC and the previously unknown species HSiNCO. The search for HSiCN is about to begin.
+Publications
+"Spectroscopic Investigation of the A1A"-X1A' Electronic Transition of HSiNCO"   Dover, M. R.; Evans, C. J.; Western, C. M.  J. Chem. Phys. (2009), 131, Article No. 124302
+"Spectroscopic Investigation of the Electronic A1A''-X1A' Transition of HSiNC"  Evans, C. J.; Dover, M. R., J. Phys. Chem. A. (2009), 113, 8533-8539
+Computational chemistry
+Being able to accurately model molecular structures and reactions in chemistry can help describe many physically unobservable phenomena as well as resolve ambiguity in experimental results. With the capabilities of modern computers, accurate simulations of almost any molecule or reaction type are becoming a very real prospect, even for large biological molecules.
+We have been using computational chemistry techniques to aid us in the identification of the spectral carrier in our LIF experiments as well as to predict the structure and stability of a number of new silicon and phosphorous containing species (e.g., HSiNCO and HPCO) which have the potential to be observed in the interstellar medium.
+More recently we have been carrying out computational chemistry calculations to help atmospheric chemists understand what is occurring in the mass spectrometers they use to monitor chemical reactions.
+  Publications
+“CF3+ and CF2H+: New Reagents for n-alkane Determination in Chemical Ionisation Reaction Mass Spectrometry” Blake, R. S., Ouheda, S. A., Evans, C. J., Monks, P. S., Analyst (2016), 141, 6564-6570
+Microwave Spectroscopy
+In collaboration with Prof. Don McNaughton from Monash University (Australia) and Nick Walker at Newcastle University (United Kingdom) we are studying the millimetre wave spectra of a number of terpene related compounds and the microwave spectroscopy of open-shell diatomics.
+Analysis of the jet-cooled millimetre wave spectra of linalool, verbenone and estragole have allowed us to determine, in conjunction with computational chemistry studies, the structure of these compounds. This work will help atmospheric chemists understand the reactivity of these compounds much better and allow better modeling of their effects on the atmosphere (e.g. aerosol formation).
+Investigations in to open-shell diatomic species allows us to probe phenomena such as the electron electric dipole moment and breakdown of the Born-Oppenheimer approximation.  This work also allows us to map out a complete potential energy surface for species such as PbI and InI due to the presence of excited vibrational states.
+Publications
+“The millimetre-wave spectrum of estragole”, Godfrey, P. D.; McNaughton, D.; Evans, C. J. Chem. Phys. Letts., (2013), 580, 37-42
+“The Pure Rotational Spectra of the Open-Shell Diatomic Molecules PbI and SnI”, Evans C. J., Needham L-M. E., Walker N. R., Koeckert H., Zaleski D. P., Stephens S. L. J. Chem. Phys., (2015), 143, Article number:244309
+“Vibrational Energies and Full Analytical Potential Energy Functions of PbI and InI from Pure Microwave Data”, Yoo, J. H., Koeckert, H., Mullaney, J. C., Stephens, S. L., Evans, C. J., Walker, N. R., Le Roy, R. J., J. Mol. Spectrosc., (2016), 330, 80-88
+“The Rotational Spectrum and Complete Heavy Atom Structure of the Chiral Molecule Verbenone” Marshall, F., Sedo, G., West, C., Pate, Brooks, Allpress, S., Evans, C. J., Godfrey, P. D., McNaughton, D., Grubbs II, G. Submitted to J. Mol. Spectrosc. (2017)
+Share this page:
+Share
+Chemistry Home
+Undergraduate Courses
+Leicester International Institute, Dalian University of Technology
+Postgraduate Study
+Research
+News & Events
+People
+Student Profiles
+Staff and Student Awards
+Academic Staff
+Dr Corey J. Evans
+Schools Outreach
+Facilities for Industry
+Athena SWAN
+Student Information
+Mentoring
+Staff Induction & Resources
+Department of Chemistry Prizes and Prize Winners
+News & Events
+Chemistry postgraduates take part in 3 minute thesis competition
+Jun 15, 2017
+Dr Zoë Fleming investigates air pollution in Chile
+Jun 13, 2017
+Forensic Science Society wins Academic Group of the Year
+Jun 12, 2017
+Science event inspires more to go to University
+Jun 09, 2017
+Dr Lowe's group well represented at high profile conferences
+Jun 07, 2017
+Department Scientific Glassblower involved in collaboration to explore creative and visual responses to DNA research
+May 23, 2017
+Contact Details
+Department of Chemistry
+University of Leicester
+Leicester, LE1 7RH, UK
+Email: chemistry@le.ac.uk
+Tel: [+44] (0)116 252 2100
+Fax: [+44] (0)116 252 3789
+Subscribe to our news
+Like us on Facebook
+Follow us on Twitter
+Just click on the logos to keep up to date with our activities!
+Further Information
+Undergraduate Brochure (2017 entry)
+Undergraduate Brochure (2018 entry)
+Athena Swan
+DisabledGo
+The University of Leicester is committed to equal access to our facilities. DisabledGo has a detailed accessibility guide for the George Porter Building.
+Follow the University on
+Follow us on Facebook
+Follow us on Twitter
+Follow us on YouTube
+Follow us on Flickr
+Follow us on Linkedin
+Follow us on Google+
+Follow us on SoundCloud
+Staff
+Current Students
+Library
+Blackboard
+Remote Access
+Contact the University
+Legal
+Privacy & Cookies
+Accessibility
+Help

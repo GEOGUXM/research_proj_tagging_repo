@@ -1,0 +1,73 @@
+###AuthorName=K V Prasanth
+###AuthorTitle=Ph.D
+###Affiliation=Dept. of Cell and Developmental Biology
+###Position=ASSOCIATE PROFESSOR
+##############################
+The School of Molecular and Cellular Biology
+UNIVERSITY OF ILLINOIS
+MCB
+Home
+About MCB
+Faculty
+Directory
+Overview
+Research Interests
+Disease Research Interests
+Video Interviews
+Departments
+Undergraduate Studies
+Pre-Med
+Graduate Studies
+Resources
+Alumni & Friends
+Giving
+kumarp@life.illinois.edu
+
+C426 CLSL
+Office: (217) 244-7832
+Lab: (217) 244-7895
+Fax: (217) 265-0927
+
+Mail to: Dept. of Cell and Developmental Biology
+University of Illinois
+B107 CLSL
+601 S. Goodwin Avenue
+Urbana, IL 61801
+Video Interview
+K V Prasanth
+ASSOCIATE PROFESSOR OF CELL AND DEVELOPMENTAL BIOLOGY
+
+Research Topics
+Protein-Nucleic Acid Interactions, Regulation of Gene Expression, RNA Biology
+Education
+M.Sc., Vector Control Research Center, Pondicherry, India
+Ph.D., Cytogenetics Laboratory, Banaras Hindu University, Varanasi, India
+Postdoctoral Fellow, Cold Spring Harbor Laboratory, New York, USA
+Teaching Interests
+MCB 252 - Cells, Tissues & Development
+long noncoding RNA; Gene regulation; Nuclear domain & structure, breast cancer
+The central dogma of molecular biology dictates that genes encode proteins through intermediary RNA molecules, and proteins fulfill majority of the structural, catalytic and regulatory functions in cells. However, a subset of RNAs execute functions without being translated into protein and are referred to as noncoding RNAs (ncRNAs). The functional significance of the vast excess of transcriptionally active ncRNA genes identified recently in multicellular organisms (98% in humans) remains an enigma and demands more thorough investigation. Interestingly, a sub-class of the RNAs is retained in the cell nucleus (NrRNAs). Known examples include, but are not limited to Xist, Tsixand CTN-RNA in mammals and hsr-w-n and roXs in Drosophila). Most of these nuclear retained RNAs are enriched in specific sub-nuclear compartments  (Xist RNA coats the inactive female X-Chromosome and CTN-RNA localizes to paraspeckles) and play important roles in various aspects of gene regulation that include gene silencing and hyper activation, intranuclear transport of factors and in stress response. To characterize novel nrRNAs, we have previously developed a screen that isolated several RNAs from sub-nuclear domains like nuclear speckles (IGCs) and associated structures.  CTN-RNA is one such nrRNA, localizes to paraspeckles and is transcribed by the mouse Cationic Amino acid Transporter 2 (mCAT2) gene, hence named CAT2 Transcribed Nuclear-RNA (CTN-RNA). The mCAT2 gene also codes for another 4.2 kb protein-coding mCAT2 mRNA by differential promoter usage and poly (A) site selection. The mCAT2 protein is a cationic amino acid transporter involved in the cellular uptake of L-arginine, an essential substrate for the production of cellular nitric oxide (NO), the levels of which are tightly regulated. Abnormal levels of NO can result in the manifestation of various diseases including multiple sclerosis, Huntington’s disease and Parkinson’s disease. Interestingly, when cells are stressed by agents that are known to induce CAT2 production, the nuclear CTN-RNA quickly gets post-transcriptionally cleaved at its 3’UTR producing a translation competent mCAT2-like mRNA that is exported to cytoplasm to produce CAT2 protein for cell survival (Figure 1). The unraveling of this novel nuclear regulatory mechanism whereby nrRNAs act as reserve depots to be utilized upon cellular stress or developmental cues has added an entire new dimension towards our understanding of RNA functions. The long-term objectives of my laboratory include identifying new members of this sub-class of RNAs and deciphering their functions, studying how these RNAs retained in the nucleus, control gene expression under various physiological requirements and modulate various vital cellular processes.
+Figure 1 Model depicting the post-transcriptional cleavage of CTN-RNA upon cellular stress. A. In unstressed cell, the mCAT2 transcribes both nuclear retained CTN-RNA (red; a & b) and cytoplasmic mCAT2 mRNA (blue; c) by differential promoter usage and poly A site selection. B. Upon stress, CTN-RNA is post-transcriptionally cleaved in its 3’UTR by unknown factor(s) (d) and the cleaved transcript (red; f) is transported out of the nucleus for translation. The figure is adapted from Prasanth et al., 2005 Cell 123: 249-263.
+Research projects in my laboratory mainly focus on (1) characterizing the factor(s) responsible for CTN-RNA cleavage and processing upon cellular stress (2) understanding the mechanism of how nrRNAs are retained in the nucleus especially in various sub-nuclear compartments (3) functional characterization of other nrRNAs that are involved in modulating gene expression.
+Characterization of factors that specify post-transcriptional cleavage of CTN-RNA. Generally, pre-mRNA cleavage and processing occurs co-trancriptionally and is governed by a multiprotein complex. However, incase of CTN-RNA, RNA processing happens post-transcriptionally and is a stress response mechanism.  The protein complex, which governs the CTN-RNA post-transcriptional cleavage, remains to be elucidated. Identifying the complex will enable us to understand not only on the cleavage process per se but also the signal transduction pathway activated by various stress stimuli that triggers the cleavage. Further, visualization of the dynamics of a fluorescently tagged CTN-RNA in living cells will also be undertaken which is critical for understanding the kinetics of cleavage and nuclear export of CTN-RNA upon cellular stress.
+Mechanisms that regulate nuclear retention of nrRNAs. The eukaryotic cell nucleus harbors several nrRNAs. My lab will use CTN-RNA as a model towards understanding the mechanism of RNA nuclear retention. Detailed characterization of CTN-RNA has shown that the unique 3’UTR is essential for its nuclear retention and the Adenosine to Inosine modification (A to I editing) at the 3’UTR might be crucial for the nuclear retention process. However it remains to be determined if A to I editing or any such modifications and interaction with specific RNP complex solely governs RNA nuclear retention. Further, the significance of sub-nuclear domains like paraspeckle in RNA nuclear retention will also be addressed.
+Genome wide characterization of nrRNAs that show CTN-RNA like regulation and dynamics. Vast transcriptional output of the mammalian genome consists of ncRNAs many of which are thought to play important gene regulatory functions. Recently, several studies using computational as well as experimental approaches have demonstrated >1000 candidate human genes whose RNAs are potentially A to I edited, many of which are transcribed by protein coding genes. The significance of such editing is still unknown.  Some of these genes might be regulated in a similar fashion to what has been observed for the CTN-RNA locus. To address this issue, we have used a systematic bioinformatics approach and identified a few candidate human genes that show similarities to the CTN-RNA locus. Interestingly, some of these genes are either developmentally regulated or involved in stress response mechanism. Detailed sequence analysis, localization by RNA-FISH and functional characterization of these RNAs will be critical to ascertain whether they are also regulated in a manner similar to that of CTN-RNA. This approach will shed light on how different nrRNAs modulate gene regulatory functions and how critical they are in governing cell survival.
+Awards
+American Cancer Society Research Scholar
+Representative Publications
+Chaudhary R, et al., (2017) Prosurvival long noncoding RNA PINCR regulates a subset of p53 targets in human colorectal cancer cells by binding to Matrin 3. Elife. 2017 Jun 5;6. pii: e23244. doi: 10.7554/eLife.23244. [Epub ahead of print].
+Anantharaman A. et al., (2017) ADAR2 regulates RNA stability by modifying access of decay-promoting RNA-binding proteins. Nucleic Acids Res. Apr 20;45(7):4189-4201.
+Malakar P et al., (2017) Long noncoding RNA MALAT1 promotes hepatocellular carcinoma development by SRSF1 up-regulation and mTOR activation. Cancer Res. Mar 1;77(5):1155-1167.
+Prasanth SG & Prasanth KV. (2016) Easy Stress Relief by EZH2. Cell. 2016 Dec 15;167(7):1678-1680.
+Jadaliha M. et al., (2016) Functional and prognostic significance of long non-coding RNA MALAT1 as a metastasis driver in ER negative lymph node negative breast cancer. Oncotarget. 2016 Jun 28;7(26):40418-40436.
+Anantharaman A. et al., (2016) Paraspeckles modulate the intranuclear distribution of paraspeckle-associated Ctn RNA. Sci Rep. 2016 Sep 26;6:34043.
+Zong X, Nakagawa S, Freier SM, Fei J, Ha T, Prasanth SG, Prasanth KV. (2016) Natural antisense RNA promotes 3’end processing and maturation of MALAT1 lncRNA. Nucleic Acids Res. 2016 Jan 29. pii: gkw047.
+Jones MF et al., (2015) Growth differentiation factor-15 encodes a novel microRNA 3189 that functions as a potent regulator of cell death. Cell Death Differ. 2015 Oct;22(10):1641-53. doi: 10.1038/cdd.2015.9.
+Tripathi V, Shen Z, Chakraborty A, Giri S, Freier SM, Wu X, Zhang Y, Gorospe M, Prasanth SG, Lal A, Prasanth KV. (2013) Long Noncoding RNA MALAT1 Controls Cell Cycle Progression by Regulating the Expression of Oncogenic Transcription Factor B-MYB. PLoS Genet. 9(3):e1003368.
+Tripathi V., Ellis J.D., Shen Z., Song D.Y., Pan Q., Watt A.T., Freier S.M., Bennett C.F., Sharma A., Bubulya P.A., Blencowe B.J., Prasanth S.G. and Prasanth K.V. (2010) The Nuclear-retained Non-coding RNA MALAT1 Regulates Alternative Splicing by Modulating SR Splicing Factor Phosphorylation. Molecular Cell 39(6): 925-938.
+R. Zheng, Z. Shen, V. Tripathi, Z. Xuan, S. M. Freier, C. F. Bennett, S. G. Prasanth and K. V. Prasanth (2010) Poly-purine repeat-containing RNAs: A novel class of long non-coding RNAs in mammalian cells. Journal of Cell Science 123(Pt 21): 3734-44.
+D. Bernard*, K. V. Prasanth*, V. Tripathi, S. Colasse, T. Nakamura, Z. Xuan, M. Q. Zhang, F. Sedel, L. Jourdren, F. Coulpier, A. Triller, D. L. Spector and A. Bessis (2010) A long Nuclear Retained Non-Coding RNA Regulates Synaptogenesis by Modulating Gene Expression. EMBO J. 29(18): 3082-93 (* co-first authors).
+K. V. Prasanth, S. G. Prasanth, Z. Xuan, S. Hearn, S. M. Freier, C. F. Bennett, M. Q. Zhang and D. L. Spector (2005) Regulating gene expression through RNA nuclear retention. Cell1 23: 249-263.
+Complete Publications List
+© School of MCB | College of Liberal Arts and Sciences | University of Illinois at Urbana-Champaign
+Developed and maintained by the MCB Communications Office | Contact Us

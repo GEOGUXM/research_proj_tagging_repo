@@ -1,0 +1,294 @@
+###AuthorName=Antaki, James F.
+###AuthorTitle=Professor
+###Affiliation=Department of Biomedical Engineering
+###Position=Professor of Biomedical Engineering
+##############################
+Carnegie Mellon University
+Search Only Biomedical Engineering Submit Carnegie Mellon University Search
+News and Events
+People
+Faculty & Staff Directory
+Faculty
+A - D
+E - L
+M - R
+S - Z
+Adjunct Faculty
+Administrative Staff
+Research Staff & Visitors
+Faculty Recognitions
+Research
+Graduate Programs
+Undergraduate Programs
+About Us
+Contact Information
+Visitor Information
+Alumni
+FOR BME USE LIBRARY ADMIN PORTAL GRAD PORTAL FACULTY PORTAL
+CMU BIOMEDICAL ENGINEERING | People | Faculty A-D
+Faculty A - D
+Antaki, James F.
+Professor of Biomedical Engineering
+Ph.D., 1991, University of Pittsburgh
+http://www.andrew.cmu.edu/user/antaki/
+Publications
+Highlights:
+Medical devices of the future will face a myriad of new challenges – not only technical, but financial and sociological. Professor Antaki is devoting his career to meeting such challenges by developing a new approach for translating medical discoveries to clinical practice: one that is more holistic, prescriptive, multi-scale and multi-disciplinary. His research emphasizes the methodology by which medical inventions are conceptualized, optimized, and implemented. The current application areas include: circulatory support systems for children, decision-support tools for personalized management of cardiac disease, multi-scale modeling of thrombosis, and medical devices for global health. An overarching interest is developing an infrastructure for crowd-sourced medical innovation that may ultimately contribute to more effective, preventative, and affordable healthcare, particularly in under-resourced settings.
+Email:
+antaki
+andrew.cmu.edu
+Telephone:
+412 268 9857
+FAX:
+412 268 3025
+Address:
+Scott Hall 4N209
+Department of Biomedical Engineering
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Research Interests:
+Experimental and computational cardiac fluid dynamics; rheology of blood and mechanics of the heart muscle; computational medical device design and optimization; pediatric and adolescent artificial hearts; cardiac surgical planning
+Armitage, Bruce A.
+Professor of Chemistry, Biological Sciences, and Biomedical Engineering
+Ph.D., 1993, University of Arizona
+http://www.chem.cmu.edu/groups/army/
+Publications
+Email:
+army
+cmu.edu
+Telephone:
+412 268 4196
+FAX:
+412 268 1061
+Address:
+Mellon Institute 722
+Carnegie Mellon University
+4400 Fifth Avenue
+Pittsburgh, PA 15213
+Research Interests:
+Luminescent probes for cell imaging; probes for manipulating gene expression
+Bettinger, Christopher J.
+Associate Professor of Biomedical Engineering and Materials Science & Engineering
+Ph.D., 2008, Massachusetts Institute of Technology
+http://biomicrosystems.net/
+Publications
+Highlights:
+The next generation of bio-integrated electronic devices will be important for use in applications ranging from controlled release systems to brain-machine interfaces. Integration of devices with the human body can be achieved by engineering the abiotic-biotic interface. The group of Professor Bettinger synthesizes new materials and structures that seamlessly meld the tissue-device interface to improve the efficacy of medical devices. The research is focused on the design and synthesis of ultra-compliant biocompatible electronic conductors for soft tissue interfaces, and edible electronics for non-invasive device deployment. These efforts will reduce the cost and improve the delivery of healthcare to many patient populations.
+Professor Bettinger is a recipient of the IUPAC Prize for Young Chemists, the American Chemical Society AkzoNobel Award, and the Technology Review TR35 Award.
+Professor Bettinger introducing his research on edible electronics
+Professor Bettinger introducing edible batteries
+Email:
+cbetting
+andrew.cmu.edu
+Telephone:
+412 268 7677
+FAX:
+412 268 7596
+Address:
+Wean Hall 4315
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Research Interests:
+BioMEMS for tissue regeneration; biodegradable electronic devices; biomimetic tissue-device interfaces; biomaterials synthesis; microfabrication of biomaterials
+Bruchez, Marcel P.
+Associate Professor of Chemistry, Biological Sciences, and Biomedical Engineering
+Ph.D., 1998, University of California, Berkeley
+http://www.chem.cmu.edu/groups/bruchez/
+Publications
+Highlights:
+The research of Professor Bruchez has focused on the development of highly sensitive fluorescence labeling methods that can be used without any washing, to directly report on cellular activity or physiology in intact cells, tissues or organisms. His group has used a combination of genetically encoded tags and environmentally sensitive dyes to establish a broadly applicable toolset for imaging multicellular processes and local physiology in complex multicellular systems. These tools have revealed fundamental trafficking processes and new modes of intercellular antigen transfer, enabling new approaches to vaccine and therapeutic development. Professor Bruchez, a Technology Review “Top 100 Young Innovators” honoree, holds 23 patents.
+Professor Bruchez's research on novel surface-to-endosome intercellular transfer of antigen between dendritic cells, as revealed by a pH sensor
+Email:
+bruchez
+cmu.edu
+Telephone:
+412 268 9661
+FAX:
+412 268 6571
+Address:
+Mellon Institute 749
+Carnegie Mellon University
+4400 Fifth Avenue
+Pittsburgh, PA 1521
+Research Interests:
+Fluorescent probes for cell imaging; luminescent nanocrystal probes
+Cai, Yang G.
+Senior Systems Scientist, CyLab
+Associate Research Professor, Biomedical Engineering
+Ph.D., 1997, West Virginia University
+http://www.cmu.edu/vis
+Publications
+Highlights:
+The research of Professor Cai is focused on biomedical video analytics and interactive visualization that combines human motion perception and machine vision, as a part of “Instinctive Computing” (Springer-Verlag, 2016). His current project is to develop a computational “dashboard” to measure the quality of diagnostic examinations from real-time colonoscopy videos in endoscopy labs. He has also been working on “Ambient Diagnostics” (CRC, 2014) for affordable medical diagnoses using mobile devices, webcam, smart tattoo, pill camera, and social media. He has developed a computational tongue diagnosis method based on Traditional Chinese Medicine (TCM). In addition, he has worked on privacy algorithms in human imaging, digital human modeling, and game-based biomedical simulation.
+Email:
+ycai
+cmu.edu
+Telephone:
+412 268 5612
+FAX:
+Address:
+CIC 2218
+CyLab
+Carnegie Mellon University
+4720 Forbes Avenue
+Pittsburgh, PA 15213
+Research Interests:
+Video analytics; interactive visualization; virtual reality; endoscopic imaging; 3D surface imaging and reconstruction; digital human modeling; biomedical games; ambient diagnostics; pill camera; smart fiber; smart home; personal robot; privacy algorithms; social media and health
+Campbell, Phil G.
+Research Professor, Biomedical Engineering, Engineering Research Accelerator, Biological Sciences, Materials Science & Engineering
+Ph.D., 1985, Pennsylvania State University
+http://www.ices.cmu.edu/phil_campbell.html
+Publications
+Highlights:
+Professor Campbell has over 25 years’ experience in multidisciplinary research with both engineers and clinicians to develop unique solutions to a wide variety of complex biomedical problems, including the development of natural-based biomaterials, implant biocompatibility, and tissue engineering. One of his overarching research themes involves understanding and engineering the cellular microenvironment from an endocrine point of view, both in vitro and in vivo. The study encompasses growth factor interstitial transport, interactions with receptors and non-receptor binding proteins, immobilization and proteolytic processing of extracellular matrix bound growth factors and other signaling molecules, and live cell and animal imaging. His research has taken advantage of biopatterned microenvironments to spatially deliver signaling molecules to spatially control cell behavior in vitro and tissue formation in vivo toward musculoskeletal, cardiac, immunological and cancer applications.
+Email:
+pcampbel
+cs.cmu.edu
+Telephone:
+412 268 4126
+FAX:
+412 268 5229
+Address:
+Scott Hall 6115
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Research Interests:
+Bioavailability and proteolytic processing of growth factors; musculoskeletal tissue repair and regeneration; biomimetic tissue engineering materials
+Chase, Steven M.
+Assistant Professor, Biomedical Engineering and Center for the Neural Basis of Cognition
+Ph.D., 2006, Johns Hopkins University
+http://www.cnbc.cmu.edu/~schase
+Publications
+Highlights:
+Brain-computer interface, or BCIs, are a promising technology for alleviating motor deficits caused by injury or disease. These devices can read out motor intent by recording directly from populations of motor cortical neurons, and use this information to actuate an external device, such as a computer cursor or robotic limb. In addition, BCIs can also be used as a unique tool for probing brain processes that would otherwise remain covert. The research group of Professor Chase has two main thrusts. The first is to develop novel computational and experimental techniques that leverage BCIs as a research tool for investigating the neural correlates of motor learning, adaptation, and the representation of motor intent. The second is to design new BCI decoding algorithms to enhance the performance of these devices, and hasten their clinical translation.
+Professor Chase introducing his research on brain-computer interfaces
+Email:
+schase
+andrew.cmu.edu
+Telephone:
+412 268 5512
+FAX:
+412 268 9580
+Address:
+Hamerschlag Hall C122
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Research Interests:
+Information representation in neural systems; brain-computer interfaces; neural signal processing; learning, adaptation, and motor control
+Choset, Howie
+Professor, Robotics Institute, Biomedical Engineering, and Electrical & Computer Engineering
+Ph.D., 1996, California Institute of Technology
+http://www.ri.cmu.edu/person.html?person_id=47
+Publications
+
+Professor Choset introducing medical robots
+Email:
+choset
+cs.cmu.edu
+Telephone:
+412 268 2495
+FAX:
+412 268 7350
+Address:
+Newell Simon Hall 3211
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Research Interests:
+Surgical robotics; snake robots; path planning; motion control; mapping
+Cohen-Karni, Tzahi (Itzhaq)
+Assistant Professor of Biomedical Engineering and Materials Science & Engineering
+Ph.D., 2011, Harvard University
+http://www.cohenkarni.com/
+Publications
+Highlights:
+The research of Professor Cohen-Karni has focused on the unique interfaces between biology and nanoscience and nanotechnology, by applying techniques from chemistry, physics, and materials science to explore the rich world of biology. His interests cover a broad area: from the interactions of biomolecules, cells, and tissues with nanostructures (such as nanowires, nanotubes and nanoparticles), to the electrical properties of tissues and cells interfaced with nano-devices.
+Professor Cohen-Karni received the Gold Graduate Student Award from the Materials Research Society in 2009, and the 2012 International Union of Pure and Applied Chemistry Young Chemist Award. In 2014, he was awarded the Charles E. Kaufman Foundation Young Investigator Research Award. In 2016, Dr. Cohen-Karni was awarded the NSF CAREER Award.”
+Professor Cohen-Karni introducing his research on biomedical nanotechnology
+Email:
+tzahi
+andrew.cmu.edu
+Telephone:
+412 268 4113
+FAX:
+412 268 3025
+Address:
+Scott Hall 4N107
+Department of Biomedical Engineering
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Research Interests:
+Nano-biotechnology; nano–bio interfaces; nanomaterials synthesis; biomedical applications of nanowires/nanotubes; biomedical nanodevices/sensors
+Cook, Keith E.
+Associate Professor of Biomedical Engineering
+Ph.D., 2000, Northwestern University
+Publications
+Highlights:
+Professor Keith Cook’s research applies biomedical engineering to cardiac and pulmonary diseases. His laboratory’s goal, therefore, is to generate new devices, treatment strategies, and diagnostic tools and translate them to the clinic.
+Current research projects in his group include thoracic artificial lungs, perfluorocarbon emulsions for pulmonary drug delivery, new biomaterial approaches for reducing coagulation at artificial surfaces, and PET-based diagnostic tools for right ventricular dysfunction. Of note, his laboratory was the first to produce 24 hour, week, and 30-day in vivo studies of thoracic artificial lungs, and his group is working on a artificial lung intended as destination therapy for years of respiratory support. Professor Cook currently serves as an editor of the American Society of Artificial Internal Organs Journal.
+Professor Cook introducing his research on artificial lungs
+Email:
+keicook
+andrew.cmu.edu
+Telephone:
+412 268 7383
+FAX:
+412 268 3025
+Address:
+Scott Hall 4N207
+Department of Biomedical Engineering
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Research Interests:
+Artificial lungs; hemodynamics; pulmonary drug delivery; liquid ventilation; right ventricular function; critical care medicine
+Dahl, Kris N.
+Associate Professor of Chemical Engineering, Biomedical Engineering, and Materials Science & Engineering
+Ph.D., 2004, University of Pennsylvania
+http://dahl.cheme.cmu.edu/
+Publications
+Highlights:
+The research of Professor Kris Noel Dahl is focused on the structural and rheological properties of the cellular nucleus and cytoskeleton. In deciphering the structural and mechanical elements of the cell's nucleus, she adds needed insight into the roles of epigenetic regulation, stem cell differentiation, aging pathologies, and cancer progression and metastases. The integration of the cytoskeleton and nucleus provides a unique perspective into mechanical transmission of forces that influence genome expression.
+Over the years Professor Dahl’s research has spanned molecular, organelle, cellular, and multicellular length scales, using a combination of spectroscopic, imaging, biophysical, and computational approaches. Prof. Dahl's group has received funding from the NIH, Progeria Research Foundation, DOD, and NSF including an NSF CAREER award.
+Professor Dahl introducing her research on cell mechanics
+Email:
+kndahl
+andrew.cmu.edu
+Telephone:
+412 268 9609
+FAX:
+412 268 7139
+Address:
+Doherty Hall 2100C
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Research Interests:
+Mechanics of the cell nucleus in normal and disease states; nuclear mechanics in stem cell differentiation and cancer progression; mechanotransduction; cellular interactions with nanomaterials
+Domach, Michael M.
+Professor of Chemical Engineering and Biomedical Engineering
+Ph.D., 1983, Cornell University
+http://www.cheme.cmu.edu/people/faculty/md0q.htm
+Publications
+Email:
+md0q
+andrew.cmu.edu
+Telephone:
+412 268 2246
+FAX:
+412 268 7139
+Address:
+Doherty Hall A221
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Research Interests:
+High throughput systems for cell growth analysis; optimization of bioreactor performance
+  Faculty     [A-D]    [E-L]    [M-R]    [S-Z]
+Biomedical Engineering Carnegie Mellon University, Pittsburgh, PA 15213-3890 (412) 268-3955
+College of Engineering Carnegie Mellon Home

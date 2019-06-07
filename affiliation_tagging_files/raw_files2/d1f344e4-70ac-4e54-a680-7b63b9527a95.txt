@@ -1,0 +1,45 @@
+###AuthorName=Juan F. López
+###AuthorTitle=M.D
+###Affiliation=Dept. of Psychiatry
+###Position=Assistant Research Professor
+##############################
+    By Alpha|By Interest|Emeritus
+
+Juan F. López, M.D.
+Assistant Research Professor, MBNI
+Associate Professor, Dept. of Psychiatry
+5057 BSRB
+109 Zina Pitcher Place
+Ann Arbor, MI 48109-2200
+  jflopez@umich.edu
+(734) 615-3144
+    Current Research Interests:
+Our laboratory focuses on the link between depressive disorders, the limbic-hypothalamic-pituitary-adrenal (LHPA) axis, serotonin, and stress. One of the goals of this laboratory is to understand what particular brain molecules and what specific brain areas are affected by antidepressants and by chronic unpredictable stress in rodents. Human postmortem studies are also performed to determine if these molecules are altered in the same brain regions of people with a history of mood disorders. We use endocrinological, neuroanatomical and molecular biology methods, and focuses on the brain pathways thought to be involved in mood disorders. In situ hybridization, receptor autoradiography, and adioimmunohistochemistry allow visualization of both the molecule itself and the mRNA that encodes for that molecule. Hormonal measurements (e.g., corticosterone and ACTH) help us correlate peripheral endocrinological activity and central nervous system changes. For example, we have demonstrated that the serotonin receptor 1a (5-HT1a) changes described in the brains of subjects with a history of depression may be a consequence of a hyperactive LHPA axis. We are also investigating the immediate and long-term effects of early life stress on these same systems, and how early life stress, such as maternal separation, may influence the expression of brain molecules implicated in the pathophysiology of mood disorders.
+Another experimental approach we have been pursuing, in collaboration with Dr. Robert Thompson (U-M, Department of Psychiatry), is the use of gene array technology to investigate: 1) whether we can identify novel genes regulated by antidepressant treatment; 2) whether there is a common set of genes regulated by different types of antidepressants; and 3) whether genes altered by stress can be "normalized" by the administration of these medications. Drs. López and Thompson have identified several molecules that are regulated in common by antidepressant belonging to different classes. These molecules may be mediating the therapeutic effect of antidepressants, and may give us new leads into the pathophysiology and/or pathogenesis of mood disorders.
+In addition to basic and preclinical studies, we are involved in clinical translational studies of mood disorders, including a large-scale multidisciplinary clinical study, in collaboration with Dr. Delia Vazquez (U-M, Department of Pediatrics) investigating pregnant women at risk for depression, and the effect of depression on their babies. We are investigating the LHPA axis in the mothers and their babies, as well as the effect that maternal depression may have on infant-mother attachment, and in the infants’ neuromotor development. Some of the preliminary data suggests that women who are at risk for depression show dysregulation of their endocrine “stress system” during pregnancy. Babies born to women at risk for depression also have lower APGAR scores immediately after birth, and are more likely to show subtle neuromotor dysfunction at birth.
+It is hoped that these studies will increase our knowledge of the psychobiological abnormalities that may contribute to depressive illness, and how stress can trigger depressive episodes in vulnerable individuals. These studies will also enhance our understanding of the molecular brain mechanisms underlying the actions of antidepressants. This knowledge can eventually lead to the design of better strategies and more specific medications to treat and/or to prevent mood disorders.
+
+Mineralocorticoid Receptor (MR) messenger RNA and Glucocorticoid Receptor (GR)
+messenger RNA distribution in rat brain. MR and GR control the tone of the
+Limbic-Hypothalamic-Pituitary Adrena axis.
+
+Serotonin 1a (5-HT1a) receptor messenger RNA and binding in human hippocampus.
+The 5-HT1a receptor is the most abundant serotonin receptor in the hippocampus.,
+a brain area implicated in cognition and mood regulation.
+
+Serotonin molecules most commonly studied in depression.
+The serotonin 1a receptor (5-HT1a), the serotonin 2a receptor (5-HT2a)
+and the serotonin transporter (5-HT-t). The distribution of these molecules
+is shown in non-human primate hippocampus (HC) and prefrontal cortex (PFC).
+
+Selected Publications:
+López JF, Chalmers DT, Little KY and Watson SJ : Regulation of 5-HT1A receptor, Glucocorticoid and Mineralocorticoid receptor in rat and human hippocampus: Implications for the Neurobiology of Depression. Biological Psychiatry 43:547-573, 1998.
+López JF, Akil H and Watson SJ: Neural circuits mediating stress. Biological Psychiatry 46:1461-1471, 1999.
+Vázquez DM, Eskandari R, Zimmer CA, Levine S and López JF: Brain 5-HT receptor system in the stressed infant rat: implications for vulnerability to substance abuse. Psychoneuroendocrinology 27:245-272, 2002.
+Vázquez DM, Eskandari R, Phelka A and López JF: The impact of chronic intermittent saline injections and maternal deprivation on brain corticotropin releasing hormone (CRH) circuits: Selective regulation of CRH receptor-2 by desipramine treatment Neuropsychopharmacology. 28:898-909, 2003.
+López -Figueroa AL, Norton CS, López -Figueroa MO, Burke S, Meador-Woodruff JH, L López JF, Watson SJ. Serotonin 5-HT1a, 5-HT1b, and 5-HT2a receptor mRNA expression in subjects with Major Depression, Bipolar Disorder and Schizophrenia. Biological Psychiatry 55:225-233, 2004.
+  UM Gateway | UMMS | UMHS
+About Us | Faculty | Research Resources | Neuroscience Events
+Associated Programs | Affiliations | Contact Us | Home
+Copyright © 2005 The Regents of the University of Michigan
+ 

@@ -1,0 +1,115 @@
+###AuthorName=Kazuo UEDA
+###AuthorTitle=Ph.D
+###Affiliation=Department of Human Science
+###Position=Associate Professor
+##############################
+ 
+Kazuo UEDA Last modified date：2017.06.10
+
+Associate Professor / Perceptual Psychology
+Department of Human Science
+Faculty of Design
+
+
+1 Research Interests
+2 Current and Past Project
+3 Academic Activities
+3.1 Books
+3.2 Papers
+3.3 Reports
+3.4 Presentations
+4 Membership in Academic Society
+5 Awards
+6 Professional and Outreach Activ...
+Graduate School
+Department of Design
+Graduate School of Design
+Undergraduate School
+Department of Acoustic Design
+School of Design
+Other Organization
+Research Center for Applied Perceptual Science
+
+
+Homepage
+http://www.design.kyushu-u.ac.jp/~ueda/
+Academic Degree
+Ph.D.
+Field of Specialization
+Psychology of Hearing
+Outline Activities
+The current research themes are the following: (1) multivariate analyses of speech, (2) perception of noise-vocoded speech, (3) auditory short-term memory. The third theme is a collaboration work with Technische Universitaet Darmstadt, Germany. He had been a member of the Perceptual Psychology Unit of the governmental "Center of Excellence" (COE) program entitled "Design of Artificial Environments on the Basis of Human Sensibility," Kyushu University, since 2003. He joined a membership of "Center for Applied Perceptual Research," since its foundation in 2010. The Center developed into "Research Center for Applied Perceptual Science" in 2013.
+
+He supervises some undergraduate and graduate students. He teaches Psychology of Hearing, Auditory Perception and Cognition, Perceptual Psychology, Science of Auditory and Visual Perception, etc. He had taught Psychology, Perceptual Psychology, Experimental Design, etc. at Kyoto Prefectural University.
+
+He has experienced managements in publishing and research meetings at the Acoustical Society of Japan and at the Japanese Society for Music Perception and Cognition.
+Research
+Research Interests
+Multilingual comparison about perception of locally time-reversed speech
+keyword : intelligibility, time reversal, time window
+2012.12.
+Factor analyses of critical-band-filtered speech and perception of noise-vocoded speech
+keyword : Power fluctuation, frequency bands, noise-vocoded speech
+2007.04Facotr analyses of critical-band-filtered speech.
+Current and Past Project
+Perception of locally time-reversed speech is investigated. A paper has been published (Ueda et al., 2017).
+A series of experiments is planned to use results from Ueda & Naka jima (2008) in order to produce speech which is degraded in systematical ways. Speciﬁcally, noise-vocoded speech shall be produced that lacks the spectral ﬁne-structure of the original recording, and that permits to systematically vary the number of frequency channels used in the synthesis. Furthermore, conventional critical-band based synthesis methods shall be compared with ones that partition the audible frequency range into ’meaningful’ units as determined by Ueda, Naka jima & Araki (2009). Finally, input signals other than noise may be used for the vocoder. The stimuli thus generated may serve as interfering background in ’irrelvant speech’ type paradigms as studied by Ellermeier & Zimmer (1997) or Zimmer, Ghani & Ellermeier (2008). The results may elucidate what makes sounds ’speech-like’ and what are the acoustical properties that produce the greatest degree of memory impairment in the irrelevant sound paradigm. Simultaneously they serve to validate the concept of speech-based auditory universals proposed by Ueda et al. (2009). Several aural presentations and poster presentations were conducted (e.g., Ueda, Nakajima, Doumoto, Ellemeier, and Kattner, 2011; Ellemeier, Kattner, Ueda, Nakajima, and Doumoto, 2012). The first output of our collaboration in a referee journal was published in the Journal of the Acoustical Society of America ( Ellermeier, Kattner, Ueda, Doumoto, and Nakajima, 2015).
+Academic Activities
+Books
+ Show All Books >>
+1. Acoustic Keyword Book.
+2. Auditory Grammar.
+3. A Study Manual for University Students: Welcome to Owl University.
+4. Encyclopedia of Sounds.
+5. Dictionary of Acoustics.
+6. Methods of Psychological Investigation.
+7. Musical Perceptions.
+8. An Introduction to the Psychology of Hearing.
+9. Sound interpretation, in Natural Computation.
+Reports
+ Show All Reports >>
+1. Bias in Evaluating Graduation Theses and Oral Presentations.
+2. How Can We Mark Graduation Theses and Aural Presentations Properly?.
+3. A case of faculty development at Owl University.
+4. Auditory Organization and Auditory Scene Analysis.
+Papers
+ Show All Papers >>
+1. Kazuo UEDA, Yoshitaka NAKAJIMA, Wolfgang ELLERMEIER, Florian KATTNER, Intelligibility of locally time-reversed speech: A multilingual comparison, Scientific Reports, 7, (in press), doi:10.1038/s41598-017-01831-z, 2017.05.
+2. Yoshitaka NAKAJIMA, Kazuo UEDA, Shota FUJIMARU, Hirotoshi MOTOMURA, Yuki OHSAKA, English phonology and an acoustic language universal, Scientific Reports, 7, 46049, doi: 10.1038/srep46049, 2017.04.
+3. Kazuo UEDA, Yoshitaka NAKAJIMA, An acoustic key to eight languages/dialects: Factor analyses of critical-band-filtered speech, Scientific Reports, 7, 42468, doi: 10.1038/srep42468, 2017.02, [URL].
+4. Takuya KISHIDA, Yoshitaka NAKAJIMA, Kazuo UEDA, Gerard Remijn, Three Factors Are Critical in Order to Synthesize Intelligible Noise-Vocoded Japanese Speech, Front. Psychol., 26 April 2016, 7, 517, 2016.04, [URL].
+5. Wolfgang Ellermeier, Florian Kattner, Kazuo UEDA, Kana Doumoto, Yoshitaka NAKAJIMA, Memory disruption by irrelevant noise-vocoded speech: Effects of native language and the number of frequency bands, the Journal of the Acoustical Society of America, 138, 3, 2015.09, [URL].
+6. Kazuo Ueda, Reiko Akahane-Yamada, Ryo Komaki, and Takahiro Adachi, Identification of English /r/ and /l/ in noise: the effects of baseline performance, Acoustical Science and Technology, 28 (4) 251-259, 2007.07.
+7. Ueda, K., Short-term auditory memory interference: the Deutsch demonstration revisited, Acoustical Science and Technology, vol. 25, no. 6, 457-467, 2004.11.
+8. Ueda, K., and Hirahara, T., Frequency response of headphones measured in free field and diffuse field by loudness comparison, Journal of the Acoustical Society of Japan (E), vol. 12, no. 3, 131-138, 1991.05.
+9. Ueda, K., and Akagi, M., Sharpness and amplitude envelopes of broadband noise, Journal of the Acoustical Society of America, vol. 87, no. 2, 814-819, 1990.02.
+10. Ueda, K., and Ohgushi, K., Perceptual components of pitch: Spatial representation using a multidimensional scaling technique, Journal of the Acoustical Society of America, vol. 82, no. 4, 1193-1200, 1987.10.
+Presentations
+ Show All Presentations >>
+1. Kazuo UEDA, Yoshitaka NAKAJIMA, Shunsuke TAMURA, Wolfgang Ellermeier, Florian Kattner, Stephan Daebler, The effect of segment duration on the intelligibility of locally time-reversed speech: A multilingual comparison, The 31st Annual Meeting of the International Society for Psychophysics, Fechner Day 2015, 2015.08.18.
+2. A consistent clustering of power fluctuations in British English, French, German, and Japanese.
+3. Critical-band-filter analyses of speech sentences: Common factors across Japanese, British English, French, and German..
+4. A critical-band-filtered analysis of Japanese speech sentences.
+5. Factor analyses of critical-band-filtered speech of British English and Japanese.
+6. Principal component analyses of critical-band-filtered speech.
+7. Critical-band-filter analysis of speech sentences: A case of British English.
+8. English /r/ and /l/ identification by native and non-native listeners in noise: applying screening text, signal-to-noise ratio variation, and training.
+Membership in Academic Society
+The Society for Bioacoustics
+The Japanese Psychonomic Society
+The International Society for Psychophysics
+The Acoustical Society of America
+The Japanese Psychological Association
+The Acoustical Society of Japan
+The Japanese Society for Music Perception and Cognition
+Awards
+Twenty-five year awards, the Acoustical Society of America, 5 June 2013.
+Educational
+Social
+Professional and Outreach Activities
+He has experienced managements in publishing and research meetings at the Acoustical Society of Japan and at the Japanese Society for Music Perception and Cognition..
+
+
+Unauthorized reprint of the contents of this database is prohibited.
+
+Copyright © 2006, Kyushu University. All rights reserved.

@@ -1,0 +1,101 @@
+###AuthorName=EMI TANAKA
+###AuthorTitle=DR
+###Affiliation=Faculty of Science
+###Position=Academic Staff
+##############################
+LibraryCurrent studentsStaff Intranet
+The University of Sydney
+Faculty of Science
+Refine search
+Faculty of Science
+Faculty of Science
+University of Sydney
+University of Sydney
+All University websites
+Library catalogue
+Research opportunities
+Staff directory
+Courses
+Researcher
+Faculty of Science
+University Home
+Contacts
+About Us
+Faculty
+People
+Alumni
+Important dates
+Contact Us
+You are here: University of Sydney / Faculty of Science / People / Our Staff / Academic Staff / Dr Emi Tanaka 
+PEOPLE
+Our Staff
+expand
+Academic Staff
+Find an Academic
+Research students
+Science Hall of Fame
+Women in Science
+New staff
+SEARCH PAGE
+DR EMI TANAKA
+F07 - Carslaw Building
+The University of Sydney
+Email emi.tanaka@sydney.edu.au
+Map
+Map data ©2017 Google
+Terms of Use
+Report a map error
+Map
+View in larger map
+Biographical details
+I am an applied statistician whose research interest is in developing high impact statistical methods and useful, easy-to-use tools for application in bioinformatics, biometrics and biology. I enjoy working in a collaborative environment with people from many different backgrounds, with an aim to enhance our knowledge and understanding of the real world data.
+I am a member of the Statistics Research Group at School of Mathematics and Statistics.
+Show more
+Back to Top
+Research interests
+My current research interests are:
+linear mixed models - in particular with application in agriculture
+factor analytic models
+statistical computing - in particular with speeding up parameter estimation in linear mixed models
+experimental design
+statistical genetics and genomics
+Back to Top
+Teaching and supervision
+Supervision
+Luke Mazur (PhD) Computational methods for analysis of big data - linear mixed models with application in genomics
+Past students
+Nicole Cocks (Honours) Improving the computational efficiency of model-based design with an application to the design of multiphase experiments
+Nicole Cocks (Summer) Statistical protocols for late maturity alpha-amylase in wheat
+Lauren Borg (Honours) On spatial model selection for phenotypic experiments in plant improvement programs
+Lauren Borg (Summer) On the design and analysis of early stage plant breeding selection experiments
+Safee Azam (Project) On the accuracy of the delta method for functions of REML estimates of variance parameters
+Contact me if you are interested in a project with statistical application and methodology in agriculture or in more general, a project with statistical modelling (not limited to any discipline).
+Teaching
+I co-teach STAT3012 (Applied Linear Models) and STAT5002 (Introduction to Statistics) in Semester 1 (March-June).
+Timetable
+Back to Top
+Selected publications
+Download citations: PDF RTF Endnote
+By type
+By year
+Expand all
+Journals
+Tanaka, E., Bailey, T., Keich, U. (2014). Improving MEME via a two-tiered significance analysis. Bioinformatics, 30(14), 1965-1973. [More Information]
+Tanaka, E., Bailey, T., Grant, C., Noble, W., Keich, U. (2011). Improved similarity scores for comparing motifs. Bioinformatics, 27(12), 1603-1609. [More Information]
+Liachko, I., Tanaka, E., Cox, K., Claire, S., Yang, L., Seher, A., Hallas, L., Cha, E., Kang, G., Pace, H., Keich, U., et al (2011). Novel Features of ARS Selection in Budding Yeast Lachancea kluyveri. BMC Genomics, 12(633), 1-18. [More Information]
+Back to Top
+To update your profile click here. For support on your academic profile contact Research Support.
+© 2002-17 The University of Sydney. Last updated: 11 April 2013
+ABN: 15 211 513 464. CRICOS number: 00026A. Phone: +61 2 9351 2222.
+Authorised by: Dean, Faculty of Science.
+Contact the University | Disclaimer | Privacy | Accessibility
+Sitemap
+Current students
+Future students
+Research
+Alumni
+For staff
+Online Store
+About the Faculty
+News
+Contact us

@@ -1,0 +1,54 @@
+###AuthorName=Matthew J. Lang
+###AuthorTitle=Postdoctoral
+###Affiliation=Department of Chemical and Biomolecular Engineering
+###Position=Associate Professor
+##############################
+Singapore-MIT Alliance for Research & Technology
+BioSystems and Micromechanics (BioSyM) Inter-Disciplinary Research Group
+  Home
+People
+Research
+Publications
+Facilities
+Highlights
+Careers
+Events
+Useful Links
+Contact us
+SMART Intranet
+Matthew J. Lang
+Associate Professor of Chemical and Biomolecular Engineering, Vanderbilt University
+http://web.mit.edu/~langlab/index.html
+Positions
+2010-Present Associate Professor, Vanderbilt University, Department of Chemical and Biomolecular Engineering
+2008-2010 Associate Professor of Biological and Mechanical Engineering, M.I.T.
+2002-2008 Assistant Professor of Biological and Mechanical Engineering, M.I.T.
+1999-2002 Postdoctoral Fellow, Stanford University, Departments of Biological Sciences and Applied Physics
+1998-1999 Postdoctoral Fellow, Princeton University, Department of Molecular Biology and the Princeton Materials Institute
+1998 Postdoctoral Fellow, U.C. Berkeley, Department of Chemistry and the Physical Biosciences Division LBNL.
+Honors
+NSF CAREER Award. (2007)
+Speaker, 2007 U.S. Frontiers of Engineering Symposium, National Academy of Engineering. (2007)
+W.M. Keck Career Development Professor in Biomedical Engineering, M.I.T. (2003-2006)
+Jane Coffin Childs Postdoctoral Fellowship for Medical Research, Stanford. (1999-2002)
+GANN Fellowship, University of Chicago. (1996)
+Dr. E.W. and Maude V. Flagg Award, University of Rochester. (1992)
+Selected peer-reviewed publications
+P. Honarmandi, H. Lee, M.J. Lang and R.D. Kamm “A microfluidic system with optical laser tweezers to study mechanotransduction and focal adhesion recruitment.” Lab Chip 11 684–694, (2011). PMID: 21152510.
+S.T. Kim, K. Takeuchi, Z-Y. Sun, M. Touma, C.E. Castro, A. Fahmy, M.J. Lang, G. Wagner and E.L. Reinherz “The T cell receptor is an anisotropic mechanosensor,” Journal of Biological Chemistry. 284 31028–31037, (2009). PMCID: 2781503.
+M.E. Aubin-Tam, A.O. Olivares, R.T. Sauer, T.A. Baker, M.J. Lang “Single-Molecule Protein Unfolding and Translocation by an ATP-Fueled Proteolytic Machine,” Cell 145 257–267, (2011). PMID: 21496645.
+M-E. Aubin-Tam, D. C. Appleyard, E. Ferrari, V. Garbin, O. O. Fadiran, J. Kunkel and M. J. Lang “Adhesion through single peptide aptamers,” Journal of Physical Chemistry A 115 3657–3664, (2011). PMID: 20795685.
+Shin Y, Davis JJ, Brau RR, Martin A, Kenniston JA, Baker TA, Sauer RT, and Lang MJ, “Single-molecule denaturation and degradation of proteins by the AAA+ ClpXP protease,” Proceedings of the National Academy of Sciences, USA, accepted (2009).
+Hwang W and Lang MJ, “Mechanical design of translocating motor proteins,” Cell Biochemistry and Biophysics. 2009;54: 11-22.
+Khalil AS, Appleyard DC, Labno AK, Georges A, Karplus M, Belcher A, Hwang W, and Lang MJ, “Kinesin’s cover-neck bundle folds forward to generate force,” Proceedings of the National Academy of Sciences, USA. 2008;105 19246-19251.
+Ferrer JM, Lee H, Chen J, Nakamura F, Pelz B, Kamm RD, and Lang MJ, “Measuring molecular rupture forces between single actin filaments and actin binding proteins,” Proceedings of the National Academy of Sciences, USA. 2008;105 9221-9226.
+Hwang W, Lang MJ, Karplus M, “Force generation in kinesin hinges on cover-neck bundle formation,” Structure. 2008;16: 62-71.
+Appleyard DC, Lang MJ, “Active particle control through silicon using conventional optical trapping techniques,” Lab on a Chip. 2007;7: 1837-1840.
+Tarsa PB, Brau RR, Barch M, Ferrer JM, Freyzon Y, Matsudaira P, Lang MJ “Detecting force-induced molecular transitions with fluorescence resonant energy transfer,” Angewandte Chemie. 2007;46 1999-2001.
+Khalil AS, Ferrer JM, Brau RR, Kottmann ST, Noren CJ, Lang MJ, Belcher AM, “Single M13 bacteriophage tethering and stretching,” Proceedings of the National Academy of Sciences, USA. 2007;104: 4892-4897.
+Mills JP, Diez-Silva MD, Quinn DJ, Dao M, Lang MJ, Tan KSW, Lim CT, Milon G, David PH, Mercereau-Puijalon O, Bonnnefoy S, Suresh S, “Effect of plasmodial RESA protein on deformability of human red blood cells harboring plasmodium falciparum,” Proceedings of the National Academy of Sciences, USA. 2007;104: 9213-9217.
+Lang MJ, Fordyce PM, Engh AM, Neuman KC, Block SM, “Simultaneous, coincident optical trapping and single-molecule fluorescence,” Nature Methods. 2004; 1:133-139.
+Block SM, Asbury CL, Shaevitz JW, Lang MJ, “Probing the kinesin reaction cycle with a two-dimensional optical force clamp,” Proceedings of the National Academy of Sciences, USA. 2003;100: 2351-2356.
+Lang MJ, Asbury CL, Shaevitz JW, Block SM, “An automated 2D optical force clamp for single molecule studies,” Biophysical Journal. 2002;83:491-501.
+Lang MJ and Block SM, “Resource Letter: Laser-based optical tweezers,” American Journal of Physics. 2003;71: 201-215.
+Lang MJ, Jordanides XJ, Song X, Fleming GR, “Aqueous solvation dynamics studied by photon echo spectroscopy,” Journal of Physical Chemistry B. 1999;110: 5884-5892.

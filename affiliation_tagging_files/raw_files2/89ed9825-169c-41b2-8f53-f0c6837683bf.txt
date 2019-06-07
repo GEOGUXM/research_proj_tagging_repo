@@ -1,0 +1,25 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Department of Computer Science
+The Department of Computer Science is responsible for teaching and research in computer science at the University of Helsinki.
+UNIVERSITY OF HELSINKI
+FACULTY OF SCIENCE
+Suomi English
+Home
+Research
+Studies
+Prospective Students
+Alumni
+Administration
+Computing facilities
+People
+Contact
+Address: Department of Computer Science, P.O. 68 (Gustaf Hällströmin katu 2b), FI-00014 UNIVERSITY OF HELSINKI, FINLAND
+Opening Hours: During spring and autumn semesters Mon - Fri 7.45 - 19.45 (7.45 am - 7.45 pm)
+Phone: +358 9 1911 (University switch)
+General e-mail: info [at] cs.helsinki.fi
+Fax: +358 9 876 4314
+Log in | Webmaster

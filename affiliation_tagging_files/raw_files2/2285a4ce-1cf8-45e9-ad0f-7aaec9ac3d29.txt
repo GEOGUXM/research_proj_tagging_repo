@@ -1,0 +1,120 @@
+###AuthorName=McCluskey, F. Patrick
+###AuthorTitle=Professor
+###Affiliation=Department of Mechanical Engineering
+###Position=Leader
+##############################
+HomeAboutAcademicsFearless Ideas
+This Site umd.edu
+
+HOME
+ABOUT US
+NEWS
+EVENTS
+UNDERGRADUATE STUDIES
+GRADUATE STUDIES
+FACULTY & STAFF
+RESEARCH
+ALUMNI
+GIVING
+EMPLOYMENT
+PHOTO GALLERIES
+CANVAS LOGIN
+Mechanical Engineering
+(link is external)
+Undergraduate Studies
+(link is external)
+  Return to Faculty Directory
+
+McCluskey, F. Patrick
+Professor
+Leader, Electronics and Product Systems Division
+Department of Mechanical Engineering
+2125 Glenn L. Martin Hall, Building 088
+University of Maryland
+College Park, MD 20742
+Email: 
+mcclupa@umd.edu
+(link sends e-mail)
+Phone: 
+301-405-0279
+Fax: 
+301-314-9477
+Website
+(link is external)
+Research Interests 
+High temperature and high power electronics packaging, materials, and reliability
+Education 
+Ph.D., Lehigh University, 1991
+M.S., Lehigh University, 1986
+B.S., Lafayette College, 1984
+Professional Memberships and Service 
+Associate Editor, IEEE Components and Packaging Technologies
+Co-organizer of Symposium N: Microelectronics and Microsystem Packaging, Materials Research Society Spring Meeting (2001)
+Organizing Committee and Short Course Director, Fifth International High Temperature Electronics Conference (June 2000)
+Member, NSF Proposal Review Panel on Materials Processing and Manufacturing
+Technical Program Chair, IMAPS International Conference on High Temperature Electronics, (2004, 2006, 2008)
+Technical Program Committee for SIA Int'l Conference on Automotive Power Electronics (2009)
+Organizing Committee for the CIPS Conference (2010, 2012)
+Organizing Committee for IMAPS European High Temperature Electronics Conference (2009, 2011)
+Selected Publications 
+2009
+P. Quintero, F. P. McCluskey, "Silver-Indium Transient Liquid Phase Sintering for High Temperature Die Attachment," J. Microelectronics and Electronic Packaging,  Vol. 6, pp. 66-74.  (2009).
+R. W. Chang and F. P. McCluskey, "Reliability Assessment of Indium Solder for Low Temperature Electronic Packaging," Cryogenics, 49 (11), pp. 630-634 (2009).
+2006
+F. P. McCluskey, M. Dash, Z. Wang, and D. Huff, "Reliability of High Temperature Solder Alternatives," Microelectronics Reliability, Vol. 46, No. 9-11, pp. 1910-1914 (2006).
+2004
+Chandrasekaran and F. P. McCluskey, "Effect of Green Molding Compounds on High Temperature Wirebond Reliability," Micromaterials and Nanomaterials, Issue 3. Vol. 2004.  pp. 134-143, (2004).
+2003
+K. Meyyappan, P. McCluskey, and L. Chen, "Thermomechanical Analysis of Gold-Based SiC Die Attach Assembly," IEEE Trans Device and Materials Reliability, Vol. 3, No. 4. pp. 152-158, (2003).
+2001
+McCluskey, F.P., "Fatigue and Intermetallic Formation in Lead Free Soldier Die Attach," Proceedings of IPACK'01, The Pacific Rim/ASME International Electronic Packaging Technical Conference and Exhibition, July 9-13, 2001, Kauai, HI.
+McCluskey, F.P., "A Web-Based Graduate Course on the Mechanical Design of High Temperature and High Power Electronics," Proceedings of the Electronic Component and Technology Conference, Lake Buena Vista, FL, May 30, 2001, pp. 397-400.
+2000
+McCluskey, F.P., K. Mensah, C. O'Connor, and A. Gallo, " Reliable Use of Commercial Technology in High Temperature Environments," Microelectronics Reliability, Vol. 40, pp. 1671-1678 (2000).
+McCluskey, F.P., Y.D. Kweon, H.J. Lee, J.W. Kim, and H.S. Jeon, "Method for Assessing Remaining Life in Electronics Assembles," Microelectronics Reliability, Vol. 40, No. 2, pp. 293-306 (2000).
+1998
+Palli, N., S. Azarm, F.P. McCluskey, and R. Sundararajan, "An Interactive Multistage e-Inequality Constraint Method for Multiple Objectives Decision Making," Journal of Mechanical Design, Vol. 120, pp. 678-686 (December 1998).
+R.R. Grzybowski and F.P. McCluskey, "High Temperature Performance of Polymer Film Capacitors," Journal of Microelectronic Packaging, Vol. 1, pp. 153-158 (1998).
+McCluskey, P., F. Lilie, O. Beysser, A. Gallo, “Low Temperature Delamination of Plastic Encapsulated Microcircuits,” Microelectronics Reliability, Vol. 38, No. 12, pp. 1829-1834 (December 1998).
+McCluskey, F.P., E.B, Hakim, J. Fink, A. Fowler, and M. Pecht, “Reliability Assessment of Electronic Components Exposed to Long-Term Non-Operating Conditions,” IEEE Transactions on Components, Packaging and Manufacturing Technology, Part A, Vol. 21, No. 2, pp. 352-360 (June 1998).
+1997
+McCluskey, F.P., M.B. Wright, and D. Humphrey, "Uprating Electronic for Use Outside their Temperature Specifications Limits,"  IEEE Transactions on Components, Packaging, and Manufacturing Technology, Part A, Vol. 20, No. 2, pp. 252-256 (1997).
+McCluskey, F.P., D. Das, J. Jordan, R.R. Grzybowski, J. Fink, L. Condra, and T.C. Torri, "Packaging of Electronics for High Temperature Applications," The International Journal of Microcircuits and Electronic Packaging, Vol. 20, No. 3, pp. 409-423 (1997).
+McCluskey, F.P., R. Munamarty, and M. Pecht, "Popcorning in PBGA Packages During IR Reflow Soldering," Microelectronics International, No. 42, pp. 20-23 (1997).
+1996
+McCluskey, F.P., R.R. Grzybowski, and T.F. Podlesak, eds., "High Temperature Electronics," CRC Press, Boca Raton, FL (1996).
+Related News 
+McCluskey Co-PI on NSF Partnership for Innovation Grant on Electric Vehicle Technology
+Researchers will develop an onboard inegrated charger/converter. March 25, 2016
+UMD Researchers Creating First Onboard Fast-Charging System for Electric Vehicles
+NSF funds innovative interdisciplinary research for Khaligh and McCluskey September 11, 2015
+UMD Students Win Poster Session at NASA's Thermal and Fluids Analysis Workshop
+Graduate students Allison Porter (Aerospace Engineering) and David Squiller (Mechanical Engineering) placed second and third at 2015 NASA TFAW poster session. August 13, 2015
+Invention of the Year Nominee: A New Joint Soldering Paste with High Temperature Resistance
+Innovation developed by McCluskey offers potential application in aviation, space exploration, and hybrid electric vehicles April 27, 2015
+UMD To Celebrate Innovations and Partnerships April 29
+Nine nominees for Invention of the Year to be recognized at annual event March 23, 2015
+Clark School Faculty Promotions Announced
+Faculty promoted to full professor, associate professor with tenure. June 5, 2014
+Offshore Wind Energy and Reliability
+Clark School professors support the State of Maryland's efforts to establish a resilient wind farm. May 25, 2014
+Exploring Offshore Wind Energy for Maryland
+Md. Higher Education Commission funds Clark School study of reliability, cost-effectiveness of wind-generated energy. September 10, 2013
+Khaligh is PI for hybrid energy storage system NSF GOALI grant
+New lightweight system will offer increased battery life for electric cars. September 3, 2013
+"Embedded Cooling" of Next-Generation Power Electronics
+UMD Research Team wins $2.1 million contract from DARPA to develop "embedded cooling" technology May 24, 2013
+Mechanical Engineering Graduates Placed in Academia
+Pedro Quintero and William McGill return to the classroom as Assistant Professors April 20, 2009
+Department Well-Represented at OTC Invention Awards
+Professors Baz & McCluskey earn top recognition. April 26, 2007
+2006 ME Research Review Day Highlights
+Research Review Day held on March 20, 2006 at the University Inn and Conference Center. February 15, 2006
+Workshop on Power Device Packaging Reliability Held
+Associate Professor Patrick McCluskey hosted Workshop on Power Device Packaging Reliability at UMD. June 23, 2003
+UMD
+(link is external)
+| Clark School
+(link is external)
+| ENME Home | Site Map
+Copyright © 2017 University of Maryland.

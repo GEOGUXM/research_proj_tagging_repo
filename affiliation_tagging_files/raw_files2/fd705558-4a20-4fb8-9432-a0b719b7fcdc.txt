@@ -1,0 +1,676 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Research News and Events Seminar Series Contact Us
+Home
+About Us
+  Meet MIPSE Faculty
+  Seminar Series
+    Seminars 2009-2010
+    Seminars 2010-2011
+    Seminars 2011-2012
+    Seminars 2012-2013
+    Seminars 2013-2014
+    Seminars 2014-2015
+    Seminars 2015-2016
+    Seminars 2016-2017
+  Research
+  News and Events
+  Contact Us
+Plasma in Our Lives
+Faculty and Staff
+  MIPSE Members
+  Seed Grants in PSE
+  Membership in MIPSE
+Students and Post Docs
+  Student Research and Vita
+  Graduate Program in PSE
+  PSE Courses
+  Supporting Courses
+  Graduate Fellowships
+Student Symposia
+  Graduate Symposium 2010
+  Graduate Symposium 2011
+  Graduate Symposium 2012
+  Graduate Symposium 2013
+  Graduate Symposium 2014
+  Graduate Symposium 2015
+  Graduate Symposium 2016
+  Graduate Symposium 2017
+Visitors
+Industrial Affiliates Program
+Plasmas for People
+  Outreach Activities
+  Consulting Bureau
+  Plasmas and Public Policy
+Job Opportunities
+
+DOE Plasma Science Center
+FACULTY AND STAFF MEMBERS
+University of Michigan
+Michigan State University
+Michigan Technological University
+National and International Members
+Former Members
+Rebecca Anthony
+Mechanical Engineering, Michigan State University
+Jes Asmussen
+Electrical and Computer Engineering, Michigan State University
+Arvind Atreya
+Mechanical Engineering, University of Michigan
+Natalia Babaeva
+Joint Institute for High Temperatures RAS, Russia
+Shanker Balasubramaniam
+Electrical and Computer Engineering, Michigan State University
+Frederick Becchetti
+Physics, University of Michigan
+Martin Berz
+Physics and Astronomy, Michigan State University
+Stephen Bougher
+Climate and Space Sciences and Engineering, University of Michigan
+Iain Boyd
+Aerospace Engineering, University of Michigan
+David Chalenski
+Yingda Cheng
+Mathematics, Michigan State University
+Yongjun Choi
+Institute for Cyber-Enabled Research, Michigan State University
+Andrew Christlieb
+Computational Mathematics, Science and Engineering, Michigan State University
+Herek Clack
+Civil and Environmental Engineering, University of Michigan
+Sean Couch
+Physics and Astronomy, Michigan State University
+Paul Drake
+Climate and Space Sciences and Engineering, University of Michigan
+August Evrard
+Physics, University of Michigan
+Qi Hua Fan
+Electrical and Computer Engineering, Michigan State University
+Gennady Fiksel
+Nuclear Engineering and Radiological Sciences
+John Foster
+Nuclear Engineering and Radiological Sciences, University of Michigan
+Alec Gallimore
+Aerospace Engineering, University of Michigan
+Mirko Gamba
+Aerospace Engineering, University of Michigan
+Maria Carmen García Martínez
+Departamento de Física Aplicada, University of Córdoba
+Yogesh Gianchandani
+Electrical Engineering and Computer Science, University of Michigan
+Brian Gilchrist
+Electrical Engineering and Computer Science, University of Michigan
+Ron Gilgenbach
+Nuclear Engineering and Radiological Sciences, University of Michigan
+Tamas Gombosi
+Climate and Space Sciences and Engineering, University of Michigan
+Dennis Grimard
+Massachusetts Institute of Technology
+Timothy Grotjohn
+Electrical and Computer Engineering, Michigan State University
+John Hart
+James Holloway
+Nuclear Engineering and Radiological Sciences, University of Michigan
+Benjamin Jorns
+Aerospace Engineering, University of Michigan
+Chan Joshi
+Electrical Engineering, UCLA
+Eric Johnsen
+Mechanical Engineering, University of Michigan
+Nick Jordan
+Nuclear Engineering and Radiological Sciences, University of Michigan
+Justin Kasper
+Climate and Space Sciences and Engineering, University of Michigan
+Paul Keiter
+Climate and Space Sciences and Engineering, University of Michigan
+L. Brad King
+Mechanical Engineering-Engineering Mechanics, Michigan Technological University
+Robert Krasny
+Mathematics, University of Michigan
+Karl Krushelnick
+Nuclear Engineering and Radiological Sciences, University of Michigan
+Carolyn Kuranz
+Climate and Space Sciences and Engineering, University of Michigan
+Mark Kushner
+Electrical Engineering and Computer Science, University of Michigan
+Yue Ying Lau
+Nuclear Engineering and Radiological Sciences, University of Michigan
+Hae June Lee
+Electrical Engineering, Pusan National University, Republic of Korea
+Tonghun Lee
+Mechanical Engineering, Michigan State University
+Susan Lepri
+Climate and Space Sciences and Engineering, University of Michigan
+Michael Liemohn
+Climate and Space Sciences and Engineering, University of Michigan
+Benjamin Longmier
+Aerospace Engineering, University of Michigan
+Anatoly Maksimchuk
+Electrical Engineering and Computer Science, University of Michigan
+Jyoti Mazumder
+Mechanical Engineering, University of Michigan
+Ryan McBride
+Nuclear Engineering and Radiological Sciences, University of Michigan
+Eric Michielssen
+Electrical Engineering and Computer Science, University of Michigan
+Mark Moldwin
+Climate and Space Sciences and Engineering, University of Michigan
+John Nees
+Electrical Engineering and Computer Science, University of Michigan
+Brian O'Shea
+Physics and Astronomy, Michigan State University
+Stella Pang
+Jim Raines
+Climate and Space Sciences and Engineering, University of Michigan
+Nilton Renno
+Climate and Space Sciences and Engineering, University of Michigan
+Edward Rothwell
+Electrical and Computer Engineering, Michigan State University
+Mateusz Ruszkowski
+Astronomy, University of Michigan
+Thomas Schuelke
+Electrical and Computer Engineering, Michigan State University
+J. P. Sheehan
+Aerospace Engineering
+Max Shtein
+Materials Science and Engineering, University of Michigan
+Volker Sick
+Mechanical Engineering, University of Michigan
+James Slavin
+Climate and Space Sciences and Engineering, University of Michigan
+Timothy Smith
+Aerospace Engineering, University of Michigan
+Shuichi Takayama
+Biomedical Engineering, University of Michigan
+Fred Terry
+Electrical Engineering and Computer Science, University of Michigan
+Alexander Thomas
+Nuclear Engineering and Radiological Sciences, University of Michigan
+Gabor Toth
+Climate and Space Sciences and Engineering, University of Michigan
+John Verboncoeur
+Electrical and Computer Engineering, Michigan State University
+Louise Willingale
+Electrical Engineering and Computer Science, University of Michigan
+Kensall Wise
+Electrical Engineering and Computer Science, University of Michigan
+Margaret Wooldridge
+Mechanical Engineering, University of Michigan
+Zhongmin Xiong
+Victor Yanovsky
+Electrical Engineering and Computer Science, University of Michigan
+Peng Zhang
+Electrical and Computer Engineering, Michigan State University
+Thomas H. Zurbuchen
+NASA
+UNIVERSITY OF MICHIGAN
+Electrical Engineering and Computer Science
+Yogesh Gianchandani
+Electrical Engineering and Computer Science
+Office: 2403 EECS
+Phone: 734-763-9030
+Fax: 734-763-9324
+Email: yogesh@umich.edu
+Websites: Yogesh Gianchandani . WIMS2
+Brian Gilchrist
+Electrical Engineering and Computer Science
+Office: 2240 EECS
+Phone: 734-763-6230
+Fax: 734-763-1503
+Email: gilchrst@eecs.umich.edu
+Website: Brian Gilchrist
+Mark J. Kushner
+Electrical Engineering and Computer Science
+Office: 2236 EECS
+Phone: 734-647-1695
+Email: mjkush@umich.edu
+Website: Computational Optical and Discharge Physics Group (CODPG)
+Anatoly Maksimchuk
+Electrical Engineering and Computer Science
+Office: 1010 Gerstacker
+Phone: 734-763-6007
+Fax: 734-763-4876
+Email: tolya@umich.edu
+Website: Anatoly Maksimchuk
+Eric Michielssen
+Electrical Engineering and Computer Science
+Office: 3420 EECS
+Phone: 734-647-1793
+Email: emichiel@umich.edu
+Website: Eric Michielssen
+John Nees
+Electrical Engineering and Computer Science
+Office: 1012 Gerstaker
+Phone: 734-764-9271
+Fax: 734-763-4876
+Email: nees@eecs.umich.edu
+Website: CUOS
+Fred Terry
+Electrical Engineering and Computer Science
+Office: 2417 EECS
+Phone: 734-763-9764
+Email: fredty@umich.edu
+Website: Fred Terry
+Louise Willingale
+Electrical Engineering and Computer Science
+Office: 1906 Cooley
+Phone: 734-763-4980
+Email: wlouise@umich.edu
+Website: Louise Willingale
+Presently with Cockcroft Accelerator Institute and Lancaster University
+Ken Wise
+Electrical Engineering and Computer Science
+Office: 2401 EECS
+Phone: 734-764-3346
+Fax: 734-647-2342
+Email: wise@umich.edu
+Websites: Ken Wise . WIMS2
+Victor Yanovsky
+Electrical Engineering and Computer Science
+Office: 1014 Gerstacker Building
+Phone: 734-647-0971
+Fax: 734-763-4876
+Email: vpy@eecs.umich.edu
+Website: Victor Yanovsky
+Nuclear Engineering and Radiological Sciences
+Gennady Fiksel
+Nuclear Engineering and Radiological Sciences
+Office: 1906 Cooley
+Phone: 734-647-3769
+Email: gfiksel@umich.edu
+John Foster
+Nuclear Engineering and Radiological Sciences
+Office: 2915 Cooley
+Phone: 734-764-1976
+Email: jefoster@umich.edu
+Website: Plasma Science and Technology Group
+Ron Gilgenbach
+Nuclear Engineering and Radiological Sciences
+Office: 1941 Cooley Memorial Laboratory
+Phone: 734-763-1261
+Email: rongilg@umich.edu
+Website: Plasma, Pulsed Power, and Microwave Laboratory
+James Holloway
+Nuclear Engineering and Radiological Sciences
+Office: 1261 Lurie Engineering Center
+Phone: 734-936-3126
+Fax: 734-763-4540
+Email: hagar@umich.edu
+Website: James Holloway
+Nick Jordan
+Nuclear Engineering and Radiological Sciences
+Office: 112 NAME
+Phone: 734-763-0213
+Email: jordann@umich.edu
+Karl Krushelnick
+Nuclear Engineering and Radiological Sciences
+Physics Department
+Office: 6103 ERB-1
+Phone: 734-763-4877
+Fax: 734-763-4876
+Email: kmkr@umich.edu
+Website: Center for Ultrafast Optical Science (CUOS)
+Yue Ying Lau
+Nuclear Engineering and Radiological Sciences
+Office: 2923 Cooley Memorial Laboratory
+Phone: 734-764-5122
+Email: yylau@umich.edu
+Website: Yue Ying Lau
+Ryan McBride
+Nuclear Engineering and Radiological Sciences
+Office: 1941 Cooley Memorial Laboratory
+Phone: 734-763-7504
+Email: mcbrider@umich.edu
+Website: Ryan McBride
+Alexander Thomas
+Nuclear Engineering and Radiological Sciences
+Office: 6107 ERB-2
+Phone: 734-763-6008
+Email: agrt@umich.edu
+Website: Alexander Thomas
+Presently with Cockcroft Accelerator Institute and Lancaster University
+Aerospace Engineering
+Iain Boyd
+Aerospace Engineering
+Office: 3012 FXB
+Phone: 734-615-3281
+Fax: 734-763-0578
+Email: iainboyd@umich.edu
+Website: Nonequilibrium Gas and Plasma Dynamics Laboratory
+Alec Gallimore
+Aerospace Engineering
+Office: 3037 FXB
+Phone: 734-764-8224
+Fax: 734-763-0578
+Email: alec.gallimore@umich.edu
+Websites: Plasmadynamics and Electric Propulsion Lab (PEPL)
+Mirko Gamba
+Aerospace Engineering
+Office: 3045 FXB
+Phone: 734-764-6675
+Fax: 734-763-0578
+Email: mirkog@umich.edu
+Websites: Gas Dynamics Imaging Laboratory
+Benjamin Jorns
+Aerospace Engineering
+Phone: 734-764-8224
+Email: bjorns@umich.edu
+Website: Plasmadynamics and Electric Propulsion Lab (PEPL)
+Benjamin Longmier
+Aerospace Engineering
+Office: 3053 FXB
+Phone: 734-764-6792
+Email: longmier@umich.edu
+Website: Benjamin Longmier
+J. P. Sheehan
+Aerospace Engineering
+Office: 3017 FXB
+Phone: 734-764-6792
+Email: sheehanj@umich.edu
+Website: J. P. Sheehan
+Timothy Smith
+Aerospace Engineering
+Office: 3041 FXB
+Phone: 734-615-7278
+Email: timsmith@umich.edu
+Website: Tim Smith
+Climate and Space Sciences and Engineering
+Stephen Bougher
+Climate and Space Sciences and Engineering
+Office: 2418C Space Research Laboratory
+Phone: 734-647-3585
+Fax: 734-615-9723
+Email: bougher@umich.edu
+Website: Stephen Bougher
+R. Paul Drake
+Climate and Space Sciences and Engineering
+Office: 1420 Space Research Laboratory
+Phone: 734-763-4072
+Fax: 734-647-3083
+Email: rpdrake@umich.edu
+Website: Center for Radiative Shock Hydrodynamics (CRASH)
+Tamas Gombosi
+Climate and Space Sciences and Engineering
+Office: 1517 Space Research Building
+Phone: 734-764-7222
+Fax: 734-615-4645
+Email: tamas@umich.edu
+Websites: Tamas Gombosi .Center for Space Environment Modeling
+Justin Kasper
+Climate and Space Sciences and Engineering
+Phone: 734-647-3350
+Email: jckasper@umich.edu
+Website: Justin Kasper
+Paul Keiter
+Climate and Space Sciences and Engineering
+Office: 2106 Space Research Building
+Phone: 734-647-9860
+Email: pkeiter@umich.edu
+Website: Paul Keiter
+Carolyn Kuranz
+Climate and Space Sciences and Engineering
+Office: 1424A SRB
+Phone: 734-615-6282
+Fax: 734-647-3083
+Email: ckuranz@umich.edu
+Website: Center for Radiative Shock Hydrodynamics (CRASH)
+Susan Lepri
+Climate and Space Sciences and Engineering
+Office: 2417 SRB
+Phone: 410-575-3774
+Fax: 734-615-9723
+Email: slepri@umich.edu
+Website: The Solar and Heliospheric Research Group
+Michael Liemohn
+Climate and Space Sciences and Engineering
+Office: 1436 Space Research Building
+Phone: 734-763-6229
+Fax: 734-647-3083
+Email: liemohn@umich.edu
+Website: Michael Liemohn
+Mark Moldwin
+Climate and Space Sciences and Engineering
+Office: 1429 Space Research Building
+Phone: 310-825-5556
+Email: mmoldwin@umich.edu
+Website: Mark Moldwin
+Jim Raines
+Climate and Space Sciences and Engineering
+Office: 2415A Space Research Building
+Phone: 734-763-6223
+Email: jraines@umich.edu
+Website: The Solar and Heliospheric Research Group
+Nilton Renno
+Climate and Space Sciences and Engineering
+Office: 1531C SRB
+Phone: 734-936-0488
+Fax: 734-936-0503
+Email: nrenno@umich.edu
+Website: Nilton Renno
+James Slavin
+Climate and Space Sciences and Engineering
+Office: 1517 SRB
+Email: jaslavin@umich.edu
+Website: James A. Slavin
+Gábor Tóth
+Climate and Space Sciences and Engineering
+Office: 1424C SRB
+Phone: 734-615-5362
+Email: gtoth@umich.edu
+Website: Gábor Tóth
+Mechanical Engineering
+Arvind Atreya
+Mechanical Engineering
+Office: 2158 GGB
+Phone: 734-647-4790
+Fax: 734-647-3170
+Email: aatreya@umich.edu
+Website: Arvind Atreya
+Eric Johnsen
+Mechanical Engineering
+Office: 2015 Lay Automotive Lab
+Phone: 734-647-1450
+Email: ejohnsen@umich.edu
+Website: Eric Johnsen
+Jyoti Mazumder
+Mechanical Engineering
+Office: 2041 GG Brown
+Phone: 734-647-6824
+Fax: 734-763-5772
+Email: mazumder@umich.edu
+Website: Jyoti Mazumder
+Volker Sick
+Mechanical Engineering
+Office: 2023 W. E. Lay Automotive Lab
+Phone: 734-647-9607
+Fax: 734-764-4256
+Email: vsick@umich.edu
+Website: Volker Sick
+Margaret S. Wooldridge
+Mechanical Engineering;
+Aerospace Engineering
+Office: 2156 GGB
+Phone: 734-936-0349
+Fax: 734-647-3170
+Email: mswool@umich.edu
+Website: Combustion Laboratory
+Materials Science and Engineering
+Max Shtein
+Materials Science and Engineering
+Office: 2014 Dow
+Phone: 734-764-4312
+Fax: 734-763-4788
+Email: mshtein@umich.edu
+Website: Max Shtein
+Biomedical Engineering
+Shuichi Takayama
+Biomedical Engineering
+Office: 2115 Carl A. Gerstacker Building
+Phone: 734-615-5539
+Fax: 734-936-1905
+Email: takayama@umich.edu
+Website: The Micro/Nano/Molecular Biotechnology Lab
+Civil and Environmental Engineering
+Herek Clack
+Civil and Environmental Engineering
+Office: 169 EWRE Building
+Phone: 734-763-6830
+Fax: 734-764-4292
+Email: hclack@umich.edu
+Website: Clack Lab
+Physics
+Frederick Becchetti Jr.
+Physics Department
+Office: 2241 Randall
+Phone: 734-764-1598
+Fax: 764-6843
+Email: fdb@umich.edu
+Website: TwinSol
+August Evrard
+Physics Department
+Office: 3245 Randall
+Phone: 734-764-4366
+Email: evrard@umich.edu
+Website: August Evrard
+Mathematics
+Robert Krasny
+Mathematics
+Office: 4830 East Hall
+Phone: 734-763-3505
+Fax: 734-763-0937
+Email: krasny@umich.edu
+Website: Robert Krasny
+Astronomy
+Mateusz Ruszkowski
+Astronomy
+Office: 833 Dennison Building
+Phone: 734-255-4249
+Fax: 734-763-6317
+Email: mateuszr@umich.edu
+Website: Mateusz Ruszkowski
+MICHIGAN STATE UNIVERSITY
+Electrical and Computer Engineering
+Jes Asmussen
+Electrical and Computer Engineering
+Office: B100 & C104 Engineering Research Complex
+Phone: 517-355-4620
+Fax: 517-353-1980
+Email: asmussen@msu.edu
+Website: Jes Asmussen
+Shanker Balasubramaniam
+Electrical and Computer Engineering
+Office: 2120 Engineering Building
+Phone: 517-432-8136
+Fax: 517-353-1980
+Email: bshanker@msu.edu
+Website: Shanker Balasubramaniam
+Qi Hua Fan
+Electrical and Computer Engineering
+Phone: 517-355-5066
+Email: qfan@msu.edu
+Website: Qi Hua Fan
+Timothy Grotjohn
+Chair, Electrical and Computer Engineering
+Office: 2120 Engineering Building, C105 Engineering Research Complex
+Phone: 517-353-8906, 517-432-7127
+Fax: 517-353-1980
+Email: grotjohn@egr.msu.edu
+Website: Timothy Grotjohn
+Edward Rothwell
+Electrical and Computer Engineering
+Office: 2120 Engineering Building
+Phone: 517 355-5231
+Fax: 517 353-1980
+Email: rothwell@egr.msu.edu
+Website: Edward Rothwell
+Thomas Schuelke
+Electrical and Computer Engineering
+Office: B100 Engineering Research Complex
+Phone: 517 432-8173
+Email: tschuelke@fraunhofer.org
+Director, Fraunhofer USA
+John Verboncoeur
+Electrical and Computer Engineering
+Email: johnv@msu.edu
+Website: John Verboncoeur
+Peng Zhang
+Electrical and Computer Engineering
+Office: 2507A Engineering Building
+Email: pz@egr.msu.edu
+Website: NanoPATh Group
+Computational Mathematics, Science and Engineering
+Andrew Christlieb
+Computational Mathematics, Science and Engineering
+Office: D304 Wells Hall
+Phone: 517-353-3831
+Fax: 517-432-1562
+Email: christli@msu.edu
+Website: Andrew Christlieb
+Mechanical Engineering
+Rebecca Anthony
+Mechanical Engineering
+Office: 2453 Engineering Building
+Phone: 517-432-7491
+Email: anthon92@msu.edu
+Website: Rebecca Anthony
+Physics and Astronomy
+Martin Berz
+Physics and Astronomy
+Phone: 517-884-5583
+Fax: 800-540-2433
+Email: berz@msu.edu
+Website: Martin Berz
+Sean Couch
+Physics and Astronomy
+Office: 3250 Biomedical and Physical Sciences Building
+Phone: 517-884-5035
+Email: couch@pa.msu.edu
+Website: Sean Couch
+Brian O'Shea
+Lyman Briggs College and Dept. of Physics and Astronomy
+Phone: 517-884-5638
+Email: oshea@msu.edu
+Website: Brian W. O'Shea
+Mathematics
+Yingda Cheng
+Mathematics
+Office: A337 Wells Hall
+Phone: 517-353-6332
+Email: ycheng@msu.edu
+Website: Yingda Cheng
+Institute for Cyber-Enabled Research
+Youngjun Choi
+MSU Institute for Cyber-Enabled Research
+Email: choiyj@msu.edu
+MICHIGAN TECHNOLOGICAL UNIVERSITY
+Mechanical Engineering-Engineering Mechanics
+Brad King
+MTU Mechanical Engineering-Engineering Mechanics
+Phone: 906-487-2683
+Email: lbking@mtu.edu
+Website: ISP Lab
+NATIONAL AND INTERNATIONAL MEMBERS
+Natalia Babaeva
+Joint Institute for High Temperatures RAS, Russia
+Email: nbabaeva@ihed.ras.ru
+Maria Carmen García Martínez
+Física Aplicada, University of Córdoba, Spain
+Email: fa1gamam@uco.es
+Dennis Grimard
+Massachusetts Institute of Technology
+Email: dgrimard@mit.edu
+Chandrasekhar Joshi
+Electrical Engineering, UCLA
+Phone: 310-825-7279
+Email: cjoshi@ucla.edu
+Website: UCLA Plasma Accelerator Group/Laser-Plasma Interactions
+Hae June Lee
+Electrical Engineering, Pusan National University, Republic of Korea
+Email: haejune@pusan.ac.kr
+Thomas Zurbuchen
+Science Mission Directorate, NASA
+FORMER MEMBERS
+© 2008 - 2017 MIPSE

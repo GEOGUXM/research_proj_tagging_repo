@@ -1,0 +1,94 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Skip to content
+Michigan Medicine
+(link is external)
+U-M Medical School
+(link is external)
+UofMHealth.org
+(link is external)
+COMPUTATIONAL MEDICINE AND BIOINFORMATICS
+Menu
+Search
+1
+2
+3
+Pause
+Computational Medicine and Bioinformatics
+Department of Computational Medicine and Bioinformatics
+Nationally respected for our interdisciplinary research and training programs, we strive to create novel informatics- and computationally-based methods, tools, and algorithms for basic biomedical, translational, and clinical research.  Our 36 primary and joint faculty members carry out research in the following areas:
+Genomics, regulatory genomics and epigenomics
+Protein structure, proteomics, and alternative splicing
+Multi-“omics” integrative bioinformatics
+Systems biology and networks analysis
+Biomedical data science, translational bioinformatics, and pharmacogenomics
+Methodological development in Computational Biology
+Applications to complex genetic diseases (psychiatric disorders, cancer, etc.)
+Bioinformatics Graduate Program
+Our students build a solid foundation through course works in mathematical tools in biology, signal and image analysis, Bioinformatics, Computational Biology, Genomics, Proteomics, Machine Learning, and Clinical Informatics.
+With three NIH Training Grants, we offer three degree programs (Ph.D., Master’s and Accelerated Master’s) fit various career goals of our students. Students can work with research mentors all over the University of Michigan campuses, benefiting from the collaborative culture and the vast variety of ongoing research. Our current students (~50 in the Ph.D. program and ~20 in Master’s programs) work in the labs in the Medical School, School of Public Health, College of Engineering, and the College of Literature, Science and the Arts.
+Why Michigan DCMB?
+Excellent faculty
+- Research award winners and major federal grants recipients
+- Effective mentors
+- Cutting edge research
+Interdisciplinary research
+- Collaborative culture for innovation and research impact
+Multiple training programs that match the goals of each student
+Comprehensive course offerings and research opportunities for students
+Part of University of Michigan, one of the best research universities in the world, in the vibrant, diverse and culturally rich town of Ann Arbor
+(link is external)
+News
+JUNE 21, 2017
+Accolades
+Congratulations to Negar, a recipient of the 2017-2018 MICDE Fellowship!
+Negar Farzenah, Ph.D. student in the Bioinformatics Program, pursues research in the lab of Prof. Kayvan Najarian
+(link is external)
+. She was recently awarded a 2017-2018 Michigan Institute for Computational Discovery & Engineering Fellowship
+(link is external)
+. 
+JUNE 21, 2017
+Accolades
+Congratulations to Laura Seaman who was awarded Best Contributed Speaker at NetSci 2017!
+Laura Seaman, Ph.D. candidate in Bioinformatics, recently received the Best Contributed Speaker Award at NetSci 2017
+(link is external)
+for her presentation “The 4D Nucleome of Cancer”. 
+JUNE 7, 2017
+Student
+U-M Bioinformatics Graduate Students participated in 2017 Dexter-Ann Arbor Run last week, supported by DCMB
+MORE NEWS »
+Home
+About
+Graduate Education
+People
+Research
+Software/Tools
+Events
+News
+Giving
+Contact
+Job Openings
+Internal Resources
+COMPUTATIONAL MEDICINE AND BIOINFORMATICS
+Room 2017, Palmer Commons
+100 Washtenaw Avenue
+Ann Arbor, MI 48109-2218
+Webmaster: vittala@umich.edu
+(link sends e-mail)
+734-615-5510
+734-615-6553
+facebook
+© Copyright 1995-2017 Regents of the University of Michigan
+(link is external)
+| Disclaimer
+(link is external)
+| Privacy Statement
+(link is external)
+. Developed for U-M Medical School by Michigan MultiMedia
+(link is external)
+, Health Information Technology & Services
+(link is external)
+.

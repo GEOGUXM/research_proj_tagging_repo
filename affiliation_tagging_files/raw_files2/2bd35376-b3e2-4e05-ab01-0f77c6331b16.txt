@@ -1,0 +1,75 @@
+###AuthorName=Krishnamurthy Iyer
+###AuthorTitle=PhD
+###Affiliation=Operations Research and Information Engineering
+###Position=Assistant Professor
+##############################
+Skip to main content
+Search MSE
+Cornell Engineering
+School of Operations Research and Information Engineering
+HOME
+ABOUT
+ACADEMICS
+RESEARCH
+PEOPLE
+NEWS & EVENTS
+ALUMNI
+Home People Faculty Profile
+in this section
+In This Section:
+PEOPLE
+Academic Leadership
+Faculty
+OR Ph.D. Field Faculty
+Emeritus Faculty
+Visitors and Postdocs
+Ph.D. Students
+M.Eng. Students
+Staff
+CFEM Advisory Council
+Faculty Resources
+Krishnamurthy Iyer
+Krishnamurthy Iyer
+Dept: Operations Research and Information Engineering
+Title: Assistant Professor
+Address: 225 Frank HT Rhodes Hall
+Phone: 607 255-1525
+Email: ki82@cornell.edu
+Website: Krishnamurthy Iyer, ORIE
+return to list
+Biography
+Krishnamurthy Iyer joined the faculty at Cornell in July 2013 as an Assistant Professor in the School of Operations Research and Information Engineering. He received his PhD from the Department of Management Science and Engineering at Stanford University in 2012, and his B.Tech and M.Tech (dual degree) in Mechanical Engineering at the Indian Institute of Technology, Bombay in 2006. Before coming to Cornell, he was a Postdoctoral Researcher at the Computer and Information Science Department in the University of Pennsylvania. His research interests include game theory, stochastic modeling, dynamic markets, mean field models and market microstructure.
+Research Interests
+Prof. Iyer's research interests lie at the intersection of game theory, stochastic modeling and economics. Specifically, he is interested in understanding dynamic stochastic settings with strategic agents. He has worked on the problem of learning in large dynamic auctions, optimal signaling mechanism, information aggregation in finite markets, strategic customer behavior in service systems, and on understanding welfare effects of dark pool markets.
+Teaching Interests
+Prof. Iyer teaches courses on game theory, mechanism design and decision-making under uncertainty, including Foundations of Game Theory and Mechanism Design (ORIE 6350, Fall 2013, Spring 2017), Introduction to Game Theory (ORIE 4350, Fall 2014, 2015, 2016), and Information Systems and Analysis (ORIE 3800, Spring 2014, 2015, 2016).
+Service Interests
+Prof. Iyer has reviewed manuscripts for Management Science, Operations Research, Mathematics of Operations Research, Games and Economic Behavior, among many others. He has also served on the program committee for many conferences, including ACM Conference on Economics and Computation (EC 2013, 2014, 2017), World Wide Web Conference (WWW 2013, 2014, 2015, 2017), Web and Internet Economics (WINE 2014), and Workshop on the Economics of Networks, Systems and Computations (NetEcon 2015).
+Selected Publications
+Gorokh, A., S. Banerjee, Krishnamurthy Iyer. 2016. "Near-Efficient Allocation using Artificial Currency in Repeated Settings, Extended Abstract." Paper presented at Extended Abstract, Twelfth Conference on Web and Internet Economics (WINE), Montreal, Canada, Montreal, Canada
+Yang, P., Krishnamurthy Iyer, P. Frazier. 2016. "Mean Field Equilibria for Competitive Exploration in Resource Sharing Settings." Paper presented at Twenty-fifth International World Wide Web Conference, Montreal, Canada
+Iyer, Krishnamurthy, R. Johari, M. Sundararajan. 2014. "Mean Field Equilibria of Dynamic Auctions with Learning, Management Science." Management Science 60 (12): 2949-2970.
+Iyer, Krishnamurthy, R. Johari, C. C. Moallemi. 2014. "Information Aggregation and Allocation Efficiency in Smooth Markets." Management Science 60:10: 2509-2524.
+Iyer, Krishnamurthy, N. Hemachandra. 2010. "Sensitivity Analysis and Optimal Ultimately Stationary Deterministic Policies in some Constrained Discounted Cost Models." Mathematical Methods of Operations Research 71 (3): 401-425.
+Selected Awards and Honors
+Dantzig-Lieberman Fellowship (Stanford University) 2011
+Stanford Graduate Fellowship (Office of Technology Licensing Fellow) 2006
+Institute Gold Medal (IIT Bombay) 2006
+Institute Silver Medal (IIT Bombay) 2006
+Rakesh Mathur Academic Excellence Award (IIT Bombay) 2003
+Education
+M.Tech (Mechanical Engineering), Indian Institute of Technology, Bombay, 2006
+Btech. (Mechanical Engineering), Indian Institute of Technology, Bombay, 2006
+Ph D (Management Science and Engineering), Stanford University, 2012
+Quick Links:
+College of Engineering
+Site Map
+About this Site
+Contact us
+Intranet
+Facebook
+Twitter
+YouTube
+LinkedIn
+Web Accessibility Help
+©2017 Cornell University

@@ -1,0 +1,46 @@
+###AuthorName=ILKER YILDIRIM
+###AuthorTitle=
+###Affiliation=Center for Brain, Minds & Machines
+###Position=Research Scientist
+##############################
+Skip to main content
+THE CENTER FOR BRAINS, MINDS & MACHINES
+You are here
+CBMM, NSF STC » ABOUT » PEOPLE » ILKER YILDIRIM
+PEOPLE
+CBMM is committed to developing and supporting new interdisciplinary collaborations that will further our understanding of intelligence.
+VIDEOS
+SUPPORT US
+Ilker
+Yildirim
+Research Scientist
+Massachusetts Institute of Technology (MIT)
+Lab Affiliation(s): 
+Tenenbaum lab
+Associated Research Thrust: 
+Development of Intelligence
+Neural Circuits for Intelligence
+Email: 
+ilkery@mit.edu
+Phone: 
+(585) 267-0718
+Website: 
+http://www.mit.edu/~ilkery/
+Projects
+Computational Principles of Macaque Face Processing System
+Towards a Unified Framework for Intuitive Physics
+Publications
+I. Yildirim, Gerstenberg, T., Saeed, B., Toussant, M., and Tenenbaum, J. B., “Physical problem solving: Joint planning with symbolic, geometric, and dynamic constraints”, Proceedings of the 39th Annual Conference of the Cognitive Science Society. Submitted.
+K. Allen, Yildirim, I., and Tenenbaum, J. B., “Integrating Identification and Perception: A case study of familiar and unfamiliar face processing”, in Proceedings of the Thirty-Eight Annual Conference of the Cognitive Science Society, 2016.
+I. Yildirim, Kulkarni, T., Freiwald, W. A., and Tenenbaum, J. B., “Efficient and robust analysis-by-synthesis in vision: A computational framework, behavioral tests, and modeling neuronal representations”, in Annual Conference of the Cognitive Science Society, 2015.
+J. Wu, Yildirim, I., Lim, J. J., Freeman, W. T., and Tenenbaum, J. B., “Galileo: Perceiving physical object properties by integrating a physics engine with deep learning.”, in NIPS 2015, Montréal, Canada, 2015.
+I. Yildirim, Siegel, M., and Tenenbaum, J. B., “Perceiving Fully Occluded Objects with Physical Simulation”, in Cognitive Science Conference (CogSci), Pasadena, CA, 2015.
+I. Yildirim, Kulkarni, T., Freiwald, W. A., and Tenenbaum, J. B., “Explaining Monkey Face Patch System as Efficient Analysis-by-Synthesis”. 2014.
+NEWS & VIDEOS:
+April 5, 2016
+Perceiving Physical Object Properties by Integrating a Physics Engine with Deep Learning
+Support the Center Contact Us Terms of Use Privacy Policy
+Funded by the National Science Foundation
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+© 2017 Center for Brain, Minds & Machines
+Login

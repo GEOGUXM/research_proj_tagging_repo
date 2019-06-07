@@ -1,0 +1,162 @@
+###AuthorName=Mitsuru Shindo
+###AuthorTitle=Professor
+###Affiliation=Department of Fundamental Organic Chemistry
+###Position=
+##############################
+ 
+Mitsuru Shindo Last modified date：2017.04.26
+
+Professor / Interdisciplinary Graduate School of Engineering Sciences
+Department of Fundamental Organic Chemistry
+Institute for Materials Chemistry and Engineering
+
+
+1 Research Interests
+2 Current and Past Project
+3 Academic Activities
+3.1 Books
+3.2 Papers
+3.3 Reports
+3.4 Presentations
+Graduate School
+Department of Molecular and Material Sciences
+Interdisciplinary Graduate School of Engineering Sciences
+Undergraduate School
+Department of Energy Science and Engineering
+School of Engineering
+分子の科学
+Other Organization
+Innovation Center for Medical Redox Navigation
+
+
+E-Mail
+Homepage
+http://www.cm.kyushu-u.ac.jp/dv01/dmstj.html
+Phone
+092-583-7802
+Fax
+092-583-7803
+Academic Degree
+Ph. D.
+Field of Specialization
+Synthetic Organic Chemistry,Chemical Biology
+Research
+Research Interests
+Catalytic Oxidative Coupling reaction
+keyword : catalyst, C-H activation, coupling reaction, aerobic oxidation
+2013.09.
+Synthesis and Chemical Biology studies on anti-tumor active compounds
+keyword : synthesis, chemical biology, anti-tumor, natural products
+2009.04～2014.05.
+Total synthesis of bioactive alkaloids
+keyword : Total synthesis, bioactivity, stemona alkaloid
+2009.04.
+Novel matrix for MALDI-MS
+keyword : matrix, MALDI-MS
+2010.10.
+Plant regulation reagents derived from allelochemicals
+keyword : allelopathy, total synthesis, chemical biology, natural organic coupounds, structure-activity relationship, bioprobe, agrochemicals, gravitropism
+2000.04.
+Development of novel carbon dianion reactive species and thier successive reactions
+keyword : dianions, successive reactions, electrocyclization
+2008.04.
+Novel catalytic Nazarov reaction and its synthetic applications for preparation of bioactive compounds
+keyword : Nazarov reaction, acid catalysts, bioactive compounds, total synthesis, asymmetric reactions
+2007.04～2012.03.
+Catalytic Wittig Lactonization
+keyword : metal catalysts, acylation, phosphorous ylids, Wittig reaction, lactonization
+2008.04.
+chemistr of ynolates
+keyword : ynolates
+1996.08generation of ynolates, new reactions of ynolates, nucleophile-electrophile switching multi-process.
+Synthesis and reactions of hypervalent compounds
+keyword : hypervalency, silicone, germanium, coupling reaction
+2003.04～2012.03Hypervalent silicone and germanium compounds formed by intramolecular coordination are designed and synthesized. Utilizing the bonds activated by the hypervalency, new bond forming reactions are developed..
+Current and Past Project
+PRESTO
+Academic Activities
+Books
+ Show All Books >>
+1. 新藤 充, 松本 健司,
+Stereoselective Synthesis of Tetrasubstituted Alkenes via Torquoselectivity-Controlled Olefination of Carbonyl Cmpounds with Ynolates,in Top. Curr. Chem., Springer, 327, 1-32 , 2012.01.
+2. Mitsuru Shindo, The chemistry of metal ynolates　(in The Chemistry of Metal Enolates, Patai series), John Wiley & Sons, Chapter 13, 2009.08.
+Reports
+ Show All Reports >>
+1. Mitsuru Shindo, kenji matsumoto, Shindo, M. and Matsumoto, K. (2016) 'Recent Advances in the Chemistry of Metal Ynolates' in Patai's Chemistry of Functional Groups. 1–31., edited by J. Zabicky. , John Wiley & Sons, Ltd: Chichester, UK., 2015.05.
+2. Mitsuru Shindo, Seiji Mori,, Torquoselective Olefination of Caronyl Compounds via Ynolates. Highly Efficient Stereoselective Synthesis of Tetrasubstituted Alkenes, Synlett, 2231-2243, 2008.09.
+3. torquoselective olefination with ynolates.
+4. 新藤充, Synthetic uses of Ynolates, Tetrahedron, 63, 10-16, 2007.01.
+Papers
+ Show All Papers >>
+1. kenji matsumoto, Shohei Tachikawa, Noriko Hashimoto, Rina Nakano, Masahiro Yoshida, 新藤 充, Aerobic C−H oxidation of arenes using a recyclable, heterogeneous rhodium catalyst,, ACS, 82, 2017.04.
+2. 新藤 充, Shigenobu Fujimoto, kenji matsumoto, Aerobic oxidative homocoupling reaction of anilides using heterogeneous metal catalysts, TETRAHEDRON LETTERS, 58, 10, 973-976, 2017.03.
+3. Satoshi Umezu, Gomes, Gabriel dos Passos, Tatsuro Yoshinaga, Mikei Sakae, kenji matsumoto, Takayuki IWATA, Igor Alabugin, 新藤 充, Regioselective One-Pot Synthesis of Triptycenes via Triple-Cycloadditions of Arynes to Ynolates, ANGEWANDTE CHEMIE-INTERNATIONAL EDITION, 56, 5, 1298-1302, 2017.01.
+4. Hisashi Wauke, Kazumasa Matsuo, kenji matsumoto, 新藤 充, Synthesis of Dissymmetric Malonic Acid Monoamides from Symmetric Dithiomalonates,, ChemistrySelect , 1, 21, 2017.01.
+5. 福田洋, 西川 慶祐, 福永 幸裕, 児玉梢, kenji matsumoto, 奥田 勝博, Arihiro Kano, 新藤 充, Synthesis of Fluorescent Molecular Probes Based on cis-Cinnamic acid and Molecular Imaging of Lettuce Roots, Tetrahedron, 印刷中, 2016.09.
+6. 藤本茂伸, kenji matsumoto, 新藤 充, Aerobic Oxidative Intramolecular Aromatic Coupling via Heterogeneous Metal Catalysts,, Advanced Synthesis & Catalysis, 印刷中, 2016.07.
+7. 松本 健司, 吉田まさひろ, 新藤 充, Heterogeneous Rhodium−Catalyzed Aerobic Oxidative Dehydrogenative Cross−Coupling Affording Nonsymmetrical Biaryl Amines, Angew. Chem. Int. Ed., 55, 17, 2016.02.
+8. Yamamoto, Atsushi, はすいけいすけ, まつろひろし, 奥田 勝博, 安部真人, 松本 健司, はらだかずき, よしむらゆうや, 山本武範, おおくらかずと, 新藤 充, 篠原康雄, Bongkrekic Acid Analogue, Lacking One of the Carboxylic Groups of its Parent Compound, Shows Moderate but pH-insensitive Inhibitory Effects on the Mitochondrial ADP/ATP Carrier, CHEMICAL BIOLOGY & DRUG DESIGN, 86, 5, 1304-1322, 2015.11.
+9. 吉岩俊也, 梅津智, 渡慶次学, 馬場義信, 新藤 充, Synthesis and Reactions of Ynolates via a Stop-Flow Method with a Flow Microreactor, J. Flow Chemistry, ４, 2014.10.
+10. 松本 健司, 堂籠健斗, 太刀川祥平, 石井孝典, 新藤 充, Aerobic Oxidative Homocoupling of Aryl Amines Using Heterogeneous Rhodium Catalysts, , Org. Lett. 16, 4754-4757 (2014)., 16, 2014.10.
+11. 奥田 勝博, 福田洋, 西川 慶祐, 新藤 充, cis-Cinnamic acid selective suppressors distinct from auxin inhibitors., Chem. Pharm. Bull., in press, 2014.06.
+12. 梅津智, 吉岩俊也, 渡慶次学, 新藤 充, Generation of Ynolates via Reductive Lithiation Using Flow Microreactors, Tetrahedron Lett., 55, 2014.01.
+13. 西川 慶祐, 福田洋, 安倍真人, 中西一成, 谷口智也, 野村隆, 平館俊太郎, 藤井義晴, 奥田勝博, 新藤 充, Substituent effects of cis-cinnamic acid analogues as plant growh inhibitors, PHYTOCHEMISTRY, 96, 132-147, 2013.12.
+14. 新藤 充, 松本 健司, Synthesis of Xanthanolides Including New Acylations and Their Synthetic Applications, J. Syn. Org. Chem. Japan, 71, 2013.11.
+15. 梅津智, 新藤 充, alpha-Substituent Effect on Olefination of Ester Carbonyl Groups with Ynolates, Tetrahedron Lett , 54, 2013.11.
+16. 西川 慶祐, 福田洋, 安倍真人, 中西一成, 田澤雄太, 平館俊太郎, 藤井義晴, 奥田 勝博, 新藤 充, Design and Synthesis of Conformationally Constrained Analogues of cis-Cinnamic Acid and Evaluation of Their Plant Growth Inhibitory Activity, Phytochemistry, 96, 2013.10.
+17. 松本 健司, 小谷内邦吉, 新藤充, Asymmetric total syntheses of xanthatin and 11,13-dihydroxanthatin using a stereocontrolled conjugate allylation to gamma-butenolide, TETRAHEDRON, 69, 3, 1043-1049, 2013.01.
+18. 安倍真人, 西川 慶祐, 福田洋, 中西一成, 平館俊太郎, 藤井義晴, 奥田 勝博, 新藤 充, Key structural features of cis-cinnamic acid as an allelochemical, PHYTOCHEMISTRY, 84, 56-67, 2012.12.
+19. 奥田 勝博, Keisuke Hasui, 松本 健司, Mitsuru Shindo, Molecular Design, Synthesis, and Evaluation of Novel Potent Apoptosis Inhibitors Inspired from Bongkrekic Acid, CHEMICAL RESEARCH IN TOXICOLOGY, 25, 10, 2253-2260, 2012.10.
+20. 松本 健司, 新藤充, Palladium-Catalyzed Fluoride-Free Cross Coupling of Intramolecularly Activated Alkenylsilanes and Alkenylgermanes: Synthesis of Tamoxifen as a Synthetic Application,
+, Adv. Synth. Catal., 354, 642-650 , 2012.01.
+21. 松尾和真、新藤　充, Efficient Synthesis of Dissymmetric Malonic Acid S,O-Esters via Mono-alcoholysis of Symmetric Dithiomalonates under Neutral Conditions, Organic Letters, 13, 4406-4409, 2011.09.
+22. 松尾和真、西川慶介、新藤　充, Stereoselective synthesis of beta-glycosyl esters of cis-cinnamic acid and its derivatives using unprotected glycosyl donors, Tetrahedron Letters, in press, 2011.09.
+23. Kazumasa Matsuo, Mitsuru Shindo, Efficient Synthesis of Karrikinolide via Cu(II)-Catalyzed Lactonization, Tetrahedron, 67, 971-975, 2011.01.
+24. Kentaro Yaji, Mitsuru Shindo, Total Synthesis of (±)-Xanthocidin using FeCl3-Mediated Nazarov Reaction, Tetrahedron, 66, 9808-9813, 2010.12.
+25. Kazumasa Matsuo, Mitsuru Shindo, Cu(II)-Catalyzed Acylation by Thiol Esters Under Neutral Conditions: Tandem Acylation-Wittig Reaction Leading to a One-Pot Synthesis of Butenolides, Organic letters, 12, 5346-5349, 2010.11.
+26. Kazumasa Matsuo, Keiko Ohtsuki, Takashi Yoshikawa, Kozo Shishido, Kaori Yokotani-Tomita, Mitsuru Shindo, Total Synthesis of Xanthanolides, Tetrahedron, 66, 8407-8419, 2010.09.
+27. Kentaro Yaji, Mitsuru Shindo, Construction of a fully substituted cyclopentenone as the core skeleton of stemonamide via a Nazarov cyclization, Tetrahedron Letters, 51, 5469-5472, 2010.08.
+28. 吉川孝, 新藤充, Stereoselective Synthesis of (E)-2-en-4-ynoic acids with Ynolates. Catalytic Conversion to Tetronic acids and 2-Pyrones, Organic letters, １１, ２３, 5378-5381, 2009.11.
+29. T. Yosikawa, S. Mori, M. Shindo , The Effects of C-S and C-Se bonds on torquoselectivity: stereoselective olefination of alpha-thio- and alpha-selenoketones with ynolates, Tetrahedron, 65, 8832-8838 , 2009.10.
+30. K. Yaji, M. Shindo,, Chiral Acid-Catalyzed Asymmetric Nazarov Reaction. Nucleophilic Construction of a Quaternary Asymmetric Center at the a-Position of the Keto Function, Synlett, 2524-2528, 2009.08.
+31. 佐藤幸子, 麻生祥文, 新藤充, Efficient synthesis of bongkrekic acid. Three component convergent strategy, Tetrahedron Lett., 50 , 4164-4166, 2009.06.
+32. M. Shindo,Y. Yamamoto, K. Yamada, K. Tomioka, Asymmetric construction of binaphthyl by the chiral diether-mediated conjugate addition of naphthyllithium to naphthalenecarboxylic acid BHA ester, Chem. Pharm. Bull., 57, 752-754, 2009.05.
+33. T. Yoshikawa, S. Mori, M. Shindo, The Effect of Alkynyl Groups on Torquoselectivity. Highly Stereoselective Olefination of Alkynyl Ketones with Ynolates, Journal of the American Chemical Society, 131, 2092–2093, 2009.01.
+34. Kazumasa Matsuo, Hiromasa Yokoe, Kozo Shishido, Mitsuru Shindo, Synthesis of Diversifolide and Structure Revision, Tetrahedron Lett., 49, 4279-4281, 2008.05.
+35. K. Ohtsuki, K. Matsuo, T. Yoshikawa, C. Moriya, K. Yokotani, K. Shishido, M. Shindo, Total Synthesis of (+) and (-)-Sundiversifolide and Determination of the Absolute Cnfiguration, Organic Letters, 10, 1247-1250, 2008.04.
+36. M. Shindo, Y. Yoshimura, M. Hayashi, H. SOejima, T. Yoshikawa, K. Matsumoto, K. Shishido, Synthesis of Multisubstituted Furans, Pyrroles, and Thioophenes via Ynolates, Organic Letters, 9, 1963-1966, 2007.05.
+37. Mitsuru Shindo, Kenji Matsumoto, Kozo Shishido,, Hyperconjugative Effect of C-Ge Bonds: Synthesis of Multisubstituted Alkenylgermanes via Torquoselective Olefination of Acylgermanes with Ynolates, Tetrahedron, 63, 4271-4277, 2007.04.
+38. Mitsuru Shindo, Kentaro Yaji, Taisuke Kita, Kozo Shishido, Acid-Catalyzed Nazarov Reaction Controlled by -Alkoxy Groups, Synlett, 1096, 2007.04.
+39. Mitsuru Shindo, Kenji Matsumoto, Kozo Shishido, Generation of Ynolate and Z-Selective Olefination of Acylsilanes: (Z)-2-Methyl-3-Trimethylsilyl-2-butenoic acid, Organic Synthesis, 84, 11-21, 2007.01.
+40. Mitsuru Shindo,*† Taisuke Kita, Toshihiro Kumagai, Kenji Matsumoto, Kozo Shishido, Synthesis of Tetrasubstituted and Functionalized Enol Ethers by E-Selective Olefination of Esters with Ynolates, J. Am. Chem. Soc., 128, 1062-1063, 2006.01.
+41. Mitsuru Shindo,* Takashi Yoshikawa, Yasuaki Itou, Seiji Mori, Takeshi Nishii, Kozo Shishido, Heteroatom-Guided Torquoselective Olefination of alpha-Oxy and alpha-Amino Ketones via Ynolates, Chemistry-Europian Journal, 12, 2, 524-536, 2005.10.
+42. Mitsuru Shindo,* Keiko Ohtsuki, Kozo Shishido,, Asymmetric inverse electron-demand 1,3-dipolar cycloaddition of ynolates with a chiral nitrone derived from L-serine leading to beta-amino acid derivatives,, Tetrahedron: Asymmetry,, 16, 16, 2821-2831, 2005.07.
+43. Mitsuru Shindo, Kenji Matsumoto and Kozo Shishido, A synthesis of multisubstituted vinylsilanes via ynolates: stereoselective formation of -silyl--lactones followed by decarboxylation, Chem. Commun., 2477, 2005.05.
+44. M. Shindo, K. Matsumoto, K. Shishido, Intramolecularly Activated Vinylsilanes: Fluoride-free Cross-Coupling of (Z)-β-(Trialkylsilyl)acrylic Acids, Synlett, 176-178, 2005.01.
+45. Mitsuru Shindo,* Tomoyuki Sugioka, Kozo Shishido,, Electronic effect on the regioselectivity in the ring opening of para-substituted phenyloxiranes by acetylides,, Tetrahedron Lett., 45, 9265-9268, 2004.10.
+46. T. Yoshimura, T. Bando, M. Shindo, K. Shishido,, Diastereoselective Synthesis of the 19-epi-C18-C25 Segment of (+)-Lasonolide A and an Unusual Inversion at C19,, Tetrahedron Letters,, 45, 9241-9244, 2004.10.
+47. S. Mori, M. Shindo,, Hyperconjugative Effects in the Stereoselective Ring Opening Reactions of Oxetenoxides, Org. Lett., 22, 3945-3948, 2004.06.
+48. Y. Fukuda, M. Shindo, K. Shishido,, A formal total synthesis of (-)-limaspermine,, Heterocycles, 62, 787-792, 2004.02.
+49. M. Shindo, Y. Sato, T. Yoshikawa, R. Koretsune, K. Shishido,, Stereoselective Olefination of Unfunctionalized Ketones via Ynolates, J. Org. Chem, 69, 3912-3916, 2004.01.
+50. M. Shindo, Y. Sato, R. Koretsune, T. Yoshikawa, K. Matsumoto, K. Itoh, K. Shishido,, Synthesis of -Dibromo Esters as Precursors of Ynolates, Chem. Pharm. Bull.,, 51, 477-478, 2003.02.
+51. M. Shindo. K. Itoh, K. Ohtsuki, C. Tsuchiya, K. Shishido,, Diastereoselective 1,3-Dipolar Cycloaddition of Ynolates with Chiral Nitrones, Synthesis, 1441-1445, 2003.01.
+Presentations
+ Show All Presentations >>
+1. 新藤 充, 和宇慶久, 松尾和真, 松本 健司, Cu(II)-catalyzed Dissymmetrization of Dithiomalonates, Pacifichem2015, 2015.12.19.
+2. 松本 健司, 堂籠　健斗, 新藤 充, Heterogeneous Rh-catalyzed Oxidative Coupling of Arylamines, XXVI International Conference on Organometallic Chemistry, ICOMC2014, 2014.07.14.
+3. 新藤 充, Total Synthesis of Stemonamine, ISIS-8, 2013.11.30.
+4. 新藤 充, Reactions of Ynolates and Synthetic Applications, 10th International Symposium on Carbanion Chemistry, 2013.09.25.
+5. 新藤 充, Olefination Controlled by Torquoselectivity, Nang Young Technological University organic chemistry symposium, 2013.01.31.
+6. 新藤 充, Total Synthesis of Stemonamine, Cambodian Maleysian Chemical Congress, 2012.10.21.
+7. 新藤 充, 寺井やすあき, 行平大地, 三浦 大典, 藤村 由紀, 松本 健司, 割石 博之, Design and synthesis of new efficient MALDI-MS matrices for low molecular weight metabolites in negative ionization mode, 19th International Mass Specrometry Conference (IMSC2012, 2012.09.17.
+8. Catalytic Nazarov Reaction.
+9. Torquoselective Olefination.
+10. One-pot synthesis of multisubstituted furans via ynolates,.
+11. Synthetic Study of Sundiversifolide.
+12. The Coupling reaction of trialkylvinylsilanes and vinylgermanes using activation by hypervalency.
+Educational
+
+
+Unauthorized reprint of the contents of this database is prohibited.
+
+Copyright © 2006, Kyushu University. All rights reserved.

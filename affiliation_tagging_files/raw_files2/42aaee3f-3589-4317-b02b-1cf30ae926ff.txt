@@ -1,0 +1,87 @@
+###AuthorName=TIN Chung
+###AuthorTitle=Dr
+###Affiliation=Department of Mechanical and Biomedical Engineering
+###Position=Assistant Professor
+##############################
+Skip to content
+Staff Login
+Search Type
+CityU
+Staff
+Search Keywords
+Submit Search
+-+
+
+Department of Mechanical and Biomedical Engineering
+ [   ] 
+Dr. TIN Chung (田翀博士)
+BEng(HKU), MS(MIT), PhD(MIT)
+Assistant Professor
+Contact Information
+Office: P6416 AC1
+Phone: 34425145
+Email: chungtin@cityu.edu.hk
+Web: Lab Webpage
+Research Interests
+Neural Prosthetics
+Brain-machine interface
+Neural Computation
+Motor learning and control
+Chung Tin is currently an Assistant Professor in Department of Mechanical and Biomedical Engineering at City University of Hong Kong. He received his BEng. degree (1st Class) from University of Hong Kong in Mechanical Engineering in 2002. He then moved to the United States and obtained his S.M. and PhD. degrees, both in Mechanical Engineering, from Massachusetts Institute of Technology, in 2004 and 2011, respectively. He continues as a postdoctoral associate in MIT until he returned to Hong Kong in 2012. He has been awarded Croucher Foundation Scholarship (HK), American Heart Association Predoctoral Fellowship, and Early Career Award (Research Grant Council, Hong Kong). His research interests include neural prosthetic systems, brain-machine interface, neural computation and sensorimotor learning and control.
+
+
+Award and Achievement
+2013 “Early Career Award” Research Grant Council, Hong Kong SAR.
+2008 “Predoctoral Fellowship” American Heart Association .
+2009 “President Award” XIth Oxford Conference on Modeling and Control of Breathing.
+2002 “The Croucher Foundation Scholarship” Croucher Foundation, Hong Kong.
+2002 “Sir Edward Youde Memorial Scholarship” Sir Edward Youde Memorial Fund, Hong Kong.
+
+
+Previous Experience
+Jun 2011 - Jun 2012, Postdoctoral Associate, Harvard/MIT Division of Health Science and Technology, MIT.
+
+
+Publication
+
+Journal
+Zhai, Xiaolong. , Jelfs, Beth. , Chan, Rosa H.M. & Tin, Chung. (2017). A Self-recalibrating Myoelectric Classifier of Hand Movements based on Convolutional Neural Networks. submitted.
+Lau, Cia-Hin. , Ho, Jonathan W. , Xiao, Na. , Dai, Ziwen. , Chan, Miu Shan. , Tam, Dick Yan. , Lo, Pik Kwan. & Tin, Chung. (2017). Rewire Camk2a Gene Expression by Modulating Super-enhancer. submitted.
+Tam, Dick Yan. , Dai, Ziwen. , Chan, Miu Shan. , Liu, Ling Sum. , Cheung, Man Ching. , Bolze, Frederic. , Tin, Chung. & Lo, Pik Kwan*. (2016). A Reversible DNA Logic Gate Platform Operated by One- and Two-Photon Excitations. Angewandte Chemie International Edition. 55(1). 164 - 168.
+Au, N.P. , Kumar, G. , Asthana, P. , Tin, C. , Mak, Y.L. , Chan, L.L. , Lam, P.K.S. & Ma, C.H. (2016). Ciguatoxin reduces regenerative capacity of axotomized peripheral neurons and delays functional recovery in pre-exposed mice after peripheral nerve injury. Scientific Reports. 6: 26809.
+Chan, Miu Shan. , Tam, Dick Yan. , Dai, Ziwen. , Liu, Ling Sum. , Ho, Jonathan Weng-Thim. , Chan, Man Lee. , Xu, Di. , Wong, Man Shing. , Tin, Chung*. & Lo, Pik Kwan*. (2016). Mitochondrial Delivery of Therapeutic Agents by Amphiphilic DNA Nanocarriers. Small. 12(6). 770 - 781.
+Song, G. , Tin, C. & Poon, C.-S.*. (2015). Multiscale fingerprinting of neuronal functional connectivity. Brain Structure and Function. 220(5). 2967 - 2982.
+Luo, J. , Coapes, G. , Mak, T. , Yamazaki, T. , Tin, C.*. & Degenaar, P.*. (2015). Real-Time Simulation of Passage-of-Time Encoding in Cerebellum Using a Scalable FPGA-based System. IEEE Trans. Biomedical Circuits and Systems. 10(3). 742 - 753.
+Poon, C.-S.*. , Tin, C. & Song, G. (2015). Submissive hypercapnia: Why COPD patients are more prone to CO2 retention than heart failure patients. Respiratory Physiology and Neurobiology. 216. 86 - 93.
+Poon, C.-S.*. & Tin, C. (2013). Mechanism of augmented exercise hyperpnea in chronic heart failure and dead space loading. Respiratory Physiology and Neurobiology. 186(1). 114 - 130.
+Tin, C. , Song, G. & Poon, C.-S.*. (2012). Hypercapnia attenuates inspiratory amplitude and expiratory time responsiveness to hypoxia in vagotomized and vagal-intact rats. Respiratory Physiology and Neurobiology. 181(1). 79 - 87.
+Song, G. , Tin, C. , Giacometti, M. & Poon, C.-S.*. (2011). Habituation without NMDA receptor-dependent desensitization of Hering-Breuer apnea reflex in a mecp2+/- mutant mouse model of Rett syndrome. Frontiers in Integrative Neuroscience. 5:6 .
+MacDonald, S.#. @. , Tin, C.#. @. , Song, G. & Poon, C.-S.*. (2009). Use-Dependent Learning and Memory of Hering-Breuer Inflation Reflex in Rat. Experimental Physiology. 94(2). 269 - 278.
+Poon, C.-S.*. , Tin, C. & Yu, Y. (2007). Homeostasis of exercise hyperpnea and optimal sensorimotor integration: The internal model paradigm. Respiratory Physiology and Neurobiology. 159(1). 1 - 13.
+Tin, C. & Poon, C.-S.*. (2005). Internal Models in Sensorimotor Integration: Perspectives from Adaptive Control Theory. Journal of Neural Engineering. 2(3). S147 - 163.
+
+Conference Paper
+Jelfs, B. , Li, L. , Tin, C. & Chan, R. H.-M. (2016). Fuzzy Entropy Based Nonnegative Matrix Factorization For Muscle Synergy Extraction. ICASSP. Shanghai. China: .
+Zhai, X. , Jelfs, B. , Cahn, R. H.-M. & Tin, C. (2016). Short latency hand movement classification based on surface EMG spectrogram with PCA. 38th Annual International IEEE EMBS Conference. Florida. USA: .
+Jelfs, B. , Zhou, S. , Wong, B. K. Y. , Tin, C. & Chan, R.H.M. (2015). Recruitment of Small Synergistic Movement Makes a Good Pianist. 37th Annual International IEEE EMBS Conference. Milan. Italy: .
+Luo, J. , Coapes, G. , Degenaar, P. , Yamazaki, T. , Mak, T. & Tin, C. (2014). A real-time silicon cerebellum spiking neural model based on FPGA. 14th International Symposium on Integrated Circuits (ISIC). (invited). Singapore: .
+Luo, J. , Coapes, G. , Mak, T. , Yamazaki, T. , Tin, C. & Degenaar, P. (2014). A Scalable FPGA-based Cerebellum for Passage-of-Time Representation. 36th Annual International IEEE EMBS Conference. Chicago. USA: .
+Song, G. , Tin, C. & Poon, C.-S. (2010). Bilateral lesions of pontine k̈lliker-fuse nuclei provoke apnea instead of apneusis in anesthetized adult rat. Adv. Exp. Med. Biol. 669. (pp. 185 - 188). Nara. Japan: .
+Tin, C. , Wasserman, K.W. , Cherniack, N.S. & Poon, C.-S. (2010). Paradoxical Potentiation of Exercise Hyperpnea in Congestive Heart Failure Contradicts Sherrington Chemoreflex Model and Supports a Respiratory Optimization Model. Adv. Exp. Med. Biol. 669. (pp. 69 - 72). Nara. Japan: .
+Feng, J. , Tin, C. & Poon, C.-S. (2009). A Dual Adaptive Control Theory Inspired by Hebbian Associative Learning. Proceedings of the IEEE Conference on Decision and Control. (pp. 4505 - 4510).
+
+Book Chapter
+Tin, C. & Poon, C.-S. (2014). Control of Breathing, Integration of Adaptive Reflexes. Encyclopedia of Computational Neuroscience. Springer.
+Chan, R. H.-M. , Mak, T. & Tin, C. (2014). Computational Models and Hardware Implementations for Real-Time Neuron–Machine Interactions. Neural Computation, Neural Devices, and Neural Prosthesis. (pp. 289 - 311). Springer.
+Tin, C. & Poon, C.-S. (2013). Integrative and Reductionist Approaches to Modeling of Control of Breathing. Mathematical Modeling and Validation in Physiology: Applications to the Cardiovascular and Respiratory Systems. (pp. 89 - 103). Springer Berlin Heidelberg.
+
+
+External Services
+
+Professional Activity
+2016 - Now, Chairman, IEEE EMBS Hong Kong-Macau Joint Chapter.
+
+
+Last update date : 05 Jan 2017
+Privacy Policy | Copyright | Disclaimer | Accessibility | University Logo/Name Policy | Contact Us | Download Acrobat Reader
+© 2017 City University of Hong Kong. All Rights Reserved.

@@ -1,0 +1,1327 @@
+###AuthorName=Wanlei Zhou
+###AuthorTitle=Prof
+###Affiliation=School of Info Technology
+###Position=Associate Dean
+##############################
+Menu
+Search
+Deakin University Australia
+Home
+Courses
+Courses
+Find a course
+Study online
+How to apply
+Key dates
+Entry pathways
+Credit for Prior Learning
+Fees
+Scholarships
+Institute of Koorie Education
+Locations
+Locations
+Melbourne Burwood Campus
+Geelong Waurn Ponds Campus
+Geelong Waterfront Campus
+Warrnambool Campus
+Cloud Campus
+Research institutes and centres
+Deakin learning centres
+Deakin corporate centres
+China Office
+Indonesia Office
+South Asia Office
+Life at Deakin
+Life at Deakin
+A day in the life
+Why study at Deakin
+Student life
+Accommodation
+Support services
+Orientation and getting started
+Graduations
+Alumni
+Alumni
+Update your details
+Alumni benefits
+Webinars and resources
+Alumni publications
+Chapters and networks
+Alumni Award Winners
+Deakin Alumni Awards 2017
+Where are they now?
+Graduate documents
+Volunteering
+Contact us
+Research
+Research
+Improving health and wellbeing
+Designing smarter technologies
+Enabling a sustainable world
+Advancing society and culture
+Research and industry
+Institutes and centres
+Find a researcher
+Become a research student
+Support for researchers
+Research integrity
+Research news
+About Deakin
+About Deakin
+News
+Events
+Media releases
+Strategic direction
+Reputation
+Values
+Teaching and learning
+Leadership and governance
+Faculties and divisions
+Work at Deakin
+Collaboration
+Collaboration
+Industry and business
+Community engagement
+Vice-Chancellor's message
+International partnerships
+University partnerships
+Giving to Deakin
+Giving to Deakin
+Why give to Deakin?
+Ways to give
+Our supporters
+Give to Deakin now
+Contact us
+Contact us
+International Students
+Career practitioners
+Library
+Staff
+Current students
+Contact Deakin
+My courses
+0
+Prof Wanlei Zhou
+STAFF PROFILE
+Position
+Associate Dean- International Research Engagement
+Faculty
+Faculty of Sci Eng & Built Env
+Department
+School of Info Technology
+Campus
+Melbourne Burwood Campus
+Contact
+wanlei.zhou@deakin.edu.au
+http://www.deakin.edu.au/~wanlei/index.html
++61 3 925 17603
+Biography
+Professor Wanlei Zhou received B.Eng and M.Eng degrees from Harbin Institute of Technology, Harbin, China in 1982 and 1984, respectively, and a PhD degree from The Australian National University, Canberra, Australia, in 1991, all in Computer Science and Engineering. He also received a DSc degree (a higher Doctorate degree) from Deakin University in 2002. He is currently the Alfred Deakin Professor (the highest honour the University can bestow on a member of academic staff) and Chair Professor in Information Technology, School of Information Technology, Deakin University. Before joining Deakin University, Professor Zhou served as a lecturer in University of Electronic Science and Technology of China, a system programmer in HP at Massachusetts, USA; a lecturer in Monash University, Melbourne, Australia; and a lecturer in National University of Singapore, Singapore. His research interests include distributed systems, network security, bioinformatics, and e-learning. Professor Zhou has published more than 300 papers in refereed international journals and refereed international conferences proceedings, including over 30 articles in IEEE journal in the last 5 years. He has also chaired many international conferences. Prof Zhou is a Senior Member of the IEEE.
+Biography summary
+Jan 2015-present: Chair Professor of Information Technology, School of Information Technology, Deakin University.
+Jan 2009-Jan 2015:
+Chair Professor of Information Technology and Head, School of Information Technology,
+Deakin University
+May 2006 – Jan 2009:
+Chair Professor of Information Technology and Associate Dean (International),
+Faculty of Science and Technology, Deakin University
+Jan. 2002 – Apr 2006:
+Chair Professor of Information Technology and Head,
+School of Information Technology, Deakin University
+Research interests
+Distributed and parallel systems
+Network security
+Bioinformatics
+Internet and mobile computing
+e-Learning
+Units taught
+SIT704 Advanced Topics in Digital Security
+SIT382 System Security
+SIT222 Operating Systems
+Knowledge areas
+Distributed and Parallel Systems
+Network security
+Bioinformatics
+Internet and Mobile computing
+e-Learning
+Professional activities
+Professor Zhou was the General Chair / Program Committee Chair / Co-Chair of many international conferences, including TrustCom, ISPA, IUCC, CSS, ICA3PP, EUC, NSS, HPCC, PRDC, etc., and has been invited to deliver keynote address in a number of international conferences, including SKG, NSS, PDCAT, NSS, EUC, ICWL, CIT, ISPA, ICA3PP, etc.
+Projects
+ARC Linkage Project LP0562156: 2005-2008, Wanlei Zhou and Wei Shi, "Protecting Web Services from Distributed Denial of Service Attacks".
+ARC Discovery Project DP0773264: 2007-2009, Wanlei Zhou and Yang Xiang, "Development of methods to address internet crime".
+ARC Linkage Project LP100100208, 2010-2012, Wanlei Zhou and Yang Xiang, "An active approach to detect and defend against peer-to-peer botnets".
+ARC Linkage Project LP100100816, 2010-2012, Wanlei Zhou and Robin Doss, "Secure and Efficient Communication in Vehicle-based Radio Frequency Identification Systems".
+ARC Discovery Project DP1095498, 2010-2012, Yang Xiang, Wanlei Zhou, and Yong Xiang, "Tracing real Internet attackers through information correlation".
+ARC Linkage Project LP120200266, 2012-2015, Yang Xiang, Wanlei Zhou, Vijay Varadharajan, and Jonathan Oliver, "Developing an active defence system to identify malicious domains and websites".
+ARC Discovery Project DP140103649, 2014-2016, Wanlei Zhou and Yang Xiang, "Modelling and defence against malware propagation".
+PUBLICATIONS
+Created with Highcharts 5.0.12Cumulative publicationsPublications graph102102122122144144159159171171194194226226246246265265276276276276BookConferenceChapterWorksJournal20072008200920102011201220132014201520162017050100150200250300Highcharts.com
+Filter by
+All years
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+All years
+All types
+Book
+Conference
+Chapter
+Works
+Journal
+All types
+2016
+Privacy-preserving topic model for tagging recommender systems
+Dr Tianqing Zhu, A/Prof Gang Li, Prof Wanlei Zhou, A/Prof Ping Xiong, Cao Yuan
+(2016), Vol. 46, pp. 33-58, Knowledge and information systems, Berlin, Gemany, C1
+JOURNAL
+Discovery of stop regions for understanding repeat travel behaviors of moving objects
+Dr Guangyan Huang, Jing He, Prof Wanlei Zhou, Guang-Li Huang, Limin Guo, Xiangmin Zhou, Feiyi Tang
+(2016), Vol. 82, pp. 582-593, Journal of computer and system sciences, Amsterdam, The Netherlands, C1
+JOURNAL
+String matching query verification on the cloud-hosted databases
+Mr Faizal Riaz-ud-Din, A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou
+(2016), pp. 1-10, IICDCN 2016 : Proceedings of the 17th International Conference on Distributed Computing and Networking, Singapore, E1
+CONFERENCE
+A feasible IP traceback framework through dynamic deterministic packet marking
+Dr Shui Yu, Prof Wanlei Zhou, Song Guo, Minyi Guo
+(2016), Vol. 65, pp. 1418-1427, IEEE transactions on computers, Piscataway, N.J., C1
+JOURNAL
+Speedup of big data transfer on the internet
+Dr Guangyan Huang, Prof Wanlei Zhou, Jing He
+(2016), pp. 139-155, Networking for big data, Boca Raton, Fla., B1
+CHAPTER
+A performance evaluation of machine learning-based streaming spam tweets detection
+Mr Chao Chen, Dr Jun Zhang, Yi Xie, Prof Yang Xiang, Prof Wanlei Zhou, Mohammad Mehedi Hassan, Abdulhameed Alelaiwi, Majed Alrubaian
+(2016), Vol. 2, pp. 65-76, IEEE transactions on computational social systems, Piscataway, N.J, C1
+JOURNAL
+Spammers are becoming "smarter" on Twitter
+Mr Chao Chen, Dr Jun Zhang, Prof Yang Xiang, Prof Wanlei Zhou, Dr Jonathan Oliver
+(2016), Vol. 18, pp. 66-70, IT professional, Piscataway, N.J., C1
+JOURNAL
+Query verification schemes for cloud-hosted databases: a brief survey
+Mr Faizal Riaz-ud-Din, Prof Wanlei Zhou, A/Prof Robin Ram Mohan Doss
+(2016), Vol. 31, pp. 543-561, International journal of parallel, emergent and distributed systems, Abingdon, Eng., C1
+JOURNAL
+On the race of worms and patches: modeling the spread of information in wireless sensor networks
+Mohammad Sayad Haghighi, Dr Sheng Wen, Prof Yang Xiang, Barry Quinn, Prof Wanlei Zhou
+(2016), Vol. 11, pp. 2854-2865, IEEE transactions on information forensics and security, Piscataway, N.J., C1
+JOURNAL
+PPM-HDA: privacy-preserving and multifunctional health data aggregation with fault tolerance
+Song Han, Shuai Zhao, Qinghua Li, Chun-Hua Ju, Prof Wanlei Zhou
+(2016), Vol. 11, pp. 1940-1955, IEEE transactions on information forensics and security, Piscataway, N.J., C1
+JOURNAL
+Silence is golden: enhancing privacy of location-based services by content broadcasting and active caching in wireless vehicular networks
+Dr Bo Liu, Prof Wanlei Zhou, Dr Tianqing Zhu, Dr Longxiang Gao, Dr Tom Luan, Haibo Zhou
+(2016), Vol. 65, pp. 9942-9953, IEEE transactions on vehicular technology, Piscataway, N.J., C1
+JOURNAL
+2015
+Secure tag search in RFID systems using mobile readers
+Mr Saravanan Sundaresan, A/Prof Robin Ram Mohan Doss, Selwyn Piramuthu, Prof Wanlei Zhou
+(2015), Vol. 12, pp. 1-14, IEEE Transactions on Dependable and Secure Computing, Piscataway, N.J., C1
+JOURNAL
+Robust histogram shape-based method for image watermarking
+Mr Tianrui Zong, Prof Yong Xiang, Dr Iynkaran Natgunanathan, Song Guo, Prof Wanlei Zhou, Prof Gleb Beliakov
+(2015), Vol. 25, pp. 717-729, IEEE Transactions on Circuits and Systems for Video Technology, New York, NY, C1
+JOURNAL
+Mining streams of short text for analysis of world-wide event evolutions
+Dr Guangyan Huang, Jing He, Yanchun Zhang, Prof Wanlei Zhou, Hai Liu, Peng Zhang, Zhiming Ding, Yue You, Jian Cao
+(2015), Vol. 18, pp. 1201-1217, World wide web, Berlin, Germany, C1
+JOURNAL
+Secure ownership transfer for multi-tag multi-owner passive RFID environment with individual-owner-privacy
+Mr Saravanan Sundaresan, A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou, Selwyn Piramuthu
+(2015), Vol. 55, pp. 112-124, Computer communications, Amsterdam, The Netherlands, C1
+JOURNAL
+A survey of recommendation techniques based on offline data processing
+Mr Yongli Ren, A/Prof Gang Li, Prof Wanlei Zhou
+(2015), Vol. 27, pp. 3915-3942, Concurrency computation: practice and experience, London, Eng., C1
+JOURNAL
+Privacy preserving data release for tagging recommender systems
+Dr Tianqing Zhu, A/Prof Gang Li, Mr Yongli Ren, Prof Wanlei Zhou, A/Prof Ping Xiong
+(2015), Vol. 13, pp. 229-246, Web intelligence, Amsterdam, The Netherlands, C1
+JOURNAL
+Detecting stepping stones by abnormal causality probability
+Dr Sheng Wen, Mr Di Wu, Ping Li, Prof Yang Xiang, Prof Wanlei Zhou, Guiyi Wei
+(2015), Vol. 8, pp. 1831-1844, Security and communication networks, London, Eng., C1
+JOURNAL
+6 million spam tweets: a large ground truth for timely Twitter spam detection
+Mr Chao Chen, Dr Jun Zhang, Mr Xiao Chen, Mr Yang Xiang, Prof Wanlei Zhou
+(2015), pp. 7065-7070, ICC 2015 : IEEE Proceedings of the International Conference on Communications, Piscataway, N.J., E1
+CONFERENCE
+K-Center: an approach on the multi-source identification of information diffusion
+Miss Jiaojiao Jiang, Dr Sheng Wen, Dr Shui Yu, Mr Yang Xiang, Prof Wanlei Zhou
+(2015), Vol. 10, pp. 2616-2626, IEEE transactions on information forensics and security, Piscataway, N.J., C1
+JOURNAL
+Zero knowledge grouping proof protocol for RFID EPC C1G2 Tags
+Mr Saravanan Sundaresan, A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou
+(2015), Vol. 64, pp. 2994-3008, IEEE transactions on computers, Piscataway, N.J., C1
+JOURNAL
+A sword with two edges: propagation studies on both positive and negative information in online social networks
+Dr Sheng Wen, Mohammad Sayad Haghighi, Mr Chao Chen, Mr Yang Xiang, Prof Wanlei Zhou, Dr Weijia Jia
+(2015), Vol. 64, pp. 640-653, IEEE transactions on computers, Piscataway, N.J., C1
+JOURNAL
+Correlated differential privacy: hiding information in non-IID data set
+Dr Tianqing Zhu, Mr Ping Xiong, A/Prof Gang Li, Prof Wanlei Zhou
+(2015), Vol. 10, pp. 229-242, IEEE transactions on information forensics and security, Piscataway, N.J., C1
+JOURNAL
+Robust network traffic classification
+Dr Jun Zhang, Mr Xiao Chen, Prof Yang Xiang, Prof Wanlei Zhou, Jie Wu
+(2015), Vol. 23, pp. 1257-1270, IEEE/ACM transactions on networking, Piscataway, N.J., C1
+JOURNAL
+Asymmetric self-learning for tackling Twitter spam drift
+Mr Chao Chen, Dr Jun Zhang, Prof Yang Xiang, Prof Wanlei Zhou
+(2015), pp. 208-213, INFOCOM WKSHPS 2015: Proceedings of the Computer Communications Workshops, Piscataway, N.J., E1
+CONFERENCE
+Modeling malicious activities in cyber space
+Dr Shui Yu, Prof Wanlei Zhou
+(2015), Vol. 29, pp. 83-87, IEEE network, Piscataway, N.J., C1
+JOURNAL
+A data as a product model for future consumption of big stream data in clouds
+Dr Guangyan Huang, Jing He, Chi-Hung Chi, Prof Wanlei Zhou, Prof Yanchun Zhang
+(2015), pp. 256-263, SCC 2015: Proceedings of the 12th International Conference on Services Computing, Piscataway, N.J., E1
+CONFERENCE
+The relation between local and global influence of individuals in scale-free networks
+Dr Sheng Wen, Miss Jiaojiao Jiang, Mr Kasra Majbouri Yazdi, Prof Yang Xiang, Prof Wanlei Zhou
+(2015), pp. 80-84, SOCIALSEC 2015: Proceedings of the International Symposium on Security and Privacy in Social Networks and Big Data, Piscataway, N.J., E1
+CONFERENCE
+Mobility increases the risk of malware propagations in wireless networks
+Dr Bo Liu, Prof Wanlei Zhou, Dr Longxiang Gao, Dr Sheng Wen, Dr Tom Luan
+(2015), pp. 90-95, TrustCom 2015: Proceedings of the IEEE Trust, Security and Privacy in Computing and Communications 2015 International Conference, Piscataway, N. J., E1
+CONFERENCE
+Delay tolerant networks
+Dr Longxiang Gao, Dr Shui Yu, Dr Tom Luan, Prof Wanlei Zhou
+(2015), Berlin, Germany, A1
+BOOK
+2014
+Distributed denial of service (DDoS) detection by traffic pattern analysis
+Mr Theerasak Thapngam, Dr Shui Yu, Prof Wanlei Zhou, S. Kami Makki
+(2014), Vol. 7, pp. 346-358, Peer-to-peer networking and applications, New York, N.Y., C1
+JOURNAL
+Breast cancer prognosis risk estimation using integrated gene expression and clinical data
+Mr Ashish Saini, Dr Jingyu Hou, Prof Wanlei Zhou
+(2014), Vol. 2014, pp. 1-15, BioMed research international, New York, N. Y., C1
+JOURNAL
+RRHGE: a novel approach to classify the estrogen receptor based breast cancer subtypes
+Mr Ashish Saini, Dr Jingyu Hou, Prof Wanlei Zhou
+(2014), Vol. 2014, pp. 1-13, Scientific world journal, New York, N. Y., C1
+JOURNAL
+Patchwork-based audio watermarking method robust to de-synchronization attacks
+Prof Yong Xiang, Dr Iynkaran Natgunanathan, Song Guo, Prof Wanlei Zhou, Prof Saeid Nahavandi
+(2014), Vol. 22, pp. 1413-1423, IEEE Transactions on audio, speech and language processing, Piscataway, NJ, C1
+JOURNAL
+Are the popular users always important for information dissemination in online social networks?
+Dr Sheng Wen, Miss Jiaojiao Jiang, Prof Yang Xiang, Dr Shui Yu, Prof Wanlei Zhou
+(2014), Vol. 28, pp. 64-67, IEEE Network, Piscataway, N. J, C1
+JOURNAL
+A robust grouping proof protocol for RFID EPC C1G2 tags
+Mr Saravanan Sundaresan, A/Prof Robin Ram Mohan Doss, Selwyn Piramuthu, Prof Wanlei Zhou
+(2014), Vol. 9, pp. 961-975, IEEE Transactions on Information Forensics and Security, Piscataway, N.J., C1
+JOURNAL
+The maximum imputation framework for neighborhood-based collaborative filtering
+Mr Yongli Ren, A/Prof Gang Li, Dr Jun Zhang, Prof Wanlei Zhou
+(2014), Vol. 4, pp. 1-15, Social Network Analysis and Mining, Wien, Austria, C1
+JOURNAL
+Internet traffic classification using constrained clustering
+Mr Yu Wang, Prof Yang Xiang, Dr Jun Zhang, Prof Wanlei Zhou, Guiyi Wei, Laurence T. Yang
+(2014), Vol. 25, pp. 2932-2943, IEEE transactions on parallel and distributed systems, Piscataway, N.J., C1
+JOURNAL
+Deferentially private tagging recommendation based on topic model
+Dr Tianqing Zhu, A/Prof Gang Li, Prof Wanlei Zhou, Mr Ping Xiong, Yuan Cao
+(2014), pp. 557-568, Advances in Knowledge Discovery and Data Mining, Heidelberg, Germany, B1
+CHAPTER
+Internet traffic clustering with side information
+Mr Yu Wang, Prof Yang Xiang, Dr Jun Zhang, Prof Wanlei Zhou, Bailin Xie
+(2014), Vol. 80, pp. 1021-1036, Journal of Computer and System Sciences, Amsterdam, The Netherlands, C1
+JOURNAL
+On addressing the imbalance problem : A correlated KNN approach for network traffic classification
+Mr Di Wu, Mr Xiao Chen, Mr Chao Chen, Dr Jun Zhang, Prof Yang Xiang, Prof Wanlei Zhou
+(2014), pp. 138-151, Network and System Security, Heidelberg, Germany, B1
+CHAPTER
+Modeling and analysis on the propagation dynamics of modern email malware
+Dr Sheng Wen, Wei Zhou, Dr Jun Zhang, Prof Yang Xiang, Prof Wanlei Zhou, Dr Weijia Jia, Cliff Zou
+(2014), Vol. 11, pp. 361-374, IEEE Transactions on Dependable and Secure Computing, Piscataway, N.J., C1
+JOURNAL
+IPA: Integrated predictive gene signature from gene expression based breast cancer patient samples
+Mr Ashish Saini, Dr Jingyu Hou, Prof Wanlei Zhou
+(2014), pp. 13-30, Innovative Approach in Stem Cell Research, Cancer Biology and Applied Biotechnology, Kishangarh, New Delhi, E1
+CONFERENCE
+To shut them up or to clarify: restraining the spread of rumors in online social networks
+Dr Sheng Wen, Miss Jiaojiao Jiang, Prof Yang Xiang, Dr Shui Yu, Prof Wanlei Zhou, Dr Weijia Jia
+(2014), Vol. 25, pp. 3306-3316, IEEE transactions on parallel and distributed systems, Piscataway, NJ, C1
+JOURNAL
+Detection and defense of application-layer DDoS attacks in backbone web traffic
+Wei Zhou, Dr Weijia Jia, Dr Sheng Wen, Prof Yang Xiang, Prof Wanlei Zhou
+(2014), Vol. 38, pp. 36-46, Future generation computer systems, Amsterdam, Netherlands, C1
+JOURNAL
+Control flow-based malware variant detection
+Mr Silvio Cesare, Prof Yang Xiang, Prof Wanlei Zhou
+(2014), Vol. 11, pp. 304-317, IEEE transactions on dependable and secure computing, Piscataway, NJ, C1
+JOURNAL
+Modeling the propagation of worms in networks: a survey
+Ms Yini Wang, Dr Sheng Wen, Prof Yang Xiang, Prof Wanlei Zhou
+(2014), Vol. 16, pp. 942-960, IEEE communications surveys and tutorials, Piscataway, NJ, C1
+JOURNAL
+An effective privacy preserving algorithm for neighborhood-based collaborative filtering
+Dr Tianqing Zhu, Mr Yongli Ren, Prof Wanlei Zhou, Ms Jia Rong, Mr Ping Xiong
+(2014), Vol. 36, pp. 142-155, Future Generation Computer Systems, Amsterdam, The Netherlands, C1
+JOURNAL
+Privacy preserving collaborative filtering for KNN attack resisting
+Dr Tianqing Zhu, A/Prof Gang Li, Dr Lei Pan, Mr Yongli Ren, Prof Wanlei Zhou
+(2014), Vol. 4, pp. 1-14, Social network analysis and mining, Berlin, Germany, C1-1
+JOURNAL
+Modelling personal preferences for Top-N movie recommendations
+Mr Yongli Ren, A/Prof Gang Li, Prof Wanlei Zhou
+(2014), Vol. 12, pp. 289-307, Web intelligence, Amsterdam, The Netherlands, C1-1
+JOURNAL
+2013
+Internet traffic classification by aggregating correlated naive bayes predictions
+Dr Jun Zhang, Mr Chao Chen, Prof Yang Xiang, Prof Wanlei Zhou, Prof Yong Xiang
+(2013), Vol. 8, pp. 5-15, IEEE transactions on information forensics and security, Piscataway, N.J., C1
+JOURNAL
+A practical quadratic residues based scheme for authentication and privacy in mobile RFID systems
+A/Prof Robin Ram Mohan Doss, Mr Saravanan Sundaresan, Prof Wanlei Zhou
+(2013), Vol. 11, pp. 383-396, Ad hoc networks, New York, N.Y., C1
+JOURNAL
+Unsupervised traffic classification using flow statistical properties and IP packet payload
+Dr Jun Zhang, Prof Yang Xiang, Prof Wanlei Zhou, Mr Yu Wang
+(2013), Vol. 79, pp. 573-585, Journal of computer and system sciences, Amsterdam, The Netherlands, C1
+JOURNAL
+Network traffic classification using correlation information
+Dr Jun Zhang, Prof Yang Xiang, Mr Yu Wang, Prof Wanlei Zhou, Prof Yong Xiang, Yong Guan
+(2013), Vol. 24, pp. 104-117, IEEE transactions on parallel and distributed systems, Piscataway, N.J., C1
+JOURNAL
+Secure RFID tag ownership transfer based on quadratic residues
+A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou, Dr Shui Yu
+(2013), Vol. 8, pp. 390-401, IEEE Transactions on information forensics and security, Piscataway, N.J., C1
+JOURNAL
+Modeling propagation dynamics of social network worms
+Dr Sheng Wen, Wei Zhou, Dr Jun Zhang, Prof Yang Xiang, Prof Wanlei Zhou, Dr Weijia Jia
+(2013), Vol. 24, pp. 1633-1643, IEEE transactions on parallel and distributed systems, Piscataway, N.J., C1
+JOURNAL
+An effective network traffic classification method with unknown flow detection
+Dr Jun Zhang, Mr Chao Chen, Prof Yang Xiang, Prof Wanlei Zhou, Athanasios V. Vasilakos
+(2013), Vol. 10, pp. 133-147, IEEE transactions on network and service management, Piscataway, N.J., C1
+JOURNAL
+Hub-based reliable gene expression algorithm to classify ER+ and ER- breast cancer subtypes
+Mr Ashish Saini, Dr Jingyu Hou, Prof Wanlei Zhou
+(2013), Vol. 3, pp. 20-26, International journal of bioscience, biochemistry and bioinformatics, Singapore, C1
+JOURNAL
+Malwise-an effective and efficient classification system for packed and polymorphic malware
+Mr Silvio Cesare, Prof Yang Xiang, Prof Wanlei Zhou
+(2013), Vol. 62, pp. 1193-1206, IEEE transactions on computers, Piscataway, N.J., C1
+JOURNAL
+Robust image retrieval with hidden classes
+Dr Jun Zhang, Lei Ye, Prof Yang Xiang, Prof Wanlei Zhou
+(2013), Vol. 117, pp. 670-679, Computer vision and image understanding, Amsterdam, The Netherlands, C1
+JOURNAL
+Analysis of a patchwork-based audio watermarking scheme
+Dr Iynkaran Natgunanathan, Prof Yong Xiang, Ms Suzan Elbadry, Prof Wanlei Zhou, Prof Yang Xiang
+(2013), pp. 900-905, ICIEA 2013 : Proceedings of the 8th IEEE Conference on Industrial Electronics and Applications, Piscataway, N.J., E1
+CONFERENCE
+AdaM : adaptive-maximum imputation for neighborhood-based collaborative filtering
+Mr Yongli Ren, A/Prof Gang Li, Dr Jun Zhang, Prof Wanlei Zhou
+(2013), pp. 628-635, ASONAM 2013 : Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, Piscataway, N.J., E1
+CONFERENCE
+Robust network traffic identification with unknown applications
+Dr Jun Zhang, Mr Chao Chen, Prof Yang Xiang, Prof Wanlei Zhou
+(2013), pp. 405-414, ASIA CCS 2013 : Proceedings of the 8th ACM SIGSAC Symposium on Information, Computer and Communications Security, New York, N.Y., E1
+CONFERENCE
+Differential privacy for neighborhood-based collaborative filtering
+Dr Tianqing Zhu, A/Prof Gang Li, Mr Yongli Ren, Prof Wanlei Zhou, A/Prof Ping Xiong
+(2013), pp. 752-759, ASONAM 2013 : Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, Piscataway, NJ, USA, E1
+CONFERENCE
+Modeling and analysis for thwarting worm propagation in email networks
+Dr Sheng Wen, Prof Yang Xiang, Prof Wanlei Zhou
+(2013), pp. 763-769, Network and system security : 7th international conference, NSS 2013, Madrid, Spain, June 3-4, 2013, proceedings, Berlin, Germany, E1
+CONFERENCE
+A general cloud firewall framework with dynamic resource allocation
+Dr Shui Yu, A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou, Song Guo
+(2013), pp. 1941-1945, ICC 2013 : IEEE International Conference on Communications, Piscataway, NJ, E1
+CONFERENCE
+Privacy protected data forwarding in human associated delay tolerant networks
+Dr Longxiang Gao, Dr Ming Li, Prof Wanlei Zhou, Wen Shi
+(2013), pp. 586-593, TrustCom 2013 : Proceedings of the 12th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, Piscataway, N.J., E1
+CONFERENCE
+Lazy collaborative filtering for data sets with missing values
+Mr Yongli Ren, A/Prof Gang Li, Dr Jun Zhang, Prof Wanlei Zhou
+(2013), Vol. 43, pp. 1822-1834, IEEE transactions on cybernetics, Piscataway, N.J., C1
+JOURNAL
+Multi-dimensional routing protocol in human associated delay-tolerant networks
+Dr Longxiang Gao, Dr Ming Li, Mr Alessio Bonti, Prof Wanlei Zhou, Dr Shui Yu
+(2013), Vol. 12, pp. 2132-2144, IEEE transactions on mobile computing, Piscataway, N.J., C1
+JOURNAL
+Top-N recommendations by learning user preference dynamics
+Mr Yongli Ren, Dr Tianqing Zhu, A/Prof Gang Li, Prof Wanlei Zhou
+(2013), pp. 390-401, Advances in knowledge discovery and data mining : 17th Pacific-Asia Conference, PAKDD 2013, Gold Coast, Australia, April 14-17, 2013, Proceedings, Berlin, Germany, E1
+CONFERENCE
+Anonymous data forwarding in human associated delay tolerant networks
+Dr Longxiang Gao, Dr Ming Li, Prof Wanlei Zhou, Wen Shi
+(2013), pp. 17-21, ICDCSW 2013 : Proceedings of the 33rd IEEE International Conference on Distributed Computing Systems, Piscataway, N.J., E1
+CONFERENCE
+An effective deferentially private data releasing algorithm for decision tree
+Dr Tianqing Zhu, A/Prof Ping Xiong, Prof Yang Xiang, Prof Wanlei Zhou
+(2013), pp. 388-395, TrustCom 2013 : Proceedings of the 12th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, Piscataway, N.J., E1
+CONFERENCE
+Offline grouping proof protocol for RFID systems
+Mr Saravanan Sundaresan, A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou
+(2013), pp. 247-252, WiMob 2013 2013 : Proceedings of the 9th IEEE International Conference on Wireless and Mobile Computing, Networking and Communications, Piscataway, N.J., E1
+CONFERENCE
+Privacy preserving for tagging recommender systems
+Dr Tianqing Zhu, A/Prof Gang Li, Mr Yongli Ren, Prof Wanlei Zhou, A/Prof Ping Xiong
+(2013), pp. 81-88, WI-IAT 2013 : Proceedings of the IEEE/WIC/ACM International Conference on Web Intelligence, Piscataway, N.J., E1
+CONFERENCE
+Zero-day traffic identification
+Dr Jun Zhang, Mr Xiao Chen, Prof Yang Xiang, Prof Wanlei Zhou
+(2013), pp. 213-227, Cyberspace safety and security, Cham, Switzerland, B1
+CHAPTER
+Detecting stepping stones by abnormal causality probability
+Dr Sheng Wen, Ms Ping Li, Mr Di Wu, Prof Yang Xiang, Prof Wanlei Zhou
+(2013), pp. 308-322, Cyberspace safety and security, Cham, Switzerland, B1
+CHAPTER
+RFID tags : grouping proof with forward security
+Mr Saravanan Sundaresan, A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou
+(2013), pp. 1-6, RFID-TA 2013 : Proceedings of the IEEE RFID-Technologies and Applications 2013 international conference, Piscataway, N. J., E1
+CONFERENCE
+Secure ownership transfer in multi-tag/multi-owner passive RFID systems
+Mr Saravanan Sundaresan, A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou
+(2013), pp. 1-6, GLOBECOM 2013 : Proceedings of the IEEE Global Communications 2013 conference, Piscataway, N. J., E1
+CONFERENCE
+Traffic identification in semi-known network environment
+Mr Xiao Chen, Dr Jun Zhang, Prof Yang Xiang, Prof Wanlei Zhou
+(2013), pp. 572-579, CSE 2013 : Proceedings of the IEEE Computational Science and Engineering 2013 international conference, Los Alamitos, Calif., E1
+CONFERENCE
+A dynamical deterministic packet marking scheme for DDoS traceback
+Dr Shui Yu, Prof Wanlei Zhou, Song Guo, Minyi Guo
+(2013), pp. 729-734, GLOBECOM - IEEE Global Telecommunications Conference, Piscataway, N.J., E1-1
+CONFERENCE
+Recommendation techniques based on off-line data processing: a multifaceted survey
+Mr Yongli Ren, A/Prof Gang Li, Prof Wanlei Zhou
+(2013), pp. 6-13, SKG 2013 : Proceedings 2013 9th International Conference on Semantics, Knowledge and Grids, Piscataway, N.J., E1-1
+CONFERENCE
+A learning method for Top-N recommendations with incomplete data
+Mr Yongli Ren, A/Prof Gang Li, Prof Wanlei Zhou
+(2013), Vol. 3, pp. 1135-1148, Social network analysis and mining, Berlin, Germany, C1-1
+JOURNAL
+2012
+Attacking anonymous web browsing at local area networks through browsing dynamics
+Dr Shui Yu, Prof Wanlei Zhou, Dr Weijia Jia, A/Prof Jiankun Hu
+(2012), Vol. 55, pp. 410-421, Computer journal, Oxford, England, C1
+JOURNAL
+Generating regular expression signatures for network traffic classification in trusted network management
+Mr Yu Wang, Prof Yang Xiang, Prof Wanlei Zhou, Shun-Zheng Yu
+(2012), Vol. 35, pp. 992-1000, Journal of network and computer applications, London, U. K., C1
+JOURNAL
+Robust patchwork-based embedding and decoding scheme for digital audio watermarking
+Dr Iynkaran Natgunanathan, Prof Yong Xiang, Dr Yue Rong, Prof Wanlei Zhou, Song Guo
+(2012), Vol. 20, pp. 2232-2239, IEEE transactions on audio, speech and language processing, Piscataway, N. J., C1
+JOURNAL
+Discriminating DDoS attacks from flash crowds using flow correlation coefficient
+Dr Shui Yu, Prof Wanlei Zhou, Dr Weijia Jia, Song Guo, Prof Yong Xiang, Feilong Tang
+(2012), Vol. 23, pp. 1073-1080, IEEE transactions on parallel and distributed systems, Piscataway, N. J., C1
+JOURNAL
+M-Dimension : multi-characteristics based routing protocol in human associated delay-tolerant networks with improved performance over one dimensional classic models
+Dr Longxiang Gao, Dr Ming Li, Mr Alessio Bonti, Prof Wanlei Zhou, Dr Shui Yu
+(2012), Vol. 35, pp. 1285-1296, Journal of network and computer applications, Amsterdam, The Netherlands, C1
+JOURNAL
+Trust mechanisms in wireless sensor networks : attack analysis and countermeasures
+Yanli Yu, Kequi Li, Prof Wanlei Zhou, Ms Ping Li
+(2012), Vol. 35, pp. 867-880, Journal of network and computer applications, Amsterdam, The Netherlands, C1
+JOURNAL
+A dual-channel time-spread echo method for audio watermarking
+Prof Yong Xiang, Dr Iynkaran Natgunanathan, Dezhong Peng, Prof Wanlei Zhou, Dr Shui Yu
+(2012), Vol. 7, pp. 383-392, IEEE transactions on information forensics and security, Piscataway, N.J., C1
+JOURNAL
+A secure tag ownership transfer scheme in a closed loop RFID system
+A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou
+(2012), pp. 164-169, WCNCW 2012 : Proceedings of the 2012 IEEE Wireless Communications and Networking Conference Workshops, Los Alamitos, Calif., E1
+CONFERENCE
+Locating defense positions for thwarting the propagation of topological worms
+Dr Sheng Wen, Wei Zhou, Ms Yini Wang, Prof Wanlei Zhou, Prof Yang Xiang
+(2012), Vol. 16, pp. 560-563, IEEE Communications Letters, Piscataway, N.J., C1
+JOURNAL
+DDoS discrimination by linear discriminant analysis (LDA)
+Mr Theerasak Thapngam, Dr Shui Yu, Prof Wanlei Zhou
+(2012), pp. 532-536, ICNC 2012 : Proceedings of the 2012 International Conference on Computing, Networking and Communications, Los Alamitos, Calif., E1
+CONFERENCE
+A minimum disclosure approach to authentication and privacy in RFID systems
+A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou, Mr Saravanan Sundaresan, Dr Shui Yu, Dr Longxiang Gao
+(2012), Vol. 56, pp. 3401-3416, Computer networks, Amsterdam, The Netherlands, C1
+JOURNAL
+A serverless ultra-lightweight secure search protocol for EPC Class-1 Gen-2 UHF RFID tags
+Mr Saravanan Sundaresan, A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou
+(2012), pp. 580-585, ICCIS 2012 : Proceedings of the 2012 International Conference on Computer and Information Science, Piscataway, N. J., E1
+CONFERENCE
+Classification of correlated internet traffic flows
+Dr Jun Zhang, Mr Chao Chen, Prof Yang Xiang, Prof Wanlei Zhou
+(2012), pp. 490-496, TrustCom 2012 : Proceedings of the 11th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, Piscataway, N. J., E1
+CONFERENCE
+Semi-supervised and compound classification of network traffic
+Dr Jun Zhang, Mr Chao Chen, Prof Yang Xiang, Prof Wanlei Zhou
+(2012), pp. 617-621, ICDCSW 2012 : Proceedings of the 32nd IEEE International Conference on Distributed Computing Systems Workshops, Piscataway, N. J., E1
+CONFERENCE
+Learning rating patterns for Top-N recommendations
+Mr Yongli Ren, A/Prof Gang Li, Prof Wanlei Zhou
+(2012), pp. 472-479, ASONAM 2012 : Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, Piscataway, N.J., E1
+CONFERENCE
+A secure search protocol based on Quadratic Residues for EPC Class-1 Gen-2 UHF RFID tags
+Mr Saravanan Sundaresan, A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou
+(2012), pp. 30-35, PIMRC 2012 : IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, Piscataway, N.J., E1
+CONFERENCE
+Improving Top-N recommendations with user consuming profiles
+Mr Yongli Ren, A/Prof Gang Li, Prof Wanlei Zhou
+(2012), pp. 887-890, PRICAI 2012 : trends in artificial intelligence : 12th Pacific Rim International Conference on Artificial Intelligence, Kuching, Malaysia September 3-7 2012 : proceedings, Berlin, Germany, E1
+CONFERENCE
+The efficient imputation method for neighborhood-based collaborative filtering
+Mr Yongli Ren, A/Prof Gang Li, Dr Jun Zhang, Prof Wanlei Zhou
+(2012), pp. 684-693, CIKM 2012 : Proceedings of the 21st ACM International Conference on Information and Knowledge Management, New York, N.Y., E1
+CONFERENCE
+An analytical model on the propagation of modern email worms
+Wei Zhou, Dr Sheng Wen, Ms Yini Wang, Prof Yang Xiang, Prof Wanlei Zhou
+(2012), pp. 533-540, TrustCom 2012 : Proceedings of the 11th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, Piscataway, N.J., E1
+CONFERENCE
+AMDD : Exploring entropy based anonymous multi-dimensional data detection for network optimization in human associated DTNs
+Dr Longxiang Gao, Dr Ming Li, Dr Tianqing Zhu, Mr Alessio Bonti, Prof Wanlei Zhou, Dr Shui Yu
+(2012), pp. 1245-1250, TrustCom 2012 : Proceedings of the 11th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, Piscataway, N.J., E1
+CONFERENCE
+Why it is hard to fight against cyber criminals?
+Dr Shui Yu, Prof Wanlei Zhou, Wanchun Dou, S. Kami Makki
+(2012), pp. 537-541, Proceedings of the 32nd IEEE International Conference on Distributed Computing Systems Workshops : ICDCSW 2012, Piscataway, N. J, E1
+CONFERENCE
+Learning user preference patterns for Top-N recommendations
+Mr Yongli Ren, A/Prof Gang Li, Prof Wanlei Zhou
+(2012), pp. 137-144, Proceedings - 2012 IEEE/WIC/ACM International Conference on Web Intelligence, WI 2012, Piscataway, N.J., E1-1
+CONFERENCE
+Semi-supervised and compound classification of network traffic
+Dr Jun Zhang, Mr Chao Chen, Prof Yang Xiang, Prof Wanlei Zhou
+(2012), Vol. 7, pp. 252-261, International journal of security and networks, Geneva, Switzerland, C1-1
+JOURNAL
+2011
+MAR : message-aware routing for opportunistic wireless ad hoc networks
+Dr Ming Li, Dr Longxiang Gao, Prof Wanlei Zhou
+(2011), pp. 1-6, ATNAC 2011 : Australasian Telecommunication Networks and Applications Conference, Melbourne, Vic., E1
+CONFERENCE
+Discriminating DDoS attack traffic from flash crowd through packet arrival patterns
+Mr Theerasak Thapngam, Dr Shui Yu, Prof Wanlei Zhou, Prof Gleb Beliakov
+(2011), pp. 952-957, INFOCOM WKSHPS 2011 : IEEE Conference on Computer Communications Workshops, Shanghai, China, E1
+CONFERENCE
+CAFS : a novel lightweight cache-based scheme for large-scale intrusion alert fusion
+Dr Sheng Wen, Wei Zhou, Prof Yang Xiang, Prof Wanlei Zhou
+(2011), Vol. 24, pp. 1137-1153, Concurrency computation : practice and experience, West Sussex, U. K., C1
+JOURNAL
+Low-rate DDoS attacks detection and traceback by using new information metrics
+Prof Yang Xiang, Mr Ke Li, Prof Wanlei Zhou
+(2011), Vol. 6, pp. 426-437, IEEE Transactions on Information Forensics and Security, Piscataway, NJ, C1
+JOURNAL
+Cloud security defence to protect cloud computing against HTTP-DoS and XML-DoS attacks
+Mr Ashley Chonka, Prof Yang Xiang, Prof Wanlei Zhou, Mr Alessio Bonti
+(2011), Vol. 34, pp. 1097-1107, Journal of network and computer applications, London, U. K., C1
+JOURNAL
+Eliminating errors in worm propagation models
+Ms Yini Wang, Dr Sheng Wen, Mr Silvio Cesare, Prof Wanlei Zhou, Prof Yang Xiang
+(2011), Vol. 15, pp. 1022-1024, IEEE Communications Letters, United States, C1
+JOURNAL
+The microcosmic model of worm propagation
+Ms Yini Wang, Dr Sheng Wen, Mr Silvio Cesare, Prof Wanlei Zhou, Prof Yang Xiang
+(2011), Vol. 54, pp. 1700-1720, The Computer Journal, Oxford, England, C1
+JOURNAL
+A novel mutual authentication scheme with minimum disclosure for rfid systems
+A/Prof Robin Ram Mohan Doss, Prof Wanlei Zhou, Dr Shui Yu, Dr Longxiang Gao
+(2011), pp. 544-549, ISSNIP 2011 : Proceedings of the 7th International Conference on Intelligent Sensors, Sensor Networks and Information Processing, Adelaide, S. Aust., E1
+CONFERENCE
+Secure image retrieval based on visual content and watermarking protocol
+Dr Jun Zhang, Prof Yang Xiang, Prof Wanlei Zhou, Lei Ye, Yi Mu
+(2011), Vol. 54, pp. 1661-1674, Computer journal, Oxford, U. K., C1
+JOURNAL
+The probability model of peer-to-peer botnet propagation
+Ms Yini Wang, Dr Sheng Wen, Wei Zhou, Prof Wanlei Zhou, Prof Yang Xiang
+(2011), pp. 470-480, Algorithms and architectures for parallel processing : 11th International Conference, ICA3PP 2011, Melbourne, Australia, October 24-26, 2011 : proceedings, part I, Berlin, Germany, E1
+CONFERENCE
+Effective pseudonoise sequence and decoding function for imperceptibility and robustness enhancement in time-spread echo-based audio watermarking
+Prof Yong Xiang, Dezhong Peng, Dr Iynkaran Natgunanathan, Prof Wanlei Zhou
+(2011), Vol. 13, pp. 2-13, IEEE transactions on multimedia, Piscataway, N.J., C1
+JOURNAL
+Traceback of DDoS attacks using entropy variations
+Dr Shui Yu, Prof Wanlei Zhou, A/Prof Robin Ram Mohan Doss, Dr Weijia Jia
+(2011), Vol. 22, pp. 412-425, IEEE transactions on parallel and distributed systems, United States, C1
+JOURNAL
+2010
+Connectivity-based shape descriptors
+Dr Atul Sajjanhar, Guojun Lu, Dengsheng Zhang, Prof Wanlei Zhou
+(2010), Vol. 32, pp. 93-98, International journal of computers and applications, Calgary, Canada, C1
+JOURNAL
+Spectral shape descriptor using spherical harmonics
+Dr Atul Sajjanhar, Guojun Lu, Dengsheng Zhang, Dr Jingyu Hou, Prof Wanlei Zhou, A/Prof Phoebe Chen
+(2010), Vol. 17, pp. 167-173, Integrated computer-aided engineering, Netherlands, C1
+JOURNAL
+Dynamic addressing in wireless sensor networks without location awareness
+A/Prof Robin Ram Mohan Doss, Deddy Chandra, Dr Lei Pan, Prof Wanlei Zhou, Dr Morshed Chowdhury
+(2010), Vol. 26, pp. 443-460, Journal of information science and engineering, Taipei, Taiwan, C1
+JOURNAL
+Getting the real-time precise round-trip time for stepping stone detection
+Ms Ping Li, Prof Wanlei Zhou, Ms Yini Wang
+(2010), pp. 377-382, NSS 2010 : Proceedings of the 4th International Conference on Network and System Security, Piscataway, N.J., E1
+CONFERENCE
+OST : A transaction based online social trust model for social network and file sharing security
+Dr Ming Li, Mr Alessio Bonti, Prof Wanlei Zhou
+(2010), pp. 826-832, IEEE/IFIP 2010 : Proceedings of the IEEE/IFIP 8th International Conference Embedded and Ubiquitous Computing 2010, Piscataway, N.J., E1
+CONFERENCE
+Virtual backbone routing structures in wireless ad-hoc networks
+Dr Longxiang Gao, Dr Ming Li, Mr Bai Li, Prof Wanlei Zhou
+(2010), Vol. 10, pp. 21-32, Global journal of computer science and technology, Pradesh, India, C1
+JOURNAL
+CALD : surviving various application-layer DDoS attacks that mimic flash crowd
+Dr Sheng Wen, Dr Weijia Jia, Wei Zhou, Prof Wanlei Zhou, Chuan Xu
+(2010), pp. 247-254, NSS 2010 : Proceedings of the 4th International Conference on Network and System Security, Piscataway, N.J., E1
+CONFERENCE
+S-Kcore : a social-aware Kcore decomposition algorithm in pocket switched networks
+Dr Ming Li, Dr Longxiang Gao, Prof Wanlei Zhou
+(2010), pp. 737-742, IEEE/IFIP 2010 : Proceedings of the IEEE/IFIP 8th International Conference Embedded and Ubiquitous Computing 2010, Piscataway, N.J., E1
+CONFERENCE
+A quick-response real-time stepping stone detection scheme
+Ms Ping Li, Prof Wanlei Zhou, Yanli Yu
+(2010), pp. 677-682, HPCC 2010 : Proceedings of the 12th IEEE International Conference on High Performance Computing and Communications, Piscataway, N.J., E1
+CONFERENCE
+A lightweight intrusion alert fusion system
+Dr Sheng Wen, Prof Yang Xiang, Prof Wanlei Zhou
+(2010), pp. 695-700, HPCC 2010 : Proceedings of the 12th IEEE International Conference on High Performance Computing and Communications, Piscataway, N.J., E1
+CONFERENCE
+Sharable file searching in unstructured peer-to-peer systems
+Wenyu Qu, Prof Wanlei Zhou, Masaru Kitsuregawa
+(2010), Vol. 51, pp. 149-166, Journal of supercomputing, New York, N.Y., C1
+JOURNAL
+A locality aware cache diffusion system
+John Casey, Prof Wanlei Zhou
+(2010), Vol. 52, pp. 1-22, Journal of supercomputing, New York, N.Y., C1
+JOURNAL
+A microscopic competition model and its dynamics analysis on network attacks
+Prof Yang Xiang, Daxin Tian, Prof Wanlei Zhou
+(2010), Vol. 22, pp. 503-517, Concurrency computation practice and experience, West Sussex, England, C1
+JOURNAL
+Efficient web browsing with perfect anonymity using page prefetching
+Dr Shui Yu, Mr Theerasak Thapngam, Mrs Su Wei, Prof Wanlei Zhou
+(2010), pp. 1-12, Algorithms and architectures for parallel processing : 10th international conference, ICA3PP 2010, Busan, Korea, May 21-23, 2010 : proceedings, Berlin, Germany, E1
+CONFERENCE
+Image indexing for learning content via a mobile phone
+Dr Ferial Khaddage, Mr Ashley Chonka, Prof Wanlei Zhou
+(2010), pp. 187-194, GLOBAL LEARN 2010 : Proceedings of the Learning and Technology Asia Pacific 2010 Global Conference, Chesapeake, Va., E1-1
+CONFERENCE
+2009
+Reducing the bandwidth requirements of P2P keyword indexing
+John Casey, Prof Wanlei Zhou
+(2009), Vol. 6, pp. 119-129, International journal of high performance computing and networking, Olney, England, C1
+JOURNAL
+Adjacency cache : an efficient P2P web cache indexing and lookup system
+John Casey, Prof Wanlei Zhou
+(2009), Vol. 24, pp. 83-91, International journal of computer systems science & engineering, Leicester, England, C1
+JOURNAL
+Effective metric for detecting distributed denial-of-service attacks based on information divergence
+Mr Ke Li, Prof Wanlei Zhou, Dr Shui Yu
+(2009), Vol. 3, pp. 1851-1860, IET Communications, Herts, England, C1
+JOURNAL
+An innovative analyser for multi-classifier e-mail classification based on grey list analysis
+Dr Rafiq Islam, Prof Wanlei Zhou, Minyi Guo, Prof Yang Xiang
+(2009), Vol. 32, pp. 357-366, Journal of network and computer applications, London, England, C1
+JOURNAL
+I/O scheduling and performance analysis on multi-core platforms
+Zhaobin Liu, Wenyu Qu, Haitao Li, Min Ruan, Prof Wanlei Zhou
+(2009), Vol. 21, pp. 1405-1417, Concurrency computation practice and experience, West Sussex, England, C1
+JOURNAL
+Chaos theory based detection against network mimicking DDoS attacks
+Mr Ashley Chonka, Prof Wanlei Zhou
+(2009), Vol. 13, pp. 717-719, IEEE communications letters, Piscataway, NJ, C1
+JOURNAL
+Flexible deterministic packet marking: an IP traceback system to find the real source of attacks
+Prof Yang Xiang, Prof Wanlei Zhou, Minyi Guo
+(2009), Vol. 20, pp. 567-580, IEEE transactions on parallel and distributed systems, Piscataway, NJ, C1
+JOURNAL
+Spam filtering for network traffic security on a multi-core environment
+Dr Rafiq Islam, Prof Wanlei Zhou, Prof Yang Xiang, Abdun Naser Mahmood
+(2009), Vol. 21, pp. 1307-1320, Concurrency and computation : practice & experience, Bognor Regis, England, C1
+JOURNAL
+Minimizing the limitations of GL analyser of fusion based email classification
+Dr Rafiq Islam, Prof Wanlei Zhou
+(2009), Vol. 5574, pp. 761-774, Lecture notes in computer science, Heidelberg, Germany, C1
+JOURNAL
+Defending grid web services from XDoS attacks by SOTA
+Mr Ashley Chonka, Prof Wanlei Zhou
+(2009), pp. 1-6, Percom 2009 : Proceedings of the Seventh Annual IEEE International Conference on Pervasive Computing and Communications, Piscataway, N. J., E1
+CONFERENCE
+Reliable downloading algorithms for bittorrent-like systems
+Mr Ke Li, Prof Wanlei Zhou, Ms Ping Li
+(2009), pp. 167-173, IFIP NPC 2009 : IFIP International Conference on Network and Parallel Computing Workshops : proceedings, 19-21 October, 2009, Gold Coast, Queensland, Los Alamitos, Calif., E1
+CONFERENCE
+Discriminating DDoS flows from flash crowds using information distance
+Dr Shui Yu, Mr Theerasak Thapngam, Mr Jian Liu, Mrs Su Wei, Prof Wanlei Zhou
+(2009), pp. 351-356, NSS 2009 : Proceedings of the third International Conference on Network and System Security, Piscataway, N. J., E1
+CONFERENCE
+Distinguishing DDoS attacks from flash crowds using probability metrics
+Mr Ke Li, Prof Wanlei Zhou, Ms Ping Li, Jing Hai, Mr Jian Liu
+(2009), pp. 9-17, NSS 2009 : Proceedings of the third International Conference on Network and System Security, Piscataway, N. J., E1
+CONFERENCE
+An parallel information retrieval method for e-commerce
+Wenyu Qu, Prof Wanlei Zhou, Masaru Kitsuregawa
+(2009), Vol. 24, pp. 29-37, International journal of computer systems science and engineering, Leicester, England, C1
+JOURNAL
+An abnormal-based approach to effectively detect DDOS attacks
+Mr Ke Li, Prof Wanlei Zhou
+(2009), Vol. 32, pp. 889-895, Journal of the Chinese institute of engineers, Taipei City Taiwan, Republic of China, C1
+JOURNAL
+A mobile learning model for universities : reblending the current learning environment
+Dr Ferial Khaddage, Dr Elicia Lanham, Prof Wanlei Zhou
+(2009), Vol. 3, pp. 18-23, International journal of interactive mobile technologies, Berlin, Germany, C1-1
+JOURNAL
+Mobile phones as a learning device : is it time to stop the ban?
+Dr Ferial Khaddage, Dr Elicia Lanham, Prof Wanlei Zhou
+(2009), pp. 347-350, IADIS 2009 : Proceedings of the 2009 International Conference e-learning, Barcelona, Spain, E1-1
+CONFERENCE
+A proposed blended mobile learning model for application in higher education
+Dr Ferial Khaddage, Dr Elicia Lanham, Prof Wanlei Zhou
+(2009), pp. 141-147, IMCL 2009 : Proceedings of the 4th International Conference on Interactive Mobile and Computer Aided Learning, Amman, Jordan, E1-1
+CONFERENCE
+E-learning over mobile phone technology: best practices and guidelines
+Dr Ferial Khaddage, Mr Ashley Chonka, Prof Wanlei Zhou
+(2009), Vol. 3, pp. 55-58, International journal of interactive mobile technologies, Berlin, Germany, C1-1
+JOURNAL
+Lectures display and presentation for mobile phone retrieval
+Dr Ferial Khaddage, Mr Ashley Chonka, Prof Wanlei Zhou
+(2009), pp. -, ICBL 2009 : Proceedings of the Interactive Computer Aided Blended Learning 2009 international conference, Berlin, Germany, E1-1
+CONFERENCE
+Technological considerations for mobile learning design
+Dr Ferial Khaddage, Mr Ashley Chonka, Prof Wanlei Zhou
+(2009), pp. 310-310, IMCL 2009 : Proceedings of the Interactive Mobile and Computer Aided Learning 2009 international conference, Amman, Jordan, E1-1
+CONFERENCE
+Ubiquitous multicore (UM) methodology for multimedia
+Mr Ashley Chonka, Prof Wanlei Zhou, Dr Leanne Ngo, Mr Yang Xiang
+(2009), Vol. 4, pp. 145-156, International Journal of Multimedia and Ubiquitous Engineering, Ojung-Dong, Republic of Korea, C1-1
+JOURNAL
+2008
+Protecting information systems from DDoS attack using multicore methodology
+Mr Ashley Chonka, Prof Wanlei Zhou, Mr Keith Knapp, Prof Yang Xiang
+(2008), pp. 270-275, CIT 2008 : Proceedings of IEEE 8th International Conference on Computer and Information Technology, Piscataway, N.J., E1
+CONFERENCE
+Protecting web services with service oriented traceback architecture
+Mr Ashley Chonka, Prof Wanlei Zhou, Prof Yang Xiang
+(2008), pp. 706-711, CIT 2008 : Proceedings of IEEE 8th International Conference on Computer and Information Technology, Piscataway, N.J., E1
+CONFERENCE
+Multi-core Defense System (MSDS) for protecting computer infrastructure against DDoS attacks
+Mr Ashley Chonka, Dr Soon Chong, Prof Wanlei Zhou, Prof Yang Xiang
+(2008), pp. 503-508, PDCAT 2008 : Ninth International Conference on Parallel and Distributed Computing, Applications and Technologies, Piscataway, N.J., E1
+CONFERENCE
+An operational approach to validate the path of BGP
+Ms Ping Li, Prof Wanlei Zhou, Mr Ke Li
+(2008), Vol. 5022, pp. 133-143, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+Dynamic feature selection for spam filtering using support vector machine
+Dr Rafiq Islam, Prof Wanlei Zhou, Dr Morshed Chowdhury
+(2008), Vol. 9, pp. 41-50, ACIS international journal of computer & information science, Mt. Pleasant, Mich., C1
+JOURNAL
+Information theory based detection against network behavior mimicking DDoS attacks
+Dr Shui Yu, Prof Wanlei Zhou, A/Prof Robin Ram Mohan Doss
+(2008), Vol. 12, pp. 319-321, IEEE communication letters, USA, C1
+JOURNAL
+Source-based filtering scheme against DDOS attacks
+Fasheng Yi, Dr Shui Yu, Prof Wanlei Zhou, Jing Hai, Mr Alessio Bonti
+(2008), Vol. 1, pp. 9-20, International journal of database theory and application, Korea, C1
+JOURNAL
+Detecting and tracing DDoS attacks by intelligent decision prototype
+Mr Ashley Chonka, Prof Wanlei Zhou, Jaipal Singh, Prof Yang Xiang
+(2008), pp. 578-583, Proceedings of the 6th Annual IEEE International Conference on Pervasive Computing and Communications, Piscataway, N.J., E1
+CONFERENCE
+Entropy-based collaborative detection of DDOS attacks on community networks
+Dr Shui Yu, Prof Wanlei Zhou
+(2008), pp. 566-571, Proceedings of the 6th Annual IEEE International Conference on Pervasive Computing and Communications, Piscataway, N.J., E1
+CONFERENCE
+Protecting web services from DDoS attacks by SOTA
+Mr Ashley Chonka, Prof Wanlei Zhou, Prof Yang Xiang
+(2008), pp. 379-384, ICITA 2008 : Proceedings of the 5th International Conference on Information Technology and Applications, Bathurst, N.S.W., E1
+CONFERENCE
+Reducing cache lookup and publish overhead through locality awareness in P2P web caching
+Prof Wanlei Zhou, John Casey
+(2008), pp. 296-303, HPCC 2008 : Proceedings of the 10th IEEE International Conference on High Performance Computing and Communications, Piscataway, N.J., E1
+CONFERENCE
+Multi-core security defense system (MSDS)
+Mr Ashley Chonka, Prof Wanlei Zhou, Prof Yang Xiang
+(2008), pp. 85-90, ATNAC 2008 : Proceedings of the 2008 Australasian Telecommunication Networks and Applications Conference, Piscataway, N.J., E1
+CONFERENCE
+Email categorization using (2+1)-tier classification algorithms
+Dr Rafiq Islam, Prof Wanlei Zhou, Dr Morshed Chowdhury
+(2008), pp. 276-281, ICIS 2008 : Proceedings of the 7th IEEE/ACIS International Conference on Computer and Information Science 2008, Los Alamitos, Calif., E1-1
+CONFERENCE
+Multi-classifier classification of spam email on an ubiquitous multi-core architecture
+Dr Rafiq Islam, Jaipal Singh, Mr Ashley Chonka, Prof Wanlei Zhou
+(2008), pp. 210-217, IFIP NPC 2008 : 2008 IFIP International Conference on Network and Parallel Computing Workshops : proceedings, 18-21 October, 2008, Shanghai, China, Los Alamitos, Calif., E1-1
+CONFERENCE
+An intelligent user interface for email categorisation
+Dr Rafiq Islam, Prof Wanlei Zhou
+(2008), Vol. 3, pp. 146-154, Journal of the People's University of Bangladesh : half-yearly journal of Center for Multidisciplinary Studies, Dhaka, Bangladesh, C1-1
+JOURNAL
+Complementing a region descriptor for shape retrieval
+Dr Atul Sajjanhar, Guojun Lu, Dengsheng Zhang, Prof Wanlei Zhou
+(2008), Vol. 9, pp. 51-59, IJCIS international journal of computer & information science, Mt. Pleasant, Mich., C1
+JOURNAL
+Image retrieval based on semantics of intra-region color properties
+Dr Atul Sajjanhar, Guojing Luo, Dengsheng Zhang, Prof Wanlei Zhou, A/Prof Phoebe Chen
+(2008), pp. 338-343, CIT 2008: Proceedings of 2008 IEEE 8th International Conference on Computer and Information Technology, Piscataway, N.J., E1
+CONFERENCE
+Corners-based composite descriptor for shapes
+Dr Atul Sajjanhar, Guojun Lu, Dengsheng Zhang, Prof Wanlei Zhou
+(2008), pp. 714-718, CISP 2008 : Proceedings of the First International Congress on Image and Signal Processing, Piscataway, N.J., E1
+CONFERENCE
+Defending against distributed denial of service
+Prof Yang Xiang, Prof Wanlei Zhou
+(2008), pp. 121-129, Encyclopedia of information ethics and security, Hershey, PA, B1
+CHAPTER
+Using multi-core processors to support network security applications
+Prof Wanlei Zhou
+(2008), pp. 213-218, Proceedings of the IEEE Computer Society Workshop on Future Trends of Distributed Computing Systems, Piscataway, N.J., E1-1
+CONFERENCE
+2007
+A conceptual matrix model for biological data processing
+Dr Jingyu Hou, Prof Wanlei Zhou
+(2007), pp. 559-564, 2007 Inaugural IEEE International Conference on Digital Ecosystems and Technologies 21-23 February 2007, New York, N.Y., E1
+CONFERENCE
+Novel data management algorithms in peer-to-peer content distribution networks
+Mr Ke Li, Prof Wanlei Zhou, Dr Shui Yu, Ms Ping Li
+(2007), Vol. 4798, pp. 538-543, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+Architecture of adaptive spam filtering based on machine learning algorithms
+Dr Rafiq Islam, Prof Wanlei Zhou
+(2007), Vol. 4494, pp. 458-469, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+A composite descriptor for shape retrieval
+Dr Atul Sajjanhar, Guojun Lu, Dengsheng Zhang, Prof Wanlei Zhou
+(2007), pp. 795-800, 6th IEEE/ACIS International Conference on Computer and Information Science : (ICIS 2007) in conjunction with 1st IEEE/ACIS International Workshop on e-Activity (IWEA 2007) : proceedings : 11-13 July, 2007, Melbourne, Australia, Los Alamitos, Calif., E1
+CONFERENCE
+Novel dynamic routing algorithms in autonomous system
+Mr Ke Li, Prof Wanlei Zhou, Dr Shui Yu, Ms Ronghua Tian
+(2007), pp. 223-228, CIRAS 2007 : proceedings of the Fourth International Conference on Computational Intelligence, Robotics and Autonomous Systems, Massey University, Palmerston North, New Zealand, 28th-30th November, 2007, Palmerston North, N.Z., E1
+CONFERENCE
+An effective non-parametric method for globally clustering genes from expression profiles
+Dr Jingyu Hou, Dr Wei Shi, A/Prof Gang Li, Prof Wanlei Zhou
+(2007), Vol. 45, pp. 1175-1185, Medical and biological engineering and computing, Berlin, Germany, C1
+JOURNAL
+Dynamic feature selection for spam filtering using support vector machine
+Dr Rafiq Islam, Prof Wanlei Zhou, Dr Morshed Chowdhury
+(2007), pp. 757-762, 6th IEEE/ACIS International Conference on Computer and Information Science : (ICIS 2007) in conjunction with 1st IEEE/ACIS International Workshop on e-Activity (IWEA 2007) : proceedings : 11-13 July, 2007, Melbourne, Australia, Los Alamitos, Calif., E1
+CONFERENCE
+A parallel downloading algorithm for redundant networks
+Mr Ke Li, Prof Wanlei Zhou, Dr Shui Yu, Bo Dai
+(2007), pp. 177-182, CIT 2007 : proceedings : 7th IEEE International Conference on Computer and Information Technology : 16-19 October, 2007, Aizu-Wakamatsu City, Fukushima, Japan, Los Alamitos, Calif., E1
+CONFERENCE
+Email categorization using multi-stage classification technique
+Dr Rafiq Islam, Prof Wanlei Zhou
+(2007), pp. 51-58, PDCAT 2007 : Eighth International Conference on Parallel and Distributed Computing, Applications and Technologies : 3-6 December, 2007, Adelaide, Australia, Los Alamitos, Calif., E1
+CONFERENCE
+Managing email overload with an automatic nonparametric clustering approach
+Prof Yang Xiang, Prof Wanlei Zhou, Jinjun Chen
+(2007), Vol. 4672, pp. 81-90, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+On the effectiveness of flexible deterministic packet marking for DDos defence
+Prof Yang Xiang, Prof Wanlei Zhou, Zhongwen Li, Qun Zeng
+(2007), pp. 183-190, 2007 IFIP International Conference on Network and Parallel Computing Workshops : proceedings : NPC 2007, 18-21 September, 2007, Dalian, China, Los Alimitos, Calif., E1
+CONFERENCE
+Pervasive computing at tableside : a wireless web-based ordering system
+Prof Yang Xiang, Prof Wanlei Zhou
+(2007), Vol. 3, pp. 82-101, International journal of pervasive computing and communications, Bingley, England, C1
+JOURNAL
+An enhanced parallel downloading algorithm for BT
+Mr Ke Li, Prof Wanlei Zhou, Dr Shui Yu
+(2007), pp. 1023-1027, PDPTA 2007 : Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Applications, PDPTA 2007, Las Vegas, Nevada, USA, June 25-28, 2007, Athens, Ga, E1
+CONFERENCE
+An innovative analyser for email classification based on grey list analysis
+Dr Rafiq Islam, Prof Wanlei Zhou
+(2007), pp. 176-182, 2007 IFIP International Conference on Network and Parallel Computing Workshops : proceedings : NPC 2007, 18-21 September, 2007, Dalian, China, Los Alimitos, Calif., E1
+CONFERENCE
+A resource-search and routing algorithm within PCDN autonomy area
+Mr Ke Li, Prof Wanlei Zhou, Dr Shui Yu, Yunsheng Zhang
+(2007), pp. 509-514, PDCAT 2007 : Eighth International Conference on Parallel and Distributed Computing, Applications and Technologies : 3-6 December, 2007, Adelaide, Australia, Los Alamitos, Calif., E1
+CONFERENCE
+Identifying cis-regulatory elements by statistical analysis and phylogenetic footprinting and analyzing their coexistence and related gene ontology
+Dr Wei Shi, Prof Wanlei Zhou, Dakang Xu
+(2007), Vol. 31, pp. 374-384, Physiological genomics, Bethesda, MD, C1
+JOURNAL
+2006
+Lease based addressing for event-driven wireless sensor networks
+A/Prof Robin Ram Mohan Doss, Deddy Chandra, Dr Lei Pan, Prof Wanlei Zhou, Dr Morshed Chowdhury
+(2006), pp. 251-256, ISCC 2006 proceedings : 11th IEEE Symposium on Computers and Communications : 26-29 June 2006, Cagliari, Sardinia, Italy, Los Alamitos, Calif, E1
+CONFERENCE
+Address reuse in wireless sensor networks
+A/Prof Robin Ram Mohan Doss, Deddy Chandra, Dr Lei Pan, Prof Wanlei Zhou, Dr Morshed Chowdhury
+(2006), pp. 329-333, ATNAC, Australian Telecommuncation Networks and Applications Conference, 2006., Melbourne, Vic, E1
+CONFERENCE
+Building virtual learning communities
+Ms Naomi Catharine Augar, Ruth S Raitman, Dr Elicia Lanham, Prof Wanlei Zhou
+(2006), pp. 72-100, Web-based intelligent e-learning systems: technologies and applications, Hershey, USA, B1
+CHAPTER
+Wikis: collaborative virtual learning environments
+Ms Naomi Catharine Augar, Ruth S Raitman, Prof Wanlei Zhou
+(2006), pp. 1251-1269, International handbook of virtual learning environments, Dordrecht, The Netherlands, B1
+CHAPTER
+A solution for fault tolerance in replicated database systems
+Dr Changgui Chen, Prof Wanlei Zhou
+(2006), Vol. 2, pp. 64-71, International journal of computational science and engineering, Geneva, Switzerland, C1
+JOURNAL
+Protecting web applications from DDoS attacks by an active distributed defense system
+Prof Yang Xiang, Prof Wanlei Zhou
+(2006), Vol. 2, pp. 37-44, International journal of web information systems, Leicester, England, C1
+JOURNAL
+Frequency distribution of TATA box and extension sequences on human promoters
+Dr Wei Shi, Prof Wanlei Zhou
+(2006), Vol. 7, pp. 1-12, BMC bioinformatics, London, England, C1
+JOURNAL
+Classifying DDoS packets in high-speed networks
+Prof Yang Xiang, Prof Wanlei Zhou
+(2006), Vol. 6, pp. 107-115, International journal of computer science and network security, Republic of Korea, C1
+JOURNAL
+Developing wikis to foster web-based learning communities : an iterative approach
+Ms Naomi Catharine Augar, Ruth S Raitman, Prof Wanlei Zhou
+(2006), Vol. 2, pp. 302-317, International journal of web based communities, Olney, United Kingdom, C1
+JOURNAL
+2005
+An IT Bachelor degree using modern technologies to illustrate core concepts and principles and building generic skills
+Prof Andrzej Goscinski, Prof Malcolm Campbell, Dr Robert Dew, Mr Peter Horan, Dr Douglas Newlands, Dr Justin Rough, Dr Jacqueline Silcock, Prof Wanlei Zhou
+(2005), Vol. 10, pp. 361-379, Education and information technologies, The Netherlands, C1
+JOURNAL
+The multifaceted and ever-changing directions of information security - Australia get ready!
+Dr Leanne Ngo, Prof Wanlei Zhou
+(2005), pp. 230-233, Third International Conference on Information Technology and Applications : 4-7 July 2005, Sydney, Australia : proceedings, Los Alamitos, Calif., E1
+CONFERENCE
+A parallel Euler approach for large-scale biological sequence assembly
+Dr Wei Shi, Prof Wanlei Zhou
+(2005), pp. 437-441, Third International Conference on Information Technology and Applications : 4-7 July 2005, Sydney, Australia : proceedings, Los Alamitos, Calif., E1
+CONFERENCE
+Spam filtering based on preference ranking
+Mr Mingjun Lan, Prof Wanlei Zhou
+(2005), pp. 223-227, Fifth International Conference on Computer and Information Technology : CIT 2005 : proceedings : 21-23 September, 2005, Shanghai, China, Los Alamitos, Calif., E1
+CONFERENCE
+A defense system against DDoS attacks by large-scale IP traceback
+Prof Yang Xiang, Prof Wanlei Zhou
+(2005), pp. 431-436, Third International Conference on Information Technology and Applications : 4-7 July 2005, Sydney, Australia : proceedings, Los Alamitos, Calif., E1
+CONFERENCE
+Employing wikis for online collaboration in the e-learning environment: case study
+Ruth S Raitman, Ms Naomi Catharine Augar, Prof Wanlei Zhou
+(2005), pp. 142-146, Third International Conference on Information Technology and Applications : 4-7 July 2005, Sydney, Australia : proceedings, Los Alamitos, Calif., E1
+CONFERENCE
+Understanding transition towards information security culture change
+Dr Leanne Ngo, Prof Wanlei Zhou, Prof Matthew Warren
+(2005), pp. 67-73, Proceeding of the 3rd Australian Computer, Network & Information Forensics Conference, Perth, W.A., E1
+CONFERENCE
+Mark-aided distributed filtering by using neural network for DDoS defense
+Prof Yang Xiang, Prof Wanlei Zhou
+(2005), pp. 1701-1705, GLOBECOM '05 : IEEE Global Telecommunications Conference, 28 November-2 December 2005 St. Louis, Missouri, USA, discovery past and future, Piscataway, N.J., E1
+CONFERENCE
+Security in the online e-learning environment
+Ruth S Raitman, Dr Leanne Ngo, Ms Naomi Catharine Augar, Prof Wanlei Zhou
+(2005), pp. 702-706, 5th IEEE International Conference on Advanced Learning Technologies : ICALT 2005 : proceedings : 5-8 July, 2005, Kaohsiung, Taiwan, Los Alamitos, Calif., E1
+CONFERENCE
+Creating a blended learning model for cross-cultural e-learning: putting theory into practice
+Dr Elicia Lanham, Ms Naomi Catharine Augar, Prof Wanlei Zhou
+(2005), pp. 2623-2630, E-learn 2005: the proceedings of the world conference on e-learning in corporate, government, healthcare and higher education, Chesapeake, VA, E1
+CONFERENCE
+How using a wiki can help break the ice between cultures
+Dr Elicia Lanham, Ms Naomi Catharine Augar, Prof Wanlei Zhou
+(2005), pp. 2631-2636, E-learn 2005: the proceedings of the world conference on e-learning in corporate, government, healthcare and higher education, Chesapeake, VA, E1
+CONFERENCE
+An innovative spam filtering model based on support vector machine
+Dr Rafiq Islam, Dr Morshed Chowdhury, Prof Wanlei Zhou
+(2005), pp. 348-353, CIMCA 2005 jointly with IAWTIC 2005 : proceedings, Los Alamitos, Calif., E1
+CONFERENCE
+Distributed defense against distributed denial-of-service attacks
+Dr Wei Shi, Prof Yang Xiang, Prof Wanlei Zhou
+(2005), Vol. 3719, pp. 357-362, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+An efficient reliable architecture for application layer anycast service
+Dr Shui Yu, Prof Wanlei Zhou
+(2005), Vol. 3719, pp. 376-385, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+Intelligent DDoS packet filtering in high-speed networks
+Prof Yang Xiang, Prof Wanlei Zhou
+(2005), Vol. 3758, pp. 395-406, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+A mesh based anycast routing protocol for ad hoc networks
+Dr Shui Yu, Prof Wanlei Zhou
+(2005), Vol. 3758, pp. 927-932, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+Eulerian superpath approach to correct sequencing error in shotgun assembly
+Dr Wei Shi, Prof Wanlei Zhou, Weimin Zheng
+(2005), Vol. 6, pp. 65-73, Online journal of bioinformatics, Daisy Hill, Qld, C1
+JOURNAL
+Reducing the bandwidth requirements of P2P keyword indexing
+John Casey, Prof Wanlei Zhou
+(2005), Vol. 3719, pp. 50-59, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+Safeguard information infrastructure against DDoS attacks: experiments and modeling
+Prof Yang Xiang, Prof Wanlei Zhou
+(2005), Vol. 3810, pp. 320-333, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+Biological sequence assembly and alignment
+Dr Wei Shi, Prof Wanlei Zhou, A/Prof Phoebe Chen
+(2005), pp. 243-261, Bioinformatics Technologies, Berlin, Germany, B1
+CHAPTER
+Clock synchronization state graphs based on clock precision difference
+Ying Zhao, Prof Wanlei Zhou, Yingying Zhang, Dr Elicia Lanham, Jiumei Huang
+(2005), Vol. 3179, pp. 34-39, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+2004
+Students reflect on their learning community: survey results
+Ruth S Raitman, Adil M. Hammadi, Prof Wanlei Zhou
+(2004), pp. 5068-5072, ED-MEDIA 2004 : World Conference on Educational Multimedia, Hypermedia and Telecommunications : proceedings of ED-MEDIA 2004, World Conference on Educational Multimedia, Hypermedia and Telecommunications June 21 - 26, 2004 ; Lugano Switzerland, Norfolk, Va., E1
+CONFERENCE
+Video lectures for cross-cultural use: a three phase model
+Dr Elicia Lanham, Prof Wanlei Zhou
+(2004), pp. 2368-2373, E-Learn 2004 : World Conference on E-Learning in Corporate, Government, Healthcare, & Higher Education, Chesapeake, VA, E1
+CONFERENCE
+A novel middleware based web database model
+Dr Shui Yu, Prof Wanlei Zhou
+(2004), pp. 533-536, IEEE/WIC International Conference on Web Intelligence (WI 2004) : Beijing, China, September 20-24, 2004 : proceedings, Los Alamitos, Calif., E1
+CONFERENCE
+IP spoofing attack and its countermeasures
+Prof Yang Xiang, Prof Wanlei Zhou
+(2004), pp. 52-60, From information warfare to information operations: proceedings of the 5th Australian Information Warfare and Security Conference, Churchlands, W.A., E1
+CONFERENCE
+Constructing wikis as a platform for online collaboration in an e-learning environment
+Ruth S Raitman, Ms Naomi Catharine Augar, Prof Wanlei Zhou
+(2004), pp. 1723-1730, International Conference on Computers in Education 2004 : a conference of the Asia-Pacific Society for Computers in Education (APSCE) November 30th - December, 2004 : Melbourne Exhibition Centre, Australia :conference proceedings, Altona, Vic, E1
+CONFERENCE
+Teaching and learning online with wikis
+Ms Naomi Catharine Augar, Ruth S Raitman, Prof Wanlei Zhou
+(2004), pp. 95-104, Beyond the comfort zone : proceedings of the 21st ASCILITE Conference, Perth, 5-8 December, {Perth, W.A., E1
+CONFERENCE
+A self-learning system for identifying harmful network information
+Dr Wei Shi, Prof Wanlei Zhou, Weimin Zheng
+(2004), pp. 621-630, iiWAS 2004 : Sixth International Conference on Information Integration and Web-based Applications Services, 27-29 September 2004, Jakarta, Indonesia, Vienna, Austria, E1
+CONFERENCE
+Load balance algorithms for anycast
+Dr Shui Yu, Prof Wanlei Zhou, John Casey
+(2004), pp. 471-480, iiWAS2004 : Sixth International Conference on Information Integration and Web-based Applications Services, 27-29 September 2004, Jakarta, Indonesia, Vienna, Austria, E1
+CONFERENCE
+Large-scale biological sequence assembly and alignment by using computing grid
+Dr Wei Shi, Prof Wanlei Zhou
+(2004), Vol. 3032, pp. 26-33, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+Towards an interactive architecture for web-based databases
+Dr Changgui Chen, Prof Wanlei Zhou
+(2004), Vol. 3033, pp. 871-878, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+From e-learning to virtual learning community: bridging the gap
+Ms Naomi Catharine Augar, Ruth S Raitman, Prof Wanlei Zhou
+(2004), Vol. 3143, pp. 301-308, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+An analysis of update ordering in distributed replication systems
+Prof Wanlei Zhou, Ms Li Wang, Dr Weijia Jia
+(2004), Vol. 20, pp. 565-590, Future generation computer systems, Netherlands, C1
+JOURNAL
+A reactive system architecture for building fault-tolerant distributed applications
+Dr Changgui Chen, Dr Weijia Jia, Prof Wanlei Zhou
+(2004), Vol. 72, pp. 401-415, Journal of systems and software, Amsterdam, The Netherlands, C1
+JOURNAL
+Protect grids from DDoS attacks
+Prof Yang Xiang, Prof Wanlei Zhou
+(2004), Vol. 3251, pp. 309-316, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+Minicast: a multicast-anycast protocol for message delivery
+Dr Shui Yu, Prof Wanlei Zhou, Dr Justin Rough
+(2004), Vol. 3358, pp. 798-803, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+A load balancing algorithm for web based server grids
+Dr Shui Yu, John Casey, Prof Wanlei Zhou
+(2004), Vol. 3033, pp. 121-128, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+An active distributed defense system to protect web applications from DDoS attacks
+Prof Yang Xiang, Prof Wanlei Zhou
+(2004), pp. 559-568, Sixth International Conference on Information Integration and Web-based Applications Services, 27-29 September 2004, Jakarta, Indonesia, Jakarta, Indonesia, E1
+CONFERENCE
+Improving the performance of equalization in communication systems
+Prof Wanlei Zhou, Ms Hua Ye, Prof Lin Ye
+(2004), Vol. 3033, pp. 388-395, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+A parallel DNA fragment assembly algorithm based on eulerian superpath approach
+Weimin Zheng, Dr Wei Shi, Prof Wanlei Zhou
+(2004), Vol. 5, pp. 91-101, Online journal of bioinformatics, Daisy Hill, Qld, C1
+JOURNAL
+An adaptive information grid architecture for recommendation system
+Mr Mingjun Lan, Prof Wanlei Zhou
+(2004), Vol. 3032, pp. 584-591, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+Optimal multicast tree routing for cluster computing in hypercube interconnection networks
+Dr Weijia Jia, Bo Han, Pui On Au, Yong He, Prof Wanlei Zhou
+(2004), Vol. 87, pp. 1625-1632, IEICE transactions on information and systems, Oxford, England, C1
+JOURNAL
+A fast and robust method applied in telecommunication systems
+Ms Hua Ye, Prof Wanlei Zhou, Dr Justin Rough
+(2004), pp. 423-426, Proceedings of the International Conference on Artificial Intelligence, IC-AI 04 & proceedings of the International Conference on Machine Learning: Models, Technologies & Applications, MLMTA '04., Las Vegas, Nevada, E1
+CONFERENCE
+GHIRS: integration of hotel management systems by web services
+Prof Yang Xiang, Prof Wanlei Zhou, Dr Morshed Chowdhury
+(2004), Vol. 3033, pp. 1002-1009, Lecture notes in computer science, Berlin, Germany, C1
+JOURNAL
+Delay control and parallel admission algorithms for real-time anycast flow
+Dr Weijia Jia, Bo Han, Chuanlin Zhang, Prof Wanlei Zhou
+(2004), Vol. 29, pp. 197-209, Journal of supercomputing, Norwell, Mass., C1
+JOURNAL
+The cost of recovery protocols in web-based database systems
+Adil M. Hammadi, John Casey, Prof Wanlei Zhou
+(2004), pp. 137-142, 2004 IEEE International Conference on Services Computing : (SCC 2004) : proceedings : Shanghai, China : September 15-18, 2004, Los Alamitos, Calif, E1
+CONFERENCE
+2003
+Self-adaptive clock synchronisation based on clock precision difference
+Ying Zhao, Prof Wanlei Zhou, Dr Elicia Lanham, Dr Shui Yu, Mr Mingjun Lan
+(2003), pp. 181-187, Computer science 2003 : proceedings of the twenty-sixth Australasian Computer Science Conference, Sydney, N.S.W., E1
+CONFERENCE
+Application of fast and robust equalization in communication technology
+Ms Hua Ye, Prof Wanlei Zhou, Ye Lin, Dr Elicia Lanham, Ruth S Raitman
+(2003), pp. 114-118, International Conference for Young Computer Scientists (7th : 2003, Harbin China), Beijing, E1
+CONFERENCE
+Tips for e-learning developers
+Ruth S Raitman, Prof Wanlei Zhou
+(2003), pp. -, Proceedings of International Conference on Computers in Education, Chesapeake, VA, E1
+CONFERENCE
+Improving the performance of the LMS and RLS algorithms for adaptive equalizer
+Ms Hua Ye, Prof Wanlei Zhou, Dr Shui Yu, Mr Mingjun Lan
+(2003), pp. 457-462, Active media technology : proceedings of the Second International Conference on Active Media Technology, Chongqing, PR China, 29-31 May, 2003, New York, N.Y, E1
+CONFERENCE
+Quality-of-service routing for web-based multimedia servers
+Dr Shui Yu, Prof Wanlei Zhou, Dr Morshed Chowdhury
+(2003), pp. 1349-1353, Proceedings of the 7th Joint Conference on Information Sciences : September 26 - 30, 2003, Research Triangle Park, North Carolina, USA, Durham, N. C., E1
+CONFERENCE
+Blended learning for cross-cultural e-learning
+Dr Elicia Lanham, Prof Wanlei Zhou
+(2003), pp. 1927-1930, E-learn 2003 World Conference on E-Learning in Corporate, Governement, Healthcare, & Higher Education, Norfolk, Virg., E1
+CONFERENCE
+A solution for fault-tolerance in replicated database systems
+Dr Changgui Chen, Prof Wanlei Zhou
+(2003), pp. 411-422, Parallel and distributed processing and applications : international symposium, ISPA 2003, Aizu-Wakamatsu, Japan, July 2-4, 2003 : proceedings, Berlin, Germany, E1
+CONFERENCE
+Fault-tolerant servers for anycast communication
+Dr Shui Yu, Prof Wanlei Zhou, Dr Weijia Jia
+(2003), pp. 1244-1250, PDPTA 2003 : Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Applications, Athens, Ga, E1
+CONFERENCE
+Cultural issues in online learning - is blended learning a possible solution?
+Dr Elicia Lanham, Prof Wanlei Zhou
+(2003), Vol. 16, pp. 275-292, International journal of computer processing of oriental languages, Singapore, C1
+JOURNAL
+Exploring the foundations of practicing online collaboration
+Ruth S Raitman, Prof Wanlei Zhou, Dr Paul Nicholson
+(2003), pp. 532-541, Proceedings of the Second Conference on Advances in Web-Based Learning, Berlin, Germany, E1
+CONFERENCE
+Cultural issues relating to teaching IT professional ethics online: lessons learned
+Dr Elicia Lanham, Prof Wanlei Zhou
+(2003), pp. 134-144, Advances in Web-based learning--ICWL 2003 : second international conference, Melbourne, Australia, August 18-20, 2003 : proceedings, Berlin, Germany, E1
+CONFERENCE
+An architecture of internet based data processing based on multicast and anycast protocols
+Dr Shui Yu, Prof Wanlei Zhou, Mr Mingjun Lan, Yue Wu
+(2003), pp. 104-110, Parallel and distributed computing, applications and technologies : PDCAT'2003 : proceedings : (August 27-29, 2003, Chengdu, China), Piscataway, N.J., E1
+CONFERENCE
+Decision analysis of statistically detecting distributed denial-of-service flooding attacks
+Dr Ming Li, Chi-Hung Chi, Dr Weijia Jia, Wei Zhao, Prof Wanlei Zhou, Jiannong Cao, Dongyang Long, Qiang Meng
+(2003), Vol. 2, pp. 397-405, International journal of information technology and decision making, Singapore, C1
+JOURNAL
+2002
+Self-adaptive clock synchronization for computational grid
+Ying Zhao, Prof Wanlei Zhou, Jiumei Huang, Dr Shui Yu, Dr Elicia Lanham
+(2002), pp. 932-942, GCC 2002 : Proceedings of the grid and cooperative computing international workshop, Beijing, China, E1
+CONFERENCE
+A co-recommendation algorithm for web searching
+Mr Mingjun Lan, Dr Shui Yu, Ruth Bacher, Prof Wanlei Zhou
+(2002), pp. 479-482, Proceedings of the Fifth International Conference on Algorithms and Architectures for Parallel Processing, Los Alamitos, Calif., E1
+CONFERENCE
+The design and development of an integrated system for object-oriented finite element computing
+Prof Yang Xiang, Prof Wanlei Zhou
+(2002), pp. 201-204, 2002 5th International Conference on Algorithms and Architectures for Parallel Processing : ICA3PP/2002 : Beijing, China, October 23-25, 2002, Los Alamitos, Calif., E1
+CONFERENCE
+Research on network anycast
+Dr Shui Yu, Prof Wanlei Zhou, Yue Wu
+(2002), pp. 154-161, 2002 5th International Conference on Algorithms and Architectures for Parallel Processing : ICA3PP/2002 : Beijing, China, October 23-25, 2002, Los Alamitos, Calif., E1
+CONFERENCE
+A web-DB model on multicast and anycast
+Dr Shui Yu, Prof Wanlei Zhou, Ying Zhao, Mr Mingjun Lan, Prof Yang Xiang
+(2002), pp. 412-415, 2002 5th International Conference on Algorithms and Architectures for Parallel Processing : ICA3PP/2002 : Beijing, China, October 23-25, 2002, Los Alamitos, Calif., E1
+CONFERENCE
+Object oriented finite element analysis: a distributed approach to mesh generation
+Prof Yang Xiang, Yang Ping, Prof Wanlei Zhou
+(2002), pp. 92-99, 2002 5th International Conference on Algorithms and Architectures for Parallel Processing : ICA3PP/2002 : Beijing, China, October 23-25, 2002, Los Alamitos, Calif., E1
+CONFERENCE
+A token-based independent update protocol for managing replicated objects
+Prof Wanlei Zhou, Dr Weijia Jia
+(2002), Vol. 17, pp. 189-207, International journal of computer systems science and engineering, London, UK, C1
+JOURNAL
+An efficient algorithm for application-layering anycasting
+Dr Shui Yu, Prof Wanlei Zhou, Dr Fuchun Huang, Mr Mingjun Lan
+(2002), pp. 74-83, Distributed communities on the Web : 4th international workshop, DCW 2002, Sydney, Australia, April 3-5, 2002 : revised papers, Berlin, Germany, E1
+CONFERENCE
+Comparison of the LMS with RLS for communication technology
+Prof Wanlei Zhou, Ms Hua Ye, Dr Changgui Chen
+(2002), pp. 737-744, Proceedings of the International Workshop on Grid and Cooerative Computing, Beijing, China, E1
+CONFERENCE
+An analysis of update ordering in a cluster of replicated servers
+Prof Wanlei Zhou, Ms Li Wang
+(2002), pp. 28-35, Proceedings of the Fifth International Conference on Algorithms and Architectures for Parallel Processing, Los Alamitos, Calif., E1
+CONFERENCE
+2001
+Update ordering in distributed replication systems
+Prof Wanlei Zhou, Ms Li Wang
+(2001), pp. 79-85, CIC'2001 : proceedings of the International Conference on Communications in Computing : Las Vegas, Nevada, USA, June 25-28, 2001, Athens, Ga, E1
+CONFERENCE
+The development of a mobile decision support system
+Wu Yeu, Tian Yonghong, Prof Wanlei Zhou
+(2001), Vol. 2, pp. 379-390, Journal of interconnection networks, Singapore, C1
+JOURNAL
+An automatic generation model for web-based database applications
+Dr Shui Yu, Dr Changgui Chen, Prof Wanlei Zhou
+(2001), pp. 62-66, Parallel and distributed computing and systems : proceedings of the IASTED international conference, August, 21 - 24, 2001, Anaheim, California, USA, Anaheim, CA, E1
+CONFERENCE
+The design and implementation of an active replication scheme for distributing services in a cluster of workstations
+Ms Li Wang, Prof Wanlei Zhou, Dr Weijia Jia
+(2001), Vol. 58, pp. 199-210, Journal of systems and software, New York, N.Y., C1
+JOURNAL
+Toward the building of component-based electronic commerce systems
+Prof Wanlei Zhou, Ms Naomi Catharine Augar, John Casey
+(2001), pp. 779-785, Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Applications : PDPTA '2001 : Las Vegas, Nevada, USA, June 25-28, 2001, Las Vegas, Nev., E1
+CONFERENCE
+A reactive architecture for web-based information systems
+Dr Changgui Chen, Prof Wanlei Zhou, Dr Shui Yu
+(2001), pp. 1028-1034, Proceedings of the International Conference on Internet Computing : IC'2001 : Las Vegas, Nevada, USA, June 25-28, 2001, Athens, Ga, E1
+CONFERENCE
+Automating the construction of replicated objects in a cluster of workstations
+Prof Wanlei Zhou, Ms Li Wang
+(2001), pp. 634-639, First IEEE/ACM International Symposium on Cluster Computing and the Grid : proceedings : Brisbane, Australia, May 15-18, 2001, Los Alamitos, Calif, E1
+CONFERENCE
+Efficient algorithm for mobile multicast using anycast group
+Dr Weijia Jia, Prof Wanlei Zhou, J Kaiser
+(2001), Vol. 148, pp. 14-18, IEE proceedings- communications, Los Alamitos, Calif., C1
+JOURNAL
+GRANTS
+SUPERVISIONS
+Copyright
+Disclaimer
+Privacy
+Sitemap
+Jobs at Deakin
+About us
+Giving to Deakin
+Emergency information
+Contact us
+Connect with us
+Facebook
+Twitter
+Instagram
+Linkedin
+Explore
+This
+YouTube
+weibo
+We acknowledge the traditional owners of the lands on which Deakin University stands and we pay our respect.
+© Copyright Deakin University 2016. Deakin University CRICOS Provider Code 00113B.

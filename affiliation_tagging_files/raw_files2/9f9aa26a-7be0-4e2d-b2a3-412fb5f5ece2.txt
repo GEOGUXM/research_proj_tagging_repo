@@ -1,0 +1,1257 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Research students
+People
+Chemical and Biochemical Engineering
+SEARCH
+MENU
+Research students
+Mohamed Hussein Ali Abdellah
+Thesis title:
+Solvent resistant nano-filtration for recovery of green solvents
+Supervisor:
+Sandra Kentish
+Discipline/Group:
+CO2CRC
+Location:
+Room 215, Building 165
++ 61 3 8344 8863
+mabdellah@student.unimelb.edu.au
+Mr Suhaib Ali
+Supervisor:
+Paul Webley
+Discipline/Group:
+Clean Energy Laboratory
+Location:
+Room B.07, C&BE Building 167
++ 61 3 8344 6640
+s.ali4@student.unimelb.edu.au
+Stephanie Allison
+Supervisor:
+Greg Qiao
+Discipline/Group:
+Polymer Science
+Location:
+Room 5.01, Chemistry East Building 154
++ 61 3 8344 8678
+s.allison@student.unimelb.edu.au
+Tianyi (Alisa) Bai
+Thesis title:
+Polymer Surfactant Interactions in Emulsions
+Supervisor:
+Ray Dagastine
+Discipline/Group:
+Dagastine Group
+Location:
+Room B07, Desk 4, C&BE Building 167
++ 61 3 8344 6640
+t.bai2@student.unimelb.edu.au
+Ayana Bhaskaran
+Thesis title:
+Design of new artificial active sites
+Supervisor:
+Luke Connal
+Discipline/Group:
+Connal Group
+Location:
+Room B07, Desk 8, C&BE Building 167
+abhaskaran@student.unimelb.edu.au
+Ms Elham Bidram
+Thesis title:
+A novel cancer treatment using folate receptor blockage
+Supervisor:
+David Dunstan
+Discipline/Group:
+Complex Fluids
+Location:
+Room 2.27, C&BE Building 165
++ 61 3 8344 4888
+elhamb@student.unimelb.edu.au
+Mr Christian Biscombe
+Thesis title:
+Microfluid circuit analysis
+Supervisor:
+Dalton Harvie
+Discipline/Group:
+Fluids Group
+Location:
+Room 1.05, C&BE Building 165
++ 61 3 8344 0352
+c.biscombe@pgrad.unimelb.edu.au
+Mr Dhee Biswas
+Supervisor:
+Andrea O’Connor
+Discipline/Group:
+Tissue Engineering
+Location:
+Room 2.08, C&BE Building 167
++ 61 3 8344 4567
+d.biswas@student.unimelb.edu.au
+Mr Matthew Biviano
+Thesis title:
+Nano-mechanical aspects and particle interactions in micro-encapsulation
+Supervisor:
+Ray Dagastine
+Discipline/Group:
+Dagastine Group
+Location:
+Room 807, C&BE Building 167 & 165
++ 61 3 8344 6640
+m.biviano@student.unimelb.edu.au
+Mr Mattias Björnmalm
+Thesis title:
+Engineering and evaluating drug delivery particles in microfluidic devices
+Supervisor:
+Frank Caruso
+Discipline/Group:
+Nanostructured Interfaces and Materials Science
+Location:
+Room 1.07, C&BE Building 165
++61 3 9035 8152
+abjornmalm@student.unimelb.edu.au
+Mr Christopher Bolton
+Thesis title:
+Controlling dispersion forces to probe diffusive transport properties in confined systems
+Supervisor:
+Ray Dagastine
+Discipline/Group:
+Dagastine Group
+Location:
+Room 2.07, C&BE Building 165
++ 61 3 8344 6635
+cgbolton@student.unimelb.edu.au
+Ms Emma Brisson
+Thesis title:
+Novel temperature responsive polymers are flocculants and collectors
+Supervisor:
+Luke Connal
+George Franks
+Discipline/Group:
+Connal Group
+Ceramics and Minerals Processing Group
++61 3 90355670
+ebrisson@student.unimelb.edu.au
+Ms Christine Browne
+Supervisor:
+Ray Dagastine
+Discipline/Group:
+Dagastine Group
+Location:
+Room 2.07, C&BE Building 165
++ 61 3 8344 6635
+browneci@student.unimelb.edu.au
+Mr Stephan Burger
+Thesis title:
+Nanoporous materials for biomedical devices, drug delivery and bioseparations
+Supervisor:
+Andrea O’Connor
+Discipline/Group:
+Tissue Engineering
+burgers@student.unimelb.edu.au
+Mr Wilhelm Burger
+Supervisor:
+Sally Gras
+Discipline/Group:
+Gras Research Group
+w.burger@student.unimelb.edu.au
+Mr Chao Chen
+Supervisor:
+Luke Connal
+Sandra Kentish
+Discipline/Group:
+Connal Group
+Location:
+Room 207, C&BE Building 167
++ 61 3 8344 9572
+chaoc3@student.unimelb.edu.au
+Ms Xi Chen
+Thesis title:
+Morphology and surface control of nanocapsules to guide cellular interaction and processing fate
+Supervisor:
+Frank Caruso
+Discipline/Group:
+Nanostructured Interfaces and Materials Science
+Location:
+Room 1.08, C&BE Building 165
++61 3 9035 8152
+x.chen46@student.unimelb.edu.au
+Jack Churchill
+Thesis title:
+Remediation of contaminated meltwater in remote climates
+Supervisor:
+Kathryn Mumford
+Discipline/Group:
+Mumford Group
+Location:
+Room 215, Building 165
++ 61 3 8344 8863
+j.churchill2@student.unimelb.edu.au
+Mr Joe Collins
+Thesis title:
+Oxime Chemistry and Dynamic Polymers
+Supervisor:
+Luke Connal
+Discipline/Group:
+Connal Group
+Location:
+Room 2.07, C&BE Building 167
++61 3 9035 8152
+j.collins7@student.unimelb.edu.au
+Mr Adam Crust
+Thesis title:
+Optimisation of thickener performance through incorporation of shear effects
+Supervisor:
+Peter Scales
+Shane Usher
+Discipline/Group:
+Solid-Liquid Separations Group
+Location:
+Room 1.19, C&BE Building 167
++61 3 9035 8030
+a.crust@student.unimelb.edu.au
+Ewa Czuba
+Supervisor:
+Frank Caruso
+Discipline/Group:
+Nanostructured Interfaces and Materials Science
+Location:
+Room 108, Building 165
++ 61 3 8344 4314
+eczuba@student.unimelb.edu.au
+Mr David Danaci
+Thesis title:
+Carbon dioxide capture from natural gas: development of adsorbents and accompanying processes
+Supervisor:
+Paul Webley
+Discipline/Group:
+Clean Energy Laboratory
+Location:
+Room 4.06, Level 4, Bdg 154
++61 3 9035 8765
+ddanaci@student.unimelb.edu.au
+Mr Erico de Godois Baroni
+Thesis title:
+Evaluating the relative potential of various microalgae as biorefinery feedstocks
+Supervisor:
+Greg Martin
+Discipline/Group:
+Algal Processing Group
+Location:
+Room 227, Desk 9, C&BE Building 165
++ 61 3 8344 4888
+ericod@student.unimelb.edu.au
+Ms Hongzhan Di
+Thesis title:
+Filtration of model colloidal particles
+Supervisor:
+David Dunstan
+Greg Martin
+Discipline/Group:
+Complex Fluids Group
+Location:
+Room 2.24, Building 165
++ 61 3 8344 6618
+h.di@student.unimelb.edu.au
+Ms Mina Dokouhaki
+Thesis title:
+The assembly of chaplins in bulk solution and at the air-water interface
+Supervisor:
+Sally Gras
+Discipline/Group:
+Gras Research Group
+Location:
+Room 1.03, Bio21
++ 61 3 8344 2256
+m.dokouhaki@student.unimelb.edu.au
+Nilanka Ekanayake
+Thesis title:
+Modelling the cell-free-layer in complex blood vessel geometries
+Supervisor:
+Dalton Harvie
+Discipline/Group:
+Fluid Dynamics
+Location:
+Room B07, Building 167
++61 3 8344 6640
+nekanayake@student.unimelb.edu.au
+Ms Nurul Sakinah Engliman
+Thesis title:
+Application of bacteriophages in reduction of foaming in wastewater treatment processes
+Supervisor:
+Anthony Stickland
+Sally Gras
+Discipline/Group:
+Waste Water Foaming Group
+Location:
+Bio21
++ 61 3 8344 2256
+n.engliman@student.unimelb.edu.au
+Mr Matthew Faria
+Supervisor:
+Frank Caruso
+Discipline/Group:
+Nanostructured Interfaces and Materials Science
+Location:
+Room 1.06, C&BE Building 165
++ 61 3 8344 4314
+mfaria@student.unimelb.edu.au
+Nina Fatma Ali
+Thesis title:
+Assessing Learning of Safety Using Concept Maps
+Supervisor:
+David Shallcross
+Discipline/Group:
+Engineering Learning Unit
+Location:
+Room 227, Building 165
+ninaa1@student.unimelb.edu.au
+Mr Christopher Fewkes
+Supervisor:
+Ray Dagastine
+Discipline/Group:
+Dagastine Group
+Location:
+Room 2.07, C&BE Building 165
++ 61 3 8344 6635
+c.fewkes@student.unimelb.edu.au
+Mr Benjamin Freidman
+Thesis title:
+Comparison of biofilm activity in natural soild versus synthetic materials: Implications for contaminated land and fuel spill remediation in polar regions
+Supervisor:
+Kathryn Mumford
+Geoff Stevens
+Sally Gras
+Discipline/Group:
+Particulate Fluids Processing Centre
+Location:
+Room 1.05, C&BE; Blg 165
++ 61 3 8344 0591
+b.freidman@student.unimelb.edu.au
+Mr Sook Jin Goh
+Thesis title:
+Development of peptide-inorganic composites as anticancer agents
+Supervisor:
+Greg Qiao
+Neil O'Brien-Simpson (MDS)
+Anton Blencowe (UniSA)
+Discipline/Group:
+Polymer Science
+Location:
+Room 5.10, Chemistry East
++ 61 3 8344 3683
+sookg@student.unimelb.edu.au
+Mr Dunyin Gu
+Thesis title:
+Development of cryogels for biomedical applications
+Supervisor:
+Andrea O’Connor
+Greg Qiao
+Discipline/Group:
+Tissue Engineering
+Polymer Science
+Location:
+Room 5.10, Chemistry East Wing Building 154
++ 61 3 8344 4888
+dunying@student.unimelb.edu.au
+Ms Malavika Haribabu
+Thesis title:
+A fundamental study of milk ultrafiltration
+Supervisor:
+Dalton Harvie
+Discipline/Group:
+Location:
+Room B.07, C&BE Building 167
++ 61 3 8344 6640
+m.haribabu@student.unimelb.edu.au
+Ms Armineh Hassanvand
+Thesis title:
+Capacative Deionisation as a Novel Approach to Wastewater Treatment
+Supervisor:
+Sandra Kentish
+Paul Webley
+Discipline/Group:
+Kentish Group
+Clean Energy Laboratory
+Location:
+Room 2.15, C&BE Building 165
+a.hassanvand@student.unimelb.edu.au
+Mr Yingdian (Frank) He
+Thesis title:
+Metal-organic framework materials for gas separation
+Supervisor:
+Paul Webley
+Discipline/Group:
+Clean Energy Laboratory
+frhe@student.unimelb.edu.au
+View online profile
+Mr Eric Hoefgen
+Thesis title:
+Combining shear and filtration: A new perspective on dewatering
+Supervisor:
+Anthony Stickland
+Peter Scales
+Robin Batterham
+Discipline/Group:
+The Sludge Group
+Location:
+Room 1.08 (Desk 4), C&BE Building 167
++61 3 9035 5670
+e.hofgen@student.unimelb.edu.au
+Mr Stephen Homer
+Thesis title:
+Hierarchical structure function relationships in mined biopolymer systems
+Supervisor:
+David Dunstan
+Discipline/Group:
+Complex Fluids
+s.homer@student.unimelb.edu.au
+Mr Wei-Lun Hsu
+Thesis title:
+Simulating microfluidic electrokinetic flows
+Supervisor:
+Dalton Harvie
+Discipline/Group:
+Fluids Group
+Location:
+Room 1.05, C&BE Building 165
++ 61 3 8344 0591
+w.hsu@student.unimelb.edu.au
+Mr Guoping Hu
+Thesis title:
+Novel promoters for carbon dioxide absorption in potassium carbonate solutions
+Supervisor:
+Geoff Stevens
+Sandra Kentish
+Discipline/Group:
+CO2CRC
+Location:
+Room 2.15, C&BE Building 165
++ 61 3 8344 8863
+guopingh@student.unimelb.edu.au
+Mr Tao Huang
+Thesis title:
+Biomaterials fabrication for tissue engineering
+Supervisor:
+Andrea O’Connor
+Daniel Heath
+Discipline/Group:
+Tissue Engineering
+Location:
+Room 208, C&BE Building 167
+thuang2@student.unimelb.edu.au
+Inam Junejo
+Thesis title:
+Multifunctional Gold Shell Polymeric Particles for Biomedical Applications
+Supervisor:
+Greg Qiao
+Paul Gurr
+Discipline/Group:
+Polymer Science
+Location:
+Room 5.10, C&BE Building 167
++ 61 3 8344 8678
+i.junejo@student.unimelb.edu.au
+Ms Mahshid Kalani
+Thesis title:
+Peptide based materials and the assembly of peptide based nanostructures
+Supervisor:
+Sally Gras
+Discipline/Group:
+Gras Research Group
+Location:
+Room 1.03, Bio 21
++ 61 3 8344 2256
+m.kalani@student.unimelb.edu.au
+Ms Fatemeh Karimi
+Thesis title:
+Multi-scale design of cardiovascular biomaterials
+Supervisor:
+Daniel Heath
+Discipline/Group:
+Heath Group
+Location:
+Room 5.01, Chemistry East Building 154
++ 61 3 8344 8678
+fkarimi@student.unimelb.edu.au
+Ms Tiara Kusuma
+Thesis title:
+The relationship between microscopic inter-particle forces and shear rheological behaviour of particulate suspensions
+Supervisor:
+Anthony Stickland
+Ray Dagastine
+Discipline/Group:
+Solid-Liquid Separations Group
+Location:
+Room 1.08, C&BE Building 167
++ 61 3 8344 4035
+t.kusuma@student.unimelb.edu.au
+Ms Shu Lam
+Thesis title:
+Engineering targeted peptide-based polymer architectures
+Supervisor:
+Greg Qiao
+Discipline/Group:
+Polymer Science
+Location:
+5.09, Chemistry East
++ 61 3 8344 3683
+s.lam4@student.unimelb.edu.au
+Mr Sam Law
+Thesis title:
+Lipase Based In-situ Transesterification in Wet Microalgal Paste
+Supervisor:
+Greg Martin
+Discipline/Group:
+Algal Processing Group
+Location:
+Room 224, C&BE Building 165
++ 61 3 8344 6618
+q.law@student.unimelb.edu.au
+Ms Wen (April) Li
+Thesis title:
+The Performance of Solvent Extraction Columns
+Supervisor:
+Geoff Stevens
+Discipline/Group:
+Particulate Fluids Processing Centre
+Location:
+Room 2.09, C&BE Building 165
++ 61 3 8344 8806
+w.li30@student.unimelb.edu.au
+Mr Zheng Li
+Thesis title:
+The extraction of phenol by toluene, TBP and their mixtures
+Supervisor:
+Geoff Stevens
+Discipline/Group:
+Particulate Fluids Processing Centre
+Location:
+Room 2.09, C&BE Building 165
++ 61 3 8344 8806
+z.li32@student.unimelb.edu.au
+Bingxin Liu
+Thesis title:
+Thermochromic Polymers for the Food Industry
+Supervisor:
+Greg Qiao
+Discipline/Group:
+Polymer Science
+Location:
+Room 5.01, Chemistry East Building 154
++ 61 3 8344 8678
+bingxinl@student.unimelb.edu.au
+Mr Hiep Thuan (Bill) Lu
+Thesis title:
+The effect of hydrogen sulphide on gas separation membrane performance.
+Supervisor:
+Sandra Kentish
+Discipline/Group:
+Kentish Group
+Location:
+Room 2.09, C&BE Building 165
++ 61 3 8344 8806
+h.lu6@student.unimelb.edu.au
+Ms Junchao Ma
+Thesis title:
+Development of contaminant hydrocarbon and metal removal systems suitable for implementation in cold regions
+Supervisor:
+Kathryn Mumford
+Geoff Stevens
+Discipline/Group:
+Remediation
+Location:
+Room 2.09, Building 165
++ 61 3 8344 8806
+j.ma20@student.unimelb.edu.au
+Mr Lachlan Mason
+Thesis title:
+Multi-scale modelling of liquid-liquid coalescence in industrial solvent extraction
+Supervisor:
+Dalton Harvie
+Peter Witt (CSIRO)
+Geoff Stevens
+Discipline/Group:
+Fluids Group
+l.mason@pgrad.unimelb.edu.au
+View online profile
+Imogen Milne
+Supervisor:
+Andrea O’Connor
+Discipline/Group:
+Tissue Engineering
+imogen.milne@unimelb.edu.au
+Mr Nouman Mirza
+Thesis title:
+Study of novel alkaline salts to capture acid gases from power plant flue gases
+Supervisor:
+Geoff Stevens
+Discipline/Group:
+Peter Cook Centre
+Location:
+Room 2.15, C&BE Building 165
++ 61 3 8344 8863
+n.mirza@student.unimelb.edu.au
+Mr Thomas Moore
+Thesis title:
+Encapsulated solvents for CO2 capture
+Supervisor:
+Paul Webley
+Geoff Stevens
+Kathryn Mumford
+Discipline/Group:
+CO2CRC
+Location:
+Room 2.27, C&BE Building 165
++ 61 3 8344 4888
+t.moore7@student.unimelb.edu.au
+Ms Milena Nadgorny
+Thesis title:
+3D printing smart polymers
+Supervisor:
+Luke Connal
+Discipline/Group:
+Connal Group
+Location:
+Room B07, Desk 10, C&BE Building 167
+mnadgorny@student.unimelb.edu.au
+Mrs EunHyung Nam
+Thesis title:
+Development of film fabrication techniques and applications
+Supervisor:
+Greg Qiao
+Discipline/Group:
+Polymer Science
+Location:
+Room 5.08, Chemistry East
++ 61 3 8344 8678
+e.nam@student.unimelb.edu.au
+Mr Sinn-Yao (Kenneth) Ng
+Thesis title:
+A fundamental study of milk filtration
+Supervisor:
+David Dunstan
+Discipline/Group:
+Complex Fluids
+Location:
+Room 2.27, C&BE Building 165
++ 61 3 8344 4888
+ngsy@student.unimelb.edu.au
+Mr (Will) Wei Sung Ng
+Thesis title:
+Novel Temperature Responsive Polymers as Flocculants and Collectors
+Supervisor:
+George Franks
+Luke Connal
+Discipline/Group:
+Location:
+Room 2.02, C&BE Building 167
++ 61 3 8344 0152
+w.ng19@student.unimelb.edu.au
+Mr Ka Fung (Leo) Noi
+Supervisor:
+Frank Caruso
+Discipline/Group:
+Nanostructured Interfaces and Materials Science
+Location:
+Room 1.06, C&BE Building 165
++61 3 9035 8152
+k.noi@student.unimelb.edu.au
+Mr Mitchell Nothling
+Thesis title:
+Applications of enzyme mimics
+Supervisor:
+Luke Connal
+Greg Qiao
+Discipline/Group:
+Location:
+Room B07, C&BE Building 167
++ 61 3 8344 6640
+m.nothling@student.unimelb.edu.au
+Pietro Pacchin Tomanin
+Supervisor:
+Francesca Cavalieri
+Discipline/Group:
+Cavalieri/Nanostructured Interfaces and Materials Science
+Location:
+Room 107, Building 165
++ 61 3 8344 4314
+ppacchin@student.unimelb.edu.au
+Charitha Pahala Gallath Rallage
+Thesis title:
+A fundamental study of gelation mechanisms and kinetics of milk in the production of cheese
+Supervisor:
+Greg Martin
+Ashokkumar Muthupandian
+Discipline/Group:
+Martin Group
+Location:
+108 Postgrad Room, School of Chemistry
+cpahala@student.unimelb.edu.au
+Mr Shuaijun Pan
+Supervisor:
+Frank Caruso
+Discipline/Group:
+Nanostructured Interfaces and Materials Science
+Location:
+Room 1.06, C&BE Building 165
++61 3 9035 8152
+shuaijunp@student.unimelb.edu.au
+Mr Tom Pattison
+Thesis title:
+Patterned Nanostructures using Continuous Assembly of Polymers (CAP)
+Supervisor:
+Greg Qiao
+Qiang Fu
+Discipline/Group:
+Polymer Science
+Location:
+Room 5.10, C&BE Building 167
++ 61 3 8344 8678
+tpattison@student.unimelb.edu.au
+Ms Anita Pax
+Thesis title:
+Microstructure of dairy products
+Supervisor:
+Sally Gras
+Sandra Kentish
+Lydia Ong
+Discipline/Group:
+Bioengineering
+a.pax@student.unimelb.edu.au
+Ms Karolina Petkovic
+Thesis title:
+Electrophoretic control of molecules in microchannels with nanostructures
+Supervisor:
+Geoff Stevens
+Discipline/Group:
+Location:
+Off Campus
+k.petkovic@student.unimelb.edu.au
+Mr Rohit Pillai
+Thesis title:
+An electrohydrodynamic study of microfluidic drop deformation, breakup and coalescence
+Supervisor:
+Malcolm Davidson
+Dalton Harvie
+Discipline/Group:
+Multiphysics Fluid Dynamics Group
+Location:
+Room 07, C&BE Building 167
++ 61 3 8344 6640
+r.pillai@student.unimelb.edu.au
+Mr Sam Pinches
+Thesis title:
+Near-net shape freeze casting of advanced ceramics
+Supervisor:
+George Franks
+Carolina Tallon
+Discipline/Group:
+Ceramics and Minerals Processing Group
+Location:
+Room 1.08, C&BE Building 167
++ 61 3 8344 4035
+spinches@student.unimelb.edu.au
+Nature Poddar
+Thesis title:
+Utilization of glycerol as a carbon source for mixotrophic growth of microalgae for lipid accumulation
+Supervisor:
+Greg Martin
+Ramkrishna Sen (IIT Kharagpur)
+Discipline/Group:
+Algal Processing Group
+Location:
+Room 227, C&BE Building 165
++ 61 3 8344 4888
+n.poddar@student.unimelb.edu.au
+Ms Nasim Pour
+Thesis title:
+High temperature CO2 capture
+Supervisor:
+Paul Webley
+Geoff Stevens
+Discipline/Group:
+Clean Energy Laboratory
+Location:
+Room 07, C&BE Building 167
++ 61 3 8344 6640
+nasim.pour@student.unimelb.edu.au
+Mr James E Quinn
+Thesis title:
+Synergistic solvent extraction of rare earth elements
+Supervisor:
+Geoff Stevens
+Discipline/Group:
+Location:
+Off Campus
+j.quinn2@student.unimelb.edu.au
+Mr Hadi Ranjiburachaloo
+Thesis title:
+Cancer Therapy using Nano-Particles
+Supervisor:
+David Dunstan
+Greg Martin
+Discipline/Group:
+Complex Fluids Group
+Location:
+Room 2.24, C&BE Building 165
++ 61 3 8344 6618
+hranjiburach@student.unimelb.edu.au
+Alicia Rasines Mazo
+Thesis title:
+Peptide-based Polymeric Architectures
+Supervisor:
+Greg Qiao
+Discipline/Group:
+Polymer Science
+Location:
+Room b5.10, Chemistry East Wing Building 154
++ 61 3 8344 8678
+a.rasinesmazo@student.unimelb.edu.au
+Ms Camilla Reehorst
+Supervisor:
+David Dunstan
+Greg Martin
+Discipline/Group:
+Complex Fluids Group
+Location:
+Room 2.24, C&BE Building 165
++ 61 3 8344 6618
+c.reehorst@student.unimelb.edu.au
+Amin Reyhani
+Thesis title:
+Photoinduced Radical Polymerisation
+Supervisor:
+Greg Qiao
+Discipline/Group:
+Polymer Science
+Location:
+Room 5.01, Chemistry East Building 154
++ 61 3 8344 8678
+areyhani@student.unimelb.edu.au
+Luke Richards
+Thesis title:
+Enzymatic production of noscapine analogues
+Supervisor:
+Sally Gras
+Discipline/Group:
+Gras Research Group
+Location:
+Room 103, Bio21 Institute
++ 61 3 8344 2256
+lrichards1@student.unimelb.edu.au
+Mr Edward L Ross
+Thesis title:
+Combustion chemistry of aromatic hydrocarbons
+Supervisor:
+Gabriel Da Silva
+Discipline/Group:
+GdS Group
+Location:
+Room 1.08, C&BE Building 165
+e.ross@student.unimelb.edu.au
+Ms Sayuri Rubasingha
+Thesis title:
+Optimisation of roller design and processing conditions of high pressure grinding rolls for a high throughput dewatering process
+Supervisor:
+Anthony Stickland
+Peter Scales
+Discipline/Group:
+Solid-Liquid Separations Group
+Location:
+Room 1.08, C&BE Building 167
++ 61 3 8344 4035
+s.rubasingha@student.unimelb.edu.au
+Ms Sara Sayanjali
+Thesis title:
+The production of extruded starch materials with encapsulated bioactive compounds
+Supervisor:
+Sally Gras
+Discipline/Group:
+Gras Research Group
++ 61 3 8344 2256
+ssay@student.unimelb.edu.au
+Ms Aida Shakouri-Motlagh
+Thesis title:
+In vitro expansion of mesenchymal stem cells
+Supervisor:
+Daniel Heath
+Discipline/Group:
+Heath Group
+Location:
+Room 2.05, C&BE Building 167
+aida.shakouri@student.unimelb.edu.au
+Mr Samuel Skinner
+Thesis title:
+Filter bio-fouling layers in water recycle
+Supervisor:
+Peter Scales
+Anthony Stickland
+Discipline/Group:
+Peter Scales, Anthony Stickland
+Location:
+Room 1.08, Building 167
+0355670
+s.skinner@student.unimelb.edu.au
+Mr Sui So
+Thesis title:
+Transformation of organics in the unpolluted atmosphere
+Supervisor:
+Gabriel Da Silva
+Discipline/Group:
+GdS Group
+Location:
+Room 1.08, C&BE Building 167
++ 61 3 8344 4035
+s.so@student.unimelb.edu.au
+Ms Danzi Song
+Thesis title:
+Polymer based carriers for drug and gene delivery
+Supervisor:
+Frank Caruso
+Discipline/Group:
+Nanostructured Interfaces and Materials Science
+Location:
+Room 1.07, C&BE Building 165
++ 61 3 8344 4314
+d.song2@student.unimelb.edu.au
+Ms Barbara Sowa
+Thesis title:
+Oil dispersals in aqueous phases and their stability without the use of surfactants
+Supervisor:
+David Dunstan
+Discipline/Group:
+Complex Fluids
+b.sowa@student.unimelb.edu.au
+Sahar Talebi
+Thesis title:
+Whey waste management in dairy industry
+Supervisor:
+Sandra Kentish
+Discipline/Group:
+Membranes
+Location:
+Room 208, Building 165
++ 61 3 8344 8806
+stalebi@student.unimelb.edu.au
+Mr Willie Tang
+Thesis title:
+Low cost oxygen production by swing pressure adsorption with oxygen selection absorbents
+Supervisor:
+Paul Webley
+Discipline/Group:
+Clean Energy Laboratory
+Location:
+Rm 4.06, Bdg 154
++61 3 9035 8765
+w.tang5@student.unimelb.edu.au
+Ms Hui-En Teo
+Thesis title:
+Water content of brown coal
+Supervisor:
+Anthony Stickland
+Discipline/Group:
+Location:
+Room 1.08, C&BE Building 167
++ 61 3 8344 4035
+h.teo4@pgrad.unimelb.edu.au
+Ms Leonie van’t Hag
+Thesis title:
+In meso crystallisation of amphiphilic peptides
+Supervisor:
+Sally Gras
+Calum Drummond (CSIRO)
+Charlotte Cohn (CSIRO)
+Discipline/Group:
+Gras Research Group
+Location:
+Room 1.03 Bio21 Building
++ 61 3 8344 2256
+l.vanthag@student.unimelb.edu.au
+Ms Jessica Vovers
+Thesis title:
+Environmentally sustainable solvents for natural pharmaceutical extraction processes
+Supervisor:
+Geoff Stevens
+Kathryn Smith
+Discipline/Group:
+Solvent Extraction
+Location:
+Room 213, C&BE Building 165
++ 61 3 8344 8200
+j.vovers@student.unimelb.edu.au
+Mr Brant Walkley
+Thesis title:
+Understanding geopolymers through synthetic gel systems
+Supervisor:
+Andrea O’Connor
+John Provis (University of Sheffield)
+Jannie van Deventer
+Rackel San Nicolas
+Discipline/Group:
+Geopolymer and Minerals Processing
+Location:
+Room 2.03, C&BE Building 167
++ 61 3 8344 7034
+b.walkley@student.unimelb.edu.au
+Ms Alessia Weiss
+Thesis title:
+Zwitterionic Replica Particles for Drug Delivery
+Supervisor:
+Frank Caruso
+Discipline/Group:
+Nanostructured Interfaces and Materials Science
+Location:
+Room 1.06, C&BE Building 165
++61 3 9035 8152
+aweiss1@student.unimelb.edu.au
+Marcin Wojnilowicz
+Thesis title:
+Engineering novel microRNA-polymer nanocarriers with bioresponsive properties.
+Supervisor:
+Francesca Cavalieri
+Frank Caruso
+Discipline/Group:
+Nanostructured Interfaces and Materials Science
+Location:
+Room 124, C&BE Building 165
++ 61 3 8344 4702
+m.wojnilowicz@student.unimelb.edu.au
+Ms Fan Wu
+Thesis title:
+Develop an intensified process for methanol synthesis at moderate operating conditions
+Supervisor:
+Paul Webley
+Penny Xiao
+Fatin Hasan
+Discipline/Group:
+Clean Energy Laboratory
+Location:
+Room 406, Chemistry East Bdg
++61 3 9035 8765
+f.wu3@student.unimelb.edu.au
+Mr Yue Wu
+Thesis title:
+Rate based modelling of precipitating absorption columns in carbon capture
+Supervisor:
+Geoff Stevens
+Kathryn Mumford
+Discipline/Group:
+CO2CRC
+Location:
+Room 2.15, C&BE Building 165
++ 61 3 8344 8863
+yuewu@student.unimelb.edu.au
+Mr Ross Wylie
+Thesis title:
+Advanced polymer membranes for Lithium ion batteries
+Supervisor:
+Luke Connal
+Discipline/Group:
+Connal Group
+Location:
+Room 213, C&BE Building 165
+rwylie@student.unimelb.edu.au
+Mr Donglin Xie
+Thesis title:
+Single macromolecule deformation in flow
+Supervisor:
+David Dunstan
+Greg Qiao
+Discipline/Group:
+Location:
+Room 2.24, C&BE Building 165
++ 61 3 8344 6618
+d.xie1@student.unimelb.edu.au
+Mr Ke Xie
+Thesis title:
+MOF-Polymer composite membrane for carbon dioxide separation
+Supervisor:
+Greg Qiao
+Paul Webley
+Discipline/Group:
+Polymer Science
+Location:
+Room 5.10, Chemistry Building East Wing
++ 61 3 8344 8678
+kxie@student.unimelb.edu.au
+Mr Chenglong Xu
+Thesis title:
+Nanolenses and their applications
+Supervisor:
+Greg Qiao
+Xuehua Zhang
+Discipline/Group:
+Polymer Science
+Location:
+Room 2.27, C&BE Building 165
++ 61 3 8344 4888
+chenglxu@student.unimelb.edu.au
+Mr Benjamin Yap
+Thesis title:
+Processing microalgal suspensions through high pressure homogenization
+Supervisor:
+Peter Scales
+Discipline/Group:
+Solid-Liquid Separations Group
+Location:
+Room 2.27, C&BE Building 165
++ 61 3 8344 4888
+bhyap@student.unimelb.edu.au
+Mr Gordon Heng Yi
+Supervisor:
+Geoff Stevens
+Kathryn Mumford
+Discipline/Group:
+Solvents Group
+Location:
+Room 2.09, C&BE Building 165
++ 61 3 8344 8806
+h.yi3@student.unimelb.edu.au
+Mr Wenjie Zhang
+Thesis title:
+61 8344 6640
+Nanostructured Protein Particles for Therapeutic Delivery
+Supervisor:
+Frank Caruso
+Discipline/Group:
+Nanostructured Interfaces and Materials Science
+Location:
+Room 123, Building 165
++ 61 3 8344 4314
+w.zhang49@student.unimelb.edu.au
+Mr Qinghu Zhao
+Thesis title:
+Testing the new adsorbent of Electric Swing Adsorption (ESA) and developing new process to capture CO2 basing on ESA
+Supervisor:
+Paul Webley
+Penny Xiao
+Discipline/Group:
+Clean Energy Laboratory
+Location:
+Room B7, Building 167
++ 61 3 8344 4888
+qinghuz@student.unimelb.edu.au
+Ms Qi Zheng
+Thesis title:
+Economic delivery of carbon dioxide to algal ponds
+Supervisor:
+Sandra Kentish
+Greg Martin
+Discipline/Group:
+Kentish Group
+Location:
+Room 215, C&BE Building 165
++ 61 3 8344 8863
+zhengq1@student.unimelb.edu.au
+LinkedIn
+Facebook
+Twitter
+Instagram
+Contact us
+ENGINEERING & IT STUDENTS
+MSE INTRANET
+SAFETY
+CURRENT STUDENTS
+STAFF
+ALUMNI
+FACULTIES AND GRADUATE SCHOOLS
+LIBRARY
+CONTACT US
+MAPS
+SUPPORT THE CAMPAIGN
+JOBS
+We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated.
+Emergency Information
+Disclaimer & Copyright
+Accessibility
+Privacy
+Facebook
+Twitter
+LinkedIn
+Phone: 13 MELB (13 6352) | International: +61 3 9035 5511
+The University of Melbourne ABN: 84 002 705 224
+CRICOS Provider Code: 00116K (visa information)
+CLOSE
+Chemical Engineering
+About
+About
+About the department
+Alumni
+Events
+History
+News
+Safety commitment
+Student societies
+Industry
+Industry
+Our capabilities
+Equipment and services
+Industry engagement
+Student projects
+People
+Research
+Research
+Labs & groups
+Projects
+Themes
+Research scholarships
+Study
+Contact us
+Browse University
+UNIVERSITY SITEMAP
+CLOSE
+Faculties and Graduate Schools
+Current Students
+Library
+Contact us
+Maps
+Support the Campaign
+STUDY AT MELBOURNE
+Undergraduate study
+Graduate study
+Future students
+Admissions, fees & applications
+International students
+Campus tour
+ABOUT US
+Strategy and leadership
+Tradition of excellence
+International connections
+Campuses and facilities
+Structure and governance
+Policy and publications
+Careers at Melbourne
+Newsroom
+RESEARCH
+About Research at Melbourne
+Research institutes
+Research Centres
+Find an expert or supervisor
+Graduate researchers
+Pursuit: our research showcase
+ENGAGEMENT
+Events
+Community
+Global Engagement
+Business & Industry
+Arts & Culture
+Sports Facilities
+ALUMNI & FRIENDS
+Benefits & services
+Giving
+Get involved
+Alumni community
+3010: alumni magazine
+News
+Events
+CONTACT & MAPS
+Contact us
+Enquiries
+Media
+Find an expert
+Campus maps
+Traffic, parking & bicycles
+Find a staff member

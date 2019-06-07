@@ -1,0 +1,87 @@
+###AuthorName=MELISSA B LODOEN
+###AuthorTitle=Ph.D
+###Affiliation=Department of Molecular Biology & Biochemistry
+###Position=Associate Professo
+##############################
+For Faculty | Search Tips | About
+MELISSA B LODOEN
+Associate Professor, Molecular Biology and Biochemistry
+School of Biological Sciences
+Member, Institute for Immunology
+
+
+B.A., Dartmouth College, 1998
+
+
+Ph.D., UCSF, 2004
+
+Phone: (949) 824-7805
+Fax: (949) 824-8551
+Email: mlodoen@uci.edu
+
+University of California, Irvine
+Department of Molecular Biology & Biochemistry
+3238 McGaugh Hall
+Mail Code: 3900
+Irvine, CA 92697
+Research
+Interests host-pathogen interactions, immunology, pathogenesis, signal transduction
+    URL Lodoen Lab at UC Irvine
+    Appointments Ph.D. student, Laboratory of Lewis Lanier (UCSF)
+Postdoctoral fellow, Laboratory of Lewis Lanier (UCSF)
+Postdoctoral fellow, Laboratory of John Boothroyd (Stanford)
+    Research
+Abstract The research in my laboratory focuses on the cellular and molecular interactions between the pathogen Toxoplasma gondii and the host immune system. T. gondii is an intracellular parasite that infects ~35% of the human population worldwide. In healthy individuals, a robust immune response controls the acute infection, but the parasites establish a chronic infection, which can reactivate and cause severe disease. The goal of our research is to define mechanisms by which T. gondii modulates host immune cell function during infection, in an effort to better understand the molecular basis for the development of disease. We are currently pursuing three areas of research:
+
+1. Innate immune responses to T. gondii
+
+Although adaptive, cell-mediated immunity has long been known to be critical for controlling T. gondii infection, it is now appreciated that innate immune recognition and effector functions also play an important role in host defense against the parasite. We are working to identify host cell pathways that contribute to early recognition of T. gondii by human peripheral blood monocytes and to define the parasite factors involved in these processes.
+
+2. Dissemination in the host: how does T. gondii cross biological barriers?
+
+A remarkable feature of T. gondii infection is the ability of the parasite to disseminate broadly in the infected host and to enter a diverse range of tissues, including the brain, heart, eye, and placenta. What remain unknown are the molecular mechanisms that mediate the transmigration of T. gondii out of the bloodstream and into tissues. We are developing human cell approaches using microfluidic technology to examine parasite interactions with vascular endothelium in conditions of shear stress and in vivo intravital imaging strategies to address these questions.
+
+3. T. gondii modulation of the surface proteome
+
+Macrophages and dendritic cells serve as sentinels of host defense, by initiating microbicidal activities and alerting other cells of the immune system to the presence of an infection. As a highly successful pathogen, T. gondii has evolved the ability to evade, modulate, or manipulate the activities of these cells in order to persist. We are particularly interested in how the parasite alters the expression of immune receptors and ligands on the surface of infected cells, thereby influencing communication between infected cells and other cells in the environment. We are combining genomics and proteomics approaches to characterize the surface of infected and uninfected cells and investigating the functional consequences of altered immune receptor expression.
+    Publications Current publications from Pubmed
+      Ueno N, Lodoen MB. From the blood to the brain: avenues of eukaryotic pathogen dissemination to the central nervous system. Curr Opin Microbiol 26:53-9. 2015
+      Ueno N, Lodoen MB, Hickey GL, Robey EA, Coombes JL. Toxoplasma gondii-infected natural killer cells display a hypermotility phenotype in vivo. Immunol Cell Biol. 93:508-13. 2015.
+      Harker KS, Ueno N, Lodoen MB. Toxoplasma gondii dissemination: a parasite's journey through the infected host. Parasite Immunol. 37:141-9. 2015.
+      Morgado P, Sudarshana DM, Gov L, Harker KS, Lam T, Casali P, Boyle JP, Lodoen MB. Type II Toxoplasma gondii induction of CD40 on infected macrophages enhances interleukin-12 responses. Infect Immun. 82):4047-55. 2014.
+      Shastri AJ, Marino ND, Franco M, Lodoen MB, Boothroyd JC. GRA25 is a novel virulence factor of Toxoplasma gondii and influences the host immune response. Infect Immun. 82:2595-605. 2014.
+      Harker KS, Jivan E, McWhorter FY, Liu WF, Lodoen MB. Shear forces enhance Toxoplasma gondii tachyzoite motility on vascular endothelium. MBio. 1;5(2):e01111-13. 2014.
+      Ueno N, KS Harker, EV Clarke, FY McWhorter, WF Liu, AJ Tenner, and MB Lodoen. Real-time imaging of Toxoplasma-infected human monocytes under fluidic shear stress reveals rapid translocation of intracellular parasites across endothelial barriers. Cell Microbiol 16:580-95. 2014.
+      Gov L, A Karimzadeh, N Ueno N, and MB Lodoen. Human innate immunity to Toxoplasma gondii is mediated by host caspase-1 and ASC and parasite GRA15. mBio 4(4). 2013.
+      Harker, KS, N Ueno, T Wang, C Bonhomme, W Liu, and MB Lodoen. Toxoplasma gondii modulates the dynamics of human monocyte adhesion to vascular endothelium under fluidic shear stress. J Leukoc Biol 93:789-800. 2013.
+      Morgado P, YC Ong, JC Boothroyd, and MB Lodoen. Toxoplasma gondii induces B7-2 expression through activation of JNK signal transduction. Infect Immun 79(11):4401-12. 2011.
+      Koshy, AA, AE Fouts, MB Lodoen, O Alkan, H Blau, and JC Boothroyd. Toxoplasma secreting Cre recombinase for analysis of host-parasite interactions. Nature Methods 7:307-9. 2010.
+      Lodoen, MB, C Gerke, and JC Boothroyd. A highly sensitive FRET-based approach reveals secretion of the actin-binding protein toxofilin during Toxoplasma gondii infection. Cell Microbiol 12:55-66. 2010.
+      Ravindran, S, MB Lodoen, S Verhelst, M Bogyo, and JC Boothroyd. 4-bromophenacyl bromide specifically inhibits rhoptry secretion during Toxoplasma invasion. PloS One 4:e8143. 2009.
+      Kielczewska, A, M Pyzik, T Sun, A Krmpotic, MB Lodoen, M. Munks, M Babic, A Hill, S Jonjic, LL Lanier, and SM Vidal. Ly49P recognition of cytomegalovirus-infected cells expressing K-2Dk and the CMV-encoded m04 correlates with the NK cell antiviral response. J Exp Med 206: 515-23. 2009.
+      Walsh, KB, MB Lodoen, RA.Edwards, LL Lanier, and TE Lane. Evidence for differential roles for NKG2D receptor signaling in innate host defense against coronavirus-induced neurological and liver disease. J Virol 82: 3021-3030. 2008.
+      Walsh, KB, MB Lodoen, LL Lanier, and TE Lane. NKG2D signaling and host defense after mouse hepatitis virus infection of the central nervous system. Adv Exp Med Biol 581: 369-72. 2006.
+      Lodoen, MB and LL Lanier. Natural killer cells as an initial defense against pathogens. Curr Opin Immunol 18:391-8. 2006.
+      Desrosiers, MP, A Kielczewska, JC Loredo-Osti, SG Adam, AP Makrigiannis, S Lemieux, T Pham, MB Lodoen, K Morgan, LL Lanier, and SM Vidal. Epistasis between mouse Klra and major histocompatibility complex class I loci is associated with a new mechanism of natural killer cell-mediated innate resistance to cytomegalovirus infection. Nature Genet 37:593-9. 2005.
+      Lodoen, MB and LL Lanier. Viral modulation of NK cell immunity. Nature Rev Microbiol 3:59-69. 2005.
+      Lodoen, MB, G Abenes, S Umamoto, JP Houchins, F Liu, and LL Lanier. The Cytomegalovirus m155 Gene Product Subverts Natural Killer Cell Antiviral Protection by Disruption of H60-NKG2D Interactions. J Exp Med 200:1075-1081. 2004.
+      Lodoen, M, K Ogasawara, JA Hamerman, H Arase, JP Houchins, ES Mocarski, and LL Lanier. NKG2D-mediated Natural Killer Cell Protection Against Cytomegalovirus Is Impaired by Viral gp40 Modulation of Retinoic Acid Early Inducible 1 Gene Molecules. J Exp Med 197:1245-1253. 2003.
+    Professional
+Societies American Association of Immunologists
+American Society for Microbiology
+Society of Leukocyte Biology
+    Graduate Programs Cellular and Molecular Biosciences
+
+        Link to this profile http://www.faculty.uci.edu/profile.cfm?faculty_id=5776
+    Last updated 04/05/2016
+            A campus service provided by:
+
+Email FPS Support
+UCI Operator 949.824.5011
+Read UCI News
+Journalists Media Inquiry
+University of California, Irvine
+Office of Research
+5171 California, Suite 150
+Irvine, CA 92697
+© 2015 The Regents of the University of California      Privacy & Legal Notice

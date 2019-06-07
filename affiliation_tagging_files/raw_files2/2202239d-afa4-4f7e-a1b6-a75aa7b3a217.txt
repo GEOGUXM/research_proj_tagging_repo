@@ -1,0 +1,80 @@
+###AuthorName=Richard Lucas
+###AuthorTitle=Professor
+###Affiliation=Earth and Environmental Sciences
+###Position=
+##############################
+Search:
+Search
+Home
+About us
+Projects
+People
+Publications
+News
+Graduate program
+Outreach
+Contact us
+Home
+Marine Ecosystems
+Applied Marine Ecology
+Rivers and Wetlands
+Aquatic Species Ecology
+Environmental Flows
+Food Webs and Invertebrates Community Dynamics
+Invasive Species (Wetlands)
+Platypus Conservation Initiative
+River Management
+River Red Gum Dynamics and Management
+Sustainable Aquaculture
+Waterbirds
+Wetland Dynamics
+Wetland Ecology and Stable Isotopes
+Terrestrial Ecosystems
+Ecosystem Dynamics
+Fire
+Grazing
+Invasive Species (Terrestrial)
+Predators
+Soils
+Remote Sensing & GIS
+Climate Change
+Palaeoecology
+Remote Sensing
+Spatial Analyses and GIS
+Vegetation Survey and Mapping
+Conservation Practice
+Adaptive Management
+Cultural Resources
+Habitat Restoration
+Information Management
+Policy
+Reintroductions
+Risk Assessment
+Threatened Species
+Professor Richard Lucas
+Expertise
+• Remote sensing and biogeography
+• Terrestrial ecosystem response to change
+• Vegetation carbon dynamics
+• Land cover and change mapping
+Profile
+The primary area of Professor Lucas’ expertise is in quantifying and understanding the response of terrestrial ecosystems and environments to change, including that associated with climatic variation, through integration of remote sensing data from various sources. He has also developed methods for extracting relevant information on terrestrial ecosystems at scales ranging from individual trees to entire regions. Key achievements include the development of object-based methods to update a national classification of habitats in Wales (UK) and a generic scheme for classifying land covers at any location and at multiple scales based on the FAO Land Cover Classification System (LCCS); implementing approaches to quantifying the biomass and structure of forests and woodlands in eastern Australia through integration of radar, optical and ICESAT data; and quantifying mangrove response to both natural and anthropogenic change, including that associated with climatic fluctuation. His collaborative research on lidar and hyperspectral data has established innovative techniques for characterising the species composition, structure and biomass of Australian woodlands at the tree and stand level and quantifying change.
+Professor Lucas’ has developed a range of techniques for retrieving information on the state and dynamnics of terrestrial vegetation and his current research is increasingly focusing on using these to better understand the impacts of human-induced and natural change on a diversity of ecosystems, including mangroves, semi-arid woodlands and tropical rainforests. His research is also establishing how time-series of optical and radar remote sensing data can be used to restore previously lost or degraded ecosystems for the benefit of biodiversity conservation and carbon preservation and sequestration.
+Projects
+Regrowth mapping
+Supporting continental retrieval of vegetation biophysical attributes
+The Injune Landscape Collaborative Project
+Tree species shifts in response to environmental change
+Mangrove response to climatic variability
+Publications
+Author Date Title Link PDF
+Skidmore et al. 2015 Environmental science: Agree on biodiversity metrics to track from space
+Conservation scientists should collaborate more with space agencies, such as NASA and the European Space Agency (ESA), on identifying measures to help track biodiversity declines around the world. For full publication click here.
+Lucas et al. 2014 Mapping forest growth and degradation stage in the Brigalow Belt Bioregion of Australia through integration of ALOS PALSAR and Landsat-derived Foliage Projective Cover (FPC) data
+CENTRE FOR ECOSYSTEM SCIENCE  |  Copyright and Disclaimer  |  Privacy Statement  |  Accessibility  |  Site Feedback  
+Tel: +61 2 9385 8296  |  email: ecosystem@unsw.edu.au  |  Address: Room 508, Building D26, School of Biological, Earth and Environmental Sciences, University of NSW
+Authorised by Professor Richard Kingsford, Director  |  CRICOS Provider Code 00098G  |  ABN 57 195 873 179
+Useful links
+Volunteer
+Partners
+Log in

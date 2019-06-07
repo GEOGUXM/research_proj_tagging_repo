@@ -1,0 +1,81 @@
+###AuthorName=Gail Jarvik
+###AuthorTitle=Professor
+###Affiliation=Division of Medical Genetics
+###Position=Head and Professor
+##############################
+Home
+About
+Welcome
+Contact
+Directory
+History
+Support GS
+Faculty
+Research
+Academics
+Ph.D. Program
+Postdoctoral Program
+Courses
+Training Grants
+Summer Research
+Diversity
+News & Events
+Calendar
+GS Seminar
+Combi Seminar
+Journal Club
+Research Reports
+Department News
+WiGS
+Outreach
+Computing
+Administration
+Conference Rooms
+Directory
+Employment
+Facilities
+Faculty Resources
+Human Resources
+Operations
+Postdoctoral Program
+Research Support
+
+
+Gail Jarvik
+Head and Professor, Division of Medical Genetics
+The Arno G. Motulsky Endowed Chair in Medicine
+Joint Professor of Medicine and Genome Sciences
+Adjunct Professor of Epidemiology
+phone: (206) 221-3974
+fax: (206) 543-3050
+University of Washington
+Health Sciences Building, K-253B
+Medical Genetics, Box 357720
+Seattle, WA 98195-7720
+pair [ a t ] u.washington.edu
+Research:
+Gail Jarvik MD, PhD is the Arno G. Motulsky Endowed Chair in Medicine, Joint Professor of Medicine and Genome Sciences, and Head of the Division of Medical Genetics (only the third since the founding of the division in 1957), an Adjunct Professor of Epidemiology at the UW Medical Center (UWMC) and an Affiliate Member of the Fred Hutchinson Cancer Research Center. She is a Pew Scholar in the Biomedical Sciences, and has been made a Lifetime National Associate of the National Academies, “In recognition of extraordinary service to the National Academy of Science.” She has been designated “A Local Legend from Washington” by Senator Maria Cantwell, in association with the American Medical Women’s Association and the U.S. National Library of Medicine. Her abilities as a scholar and a leader have been recognized by the National Institutes of Health, for which she chaired the Genomics, Computational Biology and Technology Study Section. In addition to that service, leading the Division of Medical Genetics and actively pursuing her own research, she continues to be a practicing clinician in Internal Medicine and Medical Genetics.
+Clinical activity:  Dr Jarvik sees patients in the UW Genomic Medicine clinic.
+Trainees:  Dr. Jarvik has trainees at all levels from undergraduate to postdoctoral.
+Research:  Dr. Jarvik is interested in the genetic basis of complexly inherited genetic disease and has a long-standing interest in biomedical ethics. In addition to many collaborations, including GWAS studies of multiple phenotypes and exomic analyses of Mendelian disorders, Dr. Jarvik's ongoing research focuses on four major areas:
+
+(1) Genome-wide association study (GWAS) of phenotypes from clinical electronic medical records in the eMERGE consortium. This consortium includes over 40,000 subjects at 9 sites. Phenotypes of interest include Alzheimer disease, white blood cell count, susceptibility to infection, and carotid artery disease.
+
+(2) Genetic predictors of carotid artery disease. In addition to the eMERGE data, Dr. Jarvik uses densely genotyped and phenotyped case-control cohorts to study the genetic epidemiology of carotid artery disease. Lipids, oxidation, and inflammation are areas of interest.
+
+(3) Exomic analysis of lipid disorders in large families. We are using a whole exome approach to identify rare, high penetrance mutations that influence lipid traits. Phenotypes include apolipoprotein B, HDL-C, and phospholipid transfer protein. Large families allow the phenotyping of multiple subjects sharing the same rare variants.
+
+(4) Genomic medicine implementation is a new area of focus.  Dr. Jarvik is a PI of the Clinical Sequencing Exploratory Research Consortia of NHGRI and NCI.  The highly collaborative UW work involves implementation of genomic medicine for colorectal cancer and polyposis patients, including return of incidental genomic findings and formal outcomes measures.  
+Selected Publications:
+Crosslin DR, McDavid A, Weston N, Zheng X, Hart E, de Andrade M, Kullo IJ, McCarty CA, Doheny KF, Pugh E, Kho A, Hayes MG, Ritchie MD, Saip A, Crawford DC, Crane PK, Newton K, Carrell DS, Gallego CJ, Nalls MA, Li R, Mirel DB, Crenshaw A, Couper DJ, Tanaka T, van Rooij FJ, Chen MH, Smith AV, Zakai NA, Yango Q, Garcia M, Liu Y, Lumley T, Folsom AR, Reiner AP, Felix JF, Dehghan A, Wilson JG, Bis JC, Fox CS, Glazer NL, Cupples LA, Coresh J, Eiriksdottir G, Gudnason V, Bandinelli S, Frayling TM, Chakravarti A, van Duijn CM, Melzer D, Levy D, Boerwinkle E, Singleton AB, Hernandez DG, Longo DL, Witteman JC, Psaty BM, Ferrucci L, Harris TB, O'Donnell CJ, Ganesh SK; CHARGE Hematology Working Group, Larson EB, Carlson CS, Jarvik GP; The electronic Medical Records and Genomics (eMERGE) Network. Genetic variation associated with circulating monocyte count in the eMERGE Network. Hum Mol Genet. Jan 12, 2013 [Epub ahead of print] (PMID: 23314186).
+Kim DS, Burt AA, Crosslin DR, Robertson PD, Ranchalis JE, Boyko EJ, Nickerson DA, Furlong CE, Jarvik GP. Novel common and rare genetic determinants of paraoxonase activity: FTO, SERPINA12, and ITGAL. J Lipid Res. Nov 15, 2012. PMID: 23160181.
+Guo Y, Lanktree MB, Taylor KC, Hakonarson H, Lange LA, Keating BJ; IBC 50K SNP array BMI Consortium. Gene-centric meta-analyses of 108 912 individuals confirm known body mass index loci and reveal three novel signals. Hum Mol Genet. 2013 Jan 1;22(1):184-201. doi: 10.1093/hmg/dds396. Epub 2012 Sep 21. (PMID: 23001569; PMC3522401).
+Kim DS, Burt AA, Ranchalis JE, Richter RJ, Marshall JK, Nakayama KS, Jarvik ER, Eintracht JF, Rosenthal EA, Furlong CE, Jarvik GP. Dietary cholesterol increases paraoxonase 1 enzyme activity. J Lipid Res. 2012 Aug 15. [Epub ahead of print] (PMID: 22896672).
+Fullerton, SM, Wolf, WA, Brothers, KB, Clayton, EW, Crawford, DC, Denny, JC, Greenland, P, Koenig, BA, Leppig, KA, Lindor, NM, McCarty, CA, McGuire, AL, McPeek Hinz ER, Mirel, DB, Ramos, EM, Ritchie, MD, Smith, ME, Waudby, CJ, Burke, W, & Jarvik, GP. Return of individual research results from Genome-wide Association Studies: experience of the Electronic Medical Records & Genomics (eMERGE) network.  Genet Med. Feb 23, 2012. doi: 10.1038/gim.2012.15. [Epub ahead of print] (PMID:22361898)
+Murray ML, Cerrato F, Bennett RL, Jarvik GP. Follow-up of carriers of BRCA1 and BRCA2 variants of unknown significance: Variant reclassification and surgical decisions. Genet Med. Aug 1, 2011. (PMID: 21811163)
+Rosenthal EA, Ronald J, Rothstein J, Rajagopalan R, Ranchalis J, Wolfbauer G, Albers JJ, Brunzell JD, Motulsky AG, Rieder MJ, Nickerson DA, Wijsman EM, Jarvik GP. Linkage and association of phospholipid transfer protein activity to LASS4. J Lipid Res. 2011 Jul 22. (PMID: 21757428: PMC3173000)
+Ronald J, Rajagopalan R, Cerrato F, Nord AS, Hatsukami T, Kohler T, Marcovina S, Heagerty P, Jarvik GP. Genetic Variation in LPAL2, LPA, and PLG Predicts Plasma Lipoprotein(a) Level and Carotid Artery Disease Risk. Stroke. Dec 2, 2010. (PMID: 21127300; PMC302090).
+     
+                        contact | university of washington | school of medicine
+
+                                                   

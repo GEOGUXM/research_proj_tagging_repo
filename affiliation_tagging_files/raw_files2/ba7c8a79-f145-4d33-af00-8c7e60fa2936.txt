@@ -1,0 +1,106 @@
+###AuthorName=Laurens E Howle
+###AuthorTitle=Ph.D
+###Affiliation=Mechanical Engineering and Materials Science
+###Position=Associate Professor
+##############################
+Jump to navigation
+DUKE UNIVERSITY
+PRATT SCHOOL OF ENGINEERING
+Apply Contact Careers
+Undergraduate
+»
+Overview
+Degree Programs
+For Applicants
+For Current Students
+Diversity & Inclusion
+Graduate
+»
+Overview
+Degree Programs
+For Applicants
+For Current Students
+Diversity & Inclusion
+Research
+»
+Overview
+Acoustics, Aerodynamics and Aeroelasticity
+Biomechanics and Biomaterials
+Computational Materials Science
+Computational Mechanics and Scientific Computing
+Dynamics, Controls and Human Machine Interaction
+Energy Technology and Thermodynamics
+Fluid Mechanics and Heat Transfer
+Mechanics and Materials Science
+Centers and Labs
+Faculty
+»
+All Faculty
+Mechanical Faculty
+Materials Faculty
+Awards & Recognition
+About
+»
+Duke MEMS at a Glance
+From the Chair
+Project Resources & Equipment
+MEMS History
+Driving Directions
+News
+Events
+Laurens E Howle
+Associate Professor of Mechanical Engineering and Materials Science
+Professor Howle's research interests span the disciplines of thermal science, fluid dynamics, and nonlinear dynamics. His present research projects - visualization of convective fluid patterns, stabilization of the no-motion state in free convection and bifurcation in imperfect or distributed parameter systems - are split evenly between experimental and computational methods.
+A key problem facing researchers studying convection in fluid-saturated porous media is the lack of a general, non-invasive method for pattern visualization and wave number measurement. Professor Howle designed innovative porous media which allow optical techniques to be used for the first time as a pattern visualization tool in the study of porous media convection.
+Computational spectral methods are efficient methods of simulation of small aspect ratio convection systems. For large problems, these methods can become too expensive to be practical. Professor Howle developed a reduced Galerkin method which decreases the execution time by orders of magnitude for large problems. This extends the range of problems for which certain spectral methods may be used. He is currently studying porous free convection in systems with distributed properties and binary convection using the reduced Galerkin method.
+APPOINTMENTS AND AFFILIATIONS
+Associate Professor of Mechanical Engineering and Materials Science
+Associate Professor of Radiology
+Faculty Network Member of The Energy Initiative
+CONTACT INFORMATION
+Office Location: 239 Hudson Eng Bldg, Durham, NC 27708-0300
+Office Phone: (919) 660-5331
+Email Address: laurens.howle@duke.edu
+EDUCATION
+Ph.D. Duke University, 1993
+RESEARCH INTERESTS
+Hydroelastic modeling of deformable structures, transport in thermal and chemical systems, experimental and computational fluid dynamics, nonlinear and complex systems, heat and mass transport in biological systems, stability of fluid motions, machine learning, data mining, econophysics, reduced order modeling, modeling of decompression sickness, pharmacokinetics and pharmacodynamics, mechanical design, manufacturing engineering, wind power.
+SPECIALTIES
+Chaos, Dynamics
+Nonlinear Dynamics
+Thermodynamics
+Fluid Mechanics
+Nonlinear Systems
+Manufacturing
+AWARDS, HONORS, AND DISTINCTIONS
+Fellows. American Society of Mechanical Engineers. 2012
+COURSES TAUGHT
+ME 321L: Mechanical Engineering Analysis for Design
+ME 555: Advanced Topics in Mechanical Engineering
+IN THE NEWS
+Predicting How Bad the Bends Will Be (MAR 20, 2017 | Pratt School of Engineering )
+REPRESENTATIVE PUBLICATIONS
+Howle, LE; Weber, PW; Nichols, JM, Bayesian approach to decompression sickness model parameter estimation., Computers in Biology and Medicine, vol 82 (2017), pp. 3-11 [10.1016/j.compbiomed.2017.01.006] [abs].
+Fiore, G; Anderson, E; Garborg, CS; Murray, M; Johnson, M; Moore, MJ; Howle, L; Shorter, KA, From the track to the ocean: Using flow control to improve marine bio-logging tags for cetaceans, PloS one, vol 12 no. 2 (2017), pp. e0170962-e0170962 [10.1371/journal.pone.0170962] [abs].
+Howle, LE; Weber, PW; Hada, EA; Vann, RD; Denoble, PJ, The probability and severity of decompression sickness., PloS one, vol 12 no. 3 (2017) [10.1371/journal.pone.0172665] [abs].
+Weber, PW; Howle, LE; Murray, MM; Reidenberg, JS; Fish, FE, Hydrodynamic performance of the flippers of large-bodied cetaceans in relation to locomotor ecology, Marine Mammal Science, vol 30 no. 2 (2014), pp. 413-432 [10.1111/mms.12040] [abs].
+Balmer, BC; Wells, RS; Howle, LE; Barleycorn, AA; McLellan, WA; Ann Pabst, D; Rowles, TK; Schwacke, LH; Townsend, FI; Westgate, AJ; Zolman, ES, Advances in cetacean telemetry: A review of single-pin transmitter attachment techniques on small cetaceans and development of a new satellite-linked transmitter design, Marine Mammal Science, vol 30 no. 2 (2014), pp. 656-673 [10.1111/mms.12072] [abs].
+ADDITIONAL INFORMATION
+Professional Certifications:
+Professional Engineer, North Carolina, license number 035790
+Professional Engineer, Maryland, license number 37985
+Dive Master, PADI, license number 238981
+Master Diver (PADI)
+Technical Deep Diver (DSAT)
+Professional Memberships
+American Society of Mechanical Engineers
+Professional Engineers of North Carolina
+American Physical Society
+Professional Association of Dive Instructors
+Underwater and Hyperbaric Medical Society
+FACULTY
+All Faculty
+Mechanical Faculty
+Materials Faculty
+Awards & Recognition
+© Copyright 2011-2017 Duke University

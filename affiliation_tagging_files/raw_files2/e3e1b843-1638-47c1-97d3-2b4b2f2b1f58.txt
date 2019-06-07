@@ -1,0 +1,33 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Researchers @ Brown
+Manage your profile
+Home
+People
+Organizations
+Help
+Welcome to Researchers@Brown
+Researchers@Brown brings together, in one site, publicly available information on the people, departments, and activities that collectively make up research and scholarship in all disciplines at Brown University.
+For FACULTY:
+You may have harvested publications pending approval.
+Click "Manage your profile" -> "Publications" -> "Manage publications".
+
+Check out the new "Geographic Research Area" section which uses a standard set of geographic terms.
+
+Coming soon! Optional network visualizations
+
+For DEVELOPERS:
+The R@B team has developed a JSON web service that makes it easy to use data from Researchers@Brown in other websites.
+
+Please provide feedback or request help by contacting researchers@brown.edu. Visit our Help pages for further information.
+RECENT FACULTY BOOKS
+Click book jacket to view faculty profile
+
+Get a Brown ORCID Identifier!
+Publishers and funding agencies are increasingly requesting ORCIDs for manuscript and grant submissions.
+©2017 Brown University | Terms of Use | Powered by VIVO
+About
+Contact Us

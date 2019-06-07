@@ -1,0 +1,340 @@
+###AuthorName=Sir Martin Sweeting
+###AuthorTitle=Professor
+###Affiliation=Department of Electrical and Electronic Engineering
+###Position=Distinguished Professor of Space Engineering
+##############################
+We use cookies to help us provide the best possible user experience. By using this site, you agree that we may store and access cookies on your device. Find out more about cookies
+close
+Search
+Staff & Students
+STUDY
+EXPLORE
+Undergraduate degrees
+Undergraduate major/minor degrees
+Postgraduate degrees
+Postgraduate research degrees
+A-Z course list
+Accounting and Finance
+Biosciences and Medicine
+Business and Management
+Chemical and Process Engineering
+Chemistry
+Civil and Environmental Engineering
+Computer Science
+Criminology
+Economics
+Electrical and Electronic Engineering
+English Literature and Creative Writing
+Environment and Sustainability
+Food, Nutrition and Dietetics
+Health Sciences, Nursing and Midwifery
+Hospitality, Events, Tourism and Transport
+Language, Communication and Translation Studies
+Law
+Liberal Arts and Sciences
+Mathematics
+Mechanical Engineering Sciences
+Media, Digital Arts and Film
+Music and Sound
+Performing Arts
+Physics
+Politics
+Psychology
+Sociology
+Sport and Exercise Sciences
+Veterinary Medicine and Science
+About us
+Media centre
+International students
+Global impact
+All categories
+Accommodation
+Alumni
+Applying to Surrey
+Arts and culture
+Careers and professional training
+Disabled students
+Fees and funding
+Global opportunities
+Guildford
+In the media
+International students
+Library
+Open Days
+Our campus
+Rankings and league tables
+Research
+Sport and health
+Students' Union
+The student experience
+Welcome Week
+Professor Sir Martin Sweeting
+Previous
+Next
+Biography
+Distinguished Professor of Space Engineering
+OBE, FRS, FREng, FIET, FRAeS, FBIS, MIAA
+Publications
+Sir Martin studied for his PhD in the late 70's on HF (shortwave) antennas but, with a passion for space and in his spare time, he built a tracking station at the University to receive images from US & Soviet weather  satellites and a telecommand station for amateur radio satellites in the OSCAR series. In 1979, he started designing and building UoSAT-1, the first modern 70 kg ‘microsatellite’, and persuaded NASA to launch it ‘piggyback’ on a DELTA rocket. UoSAT-1 was controlled in orbit after launch in 1981 from the groundstation on the Surrey campus and its transmissions were monitored by thousands of radio amateurs and schools worldwide. Following
+the launch of the University’s second satellite (UoSAT-2) in 1984, Martin vigorously pursued research funding to develop this new concept of ‘microsatellites’ using the emerging microelectronics revolution to meet applications in satellite communications and Earth observation. With modest research funding, he formed a young and dynamic research group that developed more sophisticated and capable satellite subsystems and payloads.
+Recognising that research funding alone would be insufficient to enable the team to build a series of microsatellites, Sir Martin launched the University-owned spin-off company, Surrey Satellite Technology Limited (SSTL) in 1985 to exploit the commercial potential of Surrey’s novel small satellites –  initially with 4 employees and a capital of just £100.
+In the 1990’s, SSTL’s business developed a unique “Know-How Transfer and Training” (KHTT) programme, alongside
+building a series of increasingly advanced microsatellites, where a combination of academic and hands-on technical training was provided to young engineers and scientists from countries who wanted to take their first steps into space – but on an affordable budget. Working together as a team with Surrey engineers to build a satellite, each of our international partners were able to master the complex and diverse skills required to design, build, launch, and operate a satellite once in orbit. Surrey has since provided 22 highly successful international programmes and has trained over 150 engineers and scientists, some of whom are the nucleus of staff that formed 5 new space agencies!  Importantly, these KHTT programmes with SSTL fueled the research activity in the Surrey Space Centre (SSC) academic team to develop ever more capable yet affordable microsatellites. Recent KHTT programmes have been completed with Nigeria resulting in the launch of NigeriaSat-2 and Nx
+in August 2011, a team from Kazakhstan building an EO satellite launched in 2013 and currently with a second team from Algeria building a micro- and  nano- satellites for launch in 2016.
+Around the year 2000, following landmark UoSAT-12 minisatellite and SNAP-1 nanosatellite demonstration missions, small satellites made the transition from being a research novelty to becoming a very powerful provider of operational  missions. This transition was demonstrated first by the creation by SSTL of the international Disaster Monitoring Constellation (DMC) of Earth observation microsatellites – building medium resolution microsatellites for Algeria, China, Nigeria, Turkey, Spain & UK.  And then by securing contracts for a series of operational small satellite missions such as RapidEye, FormoSat-7, Kanopus and DMC-3.
+SSTL’s capabilities grew rapidly and won the contract to build 22 navigation
+payloads for the Galileo Full Operational Constellation for ESA/EC; a constellation of 3 high-resolution (1-metre) Earth Observation minisatellites with capacity leased to customers through a novel business model; and its first ‘small’ (4,000kg!) Geostationary communications satellite (‘Quantum’) for EutelSat. In 2016, SSTL is building 8 new satellites including a low-cost medium-resolution radar minisatellite (NovaSAR), supported by the UK government and planned for launch in December 2016.
+SSTL has grown now to 500 staff with an annual turnover of £100M and exports exceeding £700M. In early 2009, the University sold its shareholding in SSTL to EADS Astrium NV and today the Company has a larger order book than at any time in its past.
+The Surrey Space Centre has similarly expanded to around 100 researchers working across a wide range of multi-disciplinary space topics, with very
+close links to both SSTL and ASTRIUM for the sponsorship and exploitation of its research – demonstrating the real synergy of academic research and commercial exploitation.
+In recognition of his pioneering work on cost-effective spacecraft engineering, Sir Martin was appointed OBE in 1996 and awarded a Knighthood in the Queen's New Year's Honours list in 2002.. More recently Sir Martin was awarded the Royal Institute of Navigation Gold Medal in recognition of the successful GIOVE-A mission for the European Galileo system, awarded the Sir Arthur Clarke Lifetime Achievement Award and named as one of the ‘Top Ten Great Britons” in 2008. In 2010, Sir Martin was awarded the Faraday Medal by the Institute of Engineering and Technology, and an Elektra Lifetime Achievement Award by the European Electronics Industry.  In March 2012, he was made an Honorary Fellow of the Institution of
+Engineering Design – presented by HRH Duke of Edinburgh. In 2014 he received the prestigious von Karman Wings Award from CalTech/JPL and Chinese Academy of Sciences/COSPAR Jeoujang Jaw Award recognising his contribution to international space development. In 2016 Sir Martin was made an honorary fellow of the Royal Aeronautical Society and identified by The Sunday Times as one of the UK’s 20 most influential engineers.
+Sir Martin has over 250 publications and is currently active in a number of external bodies:
+Chairman of the Board of Trustees, National Space Centre, Leicester
+Chairman of the Board of Trustees, Radio Communications Foundation
+Chairman of the International Astronautical Federation Honours & Awards Committee
+Chairman of AMSAT-UK
+
+Contact Me
+E-mail: m.sweeting@surrey.ac.uk
+Phone: 01483 68 3885
+Find me on campus
+Room: 32 BA 01
+Publications
+Toggle
+Browse by
+Latest
+Toggle
+Categories
+Highlights
+Barnhart DJ, Vladimirova T, Baker AM, Sweeting MN. (2009) 'A low-cost femtosatellite to enable distributed space missions'. PERGAMON-ELSEVIER SCIENCE LTD ACTA ASTRONAUTICA, 64 (11-12), pp. 1123-1143.
+doi: 10.1016/j.actaastro.2009.01.025
+JOURNAL ARTICLE
+Yu G, Vladimirova T, Sweeting MN. (2009) 'Image compression systems on board satellites'. PERGAMON-ELSEVIER SCIENCE LTD ACTA ASTRONAUTICA, 64 (9-10), pp. 988-1005.
+doi: 10.1016/j.actaastro.2008.12.006
+JOURNAL ARTICLE
+Barnhart DJ, Vladimirova T, Sweeting MN. (2009) 'Satellite Miniaturization Techniques for Space Sensor Networks'. AMER INST AERONAUT ASTRONAUT J SPACECRAFT ROCKETS, 46 (2), pp. 469-472.
+doi: 10.2514/1.41639
+JOURNAL ARTICLE
+Bekhti M, Sweeting MN. (2008) 'Power system design and in orbit performance of Algeria's first micro satellite Alsat-1'. ELSEVIER SCIENCE SA ELECTRIC POWER SYSTEMS RESEARCH, 78 (7), pp. 1175-1180.
+doi: 10.1016/j.epsr.2007.10.008
+JOURNAL ARTICLE
+Journal articles
+Cai A, Underwood C, Sweeting MN. (2013) 'Height reduction using mutual coupling for the multimode horn phased array'. 2013 7th European Conference on Antennas and Propagation, EuCAP 2013, , pp. 3585-3589.
+JOURNAL ARTICLE
+Sweeting MN, Underwood CI. (2011) 'Small Satellite Engineering and Applications'. , pp. 575-605.
+doi: 10.1002/9781119971009.ch18
+JOURNAL ARTICLE
+Vladimirova T, Fayyaz M, Sweeting MN, Vitanov VI. (2010) 'A novel autonomous low-cost on-board data handling architecture for a pin-point planetary lander'. PERGAMON-ELSEVIER SCIENCE LTD ACTA ASTRONAUTICA, 68 (7-8), pp. 811-829.
+doi: 10.1016/j.actaastro.2010.08.029
+JOURNAL ARTICLE
+Gao S, Clark K, Unwin M, Zackrisson J, Shiroma WA, Akagi JM, Maynard K, Garner P, Boccia L, Amendola G, Massa G, Underwood C, Brenchley M, Pointer M, Sweeting MN. (2009) 'Antennas for Modern Small Satellites'. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC IEEE ANTENN PROPAG M, 51 (4), pp. 40-56.
+doi: 10.1109/MAP.2009.5338683
+JOURNAL ARTICLE
+Barnhart DJ, Vladimirova T, Baker AM, Sweeting MN. (2009) 'A low-cost femtosatellite to enable distributed space missions'. PERGAMON-ELSEVIER SCIENCE LTD ACTA ASTRONAUTICA, 64 (11-12), pp. 1123-1143.
+doi: 10.1016/j.actaastro.2009.01.025
+JOURNAL ARTICLE
+Barnhart DJ, Vladimirova T, Sweeting MN, Stevens KS. (2009) 'Radiation Hardening by Design of Asynchronous Logic for Hostile Environments'. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC IEEE JOURNAL OF SOLID-STATE CIRCUITS, Atlanta, GA: 44 (5), pp. 1617-1628.
+doi: 10.1109/JSSC.2009.2017005
+JOURNAL ARTICLE
+Yu G, Vladimirova T, Sweeting MN. (2009) 'Image compression systems on board satellites'. PERGAMON-ELSEVIER SCIENCE LTD ACTA ASTRONAUTICA, 64 (9-10), pp. 988-1005.
+doi: 10.1016/j.actaastro.2008.12.006
+JOURNAL ARTICLE
+Mohammed AMS, Benyettou M, Bentoutou Y, Boudjemai A, Hashida Y, Sweeting MN. (2009) 'Three-axis active control system for gravity gradient stabilised microsatellite'. PERGAMON-ELSEVIER SCIENCE LTD ACTA ASTRONAUTICA, 64 (7-8), pp. 796-809.
+doi: 10.1016/j.actaastro.2008.12.010
+JOURNAL ARTICLE
+Barnhart DJ, Vladimirova T, Sweeting MN. (2009) 'Satellite Miniaturization Techniques for Space Sensor Networks'. AMER INST AERONAUT ASTRONAUT J SPACECRAFT ROCKETS, 46 (2), pp. 469-472.
+doi: 10.2514/1.41639
+JOURNAL ARTICLE
+Vladimirova T, Sweeting MN, Vitanov I, Vitanov VI. (2009) 'Emergency response networks for disaster monitoring and detection from space'. Proceedings of SPIE - The International Society for Optical Engineering, 7347
+doi: 10.1117/12.820772
+JOURNAL ARTICLE
+Bekhti M, Sweeting MN. (2008) 'Power system design and in orbit performance of Algeria's first micro satellite Alsat-1'. ELSEVIER SCIENCE SA ELECTRIC POWER SYSTEMS RESEARCH, 78 (7), pp. 1175-1180.
+doi: 10.1016/j.epsr.2007.10.008
+JOURNAL ARTICLE
+Mohammed AMS, Benyettou M, Boudjemai A, Hashida Y, Sweeting MN. (2008) 'Simulation of microsatellite attitude using Kalman filtering in orbit results'. ELSEVIER SCIENCE BV SIMULATION MODELLING PRACTICE AND THEORY, 16 (3), pp. 257-277.
+doi: 10.1016/j.simpat.2007.11.009
+JOURNAL ARTICLE
+Si Mohammed AM, Boudjemai A, Benyettou M, Hashida Y, Sweeting MN. (2008) 'Yaw phase mode attitude control using Z wheel for LEO microsatellite'. WSEAS Transactions on Communications, 7 (2), pp. 99-105.
+JOURNAL ARTICLE
+Cutter MA, Giwa SC, Graham KL, Hodgson DJ, Mackin S, Sweeting MN, Vanotti M, Regan A. (2008) 'The application of the DMC strategy and experience to provide additional support to a European Global Monitoring system programme'. European Space Agency, (Special Publication) ESA SP, (660 SP)
+JOURNAL ARTICLE
+Si Mohammed AM, Benyettou M, Boudjemai A, Benzeniar H, Hashida Y, Sweeting MN. (2008) 'Analytic solution of Nadir attitude pointing for LEO microsatellite'. WSEAS Transactions on Communications, 7 (4), pp. 242-247.
+JOURNAL ARTICLE
+Barnhart DJ, Vladimirova T, Sweeting MN. (2007) 'Very-small-satellite design for distributed space missions'. AMER INST AERONAUTICS ASTRONAUTICS JOURNAL OF SPACECRAFT AND ROCKETS, Keystone, CO: 44 (6), pp. 1294-1306.
+doi: 10.2514/1.28678
+JOURNAL ARTICLE
+Gao Y, Ellery A, Sweeting MN. (2007) 'Bioinspired drill for planetary sampling: Literature survey, conceptual design, and feasibility study'. AMER INST AERONAUTICS ASTRONAUTICS JOURNAL OF SPACECRAFT AND ROCKETS, Big Sky, MT: 44 (3), pp. 703-709.
+doi: 10.2514/1.23025
+Repository URL: http://epubs.surrey.ac.uk/199696/
+JOURNAL ARTICLE
+Mohammed SAM, Benyettou M, Boudjemai A, Chouraqui S, Hashida Y, Sweeting MN. (2007) 'COMSAT 1.0 software aided design for a low earth orbit microsatellite commissioning phase'. International Journal of Soft Computing, 2 (4), pp. 482-487.
+JOURNAL ARTICLE
+Si Mohammed AM, Benyettou M, Chouraqui S, Hashida Y, Sweeting MN. (2006) 'Wheel attitude cancellation thruster torque of LEO microsatellite during orbital maintenance'. Journal of Applied Sciences, 6 (10), pp. 2245-2250.
+doi: 10.3923/jas.2006.2245.2250
+JOURNAL ARTICLE
+Vladimirova T, Davies P, Sweeting MN. (2006) 'Reconfigurable computing for micro-satellites'. European Space Agency, (Special Publication) ESA SP, (630)
+JOURNAL ARTICLE
+Conference papers
+Barnhart D, Sweeting MN. (2014) 'Right-sizing Small Satellites'. Utah State University Proceedings of the 28th Annual AIAA/USU Conference on Small Satellites, 2014, Logan, Utah, USA: 28th Annual AIAA/USU Conference on Small Satellites, 2014
+Repository URL: http://epubs.surrey.ac.uk/814012/
+Abstract
+CONFERENCE
+Bridges CP, Yeomans B, Iacopino C, Frame TE, Schofield A, Kenyon S, Sweeting MN. (2013) 'Smartphone Qualification & Linux-based Tools for CubeSat Computing Payloads'. IEEE Big Sky, MT USA: IEEE/AIAA Aerospace Conference 2013
+doi: 10.1109/AERO.2013.6497349
+CONFERENCE
+Egho C, Sweeting MN, Vladimirova T. (2012) 'Acceleration of Karhunen-Loève transform for system-on-chip platforms'. IEEE Proceedings of the 2012 NASA/ESA Conference on Adaptive Hardware and Systems, AHS 2012, Erlangen, Germany: 2012 NASA/ESA Conference on Adaptive Hardware and Systems (AHS 2012), pp. 272-279.
+doi: 10.1109/AHS.2012.6268662
+CONFERENCE
+Bridges CP, Kenyon S, Underwood CI, Sweeting MN. (2011) 'STRaND: Surrey Training Research and Nanosatellite Demonstrator'. International Academy of Astronautics Proceedings of the1st IAA Conference on University Satellite Missions and CubeSat Workshop, Rome, Italy: 1st IAA Conference on University Satellite Missions and CubeSat Workshop
+Repository URL: http://epubs.surrey.ac.uk/26829/
+CONFERENCE
+Cutter MA, Gomes L, Da Silva Curiel A, Davies PE, De Groot Z, Sills LR, Cawthrorne A, Sweeting MN. (2011) 'A new generation of disaster monitoring constellation imagers'. 62nd International Astronautical Congress 2011, IAC 2011, Cape Town: 62nd International Astronautical Congress 2011, IAC 2011 3, pp. 2625-2632.
+CONFERENCE
+Mat Noor NR, Vladimirova T, Sweeting MN. (2010) 'High-Performance Lossless Compression for Hyperspectral Satellite Imagery'. Newcastle, UK: UK Electronics Forum, pp. 78-83.
+CONFERENCE
+Vladimirova T, Bridges CP, Paul JR, Malik SA, Sweeting MN. (2010) 'Space-based wireless sensor networks: Design issues'. IEEE Aerospace Conference Proceedings,
+doi: 10.1109/AERO.2010.5447031
+CONFERENCE
+Bellar A, Seba B, Si Mohammed AM, Sweeting MN. (2010) 'Tree axis attitude control using sliding mode for LEO microsatellite'. Latest Trends on Systems, Corfu, Greece: 14th WSEAS International Conference on Systems 1, pp. 181-185.
+CONFERENCE
+Bekhti M, Sweeting MN. (2010) 'Temperature effects on satellite power systems performance'. WORLD SCIENTIFIC AND ENGINEERING ACAD AND SOC ADVANCES IN COMMUNICATIONS, COMPUTERS, SYSTEMS, CIRCUITS AND DEVICES, Puerto De La Cruz, SPAIN: European Conference of Systems/European Conference of Circuits Technology and Devices/European Conference of Communications/European Conference of Computer Science, pp. 57-62.
+CONFERENCE
+Pacheco E, Sweeting MN, Underwood C, Mackin S. (2009) 'Low-cost hyperspectral instrument for vegetation stress detection using a small satellite platform'. Proceedings of AIAA Space 2009 Conference and Exposition, California, USA: AIAA SPACE 2009 Conference & Exposition
+CONFERENCE
+Yu G, Vladimirova T, Sweeting MN. (2009) 'FPGA-based on-board multi/hyperspectral image compression system'. Proceedings of International Geoscience and Remote Sensing Symposium, Cape Town, South Africa: IGARSS 2009 5, pp. V212-V215.
+doi: 10.1109/IGARSS.2009.5417693
+CONFERENCE
+Boudjemai A, Bouanane MH, Hamed DEB, Mohammed AMS, Hocine R, Sweeting MN, Rojas L. (2009) 'Microsatellite Thermal Modelling, Design Optimisation and Analysis'. IEEE RAST 2009: PROCEEDINGS OF THE 4TH INTERNATIONAL CONFERENCE ON RECENT ADVANCES IN SPACE TECHNOLOGIES, Istanbul, TURKEY: 4th International Conference on Recent Advances in Space Technologies, pp. 459-470.
+CONFERENCE
+Mohammed AMS, Boudjemai A, Hashida Y, Cooksley JR, Sweeting MN. (2009) 'Simulator Development of an Attitude Determination and Control Subsystem for LEO Microsatellite Application to Alsat-1 First Algerian Microsatellite in Orbit'. IEEE RAST 2009: PROCEEDINGS OF THE 4TH INTERNATIONAL CONFERENCE ON RECENT ADVANCES IN SPACE TECHNOLOGIES, Istanbul, TURKEY: 4th International Conference on Recent Advances in Space Technologies, pp. 567-572.
+CONFERENCE
+Mohammed AMS, Boudjemai A, Hashida Y, Cooksley JR, Sweeting MN. (2009) 'Angular Rate Estimator for LEO Microsatellite Application to Future Algerian Microsatellite'. IEEE RAST 2009: PROCEEDINGS OF THE 4TH INTERNATIONAL CONFERENCE ON RECENT ADVANCES IN SPACE TECHNOLOGIES, Istanbul, TURKEY: 4th International Conference on Recent Advances in Space Technologies, pp. 573-578.
+CONFERENCE
+Rachedi A, Belkacemi K, Benbouzid AB, Laidi K, Belghoraf A, Sweeting MN. (2009) 'Radiometric pre-Calibration of Alsat-1 Camera'. IEEE RAST 2009: PROCEEDINGS OF THE 4TH INTERNATIONAL CONFERENCE ON RECENT ADVANCES IN SPACE TECHNOLOGIES, Istanbul, TURKEY: 4th International Conference on Recent Advances in Space Technologies, pp. 361-366.
+CONFERENCE
+Gao S, Brenchley M, Unwin M, Underwood CI, Clark K, Maynard K, Boland L, Sweeting MN. (2008) 'Antennas for small satellites'. IEEE Loughborough Antennas and Propagation Conference, Loughborough, UK: LAPC 2008, pp. 66-69.
+doi: 10.1109/LAPC.2008.4516867
+CONFERENCE
+Yu G, Vladimirova T, Wu X, Sweeting MN. (2008) 'A new high-level reconfigurable lossless image compression system for space applications'. IEEE COMPUTER SOC PROCEEDINGS OF THE 2008 NASA/ESA CONFERENCE ON ADAPTIVE HARDWARE AND SYSTEMS, Noordwijk, NETHERLANDS: 3rd NASA/ESA Conference on Adaptive Hardware and Systems, pp. 183-190.
+Repository URL: http://epubs.surrey.ac.uk/2003/
+CONFERENCE
+Mohammed AMS, Benyettou M, Boudjemai A, Hashida Y, Sweeting MN. (2008) 'Yaw phase mode attitude control using Z wheel modeling for LEO microsatellite'. WORLD SCIENTIFIC AND ENGINEERING ACAD AND SOC Proceedings of the 11th WSEAS International Conference on Communications, Vol 3, Agios Nikolaos, GREECE: 11th WSEAS International Conference on Circuits, pp. 243-249.
+CONFERENCE
+Barnhart DJ, Vladimirova T, Sweeting MN. (2008) 'Design of self-powered wireless system-on-a-chip sensor nodes for hostile environments'. Proceedings - IEEE International Symposium on Circuits and Systems, , pp. 824-827.
+doi: 10.1109/ISCAS.2008.4541545
+Repository URL: http://epubs.surrey.ac.uk/2084/
+Abstract
+CONFERENCE
+Yu G, Vladimirova T, Sweeting M. (2008) 'An efficient on-board lossless compression design for remote sensing image data'. International Geoscience and Remote Sensing Symposium (IGARSS), 2 (1), pp. II970-II973.
+CONFERENCE
+Barnhart DJ, Vladimirova T, Sweeting MN, Balthazor RL, Enloe LC, Krause LH, Lawrence TJ, Mcharg MG, Lyke JC, White JJ, Baker AM. (2007) 'Enabling Space Sensor Networks with PCBSat'. Logan Utah, USA: 21st Annual Conference on Small Satellites SSC07-IV-4
+CONFERENCE
+Barnhart DJ, Vladimirova T, Sweeting MN. (2007) 'System-on-a-chip design of self-powered wireless sensor nodes for hostile environments'. IEEE 2007 IEEE AEROSPACE CONFERENCE, VOLS 1-9, Big Sky, MT: 2007 IEEE Aerospace Conference, pp. 2516-2527.
+Repository URL: http://epubs.surrey.ac.uk/1996/
+CONFERENCE
+Mohammed AMS, Benyettou M, Boudjemai A, Hashida Y, Sweeting MN. (2007) 'Analytic solution of Nadir attitude pointing for LEO microsatellite'. WORLD SCIENTIFIC AND ENGINEERING ACAD AND SOC Proceedings of the 11th WSEAS International Conference on Communications, Vol 3, Agios Nikolaos, GREECE: 11th WSEAS International Conference on Circuits, pp. 250-254.
+CONFERENCE
+Barnhart DJ, Vladimirova T, Baker AM, Sweeting MN. (2006) 'A Low-Cost Femtosatellite to Enable Distributed Space Missions'. Valencia, Spain: 57th International Astronautical Congress 2006 (IAC 2006) IAC-06-B51.6
+CONFERENCE
+Barnhart DJ, Vladimirova T, Sweeting MN. (2006) 'Satellite-on-a-chip development for future distributed space missions'. Proceedings of MNT for Aerospace Applications, CANEUS2006, 2006
+CONFERENCE
+Abderrahmane LH, Benyettou M, Sweeting MN. (2006) 'An S band antenna system used for communication on Earth observation microsatellite'. IEEE 2006 IEEE Aerospace Conference, Vols 1-9, Big Sky, MT: 2006 IEEE Aerospace Conference, pp. 1033-1038.
+CONFERENCE
+Barnhart DJ, Vladimirova T, Ellery A, Lappas VJ, Underwood CI, Sweeting MN. (2006) 'Utilising the EyasSAT concept in space systems engineering courses at the University of Surrey'. AIAA 57th International Astronautical Congress, IAC 2006, 13, pp. 9070-9083.
+CONFERENCE
+Reports
+Sweeting M, O'Neill A, Remedios J, Golding B, Lewis A, Srokosz M, Bryden H, Lamb A, Balzter H, Smith G, Tewkesbury A, Taylor JP, Lisk I, Gibbs M, Langford H, Reynard N, Turner S, Wright T, Rosen D, Pilling C, Reeves H, Kerridge D, Loughlin S, MacDonald D, McKenzie, A, Ward R, Colenut A, Briggs S, Ryan B, Gillespie A, Lamb A. (2015) Observing the Earth – Expert views on environmental observation of the UK. The Royal Society Article number DES3757
+Repository URL: http://epubs.surrey.ac.uk/814011/
+Abstract
+REPORT
+Back to top
+Home Department of Electrical and Electronic Engineering People
+Study at Surrey
+Undergraduate study
+Undergraduate study: Major/Minor
+Undergraduate study: order a prospectus
+Postgraduate study
+Postgraduate research
+Continuing Professional Development
+Learning and teaching at Surrey
+Accommodation
+Library
+Surrey Sports Park
+Your application
+Applying to Surrey
+Fees and funding: undergraduate
+Fees and funding: postgraduate
+Scholarships and bursaries: undergraduate
+Scholarships and bursaries: postgraduate
+Professional development
+Careers and employability
+Professional Training placements
+Student exchanges
+Global Graduate Award in Sustainability
+Global Graduate Award in Languages
+Student Enterprise
+International students
+Information by country
+English language programmes
+IELTS
+International Relations Office
+International Study Centre
+Information for:
+Alumni
+Businesses
+Employers
+Media
+Parents
+Teachers and careers advisors
+Visitors
+Current staff
+Current students
+Events and visits
+Events
+Open Days
+Campus tours
+Virtual tour of campus
+Arts at Surrey
+Evening language programmes
+Hire a venue
+Research
+Research at Surrey
+Postgraduate research programmes
+Research and Enterprise Support
+Surrey Research Park
+Queen's Anniversary Prize
+University Global Partnership Network (UGPN)
+Business
+Engage with Surrey
+Unitemps
+Robens Centre for Occupational Health and Safety
+Surrey Incubation
+About us
+University of the Year 2016
+Rankings and league tables
+Key dates
+Global impact
+Governance
+Management and strategy
+Vice-Chancellor's Office
+In the community
+Surrey people
+Our history
+Policies
+Sustainability at Surrey
+Equality and Diversity
+Our campus in China
+Quality Enhancement and Standards
+Faculties
+Faculty of Arts and Social Sciences
+Faculty of Engineering and Physical Sciences
+Faculty of Health and Medical Sciences
+Job opportunities
+Working at Surrey
+Current vacancies
+Temporary opportunities
+STAY CONNECTED
+CONTACT US
+Accessibility | Contacting the University | Privacy | Cookies | Disclaimer | Freedom of Information | About this page
+© University of Surrey, Guildford, Surrey, GU2 7XH, United Kingdom. +44 (0)1483 300800

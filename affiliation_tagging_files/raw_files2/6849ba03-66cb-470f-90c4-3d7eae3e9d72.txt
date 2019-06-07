@@ -1,0 +1,84 @@
+###AuthorName=Kevin I-Kai Wang
+###AuthorTitle=Dr
+###Affiliation=Electrical and Computer Engineering
+###Position=Senior Lecturer
+##############################
+Contact us
+Questions? AskAuckland
+Search
+Main Menu
+Quick Links
+University home » University directory search
+Dr Kevin I-Kai Wang
+Senior Lecturer
+In: Electrical and Computer Engineering » Faculty of Engineering
+Biography
+Lecturer
+Research | Current
+Machine learning including fuzzy logics, neural network and decision tree
+Distributed software agents and intelligent environment applications
+Embedded sensor and ad-hoc networks
+Human-computer interaction
+Teaching | Current
+Current Teaching:
+COMPSYS 201 - Fundamentals of Computer Engineering
+COMPSYS 704 - Advanced Embedded Systems
+MECHENG 371 - Digital Circuit Design
+Past Teaching:
+COMPSYS 302 - Design: Software Practice
+COMPSYS 304 - Computer Architecture
+COMPSYS 305 - Digital Systems Design
+COMPSYS 701 - Advanced Digital Systems Design
+MECHENG 313 - Real Time Software Design
+Selected publications and creative works (Research Outputs)
+Noor, M. H. M., Salcic, Z., & Wang, K. I.-K. (2016). Enhancing ontological reasoning with uncertainty handling for activity recognition. Knowledge-Based Systems, 114, 47-60. 10.1016/j.knosys.2016.09.028
+Other University of Auckland co-authors: Zoran Salcic
+Yeh, J., Zhu, B., Wang, K. I.-K., Salcic, Z., Kannappan, K., & Partridge, A. (2016). Modelling diffusion impedance in the sensing of micron-sized particles. Sensors and Actuators B: Chemical, 237, 329-340. 10.1016/j.snb.2016.06.065
+URL: http://hdl.handle.net/2292/29831
+Other University of Auckland co-authors: Johnny Yeh, Zoran Salcic, Ashton Partridge
+Noor, M. H. M., Salcic, Z., & Wang, K. I.-K. (2016). Adaptive sliding window segmentation for physical activity recognition using a single tri-axial accelerometer. Pervasive and Mobile Computing10.1016/j.pmcj.2016.09.009
+Other University of Auckland co-authors: Zoran Salcic
+Tian, Q., Salcic, Z., Wang, K. I.-K., & Pan, Y. (2016). A Multi-Mode Dead Reckoning System for Pedestrian Tracking Using Smartphones. IEEE Sensors Journal, 16 (7), 2079-2093. 10.1109/JSEN.2015.2510364
+URL: http://hdl.handle.net/2292/29832
+Other University of Auckland co-authors: Zoran Salcic
+Tian, Q., Salcic, Z., Wang, K. I.-K., & Pan, Y. (2015). A Hybrid Indoor Localization and Navigation System with Map Matching for Pedestrians Using Smartphones. Sensors (Basel, Switzerland), 15 (12), 30759-30783. 10.3390/s151229827
+Other University of Auckland co-authors: Zoran Salcic
+Wang, K. I.-K., Salcic, Z., Yeh, J., Akagi, J., Zhu, F., Hall, C. J., ... Wlodkowic, D. (2013). Toward embedded laboratory automation for smart Lab-on-a-Chip embryo arrays. Biosens Bioelectron, 48, 188-196. 10.1016/j.bios.2013.04.033
+Other University of Auckland co-authors: Christopher Hall, Zoran Salcic, Johnny Yeh
+Wang, K. I. K., Abdulla, W. H., & Salcic, Z. (2009). Ambient intelligence platform using multi-agent system and mobile ubiquitous hardware. Pervasive and Mobile Computing, 5 (5), 558-573. 10.1016/j.pmcj.2009.06.003
+URL: http://hdl.handle.net/2292/14256
+Other University of Auckland co-authors: Waleed Abdulla, Zoran Salcic
+Contact details
++64 9 923 9226
+kevin.wang@auckland.ac.nz
+Save to contacts
+Save to smartphone
+Print
+
+Apply now
+Student Services Online
+Achieve the Amazing
+StudyLink apply now
+Accommodation
+Connect with us
+Facebook
+Twitter
+Youtube
+LinkedIn
+FACULTIES, INSTITUTES, CAMPUSES AND LIBRARY
+Faculty of Arts
+Business School
+National Institute of Creative Arts and Industries
+Faculty of Education and Social Work
+Faculty of Engineering
+Faculty of Law
+Faculty of Medical and Health Sciences
+Faculty of Science
+Liggins Institute
+Auckland Bioengineering Institute
+Campuses
+Libraries and Learning Services
+Auckland UniServices Ltd
+More information...
+Copyright © The University of Auckland
+A to Z Directory | Site map | Accessibility | Copyright | Privacy | Disclaimer | Feedback on this page

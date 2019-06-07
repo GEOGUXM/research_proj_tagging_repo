@@ -1,0 +1,125 @@
+###AuthorName=Pablo Buiras
+###AuthorTitle=PhD
+###Affiliation=Department of Computer Science and Engineering
+###Position=PhD Student
+##############################
+Turn on more accessible mode
+Skip Ribbon Commands
+Skip to main content
+TOGGLE SEARCH
+
+SEARCH
+TOGGLE NAVIGATION
+
+MENU
+Start
+Staff
+Pablo Buiras
+Pablo Buiras
+PhD Student, Software Technology division, Department of Computer Science and Engineering
+ buiras@chalmers.se
+ +46729744931, +46 31 772 10 61
+ Find me
+Publications
+Latest publications
+2016
+Flexible manipulation of labeled values for information-flow control libraries
+Author: Vassena, Marco; Buiras, Pablo; Waye, L.; Russo, Alejandro
+Published: 2016
+Published in: Lecture Notes in Computer Science. 21st European Symposium on Research in Computer Security, ESORICS 2016, Heraklion, Greece, 26-30 September 2016
+Publication type: Conference paper - peer reviewed
+Securing functional programs with floating-label information-flow control
+Author: Buiras, Pablo
+Published: 2016
+Published in:
+Publication type: Doctoral thesis
+2015
+It's My Privilege: Controlling Downgrading in DC-Labels
+Author: Waye, Lucas; Buiras, Pablo; King, Dan; Chong, Stephen; Russo, Alejandro
+Published: 2015
+Published in: Lecture Notes in Computer Science. 11th International Workshop on Security and Trust Management, STM 2015, Vienna, Austria, 21-22 September 2015
+Publication type: Conference paper - peer reviewed
+HLIO: Mixing Static and Dynamic Typing for Information-Flow Control in Haskell
+Author: Buiras, Pablo; Vytiniotis, Dimitrios; Russo, Alejandro
+Published: 2015
+Published in: Proceedings of the 20th ACM SIGPLAN International Conference on Functional Programming
+Publication type: Conference paper - peer reviewed
+Dynamic Enforcement of Dynamic Policies
+Author: Buiras, Pablo; van Delft, Bart
+Published: 2015
+Published in: PLAS 2015
+Publication type: Conference paper - peer reviewed
+2014
+Dynamic enforcement of dynamic policies
+Author: Buiras, Pablo; van Delft, Bart
+Published: 2014
+Published in: Lecture Notes in Computer Science: 19th Nordic Conference on Secure IT Systems, NordSec 2014, Tromsø, Norway, 15-17 October 2014
+Publication type: Conference paper - peer reviewed
+On Dynamic Flow-Sensitive Floating-Label Systems
+Author: Buiras, Pablo; Stefan, Deian; Russo, Alejandro
+Published: 2014
+Published in: 27th IEEE Computer Security Foundations Symposium, CSF 2014, Vienna, Austria, 19-22 July 2014
+Publication type: Conference paper - peer reviewed
+Securing concurrent programs with dynamic information-flow control
+Author: Buiras, Pablo
+Published: 2014
+Published in:
+Publication type: Licentiate thesis
+2013
+Lazy Programs Leak Secrets
+Author: Buiras, Pablo; Russo, Alejandro
+Published: 2013
+Published in: Lecture Notes in Computer Science: Secure IT Systems, NORDSEC 2013. 18th Nordic Conference on Secure IT Systems (NordSec)
+Publication type: Conference paper - peer reviewed
+Eliminating Cache-Based Timing Attacks with Instruction-Based Scheduling
+Author: Stefan, Deian; Buiras, Pablo; Yang, Edward; Levy, Amit; Terei, David; Russo, Alejandro; Mazières, David
+Published: 2013
+Published in: 18th European Symposium on Research in Computer Security (ESORICS) 2013
+Publication type: Conference paper - peer reviewed
+A Library for Removing Cache-based Attacks in Concurrent Information Flow Systems
+Author: Buiras, Pablo; Levy, Amit; Stefan, Deian; Russo, Alejandro; Mazières, David
+Published: 2013
+Published in: Lecture notes in computer science: 8th International Symposium on Trustworthy Global Computing, TGC 2013, Buenos Aires, Argentina, 30-31 August 2013
+Publication type: Conference paper - peer reviewed
+2012
+Addressing Covert Termination and Timing Channels in Concurrent Information Flow Systems
+Author: Stefan, Deian; Russo, Alejandro; Buiras, Pablo; Levy, Amit; Mitchell, John C.; Mazières, David
+Published: 2012
+Published in: 17th ACM SIGPLAN International Conference on Functional Programming, ICFP 2012. Copenhagen, 9 - 15 September 2012
+Publication type: Conference paper - peer reviewed
+Go to Chalmers publication library
+Page manager Published: Fri 13 Sep 2013. Modified: Mon 21 Dec 2015
+Start
+Staff
+Pablo Buiras
+Areas of Advance
+Building Futures
+Energy
+Information and Communication Technology
+Life Science Engineering
+Nanoscience and Nanotechnology
+Materials Science
+Production
+Transport
+Study at Chalmers
+Master's Degree Programmes
+Study guidance and Admissions
+Student Portal
+Student Union
+Organisation
+Departments
+Centres
+Library
+Onsala Space Observatory
+Shortcuts
+Contact
+Press contacts
+Alumni
+Support Chalmers
+Find us
+Working at Chalmers
+Vacancies
+Insidan - Chalmers’ intranet
+About chalmers.se / Cookies
+CHALMERS UNIVERSITY OF TECHNOLOGY - SE-412 96 GOTHENBURG, SWEDEN - PHONE: +46 (0)31-772 10 00 - WWW.CHALMERS.SE
+LOADING...

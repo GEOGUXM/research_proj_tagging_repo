@@ -1,0 +1,62 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+ff
+Nanomanufacturing and Sustainable Energy Lab
+HOME
+PEOPLE
+FACILITIES
+PUBLICATION
+TEACHING
+CONTACT
+Principle Investigator
+Dr. Shan Hu
+  Assistant Professor of Mechanical Engineering, Iowa State University
+Black & Veatch Building a World of Difference Faculty Fellow
+  PhD in Mechanical Engineering, University of Minnesota
+  Email: shanhu@iastate.edu
+  Office: 2076 Black Engineering
+  Curriculum Vitae
+  Google Scholar Profile
+    Postdoctoral Scholar
+Dr. Suprem R Das
+  PhD in Physics, Purdue University
+  Email: srdas@iastate.edu
+            PhD Student
+Xiaohui Tang
+  BS in Materials Science and Engineering, Harbin Institute of Technology
+  Email: xiaohuit@iastate.edu
+            Bolin Chen (co-advised with Dr. Claussen)
+  BS, MS in Mechanical Engineering, Iowa State University
+  Email: cbl0511@iastate.edu
+            MS Student
+Hosein Monshat
+  BS, MS in Materials Science, Sharif University of Technology
+  Email: hmonshat@iastate.edu
+            Yu-Hui Lui
+  Concurrent BS, MS in Mechanical Engineering, Iowa State University
+  Email: luiyuhui@iastate.edu
+          Undergraduate Student
+Joseph T Filbert
+  REU student (about MoSAIC REU program)
+  BS in Libral Arts Pre Engineering, Des Moines Area Community College
+  Email: jtfilbert@dmacc.edu
+          Robert Kinser
+  First-year Honors student (about ISU Honors Program)
+  BS in Mechanical Engineering, Iowa State University
+  Email: rokinser@gmail.com
+          Drew Caneff
+  First-year Honors student (about ISU Honors Program)
+  BS in Electrical Engineering, Iowa State University
+  Email: dcaneff@outlook.com
+          K-12 student
+Erin Snell
+  High school student of YES program (about YES program)
+  Ballard High School, Huxley, IA
+              Alumni
+Seth Logsdon
+  First position after graduation: Honeywell Aerospace
+  BS'14 in Mechanical Engineering, Iowa State University
+             

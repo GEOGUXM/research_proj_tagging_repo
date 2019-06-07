@@ -1,0 +1,73 @@
+###AuthorName=Meriem El Karoui
+###AuthorTitle=Dr
+###Affiliation=Biological Sciences
+###Position=present Chancellor Fellow and Reader
+##############################
+Skip to main content
+Schools & departments
+Search:
+Search
+Show/hide site search
+Biological Sciences
+BIOLOGICAL SCIENCES
+Biological Sciences home
+Research
+Prospective students
+Industry
+Excellence with Impact
+News and events
+About Us
+People
+Video, audio, community and schools
+Home Biological Sciences People
+Contact us
+People
+Dr Meriem El Karoui
+Location: Roger Land 1.11
+Telephone: 650 5374
+Email: Meriem.Elkaroui@ed.ac.uk
+Website: http://www.elkarouilab.fr/
+Group members: Lorna McLaren (Lab manager), Alessia Lepore (PDRA), Hannah Taylor (PhD student), Sebastian Jaramillo-Riveri (PhD student), Xavier Zaoui (PhD student), Milana Filatenkova (PhD student)
+C.V.
+Year Description
+2013-present Chancellor Fellow and Reader, University of Edinburgh
+2009-2012 Visiting Scientist, Systems Biology Department, Harvard Medical School. Boston, USA
+2010-present Director of Research, INRA. France
+2005-2009 Group leader (bacterial genomes architecture). INRA. France
+2001-2003 Junior research scientist. Institut National de la Recherche Agronomique (INRA).France
+1999-2001 Post-doctoral fellow. Pr. Jeffrey Errington's laboratory, University of Oxford. UK
+1998 PhD Microbiology. University Paris VII. France
+Research groupings
+Institute of Cell Biology and SynthSys
+Teaching
+No details available
+Research interests
+A population of cells growing in an identical environment can display substantial phenotypic heterogeneity between individuals. It has been shown that even genetically identical cells behave differently because many central biological processes involve molecules present in small numbers. The inherent randomness of chemical reactions in these concentration regimes generates spontaneous fluctuations that can enslave all dependent processes.
+Some key proteins involved in DNA repair, replication control and cell division in bacteria are present at low levels and are therefore likely subject to significant fluctuations. While fluctuations in gene expression are transient by nature, cell to cell variability in central DNA metabolism might have a direct impact on the evolution of microbes. Indeed, fluctuations in DNA repair mechanisms can modify mutation rates, acting as a generating force of genetic diversity. Work in our laboratory aims to explore the contribution of molecular stochasticity to genetic variability in bacteria. We combine single molecule microscopy, microfluidics, genetics and modeling to address this question. We expect that connecting phenotypic variability caused by the stochastic nature of chemical reactions with genetic variability will shed new light on the dynamics of bacterial genomes evolution.
+Representative publications
+Cockram, C.A, Filatenkova, M., Danos, V., El Karoui, M., and Leach, D. R. F. Genomic Analysis Reveals RecA Binding to DNA Double-Strand Breaks and RNA-Encoding Genes. Under review, Nature
+Okumus B., Fernandez-Lopez R., Landgraf D., Huh D.., Sadik Yildiz S. , Toprak E., El Karoui M., and Johan Paulsson. Microfluidics-Assisted Cell Screening. Under review, Nature Methods
+Paulsson J., Lindell M., El Karoui M., and D. Hughes. The processive kinetics of gene conversion. Under review PNAS.
+Nolivos S., Touzain F., Pages C., Coddeville M., Rousseau P., El Karoui M., Le Bourgeois, P., Cornet F. 2011. Cooptation of DNA motifs as segregation guides by the FtsK translocase in bacteria: identification of the atypical Lactococcus lactis KOPS motif. Nucleic Acids Res 40:5535-45
+Touzain F., Schbath S., Petit M-A and El Karoui M. 2011. DNA motifs that sculpt the bacterial chromosome. Nat. Rev. Microbiol. 9:15-26
+Devillers H., Chiapello H., Schbath S. and El Karoui M. 2011. Robustness Assessment of Whole Bacterial Genome Segmentations. J. Comput. Biol. 18:1155-65
+Touzain F., Denamur E., Médigue C, Barbe V, El Karoui M and Petit M-A. Small variable segments constitute a major type of diversity of bacterial genomes at the species level. 2010. Genome Biology. 11 : R45
+Touchon, M., Hoede, C., Tenaillon, O., Barbe, V., Baeriswyl, S., Bidet, P., Bingen, E., Bonacorsi, S., Bouchier, C., Bouvet, O., Calteau, A., Chiapello, H., Clermont, O., Cruveiller, S., Danchin, A., Diard, M., Dossat, C., Karoui, M.E., Frapy, E., Garry, L., Ghigo, J.M., Gilles, A.M., Johnson, J., Le Bouguenec, C., Lescat, M., Mangenot, S., Martinez-Jehanne, V., Matic, I., Nassif, X., Oztas, S., Petit, M.A., Pichon, C., Rouy, Z., Ruf, C.S., Schneider, D., Tourret, J., Vacherie, B., Vallenet, D., Medigue, C., Rocha, E.P., and Denamur, E. 2009. Organised genome dynamics in the Escherichia coli species results in highly diverse adaptive paths. PLoS Genet 5: e1000344.
+Chiapello, H., Gendrault, A., Caron, C., Blum, J., Petit, M.A., and El Karoui, M. 2008. MOSAIC: an online database dedicated to the comparative genomics of bacterial strains at the intra-species level. BMC Bioinformatics 9: 498.
+Mercier, R., Petit, M.A., Schbath, S., Robin, S., El Karoui, M., Boccard, F., and Espeli, O. 2008. The MatP/matS site-specific system organizes the terminus region of the E. coli chromosome into a macrodomain. Cell 135: 475-485.
+Halpern D., Chiapello H., Schbath S., Robin S., Hennequet-Antier C., Gruss A., El Karoui M. 2007. Identification of DNA motifs implicated in maintenance of bacterial core genomes by predictive modeling. PLoS Genet. 3:1614-21.
+This article was published on Apr 4, 2016
+Read about our Athena Swan award
+Visit the Excellence with Impact website
+Contact us
+THE UNIVERSITY OF EDINBURGH
+Terms & conditions
+Privacy & cookies
+Modern slavery
+Website accessibility
+Freedom of information publication scheme
+MyEd login
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336, VAT Registration Number GB 592 9507 00, and is acknowledged by the UK authorities as a “Recognised body” which has been granted degree awarding powers.
+Unless explicitly stated otherwise, all material is copyright © The University of Edinburgh 2017.
+
+CMS login

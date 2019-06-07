@@ -1,0 +1,125 @@
+###AuthorName=LUISA CALDAS
+###AuthorTitle=PROFESSOR
+###Affiliation=College of Environmental Design
+###Position=architect
+##############################
+« CED HOME
+PROSPECTIVE STUDENTS
+CURRENT STUDENTS
+FACULTY + STAFF
+ALUMNI + FRIENDS
+GALLERIES
+FACEBOOK
+TWITTER
+VIMEO
+LINKEDIN
+INSTAGRAM
+UC Berkeley
+College of Environmental Design
+CED MENU
+ABOUT CED
+ADMISSIONS
+EVENTS + MEDIA
+GIVE TO CED
+ACADEMICS
+STUDENTS
+RESEARCH
+RESOURCES
+ARCHITECTURE
+CITY + REGIONAL PLANNING
+LANDSCAPE ARCHITECTURE + ENVIRONMENTAL PLANNING
+FACULTY + STAFF
+FACULTY + STAFF
+FACULTY DIRECTORY
+STAFF DIRECTORY
+FINANCE + HUMAN RESOURCES FORMS
+CONTACT INFORMATION
+384 WURSTER HALL
+CELL: 510-289-7792
+lcaldas@berkeley.edu
+WORK IMAGES
+LUISA CALDAS
+PROFESSOR OF ARCHITECTURE
+SPECIALIZATIONS
+Evolutionary computation and generative design systems in sustainable design.
+Development of computational tools and workflows to integrate sustainability in complex architectural concepts.
+Daylighting as form generator.
+Thermal and daylighting behavior of low-energy buildings.
+Development of new construction materials in collaboration with industry partners.
+EDUCATION
+Ph.D. Architecture: Building Technology, MIT
+M.Sc. Environmental Design and Engineering, The Bartlett Graduate School, UCL, University of London
+BArch in Architecture (5-year professional degree), Technical University of Lisbon
+BIOGRAPHY
+Luisa Caldas is Professor of Architecture at UC Berkeley. An architect by training, she has been active for more than twenty years in the field of sustainable design and green building, both in academia and as an energy consultant for large commercial buildings. Her work focuses on the use of advanced computational tools for early stage deployment of environmental factors into the design process. A main area of research is the integration of challenging, complex geometry architectural solutions with sustainability dimensions, by developing the conceptual processes, workflows, and computational tools that allow multiple scale integration, from master planning to building design to envelope components.
+
+Caldas research applies advanced energy simulation tools in the context of generative design environments. She is the author of GENE_ARCH, the first generative design system that integrated Energy Plus as its simulation engine, and used Pareto Genetic Algorithms for search and generation of energy efficient buildings by simultaneously optimizing thermal and lighting energy patterns. GENE_ARCH currently integrates other simulation engines, such as Radiance, Daysim and Evalglare.
+
+Recent software development includes Painting with Light, a user-guided interactive evolutionary system for daylighting design, that allows architects to use color to specify desired light levels in space, and searches for solutions that bring building geometry close to those performance targets, and Sun_Carve, for direct light design. Luisa Caldas is also a member of the Center for Augmented Cognition at UC Berkeley (http://augcog.berkeley.edu/).
+Professor Caldas is the director of the newly founded VR/AR Lab in Architecture and is currently offering several courses in VR applications to architecture design. 
+  Examples of student course work:
+
+Light as Form Generator
+Evolving Skins: Materials, Energy and Light
+  As part of the new Design Technologies Initiative, some new fields of research include:
+- Virtual reality applications to architecture, in collaboration with UC Berkeley Center for Augmented Cognition
+- Pre-fabricated, small-scale, net-zero housing units for the developing world
+COURSES TAUGHT
+ARCH 249X: Light as Form Generator . Spring 2013
+ARCH 249X: Integrated Tools for Sustainable Design (with Autodesk) . Fall 2013
+ARCH 249X: Evolving Skins: Materials, Energy and Light . Spring 2014
+ARCH 240: Advanced Topics in Energy and Environment . Spring 2015, 2016
+ARCH 203: Integrated Design Studio . Fall 2015
+ARCH 249X: The Fabric of Space and Light . Spring 2016
+SELECTED PUBLICATIONS
+Caldas L, Santos L, 2016, Painting with Light: An Interactive Evolutionary System for Daylighting Design, Building and Environment, Vol. 109, Nov. 2016, pp. 154-174
+Santos, L., Schleicher, S., Caldas, L., 2016, Automation of CAD models to BEM models for performance based goal-oriented design methods, Building and Environment, Feb 2017
+Caldas, L., Santos, L., 2016, Painting with Light: A Generative Design System for Daylighting Design, proceedings of PLEA 2016,  Cities, Buildings, People: Towards Regenerative Environments, Los Angeles, July 11-13, 2016, pp. 634-639
+Caldas, L., Stavridi, E., 2016, Light as Form Generator: Workflows for Performance-Based Generative Design , Facade Tectonics 2016 World Congress, Los Angeles, October 10-11, 2016
+Wang, J., Caldas, L., 2016, Selection of Energy Efficient Windows for Hot Climates Using Genetic Algorithms Optimization, proceedings of PLEA 2016, Cities, Buildings, People: Towards Regenerative Environments, Los Angeles, July 11-13, 2016, pp. 29-34
+Wang, J., Caldas, L., 2016, Simulation-Based Optimization of Window Properties Based on Existing Products, Proceedings of BSO’16, International Conference on Building Simulation & Optimization 2016, Newcastle, UK, Sep 12-14 2016
+Caldas, L., Andaloro, A., Calafiore, G., Munechika, K., Oliveira, M., Taube, B., Cabrini, S., 2016, Water Collection from Fog in Buildings Envelopes, to be submitted
+Song, Y., Wang, J., Caldas, L., Zhu, N., Lin, Z., 2014, Indoor Comfort and Energy Saving Building Performance Created by Envelope Materials, Time + Architecture, 2014 (3). 77-81
+Caldas, L., 2014, Complex Geometry in EnergyPlus, Report for Lawrence Berkeley National Laboratory
+Caldas, L., Santos, L., 2012, "Generation of Energy-Efficient Houses with GENE_ARCH: combining an Evolutionary Generative Design System with a Shape Grammar" in: 30th eCAADe Proc: Prague, v.1, pp. 459-470
+Arsénio, A., Oliveira, M., Caldas, L., 2011: Social Interaction and the Development of Artificial Consciousness, in Introduction to Modern Robotics, eds. Chugo, D., Yokota, S., iConcept Press, pp. 93-118
+L. Caldas, 2008: Generation of Energy-Efficient Architecture Solutions Applying GENE_ARCH: An Evolution-Based Generative Design System", in Advanced Engineering Informatics, Vol. 22 (1), pp. 59-70, Elsevier
+L. Caldas, 2006: GENE_ARCH: An Evolution-Based Generative Design System for Sustainable Architecture, in Lecture Notes in Artificial Intelligence, Lecture Notes in Computer Science Series, I.F.C. Smith (Ed.): EG-ICE, LNAI 4200, pp. 109-118, Springer-Verlag Berlin Heidelberg
+Caldas, M., Caldas, L. e Semião, V., 2006: Multicriteria Optimization of Gasification Operational Parameters Using a Pareto Genetic Algorithm, Journal of Systemics, Cybernetics and Informatics, Vol. 3, nº 2, pp.69-74
+Duarte, J.P., Rocha, J., Ducla-Soares, G., Caldas, L., 2006: “An Urban Grammar for the Medina of Marrakech”, in Gero, J. (ed.), Proceedings of the 2nd International Conference on Design Computing and Cognition, Eindhoven, The Netherlands, July 2006, pp 483-502, Springer, The Netherlands.
+Caldas, L., Duarte, J., 2005: “Fabricating Innovative Ceramic Covers: Re-Thinking Roof Tiles in a Contemporary Context”, Proc. ECAADE’05, September 21-24, Lisbon
+Caldas, L., 2005: “Three-Dimensional Shape Generation of Low-Energy Architecture Solutions using Pareto Genetic Algorithms”, Proc. ECAADE’05, Sep 21-24, Lisbon
+Caldas, L., Norford, L., 2004: Shape Generation Using Pareto Genetic Algorithms: Integrating Conflicting Design Objectives in Low-Energy Architecture, International Journal of Architectural Computing, Vol. 1, N.4, pp. 503-515
+Duarte, J.P, Caldas, L.G., Rocha, J.M., 2004: “Free-Form Ceramics: Design and Production of Complex Forms with Ceramic Elements”, Proceedings of ECAADE’04, September 15-18, Copenhagen, Denmark, pp. 174-183.
+Caldas, L.G., Norford, L.K., 2003: Genetic Algorithms for Optimization of Building Envelopes and the Design and Control of HVAC Systems, Journal of Solar Engineering – Transactions of the ASME, August 2003, Volume 125, Number 3, pp. 343-351
+Caldas, L., Norford, L., Rocha, J., 2003: An Evolutionary Model for Sustainable Design, Management of Environmental Quality: An International Journal, Volume 14, Number 3, pp. 383-397
+Caldas, L., 2003: “Shape Generation Using Pareto Genetic Algorithms: Integrating Conflicting Design Objectives in Low-Energy Architecture”, Proceedings of CAADRIA 2003, October 18-21, Bangkok, Thailand
+Caldas, L., Rocha, J., 2002: A Generative Design System Applied to Siza’s School of Architecture at Oporto, The International Journal of Design Computing, 2000-2001, Vol.3
+Caldas, L.G., Norford, L.K., 2002: Energy Design Optimization Using a Genetic Algorithm, Automation in Construction, Elsevier, Volume 11, Number 2, pp. 173-184
+Caldas, L., 2002: Evolving Three-Dimensional Architecture Form: An Application to Low-Energy Design, in: Artificial Intelligence in Design 2002, ed. by Gero, J.,S., (Cambridge, UK: Kluwer Academic Publishers, Dordrecht) , pp. 351-370
+Caldas, L., 2002: Pareto Genetic Algorithms in Architecture Design: An Application to Multicriteria Optimization Problems. Proceedings of PLEA’02 (The 19th Conference on Passive and Low Energy Architecture), Toulouse, France, July 2002, pp.37-45
+Caldas, L., Norford, L., Rocha, J., 2001: An Evolutionary Model for Sustainable Design, Proceedings of PLEA'01, Florianópolis, Brazil, November 7-9 [Best Paper Award]
+Caldas, L., Norford, L., 2001: Architectural Design Constraints in a Generative Design System: Interpreting Energy Levels, Proceedings of Building Simulation 2001, IBPSA, Rio de Janeiro, Brazil, August 13-15, Vol. 2, pp. 1397-1404
+Caldas, L., Rocha, J., 2001: A Generative Design System Applied to Siza’s School of Architecture at Oporto, Proceedings of CAADRIA’01, Sydney, Australia, April 19-21, pp. 253-264 [Commended Paper Award]
+Caldas, L.G., Norford, L.K., 1999: A Genetic Algorithm Tool for Design Optimization, Proceedings of ACADIA ’99, Salt Lake City, October 28-31, USA, pp. 260-271
+Patents
+PT103137: Discontinuous system for covering roofs and facades with coplanar ceramic elements
+PT103020: Ceramic bricks generators of freestanding walls with complex double-curvature shapes
+PT103141: Roof coating system in discontinuous ceramic glazed elements
+PT103138: Double-faced building coverage system
+PT103140: Building coverage system in ceramic material
+PT103139: Circular discontinuous ceramic coating of circular shape
+PT103019: Rotating Ceramic Tile
+UNIVERSITY OF CALIFORNIA, BERKELEY
+COLLEGE OF ENVIRONMENTAL DESIGN
+UNIVERSITY OF CALIFORNIA, BERKELEY
+230 WURSTER HALL #1820
+BERKELEY, CA 94720–1820
+ARCHITECTURE
+CITY + REGIONAL PLANNING
+LANDSCAPE ARCHITECTURE + ENVIRONMENTAL PLANNING
+CONTACT US
+SITE MAP
+LOG IN
+PRIVACY POLICY
+© 2017 UC REGENTS. ALL RIGHTS RESERVED.

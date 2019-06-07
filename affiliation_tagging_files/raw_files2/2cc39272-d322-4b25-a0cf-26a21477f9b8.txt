@@ -1,0 +1,214 @@
+###AuthorName=IP Wai Hung Andrew
+###AuthorTitle=PhD
+###Affiliation=Department of Industrial and Systems Engineering (ISE)
+###Position=Associate Professor
+##############################
+Contact Us
+Staff Intranet
+   About Us
+Academic Programmes
+Career Prospects
+Research
+Centres and Facilities
+Events and Achievements
+Alumni
+Home >
+Staff
+Overview
+Head's Message
+Staff
+Departmental Advisory Committee
+Academic Staff
+W.H. Ip
+Associate Professor
+wh.ip@polyu.edu.hk
+EF609
+2766 6602
+2362 5267
+IP Wai Hung Andrew (Dr.)
+PhD, CEng, MHKIE, MIET, MIMechE, SMIEEE, FHKQMA
+  (I) Personal Particulars
+  Name:
+Dr Andrew W. H. Ip (葉偉雄博士)
+Tel. (Office):
+(852) 2766-6602
+Email Address:
+wh.ip@polyu.edu.hk
+Corresponding Address:
+Department of Industrial and Systems Engineering (ISE),
+  The Hong Kong Polytechnic University (PolyU), Hung Hom, Kowloon,
+  Hong Kong
+  (II) Current Positions
+  Associate Professor, Department of ISE, PolyU
+Associate Director, Integrated Graduate Development Scheme (IGDS), PolyU
+Lab-in-charge, RFID Solutions Laboratory, PolyU
+  (III) Visiting Positions
+  Visiting Professor, Sun Yat-sen University (2014 – Present)
+Visiting Professor, South China Normal University (2014 – Present)
+Visiting Professor, Civil Aviation University of China (Present)
+Visiting Professor, University of Electronic Science and Technology of China (Present)
+  (IV) Brief Biosketch
+  Dr Andrew W. H. Ip has more than 30 years of experience in teaching, research, education, industry and consulting. He received his PhD from Loughborough University (U.K.), MBA from Brunel University (U.K.), MSc in Industrial Engineering from Cranfield University (U.K.), and LLB (Hons) from the University of Wolverhampton (U.K.). After finishing postgraduate degrees in industrial engineering in the U.K., he came back to Hong Kong in the early 80s. His engineering research career began at that time with novel work in Industrial Engineering, Information Systems and Management Science.
+  He is now Associate Professor in the Department of Industrial and Systems Engineering of The Hong Kong Polytechnic University, and member of the senior management group of the department that oversees the Logistics Engineering and Quality Service Theme Group. Dr Ip is also Associate Director of Integrated Graduate Development Scheme (IGDS) - a jointly-awarded Master degree programme with The University of Warwick (U.K.). He is responsible for admission matters, project supervision and developing the multi-disciplinary teaching and learning approach to nurture world-class engineering business professionals for global industries.
+  He is also the Lab-in-charge of the RFID Solutions Laboratory (formerly known as M-commerce Demonstration Unit) of the Department of Industrial and Systems Engineering which hosts over HK$10 million worth of software and equipment related to RFID and wireless sensor networks. The laboratory has over the years obtained around HK$35 million funding support from industry and government, achieved much recognition from industry, such as international awards, patents and research outputs. In 2015, he and his research team are awarded “Gold Medal with the Congratulations of Jury” and “Thailand Award for Best International Invention from The National Research Council of Thailand (NRCT)” in the 43rd International Exhibition of Inventions of Geneva. And in 2013, he obtained Natural Science Award - Second Class, presented by the Ministry of Education of Mainland China. As a principal investigator, Dr Ip has obtained over HK$22 million external R&D grants including the Innovation and Technology Fund (ITF) with matching funds from Towngas Telecommunications Fixed Network Limited, Sino Parking Services Limited and V-Care Development Limited, the Teaching Company Scheme (TCS), research donations, collaborative research projects and General Research Fund grant.
+  In addition, Dr Ip has published nearly 240 papers with over 130 papers in SCI indexed journals, and also over 130 papers in conference proceedings, and has written books and invited book chapters. His latest textbook entitled IoT: The Basic, Applications and Case Studies (in Chinese; ISBN: 978-986-925-960-6, and System Design and Technology of Biomedical Internet of Things (in Chinese; ISBN: 978-986-84784-7-3) have been published in 2016 and 2014 respectively. He is also the Editor-in-Chief of Enterprise Information Systems (SCI Indexed), and the Editor-in-Chief and Founder of International Journal of Engineering Business Management (ESCI and SCOPUS Indexed) and editorial member of various international journals. He is a senior member of the Institute of Electrical and Electronics Engineers (IEEE), the Institution of Engineering and Technology (IET), the Institution of Mechanical Engineers (IMechE) and the Hong Kong Institution of Engineers (HKIE), and a Fellow of the Hong Kong Quality Management Association (HKQMA).
+  He has been the consultant for various companies and was independent non-executive directors of companies listed on Hong Kong Stock Exchange. He is also Honorary Advisor of the China Aircraft Service Company Limited. He is Visiting Professor of Sun Yat-sen University, South China Normal University, Civil Aviation University of China and the University of Electronic Science and Technology of China, and Honorary Fellow of the Warwick Manufacturing Group, The University of Warwick (U.K.)
+  (V) Teaching and Research Specialties
+  Teaching Areas:
+Industrial Engineering, RFID/Supply Chain Technologies, Decision Support Systems, Project Management and Enterprise Systems.
+Research Interests:
+Radio Frequency Identification (RFID) and Supply Chain Technologies, Wireless Sensor Networks (WSNs), Decision Support Systems and Artificial Intelligence (AI), Big Data Analytics, Resilience Engineering.
+  (VI) Education Qualifications
+(i) Doctor of Philosophy (PhD), Loughborough University (U.K.) (1994)
+(ii) Master of Business Administration (MBA), Brunel University (U.K.) (1990)
+(iii) Master of Science (MSc) in Industrial Engineering, Cranfield University (U.K.) (1983)
+(iv) LLB (Hons), University of Wolverhampton (U.K.) (1999)
+  (VII) Professional Qualifications
+(i) Chartered Engineer (CEng)
+(ii) Fellow of the Hong Kong Quality Management Association (FHKQMA)
+(iii) Senior Member of the Institution of Electrical and Electronic Engineers (SMIEEE)
+(iv) Member of the Institution of Engineering and Technology (MIET)
+(v) Member of the Institution of Mechanical Engineers (MIMechE)
+(vi) Member of the Hong Kong Institution of Engineers (MHKIE)
+  (VIII) Scholarly Activities
+              (past and present)
+Internal
+Member, Departmental Management Committee (ISE)
+Member, Departmental Staffing Committee (ISE)
+Associate Director, Integrated Graduate Development Scheme (IGDS) (Warwick University and PolyU MSc, jointaward)
+Leader, Logistics Engineering and Quality Service Theme Group, (ISE)
+Lab-in-charge, RFID Solutions Laboratory
+Programme Leader, Bachelor of Science (BSc) in Enterprise Engineering and E-business (ISE)
+Member, Programme Committee, Bachelor of Engineering (BEng) and Higher Diploma (HD) in Industrial and Systems Engineering (ISE)
+Member, Programme Committee, Bachelor of Science (BSc) in Enterprise Engineering with Management (ISE)
+Member, Programme Committee, Bachelor of Science (BSc) in Logistics Engineering and Management (ISE)
+Member, Programme Committee, Master of Science (MSc) in Industrial Logistics Systems (ISE)
+Member, Programme Committee, Master of Science (MSc) in Technology Management (ISE)
+Member, Planning Committee on the Chinese IGDS/IMDS programmes (Warwick University and PolyU MSc, jointaward)
+Member, Re-validation Committee (Warwick University and PolyU MSc, jointaward)
+Project Supervisor, IGDS Students and Module Coordinator (Warwick University and PolyU MSc, jointaward)
+Subject Coordinator, ISE & FENG Subjects: ISE318, ISE448, ISE5010 and ISE556 (ISE)
+  External
+Honorary Fellow, Warwick Manufacturing Group, The University of Warwick (Present)
+Editor-in-Chief, Enterprise Information Systems (SCI Indexed, 2014 - Present)
+Editor-in-Chief and Founder, International Journal of Engineering Business Management (ESCI and SCOPUS Indexed, 2009 - Present)
+Associate Editor, International Journal of Information Analysis and Processing (2008 - Present)
+Associate Editor, Industrial Engineering Research, International Journal of IE Theory and Application (2006 - 2009)
+Honorary Advisor, China Aircraft Service Company Limited (Present)
+PhD External Examiner, The Royal Melbourne Institute of Technology (RMIT), Australia (Present)
+PhD External Examiner, The University of Hong Kong (Present)
+EngD External Examiner, City University of Hong Kong (Present)
+中國航空學會信息融合分會委員 (2014 - Present)
+中國航空學會信息融合專業委員會委員 (2013 - 2014)
+Organizing Committee Co-Chair, 2014 3rd International Conference on Cloud Computing and Intelligence Systems (2014)
+International Program Committee Members, The Second International Conference on Enterprise Systems (ES 2014), Shanghai, China, (2 - 3 August 2014)
+第5屆中國信息融合大會 (CIFC 2013) 組織委員會副主席暨香港分會場主席 (2013)
+Committee Member, Innovation and Technology Association (2004 - 2005)
+Committee Member, Hong Kong Quality Management Association (2001 - 2005)
+International Programme Committee Member, the Seventh International Conference on Stimulating Manufacturing Excellence in Small and Medium Enterprises (SME), June 2005, University of Strathclyde, U.K. (2005)
+International Programme Committee Member, the Sixth International Conference on Stimulating Manufacturing Excellence in Small and Medium Enterprises (SME), June 2003, Athens, Greece (2003)
+Chairman, Manufacturing Management Professional Group, Specialized Section in Management and Design of the Institution of Electrical Engineers, IEE (HK) Center (1996 - 1999)
+  (IX) Internal and External Funded Research Projects
+  On-going Projects 
+(External Funded Projects)
+(i) Innovation and Technology Support Programme, 2016 - 2018, Development of a IoT Healthcare Platform for Elderly Fitness Exercises (Project Code: ITS/383/15FX), Principal Investigator (around HK$ 4,600,000)
+(ii) General Research Fund, 2016 - 2017, Flexible Nursing Staff Demand Modelling for Nursing Homes (Project Number: 15210815), Principal Investigator (around HK$ 329,000).
+(iii) Collaborative Research with Sino Parking Services Limited, 2014 - 2016, The Design of a Business Intelligent System Using Hybrid Big Data Approach for Parking Service Industry (Project Code: H-ZDAM), Principal Investigator (HK$998,000).
+(iv) National Natural Science Foundation of China, 2014 - 2017, Selecting  and  Designing  an  Optimal  Selling  Format of  a  Product  in  Online  Retailing  Channels  with Boundedly Rational Customers (Project Code: 71371190), Co-Investigator (RMB$560,000).
+  For his completed projects, please refer to below link:
+http://www.rfid.ise.polyu.edu.hk/en/projectlist.pdf
+  (X) Awards and Honours
+  Awards
+International / Local Awards:
+(i) Gold Medal with the Congratulations of Jury, 43rd International Exhibition of Inventions of Geneva, International Exhibition of Inventions (2015)
+(ii) Thailand Award for Best International Invention from The National Research Council of Thailand (NRCT), 43rd International Exhibition of Inventions of Geneva, International Exhibition of Inventions (2015)
+(iii) Big Data Analysis Award 2014 on Research Application, Big Data Analysis Awards 2014, China & Hong Kong Enterprise Market Development Association (EMDA) (2014)
+(iv) Silver Award of the IoT Implementation Excellence, Hong Kong Internet of Things (IoT) Awards, GS1 Hong Kong (2014)
+(v) Silver Award of the IoT Application Innovation, Hong Kong Internet of Things (IoT) Awards, GS1 Hong Kong (2014)
+(vi) Natural Science Award - Second Class (自然科學二等獎), 2013 Ministry of Education Higher Education Outstanding Scientific Research Output Awards (Science and Technology), Ministry of Education, China (2013)
+(vii) Excellent Paper of the Conference, The 12th Conference on Information Technology and Applications in Outlying Islands, National Quemoy University, Kinmen, Taiwan (2013)
+(viii) Highly Commended Award for the paper “In-house development of low cost automatic IC workcell for BGA solder ball attachment” in the Journal - Assembly Automation, Emerald LiteratiNetwork (2009)
+  Departmental Awards:
+(i) Highest External Competitive Research Grant Award 2013-2014 - Silver Award, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University (2014)
+(ii) Highest Consultancy Income Award 2013-2014 - Bronze Award, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University (2014)
+(iii) Highest External Competitive Research Grant Award 2011-2012 - Gold Award, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University (2012)
+(iv) Highest Paper Output Award 2011-2012 - Gold Award, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University (2012)
+(v) Highest No. of Grade A Papers Award 2011-2012 - Bronze Award, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University (2012)
+(vi) Solicitation of Donation Award 2010-2011 - Gold Award, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University (2011)
+(vii) Highest Paper Output Award 2010-2011 - Bronze Award, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University (2011)
+(viii) Highest Paper Output Award 2009-2010 - Gold Award, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University (2010)
+(ix) Top 10% Ranked Journals Award 2005-2006, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University (2006)
+(x) Highest No. of Journal Paper Output Award 2004 - Second Prize, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University (2005)
+  Supervised Student Awards
+(i) Best Student Paper Award, The 4th International Conference on Enterprise Systems (ES2016), Melbourne, Australia (2016)
+(ii) First Runner-Up, Final Year Project Competition 2014-2015, IEEE (Hong Kong) Computational Intelligence Chapter (2015)
+(iii) Certificate of Merit, Hong Kong U-21 Internet of Things (IoT) Awards 2014, GS1 Hong Kong (2014)
+(iv) Best Research Awards (最佳研究大奬), HK-Taiwan EPC / RFID Academia Awards 2013, GS1 Hong Kong & GS1 Taiwan (2013)
+(v) Gold Award, Most Innovative EPC/RFID Application, Hong Kong RFID Awards U-21 RFID Awards 2013, GS1 Hong Kong (2013)
+(vi) Silver Award, Most Innovative EPC/RFID Application, Hong Kong RFID Awards U-21 RFID Awards 2013, GS1 Hong Kong (2013)
+(vii) Merit Award, The Innovation Stream in PolyU Micro Fund 2013, The Hong Kong Polytechnic University (2013)
+(viii) Most Innovative Awards (最具創意大奬), HK-Taiwan EPC / RFID Academia Awards 2012, GS1 Hong Kong & GS1 Taiwan (2012)
+(ix) Best Research Awards (最佳研究大奬), HK-Taiwan EPC / RFID Academia Awards 2012, GS1 Hong Kong & GS1 Taiwan (2012)
+(x) Gold Award, Best EPC/RFID Concept, Hong Kong RFID Awards U-21 RFID Awards 2012, GS1 Hong Kong (2012)
+(xi) Silver Award, Best EPC/RFID Concept, Hong Kong RFID Awards U-21 RFID Awards 2012, GS1 Hong Kong (2012)
+(xii) Merit Award, The Innovation Stream in PolyU Micro Fund 2012, The Hong Kong Polytechnic University (2012)
+(xiii) Champion, HK-Taiwan EPC / RFID Academia Awards 2011, GS1 Hong Kong & GS1 Taiwan (2011)
+(xiv) Gold Award, Best EPC/RFID Concept, Hong Kong RFID Awards U-21 RFID Awards 2011, GS1 Hong Kong (2011)
+(xv) Certificates of Merits, Hong Kong RFID Awards 2011, GS1 Hong Kong (2011)
+  Honours
+(i) Judge Panel Member, Metro Awards for Banking and Finance Corporations 2016 (2016)
+(ii) Judge Panel Member, Metro Awards for Service Excellence 2016 (2016)
+(iii) Judge Panel Member, the HKICT Awards 2016 - Best Smart Hong Kong Award (2016)
+(iv) Panel Judge and Award Presenter, the Prime Awards for Brand Excellence 2015 (2015)
+(v) Judge Panel Member, Metro Awards for Banking and Finance Corporations 2015 (2015)
+(vi) Judge Panel Member, the HKICT Awards 2015 - Best Smart Hong Kong Award (2015)
+(vii) Judge Panel Member, EMDA Big Data Analysis Award 2014 (2014)
+(viii) Speaker, ‘We Are Cloud Makers’ Developers Seminar (2014)
+(ix) Speaker, ‘Journey to the Cloud’ SMEs Seminar (2014)
+(x) Judge Panel Member, the Hong Kong Internet of Things (IoT) Awards 2014 (2014)
+(xi) Judge Panel Member, WE ARE CLOUD MAKERS (2014)
+(xii) Judge Panel Member, the Prime Awards for Brand Excellence 2014 (2014)
+(xiii) Judge Panel Member, Prime Awards for Banking and Finance Corporations 2014 (2014)
+(xiv) Judge Panel Member, Prime Awards for Eco-Business 2014 (2014)
+(xv) Judge Panel Member, the Hong Kong RFID Awards 2013 (2013)
+(xvi) Judge Panel Member, Prime Awards for Banking and Finance Corporations 2013 (2013)
+(xvii) Judge Panel Member, Prime Awards for Eco-Business 2013 (2013)
+(xviii) Speaker, GS1 Hong Kong in HK U-21 RFID Awards 2013 - Young Talents’ Projects Sharing Seminar (2013)
+(xix) Speaker, the Federation of The Hong Kong Polytechnic University Alumni Associations in Quarterly Gathering with Star Speakers (2012)
+(xx) Speaker, The Hong Kong Polytechnic University and GS1 Hong Kong in The Distinguished Seminar on Internet of Things (IoT) (2012)
+(xxi) Judge Panel Member, Prime Awards for Eco-Business 2011 (2011)
+(xxii) Judge Panel Member and Award Presenter, the Prime Awards for the Best Brand Enterprise in Greater China 2010 and the Best Eco-Business in Greater China 2010 (2010)
+(xxiii) Judge Panel Member and Award Presenter, the Prime Awards for the Best Brand Enterprise in Greater China 2009 and the Best Eco-Business in Greater China 2009 (2009)
+(xxiv) Speaker, the Hong Kong Institution of Engineers (HKIE) in the CAI Symposium 2004 (2004)
+   (XI) Postgraduate Research Students
+  As a chief/co-supervisor, Dr Ip has supervised over 25 postgraduate students in PhD, EngD and MPhil levels. He is particularly interested in supervising student research in the following areas:
+WSN technologies
+RFID technologies and Internet of Things (IoT)
+Engineering optimization and artificial intelligence
+Advanced planning and scheduling
+  He welcomes approaches from perspective engineering students with proposals to conduct original research in these fields. For his graduated students, please access the following link:
+http://www.rfid.ise.polyu.edu.hk/en/studentlist.pdf
+  (XII) Selected Publications
+  Dr Ip’s h-index as indicated in Web of Science® scores 18 with over 1,300 citations for all SCI indexed journal/conference papers while his h-index as indicated in Google Scholar scores 32 with over 4,100 citations for all publications.  For his full publication list, please access the following link:
+http://www.rfid.ise.polyu.edu.hk/en/publist.pdf
+A list of representative publications (since 2000) is shown below:
+Jiang, Z.Z., Fan, Z.P., Ip, W.H. & Chen, X., “Fuzzy multi-objective modeling and optimization for one-shot multi-attribute exchanges with indivisible demand”, IEEE Transactions on Fuzzy Systems, Vol. 24, Iss. 3, pp. 708-723 (2016).
+Wang, J.W., Liu, D., Ip, W.H., Zhang, W.J., and Deters R., “Integration of system-dynamics, aspect-programming, and object-orientation in system information modeling”, IEEE Transactions on Industrial Informatics, Vol. 10, No. 2, pp. 847-853 (2014).
+Wang, J.W., Wang, H.F., Zhang, W.J., Ip, W.H. and Furuta, K., “Evacuation planning based on the contraﬂow technique with consideration of evacuation priorities and traffic setup time”, IEEE Transactions on Intelligent Transportation Systems, Vol. 14, No. 1, pp. 480-485 (2013).
+Lin, Y., Zhang, J., Chung, H.S.H., Ip, W.H. and Shi, Y.H., “An ant colony optimization approach for maximizing the lifetime of heterogeneous wireless sensor networks”, IEEE Transactions on Systems, Man, and Cybernetics - Part C: Applications and Reviews, Vol. 42, No. 3, pp. 408-420 (2012).
+Wang, J.W., Ip, W.H. and Zhang, W.J., “An integrated road construction and resource planning approach to the evacuation of victims from single source to multiple destinations”, IEEE Transactions on Intelligent Transportation Systems, Vol. 11, No. 2, pp. 277-289 (2010).
+Zhan, Z.H., Zhang, J., Li, Y., Liu, O., Kwok, S.K., Ip, W.H. and Kaynak, O., “An efficient ant colony system based on receding horizon control for the aircraft arrival sequencing and scheduling problem”, IEEE Transactions on Intelligent Transportation Systems, Vol. 11, No. 2, pp. 399-412 (2010).
+Wang, H.F., Yang, S.X., Ip, W.H. and Wang, D.W., “Adaptive primal-dual genetic algorithms in dynamic environments”, IEEE Transactions on Systems, Man, and Cybernetics - Part B: Cybernetics, Vol. 39, No. 6, pp. 1348-1361 (2009).
+Wang, Y.W., Wang, D.W. and Ip, W.H., “Optimal design of link structure for e-supermarket website”, IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans, Vol. 36, No. 2, pp. 338-355 (2006).
+Ip, W.H., Yung, K.L. and Wang, D.W., “A branch and bound algorithm for sub-contractor selection in agile manufacturing environment”, International Journal of Production Economics, Vol. 87, No. 2, pp. 195-205 (2004).
+Ip, W.H., Huang, M., Yung, K.L. and Wang, D.W., “Genetic algorithm solution for a risk-based partner selection problem in a virtual enterprise”, Computers & Operations Research, Vol. 30, No. 2, pp. 213-231 (2003).
+  (Last updated: 2016-Nov)
+About Us
+Academic Programmes
+Research
+Centres and Laboratories
+Events and Achievements
+Alumni
+Contact Us
+Sitemap
+Copyright © 2012 Dept. of Industrial and Systems Engineering, PolyU. All Rights Reserved.

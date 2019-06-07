@@ -1,0 +1,76 @@
+###AuthorName=Yuri S. Kivshar
+###AuthorTitle=Prof
+###Affiliation=Nonlinear Physics
+###Position=Head, Distinguished Professor (level E3), Australian Federation Fellow
+##############################
+  Prof. Yuri S. Kivshar
+Home page
+People
+Members
+Visitors
+Research
+Study
+Papers
+Facilities
+Contact us
+Recent papers
+Sci. Reports 5, 9574-5 (10 apr 2015)
+JETP Lett. 100, 831-836 (22 Oct 2014)
+Phys. Rev. B 90, (Oct 2014)
+Rev. Mod. Phys. 86, 1093-1123 (12 Sep 2014)
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 372, 20140010--20140010 (Sep 2014)
+more...
+Student scholarships available
+Do your Honours or PhD with the Centre for Ultrahigh- bandwidth Devices for Optical Systems
+Head, Distinguished Professor (level E3), Australian Federation Fellow
+Nonlinear Physics Centre
+Research School of Physics and Engineering
+The Australian National University
+Canberra ACT 0200, Australia
+Office:   room L.3.04, Le Couteur Bldg.
+Phone:   +61-2-6125-3081 (direct)
++61-2-6125-3423 (administrator)
+Fax:   +61-2-6125-8588
+E-mail:   Yuri.Kivshar@anu.edu.au
+Home page
+    http://physics.anu.edu.au/nonlinear/people/YuriKivshar.shtml   (this page)
+Recent Publications   (see also list of all publications)
+The articles are Copyright © by the respective publishers, and may be downloaded for personal use only. Any other use requires prior permission of the author and the respective publisher.
+All-Dielectric Multilayer Cylindrical Structures for Invisibility Cloaking
+A. Mirzaei, A. E. Miroshnichenko, I. V. Shadrivov, and Y. S. Kivshar,
+Sci. Reports 5, 9574-5 (2015).
+[Abstract] [Full-text PDF (1.6 Mb)] [Online]
+Wave scattering by metal-dielectric multilayer structures with gain
+R. S. Savelev, I. V. Shadrivov, and Yu. S. Kivshar,
+JETP Lett. 100, 831-836 (2014).
+[Abstract] [Full-text PDF (754 Kb)] [Online]
+Second-harmonic generation in subwavelength graphene waveguides
+Daria Smirnova and Yuri S. Kivshar,
+Phys. Rev. B 90, (2014).
+[Full-text PDF (397 Kb)] [Online]
+Colloquium:Nonlinear Metamaterials
+Mikhail Lapine, Ilya V. Shadrivov, and Yuri S. Kivshar,
+Rev. Mod. Phys. 86, 1093-1123 (2014).
+[Abstract] [Full-text PDF (5 Mb)] [Online]
+Plasmonic kinks and walking solitons in nonlinear lattices of metal nanoparticles
+R. E. Noskov, D. A. Smirnova, and Y. S. Kivshar,
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 372, 20140010--20140010 (2014).
+[Full-text PDF (893 Kb)] [Online]
+Spontaneous chiral symmetry breaking in metamaterials
+Mingkai Liu, David A. Powell, Ilya V. Shadrivov, Mikhail Lapine, and Yuri S. Kivshar,
+Nat. Commun. 5, 5441-9 (2014).
+[Abstract] [Online]
+Second-harmonic generation by a graphene nanoparticle
+Daria. A. Smirnova, Ilya. V. Shadrivov, Andrey. E. Miroshnichenko, Alexander. I. Smirnov, and Yuri. S. Kivshar,
+Phys. Rev. B 90, 035412-7 (2014).
+[Abstract] [Full-text PDF (538 Kb)] [Online]
+Superscattering of light optimized by a genetic algorithm
+Ali Mirzaei, Andrey E. Miroshnichenko, Ilya V. Shadrivov, and Yuri S. Kivshar,
+Appl. Phys. Lett. 105, 011109-4 (2014).
+[Abstract] [Full-text PDF (1.2 Mb)] [Online]
+Deeply subwavelength electromagnetic Tamm states in graphene metamaterials
+Daria Smirnova, Pavel Buslaev, Ivan Iorsh, Ilya V. Shadrivov, Pavel A. Belov, and Yuri S. Kivshar,
+Phys. Rev. B 89, 245414-4 (2014).
+[Abstract] [Full-text PDF (1 Mb)] [Online]
+Other papers...
+  Copyright © 2001-2010 Nonlinear Physics Centre All rights reserved.   

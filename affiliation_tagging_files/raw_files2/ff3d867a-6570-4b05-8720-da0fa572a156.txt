@@ -1,0 +1,153 @@
+###AuthorName=Shao-Horn, Yang
+###AuthorTitle=Professor
+###Affiliation=Department of Mechanical Engineering
+###Position=W.M. Keck Professor of Energy
+##############################
+MIT MechE
+Home
+People
+Shao-Horn, Yang
+menu
+Professor
+Yang Shao-Horn
+W.M. Keck Professor of Energy
+INTERESTS
+Electrochemical Energy Storage and Conversion
+Catalysis/Electrocatalysis/Photoelectrocatalysis
+Nanoscience
+MORE ABOUT YANG
+ROOM
+3-334
+Massachusetts Institute of Technology
+77 Massachusetts Avenue
+Cambridge, Massachusetts 02139
+email
+website
+617.253.2259
+Download CV
+ASSOCIATED RESEARCH AREAS
+mechanics
+design
+controls
+energy
+ocean
+bioengineering
+nano
+Administrative Contact
+Reynolds, Abby
+3-337
+areynol2@mit.edu
+617.253.7449
+FACULTY DETAILS
+Education
+Research Interests
+Bio
+Online Data
+Honors/Awards
+Related Experience
+Memberships
+Professional Service
+MIT Service
+Teaching
+Publications
+Patents
+Education
+1992
+BEIJING UNIVERSITY OF TECHNOLOGY
+B.Sc.
+1998
+MICHIGAN TECHNOLOGICAL UNIVERSITY
+Ph.D.
+Honors + Awards
+2016, Thomson Reuters Web of Science Highly Cited Researcher
+2016, Battery Research Award of the Electrochemical Society
+2015, Thomson Reuters Web of Science Highly Cited
+2014, AAAS Fellow
+2014, Royal Society of Chemistry Fellow
+2013, Research Award of the International Battery Association
+2011, Gail E. Kendall Chair of Mechanical Engineering
+2008, Tajima Prize of the International Society of Electrochemistry
+2008, Charles W. Tobias Young Investigator Award of The Electrochemical Society
+Professional Service
+2015-present, Energy & Environmental Science, Editorial Board
+2014-present, SUNCAT, Stanford University and SLAC, Advisory Board
+2014-present, Journal of Physical Chemistry, Advisory Board
+2012-present, ChemElectroChem
+2011-2015, Energy & Environmental Science, Advisory Board
+MIT Service
+Co-Director, Center for Energy Storage, MIT/ei (2016-present)
+ME Energy Area Head (2016-present)
+ME Faculty General Search Committee (2014-2016)
+ME Graduate Admission Committee (2014-present)
+ME Thermal Search Committee (2013-2014)
+ME Professional Dev. Grad Students and Postdocs (2012-2014)
+Co-Chair, MIT Task Force - Grad. Stud. Prf. Development (2012-2013)
+ME Strategic Planning Committee (2011)
+ME RAS Staff Search Committee (2011)
+ME Communication Officer Search Committee (2011)
+MIT/ei Catalysis Search Committee (2010-2012)
+ME Energy Search Committee (2008-2010)
+SOE Energy Search Committee (2008-2009)
+MIT Presidential Energy Research Council (2005-2006)
+Teaching
+Measurement and Instrumentation (2.671)
+Thermal Fluids Engineering I (2.005)
+Fundamentals of Advanced Energy Conversion (2.996/2.60/2.62)
+Mechanics of Materials (2.002)
+Electrochemical Systems: Fundamentals, Materials & Applications (2.625)
+Publications
+Hong, W.T., K.A. Stoerzinger, B. Moritz, T.P. Devereaux, W. Yang, and Y. Shao-Horn, Probing LaMO3 Metal and Oxygen Partial Density of States Using X-ray Emission, Absorption, and Photoelectron Spectroscopy, JPCC 2015.
+Elias, J.S., M. Risch, L. Giordano, A.N. Mansour, and Y. Shao-Horn, Structure, Bonding and Catalytic Activity of Monodisperse, Transition-Metal Substituted CeO2 Nanoparticles, Journal of the American Chemical Society, 136 (49), 17193-17200 December 2014.
+Grimaud, A., K.J. May, C.E. Carlton, Y.-L. Lee, M. Risch, W. T. Hong, J. Zhou and Y. Shao-Horn, Double Perovskite as a Family of Highly Active Catalysts For Oxygen Evolution in Alkaline Solution, Nature Communications, 4, 2439 September 2013.
+Lopez, N. , D.J. Graham, R. McGuire, Jr., G.E. Alliger, Y. Shao-Horn, C.C. Cummins and D.G. Nocera, Reversible Reduction of Oxygen to Peroxide Facilitated by Molecular Recognition, Science, 335 (6067), 450 - 453 January 2012.
+Suntivich, J., K. J. May, J. B. Goodenough, H. A. Gasteiger and Y. Shao-Horn, A perovskite oxide optimized for oxygen evolution catalysis from molecular orbital principles, Science, 334 (6061), 1383-1385 December 2011.
+Suntivich, J., H.A. Gasteiger, N. Yabuuchi, H. Nakanishi, J. B. Goodenough, Y. Shao-Horn, Design principles for oxygen-reduction activity on perovskite oxide catalysts for fuel cells and metal–air batteries, Nature Chemistry, 3 (7), 546–550 July 2011.
+Lee, S.W., N. Yabuuchi, G.M. Gallant, S. Chen, B.S. Kim, P.T. Hammond and Y. Shao-Horn, High-power lithium batteries from functionalized carbon nanotube electrodes, Nature Nanotechnology, 5 (7), 531–537 July 2010.
+  Patents
+Shao-Horn, Yang; Yao, Pierre; Barde, Fanny. "Rechargeable Electrochemical System Using Transition Metal Promoter", Patent Cooperation Treaty Serial No. PCT/US2016/019951, Filed February 26, 2016. Published Application
+Amanchukwu, Chibueze; Shao-Horn, Yang; Ma, Sang Bok; Khiterer, Mariya; Hammond-Cunningham, Paula; Rye, Young-Gyoon. "Polyacrylate Electrolyte For Li-Air Battery", Korea (south) Serial No. 10-2016-0017768, Filed February 16, 2016. Pending
+Amanchukwu, Chibueze; Shao-Horn, Yang; Ma, Sang Bok; Khiterer, Mariya; Hammond-Cunningham, Paula; Rye, Young-Gyoon. "Stable Electrolyte For Lithium Air Battery And Lithium Air Battery Including The Same", US Serial No. 14/949498, Filed November 23, 2015. Pending
+Hayder, Nasim; Shao-Horn, Yang; Byon, Hye Ryung; Lee, Seung Woo; Hammond-Cunningham, Paula; Gallant, Betar. " Carbon Electrodes", US Patent 9070932, Filed on October 11, 2011, Issued June 30, 2015
+Ghoniem, Ahmed; Shao-Horn, Yang; Habib, Mohamed; Mezghani, Khaled; Mitsos, Alexander; Ben-Monsour, Rached. "Integrated Polymeric-Ceramic Membrane Based Oxy-Fuel Combuster", US Patent 9004909, Filed on February 3, 2012, Issued April 14, 2015
+Shao-Horn, Yang; Crumlin, Ethan; Koc, Serkan; La O', Gerado. "Three Dimensional Single-Chamber Fuel Cells", US Patent 8691464, Filed on June 7, 2010, Issued April 8, 2014
+Shao-Horn, Yang; Suntivich, Jin; May, Kevin. "Electrochemical Methods And Systems Using Catalytic Materials", US Serial No. 13/185939, Filed July 19, 2011. Publication Number: US13/0020207. Published Application
+Shao-Horn, Yang; Lee, Seung Woo; Hammond-Cunningham, Paula; Yabuuci, Naoaki. "Layer-By-Layer Assemblies of Carbon-Based Nanostructures And Their Applications In Energy Storage And Generation Devices", China Serial No. 200980131862.5, Filed August 14, 2009. Publication Number: CN102171870. Published Application
+Shao-Horn, Yang; Lee, Seung Woo; Hammond-Cunningham, Paula; Yabuuci, Naoaki. "Layer-By-Layers Assemblies of Carbon-Based Nanostructures And Their Applications In Energy Storage And Generation Devices", Japan Serial No. 2011-523006, Filed August 14, 2009. Publication Number: 2012-500450. Published Application
+Shao-Horn, Yang; Lee, Seung Woo; Hammond-Cunningham, Paula; Yabuuci, Naoaki. "Layer-By-Layer Assemblies of Carbon-Based Nanostructures And Their Applications In Energy Storage And Generation Devices", Korea (south) Serial No. 10-2011-7005917, Filed August, 2009. Pending
+at MechE
+Diversity Statement
+Ethics and Integrity
+Faculty Positions
+Contact
+Apply
+Sitemap
+Privacy
+Accessibility
+Credits
+Toggle High Contrast
+Student Resources
+Online 2A Contract
+SB Thesis Information
+Online Grad Card
+ODGE Petition
+Thesis Specifications
+Guide to Graduate Study
+MIT's Mind & Hand Book
+Staff Resources
+Room Reservations
+Calendar
+MechE Resources
+Edit My Profile
+Follow our research.
+Or, just follow us.
+Facebook
+Twitter
+YouTube
+Instagram
+Linkedin
+MechE Analog
+Massachusetts Institute of Technology
+Department of Mechanical Engineering
+
+77 Massachusetts Avenue, Room 3-173
+Cambridge, Massachusetts 02139

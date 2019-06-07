@@ -1,0 +1,58 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Campuses:
+Chicago
+Peoria
+Rockford
+Urbana
+College of Medicine
+UIC
+Directory
+Contact Us
+Search
+ABOUT
+EDUCATION
+RESEARCH
+PATIENT CARE
+DEPARTMENTS
+GIVING
+NEWS
+SCHEDULING
+Home > Departments > Centers > Center for Magnetic Resonance Research > Scheduling
+Departments
+Centers
+a
+Center for Magnetic Resonance Research
+Scheduling
+  Scheduling Research Protocols for 3T
+In order to facilitate the scheduling and processing of MR patients, please follow the listed guidelines below.
+Investigators are responsible for all scan time booked.
+Scan Time cannot be registered within 15 hours.
+Scan Time cannot be changed or cancelled within 48 hours.
+Scan Time can only be scheduled in 1 hour intervals.
+Only 10 hours are alloted for Z accounts per week across all investigators.
+Scanner time on Saturdays and Sundays are negotiable for investigators who can operate the 3T scanner self sufficiently.
+The scheduled time must be registered with the 3T Schedule System (Instructions).
+
+If you have questions regarding scheduling please contact :
+Mike Flannery
+Phone: (312) 996-1251
+Email: mpflanne@uic.edu
+All pertinent information should be available to the scheduling contacts. This should include:
+Project code number from the Center for MR Research.
+Name, address and telephone number of subject. All persons undergoing an MR procedure will be screened by MR Center staff for contraindications prior to their appointment date; telephone contact will be essential. For preliminary assessment, see reverse side of form.
+UIC medical record number or relevant medical records outside of UIC. The MR Center staff will not request records from outside institutions.
+Referring physician/ investigator with telephone contact number or email address if available.
+Paperwork from the principal investigator with the approved project code number should be sent to the Center 7 days prior to the requested appointment date. This may be faxed to (312) 355-3085 or sent by email to the scheduling contacts above.
+The potential subject will be contacted by either the Research Coordinator or Technologist within 3 business days, for English speaking persons only. Appointments for non-English speaking persons may depend on availability of translators. Upon completion of pre-screening, the subject will be scheduled. Notice to referring physician/investigator will be given via email confirming date and time of appointment.
+A letter of confirmation with instructional information will be sent to subject if the exam date is more than five days from date of scheduling. A telephone reminder will be made to subject one day prior to scan date.
+If subject fails pre-screening, an e-mail will be sent to the referring physician/investigator with contraindications outlined.
+Scheduling Research Protocols for 9.4T
+Call Dr. Thulborn at (847) 830 0725 and have the IRB approved protocol number available with subject contact information.
+Copyright © 2016 University of Illinois College of Medicine all rights reserved Guest Web Editor Login
+If you have questions, comments, or problems accessing this site, please E-mail the webmaster
+Privacy StatementPublic Formal Grievance ProceduresHealth Care Industry Conflict of Interest Guidelines
+Visit our four campus websites: ChicagoPeoriaRockfordUrbana

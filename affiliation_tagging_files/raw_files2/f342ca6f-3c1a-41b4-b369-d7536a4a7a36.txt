@@ -1,0 +1,53 @@
+###AuthorName=KUI Hin Wing
+###AuthorTitle=Professor
+###Affiliation=Department of Physics
+###Position=Senior Lecturer
+##############################
+Home | Contact Us
+About Us
+Admission
+People
+Research
+Outreach
+Events
+Links
+KUI Hin Wing
+Professor
+Education:
+PhD, Harvard University, 1986
+MS, Harvard Univeristy, 1986
+BS, California Institute of Technology, 1981
+Position:
+Senior Lecturer (1996-now), Department of Physics, The Chinese University of Hong Kong
+Lecturer (1987-1996), Department of Physics, The Chinese University of Hong Kong
+Research Field:
+Materials science
+Current Research Interests:
+Undercooled melts
+Bulk nanostructures
+Amorphous materials
+Bulk metallic glasses
+Research Grants:
+Earmarked Grant (06/07): Mechanical Behavior of Fe(80)C(20) Nanocomposites
+Direct Grant (04/05): Crystallization Kinetics in Undercooled Liquid Mixture
+Earmarked Grant (03/04): Complex Fluoride Crystals of Alkali and Rare-earth Elements for TL Dosimetry and VUV/Deep UV Up-conversion
+Earmarked Grant (01/02): Thermal Stability of Nanostructured Alloys Prepared by Metastable Liquid Spindoal Decomposition and the Search for High-temperature Nanostructures
+Earmarked Grant (00/01): Mechanical Behavior of Bulk Nanostructured Alloys Synthesized by Rapid Solidification
+Earmarked Grant (96/97): Properties of Undercooled Molten Eutectic Alloys
+Earmarked Grant (94/95): Specific Volumes and Glass Formation of Metallic Systems
+Earmarked Grant (93/94): Structural Modification of Highly Undercooled Semiconductors and Metals
+Direct Grant (93/94): Stress Effect on the Nucleation Frequency of Oxide Coated Small Droplet
+Selected Recent Publications:
+S. Lan, Y.L. Yip, M.T. Lau, H.W. Kui, "Direct imaging of phase separation in Pd41.25Ni41.25P17.5 bulk metallic glasses", Journal of Non-Crystalline Solids, vol. 358, 1298-1302 (2012).
+W.H. Chow, C.C. Leung, Y.L. Yip, S.W. Mok, and H.W. Kui, "Scanning electron microscopy of Fe79.5B6.5C14 network alloys: Part I", Metallurgical and Materials Transactions, A, vol. 44A, 3532-3543 (2013).
+Y.L. Yip, C.C. Leung, S.W. Mok, K.H. Yip, and H.W. Kui, "Transmission electron microscopy of Fe79.5B6.5C14 network alloys: Part II", Metallurgical and Materials Transactions, A, vol. 45A, 2014-1457 (2014).
+Z.D. Wu, W.Z. Zhou, Y.F. Lo, S. Lan, H.W. Kui, "On the short-range orders in spinodal Pd–Ni–P bulk metallic glasses", Journal of Non-Crystalline Solids, vol. 410, 51-57 (2015).
+
+
+
+Office: Room 308, 3/F,
+Science Centre North Block
+Phone: (852) 39436368
+E-mail: hwkui@phy.cuhk.edu.hk
+[TOP]
+© 2016 Department of Physics, The Chinese University of Hong Kong. All Rights Reserved.

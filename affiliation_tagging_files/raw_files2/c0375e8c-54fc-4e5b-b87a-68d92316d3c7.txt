@@ -1,0 +1,289 @@
+###AuthorName=Yuri Pashkin
+###AuthorTitle=Professor
+###Affiliation=Physics
+###Position=
+##############################
+Skip to content
+Search the site
+Home
+Science & Technology
+Visiting Campus
+Life at Lancaster
+Search query
+Search
+Search Close search
+Physics Menu University Menu
+About Us
+Undergraduate
+Postgraduate
+Research
+Schools & Outreach
+Business
+People
+Contact Us
+News
+Events
+For Staff and Students
+Job Vacancies
+About Us
+Undergraduate
+Postgraduate
+Research
+Schools & Outreach
+Business
+People
+Contact Us
+News
+Events
+For Staff and Students
+Job Vacancies
+Facebook
+Twitter
+YouTube
+Physics About Us People Yuri Pashkin
+About Us
+People
+Facilities
+Equality and Diversity
+Women in Physics
+Our History
+News
+Events
+Job Vacancies
+Professor Yuri Pashkin
+Professor
+Research Overview
+I joined Lancaster University in 2011 to take up a position of Chair of Experimental Condensed Matter Physics. Prior to this I was a Principal Researcher at the research laboratory of NEC Corporation in Tsukuba (Japan).
+From 1991 to 1997 I was a visiting scientist at Chalmers University of Technology (Sweden), Physikalisch-Technische Bundesanstalt (Germany) and University of Jyväskylä (Finland).
+My research interests include quantum computing with superconducting nanocircuits, quantum metrology with Coulomb blockade devices and nanoelectromechanical systems.
+Show more…
+Publications
+Projects
+PhD Students
+Interplay of the Inverse Proximity Effect and Magnetic Field in Out-of-Equilibrium Single-Electron Devices
+Nakamura, S., Pashkin, Y., Taupin, M., Maisi, V.F., Khaymovich, I.M., Mel'nikov, A.S., Peltonen, J.T., Pekola, J.P., Okazaki, Y., Kashiwaya, S., Kawabata, S., Vasenko, A.S., Tsai, J., Kaneko, N. 26/05/2017 In: Physical Review Applied. 7, 5, 10 p.
+Journal article
+Controlling Single Microwave Photons: A New Frontier in Microwave Engineering
+Lindstrom, T., Lake, R., Pashkin, Y.A., Manninen, A. 05/2017 In: Microwave Journal. 60, 5, p. 118-130. 13 p.
+Journal article
+Graphene-based tunable SQUIDs
+Thompson, M.D., Ben Shalom, M., Geim, A., Matthews, A., White, J., Melhem, Z., Pashkin, Y., Haley, R.P., Prance, J.R. 17/04/2017 In: Applied Physics Letters. 110, 16, 4 p.
+Journal article
+On-chip magnetic cooling of a nanoelectronic device
+Bradley, D.I., Guénault, A.M., Gunnarsson, D., Haley, R.P., Holt, S., Jones, A.T., Pashkin, Y., Penttilä, J., Prance, J.R., Prunnila, M., Roschier, L. 4/04/2017 In: Scientific Reports. 7, 9 p.
+Journal article
+Single-electron tunneling through an individual arsenic dopant in silicon
+Shorokhov, V.V., Presnov, D.E., Amitonov, S.V., Pashkin, Y., Krupenin, V.A. 14/01/2017 In: Nanoscale. 9, 2, p. 613-620. 8 p.
+Journal article
+Nanoelectronic primary thermometry below 4 mK
+Bradley, D.I., George, R.E., Gunnarsson, D., Haley, R.P., Heikkinen, H., Pashkin, Y., Penttilä, J., Prance, J.R., Prunnila, M., Roschier, L., Sarsby, M. 27/01/2016 In: Nature Communications. 7, 6 p.
+Journal article
+Single-electron pumping by parallel SINIS turnstiles for quantum current standard
+Nakamura, S., Pashkin, Y.A., Tsai, J., Kaneko, N. 06/2015 In: IEEE Transactions on Instrumentation and Measurement. 64, 6, p. 1696-1701. 6 p.
+Journal article
+Towards measurement and control of single-photon microwave radiation on chip
+Manninen, A., Kemppinen, A., Lehtinen, J., Mykkanen, E., Amato, G., Enrico, E., Lacquaniti, V., Kataoka, M., Lindstrom, T., Dolata, R., Khabipov, M., Jalali Jafari, B., Lotkhov, S.V., Zorin, A.B., Lake, R.E., Mottonen, M., Pekola, J.P., George, R.E., Pashkin, Y., Prance, J.R., Astafiev, O.V., Meeson, P.J., Porsch, K. 16/05/2015 In: Radio Science Conference (URSI AT-RASC), 2015 1st URSI Atlantic. IEEE 1 p.
+Paper
+Temperature dependence of single-electron pumping using a SINIS turnstile
+Nakamura, S., Pashkin, Y., Tsai, J., Kaneko, N. 15/09/2014 In: Physica C: Superconductivity and its Applications. 504, p. 93-96. 4 p.
+Journal article
+Single-electron current sources: toward a refined definition of the ampere
+Pekola, J.P., Saira, O.-., Maisi, V.F., Kemppinen, A., Möttönen , M., Pashkin, Y., Averin, D.V. 2/10/2013 In: Reviews of Modern Physics. 85, 4, p. 1421-1472. 52 p.
+Journal article
+Spectral analysis and identification of noises in quantum systems
+Wu, R.B., Li, T.F., Kofman, A.G., Zhang, J., Liu, Y., Pashkin, Y., Tsai, J., Nori, F. 19/02/2013 In: Physical Review A. 87, 2, p. 022324. 8 p.
+Journal article
+Fabrication and characterization of Al nanomechanical resonators for coupling to nanoelectronic devices
+Harrabi, K., Pashkin, Y.A., Astafiev, O.V., Kafanov, S., Li, T.F., Tsai, J.S. 07/2012 In: Applied Physics A. 108, 1, p. 7-11. 5 p.
+Journal article
+Coherent quantum phase slip
+Astafiev, O.V., Ioffe, L.B., Kafanov, S., Pashkin, Y., Arutyunov, K.Y., Shahar, D., Cohen, O., Tsai, J.S. 19/04/2012 In: Nature. 484, 7394, p. 355-358. 4 p.
+Journal article
+Coherent superconducting quantum pump
+Hoehne, F., Pashkin, Y.A., Astafiev, O.V., Mottonen, M., Pekola, J.P., Tsai, J. 5/04/2012 In: Physical Review B. 85, 14, p. -. 5 p.
+Journal article
+Nanomechanical resonators
+Greenberg, Y.S., Pashkin, Y., Il'ichev, E. 2012
+Literature review
+Dynamics of Coherent and Incoherent Emission from an Artificial Atom in a 1D Space
+Abdumalikov, A.A., Astafiev, O.V., Pashkin, Y., Nakamura, Y., Tsai, J.S. 22/07/2011 In: Physical Review Letters. 107, 4, p. -. 4 p.
+Journal article
+Real-time observation of discrete Andreev tunneling events
+Maisi, V.F., Saira, O.-., Pashkin, Y., Tsai, J.S., Averin, D.V., Pekola, J.P. 25/05/2011 In: Physical Review Letters. 106, 21, p. -. 4 p.
+Journal article
+Charge transport through ultrasmall single and double Josephson junctions coupled to resonant modes of the electromagnetic environment
+Pashkin, Y., Im, H., Leppaekangas, J., Li, T.F., Astafiev, O., Abdumalikov, A.A., Thuneberg, E., Tsai, J.S. 20/01/2011 In: Physical Review B. 83, 2, p. -. 4 p.
+Journal article
+Subgap leakage and interface states in superconductor-insulator-superconductor tunnel junctions
+Im, H., Pashkin, Y., Kim, Y., Li, T.F., Jung, K., Astafiev, O., Tsai, J.S. 12/2010 In: Physica C: Superconductivity and its Applications. 470, p. S832-S833. 2 p.
+Journal article
+Environment-Assisted Tunneling as an Origin of the Dynes Density of States
+Pekola, J.P., Maisi, V.F., Kafanov, S., Chekurov, N., Kemppinen, A., Pashkin, Y., Saira, O.-., Mottonen, M., Tsai, J.S. 6/07/2010 In: Physical Review Letters. 105, 2, p. -. 4 p.
+Journal article
+Detection of mechanical resonance of a single-electron transistor by direct current
+Pashkin, Y., Li, T.F., Pekola, J.P., Astafiev, O., Knyazev, D.A., Hoehne, F., Im, H., Nakamura, Y., Tsai, J.S. 28/06/2010 In: Applied Physics Letters. 96, 26, p. -. 3 p.
+Journal article
+Electromagnetically Induced Transparency on a Single Artificial Atom
+Abdumalikov, A.A., Astafiev, O., Zagoskin, A.M., Pashkin, Y., Nakamura, Y., Tsai, J.S. 11/05/2010 In: Physical Review Letters. 104, 19, p. -. 4 p.
+Journal article
+Ultimate On-Chip Quantum Amplifier
+Astafiev, O.V., Abdumalikov, A.A., Zagoskin, A.M., Pashkin, Y., Nakamura, Y., Tsai, J.S. 7/05/2010 In: Physical Review Letters. 104, 18, p. -. 4 p.
+Journal article
+Damping in high-frequency metallic nanomechanical resonators
+Hoehne, F., Pashkin, Y., Astafiev, O., Faoro, L., Ioffe, L.B., Nakamura, Y., Tsai, J.S. 1/05/2010 In: Physical Review B. 81, 18, p. -. 5 p.
+Journal article
+Resonance Fluorescence of a Single Artificial Atom
+Astafiev, O., Zagoskin, A.M., Abdumalikov, A.A., Pashkin, Y., Yamamoto, T., Inomata, K., Nakamura, Y., Tsai, J.S. 12/02/2010 In: Science. 327, 5967, p. 840-843. 4 p.
+Journal article
+Suspended single-electron transistor as a detector of its nanomechanical motion
+Pashkin, Y., Li, T., Pekola, J., Astafiev, O., Knyazev, D., Hoehne, F., Im, H., Nakamura, Y., Tsai, J.S. 2010 In: ICONN 2010 - Proceedings of the 2010 International Conference on Nanoscience and Nanotechnology. IEEE p. 340-342. 3 p. ISBN: 9781424452613. Electronic ISBN: 9781424452620.
+Chapter
+Parallel pumping of electrons
+Maisi, V.F., Pashkin, Y.A., Kafanov, S., Tsai, J., Pekola, J.P. 30/11/2009 In: New Journal of Physics. 11, p. -. 9 p.
+Journal article
+Single-Electronic Radio-Frequency Refrigerator
+Kafanov, S., Kemppinen, A., Pashkin, Y., Meschke, M., Tsai, J.S., Pekola, J.P. 18/09/2009 In: Physical Review Letters. 103, 12, p. -. 4 p.
+Journal article
+Potential barrier modification and interface states formation in metal-oxide-metal tunnel junctions
+Jung, H., Kim, Y., Jung, K., Im, H., Pashkin, Y., Astafiev, O., Nakamura, Y., Lee, H., Miyamoto, Y., Tsai, J.S. 09/2009 In: Physical Review B. 80, 12, p. -. 6 p.
+Journal article
+Josephson charge qubits: a brief review
+Pashkin, Y., Astafiev, O., Yamamoto, T., Nakamura, Y., Tsai, J.S. 06/2009
+Literature review
+Experimental investigation of hybrid single-electron turnstiles with high charging energy
+Kemppinen, A., Kafanov, S., Pashkin, Y., Tsai, J.S., Averin, D.V., Pekola, J.P. 27/04/2009 In: Applied Physics Letters. 94, 17, p. -. 3 p.
+Journal article
+Electronic cooling of a submicron-sized metallic beam
+Muhonen, J.T., Niskanen, A.O., Meschke, M., Pashkin, Y., Tsai, J.S., Sainiemi, L., Franssila, S., Pekola, J.P. 16/02/2009 In: Applied Physics Letters. 94, 7, p. -. 3 p.
+Journal article
+Vacuum Rabi splitting due to strong coupling of a flux qubit and a coplanar-waveguide resonator
+Abdumalikov, A.A., Astafiev, O., Nakamura, Y., Pashkin, Y.A., Tsai, J. 11/2008 In: Physical Review B. 78, 18, p. -. 4 p.
+Journal article
+Spectroscopy of superconducting charge qubits coupled by a Josephson inductance
+Yamamoto, T., Watanabe, M., You, J.Q., Pashkin, Y., Astafiev, O., Nakamura, Y., Nori, F., Tsai, J.S. 02/2008 In: Physical Review B. 77, 6, p. -. 8 p.
+Journal article
+High-frequency metallic nanomechanical resonators
+Li, T.F., Pashkin, Y., Astafiev, O., Nakamura, Y., Tsai, J.S., Im, H. 28/01/2008 In: Applied Physics Letters. 92, 4, p. -. 3 p.
+Journal article
+Single artificial-atom lasing
+Astafiev, O.V., Inomata, K., Niskanen, A.O., Yamamoto, T., Pashkin, Y., Nakamura, Y., Tsai, J. 4/10/2007 In: Nature. 449, p. 588-590. 3 p.
+Journal article
+Parity effect in Al and Nb single electron transistors in a tunable environment
+Savin, A.M., Meschke, M., Pekola, J.P., Pashkin, Y., Li, T.F., Im, H., Tsai, J. 9/08/2007 In: Applied Physics Letters. 91, 6, 3 p.
+Journal article
+Low-frequency charge noise in suspended aluminum single-electron transistors
+Li, T.F., Pashkin, Y., Astafiev, O.V., Nakamura, Y., Tsai, J., Im, H. 16/07/2007 In: Applied Physics Letters. 91, 3, 3 p.
+Journal article
+Characterization of all-Nb nanodevices fabricated by electron beam lithography and ion beam oxidation
+Im, H., Pashkin, Y., Yamamoto, T., Astafiev, O.V., Nakamura, Y., Tsai, J. 03/2007 In: Journal of Vacuum Science and Technology B. 25, 2
+Journal article
+Parity effect in superconducting aluminum single electron transistors with spatial gap profile controlled by film thickness
+Yamamoto, T., Nakamura, Y., Pashkin, Y., Astafiev, O.V., Tsai, J. 22/05/2006 In: Applied Physics Letters. 88, 21, 3 p.
+Journal article
+Temperature Square Dependence of the Low Frequency 1=f Charge Noise in the Josephson Junction Qubits
+Astafiev, O.V., Pashkin, Y., Nakamura, Y., Yamamoto, T., Tsai, J. 7/04/2006 In: Physical Review Letters. 96, 13, 4 p.
+Journal article
+Characterization of ultrasmall all-Nb tunnel junctions with ion gun oxidized barriers
+Im, H., Pashkin, Y., Yamamoto, T., Astafiev, O.V., Nakamura, Y., Tsai, J. 13/03/2006 In: Applied Physics Letters. 88, 11, 3 p.
+Journal article
+Coherent manipulation of coupled Josephson charge qubits
+Pashkin, Y., Yamamoto, T., Astafiev, O.V., Nakamura, Y., Averin, D.V., Tilma, T., Nori, F., Tsai, J. 1/10/2005 In: Physica C: Superconductivity and its Applications. 426-431, 2, p. 1552-1560. 9 p.
+Journal article
+Quantum Noise in the Josephson Charge Qubit
+Astafiev, O.V., Pashkin, Y., Nakamura, Y., Yamamoto, T., Tsai, J. 31/12/2004 In: Physical Review Letters. 93, 26, 4 p.
+Journal article
+Single-shot measurement of the Josephson charge qubit
+Astafiev, O.V., Pashkin, Y., Yamamoto, T., Nakamura, Y., Tsai, J. 1/05/2004 In: Physical Review B. 69, 18, 4 p.
+Journal article
+Nanoscopic magnetic field sensor based on extraordinary magnetoresistance
+Solin, S.A., Hines, D.R., Rowe, A.C.H., Tsai, J., Pashkin, Y. 11/2003 In: Journal of Vacuum Science and Technology B. 21, 6
+Journal article
+Demonstration of conditional gate operation using superconducting charge qubits
+Yamamoto, T., Pashkin, Y., Astafiev, O.V., Nakamura, Y., Tsai, J. 30/10/2003 In: Nature. 425, 6961, p. 941-944. 4 p.
+Journal article
+Tunnel spectroscopy of small Al particle
+Ootuka, Y., Kurosawa, T., Kanda, A., Pashkin, Y., Tsai, J.S. 05/2003 In: Physica E: Low-dimensional Systems and Nanostructures. 18, 1-3, p. 19-20. 2 p.
+Journal article
+Quantum oscillations in two coupled charge qubits
+Pashkin, Y., Yamamoto, T., Astafiev, O.V., Nakamura, Y., Averin, D.V., Tsai, J. 20/02/2003 In: Nature. 421, 6925, p. 823-826. 4 p.
+Journal article
+Nonmagnetic semiconductors as read-head sensors for ultra-high-density magnetic recording
+Solin, S.A., Hines, D.R., Rowe, A.C.H., Tsai, J., Pashkin, Y., Chung, S.J., Goel, N., Santos, M. 27/05/2002 In: Applied Physics Letters. 80, 21, p. 4012-4014. 3 p.
+Journal article
+Superconducting single-Cooper-pair box quantum bit with multi-gate-pulse operation
+Tsai, J.S., Nakamura, Y., Pashkin, Y. 15/02/2002 In: Physica C: Superconductivity and its Applications. 367, 1-4, p. 191-196. 6 p.
+Journal article
+Charge Echo in a Cooper-Pair Box
+Nakamura, Y., Pashkin, Y., Yamamoto, T., Tsai, J. 28/01/2002 In: Physical Review Letters. 88, 4, 4 p.
+Journal article
+Room temperature extraordinary magnetoresistance of nonmagnetic narrow-gap semiconductor/metal composites: application to read-head sensors for ultrahigh-density magnetic recording
+Solin, S.A., Hines, D.R., Tsai, J., Pashkin, Y., Chung, S.J., Goel, N., Santos, M. 01/2002 In: IEEE Transactions on Magnetics. 38, 1, p. 89-94. 6 p.
+Journal article
+Rabi Oscillations in a Josephson-Junction Charge Two-Level System
+Nakamura, Y., Pashkin, Y., Tsai, J. 27/11/2001 In: Physical Review Letters. 87, 24, 4 p.
+Journal article
+Superconducting single-Cooper-pair box as quantum bit
+Tsai, J., Nakamura, Y., Pashkin, Y. 09/2001 In: Physica C: Superconductivity and its Applications. 357-360, 4, p. 1-6. 6 p.
+Journal article
+Room-temperature Al single-electron transistor made by electron-beam lithography
+Pashkin, Y., Nakamura, Y., Tsai, J. 17/04/2000 In: Applied Physics Letters. 76, 16, p. 2256-2258. 3 p.
+Journal article
+Fabrication and characterization of chromium based single-electron transistors with evaporated chromium oxide barrier tunnel junctions
+Pashkin, Y., Pekola, J.P. 07/1999 In: Journal of Vacuum Science and Technology B. 17, 4
+Journal article
+Coherent control of macroscopic quantum states in a single-Cooper-pair box
+Nakamura, Y., Pashkin, Y., Tsai, J. 29/04/1999 In: Nature. 786, p. 786-788. 3 p.
+Journal article
+Implementation of Single-Electron Transistor with Resistive Gate
+Pashkin, Y., Nakamura, Y., Tsai, J.S. 1999 In: Japanese Journal of Applied Physics. 38, 1 B, p. 406-409. 4 p.
+Journal article
+Metallic resistively coupled single-electron transistor
+Pashkin, Y., Nakamura, Y., Tsai, J. 1999 In: Applied Physics Letters. 74, 1, p. 132-134. 3 p.
+Journal article
+Experiments on tunnelling in small normal-metal junctions influenced by dissipative environment: critical comparison to the theories of quantum fluctuations
+Farhangfar, S., Toppari, J.J., Pashkin, Y., Manninen, A.J., Pekola, J.P. 18/05/1998 In: EPL. 43, 1
+Journal article
+Observation of thermally excited charge transport modes in a superconducting single-electron transistor
+Manninen, A.J., Pashkin, Y., Korotkov, A.N., Pekola, J.P. 27/06/1997 In: EPL. 39, 3
+Journal article
+An all-chromium single electron transistor: a possible new element of single electronics
+Kuzmin, L.S., Pashkin, Y., Tavkhelidze, A.N., Ahlers, F., Weimann, T., Quenter, D., Niemeyer, J. 1996 In: Applied Physics Letters. 68, 20
+Journal article
+Linewidth of Bloch oscillations in small Josephson junctions
+Kuzmin, L., Pashkin, Y., Zorin, A., Claeson, T. 12/1994 In: Physica B: Condensed Matter. 203, 3-4, p. 376-380. 5 p.
+Journal article
+Measurement of the superconducting single electron transistor in a high impedance environment
+Haviland, D.B., Pashkin, Y., Kuzmin, L.S. 12/1994 In: Physica B: Condensed Matter. 203, 3-4, p. 347-353. 7 p.
+Journal article
+
+
+
+Back to listing
+Contact Details
+Department: Physics
+Office: A022, A - Floor, Physics Building
+Tel: +44 (0)1524 593268
+y.pashkin@lancaster.ac.uk
+Home
+About Us
+Undergraduate
+Postgraduate
+Research
+School & Outreach
+Sitemap
+University Home Page
+Feedback / Report a problem
+Contact Us
+Physics Department
+Lancaster University
+Lancaster
+United Kingdom
+LA1 4YB
+physics@lancaster.ac.uk
+Contact numbers
++44 (0)1524 593079
+^ Back to top
+Legal notice
+Freedom of Information
+Privacy and Cookies Notice
+Copyright © 2006-2017 Lancaster University

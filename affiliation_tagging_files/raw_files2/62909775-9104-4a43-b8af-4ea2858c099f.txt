@@ -1,0 +1,127 @@
+###AuthorName=King-Ning Tu
+###AuthorTitle=Professor
+###Affiliation=Department of Materials Science and Engineering
+###Position=
+##############################
+ABOUT
+NEWS
+EVENTS
+ACADEMICS
+RESEARCH
+PEOPLE
+RESOURCES
+King-Ning Tu
+Professor King-Ning Tu
+Tel. (310) 206-4838
+FAX (310) 206-7353
+Email: kntu@ucla.edu
+Professor; B.S., National Taiwan University; M.S., Brown University; Ph.D. in Applied Physics, Harvard University (1968).  From 1968 to 1993, he spent 25 years at IBM T. J. Watson Research Center as Research Staff Member in Physical Science Department.  During that period, he also served as Senior Manager of Thin Film Science Department and Materials Science Department for 10 years.  In September 1993, he joined the Dept. of Materials Science and Engineering at UCLA as full professor.   He is now a distinguished professor in both Department of Materials Science and Engineering and Department of Electrical Engineering at UCLA.  He is a Fellow of American Physical Society (APS), The Metallurgical Society (TMS), Materials Research Society (MRS), and an Overseas Fellow of Churchill College, Cambridge University, UK .   He was president of MRS in 1981.  He is an academician of Academia Sinica, Republic of China, elected in 2002.  He received the 2013 John Bardeen Award of TMS.  He has over 500 journal publications with citations over 18,000 and h-factor of 74.
+Research Interests
+Our research interest is in wafer-based and flux-driven materials science. Modern microelectronic and opto-electronic devices are built on wafers, involving the growth or removal of mono-layers of atoms from the wafer surface or from an inter-phase interface. We deal with open systems having a constant wafer surface or interface, and the flux can be atoms, charges, or energy beams.
+Our major research areas are (1) Lead (Pb)-free solder metallurgy and Cu-to-Cu direct bonding for 3D IC packaging technology in consumer electronic products, (2) Advanced materials reliability problems of microelectronic devices caused by irreversible processes, and (3) Nanoscale interdiffusion and reactions.
+Areas of Dissertation Guidance
+Nanoscale kinetic processes,  metal-silicon interfaces,  electromigration,  Pb-free interconnects,  Cu-to-Cu direct bonding.
+Recent Publications
+Journal papers
+Kai Chen, N. Tamura, Wei Tang, M. Kunz, Yi-Chia Chou, K. N. Tu, and Yi-Shao Lai, “High precision thermal stress study on flip chips by synchrotron polychromatic X-ray microdiffraction,” J. App. Phys., 107, 063502 (2010).
+S. W. Liang, Chih Chen, J. K. Han, Luhua Xu, K. N. Tu, and Yi-Shao Lai, “Blocking hillock and whisker growth by intermetallic compound formation in Sn-0.7Cu flip chip solder joints under electromigration,” J. Appl. Phys. 107, 093715 (2010).
+Zhengzheng Chen, Nicholas Kioussis, K. N. Tu, Nasr Ghoniem, and Jenn-Ming Yang, “Inhibiting adatom diffusion through surface alloying,” Phys. Rev. Lett., 105, 015703 (2010).
+Chih Chen, H. M. Tong, and K. N. Tu, “Electromigration and thermomigraion in Pb-free flip chip solder joints,” Annual Rev. Mater. Res., 40, 531-555 (2010).
+W. W. Wu, K. C. Lu, C. W. Wang, H. Y. Hsieh, S. Y. Chen, Y. C. Chou, S. Y. Yu, L. J. Chen, and K. N. Tu, “Growth of multiple metal/semiconductor nanoheterostructures through point and line contact reactions,” Nano Lett., 10(10), 3984-3989 (2010).
+Xioa-NingGuo, Ru-Jing Shang, Dong-Hua Wang, Guo-Qiang Jin, and Xiang-YunGuo, and K. N. Tu, “Avoiding loss of catalytic activity of Pd nanoparticles partially embedded in nanoditches in SiCnanowires,” Nanoscale Res. Lett. 5:332-337 (2010).
+Kuan-Chia Chen, Wen-Wei Wu, Chien-Neng Liao, Lih-Juann Chen, and K. N. Tu, “Stability of nanoscale twins in copper under electric current stressing,“ J. Appl. Phys., 108, 066103 (2010).
+Yi-Chia Chou, Kuo-Chang Lu, and K. N. Tu, “Nucleation and growth of epitaxial silicide in silicon nanowires,” Materials Science and Engineering: R: Reports, Vol. 70, pp. 112-125 (2010).
+A. O. Kovalchuk, A. M. Gusak, and K. N. Tu, “Theory of repeating nucleation in point contact reactions between nanowires,”  Nano Lett., 10(12), 4799-4806 (2010)
+Yi-Chia Chou, Wen-Wei Wu, Chung-Yang Lee, L. J. Chen, and K. N. Tu, “Heterogeneous and homogeneous nucleation of epitaxial NiSi2 in [110] Si nanowires,” J. Phys. Chem. C, 115, 397-401 (2011).
+K. N. Tu, “Reliability challenges in 3D IC packaging technology,” Microelectronics Reliability, 51, 517-523 (2011).
+J. O. Suh, K. N. Tu, Albert T. Wu, and N. Tamura, “Preferred orientation relationships with large misfit interfaces between Ni3Sn4 and Ni in reactive wetting of eutectic SnPb on Ni,” J. Appl. Phys. 109, 123513 (2011).
+Kuo-Chang Lu, Wen-Wei Wu, HaoOuyang,  Yung-Chen Lin, Yu Huang, Chun-Wen Wang; Zheng-Wei Wu, Chun-Wei Huang; Lih-Juann Chen, and K. N. Tu, “The Influence of Surface Oxide on the Growth of Metal/Semiconductor Nanowires,” NanoLett., 11(7), 2753-2758 (2011)
+TianTian, Kai Chen, A. A. MacDowell, Dula Parkinson, Yi-Shao Lai, and K. N. Tu, “Quantitative x-ray microtomography study of 3D void growth induced by electromigration in eutectic SnPb flip-chip solder joints,” Script Mat. 65, 646-649 (2011).
+TianTian, FengXu, Jung Kyu Han, DaechulChoi, Yin Cheng, LuksaHelfen, Marco Di Michiel, TiloBaumbach, and K. N. Tu, “ Rapid diagnosis of electromigration induced failure time of Pb-free flip chip solder joints by high resolution synchrotron radiation laminography,”  Appl. Phys. Lett., 99, 082114 (2011).
+Hsiang-Yao Hsiao, Chih-Chia Hu, Ming-Yung Guo, Chih Chen, and K.N. Tu, “To inhibit the consumption of Cu during multiple reflows of Pb-free solder on Cu,” Scripta Mater. 65, 907-910 (2011).
+Jung-Kyu Han, Daechul Choi, Masaru Fujiyoshi, Nobuhiko Chiwata, K. N. Tu, “Current density redistribution from no current crowding to current crowding in Pb-free solder joints with an extremely thick Cu layer,” Acta Mater., 60, 102 (2012).
+Y.S. Huang, H.Y. Hsiao, Chih Chen, K.N. Tu, “The effect of a concentration gradient on interfacial reactions in microburaps of Ni/SnAg/Cu during liquid-state soldering,” Scripta Mater., 66, 741 (2012).
+Hsiang-Yao Hsiao, Chien-Min Liu, Han-wen Lin, Tao-Chi Liu, Chia-Ling Lu, Yi-Sa Huang, Chih Chen, K. N. Tu, “Unidirectional Growth of Microbumps on (111)-Oriented and Nanotwinned Copper,” Science, 336, 1007 (2012).
+Wei Tang, Shadi A. Dayeh, S. Tom Picraux, Jian Yu Huang, K. N. Tu, “Ultrashort Channel Silicon Nanowire Transistors with Nickel Silicide Source/Drain Contacts,” Nano Lett., 12, 3979 (2012).
+Chih Chen, Hsiang-Yao Hsiao, Yuan-Wei Chang, FanyiOuyang, K.N. Tu, “Thermomigration in solder joints,” Mater. Sci. Eng., R., 73, 85 (2012).
+Fan-Yi Ouyang, K.N. Tu, Yi-Shao Lai, “Effect of electromigration induced joule heating and strain on microstructural recrystallization in eutectic SnPb flip chip solder joints,” Mater. Chem. Phys., 136, 210 (2012).
+Ming-Yung Guo, C.K. Lin, Chih Chen, K.N. Tu, “Asymmetrical growth of Cu6Sn5 intermetallic compounds due to rapid thermomigration of Cu in molten SnAg solder joints,” Intermetallics., 29, 155 (2012).
+K. N. Tu, Hsiang-Yao Hsiao, and Chih Chen, “Transition from flip chip solder joint to 3D IC microbump:  Its effect on microstructure anisotropy,” Microelectronics Reliability, 53, 2-6 (2013).
+Y. C. Liang, H. W. Lin, H. P. Chen, C. Chen, K. N. Tu, and Y. S. Lai, “Anisotropic grain growth and crack propagation in eutectic microstructure under cyclic temperature annealing in flip chip SnPb composite solder joints,” Scripta Mat., 69, 25-28 (2013).
+Han-wen Lin, Jia-ling Lu, Chen-min Liu, Chih Chen, Delphic Chen, Jui-Chao Kuo , and K. N. Tu, “Microstructure control of uni-directional growth of η-Cu6Sn5 in microbumps on <111> oriented and nanotwinned Cu” Acta Mat., 61, 4910-4919 (2013).
+K. N. Tu and Tian Tian, “Metallurgical challenges in microelectronic 3D IC packaging technology for future consumer electronic products,” Science China – Technological Sciences, 56, No. 7, 1740-1748 (2013).
+Shadi A. Dayeh, Wei Tang , Francesca Boioli, Karen L. Kavanagh, He Zheng , Jian Wang, Nathan H. Mack, Greg Swadener, Jian Yu Huang , Leo Miglio, K. N. Tu, and S. Tom Picraux, “ Direct Measurement of Coherency Limits for Strain Relaxation in Heteroepitaxial Core/Shell Nanowires,” Nano Letters, 13, 1869-1876 (2013).
+Wei Tang, S. Tom Picraux, Jian Yu Huang, Andriy Gusak, K. N. Tu, and Shadi A. Dayeh, “Nucleation and Atomic Layer Reaction in Nickel Silicide for Defect-engineered Si Nanochannels” Nano Lett., 13, 2748-2753 (2013).
+K. N. Tu, and Wei Tang, “Metallurgical microstructure control in metal-silicon reactions,” Science China – Technological Sciences, 57, 505-519 (2014).
+Chien-Min Liu. Han-wen Lin, Yi-Cheng Chu, Chih Chen, Dian-RongLyu, Kuan-NengChen,and K. N. Tu, “Low temperature direct copper-to-copper bonding enabled by creep on highly (111)- oriented Cu surfaces, “ Scripta Mat. 78-79, 65-68 (2014).
+Books
+King-Ning Tu, James W. Mayer, and Leonard C. Feldman, “Electronic Thin Film Science”, 428 pages, Macmillan, 1992, ISBN 0-02-42575-9.
+King-Ning Tu, “Solder Joint Technology: Materials, properties, and reliability“, 368 pages, Springer, 2007. ISBN – 13: 978-0-387-38890-8.
+King-Ning Tu, “Electronic Thin Film Reliability”, 396 pages, Cambridge University Press, 2011. ISBN – 978-0-521-51613-6.
+King-Ning Tu and Andriy M. Gusak, “Kinetics in Nanoscale Materials”, 296 pages, Wiley, 2014.
+Awards and Honors
+American Physical Society – Fellow, 1981
+The Metallurgical Society – Fellow, 1988
+Materials Research Society – Fellow, 2010
+Churchill College – Overseas Fellow, 1990
+Materials Research Society – President, 1981
+The Metallurgical Society – Application to Practice Award, 1988
+Acta/Scripta Metallurgica Lecturer, 1990 – 1992
+Humboldt Research Award for Senior US scientists, 1996
+Advisory Professor (life-time) at Fudan University, Shanghai, China, since 1997
+Member of Academia Sinica, ROC, 2002
+Tan Kah Kee Visiting Professorship at Nanyang Tech. Uni., Singapore, 2002
+The Royal Society/Kan Tong Po Visiting Professorship at City U of Hong Kong, 2002
+TMS Electronic, Magnetic, and Photonic Materials Division Distinguished Scientist Award, 2007
+John Bardeen Award of EMPMD/TMS, 2013
+K. T. Li Chair Professor Award at National Cheng Kung University and at National Central University, Taiwan, 2008.
+Chair Professor at Department of Materials Science and Engineering in the following universities in Taiwan;  National Taiwan University, National Central University, National Tsing Hua University, National Chiao Tung University, National Chung Hsing University, National Cheng Kung University.
+Professional Activities
+Organizer and Co-Chairman, TMS Symposia
+10/72 Advance in Amorphous-to-Crystalline Phase Transformations, Cleveland
+11/75 Interfacial Reactions in Solids, Cincinnati
+10/77 Diffusion Studies in thin Films, Chicago
+10/78 Diffusion, Phase Transformations and Deformation in Low-Melting Point Metals, St. Louis
+09/79 Thin-film Microstructure and Properties, Milwaukee
+02/96 Materials and Technologies for Microelectronics, Anaheim
+02/97 Electrically Conductive Materials, Orlando
+Organizer and Co-Chairman, MRS Symposia
+11/79 Semiconductor Interfaces, Cambridge
+11/81 Thin Films and Interfaces, Boston
+11/84 Electronic Packaging Materials Science, Boston
+11/85 Phase Transformations in Condensed Systems – Experiments and Theory, Boston
+11/87 Poly-Si Films and Interfaces, Boston
+11/93 Silicide, Germanide and their Interfaces, Boston
+04/94 Advanced Metallization for VLSI, San Francisco
+04/95 Electronic Packaging Materials Science VIII, San Francisco
+04/96 Advanced Metallization for future ULSI, San Francisco
+04/98 Advanced Interconnects and Contacts, San Francisco
+Other Activities
+Society Committee Membership
+11/80 Program Co-Chairman, Annual Meeting of MRS, Boston
+10/89 Program co-chairman, the 2nd International Conference on Solid State and Integrated Circuit Technology, Beijing, China (did not attend the Conference)
+10/92 Member, International Advisory Committee, the 3rd International Conference on Solid State and Integrated Circuit Technology, Beijing, China
+10/98 Program co-Chairman, the 5th International Conference on Solid State and Integrated Circuit Technology, Beijing, China
+1982-1983 Chair, Long-Range Planning Committee, MRS
+1999-2000 Chair, TMS Fellow Award Committee
+2002-2004 Chair, Executive Committee of UC-SMART Program
+Courses Taught
+MSE 130  Phase Relations in Solids
+MSE 131  Diffusion and Diffusion-Controlled Reactions
+MSE 131L  Diffusion and Diffusion-Controlled Reactions Laboratory
+MSE 201  Principle of Materials Science (Solid State phase changes)
+MSE 223  Thin Film Materials Science
+Course Descriptions
+Links
+Personal Homepage: www.seas.ucla.edu/eThinFilm/professor.html
+Research Group/Lab: Electronic Thin Film Lab
+Office Location
+3121-D Engineering V
+Mailing Address
+UCLA, HSSEAS School of Engineering & Applied Sciences
+Department of Materials Science and Engineering
+410 Westwood Plaza
+3111 Engineering V
+Los Angeles, CA 90095-1595
+UCLA    HSSEAS    Terms of Use    Contact Us    Emergency/Lab Safety    Accessibility    Sitemap    
+© Copyright 2017 UCLA Engineering

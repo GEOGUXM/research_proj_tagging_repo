@@ -1,0 +1,99 @@
+###AuthorName=Djuro Mirkovic
+###AuthorTitle=PhD
+###Affiliation=
+###Position=PhD Candidate
+##############################
+Swinburne Home
+Courses
+Faculties & Departments
+International
+Campuses
+Research
+Staff
+Current Students
+Search
+Index
+Centre closure
+As part of a broader organisational restructure, data networking research at Swinburne University of Technology has moved from the Centre for Advanced Internet Architecture (CAIA) to the Internet For Things (I4T) Research Lab.
+Although CAIA no longer exists, this website reflects CAIA's activities and outputs between March 2002 and February 2017, and is being maintained as a service to the broader data networking research community.
+General CAIA Links
+CAIA
+News
+FAQ
+Seminars
+Funding Sources
+Contact Us
+Research
+Published Papers
+Technical Reports
+External Talks
+Tools
+Current Programs
+Project Ideas
+External Impact
+Capability Statement (pdf)
+People
+Staff and Visitors
+Scientific Advisory Board
+Expert Consulting
+Collaboration
+Jobs
+Scholarships
+Undergraduate Internships
+Other
+SSEE Home
+FSET Home
+Djuro Mirkovic
+
+Tel:+61 3 9214  8808
+Email: dmirkovic@swin.edu.au
+Position: PhD Candidate (Australian Postgraduate Award (APA))
+Qualifications: Bachelor of Engineering (Telecommunications and Network Engineering) First Class Honours / Bachelor of Science (Computer Science and Software Engineering) First Class Honours, Swinburne University of Technology, Melbourne, Australia, 2014.
+
+
+Work Experience:
+2016: Research Engineer at CAIA
+2014: Research Assistant at CAIA
+2013 Winter: Research Intern at CAIA
+2012/2013 Summer: Research Intern at CAIA
+
+Teaching Experience:
+2016 Semester 2: TNE30019 Unix for Telecommunications / TNE80014 Unix for Telecommunications (Lecturer)
+2016 Semester 2: TNE10003 Professional Skills - Electrical Engineering (Lab Demonstrator)
+2016 Semester 1: TNE40001 Broadband Multimedia Networks / TNE80003 Broadband Multimedia Networks (Tutor and Lab Demonstrator)
+2015 Semester 2: TNE30019 Unix for Telecommunications / TNE80014 Unix for Telecommunications (Tutor and Lab Demonstrator)
+2015 Semester 1: TNE30019 Unix for Telecommunications / TNE80014 Unix for Telecommunications (Tutor)
+2015 Semester 1: TNE40001 Broadband Multimedia Networks / TNE80003 Broadband Multimedia Networks (Tutor and Lab Demonstrator)
+Research Projects:
+
+      Current
+Improved Internet application performance and resource allocation through the use of Network Coordinate Systems      
+      Previous
+Performance testing of Homenet3D v0.3
+Performance testing of Homenet3D v0.2
+Realtime VoIP Classification and Redirection
+Characterising the Statistics of Border Gateway Protocol (BGP) Behaviour      
+Research Interests:
+Network Coordinate Systems
+VoIP Classification and Redirection
+Identifying statistical markers for anomalous BGP behaviour
+Project Supervisors:
+Principal Coordinating: Prof. Grenville Armitage
+Coordinating: A. Prof. Philip Branch
+Talks/Seminars:
+CAIA Seminar 2015   (Slides)
+CAIA Seminar 2014
+CAIA Seminar 2013   (Slides)
+Conference Demos
+Jason But, Philip Branch and Djuro Mirkovic.
+Concurrent use of WiFi channels to provide QoS
+38th Annual IEEE Conference on Local Computer Networks (LCN 2013), 22 October 2013 (199.6kB).
+Technical Reports
+Shahana Cumaranayagam and Djuro Mirkovic.
+Impact of insufficient TCP receive window on bulk data transfers in home broadband environments
+CAIA Technical report 160923A, 23 September 2016 (701.2kB). bibtex
+Djuro Mirkovic and Philip Branch.
+Setup of a BGP Feed using Quagga
+CAIA Technical report 130911A, 11 September 2013 (225.1kB). bibtex
+© Swinburne | CRICOS number 00111D | Contact Us | Copyright and disclaimer | Privacy; | Feedback | Accessibility Information | - Smaller Font | + Larger Font
+Last Updated: Thursday 10-Nov-2016 15:25:43 AEDT | Maintained by: CAIA TEMPLATE (TEMPLATE@swin.edu.auxx) | Authorised by: Grenville Armitage (garmitage@swin.edu.au)

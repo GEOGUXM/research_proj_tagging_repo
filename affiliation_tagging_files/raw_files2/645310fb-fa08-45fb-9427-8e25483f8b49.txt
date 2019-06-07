@@ -1,0 +1,93 @@
+###AuthorName=I. Cevdet Noyan
+###AuthorTitle=Chair
+###Affiliation=Materials Science and Engineering
+###Position=Chair and Professor
+##############################
+Skip to Navigation
+Columbia University Home |
+Directory
+APAM: Material Science & Engineering Program
+OVERVIEW
+ACADEMICS
+RESEARCH
+NEWS & EVENTS
+PEOPLE
+RESOURCES
+Search this site:
+I. Cevdet Noyan, Chair
+APAM Chair and Professor of Materials Science and Engineering and of Earth and Environmental Engineering
+Materials Science and Engineering
+208 & 1120 S.W. Mudd
+Mail Code: 4701
+New York, NY 10027
+Phone: 1-212-854-8919
+Email: icn2@columbia.edu
+Research Specialty
+characterization and modeling of mechanical and micromechanical deformation; residual stress analysis and nondestructive testing; x-ray and neutron diffraction, microdiffraction analysis
+Education
+Northwestern University, Materials Science & Eng, Ph.D. 1984
+Biography
+I. Cevdet Noyan has been studying the mechanical response of crystalline materials over various length scales using diffraction since 1978. He was one of the first researchers to combine the theory of micromechanics with that of x-ray and neutron diffraction. He and his group develop x-ray and neutron characterization techniques for non-destructive analysis of structures, with applications spanning suspension bridge cables, integrated circuits, and nanostructures. Prof. Noyan and his co-workers also work on the theory of scattering, with particular emphasis on defining the information volumes from which diffraction data are measured, and quantification of the uncertainties associated with such data.
+Noyan received his Ph.D. in Materials Science & Engineering from Northwestern University in 1984. His early research work was at IBM, where he received two IBM Outstanding Technical Achievement Awards for research and development of computer and packaging structures, an IBM Research Division Award for research on diffusion barriers, and 11 IBM Invention Plateaus for filed patents. He is also coauthor of the monograph, Residual Stress: Measurement by Diffraction and Interpretation (Materials Research and Engineering).
+Prof. Noyan is a member of the organizing committee of the Denver X-ray Conference and co-editor of the Advances in X-Ray Analysis. He is a fellow of the American Physical Society, received the Blackall Machine Tool and Gage Award from the American Society of Mechanical Engineers in 2006, and received the International Centre for Diffraction Data’s 2015 Jenkins Lifetime Achievement Award, the most prestigious honor for scientists who advance the use of x-rays in materials analysis.
+Professional Experience
+Columbia University, New York, NY
+APAM Department Chair (July 2012 - Present)
+Professor of Materials Science and Engineering (2004 - Present)
+Adjunct Professor (1985 - 2004)
+International Business Machines Corporation, Yorktown Heights, NY
+Research Consultant (2004 - Present)
+Research Staff Member (1985 - 2004)
+Northwestern University, Evanston, IL
+Postdoctoral Researcher (1983 - 1985)
+Recent Patents and Publications
+
+“High-Strength Wires for Structural Cables”, Docket P9253US00, Noyan, I.C, Duby P. F, Betti R, Brugger
+A, (pending)
+“Sampling statistics of diffraction from nanoparticle powder aggregates” K. Ozturk, H, HF Yan, J.P. Hill, IC Noyan, Journal Of Applied Crystallography, 47, 1016-1025 (2014)
+“Measurement of Interface Thermal Resistance with Neutron Diffraction “, Seung-Yub Lee, Harley Skorpenske, Alexandru D. Stoica, Ke An, Xun-Li Wang, I. C. Noyan, Journal of Heat Transfer, , 136 031302, (2014).
+"Vertical correlation and miniband formation in submonolayer Zn(Cd)Te/ZnCdSe type-II quantum dots for intermediate band solar cell application”, S. Dhomkar, U. Manna, I.C. Noyan, M. Tamargo, I. L. Kuskovsky, APL 103, 181905 (2013).
+"Feasibility of submonolayer ZnTe/ZnCdSe quantum dots as intermediate band solar cell material systems”, S. Dhomkar, U.Manna, L. Peng, R. Moug, I.C. Noyan, M. Tamargo, I. L. Kuskovsky, Solar Energy Materials And Solar Cells, 117, 604-609, (2013)
+“Evolution of strain energy during recrystallization of plated Cu films”, Conal E. Murray, Robert Rosenberg , Christian Witt, Mikhail Treger, I.C. Noyan, JAP, 113 203515, (2013).
+“Characterization of Room Temperature Recrystallization Kinetics in Electroplated Copper Thin Films with Concurrent X-ray Diffraction and Electrical Resistivity Measurements”, Mikhail Treger, Christian Witt, Cyril Cabral, Conal Murray, Jean Jordan-Sweet, Robert Rosenberg, Eric Eisenbraun, I.C. Noyan, JAP, 113 214904 (2013)
+“Probing strain at the nanoscale with X-ray diffraction in microelectronic materials induced by stressor elements”, C.E. Murray, S. Polvino, I.C. Noyan, Z. Cai, M. Holt, J. Maser, Thin Solid Films. 530, 85–90 (2013).
+"Optimization of growth conditions of type-II Zn(Cd)Te/ZnCdSe submonolayer quantum dot superlattices for intermediate band solar cells”, S. Dhomkar, I. L. Kuskovsky, U. Manna, I.C. Noyan, M. Tamargo, J. Vac. Sci. Technol. B, Vol. 31, No.3, (2013)
+"Neutron diffraction measurements of stress redistribution in parallel seven-wire strands after local fracture”, F. Mei, I. C.Noyan, A. Brugger, R. Betti, B. Clausen, D. Brown, T. Sisneros, Experimental Mechanics, 53 pp. 183-193 (2013).
+“Applied and Residual Stress Determination Using X-ray Diffraction”, C.E. Murray, I.C. Noyan, in “Practical
+Residual Stress Measurement Methods”, pp. 139-161, G. Schajer, Ed., John Wiley & Sons, (2013)
+Evolution of strain energy during recrystallization of plated Cu films, C. Murray, R. Rosenberg, C. Witt, M. Treger, and I. C. Noyan, J. Appl. Phys. 113, 203515, (2013)
+Characterization of room temperature recrystallization kinetics in electroplated copper thin films with concurrent x-ray diffraction and electrical resistivity measurements, M. Treger, C. Witt, C. Cabral, C. Murray, J. Jordan-Sweet, R. Rosenberg, E. Eisenbraun, and I. C. Noyan, J. Appl. Phys. 113, 214904 (2013)
+Optimization of growth conditions of type-II Zn(Cd)Te/ZnCdSe submonolayer quantum dot superlattices for intermediate band solar cells, S. Dhomkar, I. Kuskovsky, U. Manna, I.C. Noyan, M. Tamargo, Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures, 31:3:03C119,03C119-7 (2013)
+Neutron Diffraction Measurement of Stress Redistribution in Parallel Seven-Wire Strands after Local Fracture, F. Mei, I. C. Noyan, A. Brügger, R. Betti, B. Clausen, D. Brown, T. Sisneros, Experimental Mechanics, 53:2:183-193 (2013)
+Structural properties and spatial ordering in multilayered ZnMgTe/ZnSe type-II quantum dot structures, U. Manna, I.C. Noyan, Q. Zhang, I.F. Salakhutdinov, K.A. Dunn, S.W. Novak, R. Moug, M.C. Tamargo, G.F. Neumark, I.L. Kuskovsky, Journal of Applied Physics, 111:3: 033516, 033516-7 (2012)
+Nanoscale silicon-on-insulator deformation induced by stressed liner structures, Conal E. Murray, A. Ying, S. M. Polvino, I. C. Noyan, M. Holt, and J. Maser, J. Appl. Phys. 109, 083543, (2011)
+Measurement of Strain/Load Transfer in Parallel Seven-wire Strands with Neutron Diffraction, I. C. Noyan, A. Brügger, R. Betti and B. Clausen, Experimental Mechanics 50, 265-272, (2010)
+Modeling of kinematic diffraction from a thin silicon film illuminated by a coherent, focused X-ray nanobeam, A. Ying, B. Osting, I. C. Noyan, C. E. Murray, M. Holt and J. Maser, J. Appl. Cryst. 43, 587-595, (2010)
+Nanoscale strain characterization in microelectronic materials using X-ray diffraction, Conal E. Murray, A. J. Ying, S. M. Polvino, I. C. Noyan, Z. Cai, Journal: Powder Diffraction, Vol. 25, No. 2, (2010)
+A rigorous comparison of X-ray diffraction thickness measurement techniques using silicon-on-insulator thin films, A. J. Ying, C. E. Murray and I. C. Noyan, J. Appl. Cryst. 42, 401ñ410, (2009)
+Strain measured in a silicon-on-insulator, complementary metal-oxide-semiconductor device channel induced by embedded silicon-carbon source/drain regions, C. E. Murray, Z. Ren, A. Ying, S. M. Polvino, I. C. Noyan, and Z. Cai,
+App. Phys. Lett. 94, 063502, (2009)
+Applicability of real-space methods to diffraction strain measurements in single crystals, O. Kalenci and I. C. Noyan, J. Appl. Cryst. 944-949, (2008)
+Submicron mapping of strained silicon-on-insulator features induced by shallow-trench-isolation structures. Conal E. Murray, M. Sankarapandian, S. M. Polvino, I. C. Noyan, B. Lai, and Z. Cai, Appl. Phys. Lett. 90, 171919, (2007)
+Diffraction profiles of elastically bent single crystals with constant strain gradients, Hanfei Yan, Ozgur Kalenci and I. C. Noyan, Journal of Applied, Crystallography, 322-333, (2007)
+Mapping local strain in thin film/substrate systems using x-ray microdiffraction topography, Hanfei Yan, Conal E. Murray, and I. C. Noyan, Appl. Phys. Lett. 90, 091918, (2007)
+Dynamical diffraction peak splitting in time-of-flight neutron diffraction, E. Üstündag, R. A. Karnesky, M. R. Daymond, and I. C. Noyan, Appl. Phys. Lett. 89, 233515, (2006)
+Measurement of stress/strain in single-crystal samples using diffraction, Yan, H. & Noyan, I. C.. J. Appl. Cryst. 39, 320–325, (2006)
+Thermal stress evolution in embedded Cu/low-k dielectric composite features, Conal E. Murray, Charles C. Goldsmith, Thomas M. Shaw, James P. Doyle, and I. C. Noyan, Appl. Phys. Lett. 89, 011913, (2006).
+Structure of Zn–Se–Te system with sub-monolayer insertion of ZnTe grown by migration enhanced epitaxy, Y. Gong, Hanfei F. Yan, I. L. Kuskovsky, Y. Gu, I. C. Noyan, G. F. Neumark, and M. C. Tamargo, J. Appl. Phys. 99, 064913, (2006)
+Mechanism for increasing dopant incorporation in semiconductors via doped nanostructures, Igor L. Kuskovsky, Y. Gu, 2, Y. Gong, H. F. Yan, J. Lau, I. C. Noyan, G. F. Neumark, O. Maksimov, X. Zhou, M. C. Tamargo, V. Volkov, Y. Zhu, and L. Wang, Phys. Rev. B 73, 195306, (2006)
+Dynamical diffraction artifacts in Laue microdiffraction images, H.F Yan and I.C. Noyan, J. App. Phys. 98 (7), (2005)
+Mechanics of end effects in thin film and substrate stress distributions, C.E. Murray and I.C. Noyan, Mat. Sci. Forum 490-491: 13-18, (2005)
+Flexural loading of rectangular Si beams and plates, S.K. Kaldor, I.C. Noyan, Mat. Sci. & Eng., A- 399, (1-2): 64-71, (2005)
+Spatially transient stress effects in thin films by X-ray diffraction, C.E. Murray, C.C. Goldsmith, I.C. Noyan, Power Difraction, 20 (2): 112-116, (2005)
+Fourier analysis of X-ray micro-diffraction profiles to characterize laser shock peened metals, H.Q. Chen, Y.L. Yao, J.W. Kysar, I.C. Noyan, Y.N. Wang, Int. J. Solids and Structures, 42 (11-12): 3471-3485, (2005)
+High-resolution strain mapping in heteroepitaxial thin-film features, C.E. Murray, H.F. Yan, I.C. Noyan, Z. Cai, B. Lai, J. App. Phys. 98 (1), (2005)
+
+ CALENDAR
+ CONTACT
+ NEWS
+GIVINGSITE FEEDBACKWEBMASTER
+
+500 W. 120th St., Mudd 200, MC 4701 New York, NY 10027 / Phone: 212-854-4457 / Fax: 212-854-8257 / Email: apam@columbia.edu
+
+©2012 Columbia University

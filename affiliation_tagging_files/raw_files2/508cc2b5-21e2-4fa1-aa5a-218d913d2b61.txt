@@ -1,0 +1,44 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Extreme Statistics Research Group
+Home
+People
+Publications
+Teaching
+Workshop Nov 12-15
+Links
+News
+Openings
+Contact Us
+People
+Home > People
+Principal Investigator
+Raphaël Huser
+Assistant Professor of Statistics
+Research Interest: Extreme-Value Theory and Statistics, Computational Statistics, Composite Likelihoods, Likelihood-based Inference, Spatio-Temporal Statistics, Environmental Statistics, Methods for large datasets
+raphael.huser@kaust.edu.sa
+Postdoctoral Fellows
+Daniela Andrea Castro Camilo
+Ph.D., 2015, Pontificia Universidad Catolica de Chile
+Research Interest: Extreme-Value Theory and Statistics, Computational Statistics
+daniela.castro@kaust.edu.sa
+Luigi Lombardo
+Ph.D., 2015, Universita’ degli Studi di Palermo, Palermo, Italy
+Research Interest: Environment modeling, Environmental Statistics
+Luigi.lombardo@kaust.edu.sa
+PhD Students
+Sabrina Vettori
+M.Sc., 2013, Università degli Studi di Padova
+Research Interest: Extreme-Value Theory and Statistics, Spatio-Temporal Statistics
+sabrina.vettori@kaust.edu.sa
+Masters Students
+Yan Gong
+B.Sc., 2016, Xi'an Jiaotong University, China
+yan.gong@kaust.edu.sa
+Zhuldyzay Baki
+B.Sc., 2016, Nazarbayev University, Kazakhstan
+zhuldyzay.baki@kaust.edu.sa
+© 2017 King Abdullah University of Science and Technology. All rights reserved.|Team Site

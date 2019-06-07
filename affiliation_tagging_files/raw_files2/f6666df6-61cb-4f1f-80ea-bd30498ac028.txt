@@ -1,0 +1,69 @@
+###AuthorName=Mark Does
+###AuthorTitle=Professor
+###Affiliation=School of Engineering
+###Position=Director
+##############################
+Vanderbilt University School of Engineering
+Page Navigation
+Education
+Ph.D., Biomedical Engineering
+University of Alberta
+M.S., Electrical Engineering
+University of Alberta
+B.S., Electrical Engineering
+University of Alberta
+Contact Information
+Email
+Website
+615-322-8352
+AAA-3125 MCN
+VU Mailbox: PMB 351631, Nashville, TN 37235-1631 USA
+Mark Does
+Professor of Biomedical Engineering
+Professor of Radiology and Radiological Sciences
+Professor of Electrical Engineering
+Director of Graduate Studies in Biomedical Engineering
+Biomedical Engineering
+Electrical Engineering and Computer Science (secondary)
+Intellectual Neighborhoods
+Surgery and Engineering
+Biomedical Imaging and Biophotonics
+Research Focus
+The Does lab is motivated by development, evaluation, and application of magnetic resonance imaging (MRI) methods for characterizing tissue microstructure, composition, and function. To this end, we develop novel MRI pulse sequences and analysis methods; evaluate and apply methods in studies of humans and small animal models of disease/injury/abnormal development; and develop and utilize statistical methods and computational models to predict and explain MRI contrast in tissues.
+Current Projects:
+Model development and experimental evaluation of MRI methods for characterizing white matter microstructure and composition. MRI is a powerful research tool for studying neuronal microstructure in small animal models of human disease/injury. Appropriate acquisition and analysis methods can provide high resolution, 3D maps of, for example, myelin volume fraction, mean axon diameter, and fiber g-ratio. However, the utilization of many MRI methods has been limited by local availability of suitable expertise to design and implement the imaging protocols and a lack of independent validation studies. This project aims to develop, validate, standardize and share novel and state-of-the-art tools to permit MRI for routine use in the study of small animal neuronal microstructure.
+Development and application of ultra-short echo (UTE) MRI methods for evaluating bone fracture risk in patients with osteoporosis and other conditions that result in bone fragility. Current methods for diagnostic imaging of bone are incomplete and do not fully predict the increase in bone fracture risk with age or advancement of disease. X-ray based imaging is only sensitive to the mineral component of bone, but MRI can probe the soft-tissue components of bone, which are important in fracture resistance. The current project involves development and evaluation of novel UTE MRI methods that can better predict bone fracture risk and provide more specific feedback on bone compositional changes in response to therapy.
+Method development and statistical evaluation of quantitative MRI parameter mapping. MRI can provide a wealth of different quantitative readouts of tissue, including measures of related to structure, function, and viability. However, quantitative MRI methods tend to be slow and prone to inaccuracy and/or low precision. This project aims to use classical information theory and computational models to evaluate and improve quantitative MRI methods, with the ultimate aim of establishing fast, clinically practical methods of quantitatively evaluating tissue.
+Selected Publications
+K. L. West, N. D. Kelm, R. P. Carson, D. F. Gochberg, K. C. Ess, M. D. Does, Myelin Volume Fraction Imaging with MRI, Neuroimage, http://dx.doi.org/10.1016/j.neuroimage.2016.12.067
+M. K. Manhard, R. A. Horch, D. F. Gochberg J. S. Nyman, M. D. Does, In Vivo Magnetic Resonance Imaging of Bound and Pore Water in Cortical Bone, Radiology, Oct;277(1):221-9, 2015 http://dx.doi.org/10.1148/radiol.2015140336
+C. L. Lankford, M. D. Does, On the Inherent Precision of mcDESPOT, Magnetic Resonance in Medicine, Vol 69(1): 127-136, 2013.
+K. D. Harkins, A. N. Dula, M. D. Does, Effect of inter-compartmental water exchange on the apparent myelin water fraction in multi-exponential T2 measurements of rat spinal cord, Magnetic Resonance in Medicine, Vol 67(3): 793-800, 2012 http://dx.doi.org/10.1002/mrm.23053
+R. A. Horch, D. F. Gochberg, J S. Nyman, M. D. Does, Clinically-Compatible MRI Strategies for Discriminating Bound and Pore Water in Cortical Bone, Magnetic Resonance in Medicine, Vol 68(6): 1774-1784, 2012. Editor’s Pick for Dec 2012 http://dx.doi.org/10.1002/mrm.24186
+
+VIEW FACULTY BY DEPARTMENT
+Biomedical Engineering
+Chemical & Biomolecular Engineering
+Civil & Environmental Engineering
+Electrical Engineering & Computer Science
+General Engineering
+Mechanical Engineering
+View All Faculty
+INTELLECTUAL NEIGHBORHOODS
+Biomedical Imaging and Biophotonics
+Surgery and Engineering
+Regenerative Medicine
+Rehabilitation Engineering
+Nano Science and Technology
+Energy and Natural Resources
+Risk and Reliability
+Big Data Science and Engineering
+Cyber Physical Systems
+EXPLORE SOLUTIONS
+RECENT NEWS
+Zelik receives two major young investigator awards for biomechanics work
+Arthritis drug could be first to stop heart valve calcification
+Better models for weather disaster outcomes look beyond historical data
+© 2017 Vanderbilt University School of Engineering · 2301 Vanderbilt Place PMB 351826. Nashville, TN 37235-1826 · Site Development: University Web Communications
+Vanderbilt University is committed to principles of equal opportunity and affirmative action.
+Vanderbilt®, Vanderbilt University®, V Oak Leaf Design®, Star V Design® and Anchor Down® are trademarks of The Vanderbilt University. 2016 Vanderbilt University. All rights reserved.

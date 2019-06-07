@@ -1,0 +1,48 @@
+###AuthorName=Soma Das
+###AuthorTitle=Professor
+###Affiliation=Department of Human Genetics
+###Position=
+##############################
+Skip to main navigation
+Skip to main content
+Department of Human Genetics
+University of Chicago
+Home People
+Research Education
+Department Events
+Clinical Services
+News Contact Blog
+Soma Das, Ph.D
+Search
+  Professor
+Office address: AMB G705A
+Telephone number: 773 834 0555
+sdas@bsd.uchicago.edu
+Lab Webpage
+Research
+The work in my laboratory focuses on the molecular diagnosis of human genetic disease. Our interest is in translating knowledge obtained from basic research studies to the diagnostic arena, and in developing tools and implementing new technology to improve the diagnosis of human genetic disease. One area of interest is orphan genetic disease. We have utilized techniques such as denaturing high performance liquid chromatography and real-time quantitative PCR, among others, for the detection of mutations and deletions in disease genes implicated in lissencephaly (in collaboration with W.B. Dobyns X-linked myotubular myopathy, pantothenate kinase associated neurodegeneration (formerly Hallervorden-Spatz syndrome), Menkes syndrome, Sotos syndrome and others. Our mutation studies feed into genotype-phenotype correlation studies that are important for better understanding of the molecular basis of these disorders.
+Another area of interest is diagnostics related to the field of pharmacogenetics. We are involved in collaborative projects to identify and genotype polymorphisms in several drug-metabolizing enzymes primarily important in the metabolism of anti-cancer agents (PAAR). Our goal is to identify functional polymorphisms that play a role in drug response in patients and to develop testing for such polymorphisms. A group of genes we are working on are those that belong to the UGT gene family, implicated in the metabolism of a variety of compounds ranging from morphine to anticancer-agents such as epirubicin and irinotecan.
+We are also interested in gene methylation analysis and its implication in diagnostics. We have developed PCR-based methylation assays for the genetic disorders Prader-Willi syndrome, Angelman syndrome and Fragile X syndrome, which have been implemented clinically. Methylation is an alternative mechanism for gene inactivation and has been documented in several genes in a wide range of cancers. We have performed methylation studies of candidate genes in endometrial carcinoma in an attempt to better understand the pathogenesis of this disorder and for the establishment of genetic markers for diagnostic and prognostic purposes.
+Selected Publications
+Technical standards and guidelines: molecular genetic testing for ultra-rare disorders. Maddalena A, Bale S, Das S, Grody W, Richards S. (Oct 2005) Genetics in medicine : official journal of the American College of Medical Genetics 7(8):571-83 PMID:16247296
+NSD1 analysis for Sotos syndrome: insights and perspectives from the clinical laboratory. Waggoner DJ, Raca G, Welch K, Dempsey M, Anderes E, Ostrovnaya I, Alkhateeb A, Kamimura J, Matsumoto N, Schaeffer GB, Martin CL, Das S. (Oct 2005) Genetics in medicine : official journal of the American College of Medical Genetics 7(8):524-33 PMID:16247291
+Deletion analysis of the imprinting center region in patients with Angelman syndrome and Prader-Willi syndrome by real-time quantitative PCR. Raca G, Buiting K, Das S ( 2004) Genetic testing 8(4):387-94 PMID:15684868
+Mutations of ARX are associated with striking pleiotropy and consistent genotype-phenotype correlation. Kato M, Das S, Petras K, Kitamura K, Morohashi K, Abuelo DN, Barr M, Bonneau D, Brady AF, Carpenter NJ, Cipero KL, Frisone F, Fukuda T, Guerrini R, Iida E, Itoh M, Lewanda AF, Nanba Y, Oka A, Proud VK, Saugier-Veber P, Schelley SL, Selicorni A, Shaner R, Silengo M, Stewart F, Sugiyama N, Toyama J, Toutain A, Vargas AL, Yanazawa M, Zackai EH, Dobyns WB (Feb 2004) Human mutation 23(2):147-59 PMID:14722918
+Characterization of mutations in fifty North American patients with X-linked myotubular myopathy. Herman GE, Kopacz K, Zhao W, Mills PL, Metzenberg A, Das S. (Feb 2002) Human mutation 19(2):114-21 PMID:11793470
+UGT1A1*28 polymorphism as a determinant of irinotecan disposition and toxicity. Iyer L, Das S, Janisch L, Wen M, Ramírez J, Karrison T, Fleming GF, Vokes EE, Schilsky RL, Ratain MJ. ( 2002) The pharmacogenomics journal 2(1):43-7 PMID:11990381
+Incomplete penetrance with normal MRI in a woman with germline mutation of the DCX gene. Demelas L, Serra G, Conti M, Achene A, Mastropaolo C, Matsumoto N, Dudlicek LL, Mills PL, Dobyns WB, Ledbetter DH, Das S. (Jul 2001) Neurology 57(2):327-30 PMID:11468322
+Methylation of hMLH1 in a population-based series of endometrial carcinomas. Salvesen HB, MacDonald N, Ryan A, Iversen OE, Jacobs IJ, Akslen LA, Das S. (Sep 2000) Clinical cancer research : an official journal of the American Association for Cancer Research 6(9):3607-13 PMID:10999752
+Partial paternal uniparental disomy of chromosome 6 in an infant with neonatal diabetes, macroglossia, and craniofacial abnormalities. Das S, Lese CM, Song M, Jensen JL, Wells LA, Barnoski BL, Roseberry JA, Camacho JM, Ledbetter DH, Schnur RE. (Dec 2000) American journal of human genetics 67(6):1586-91 PMID:11038325 (Full Text)
+  Latest Blog Entries
+UChicago Green Labs
+Erin Fry's selection for Journal Club: The phenotypic legacy of admixture between modern humans and Neandertals
+Aarti Venkat's selection for Journal Club: Escape from bacterial iron piracy
+Ittai Eres' paper selection for Journal Club
+The University of Chicago
+©2017 The University of Chicago
+Department of Human Genetics
+Cummings Life Science Center
+920 E 58th St, Chicago, IL 60637
+United States
+(773) 834-0525
+Biological Sciences Division

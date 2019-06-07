@@ -1,0 +1,76 @@
+###AuthorName=Scott Verbridge
+###AuthorTitle=Ph.D
+###Affiliation=Biomedical Engineering and Mechanics
+###Position=Assistant Professor
+##############################
+Home
+About
+Student Portal
+Research
+Contact
+Scott Verbridge
+Assistant Professor
+Area(s) of Interest: Translational Cancer Research, Tissue Engineering, Nanomedicine and Nanobioengineering, Neuroengineering
+Phone: (540) 231-6908
+Email: sverb@vt.edu
+Verbridge Laboratory for Integrative Tumor Ecology
+345 Kelly Hall Building Stanger Street (MC 0298) Blacksburg, VA 24061
+EDUCATION:
+Ph.D., Physics, Cornell University, 2008
+M.S., Physics, Cornell University, 2007
+B.S. Physics, University of Rochester, 2002
+B.S. Applied Mathematics, University of Rochester, 2002
+RESEARCH INTERESTS:
+Nanobiotechnology
+Microfluidics
+Graphene NEMS
+Cell-microenvironment interactions
+Tumor angiogenesis
+Cancer cell evolution
+TEACHING INTERESTS:
+Nanobiotechnology
+Tissue Engineering and Biomaterials
+Cancer
+RECENT PUBLICATIONS:
+Choi, N.; Verbridge, S.S.; Williams, R.M.; Chen, J.; Kim, J.Y.; Schmehl, R.; Zipfel, W.R.; Fischbach, C.; Stroock, A.D., Phosphorescent nanoparticles for quantitative measurements of oxygen profiles in-vitro and in-vivo, in press at Biomaterials.
+Wilson-Rae, I.; Barton, R.A.; Verbridge, S.S.; Southworth, D.R.; Ilic, R.; Craighead, H.G.; Parpia, J.M., High-Q Nanomechanics via Destructive Interference of Elastic Waves, Physical Review Letters 2011, 106, (4), 047205.
+Cross, V.L.; Zheng, Y.; Choi, N.; Verbridge, S.S.; Sutermaster, B.A.; Bonassar, L.J.; Fischbach, C.; Stroock, A.D., Dense type I collagen matrices that support cellular remodeling and microfabrication for studies of tumor angiogenesis and vasculogenesis in vitro, Biomaterials 2010, 31, (33), 8596-8607.
+Verbridge, S.S.; Choi, N.; Zheng, Y.; Brooks, D.J.; Stroock, A.D.; Fischbach, C., Oxygen-Controlled 3-D Cultures to Analyze Tumor Angiogenesis. Tissue Engineering Part A 2010, 16, (7), 2133-2141.
+Verbridge, S.S.; Chandler, E.M.; Fischbach, C., Tissue-Engineered 3-D Tumor Models to Study Tumor Angiogenesis. Tissue Engineering Part A 2010, 16, (7), 2147-2152
+Barton, R.A.; Ilic, B.; Verbridge, S.S., Cipriany, B.R.; Parpia, J.M.; Craighead, H.G., Fabrication of a Nanomechanical Mass Sensor Containing a Nanofluidic Channel. Nano Letters 2010, 10, (6), 2058-2063.
+Dimov, S.; Bennett, R.G.; Corcoles, A.; Levitin, L.V.; Ilic, B.; Verbridge, S.S.; Saunders, J.; Casey, A.; Parpia, J.M., Anodically bonded submicron microfluidic chambers. Review of Scientific Instruments 2010, 81, (1), 013907.
+Choi, N.; Verbridge, S.S.; Williams, R.M.; Park, K.; Zipfel, W.R.; Fischbach, C.; Stroock, A.D.,  Oxygen-Sensing Microfluidic Scaffolds. International ASME Conference on Nanochannels, Microchannels and Minichannels 2009, ICNMM2009-82292.
+Stroock, A.D.; Choi, N.; Wheeler, T.D.; Cross, V.; Verbridge, S.S.; Fischbach, C.; Bonassar, L.J., Microvascular Structure and Function in Vitro. International ASME Conference on Nanochannels, Microchannels and Minichannels 2009.
+Bunch, J. S.; Verbridge, S. S.; Alden, J. S. ; van der Zande, A. M.; Parpia, J. M.; Craighead, H. G.; McEuen, P. L., Impermeable Atomic Membranes from Graphene Sheets. Nano Letters 2008, 8, (8), 2458-2462.
+Verbridge, S. S.; Ilic, R.; Craighead, H. G.; Parpia, J. M., Size and frequency dependent gas damping of nanomechanical resonators. Applied Physics Letters  2008, 93, 013101.
+Verbridge, S. S.; Craighead, H. G.; Parpia, J. M., A megahertz nanomechanical resonator with room temperature quality factor over a million. Applied Physics Letters 2008, 92, 013112.
+Verbridge, S. S.; Shapiro, D. F.; Craighead, H. G.; Parpia, J. M., Macroscopic tuning of nanomechanics:  Substrate bending for reversible control of frequency and quality factor of nanostring resonators. Nano Letters 2007, 7, (6), 1728-1735.
+Moran-Mirabal, J. M.; Slinker, J. D.; DeFranco, J. A.; Verbridge, S. S.; Ilic, R.; Flores-Torres, S.; Abruna, H.; Malliaris, G. G.; Craighead, H. G., Electrospun Light-Emitting Nanofibers. Nano Letters 2007, 7, (2), 458-463.
+Bunch, J. S.; Van der Zande, A. M.; Verbridge, S. S.; Frank, I. W.; Tanenbaum, D. M.; Parpia, J. M.; Craighead, H. G.; McEuen, P. L., Electromechanical Resonators from Graphene Sheets. Science 2007, 315, 490-493.
+Verbridge, S. S.; Bellan, L. M.; Parpia, J. M.; Craighead, H. G., Optically Driven Resonance of Nanoscale Flexural Oscillators in Liquid. Nano Letters 2006, 6, (9), 2109-2114.
+Verbridge, S. S.; Parpia, J. M.; Reichenbach, R. B.; Bellan, L. M.; Craighead, H. G., High quality factor resonance at room temperature with nanostrings under high tensile-stress. Journal of Applied Physics 2006, 99, 124304.
+Verbridge, S. S.; Edel, J. B.; Stavis, S. M.; Moran-Mirabal, J. M.; Allen, S. D.; Coates, G. W.; Craighead, H. G., Suspended glass nanochannels coupled with microstructures for single molecule detection. Journal of Applied Physics 2005, 97, 124317.
+RECENT PRESENTATIONS:
+Verbridge, S.S; Tissue engineered cancer models: Microengineered 3-D cultures to study the pro-angiogenic tumor microenviroment , SUNY Buffalo Department of Biomedical Engineering Seminar, 2011, Buffalo, NY.
+Verbridge, S.S.; Choi, N.; Zheng, Y.; Williams, R.M.; Stroock, A.D.; Fischbach, C., Engineering 3-D Microscale Niches for Studies of Oxygen-dependent Tumor Angiogenic Behavior, Poster presented at Biomedical Engineering Society Annual Meeting, 2010, Austin, TX.
+Verbridge, S.S.; Choi, N.; Zheng, Y.; Stroock, A.D.; Fischbach, C., A microfluidic tumor model to study the effects of oxygen level and 3-D culture on tumor angiogenesis, Talk Given at Society for Biomaterials Annual Meeting, 2010, Seattle, WA.
+Verbridge, S.S.; Choi, N.; Zheng, Y.; Stroock, A.D.; Fischbach, C., The Effects of 3D Culture and Hypoxia on Tumor Angiogenesis, Poster presented at Biomedical Engineering Society Annual Meeting, 2009, Pittsburg, PA.
+Verbridge, S.S., Effects of Oxygen in a 3D Tumor Model, Invited talk presented at the Cornell Biomedical Engineering Society annual retreat, 2009, Ithaca, NY.
+Verbridge, S.S.; Choi, N.; Stroock, A.D.; Fischbach, C., The Effects of 3D Culture and Hypoxia on Tumor Angiogenesis, Poster presented at the Dublin City University Nanotechnology-Enabled Sensors & Diagnostics Workshop, 2009, Dublin, Ireland.
+Verbridge, S.S.; Choi, N.; Brooks, D.; Bonassar, L.J.; Stroock, A.D.; Fischbach, C.  Microfluidic tissue scaffolds for studies of tumor angiogenesis.  Talk at NBTC Seminar Series, Ithaca, NY, 2008.
+  Fall 2017 force-add survey opens August 14.
+Latest News
+Raffaella De Vita and Alexander Leonessa receive Alumni Award for Outreach Excellence
+June 13th, 2017
+
+Norma Guynn receives Staff Career Achievement Award
+May 4th, 2017
+
+News Archive
+Seminars
+Interstitial Fluid Flow and the Glioma Tumor Microenvironment: Effects on Invasion and Therapeutic Outcomes
+December 31st, 2017
+
+Seminar Archive
+Honorary and Memorial Seminars
+© 2017 Virginia Tech Biomedical Engineering and Mechanics

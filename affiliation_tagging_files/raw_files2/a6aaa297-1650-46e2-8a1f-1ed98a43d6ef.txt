@@ -1,0 +1,71 @@
+###AuthorName=Richard E. Carson
+###AuthorTitle=Ph.D
+###Affiliation=School of Engineering & Applied Science
+###Position=Professor of Biomedical Engineering & Radiology and Biomedical Imaging
+##############################
+FACEBOOK
+TWITTER
+FLICKR
+DEPARTMENTS
+PEOPLE
+NEWS & EVENTS
+ALUMNI
+I AM A
+Undergraduate Study Graduate Study Faculty & Research Interdisciplinary Communities About
+FACULTY & RESEARCH
+Departments
+Faculty Directory
+Interdisciplinary Research Priorities
+Research Areas
+Facilities, Cores, & Centers
+Faculty Openings
+Richard E. Carson
+YALE PET CENTER
+Professor of Biomedical Engineering & Radiology and Biomedical Imaging
+Room / Office: LMP 89A
+Office Address:
+801 Howard Avenue
+New Haven, CT 06519
+Mailing Address:
+P.O. Box 208048
+New Haven, CT 06520
+Phone: (203) 737-2814
+Fax: (203) 785-3107
+Email: richard.carson@yale.edu
+Degrees:
+Ph.D., University of California at Los Angeles
+Interests:
+Dr. Richard Carson's research uses Positron Emission Tomography (PET) as a tool to noninvasively measure a wide range of in vivo physiology in human beings and laboratory animals. His focus is on the development and applications of new tracer kinetic modeling methods and algorithms and on research in PET image reconstruction and image quantification. These quantitative techniques are then applied in clinical populations and preclinical models of disease. Application areas include neuropsychiatric populations, diabetes, cardiology, and oncology.
+Following administration of a positron-emitting radiopharmaceutical (tracer), PET permits the direct measurement of the four-dimensional radioactivity profile throughout a 3D object over time. Depending on the characteristics of the tracer, physiological parameters can be estimated, such as blood flow, metabolism, and receptor concentration. These measurements can be made with subjects in different states (e.g., stimulus or drug activation), used to compare patient groups to controls, or to assess the efficacy of drug treatment.
+Tracer Kinetic Modeling: The goal of PET tracer kinetic modeling is to devise a biologically validated, quantitatively reliable, and logistically practical method for use in human PET studies. Animal studies are typically performed to characterize the tracers, followed by initially complex human studies, typically leading to the development of simplified methods, e.g., using continuous tracer infusion. These techniques are also applied on a pixel-by-pixel level to produce images of PET physiological and pharmacological parameters, such as blood flow and receptor binding. Mathematical methodology includes linear and non-linear differential equations, statistical estimation theory, methods to avoid the needs for arterial blood measurements (the input function) such as blind deconvolution, plus the development of novel rapid computational algorithms.
+PET Physics and Reconstruction: Proper characterization of the PET image data is essential for modeling studies. This requires accurate and carefully characterized corrections for the physics and electronics of coincident event acquisition. Studies of these effects are performed with phantom measurements made on the scanner. A critical component in the application to real data is the correction for subject motion, particularly as the resolution of modern machines has improved (better than 3-mm in human brain machines). Both hardware and software approaches are employed to address these issues. To produce accurate images with minimum noise, a statistically based iterative reconstruction algorithm is necessary. Developments in this area include the mathematical aspects of algorithm development, the computer science issues associated with a large cluster-based algorithm, the incorporation of the physics and motion correction, the use of prior information provided from MR images, and the tuning and characterization necessary for practical application for biological studies. The ultimate goal is the combination of the tracer kinetic modeling and image reconstruction to directly process a 4D dataset into parametric images of the physiological parameters of interest. When applied in the thorax, respiratory and cardiac motion must be included, raising the problem to 5D and 6D analysis.
+PET Applications: PET studies are performed in human subjects and preclinical models of a wide variety of diseases. Examples of interest include:
+Measuring beta cells in the pancreas for diabetes with a tracer for the vesicular monoamine transporter
+Neuroreceptor studies have focused on determining changes in receptor concentration as a function of disease or measurement of receptor occupancy by drugs. Such changes have been successfully demonstrated in the dopaminergic, muscarinic, and serotonergic systems.
+Measurement of the relationship between dopamine receptors and impulsivity
+New methods for quantification of myocardial blood flow
+Imaging of cancer physiology including hypoxia, apoptosis, and drug delivery
+Synaptic density imaging with PET
+Selected Publications:
+Gallezot J-D, Nabulsi N, Neumeister A, Planeta-Wilson B, Williams WA, Singhal T, Kim S, Maguire RP, McCarthy T, Frost JJ, Huang Y, Ding Y-S, Carson RE, Kinetic modeling of the serotonin 5 HT1B receptor radioligand [11C]P943 in humans, J Cereb Blood Flow Metab, 30: 196-210, 2010,PMCID 19773803.
+Ding YS, Singhal T, Planeta-Wilson B, Gallezot JD, Nabulsi N, Labaree D, Ropchan J, Henry S, Williams W, Carson RE, Neumeister A, and Malison RT, PET imaging of the effects of age and cocaine on the norepinephrine transporter in the human brain using (S,S)-[(11)C]O-methylreboxetine and HRRT. Synapse. 64(1): p. 30-8,2010 PMCID 19728366.
+Qiu M, Paul Maguire R, Arora J, Planeta-Wilson B, Weinzimmer D, Wang J, Wang Y, Kim H, Rajeevan N, Huang Y, Carson RE, and Constable RT, Arterial transit time effects in pulsed arterial spin labeling CBF mapping: insight from a PET and MR study in normal human subjects. Magn Reson Med. 63(2): p. 374-84, 2010, PMCID 19953506.
+Nabulsi N, Huang Y, Weinzimmer D, Ropchan J, Frost JJ, Neumeister A, McCarthy T, Carson RE, Ding, Y-S,High resolution imaging of brain 5 HT1B receptors in rhesus monkey using [11C]P943, Nuc Med Biol, 37:205-214, 2010, PMCID 20152720.
+Hu J, Henry S, Gallezot J-D, Ropchan J, Neumaier JF, Potenza MN, Sinha R, Krystal JH, Huang Y, Ding Y-S, Carson RE, Neumeister A, Serotonin 1B receptor imaging in alcohol dependence, Biol Psych, epub, 2010, PMCID 20172504.
+Jin X, Mulnix T, Planeta-Wilson B, Carson RE, Accuracy of head motion compensation for the HRRT: Comparison of Methods, Conf Record IEEE Nuclear Science Symposium and Medical Imaging Conference. Orlando, FL, M09-161, 2009
+Yan J, Planeta-Wilson B, Gallezot JD, Carson, RE, Initial Evaluation of Direct 4D Parametric Reconstruction with Human PET Data, Conf Record IEEE Nuclear Science Symposium and Medical Imaging Conference. Orlando, FL, M03-3, 2009
+Fung EK, Planeta-Wilson B, Mulnix T, Carson RE, A Multimodal Approach to Image-Derived Input Functions for Brain PET Conf Record IEEE Nuclear Science Symposium and Medical Imaging Conference. Orlando, FL, M05-154, 2009.
+Responsibilities:
+Director of the Yale PET Center
+Director of Graduate Studies, Biomedical Engineering
+05/17/2017
+Graduate Students Honored At 2017 Crest & Fest
+Holly Lauridsen and Matt Bersi – both graduate students of Yale School of Engineering & Applied Science - were honored Tuesday, May 17 by SEAS Dean T. Kyle Vanderlick at the annual Crest...
+learn more...
+School of Engineering & Applied Science | Yale University
+Dunham Laboratory, Room 222 • 10 Hillhouse Avenue • U.S. Mail: P.O. Box 208267 • New Haven, CT 06520–8267 • Phone 203–432–4200
+Site Map
+Privacy Policy
+Disclaimer
+Security
+Copyright

@@ -1,0 +1,44 @@
+###AuthorName=MICHAEL HELLER
+###AuthorTitle=
+###Affiliation=Department of NanoEngineering
+###Position=
+##############################
+ABOUT RESEARCH INVESTIGATORS PUBLICATIONS LICENSING BLOG EDUCATION CONTACT
+Center of Excellence in Nanomedicine
+UC San Diego
+MICHAEL HELLER
+The Heller lab combines microfluidics and electrophoresis to create rapid assays with potential for translation as point-of-care diagnostics. This work capitalizes on Prof. Heller’s background in biotechnology; he has served as President and Chief Operating Officer at Integrated DNA Technologies, as well as Director of Molecular Biology at Molecular Biosystems.
+An especially clinically relevant assay developed by the Heller group is electrokinetic isolation of circulating cell-free DNA (ccf-DNA). As ccf-DNA is a biomarker for early stages of cancer and current methods of isolation are time-consuming and require large plasma samples, the introduction of such a rapid assay could make examination of this feature much more common and reduce diagnostic costs. The Heller lab has recently shown that ccf-DNA isolated by their their microfluidic dielectrophoretic system allows both total quantification, which correlates with the prognosis for certain solid tumors, and reliable results upon PCR or sequencing for a known gene variant associated with more aggressive leukemia.
+Collection of ccf-DNA by electrokinetic microarrays distinguishes leukemic blood (below) from normal blood (top). CLL, chronic lymphocytic leukemia. Fluorescence results from Sybr Green DNA stain added prior to application of the dielectrophoretic field. From Sonnenberg et al., Clin Chem 2014.
+A related versatile assay detects protease activity in whole blood, which could be used in the diagnosis of numerous diseases. For example, chymotrypsin levels in blood are elevated in pancreatitis and renal failure, and those of matrix metalloproteinases are elevated in metastatic cancer. The Heller lab’s assay combines charge-changing fluorescent peptide substrates with gel electrophoresis; fluorescent cleavage products migrate into the gel while the negatively charged substrate migrates in the opposite direction. This method should be much faster and more reliable than clinically used methods, which require separation of plasma from blood cells, and further miniaturization could allow completion within minutes.
+Past work in the Heller lab has employed electric fields to direct self-assembly of protein-decorated nanoparticles into layered structures on microarrays similar to those used for DNA-based diagnostics. Such structures could be useful in portable biosensors or lab-on-a-chip devices.
+Affiliations
+Department of NanoEngineering
+Department of Bioengineering
+Lab website
+Key publications
+A Sonnenberg, JY Marciniak, L Rassenti, EM Ghia, EA Skowronski, S Manouchehri, J McCanna, GF Widhopf, TJ Kipps, MJ Heller. Rapid electrokinetic isolation of cancer-related circulating cell-free DNA directly from blood. Clin Chem 2014; 60(3): 500-9.
+RB Lefkowitz, GW Schmid-Schönbein, MJ Heller. Whole blood assay for elastase, chymotrypsin, matrix metalloproteinase-2, and matrix metalloproteinase-9 activity. Anal Chem 2010; 82(19): 8251-8.
+DA Dehlinger, BD Sullivan, S Esener, MJ Heller. Directed hybridization of DNA derivatized nanoparticles into higher order structures. Nano Lett 2008; 8(11): 4053-60.
+INVESTIGATORS
+Adah Almutairi
+Shaochen Chen
+Karen Christman
+Todd Coleman
+Adam Engler
+Kamil Godula
+David Hall
+Michael Heller
+Sungho Jin
+Ratnesh Lal
+Yu-hwa Lo
+Alysson Muotri
+Michael Sailor
+Roger Tsien
+Shyni Varghese
+Joseph Wang
+Kang Zhang
+Liangfang Zhang
+UC San Diego
+All Content Copyright 2011 Regents of the University of California. All rights reserved.
+Official Web page of the University of California, San Diego.

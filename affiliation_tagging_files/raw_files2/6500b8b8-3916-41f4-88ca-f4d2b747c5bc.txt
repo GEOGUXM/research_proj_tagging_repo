@@ -1,0 +1,57 @@
+###AuthorName=Torleiv Håland Bryne
+###AuthorTitle=Postdoctoral
+###Affiliation=Department of Engineering Cybernetics
+###Position=Postdoctoral Fellow
+##############################
+Skip to Content
+Studies
+Life and housing
+Research
+About NTNU
+Search
+Employees
+Torleiv Håland Bryne
+Postdoctoral Fellow
+Department of Engineering Cybernetics
+Faculty of Information Technology and Electrical Engineering
+torleiv.h.bryne@ntnu.no
++47 45605714
+Elektro D/B2, D252, Gløshaugen, O. S. Bragstads plass 2D, 7034 Trondheim
+MSc. in Engineering Cybernetics, June 2013. Ph.D. in Engineering Cybernetics, March 2017. 
+Postdoctoral Fellow at Department of Engineering Cybernetics from April 2017.
+Responable for developing a open source navigation software based on Matlab GNC toolbox and automatically generated embedded C code. 
+Supervisor: Professor Tor Arne Johansen.
+Supervisor: Professor Thor I. Fossen.
+The workpackage is funded by the Research Council of Norway via the FRINATEK project Multi-stage global sensor fusion for navigation using nonlinear observers and eXogenous Kalman filter and is associated with the Centre for Autonomous Marine Operations and Systems (AMOS).
+Scientific, academic and artistic work
+Displaying a selection of activities. See all publications in the database
+Journal publications
+Bryne, Torleiv Håland; Fossen, Thor I.; Johansen, Tor Arne. (2015) A virtual vertical reference concept for GNSS/INS applications at the sea surface. IFAC-PapersOnLine. vol. 48 (16).
+Bryne, Torleiv Håland; Fossen, Thor I.; Johansen, Tor Arne. (2015) Design of Inertial Navigation Systems for Marine Craft with Adaptive Wave Filtering aided by Triple-Redundant Sensor Packages. International Journal of Adaptive Control and Signal Processing.
+Bryne, Torleiv Håland; Fossen, Thor I.; Johansen, Tor Arne. (2014) Nonlinear Observer with Time-Varying Gains for Inertial Navigation Aided by Satellite Reference Systems in Dynamic Positioning. Mediterranean Conference on Control and Automation.
+Centre for Autonomous Marine Operations and Systems
+Department of Engineering Cybernetics
+Competencies
+Technical cybernetics
+Simulation
+Estimation
+Control technology
+Nonlinear control
+Theory of estimation
+Inertial Navigation Systems
+Dynamic Positioning
+Marine cybernetics
+Autopilot
+Vehicle control
+Norwegian University of Science and Technology
+Contact us
+Phone: +47 73595000
+Map of NTNU
+Sitemap
+Studies A to Z
+Courses A to Z
+Research A to Z
+Search for employees
+About cookies
+Editorial Responsibility
+Sign in

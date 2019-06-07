@@ -1,0 +1,151 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Our website uses tracking cookies. By clicking "accept" you give your permission to this website to use tracking cookies. Click here for our privacy and cookie policy
+Accept
+Deny
+Skip to content
+Research Areas
+Home Multiphase Reactors
+Research
+Research Areas
+Advanced Experimental Techniques
+Novel Reactors
+Multiphase Flows
+Computational Fluid Dynamics
+SMM - Multi-Scale Modelling of Multiphase Flows
+Mohammad Banaei
+Kay Buist
+Alvaro Carlos Varas
+Vishak Chandra
+Shauvik De
+Finotello, Giulia
+Fitzgerald, Barry
+Islam, Shafiul
+Kamath, Satish
+Kong, Gaopan
+Lovreglio, Paolo
+Lu, Jiangtao
+Mahajan, Vinay
+Maitri, Rohit
+Masterov, Maxim
+Mema, Ivan
+Mirsandi, Haryo
+Mu, Lijing
+Pacha Sanjeevi, Sathish
+Panda, Aniruddha
+Patel, Harshil
+Rajkotwala, Adnan
+Luuk Seelen
+Sengar, Aditya
+Yali Tang
+Krushnatej Thiruvalluvan Sujatha
+Yang Lei
+Zarghami, Ahad
+SPI - Chemical Process Intensification
+Completed projects SPI
+Group publications
+Facilities
+Cooperating Research Schools & Institutes
+Education
+About Research Group
+Calender
+News
+TU/e Technische Universiteit Eindhoven University of Technology
+EDUCATION GUIDE
+INTRANET
+CONTACT
+NEDERLANDS
+Education
+Research
+TU/e Campus
+University
+Home
+University
+Departments
+Chemical Engin...
+Research
+Research Group...
+Chemical and P...
+Multiphase Rea...
+Research
+Multiphase Reactors
+Home Multiphase Reactors
+Research
+Research Areas
+Advanced Experimental Techniques
+Novel Reactors
+Multiphase Flows
+Computational Fluid Dynamics
+SMM - Multi-Scale Modelling of Multiphase Flows
+Mohammad Banaei
+Kay Buist
+Alvaro Carlos Varas
+Vishak Chandra
+Shauvik De
+Finotello, Giulia
+Fitzgerald, Barry
+Islam, Shafiul
+Kamath, Satish
+Kong, Gaopan
+Lovreglio, Paolo
+Lu, Jiangtao
+Mahajan, Vinay
+Maitri, Rohit
+Masterov, Maxim
+Mema, Ivan
+Mirsandi, Haryo
+Mu, Lijing
+Pacha Sanjeevi, Sathish
+Panda, Aniruddha
+Patel, Harshil
+Rajkotwala, Adnan
+Luuk Seelen
+Sengar, Aditya
+Yali Tang
+Krushnatej Thiruvalluvan Sujatha
+Yang Lei
+Zarghami, Ahad
+SPI - Chemical Process Intensification
+Completed projects SPI
+Group publications
+Facilities
+Cooperating Research Schools & Institutes
+Education
+About Research Group
+Calender
+News
+  Shauvik De
+Viscoelastic flow Modelling for Polymer Flooding
+S. (Shauvik) De, J.T. (Johan) Padding, E.A.J.F (Frank) Peters, J.A.M. (Hans) Kuipers
+Polymer liquids are used in the oil industry to improve the volumetric sweep efficiency and displacement efficiency of the oil from a reservoir. Surprisingly, is it not only the viscosity but also the elastic properties of the displacing fluid that determine the displacement efficiency. This may be caused by the ability of a viscoelastic fluid to pull oil out of dead-ends. The objective of the project is to develop a computer simulation methodology for the flow of non-Newtonian fluids through porous media. This will enable us to gain a fundamental understanding of the effects of fluid elasticity and interfacial tension between the oil phase and the displacing fluid on the recovery efficiencies.
+The main aim of the work is to develop an advanced computer simulation methodology for the flow of non-Newtonian fluids through porous media. This computational model will provide insights to the influence of polymers on oil flow in reservoirs, and thus provide a detailed understanding on recovery process optimization, polymer selection and improving displacement efficiency in reservoirs.
+Residual oil (darker color) distribution after glycerin flood (left) and after polymer flooding (right)
+Or are you looking for
+Route & map
+Undergraduate programs
+Staff
+Library
+Graduate programs
+Vacancies
+Contact TU/e
+Navigation address
+De Zaale
+Eindhoven
+T: +31 (0)40 247 9111
+E: info@tue.nl
+Postal address
+PO Box 513
+5600 MB Eindhoven
+© 2017 TU/e
+Contact
+Sitemap
+Disclaimer
+Follow TU/e on Twitter
+Like TU/e on Facebook
+Follow TU/e on Google+
+Follow TU/e on LinkedIn
+Follow TU/e on YouTube
+Where innovation starts

@@ -1,0 +1,108 @@
+###AuthorName=Chen Ling
+###AuthorTitle=Ph.D
+###Affiliation=Cellular and Molecular Therapy
+###Position=Research Assistant Professor
+##############################
+Text-only version of this website
+Skip navigation
+Home page
+What's new
+Search
+Contact Webmaster
+Website policies
+Disability services
+Healing
+Learning
+Discovery
+Community
+visit University of Florida
+University of Florida
+Pediatric Research
+Department of Pediatrics in the College of Medicine
+Facebook
+YouTube
+Twitter
+Department of Pediatrics Home
+Annual Pediatric Science Day
+Home
+About Us
+Divisions
+Research
+Resources
+Grants & Fiscal
+News & Events
+Home
+Research
+Researchers
+Chen Ling, Ph.D.
+Research Topics
+Researchers
+Vijayendran Chandran, Ph.D.
+Child Health Research Institute (CHRI)
+Oncology
+Nephrology
+Postdoctoral Researchers
+Centers & Programs
+Cellular and Molecular Therapy
+Funding for Research
+Neurology
+Chen Ling, Ph.D.
+Division
+Cellular and Molecular Therapy
+Academic Title
+Research Assistant Professor
+Contact Information
+352-273-6174 (phone)
+lingchen@peds.ufl.edu
+Office
+Cancer & Genetics Research Complex, Room 497
+Lab
+Cancer & Genetics Research Complex, Rooms 485G
+Research Overview
+Dr. Ling’s research focuses on adeno-associated virus (AAV) virology, gene therapy and traditional Chinese medicine (TCM). His laboratory has made contributions to the above fields including: identification of a novel function of the inverted terminal repeat in the AAV genome and a new method applied by AAV to reduce its endogenous gene expression; elucidation of cellular receptor/co-receptor for AAV serotype 3; development of human liver targeting recombinant AAV gene therapy vector; identification of small molecules isolated from TCM to enhance gene therapy outcome; and delivery of cytotoxic genes isolated from TCM for the purpose of cancer gene therapy. The current emphasis of Dr. Ling’s research is on combining the treatment of rAAV-based cancer gene therapy and of TCM for human hepatocellular carcinoma.
+Training
+B.S in Biological Science, Fudan University, China, 2007
+Ph.D. in Biomedical Science – Genetics, University of Florida, USA, 2011
+Postdoctoral Associate, Department of Pediatrics, University of Florida, 2011-2012
+Key Publications
+(# Corresponding author, * Co-first author)
+Articles
+Ling C*#, Yin Z*, Li J, Zhang D, Aslanidi G, Srivastava A#. (2016) Strategies to generate high-titer, high-potency recombinant AAV3 serotype vectors. Mol Ther Methods Clin Dev. 4;3:16029.
+Sayroo R, Nolasco D, Yin Z, Cortes C. Y, Pandya M, Ling C# & Aslanidi G#. (2016) Development of novel AAV serotype 6 based vectors with selective tropism for human cancer cells. Gene Therapy. 23(1):18-25. PMID: 26270885.
+Li S*, Ling C*, Zhong L*, Li M, Su Q, He R, Tang Q, Greiner L. D, Shultz D. L, Brehm A. M, Flotte R. T, Mueller C,  Srivastava A#, & GaoG#. (2015) Efficient and targeted transduction of nonhuman primate liver with systemically delivered optimized AAV3B vectors. Molecular Therapy. 23(12):1867-76. PMID: 26403887; PMCID: PMC4700112.
+Ling C*, Wang Y*, Feng YL, Zhang YN, Li J, Hu XR, Wang LN, Zhong MF, Zhai XF, Zolotukhin I, Srivastava A# & Ling CQ#. (2015) Prevalence of neutralizing antibodies against liver-tropic adeno-associated virus serotype vectors in 100 healthy Chinese and its potential relation to body constitutions. Journal of Integrative Medicine, 13(5):341-6. PMID: 26343106.
+Pandya M, Britt K, Hoffman B, Ling C# & Aslanidi G#. (2015) Reprogramming immune response with capsid-optimized AAV6 vectors for immunotherapy of cancer. Journal of Immunotherapy, 38(7):292-8. PMID: 26261893; PMCID: PMC4535186.
+Wang L, Yin Z, Wang Y, Lu Y, Zhang D, Srivastava A, Ling CQ, Aslanidi GV# & Ling C#. (2015) Productive life cycle of the adeno-associated virus 2 in the complete absence of a conventional polyadenylation signal. Journal of General Virology, 96(9):2780-7. PMID: 26297494; PMCID: PMC4635500.
+Ling C#*, Wang Y*, Lu Y, Wang LN, Jayandharan G, Aslanidi V. G, Li B, Cheng B, Ma W, Lentz T, Ling CQ, Xiao X, Samulski R. J, Muzyczka N & Srivastava A#. (2015) Enhanced transgene expression from recombinant single-stranded AAV vectors in human cell lines in vitro and in murine hepatocytes in vivo. Journal of Virology, 89(2):952-61. PMID: 25355884; PMCID: PMC4300666.
+Ling C#*, Wang Y*, Zhang YH, Ejjigani A, Yin Zifei, Lu Y, Wang LN, Wang M, Li Jun, Hu Z, Aslanidi GV, Zhong Li, Gao G, Srivastava A# & Ling CQ#. (2014) Selective in vivo targeting of human liver tumors by optimized AAV3 vectors in a murine xenograft model. Human Gene Therapy, 25(12):1023-34. PMID: 25296041; PMCID: PMC4270149.
+Zhang YH, Wang Y, Yusufali A, Ashby F, Zhang D, Yin ZF, Aslanidi V. G, Srivastava A, Ling CQ# & Ling C#. (2014) Cytotoxic Genes from Traditional Chinese Medicine Inhibit Tumor Growth both in vitro and in vivo. Journal of Integrative Medicine, 12(6):483-94. PMID: 25412666.
+Wang L, Wang Y, Yin Z, Zhang Y, Aslanidi G, Srivastava A, Ling CQ# and Ling C#. (2014) Pristimerin enhances recombinant adeno-associated virus vector-mediated transgene expression in human cell lines in vitro and murine hepatocytes in vivo. Journal of Integrative Medicine, 12(1):20-34. PMID: 24461592.
+Cheng B*, Ling C*, Dai Y, Lu Y, Glushakova L.G, Gee S.W.Y., McGoogan K.E., Aslanidi G.V., Park M, Stacpoole P.W., Siemann D, Liu C, Srivastava A# & Ling CQ# (2012). Development of optimized AAV3 serotype vectors: Mechanism of high-efficiency transduction of human liver cancer cells. Gene Therapy, 19(4): 375-84. PMID: 21776025; PMCID: PMC3519243.
+Wang Y*, Ling C*, Song L, Wang L, Aslanidi G, Tan M, Ling CQ# & Srivastava A#. (2012). Limitations of encapsidation of recombinant scAAV2 genomes in different serotype capsids and their quantitation. Human Gene Therapy Methods, 23(4):225-33. PMID: 22966785; PMCID: PMC4015078.
+Ling C, Lu Y, Kelsi JK, Jayandharan GR, Li B, Ma W, Cheng B, Gee SW, McGoogan KE, Govindasamy L, Zhong L, Agbandje-McKenna M & Srivastava A#. (2010). Human Hepatocyte Growth Factor Receptor is a Cellular Co-Receptor for AAV3. Hum Gene Therapy, 21(12), 1741-1747. PMID: 20545554; PMCID: PMC2999576.
+Reviews
+Feng Y, Yin Z, Zhang D, Srivastava A#, and Ling C#. (2015) Chinese medicine protein and peptide in gene and cell therapy. Current Protein and Peptide Science, in press
+Ling C*, Zhang Y*, Li J, Chen W#, Ling C# (2015) Clinical use of toxic proteins and peptides from Tian Hua Fen and scorpion venom. Current Protein and Peptide Science, in press
+Ling CQ#, Yue XQ & Ling C. (2014) Three advantages of using traditional Chinese medicine to prevent and treat tumor. Journal of Integrative Medicine, 12 (4), 331-335. PMID: 25074882.
+Ling CQ#*, Wang L*, Wang Y, Zhang Y, Yin Z, Wang M & Ling C#. (2014) The Roles of Traditional Chinese Medicine in Gene Therapy. Journal of Integrative Medicine, 12(2):67-75. PMID: 24666672.
+Book Chapter
+Ling C & Zhang D, Adeno-associated virus and vector. In: Nanotechnology in Gene Delivery (edited by Drs. Yarong Liu, Pin Wang), Chapter 2, 48pp. The World Scientific Encyclopedia of Nanomedicine and Bioengineering II: Biosensing, Gene Delivery, and Tissue Regeneration, Volume 3 (Editor-in-chief: Dr. Donglu Shi).
+Together we discover. Together we teach.
+Together we care for our patients and our communities.
+Together we create unstoppable momentum.
+
+The Foundation for The Gator Nation
+Log in
+Updated June 5, 2017
+Contact Webmaster
+Sitemap
+This page uses Google Analytics (Google Privacy Policy)
+Disclaimer & Permitted Use
+Disability Services
+Security Policies
+UF Privacy Policy
+Shands Privacy Policy
+© 2017 University of Florida
+UF Health is a collaboration of the University of Florida Health Science Center, Shands hospitals and other health care entities.
+© 2017 University of Florida Health
+Department of Pediatrics | 1600 SW Archer Road, Gainesville, FL 32607 | (352) 273-9001

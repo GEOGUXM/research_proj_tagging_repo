@@ -1,0 +1,35 @@
+###AuthorName=Peter HO
+###AuthorTitle=Professor
+###Affiliation=
+###Position=
+##############################
+    Faculty
+Peter HO
+PhD, University of Cambridge, UK (1999)
+Professor
+Office : S7-03-10  |  Tel : 6516 8781 / 6516 2833
+Email : phyhop@nus.edu.sg or scihop@nus.edu.sg
+Current Research
+Organic semiconductor device physics and technology, covering polymer light-emitting diodes, field-effect transistors, photovoltaic memory devices, and monolayer devices. Polymer heterostructures and interfaces.
+Selected Publications
+B. Liu, R.Q. Png, J.K. Tan, and P.K.H. Ho, “Evaluation of built-in potential and loss mechanisms at contacts in organic solar cells: device model parameterisation, validation, and prediction”, Adv. Energy Mater. 4, 1200972 (2014).
+B. Liu, R.Q. Png, L.H. Zhao, L.L. Chua, R.H. Friend, and P.K.H. Ho, “High internal quantum efficiency in fullerene solar cells based on crosslinked polymer donor networks”, Nat. Commun. 3, 1321 (2012).
+R.Q. Png, P.J. Chia, J.C. Tang, B. Liu, S. Sivaramakrishnan, M. Zhou, S.H. Khong, H.S.O. Chan, J.H. Burroughes, L.L. Chua, R.H. Friend, and P.K.H. Ho, “High-performance polymer semiconducting heterostructure devices by nitrenes mediated photocrosslinking of alkyl side chains”, Nat. Mater. 9, 152 (2010).
+M. Zhou, L.L. Chua, R.Q. Png, C.K. Yong, S. Sivaramakrishnan, P.J. Chia, A.T.S. Wee, R.H. Friend, and P.K.H. Ho, “Role of d-hole-doped interfaces at ohmic contacts to organic semiconductors”, Phys. Rev. Lett. 103, 036601 (2009).
+P.J. Chia, Sivaramakrishnan, S. M. Zhou, R.Q. Png, L.L. Chua, R.H. Friend, and P.K.H. Ho, “ Direct evidence for the role of the Madelung potential in determining the work function of doped organic semiconductors”, Phys. Rev. Lett. 102, 096602 (2009).
+S. Sivaramakrishnan, P.J. Chia, Y.C. Yeo, L.L. Chua, and P.K.H. Ho, “Controlled insulator-to-metal transformation in printable polymer composites with nanometal clusters”, Nat. Mater. 6, 149 (2007).
+Affiliations & Links
+Vice Dean (Research), Science Dean's Office
+Curriculum Vitae
+Organic Nano Device Laboratory (ONDL)
+Centre for Advanced 2D Materials
+Home Staff Faculty
+Department of Physics
+Faculty of Science
+2 Science Drive 3
+Blk S12, Level 2
+Singapore 117551
++65 6516 2604
+enquiry@physics
+      © National University of Singapore. All Rights Reserved.
+Legal Branding guidelines

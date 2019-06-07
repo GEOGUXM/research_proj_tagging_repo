@@ -1,0 +1,1576 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Skip to content
+Skip to navigation
+SUNetID Login
+ENERGY
+Stanford Precourt Institute for Energy
+STUDENTS FACULTY & STAFF INDUSTRY MEDIA
+Search form
+Search
+Main menu
+Home
+About
+Research
+Education
+News
+Events
+People
+Get Involved
+People
+People
+Stanford Energy Researchers
+Precourt Institute Affiliated Faculty
+Precourt Institute Fellows
+Precourt Institute Advisory Council
+Precourt Institute Staff
+Founding Director
+Stanford Energy Researchers
+Some 225 faculty and staff at Stanford University and affiliated institutions are engaged in energy-related research. Many of the individuals listed below also engage in research not related to energy, which is not described here. This database covers only energy-related research at Stanford, SLAC National Accelerator Laboratory, the Hoover Institution and the Carnegie Institution departments based at Stanford. Names link to Stanford employee directory listings. Terms for filtering under “Energy Research Area” are divided into categories provided in capital letters, e.g. “END USE/EFFICIENCY” “ENVIRONMENTAL IMPACTS,” and “POLICY & ECONOMICS.” Users can filter for specific areas or the entire category.
+Please send comments and suggestions to: mark.golden@stanford.edu.
+Search faculty by name
+Filter by Dept/Research Program
+- Any -
+Aeronautics & Astronautics
+Applied Physics
+Biochemistry
+BioEngineering
+Biology
+Carnegie - Global Ecology
+Carnegie - Plant Biology
+Center on Food Security & the Environment
+ChangeLabs
+Chemical Engineering
+Chemistry
+Civil & Environmental Engineering
+Communication
+Computer Science
+Earth System Science
+Economics
+Education
+Electrical Engineering
+Energy Modeling Forum
+Energy Resources Engineering
+Energy Transformation Collaborative
+Geological & Environmental Sciences
+Geophysics
+Global Climate & Energy Project
+GSB - Accounting
+GSB - Economics
+GSB - Marketing
+GSB - Operations, Info. & Tech.
+Hoover Task Force on Energy Policy
+Law, School of
+Management Science & Engineering
+Materials Science & Engineering
+Mechanical Engineering
+Molecular & Cellular Physiology
+Natural Gas Initiative
+Pediatrics
+Physics
+Political Science
+Precourt Energy Efficiency Center
+Precourt Institute
+Program in Writing & Rhetoric
+Program on Energy & Sustainable Development
+Psychology
+SLAC
+SLAC - Particle Physics & Astrophysics
+SLAC - Photon Science
+SLAC - Stanford Synchrotron Radiation Lightsource
+Sociology
+Stanford Environmental & Energy Policy Analysis Center
+Stanford Institute for Materials & Energy Science
+Stanford Woods Institute for the Environment
+Steyer-Taylor Center for Energy Policy & Finance
+SUNCAT Center for Interface Science & Catalysis
+TomKat Center for Sustainable Energy
+Filter by Energy Research Area
+- Any -
+END USE/EFFICIENCY
+-Buildings
+-Energy & Behavior
+-Green Computing
+-Heating & Cooling
+-Sensors & Data
+-Thermoelectrics
+-Transportation
+-Water Systems
+ENERGY STORAGE & TRANSMISSION
+-Batteries & Fuel Cells
+-Electric Grid
+-Grid Scale Storage
+-Superconductors
+ENVIRONMENTAL IMPACTS
+-Air Quality
+-Climate
+-Integrated Modeling
+-Land Use
+-Water
+FOSSIL & NUCLEAR ENERGY
+-CO2 Capture, Storage & Conversion
+-Combustion
+-Enhanced Oil Recovery
+-Nuclear
+-Natural Gas
+-Unconventional Oil & Gas
+POLICY & ECONOMICS
+-Economic Development & Equity
+-Energy Markets
+-Finance & Subsidies
+-Law
+-Management & Innovation
+-National Security
+-Public Opinion
+-Tax & Regulation
+RENEWABLE ENERGY
+-Bioenergy
+-Geothermal
+-Photovoltaics
+-Renewable Fuels
+-Solar Thermal
+-Wind
+Nicole Ardoin
+DEPARTMENT/RESEARCH PROGRAM:
+Education, Stanford Woods Institute for the Environment
+ENERGY RESEARCH AREA:
+Buildings, Energy & Behavior, Transportation
+Developing a community-based program for reducing residential energy use, working with Girl Scouts. Environmental learning and behavior, including transportation.
+Kathleen Armel
+DEPARTMENT/RESEARCH PROGRAM:
+Precourt Energy Efficiency Center
+ENERGY RESEARCH AREA:
+Buildings, Energy & Behavior, Sensors & Data
+Applying behavior change techniques to reduce energy use. Using pervasive sensor data to measure relevant behaviors and to evaluate efficacy of interventions. Scaling up effective behavior change techniques in energy and climate.
+Gregory Asner
+DEPARTMENT/RESEARCH PROGRAM:
+Carnegie - Global Ecology, Earth System Science
+ENERGY RESEARCH AREA:
+Climate, Land Use
+Impacts on local ecology of biofuel expansion. Impacts on climate of using more land for biomass energy. Regional impacts of climate change and energy policy in the Western Hemisphere.
+Atilla Aydin
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences
+ENERGY RESEARCH AREA:
+Enhanced Oil Recovery
+The formation, geometric patterns and fluid flow properties of fractures and faults, at lengths from a thin section to a mountain range.
+Khalid Aziz
+DEPARTMENT/RESEARCH PROGRAM:
+Energy Resources Engineering
+ENERGY RESEARCH AREA:
+CO2 Capture, Storage & Conversion, Enhanced Oil Recovery, Natural Gas, Unconventional Oil & Gas
+Models for predicting performance of conventional and non-conventional hydrocarbon reservoirs (including shale oil and gas), and CO2 sequestration operations. Flow of complex mixtures (oil, gas and water) in porous rocks and in pipes. Optimization of oil field development and operations.
+Jeremy Bailenson
+DEPARTMENT/RESEARCH PROGRAM:
+Communication
+ENERGY RESEARCH AREA:
+Energy & Behavior
+Using avatars and virtual reality simulations to reduce energy use through reexamination of personal energy behavior and by connecting specific energy use and environmental consequences.
+Jack Baker
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Nuclear
+Probabilistic and statistical tools for modeling the reliability of nuclear power plants and nuclear waste repositories.
+Jeffrey Ball
+DEPARTMENT/RESEARCH PROGRAM:
+Steyer-Taylor Center for Energy Policy & Finance
+ENERGY RESEARCH AREA:
+Economic Development & Equity, Energy Markets, Finance & Subsidies, Management & Innovation, Tax & Regulation
+How China and the U.S. could deploy solar energy more efficiently if each one played to its economic strengths. Making wind and solar power affordable.
+Shilajeet (Banny) Banerjee
+DEPARTMENT/RESEARCH PROGRAM:
+ChangeLabs
+ENERGY RESEARCH AREA:
+Buildings, Energy & Behavior
+Developing human-centered, online programs to motivate residents to reduce energy consumption, using social norms and goal setting as motivators.
+Zhenan Bao
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, CO2 Capture, Storage & Conversion, Bioenergy, Photovoltaics
+Synthesis of functional organic and polymer materials for numerous energy applications, such asnanostructured polymers for low-cost, stretchable batteries and PV cells, and thin-film organic PV cells. Printable, electrically conductive gel for potential use in energy storage and biofuel cells.Nitrogen-doped porous carbon for CO2 capture.
+Lanier Benkard
+DEPARTMENT/RESEARCH PROGRAM:
+GSB - Economics
+ENERGY RESEARCH AREA:
+Energy & Behavior, Management & Innovation
+Dynamic effects of bans on fluorescent light bulbs on consumer decision making, lighting manufacturers, interactions between consumers and firms, and technological innovation.
+Sally M. Benson
+DEPARTMENT/RESEARCH PROGRAM:
+Energy Resources Engineering, Global Climate & Energy Project, Precourt Institute
+ENERGY RESEARCH AREA:
+Climate, CO2 Capture, Storage & Conversion
+Sequestering CO2 in deep underground formations. Permeability of CO2 and brine, especially sensitivity to injection flow-rate and various fluid properties. Net energy analysis of emerging technologies, such as PV and energy storage.Energy systems analysis to guide decisions about providing energy while reducing GHG emissions.
+Stacey Bent
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering, TomKat Center for Sustainable Energy
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Photovoltaics, Renewable Fuels
+Understanding and controlling surface and interfacial chemistry, and materials synthesis. Applying this to new materials and processes for next generation low-cost solar cells, fuel cells and catalysts.
+Paul Berg
+DEPARTMENT/RESEARCH PROGRAM:
+Biochemistry, Hoover Task Force on Energy Policy
+ENERGY RESEARCH AREA:
+Bioenergy, National Security
+Alternative transportation fuels, particularly biofuels. U.S. energy policy and its effects on the nation's domestic and international political priorities, particularly national security.
+Sarah Billington
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Buildings
+Sustainable, durable construction materials. Use of renewable materials instead of plastics to make structural insulated panels, which improve heating and cooling efficiency in buildings.
+Biondo Biondi
+DEPARTMENT/RESEARCH PROGRAM:
+Geophysics
+ENERGY RESEARCH AREA:
+Enhanced Oil Recovery
+New algorithms to improve imaging of reflection seismic data for structural and stratigraphic interpretation. Continuous passive seismic monitoring for detection of CO2 plumes in geologic sequestration projects.
+Dennis Bird
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences
+ENERGY RESEARCH AREA:
+Geothermal
+Accelerating the conversion of CO2 into carbonate minerals that can be sequestered in silicate rocks rich in magnesium and calcium. Chemical and physical processes of geothermal systems.
+Michael Boskin
+DEPARTMENT/RESEARCH PROGRAM:
+Economics, Hoover Task Force on Energy Policy
+ENERGY RESEARCH AREA:
+Finance & Subsidies, Tax & Regulation
+Tax and public expenditure theory and applications. Federal energy subsidies. Carbon-based taxation.
+Craig Bowman
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Climate, Combustion, Transportation
+Reacting flows and processes by which pollutants are formed and destroyed in combustion. The environmental impact of energy use, specifically greenhouse gas emissions from fossil fuels. Rate constants for reactions of OH with vehicle and jet fuels.
+Stephen Boyd
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Electric Grid
+Decentralized message passing to constantly optimize an electricity network with many different devices, each with its own complex constraints and objective.
+Adam Brandt
+DEPARTMENT/RESEARCH PROGRAM:
+Energy Resources Engineering
+ENERGY RESEARCH AREA:
+Climate, CO2 Capture, Storage & Conversion, Natural Gas, Unconventional Oil & Gas
+Reducing the environmental impacts of energy systems. Methane leaks from US natural gas system. Analysis of CO2 capture technologies. Life-cycle analysis of transportation fuels. Modeling global oil depletion, or "peak oil," and transitions to oil substitutes.
+Mark Brongersma
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Photovoltaics
+Development of silicon-based microphotonic functionality and plasmonic devices to manipulate the flow of light at the nanoscale. Use of nanowires in thin-film solar cells to boost efficiency.
+Gordon Brown
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences, SLAC - Photon Science
+ENERGY RESEARCH AREA:
+Geochemistry of mineral surfaces and their reactivity with organic matter. CO2 reaction with magnesium-silicate rock in carbon sequestration, with a view to enhancing reaction and reducing cost.
+Thomas Byers
+DEPARTMENT/RESEARCH PROGRAM:
+Management Science & Engineering
+ENERGY RESEARCH AREA:
+Management & Innovation
+Entrepreneurship education regarding high-growth and technology enterprises, in particular energy-related technologies.
+Jef Caers
+DEPARTMENT/RESEARCH PROGRAM:
+Energy Resources Engineering
+ENERGY RESEARCH AREA:
+Enhanced Oil Recovery, Natural Gas
+Stochastic modeling and assessing uncertainty for decision making in geoengineering applications, particularly in modeling oil and gas reservoirs.
+Ken Caldeira
+DEPARTMENT/RESEARCH PROGRAM:
+Carnegie - Global Ecology, Earth System Science
+ENERGY RESEARCH AREA:
+CO2 Capture, Storage & Conversion, Climate, Wind
+Transition from coal to low-carbon electricity. Oceanic CO2 sequestration. Accounting for CO2 emissions. Future CO2 from existing energy infrastructure. High-altitude wind power. Assessing wind power resources. Geoengineering to combat climate change.
+Brian Cantwell
+DEPARTMENT/RESEARCH PROGRAM:
+Aeronautics & Astronautics, Mechanical Engineering
+ENERGY RESEARCH AREA:
+Combustion, Water, Transportation
+New, fast burning fuels for application to hybrid propulsion. Nitrous oxide as a propellant for small space thrusters. Energy-neutral biological sewage treatment.
+Mark Cappelli
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Combustion, Solar Thermal, Transportation
+Plasma propulsion. Plasma and combustion synthesis of materials. Effects of injecting ionized gas on the operation of a fuel cell. Photon-enhanced thermionic emission devices, which use solar heat and light.
+Matteo Cargnello
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Combustion, Photovoltaics, Renewable Fuels
+Developing materials for heterogeneous catalysis and photocatalysis using nanoparticles and nanocrystals, especially of titanium dioxide. Applications include hydrogen and methanol generation through photocatalysis, reduction of methane emissions, PV solar cells, solid oxide fuel cells and batteries.
+Jeremy Carl
+DEPARTMENT/RESEARCH PROGRAM:
+Hoover Task Force on Energy Policy
+ENERGY RESEARCH AREA:
+Energy Markets, Finance & Subsidies, Law, National Security, Tax & Regulation
+Energy security. Climate policy. Global fossil fuel markets. Government subsidies for renewable energy technology and fossil fuels. Meeting the U.S. military's energy challenges.
+Christopher Chidsey
+DEPARTMENT/RESEARCH PROGRAM:
+Chemistry, SLAC - Stanford Synchrotron Radiation Lightsource
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Renewable Fuels
+Electron transfer between electrodes and among redox species. Electrocatalysts to convert CO2 and feedstocks to higher value materials. Water oxidation with metal-oxide semiconductor anodes.
+Samuel Chiu
+DEPARTMENT/RESEARCH PROGRAM:
+Management Science & Engineering
+ENERGY RESEARCH AREA:
+Energy & Behavior, Transportation
+The extent to which dashboard mileage gauges and other behavior modification techniques improve driver efficiency.
+Steven Chu
+DEPARTMENT/RESEARCH PROGRAM:
+Molecular & Cellular Physiology, Physics
+ENERGY RESEARCH AREA:
+Buildings, Batteries & Fuel Cells, Climate, Finance & Subsidies, Management & Innovation, Tax & Regulation
+Research pathways to low-carbon energy systems. Methods to project trends in energy technology innovations and associated new business models. The effect of energy efficiency standards in appliances and buildings, and how these standards affect purchase prices and operating costs. Carbon nanospheres for stable lithium metal anodes.
+William Chueh
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering, Precourt Institute
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Renewable Fuels
+Fundamental and applied electrochemistry: solar fuels, fuel cells, and batteries.
+Jon Claerbout
+DEPARTMENT/RESEARCH PROGRAM:
+Geophysics
+ENERGY RESEARCH AREA:
+Enhanced Oil Recovery
+Developing bidirectional deconvolution to improve filtering and interpretation of seismic data to model the Earth's inner structure in areas like deep water Gulf of Mexico.
+Bruce Clemens
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering, SLAC - Photon Science
+ENERGY RESEARCH AREA:
+Photovoltaics, Renewable Fuels
+Controlling atomic scale structure of thin films and nanomaterials for use in photovoltaics and hydrogen storage. Photovoltaic absorbers from earth-abundant elements. Ion-beam assisted deposition for thin-film solar.
+Craig Criddle
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Water Systems, Bioenergy
+Creating valuable products from organic waste streams. Turning wastewater treatment into a producer of energy instead of a consumer. Using anaerobic bacteria to convert organic waste to methane gas for fuel to convert wastewater to drinking water. Biosynthesis and molecular-scale recycling of bioplastics and biocomposites. In-situ remediation of radioactive waste.
+Yi Cui
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering, SLAC - Photon Science
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Electric Grid, Grid Scale Storage, Bioenergy, Photovoltaics
+Fabrication of nanoscale materials, and study of their electronic, photonic, electrochemical and catalytic properties. Applications include lithium ion batteries, supercapacitors, CIGS solar cells, transparent electrodes and using carbon nanotubes in microbial fuel cell electrodes.
+John Dabiri
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering, Mechanical Engineering
+ENERGY RESEARCH AREA:
+Wind
+Science and technology at the intersection of fluid mechanics, energy and environment, and biology, including bio-inspired wind energy.
+John Dabiri
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Jeremy Dahl
+DEPARTMENT/RESEARCH PROGRAM:
+Stanford Institute for Materials & Energy Science
+ENERGY RESEARCH AREA:
+Unconventional Oil & Gas
+Understanding diamondoid electron transport properties, synthesis of higher diamondoids, and developing diamondoid applications for oil and gas exploration.
+Hongjie Dai
+DEPARTMENT/RESEARCH PROGRAM:
+Chemistry
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Renewable Fuels
+New ways to synthesize graphene and carbon nanotube architectures for potential future device applications, such as fuel cells, catalysis, and lithium-air and nickel-metal batteries. Tungsten disulfide nanoflakesas a catalyst for producing hydrogen from water.
+Bill Dally
+DEPARTMENT/RESEARCH PROGRAM:
+Computer Science, Electrical Engineering
+ENERGY RESEARCH AREA:
+Green Computing
+Energy-Efficient computing. Developing an efficient low-power microprocessor. Developing an image and signal processor 20 times more power efficient than conventional signal processors.
+Reinhold Dauskardt
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Photovoltaics, Solar Thermal
+Characterizing and modeling the fundamental micromechanical and photochemical mechanisms that dictate the reliability and lifetimes of emerging energy technologies, including solar cells and their modules, PEM fuel cells, and batteries.
+Jenna Davis
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering, Stanford Woods Institute for the Environment
+ENERGY RESEARCH AREA:
+Water Systems, Economic Development & Equity
+The determinants of legal and political conflict in global infrastructure projects. Recovery of energy, nutrients and water from household and community-level sanitation systems.
+Thomas Devereaux
+DEPARTMENT/RESEARCH PROGRAM:
+SLAC - Photon Science, Stanford Institute for Materials & Energy Science
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Photovoltaics, Superconductors
+Modern computational approaches to electron and photon dynamics. Models for new energy paradigms for developing novel materials for superconductors, photovoltaics and batteries.
+Noah Diffenbaugh
+DEPARTMENT/RESEARCH PROGRAM:
+Earth System Science, Stanford Woods Institute for the Environment
+ENERGY RESEARCH AREA:
+Climate, Land Use, Energy Markets
+Interactions between climate change, biofuel mandates, and energy and agriculture markets. Interactions between climate and large-scale solar energy projects.
+Jennifer Dionne
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Grid Scale Storage, Photovoltaics
+Nanostructured materials for light manipulation, photovoltaics and photocatalysis. Converting low energy photons to higher for greater efficiency in solar cells. Hydrogen absorption and desorption in individual palladium nanocrystals
+Sebastian Doniach
+DEPARTMENT/RESEARCH PROGRAM:
+Applied Physics, Physics, SLAC - Photon Science
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells
+Self-assembly of nanostructures from the natural protein clathrin to act as templates for metallization, which could potentially be of interest as experimental battery electrodes.
+Persis Drell
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering, Physics, SLAC
+ENERGY RESEARCH AREA:
+Nuclear
+Use of X-ray free electron lasers in energy research.
+Rob Dunbar
+DEPARTMENT/RESEARCH PROGRAM:
+Earth System Science
+ENERGY RESEARCH AREA:
+Climate, Water
+Climate impacts of energy use and production. Anthropogenic climate change detection and attribution. CO2 uptake by the ocean., e.g., natural carbon sequestration as well as ocean acidification.
+Eric Dunham
+DEPARTMENT/RESEARCH PROGRAM:
+Geophysics
+ENERGY RESEARCH AREA:
+Land Use, Unconventional Oil & Gas
+Characterization of guided waves in fluid-filled cracks, includinginduced hydraulic fractures in rock filled with water or hydrocarbons, andinstability when the fluid velocity exceeds a threshold. Inference of fracture geometry from resonant frequencies and attenuation.Fault damage zones impact on the flow characteristics of fractured reservoirs, and predicting fault damage zones.
+Louis Durlofsky
+DEPARTMENT/RESEARCH PROGRAM:
+Energy Resources Engineering
+ENERGY RESEARCH AREA:
+CO2 Capture, Storage & Conversion, Enhanced Oil Recovery, Natural Gas
+Computational modeling of subsurface flow, with applications in oil and gas production and geological carbon sequestration. Optimization of subsurface flow operations and energy systems.
+Hermann Durr
+DEPARTMENT/RESEARCH PROGRAM:
+SLAC, Stanford Institute for Materials & Energy Science
+ENERGY RESEARCH AREA:
+Superconductors
+Ultrafast charge and spin dynamics in magnetic and strongly correlated electron materials. Nanomagnetism. Interaction of free electron laser radiation with matter.
+John Eaton
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Combustion
+Flow and heat transfer in complex turbulent flows. Turbulence interactions with dispersed particles and droplets, such as with pulverized coal combustors and fast-fluidized beds.
+Christopher Edwards
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+CO2 Capture, Storage & Conversion, Combustion, Transportation
+Efficient, low-polluting transportation engines (piston and turbine) by taking reactants to extreme states of energy density, and advanced electric generation. Sootless diesel engine. Coal-fired power with CO2 capture via combustion in supercritical saline aquifer water.
+David Ehrhardt
+DEPARTMENT/RESEARCH PROGRAM:
+Biology, Carnegie - Plant Biology
+ENERGY RESEARCH AREA:
+Bioenergy
+Study of plant cell wall biogenesis, cellulose synthase dynamics and trafficking, for potential application to cellulosic biomass for energy.
+Paul Ehrlich
+DEPARTMENT/RESEARCH PROGRAM:
+Biology
+ENERGY RESEARCH AREA:
+Climate, Land Use
+The population-resource-environment crisis, including a revision of humanity's energy systems, energy's effect on biodiversity, and the potential for reduction in energy consumption.
+Abbas El-Gamal
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Electric Grid
+A simulation tool that models all parts of the electrical network, including generation, transmission, intermittent renewable supply, energy storage, distributed generation and electrical vehicles.
+Gary Ernst
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences
+ENERGY RESEARCH AREA:
+Climate, Nuclear
+Time, temperature and pressure effects on maturation of organic matter. Super-efficient extraction-conservation-recycling and ubiquitous, inexpensive energy from nuclear fusion and solar power.
+Rodney Ewing
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences
+ENERGY RESEARCH AREA:
+Nuclear
+The back-end of the nuclear fuel cycle, mainly nuclear materials and the geochemistry of radionuclides with application to permanent geologic disposal. The long-term behavior of materials, such as those used in radioactive waste disposal.
+Walter Falcon
+DEPARTMENT/RESEARCH PROGRAM:
+Economics, Center on Food Security & the Environment
+ENERGY RESEARCH AREA:
+Bioenergy, Economic Development & Equity, Climate, Land Use
+How different scenarios of expanded biofuels production in rich and poor countries will affect global and regional food prices, farmer incomes, food consumption by the poor, and climate.
+Shanhui Fan
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Photovoltaics, Solar Thermal, Transportation
+Photonic band gap materials and nanoscale photonic devices. Thermophotovoltaics. Control of thermal radiation. Nanostructured solar cells. Wireless charging of electric cars.
+Scott Fendorf
+DEPARTMENT/RESEARCH PROGRAM:
+Earth System Science
+ENERGY RESEARCH AREA:
+Water
+Large hydroelectric dam impact on groundwater.
+Christopher Field
+DEPARTMENT/RESEARCH PROGRAM:
+Biology, Carnegie - Global Ecology, Earth System Science
+ENERGY RESEARCH AREA:
+Climate, Land Use, Bioenergy
+Integrating large-scale solar projects with biofuel production in deserts. Impacts on climate of converting land use from food to biofuel crops. Climate benefits of converting biofuel crops from annual plants to perennials. Global potential of bioenergy.
+Martin Fischer
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering, Precourt Energy Efficiency Center
+ENERGY RESEARCH AREA:
+Buildings
+Virtual design and construction.
+Ian Randal Fisher
+DEPARTMENT/RESEARCH PROGRAM:
+Applied Physics
+ENERGY RESEARCH AREA:
+Superconductors
+Materials with unconventional magnetic and electronic properties. Effects of electron correlation. Superconductivity, topological insulators and behavior of electrons in low-dimensional materials.
+James Fishkin
+DEPARTMENT/RESEARCH PROGRAM:
+Communication
+ENERGY RESEARCH AREA:
+Public Opinion
+Impact of deliberative polling, (which explores how people's opinions would change if they were more informed), on energy choices, attitudes toward renewable energy and energy conservation.
+June Flora
+DEPARTMENT/RESEARCH PROGRAM:
+Precourt Energy Efficiency Center
+ENERGY RESEARCH AREA:
+Buildings, Energy & Behavior, Sensors & Data
+Understanding energy efficiency behavior selection and plasticity, and tests of adoption. Affective, cognitive and social web interfaces for reducing energy use. Real-time feedback and its affects.
+John Fox
+DEPARTMENT/RESEARCH PROGRAM:
+Applied Physics, SLAC
+ENERGY RESEARCH AREA:
+Transportation
+Trip estimation techniques to better manage hybrid vehicle batteries. Energy interests in transportation systems, energy efficiency and education of scientists and non-scientists in energy policy and technology.
+Curtis Frank
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Buildings, Photovoltaics
+Synthesizing and characterizing polymer electrolyte membranes for fuel cells, both acidic and alkaline. Potential energy applications of ultrathin films and amphiphiles. Green construction materials.
+David Freyberg
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Water Systems
+Assessing the scale of recovering water, energy and other resources at wastewater treatment facilities.
+Wolf Frommer
+DEPARTMENT/RESEARCH PROGRAM:
+Biology, Carnegie - Plant Biology
+ENERGY RESEARCH AREA:
+Bioenergy
+Key mechanisms for distributing energy in plants and fine tuning biomass. Cellulose production - polymer synthesis and extrusion. Nitrogen efficiency--reducing fossil fuels in making fertilizers.
+Gerald Fuller
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering
+ENERGY RESEARCH AREA:
+Photovoltaics
+Use of orientation dynamics in thin-film solar cells. Applying an electric field to the film to induce directionally dependent properties in polymer crystallites to enhance electron mobility.
+Kelly Gaffney
+DEPARTMENT/RESEARCH PROGRAM:
+SLAC - Photon Science
+ENERGY RESEARCH AREA:
+Renewable Fuels
+Electron transfer dynamics. Mechanisms for directed and efficient channeling of solar energy to chemical energy. Multi-exciton generation efficiency in nano-structured materials.
+Theodore Geballe
+DEPARTMENT/RESEARCH PROGRAM:
+Applied Physics
+ENERGY RESEARCH AREA:
+Superconductors
+Research leading to superconductors with higher transition temperatures and improved current carrying capability that can improve the generation and transmission of electrical energy.
+Chris Gerdes
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Transportation, Combustion
+Using control systems to reduce the environmental impact of automobiles. Unmanned electric vehicles. Homogeneous charge compression ignition engines.
+Margot Gerritsen
+DEPARTMENT/RESEARCH PROGRAM:
+Energy Resources Engineering
+ENERGY RESEARCH AREA:
+Enhanced Oil Recovery, Solar Thermal
+Models to predict the performance of enhanced oil recovery methods, particularly gas injection and in-situ combustion. Improved siting of large-scale concentrating solar power projects.
+David Golden
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Air Quality, Climate, Combustion, Transportation
+Chemical kinetics, such as determination of bond dissociation energies. Rate constants for reactions of OH with fuels. Optimization of synthetic oxygenated fuels. Hydrogen effects on climate, stratospheric ozone and air pollution.
+David Goldhaber-Gordon
+DEPARTMENT/RESEARCH PROGRAM:
+Physics
+ENERGY RESEARCH AREA:
+Superconductors
+Behavior of electrons confined to nanostructures. Tuning electronic and optical properties of materials and nanostructures using electrolyte gating, to optimize materials for energy conversion.
+Andrea Goldsmith
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Buildings, Electric Grid, Sensors & Data, Transportation
+Wireless technology, including channel modeling, multiuser communications, signal processing and system design, for use in smart grids, automated highways and intelligent home electronics.
+Kenneth Goodson
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Buildings, Thermoelectrics, Transportation
+Study of heat transfer and energy conversion processes, such as thermoelectric and photonic, at nanoscale. Novel materials for thermoelectric waste-heat recovery in vehicles and buildings. Two-phase flow in fuel cell microchannels.
+Steven Gorelick
+DEPARTMENT/RESEARCH PROGRAM:
+Earth System Science
+ENERGY RESEARCH AREA:
+CO2 Capture, Storage & Conversion, Energy Markets, Water
+Fundamentals of transport of groundwater and contaminants. The future of global oil resources, supply and demand. Deep CO2 sequestration and earthquake triggering.
+Dimitry Gorinevsky
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Electric Grid
+Big data analytics for asset management. Risk-adjusted forecasting of electric power load. Systems and controls analysis of power systems with distributed generation.
+Larry Goulder
+DEPARTMENT/RESEARCH PROGRAM:
+Economics, Hoover Task Force on Energy Policy, Stanford Environmental & Energy Policy Analysis Center
+ENERGY RESEARCH AREA:
+Energy Markets, Law, Tax & Regulation
+The environmental and economic impacts of U.S. and international environmental policies, including policies to deal with climate change, and with pollution from power plants and automobiles. Strengths and weaknesses of a carbon tax. Design of cap-and-trade systems. Obama administration's "Clean Power Plan."
+Stephan Graham
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences
+ENERGY RESEARCH AREA:
+Enhanced Oil Recovery, Natural Gas
+Energy resources of sedimentary basins. Basin and petroleum basin systems modeling. Geologic characterization of petroleum reservoirs, especially deep-water reservoirs.
+Arthur Grossman
+DEPARTMENT/RESEARCH PROGRAM:
+Biology, Carnegie - Plant Biology
+ENERGY RESEARCH AREA:
+Bioenergy, Renewable Fuels
+Acclimation in photosynthetic organisms. Generating bioenergy in the form of hydrocarbons and electricity from living cells. Regulatory aspects of photosynthesis and the biogenesis of photosynthetic membranes.
+Dian Grueneich
+DEPARTMENT/RESEARCH PROGRAM:
+Hoover Task Force on Energy Policy, Precourt Energy Efficiency Center, Precourt Institute
+ENERGY RESEARCH AREA:
+Buildings, Sensors & Data, Finance & Subsidies, Law, Management & Innovation, Tax & Regulation
+The next generation of of policies, programs and technologies to conserve electricity in buildings. Use of deep data to deliver energy efficiency. New business models for U.S. electric utilities in an environment of no growth for electricity consumption. Integrating clean energy goals with water, air quality and transportation goals. Implementation of the Obama administration's proposed rules to reduce CO2 emissions from coal-fired power plants. Modernizing California's electric grid.Streamlining California's sustainable energy bureaucracy.
+Turgut Gur
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, CO2 Capture, Storage & Conversion, Renewable Fuels
+Electrochemical energy conversion, and storage materials and processes. Fuel cells for methane, hydrogen and solid fuel conversion. CO2 and water electrolysis for energy storage (methane). Coal-fired fuel cell with CO2 capture.
+Ronald Hanson
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Combustion, Transportation
+Development of laser-based diagnostics to optimize performance and minimize pollution of combustion and propulsion systems. Synthetic oxygenated fuels. Sensors for advanced combustion. Rate constants for reactions of OH with fuels.
+James S. Harris
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Green Computing, Photovoltaics
+New materials for electronic and optoelectronic devices. Low-cost, thin-film solar using III-V compound semiconductors including III-nitrides. Tiny, highly efficient semiconductor lasers for low-energy data interconnects.
+Jerry Harris
+DEPARTMENT/RESEARCH PROGRAM:
+Geophysics
+ENERGY RESEARCH AREA:
+Enhanced Oil Recovery
+Seismic wave propagation in multi-scale heterogeneous reservoirs. Characterization and monitoring of petroleum and carbon storage systems. CO2 sequestration in coal beds.
+Stefan Heck
+DEPARTMENT/RESEARCH PROGRAM:
+Energy Transformation Collaborative, Precourt Institute
+ENERGY RESEARCH AREA:
+Finance & Subsidies, Management & Innovation, Tax & Regulation
+Innovation, energy and resource economics. Designs for new investment vehicles and modification of existing ones.
+Siegfried Hecker
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Economic Development & Equity, National Security
+Managing the global expansion of nuclear power while avoiding the proliferation of nuclear weapons, with special attention to the nuclear aspirations of states such as North Korea and Iran.
+Sarah Heilshorn
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells
+Self-assembly of nanostructures from the natural protein clathrin to act as templates for metallization, which could potentially be of interest as experimental battery electrodes.
+Lambertus Hesselink
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Buildings, Combustion, Solar Thermal
+Optics, photonics and optical materials. Combined cooling, heating and power system for the home with thermoacoustic Stirling engine core fueled by natural gas and solar thermal energy.
+Lynn Hildemann
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Air Quality, Buildings
+Characteristics of of airborne particles emitted from urban combustion sources. Assessment of air pollutant dispersion and mixing indoors, including the effects of energy-efficient building design strategies on indoor pollutant levels.
+Roland Horne
+DEPARTMENT/RESEARCH PROGRAM:
+Energy Resources Engineering
+ENERGY RESEARCH AREA:
+Enhanced Oil Recovery, Unconventional Oil & Gas, Geothermal
+Geothermal, oil and gas reservoir engineering. Energy production optimization. Enhanced geothermal systems. Well test interpretation. Tracer analysis of fractures.
+Mark Horowitz
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Green Computing
+Developing energy efficient electronic solutions. Circuit, architecture and application optimization tools to minimize energy needed for each task. Applications from server farms to imagers in mobile platforms.
+Roger Howe
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Green Computing, Solar Thermal
+Sensors and actuators for energy conversion. Optimizing materials for photon-enhanced thermionic emission. Nano electromechanical relays for ultra-low power computation. Discovering new, chemically stable nanomaterials for thermionic energy conversion.
+Robert Huggins
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Grid Scale Storage
+Overview of advanced batteries. New types of long life, safe and inexpensive alkali metal batteries to connect wind and solar sources to the electrical grid. Hydrogen transport and hydride formation in metals, alloys and intermetallic compounds for use in vehicular fuel cells and batteries.Materials and phenomena in lithium-ion batteries.
+Hillard Huntington
+DEPARTMENT/RESEARCH PROGRAM:
+Energy Modeling Forum, Management Science & Engineering
+ENERGY RESEARCH AREA:
+Climate, Energy Markets, Integrated Modeling, National Security
+Improving the use of energy-economic models for evaluating energy security, energy price shocks and the energy market impacts of environmental policies. Evaluating U.S. oil security, import reliance and oil markets.GHG emissions and economic implications of new shale gas supplies.
+Harold Hwang
+DEPARTMENT/RESEARCH PROGRAM:
+Applied Physics
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Superconductors
+Atomic scale synthesis and control of complex oxides heterostructures for energy applications, including superconductors, catalysis and charge storage.
+Gianluca Iaccarino
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Buildings, Solar Thermal, Wind
+Developing new computational methods to design and analyze renewable energy, including solar thermal devices. Using current supercomputers and next-generation high performance systems for multidisciplinary optimization to increase wind turbine power output and reduce noise. Modeling natural ventilation in energy efficient buildings using high-fidelity simulations.
+Dan Iancu
+DEPARTMENT/RESEARCH PROGRAM:
+GSB - Operations, Info. & Tech.
+ENERGY RESEARCH AREA:
+Electric Grid
+New tools for making decisions in complex operational settings. Optimizing power dispatching for energy utility networks in the presence of uncertain demand and supply.
+Robert Jackson
+DEPARTMENT/RESEARCH PROGRAM:
+Earth System Science, Precourt Institute, Stanford Woods Institute for the Environment
+ENERGY RESEARCH AREA:
+Air Quality, Climate, Water, Unconventional Oil & Gas, Tax & Regulation
+Produce scientific knowledge to guide policies on energy extraction and global warming. Environmental costs and benefits of hydraulic fracturing, especially on local water, air, human health and climate. Gas leaks in urban distribution systems. China's gas industry.
+Mark Z. Jacobson
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Air Quality, Climate, Integrated Modeling, Wind
+Developing large-scale clean, renewable energy solutions to global warming, air pollution and energy security. Modeling energy's effects on health and climate. Quantifying wind, water, and solar energy resources and reducing the impacts of their intermittency. Potential damping effect of large, ocean-based wind farms on hurricanes.
+Thomas Jaramillo
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering, SUNCAT Center for Interface Science & Catalysis
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, CO2 Capture, Storage & Conversion, Renewable Fuels
+Tailoring solid-state surfaces for effective catalysis in both the production and consumption of energy. Developing devices for storing renewable electricity based on chemical transformations. Converting CO2 and water into sustainable fuels and chemicals. Tools include nanoparticles, metals, alloys, sulfides, nitrides, carbides, phosphides, oxides, and biomimetic organo-metallic complexes.
+Ramesh Johari
+DEPARTMENT/RESEARCH PROGRAM:
+Management Science & Engineering
+ENERGY RESEARCH AREA:
+Electric Grid, Energy Markets
+Design and management of the electric grid. Model and analyze efficient market mechanisms for resource allocation on the grid, using tools from operations research, engineering and economics.
+Kenneth Judd
+DEPARTMENT/RESEARCH PROGRAM:
+Hoover Task Force on Energy Policy
+ENERGY RESEARCH AREA:
+Energy Markets, Integrated Modeling, Law
+Developing computational methods for economic modeling and applying them to climate change. Robust decision making on climate and energy policy. Social cost of climate change.
+Matthew Kanan
+DEPARTMENT/RESEARCH PROGRAM:
+Chemistry
+ENERGY RESEARCH AREA:
+Renewable Fuels
+Producing ethanol from carbon monoxide gas with a copper catalyst. Electrochemical CO2 and nitrogen gas reduction. Oxide-derived metal nanoparticle catalysts.
+Aharon Kapitulnik
+DEPARTMENT/RESEARCH PROGRAM:
+Applied Physics, Physics
+ENERGY RESEARCH AREA:
+Superconductors
+Understanding mechanisms for high-temperature superconductors. Novel phases and phase transitions in disordered and strongly correlated electron systems. Micro- and nano-scale mechanical devices
+Hemamala Karunadasa
+DEPARTMENT/RESEARCH PROGRAM:
+Chemistry
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Nuclear, Photovoltaics
+Materials for the reversible sequestration of pollutants and for electro- and photo-catalytic conversions relevant for clean energy. Capturing atmospheric CO2 using organic-inorganic hybrid materials.
+Jakub Kastl
+DEPARTMENT/RESEARCH PROGRAM:
+Economics
+ENERGY RESEARCH AREA:
+Energy Markets
+Impact of emission permits on electricity generation. Multiunit auctions, including those for electricity, in which buyers submit discrete bids and hence their demands are step functions.
+Leonid Kazovsky
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Buildings, Green Computing
+Green energy-efficient networks. Green networks for office and residential buildings. Novel photonics for green networks. Energy efficiency in optical and wireless access networks.
+Donald Kennedy
+DEPARTMENT/RESEARCH PROGRAM:
+Biology, Center on Food Security & the Environment
+ENERGY RESEARCH AREA:
+Finance & Subsidies, Law, Tax & Regulation
+Getting beyond coal and petroleum with subsidies for renewable energy and research support for solar and wind technologies. Policies for vehicle electrification. Research for CO2 capture and sequestration at utility level. Problems with corn ethanol subsidies and natural gas policy.
+Chaitan Khosla
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering, Chemistry
+ENERGY RESEARCH AREA:
+Bioenergy
+Genetically engineering E. coli bacteria to increase production of fatty acids, or biodiesel, from a biological matter feedstock for use as a transportation fuel.
+Steven Kivelson
+DEPARTMENT/RESEARCH PROGRAM:
+Physics
+ENERGY RESEARCH AREA:
+Superconductors
+High-temperature superconductivity. Quantum magnetism. Electronic liquid crystalline phases of matter. Strong correlation effects in electronic materials and devices.
+Karl Knapp
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+(Instructor) Expertise in energy resource planning. Subsidies and social costs. Embodied energy. Renewable energy technology development and diffusion. Energy resource value versus cost. Energy-water nexus.
+Brian Knutson
+DEPARTMENT/RESEARCH PROGRAM:
+Psychology
+ENERGY RESEARCH AREA:
+Energy & Behavior
+Neural mechanisms that support emotion and decision making. Consumer decision making when purchasing major appliances and effects of nudges like eco labeling.
+Charles Kolstad
+DEPARTMENT/RESEARCH PROGRAM:
+Precourt Institute, Stanford Environmental & Energy Policy Analysis Center
+ENERGY RESEARCH AREA:
+Energy Markets, Finance & Subsidies, Law, Tax & Regulation
+Environmental economics and industrial organization, with a focus on climate change and energy markets. Uncertainty and learning in strategic contexts regarding the provision of public goods, mostly in the context of international environmental agreements.
+Jonathan Koomey
+DEPARTMENT/RESEARCH PROGRAM:
+Steyer-Taylor Center for Energy Policy & Finance
+ENERGY RESEARCH AREA:
+Climate, Green Computing
+Long-term trends in the energy-efficiency of computing. Economics of efficient data centers. Analysis of climate mitigation strategies.
+Jeff Koseff
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering, Stanford Woods Institute for the Environment
+ENERGY RESEARCH AREA:
+Water Systems, Climate, Land Use, Water
+Environmental fluid mechanics. Turbulence and internal wave dynamics in stratified flows. The transport of mass and energy in estuarine systems such as San Francisco Bay.
+Anthony Kovscek
+DEPARTMENT/RESEARCH PROGRAM:
+Energy Resources Engineering
+ENERGY RESEARCH AREA:
+CO2 Capture, Storage & Conversion, Enhanced Oil Recovery, Unconventional Oil & Gas
+Recovery of unconventional hydrocarbon resources. Sequestration of greenhouse gases in oil and gas reservoirs.Physics of oil recovery at scales from pore to reservoir. Flow imaging to delineate the mechanisms of oil, water and gas flows in porous rock. Synthesis of models from experimental and field data.
+Christos Kozyrakis
+DEPARTMENT/RESEARCH PROGRAM:
+Computer Science, Electrical Engineering
+ENERGY RESEARCH AREA:
+Green Computing
+Energy efficient computing based on architectures, runtime environments and parallel computer systems. Resource management in large, multi-core systems. Efficient data centers.
+Ilan Kroo
+DEPARTMENT/RESEARCH PROGRAM:
+Aeronautics & Astronautics
+ENERGY RESEARCH AREA:
+Transportation
+Innovative airplane concepts to reduce fuel consumption, such as: higher bypass ratio engines; thicker, higher aspect ratio wings; using thermal updraft; and flying in formation in groups
+Jon Krosnick
+DEPARTMENT/RESEARCH PROGRAM:
+Political Science
+ENERGY RESEARCH AREA:
+Public Opinion
+Surveys documenting public beliefs about global warming and preferences for energy policy for more than 15 years. Monitoring and interpreting processes of opinion formation and change.
+Sanjay Lall
+DEPARTMENT/RESEARCH PROGRAM:
+Aeronautics & Astronautics, Electrical Engineering
+ENERGY RESEARCH AREA:
+Electric Grid
+Control technologies for networked and distributed systems, including the electric system. Impact on power grid reliability from widespread use of distributed energy resources.
+Eric Lambin
+DEPARTMENT/RESEARCH PROGRAM:
+Earth System Science, Center on Food Security & the Environment
+ENERGY RESEARCH AREA:
+Climate, Land Use
+Consequences of switching land use to biofuels. Failure to account for geography of trade leads to an overstatement of GHG emissions from U.S. biofuel policies of nearly 100 percent.
+Sanjiva Lele
+DEPARTMENT/RESEARCH PROGRAM:
+Aeronautics & Astronautics
+ENERGY RESEARCH AREA:
+Buildings, Air Quality, Climate, Combustion, Wind
+Increasing output and reducing costs at large wind farms by positioning smaller, mixing turbines among the primary turbines in conjunction with other new management approaches. The effects of aircraft on climate and pollution. Combined cooling, heating and power system for the home with thermoacoustic Stirling engine.
+Michael Lepech
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Buildings, Finance & Subsidies
+Integration of energy and environmental performance indicators, value and payback time in design of energy-efficient buildings. Market-based valuation of renewable power plants' ecological benefits.
+Jonathan Levav
+DEPARTMENT/RESEARCH PROGRAM:
+GSB - Marketing
+ENERGY RESEARCH AREA:
+Energy & Behavior, Transportation
+The influence of environmental contextual cues on choices in consumer behavior. Long-term cost information related to fuel efficiency and its impact on car purchasing decisions.
+Philip Levis
+DEPARTMENT/RESEARCH PROGRAM:
+Computer Science, Electrical Engineering
+ENERGY RESEARCH AREA:
+Green Computing
+Emerging computer systems, such as low-power wireless sensor networks and full duplex wireless.
+Raymond Levitt
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Buildings, Management & Innovation
+Ways for the construction industry to overcome barriers to adopting energy-efficient innovations. Designing organizations and governance regimes for sustainable development of energy and civil infrastructure projects.
+Aaron Lindenberg
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering, SLAC - Photon Science
+ENERGY RESEARCH AREA:
+Photovoltaics
+The speed limits and microscopic processes that determine the performance of devices for energy conversion. Ultrafast properties of nanoscale materials.
+Phillip Lipscy
+DEPARTMENT/RESEARCH PROGRAM:
+Political Science
+ENERGY RESEARCH AREA:
+Economic Development & Equity, Energy Markets, Finance & Subsidies, Public Opinion, Transportation, Tax & Regulation
+The politics of energy policy, especially in regard to concern over global climate change, oil price volatility, the economic rise of China, andenergy efficiency in Japanese transportation. Variation in energy efficiency due to electoral incentives.
+David Lobell
+DEPARTMENT/RESEARCH PROGRAM:
+Center on Food Security & the Environment, Earth System Science
+ENERGY RESEARCH AREA:
+Climate, Land Use
+Impacts on climate of converting land use from food to biofuel crops. Climate benefits of converting biofuel crops from annual plants to perennials. Integrating large-scale solar projects with biofuel production in deserts.
+Donald Lowe
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences
+ENERGY RESEARCH AREA:
+Enhanced Oil Recovery
+Deep-water sedimentation, especially using outcrops and cores to study the processes by which coarse sediment is transported and deposited in the deep sea.
+Donghui Lu
+DEPARTMENT/RESEARCH PROGRAM:
+SLAC, Stanford Institute for Materials & Energy Science
+ENERGY RESEARCH AREA:
+Superconductors
+Angle-resolved photoemission spectroscopy studies of strongly correlated electron systems, in particular the high temperature superconductors.
+Richard Luthy
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Water, Water Systems
+Urban water infrastructure and the water/energy nexus. A new palette for urban water that saves water, energy and money.
+Kate Maher
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences
+ENERGY RESEARCH AREA:
+Geological carbon storage in sedimentary and magnesium-silicate rocks. Geochemical and hydrological interactions that optimize the formation of carbonates and the physical trapping of CO2, with a view to enhance reaction kinetics, reduce cost and increase storage security.
+Arun Majumdar
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering, Precourt Institute
+ENERGY RESEARCH AREA:
+Thermoelectrics, Batteries & Fuel Cells, Electric Grid, Grid Scale Storage, Climate, CO2 Capture, Storage & Conversion, Finance & Subsidies, Management & Innovation, Renewable Fuels
+Using electrochemical reactions for thermal energy conversion. Thermochemical water-splitting reactions to produce carbon-free hydrogen. Re-engineering the electricity grid.
+Ali Mani
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Solar Thermal
+Electrokinetics of microscale and nanoscale porous structures with applications in energy storage, energy conversion, and water purification. Numerical methods for nonlinear electrokinetic phenomena.
+Hari Manoharan
+DEPARTMENT/RESEARCH PROGRAM:
+Physics, Stanford Institute for Materials & Energy Science
+ENERGY RESEARCH AREA:
+Green Computing, Superconductors
+Atomic and molecular manipulation for energy-efficient nanotechnology. Designer materials and nanoelectronics. Local response of novel superconductors. Carbon-based devices.
+Wendy Mao
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences, SLAC - Photon Science
+ENERGY RESEARCH AREA:
+Grid Scale Storage
+Behavior of materials under compression, which can lead to new materials for hydrogen storage and advanced batteries. Hydrogen-rich, crystalline solids. CO2 reaction with magnesium-silicate rock.
+Gilbert Masters
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Buildings, Economic Development & Equity, Electric Grid, Photovoltaics, Wind
+Analysis, design and evaluation of energy efficiency and renewable energy technologies,as keys to slowing global warming, enhancing energy security and improving conditions in underserved, rural communities. Green buildings. Wind and solar electricity. Distributed energy systems.
+Pamela Matson
+DEPARTMENT/RESEARCH PROGRAM:
+Earth System Science
+ENERGY RESEARCH AREA:
+Air Quality, Climate, Water, Land Use, Natural Gas, Economic Development & Equity
+Energy in the context of sustainability. Balancing water and energy demands.
+Gary Mavko
+DEPARTMENT/RESEARCH PROGRAM:
+Geophysics
+ENERGY RESEARCH AREA:
+CO2 Capture, Storage & Conversion, Enhanced Oil Recovery
+Impact of rock type, porosity, pore fluids, temperature, and stress on seismic wave propagation. How geochemical reactions of CO2 injection change the seismic attributes of rocks. Enhanced oil recovery.
+Doug McAdam
+DEPARTMENT/RESEARCH PROGRAM:
+Sociology
+ENERGY RESEARCH AREA:
+Economic Development & Equity, Public Opinion
+Community opposition to siting of energy projects in the United States and of pipeline projects in the developing world.
+Perry McCarty
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Water Systems
+Waste water: making treatment, as well as water and nutrient recovery, a net producer of energy rather than a consumer.
+Michael McGehee
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Photovoltaics
+Low-cost hybrid tandem solar cells with polymer or dye-sensitized cells on top of conventional silicon or CIGS cells. Controlling and characterizing the nanostructure of solar cells and their electronic processes. Transparent electrodes based on silver nanowires. Long-term reliability of solar cells.
+Michael McGehee
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Paul McIntyre
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Photovoltaics
+Thin films, especially complex metal oxides. Metal-oxide semiconductor anodes for oxidation of water. Low-to-intermediate temperature solid oxide fuel cells. Multijunction nanowire solar cells.
+Nicholas Melosh
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Solar Thermal
+Photon-enhanced thermionic emission devices, which use solar heat and light to generate electricity. Self-assembly of nanostructures from the natural protein clathrin for experimental battery electrodes.
+Anna Michalak
+DEPARTMENT/RESEARCH PROGRAM:
+Carnegie - Global Ecology, Earth System Science
+ENERGY RESEARCH AREA:
+Climate, Water
+Improving methods for use of atmospheric observations of GHG from remote sensors. Underestimation of U.S. methane emissions from oil and natural gas extraction and processing, (as well non-energy sources). Estimation of fossil-fuel CO2 emissions via atmospheric inversions.Water quality monitoring and contaminant source identification.
+William Mitch
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Air Quality, Bioenergy, CO2 Capture, Storage & Conversion, Water, Water Systems
+Using anaerobic bacteria to convert organic waste to methane gas for fuel to convert wastewater to drinking water. Possible formation and release of nitrosamine and nitramine carcinogens from amine-based CO2 capture, which is the only currently economical technology for power plant exhaust gases, and techniques to destroy any of these byproducts. Disinfection byproducts in drinking water impacted by shale gas wastewater.
+Reginald Mitchell
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Bioenergy
+Coal-based power generation involving coal conversion in supercritical water with CO2 capture and aquifer-based sequestration. Coal and biomass utilization in solid oxide fuel cells with CO2 capture. Co-firing coal and biomass during combustion and gasification. Chemical looping combustion with coal and biomass. Coal and biomass conversion in supercritical water for production of liquid fuels.
+Kimberley Moekle
+DEPARTMENT/RESEARCH PROGRAM:
+Program in Writing & Rhetoric
+ENERGY RESEARCH AREA:
+Public Opinion
+Environmental rhetoric and environmental ethics, with a particular focus on sustainable energy.
+Parviz Moin
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Combustion
+Predicting the physics of turbulent flows, including turbulent combustion. Simulation of an atomizing spray issuing from a gas-turbine injector.
+J. Michael Moldowan
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences
+ENERGY RESEARCH AREA:
+Enhanced Oil Recovery
+Molecular analysis of organic extracts from sediments and petroleum. Aspects of petroleum genesis, production and environmental remediation of oil spills.
+Kathryn Moler
+DEPARTMENT/RESEARCH PROGRAM:
+Applied Physics, Physics
+ENERGY RESEARCH AREA:
+Superconductors
+Specialized magnetic nanoprobes. Magnetic signatures of materials with quantum mechanical and strongly correlated electron behavior. Single vortex dynamics in superconductors.
+Andrea Montanari
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Electric Grid
+Optimal use of distributed storage and transmission resources in the presence of intermittent energy sources, control design and performance limits.
+Rob Moore
+DEPARTMENT/RESEARCH PROGRAM:
+SLAC, Stanford Institute for Materials & Energy Science
+ENERGY RESEARCH AREA:
+Superconductors
+Correlated electron system surface properties, such as superconductivity, colossal magnetoresistance, ferro electricity, and enhanced catalytic reactions. Nanoscale applications.
+Mark Godfrey Mungal
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Combustion
+Plasma enhanced combustion of hydrocarbon fuels and fuel blends using nanosecond pulsed discharges. Drag reducing polymers for energy efficiency. Simulation of hypersonic flight.
+Rosamond Naylor
+DEPARTMENT/RESEARCH PROGRAM:
+Center on Food Security & the Environment, Earth System Science
+ENERGY RESEARCH AREA:
+Climate, Land Use, Economic Development & Equity
+Economic, political and food-security implications of American ethanol. Climate impacts of converting land use to biofuel crops. Sugar and ethanol production as a rural development strategy in Brazil.
+Andrew Ng
+DEPARTMENT/RESEARCH PROGRAM:
+Computer Science
+ENERGY RESEARCH AREA:
+Buildings
+Energy disaggregation software, which separates a whole-home meter signal into appliance-level data, to help residents reduce energy use through finer understanding of their consumption.
+Anders Nilsson
+DEPARTMENT/RESEARCH PROGRAM:
+SLAC - Photon Science, SUNCAT Center for Interface Science & Catalysis
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Grid Scale Storage
+For fuel cells, elucidating the steps of the oxygen reduction reaction to overcome power losses at the cathode and finding new catalysts to replace platinum. Carbon nanotubes for hydrogen storage.
+Roger Noll
+DEPARTMENT/RESEARCH PROGRAM:
+Economics
+ENERGY RESEARCH AREA:
+Energy Markets, Public Opinion, Tax & Regulation
+Economics and politics of utility regulation.
+Jens Norskov
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering, SLAC - Photon Science, SUNCAT Center for Interface Science & Catalysis
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, CO2 Capture, Storage & Conversion, Bioenergy, Renewable Fuels
+Understanding interface phenomena, including adsorption, surface chemical reactions, heterogeneous catalysis, and photo- and electro-catalysis. Applications include solar fuel production, syngas reactions, biomass conversion, fuel cells, and battery processes.
+Amos Nur
+DEPARTMENT/RESEARCH PROGRAM:
+Geophysics
+ENERGY RESEARCH AREA:
+CO2 Capture, Storage & Conversion, Geothermal, Enhanced Oil Recovery
+How fractures and electrostatic properties of sedimentary rocks apply to reservoir evaluation and geothermal resources. Geochemical effects from injection of CO2 into reservoir rocks. Methane hydrates.
+Daniel O'Neill
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Buildings, Sensors & Data, Electric Grid
+Online learning algorithms for electricity network forecasting and scheduling . Data driven (Big Data) methods for energy asset monitoring, management and optimization. Workload driven methods for energy efficiency and optimization.
+Franklin (Lynn) Orr
+DEPARTMENT/RESEARCH PROGRAM:
+ENERGY RESEARCH AREA:
+Franklin (Lynn) Orr
+DEPARTMENT/RESEARCH PROGRAM:
+ENERGY RESEARCH AREA:
+Leonard Ortolano
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Management & Innovation, Tax & Regulation
+Transfer of wind turbine energy technologies. Liquefied natural gas facility siting in the US.
+William Perry
+DEPARTMENT/RESEARCH PROGRAM:
+Management Science & Engineering
+ENERGY RESEARCH AREA:
+Finance & Subsidies, National Security
+Energy and national security. Most promising energy technologies, and biggest risks to transforming the energy system.
+Piero Pianetta
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering, SLAC - Photon Science
+ENERGY RESEARCH AREA:
+Photovoltaics, Solar Thermal
+Properties of passivated silicon surfaces prepared using wet chemical techniques. Discovering new, chemically stable nanomaterials for thermionic energy conversion.
+Erica Plambeck
+DEPARTMENT/RESEARCH PROGRAM:
+GSB - Economics
+ENERGY RESEARCH AREA:
+Buildings, Climate, Finance & Subsidies, Management & Innovation, Tax & Regulation
+The construction industry's barriers to adopting energy-efficient innovations. Operational management challenges for some cleantech firms. Reducing corporate carbon footprint through operations and supply chain management.
+Jim Plummer
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Photovoltaics
+Extending silicon device structures to nanoscale dimensions. Rapid melt growth method to transform amorphous to single crystal for III-V solar cells on bulk silicon substrates.
+David Pollard
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences
+ENERGY RESEARCH AREA:
+Geothermal, Enhanced Oil Recovery, Unconventional Oil & Gas
+How the geologic structures created by faults, fractures and folding affect hydrocarbon recovery and the flow of groundwater. Models for applying hydraulic fracturing to geothermal systems.
+Eric Pop
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Green Computing, Thermoelectrics, Photovoltaics
+Nanomaterials for energy-efficient electronics, including transistors, data storage, integrated circuits, and sensors. Energy harvesting through thermoelectrics. Carbon nanotubes, graphene, and other 2D materials for electronic and thermal applications. Fundamental limits of current and heat flow at the nanoscale.
+Balaji Prabhakar
+DEPARTMENT/RESEARCH PROGRAM:
+Computer Science, Electrical Engineering
+ENERGY RESEARCH AREA:
+Energy & Behavior, Sensors & Data, Transportation
+Using incentive mechanisms and societal networks for reducing congestion-related costs in transportation, both public and private.
+Friedrich Prinz
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering, Mechanical Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Photovoltaics
+Quantum confined solar cells, including quantum dots, thin barrier layers and transparent electrodes. Solid oxide fuel cells. Photosynthetic membranes and their catalytic behavior.
+Xiaoliang Qi
+DEPARTMENT/RESEARCH PROGRAM:
+Physics
+ENERGY RESEARCH AREA:
+Superconductors
+New materials such as topological insulators and topological superconductors. Topological phenomena in these topological materials and their interplay with conventional materials such as superconductors and ferromagnets.
+Srinivas Raghu
+DEPARTMENT/RESEARCH PROGRAM:
+Physics, SLAC - Photon Science
+ENERGY RESEARCH AREA:
+Superconductors
+Unconventional superconductivity. Correlated electron materials, in which the low energy degrees of freedom behave qualitatively differently than a free electron gas. Topological phases of matter.
+Ram Rajagopal
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Buildings, Sensors & Data, Electric Grid, Energy Markets, Wind
+Making renewable energy economical. Reducing wind power costs by improving forecasts and buying replacement power later. Matching solar supply with businesses that have price-sensitive demand.
+Evan Reed
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Photovoltaics
+Theory and modeling for new, energy-related materials and nanomaterials. Engineering piezoelectricity in graphene for mechanical control at nanoscale.
+Byron Reeves
+DEPARTMENT/RESEARCH PROGRAM:
+Communication
+ENERGY RESEARCH AREA:
+Buildings, Energy & Behavior, Sensors & Data
+Creation of a multiplayer game platform linked to home energy sensors to enable empirical research about how serious games can change consumer decisions about energy consumption.
+Stefan Reichelstein
+DEPARTMENT/RESEARCH PROGRAM:
+GSB - Accounting
+ENERGY RESEARCH AREA:
+Finance & Subsidies, Tax & Regulation
+Cost competitiveness of renewable energy sources, including solar PV, wind and biofuels. Economics of CO2 capture by fossil fuel power plants. Design of alternative regulatory and subsidy mechanisms to achieve CO2 reductions.
+Dan Reicher
+DEPARTMENT/RESEARCH PROGRAM:
+Steyer-Taylor Center for Energy Policy & Finance
+ENERGY RESEARCH AREA:
+Finance & Subsidies, Law, Tax & Regulation
+Using master limited partnerships and real estate investment trusts to encourage renewable energy investment through fairer taxation. Using energy cost information in calculating terms of building mortgages.
+David Reis
+DEPARTMENT/RESEARCH PROGRAM:
+Applied Physics, SLAC - Photon Science
+ENERGY RESEARCH AREA:
+Photovoltaics, Superconductors
+Nonequilibrium phonon dynamics. Thermal transport across interfaces between dissimilar materials. Fundamental laser-matter interactions in solids in the high-field limit.
+Burt Richter
+DEPARTMENT/RESEARCH PROGRAM:
+Hoover Task Force on Energy Policy, Precourt Institute, Program on Energy & Sustainable Development, SLAC
+ENERGY RESEARCH AREA:
+Climate, Energy Markets, Integrated Modeling, Nuclear
+Global energy system analysis. Energy policy and energy supply issues.Nuclear energy. Reliability versus cost trade-offs in wind energy investments in California.Science policy.
+Juan Rivas-Davila
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+END USE/EFFICIENCY
+Power electronics, RF power amplifiers, resonant converters, soft switching topologies and design of power converters for operation in harsh environments.
+Thomas Robinson
+DEPARTMENT/RESEARCH PROGRAM:
+Pediatrics
+ENERGY RESEARCH AREA:
+Buildings, Energy & Behavior, Transportation
+Applying experimental approaches from public health and medical research to develop family-, school-, and community-based interventions to promote residential, transportation and food-related energy-saving behaviors. Designing "stealth interventions" that harness the motivating characteristics of social movements to promote the overlapping goals of environmental sustainability and health.
+Geoffrey Rothwell
+DEPARTMENT/RESEARCH PROGRAM:
+Economics
+ENERGY RESEARCH AREA:
+Energy Markets, Tax & Regulation
+The economics of nuclear power. Electricity markets. Electricity regulation and deregulation. Current focus on building econometric-cost engineering models of the nuclear fuel cycle.
+Scott Rozelle
+DEPARTMENT/RESEARCH PROGRAM:
+Center on Food Security & the Environment
+ENERGY RESEARCH AREA:
+Economic Development & Equity, Land Use, Water
+Development of liquid biofuel, including bioethanol and biodiesel, in China. Biofuels and the poor: global impacts of biofuels on agricultural markets.
+Peter Rumsey
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Buildings, Green Computing
+Energy efficient and sustainable building design. Reducing plug loads to achieve net-zero energy buildings. HVAC energy efficiency. Efficient computing and data center energy management.
+Martha Russell
+DEPARTMENT/RESEARCH PROGRAM:
+Education
+ENERGY RESEARCH AREA:
+END USE/EFFICIENCY, Energy & Behavior, Sensors & Data
+Analysis of the conversation about energy efficiency and climate change on social media platforms.
+Alberto Salleo
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Photovoltaics
+Structure/property of crystalline and polymeric organic semiconductors for photovoltaics. Upconverting nanomaterials. Advanced characterization of materials.
+Krishna Saraswat
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Photovoltaics
+Developing monocrystalline germanium III-V solar cell with efficiencies near the best multi-junction cells and manufacturing cost approaching the conventional crystalline silicon technology.
+Richard Sassoon
+DEPARTMENT/RESEARCH PROGRAM:
+Global Climate & Energy Project
+ENERGY RESEARCH AREA:
+Transportation, Climate
+Quantifying the global flow of exergy and carbon through the natural and human systems. Wireless power transfer to moving electric vehicles.
+Elizabeth Sattely
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering
+ENERGY RESEARCH AREA:
+Bioenergy
+New methods for delignification of woody cellulosic biomass. Understanding mechanisms plants use to produce complex molecules for future use in synthetic production of energy feedstocks.
+Debbie Senesky
+DEPARTMENT/RESEARCH PROGRAM:
+Aeronautics & Astronautics
+ENERGY RESEARCH AREA:
+Combustion, Unconventional Oil & Gas, Geothermal, Photovoltaics
+Synthesizing wide bandgap semiconductor thin films that are temperature tolerant, chemically resistant and radiation-hardened. Sensor systems for extreme harsh environments, applicable to hydrocarbon exploration, gas turbines, car and plane engines, and geothermal generation.
+Eric Shaqfeh
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering, Mechanical Engineering
+ENERGY RESEARCH AREA:
+Unconventional Oil & Gas
+Suspension and settling of particles in viscoelastic fluids in hydraulic fracturing to prop open the fractures. Reducing the settling rate of the proppant particles, typically sand. Understanding the properties of the transport solutions, commonly a borate guar gum solution.
+Zhi-Xun Shen
+DEPARTMENT/RESEARCH PROGRAM:
+Applied Physics, Physics, SLAC
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Superconductors, Solar Thermal, Renewable Fuels
+High-temperature cuprate and pnictide superconductors. Photon-enhanced thermionic emission devices, which use solar heat and light. Transition metal oxides as functional energy materials. Multi-scale imaging of energy materials. Diamondoids-nanostructured diamond.
+George Shultz
+DEPARTMENT/RESEARCH PROGRAM:
+Hoover Task Force on Energy Policy, Precourt Energy Efficiency Center, Precourt Institute
+ENERGY RESEARCH AREA:
+Nuclear, Finance & Subsidies, Law, Management & Innovation, National Security, Tax & Regulation
+U.S. energy policy and its effects on domestic and international political priorities, national security, the economy and global climate. Proposal for a revenue-neutral tax on carbon. Results of low-carbon energy research at U.S. universities. Making nuclear power safer globally, both in terms of accidents and nuclear weapons proliferation.
+Robert Sinclair
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Photovoltaics, Renewable Fuels
+Transmission electron microscopy to study effects of radiation damage on the size and distribution of quantum dots in solar cells. Doping titanium dioxide nanowires for enhanced photoelectrochemical performance.
+Deborah Sivas
+DEPARTMENT/RESEARCH PROGRAM:
+Law, School of
+ENERGY RESEARCH AREA:
+Law, Tax & Regulation
+Gas mileage standards. U.S. Environmental Protection Agency enforcement. Interaction of law and science in the arena of climate change. Planning ocean uses, including renewable energy projects such as wind, wave and tidal energy.
+Abraham Sofaer
+DEPARTMENT/RESEARCH PROGRAM:
+Hoover Task Force on Energy Policy
+ENERGY RESEARCH AREA:
+Law, National Security
+Nuclear energy and weaponry proliferation, particularly in Iran. Securing Israel's offshore natural gas resources.
+Olav Solgaard
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Solar Thermal
+Material processing and fabrication technology for solar concentrators based on graded-index and optical meta-materials to improve output and lower cost in thermal solar and photovoltaic cells.
+Edward Solomon
+DEPARTMENT/RESEARCH PROGRAM:
+Chemistry, SLAC - Photon Science
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Renewable Fuels
+Determining the electronic structure of transition metal complexes, which are utilized in oxidation catalysis and fuel cells to facilitate and control oxygen activation and reduction. Hydroxylation of methane (and other simple hydrocarbons) using copper and iron to produce methanol, which could reduce oil dependence and GHG emissions.
+Andrew Spakowitz
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Photovoltaics
+A mathematical model for charge transport in semiconducting polymers for insights into the limits of charge mobilities in organic electronic devices. The kinetics and thermodynamics of protein self assembly for potential applications including photovoltaics and energy storage.
+Alfred Spormann
+DEPARTMENT/RESEARCH PROGRAM:
+Chemical Engineering, Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Water Systems, CO2 Capture, Storage & Conversion, Bioenergy
+Metabolic processes of anaerobic microorganisms and their application in bioenergy. Microbes that convert electricity, CO2 and water into fuels (or precursors) without the use of biomass. Microbial conversion of sewage to methane.
+Daniel Stack
+DEPARTMENT/RESEARCH PROGRAM:
+Chemistry
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, CO2 Capture, Storage & Conversion, Photovoltaics, Renewable Fuels
+Bioinspired redox catalysts by discrete metal complexes on surfaces, for CO2 capture and reduction of O2 to water in ambient-temperature fuel cells.Strategies to make interfaces in dye-sensitized solar cells less chemically reactive. Electro-catalysts for renewable fuels and chemicals.
+Jonathan Stebbins
+DEPARTMENT/RESEARCH PROGRAM:
+Geological & Environmental Sciences
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells
+Atomic-scale structure and dynamics of the ion conducting oxide ceramic materials at the heart of solid oxide fuel cells, with the aim of optimizing performance and lowering cost.
+James Swartz
+DEPARTMENT/RESEARCH PROGRAM:
+BioEngineering, Chemical Engineering
+ENERGY RESEARCH AREA:
+Bioenergy, Renewable Fuels
+Hydrogen from biomass by developing a synthetic enzyme pathway to produce hydrogen from NADPH. Developing an oxygen-tolerant iron-based hydrogenase for a photosynthetic microorganism to produce hydrogen from sunlight.
+James Sweeney
+DEPARTMENT/RESEARCH PROGRAM:
+Management Science & Engineering, Precourt Energy Efficiency Center
+ENERGY RESEARCH AREA:
+Buildings, Energy & Behavior, Heating & Cooling, Transportation, Climate, Integrated Modeling, Energy Markets, Finance & Subsidies, Law, Management & Innovation, Tax & Regulation
+Energy efficiency technologies, policies and behavior. Energy and climate change policy analysis. Electricity and petroleum markets analysis. Implementation of California's global warming solutions act (AB32).
+Clyde Tatum
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+Buildings
+A tool for commercial building owners to screen, prioritize and execute optimal energy efficiency retrofit projects.
+Hamdi Tchelepi
+DEPARTMENT/RESEARCH PROGRAM:
+Energy Resources Engineering
+ENERGY RESEARCH AREA:
+CO2 Capture, Storage & Conversion, Enhanced Oil Recovery
+Numerical modeling of flow and transport in porous rock with emphasis on unstable multiscale dynamics. Application areas include CO2 sequestration and reservoir simulation.
+Mark Thurber
+DEPARTMENT/RESEARCH PROGRAM:
+Program on Energy & Sustainable Development
+ENERGY RESEARCH AREA:
+Air Quality, Economic Development & Equity, Energy Markets, Management & Innovation
+Game simulating California's markets for electricity, reneweble energy and CO2 permits to inform policy. How institutional factors affect the diffusion of technologies, from central electricity generation to cook stoves. National oil companies.
+Michael Toney
+DEPARTMENT/RESEARCH PROGRAM:
+SLAC
+ENERGY RESEARCH AREA:
+Transportation, Batteries & Fuel Cells, Photovoltaics
+Structural characterization of materials used for energy conversion and storage, especially graphenefor thin films for solar cells, and also lithium-sulfur batteries for electric cars, high-temperature proton exchange membrane for fuel cells.
+Benjamin Van Roy
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering, Management Science & Engineering
+ENERGY RESEARCH AREA:
+Electric Grid
+A simulation tool that models all parts of the electricity network, from generation to price-sensitive demand. The use of dynamic optimization and finance theory in natural resource management.
+Tiziana Vanorio
+DEPARTMENT/RESEARCH PROGRAM:
+Geophysics
+ENERGY RESEARCH AREA:
+CO2 Capture, Storage & Conversion, Unconventional Oil & Gas
+Geophysical characterization of the chemical and physical changes that a rock formation undergoes upon the injection of fluids for storage, as with sequestration of CO2, or for the production of fossil energy, i.e., hydraulic fracturing and formation damage.Unpredicted rock alterations can lead to ground contamination, ineffective stimulation and seismic activity.
+Jelena Vuckovic
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Green Computing
+Tiny, highly efficient semiconductor laser for optical data interconnects that use light to communicate with higher speed and smaller energy consumption than conventional electrical interconnects
+Gregory Walton
+DEPARTMENT/RESEARCH PROGRAM:
+Psychology
+ENERGY RESEARCH AREA:
+Buildings, Energy & Behavior
+Social psychology interventions. Developing human-centered, online programs to motivate residents to reduce energy consumption, using social norms, community and goal setting as motivators.
+Shan Wang
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering, Materials Science & Engineering
+ENERGY RESEARCH AREA:
+Green Computing
+Magnetic nanotechnology, spintronics and integrated inductors, with applications in energy conversion and storage.
+Zhiyong Wang
+DEPARTMENT/RESEARCH PROGRAM:
+Biology, Carnegie - Plant Biology
+ENERGY RESEARCH AREA:
+Bioenergy
+The plant growth hormone brassinosteroid, which regulates cell elongation, photosynthesis, flowering, light response, and stress tolerance. This research could lead to increasing crop yield for biomass.
+Michael Wara
+DEPARTMENT/RESEARCH PROGRAM:
+Center on Food Security & the Environment, Law, School of
+ENERGY RESEARCH AREA:
+Energy Markets, Law, Tax & Regulation
+Climate and electricity policy. Performance of the emerging global market for GHG permits and offsets.Needed improvements to the Obama administration's proposed rules to reduce CO2 emissions from coal-fired power plants.
+Robert Waymouth
+DEPARTMENT/RESEARCH PROGRAM:
+Chemistry
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Unconventional Oil & Gas
+Developing organometallic and organic catalysts. Oxidative conversion of natural gas into liquid fuels without CO2 release. Transition metal catalysts for direct-hydrocarbon fuel cells.
+John Weyant
+DEPARTMENT/RESEARCH PROGRAM:
+Materials Science & Engineering, Precourt Energy Efficiency Center
+ENERGY RESEARCH AREA:
+Buildings, Transportation, Climate, Integrated Modeling, Land Use, Economic Development & Equity, Energy Markets, Finance & Subsidies, Management & Innovation, Tax & Regulation
+Analysis of global climate change policy options. Energy efficiency analysis. Energy technology assessment. Integrated assessment. Models for strategic planning. Venture capital formation for energy technologies. GHG emissions and economic implications of new shale gas supplies. Market valuation of renewable power plants' ecological benefits.
+Jennifer Widom
+DEPARTMENT/RESEARCH PROGRAM:
+ENERGY RESEARCH AREA:
+Frank Wolak
+DEPARTMENT/RESEARCH PROGRAM:
+Economics, Program on Energy & Sustainable Development
+ENERGY RESEARCH AREA:
+Energy & Behavior, Electric Grid, Water, Energy Markets, Finance & Subsidies, Management & Innovation, Tax & Regulation
+Energy market design and monitoring. Emissions permit market design, analysis and monitoring.Transmission expansion policy, design and analysis. Methods for least cost integration of intermittent renewable resources. Energy supply and water supply interactions. The impact of pricing and information provision on energy demand.
+H.S. Philip Wong
+DEPARTMENT/RESEARCH PROGRAM:
+Electrical Engineering
+ENERGY RESEARCH AREA:
+Photovoltaics
+Multijunction photovoltaic cell using nanowire-based subcells connected in parallel and a plasmonic electrode serving both as a lateral spectral filter and as a light concentrator.
+Jane Woodward
+DEPARTMENT/RESEARCH PROGRAM:
+Civil & Environmental Engineering
+ENERGY RESEARCH AREA:
+(Instructor) Expertise in life-cycle environmental impacts and tradeoffs in the energy industry. Current trends in energy industries. Energy resource planning.
+Yinyu Ye
+DEPARTMENT/RESEARCH PROGRAM:
+Management Science & Engineering
+ENERGY RESEARCH AREA:
+Electric Grid, Transportation
+Developing an automated mechanism for charging a fleet of electric vehicles and discharging, i.e. borrowing electricity from car batteries during peak afternoon power use.
+Shoucheng Zhang
+DEPARTMENT/RESEARCH PROGRAM:
+Physics
+ENERGY RESEARCH AREA:
+Superconductors
+Theory of high-temperature superconductivity. Testing a new class of materials in an attempt to achieve the quantum spin Hall system effect without external magnetic fields and at room temperature.
+Xiaolin Zheng
+DEPARTMENT/RESEARCH PROGRAM:
+Mechanical Engineering
+ENERGY RESEARCH AREA:
+Batteries & Fuel Cells, Combustion, Photovoltaics
+Developing a low-cost flame synthesis method to grow one-dimensional nanowires, and applying these nanowires in batteries, solar cells, catalysts, combustion and propulsion.
+Mark Zoback
+DEPARTMENT/RESEARCH PROGRAM:
+Geophysics, Natural Gas Initiative
+ENERGY RESEARCH AREA:
+Land Use, CO2 Capture, Storage & Conversion, Natural Gas, Unconventional Oil & Gas
+Reservoir geomechanics with emphasis on shale gas and tight gas reservoirs, hydraulic fracturing, the occurrence of induced and triggered earthquakes, and the feasibility of long-termgeologic sequestration of CO2.
+Research
+Research Areas
+Centers & Programs
+Research Opportunities
+Seed Grants
+Education
+Courses
+Energy Degrees
+Energy Literacy
+News and Events
+Stanford Energy Newsletter
+Subscribe
+Upcoming Events
+Op-Ed: From the Directors
+People
+Senior Fellows
+Advisory Council
+Staff
+Connect
+Facebook
+Twitter
+YouTube
+RSS
+Contact Us
+Yang and Yamazaki Energy & Environment Building
+473 Via Ortega
+Suite 324
+Stanford, CA 94305
+precourt_institute@stanford.edu
+Campus Map
+SU Home
+Maps & Directions
+Search Stanford
+Terms of Use
+Emergency Info
+© Stanford University, Stanford, California 94305. Copyright Complaints

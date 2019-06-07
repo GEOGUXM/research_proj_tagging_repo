@@ -1,0 +1,44 @@
+###AuthorName=Justin Cooper-White
+###AuthorTitle=Professor
+###Affiliation=Bioengineering and Nanotechnology
+###Position=
+##############################
+CONTACTS STUDY MAPS NEWS EVENTS JOBS LIBRARY MY.UQ
+The University of Queensland
+School of Chemical Engineering
+Search form
+Search
+Home
+About
+Study
+Research
+Partnerships
+Our People
+News
+Contact
+Biography: 
+Professor Justin Cooper-White is a biological engineer and Group Leader at the Australian Institute for Bioengineering and Nanotechnology. His research group, the Tissue Engineering and Microfluidics (TEaM) laboratory, is focused on developing novel solutions for repairing damaged or diseased tissues using regenerative medicine principles and early disease detection using point-of-care devices. The group develops smart surfaces, scaffolds and diagnostic microdevices for a range of regenerative (and personalised) medicine applications. These applications include human stem cell expansion and differentiation; heart, fibrocartilage (intervertebral disc and meniscus) and bone tissue repair; cell-based drug discovery and screening; and early detection of cardiovascular disease and cancer. Professor Cooper-White is also the Associate Dean (Research) for The University of Queensland’s Faculty of Engineering, Architecture and Information Technology; and Director of the Australian National Fabrication Facility (Queensland Node).
+Research: 
+Professor Cooper-White and his research group are focussed on designing and developing complex, polymer-based structures and devices tailored for investigation
+and manipulation of biological systems and, in particular, to invoke control over stem cell behaviours and tissue genesis. Projects underway include investigations into engineering surfaces for stem cell attachment and phenotype control; tailored polymeric scaffolds for drug delivery, cell delivery and stem cell based tissue engineering; cell-based diagnostic microdevices for mapping cellular microenvironments and drug discovery and screening; and microfluidic devices for manufacturing functional microparticles and early disease detection.
+Key Publications: 
+Croll T, O’Connor AJ, Stevens GW, Cooper-White JJ. (2006) A Blank slate? Layer-by-layer deposition of hyaluronic acid and chitosan onto various surfaces. Biomacromolecules 7(5), 1610-1622.
+Rowlands AS, George PA, Cooper-White JJ. (2008) Directing osteogenic and myogenic differentiation of MSCs: interplay of stiffness and adhesive ligand presentation. American Journal of Physiology - Cell Physiology 295(4), C1037-1044.
+George PA, Doran MR, Croll TI, Munro TP, Cooper-White JJ. (2009) Nanoscale presentation of cell adhesive molecules via block copolymer self-assembly. Biomaterials 30(27), 4732-4737.
+Chau L, Doran M, Cooper-White JJ. (2009) A novel multishear microdevice for studying cell mechanics. Lab on a Chip 9(13), 1897-1902.
+Doran MR, Frith JE, Prowse ABJ, Fitzpatrick J, Wolvetang EJ, Munro TP, Gray PP, Cooper-White JJ. (2010) Defined high protein content surfaces for stem cell culture. Biomaterial, 31(19), 5137-5142. 
+Tan GK, Dinnes DLM, Butler LN, Cooper-White JJ. (2010) Interactions between meniscal cells and a self assembled biomimetic surface composed of hyaluronic acid, chitosan and meniscal extracellular matrix molecules. Biomaterials 31(23), 6104-6118.
+Hudson JE, Mills RJ, Frith JE, Brooke G, Jaramillo-Ferrada P, Wolvetang EJ, Cooper-White JJ. (2011) A defined medium and substrate for expansion of human mesenchymal stromal cell progenitors that enriches for osteo- and chondrogenic precursors. Stem Cells and Development 20(1), 77-87.
+Tan G-K, Dinnes DLM, Myers PT, Cooper-White JJ. (2011) Effects of biomimetic surfaces and oxygen tension on redifferentiation of passaged human fibrochondrocytes in 2D and 3D cultures. Biomaterials 32(24), 5600-5614.
+Cameron AR, Frith JE, Cooper-White JJ. (2011) The influence of substrate creep on mesenchymal stem cell behaviour and phenotype. Biomaterials 32(26), 5979-5993.
+Hudson JE, Brooke G, Blair C, Wolvetang EJ, Cooper-White JJ. (2011) Development of myocardial constructs using modulus-matched acrylated polypropylene glycol triol substrate and different nonmyocyte cell populations. Tissue Engineering - Part A 17(17-18), 2279-2289.
+Chau LT, Rolfe BE, Cooper-White JJ. (2011) A microdevice for the creation of patent, three-dimensional endothelial cell-based microcirculatory networks. Biomicrofluidics 5(3), art. no. 034115.
+Mills RJ, Frith JE, Hudson JE, Cooper-White JJ. (2011) Effect of geometric challenges on cell migration. Tissue Engineering - Part C: Methods 17(10), 999-1010.
+Titmarsh D, Hidalgo A, Turner J, Wolvetang EJ, Cooper-White JJ. (2011) Optimization of flowrate for expansion of human embryonic stem cells in perfusion microbioreactors. Biotechnology and Bioengineering 108(12), 2894-2904.
+Hudson JE, Titmarsh DM, Hidalgo A, Wolvetang EJ, Cooper-White JJ, (2011) Primitive Cardiac Cells from Human Embryonic Stem Cells. Stem Cells & Dev. 2011 Sep 20. [Epub ahead of print]
+© The University of Queensland
+Enquiries: +61 7 3365 1111 UQ Contacts ABN: 63 942 912 684 CRICOS Provider No: 00025B
+Emergency
+Phone: 3365 3333
+Privacy & Terms of use Feedback
+Updated: 14 Jan 2016 Login

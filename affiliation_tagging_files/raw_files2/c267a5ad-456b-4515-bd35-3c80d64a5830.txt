@@ -1,0 +1,62 @@
+###AuthorName=Eugene Duff
+###AuthorTitle=
+###Affiliation=Department of Clinical Neurosciences
+###Position=POSTDOCTORAL RESEARCH ASSOCIATE
+##############################
+Cookies on this website
+We use cookies to ensure that we give you the best experience on our website. If you click 'Continue' we'll assume that you are happy to receive all cookies and you won't see this message again. Click 'Find out more' for information on how to change your cookie settings.
+Continue
+Find out more
+Intranet Accessibility Cookies Contact us Log in
+HOME
+ABOUT US
+NEWS
+EVENTS
+RESEARCH
+STUDY
+PEOPLE
+GET INVOLVED
+Search
+PeopleEugene Duff
+CONTACT INFORMATION
+Email eduff (@) fmrib.ox.ac.uk
+Tel 44 1865 222 523
+Fax 44 1865 222 717
+Eugene Duff
+POSTDOCTORAL RESEARCH ASSOCIATE
+FMRIB Analysis group
+RESEARCH SUMMARY
+I develop new approaches that enable functional brain imaging to be used to help answer important clinical questions, such as whether drugs show potential for use in particular medical conditions.  Creative analysis approaches are required to ensure that the rich recordings of brain activity we can now acquire can be translated into useful data that clinicians can use with confidence.
+Translating brain imaging experiments into clinical practise requires that reliable patterns can be discerned from the extensive and complex results of existing studies.  I have developed approaches that automatically synthesise the results of past studies into tools for making predictions from new data.  I have presented a proof-of-concept protocol that uses brain imaging to identify signs of promising analgesics, which could potentially be used to determine which compounds are sent to clinical trials.   We are now working with drug companies to bring this approach to industry.  
+I split my time between developing and testing these translational applications and developing novel analytic approaches for characterising functional brain imaging experiments.  I work closely with other members of the with other members of FMRIB's analysis methods group, and have designed experimental studies to provide important data for our work.   I am involved in post-graduate teaching and supervision, and the development and support of the FSL image analysis software package.
+Learning to identify CNS drug action and efficacy using multistudy fMRI data.
+Duff EP. et al, (2015), Sci Transl Med, 7
+
+RECENT PUBLICATIONS
+Nociceptive brain activity as a measure of analgesic efficacy in infants.
+Hartley C. et al, (2017), Sci Transl Med, 9
+Biomarkers, designs, and interpretations of resting-state fMRI in translational pharmacological research: A review of state-of-the-Art, challenges, and opportunities for studying brain chemistry.
+Khalili-Mahani N. et al, (2017), Hum Brain Mapp, 38, 2276 - 2325
+Hand classification of fMRI ICA noise components.
+Griffanti L. et al, (2016), Neuroimage
+Optimal echo time for functional MRI of the infant brain identified in response to noxious stimulation.
+Goksan S. et al, (2016), Magn Reson Med
+The brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments.
+Gorgolewski KJ. et al, (2016), Sci Data, 3
+View 26 more »
+USEFUL LINKS
+Learning to identify CNS drug action and efficacy using multistudy fMRI data (Full text)
+Developing Human Connectome Project
+Is That Pill a Placebo? This Program Can Tell, Even If You Can't
+Brain Imaging-Based Drug Assessment Procedure Can Predict Clinical Efficacy of Pain Relievers
+MY CONNECTIONS
+FMRIB Analysis Group
+Analysis group
+Stephen Smith
+Profile
+Connectivity Modelling
+Research Group
+Functional MRI Modelling
+Research Group
+© 2017 Nuffield Department of Clinical Neurosciences. Level 6, West Wing, John Radcliffe Hospital, Oxford OX3 9DU
+Freedom of Information Privacy Policy Copyright Statement Accessibility Statement

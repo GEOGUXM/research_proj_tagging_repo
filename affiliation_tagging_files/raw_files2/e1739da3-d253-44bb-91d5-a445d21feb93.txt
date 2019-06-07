@@ -1,0 +1,145 @@
+###AuthorName=Ohtaki Michitaka
+###AuthorTitle=Professor
+###Affiliation=Department of Advanced Materials Science and Engineering
+###Position=
+##############################
+ 
+Ohtaki Michitaka Last modified date：2017.04.07
+
+Professor / Molecular and Materials Physical Chemistry
+Department of Advanced Materials Science and Engineering
+Faculty of Engineering Sciences
+
+
+1 Research Interests
+2 Current and Past Project
+3 Academic Activities
+3.1 Books
+3.2 Papers
+3.3 Reports
+3.4 Presentations
+4 Membership in Academic Society
+Graduate School
+Department of Applied Science for Electronics and Materials
+Interdisciplinary Graduate School of Engineering Sciences
+Undergraduate School
+Department of Energy Science and Engineering
+School of Engineering
+Other Organization
+Research and Education Center for Advanced Energy Materials, Devices, and Systems
+Research Center for Synchrotron Light Applications
+
+
+E-Mail
+Homepage
+http://www.asem.kyushu-u.ac.jp/~ohtaki/
+Ohtaki Laboratory Official Website .
+Phone
+092-583-7947
+Fax
+092-583-7947
+Academic Degree
+Doctor of Engineering
+Field of Specialization
+Applied Physical Chemistry, Inorganic Materials Chemistry
+Research
+Research Interests
+Oxide thermoelectric materials for recuperating unused waste heat energy
+keyword : thermoelectric material, oxide semiconductor, energy conversion material, conductive ceramics, thermal conductivity, zinc oxide
+1991.07Development of oxide thermoelectric materials for waste heat recovery.
+Development of oxide thermoelectric modules for mid-to-high temperature waste heat recovery
+keyword : zinc oxide, layered cobalt oxide, microstructure control, long-term stability assessment
+2002.11Development of oxide thermoelectric modules for mid- to high-temperature power generation applications.
+Self-assembly synthesis and properties of inorganic nanomaterials with low-dimensional quantum confinement structures
+keyword : low-dimensional nanomaterial, molecular assembly, self-assembly, nano-superlattice, photocatalyst, magnetism, inorganic-organic hybrid
+1996.04Self-assembly synthesis of inorganic nanomaterials with low-dimensional quantum confinement structures.
+Self-assembly low-dimensional nanomaterials showing quantum-confined properties
+keyword : quantum-confined nanomaterials, spatial regularity, nanospace, interlayer interaction
+1998.04.
+Current and Past Project
+"Development of Thermoelectric Power Generator Modules for 500C-Class Waste Heat Recovery (Ohtaki Project)" Project Director: Michitaka Ohtaki (Kyushu Univ.)
+"Science and Technology Incubation Program in Advanced Region" at Innovation Plaza Fukuoka, sponsored by Japan Science and Technology Agency (JST)
+"Creation of Thermoelectric Oxide Materials with Layered Structures through Nano-Block Integration" Research Director: Prof. K. Koumoto (Nagoya Univ.)
+Leader of Kyushu University Group: Michitaka Ohtaki
+"Development of Advanced Nanostructured Materials for Energy Conversion and Storage" Research Area; Research Supervisor: Akira Fujishima
+Proposal-Oriented Type Research, Core Research for Evolutional Science and Technology(CREST-Type) of JST Basic Research, sponsored by Japan Science and Technology Agency (JST)
+Academic Activities
+Books
+ Show All Books >>
+1. Michitaka Ohtaki, Oxide Thin Films, Multilayers and Nanocomposites, Springer, Chapter 7, Nanostructured Oxide Thermoelectric Materials with Enhanced Phonon Scattering, pp. 109-122., 2015.03.
+2. Ed. D. M. Rowe, Thermoelectrics Handbook: macro to nano, CRC Press, ISBN: 0-8493-2264-2, pp.35-1〜35-15, 2006.01.
+3. Ed. K. Koumoto, I. Terasaki, N. Murayama, Oxide Thermoelectrics, Research Signpost, ISBN 81-7736-100-7, pp. 159-180., 2002.12.
+Reports
+ Show All Reports >>
+1. Michitaka Ohtaki, Recent Aspects of Oxide Thermoelectric Materials for Power Generation from Mid-to-high Temperature Heat Source, Journal of the Ceramic Society of Japan, 119 (11), 770-775, 2011.11.
+Papers
+ Show All Papers >>
+1. Li Han, Ngo Van Nong, Wei Zhan, Le Thanh Hung, Tim Holgate, Kazunari Tashiro, Michitaka Ohtaki, Nini Pryds, Søren Linderoth, Effects of morphology on the thermoelectric properties of Al-doped ZnO, RSC Advances, 4, 24, 2014.02.
+2. Tohru Sugahara, Michitaka Ohtaki, Katsuaki Suganuma, La doped effects on structure and thermoelectric properties of Sr2MnMoO6 double-perovskite oxides, Journal of Asian Ceramic Societies, 1, 3, 282-288, 2013.09.
+3. Michitaka Ohtaki, So Miyaishi, Extremely Low Thermal Conductivity in Oxides with Cage-like Crystal Structure
+, Journal of Electronic Materials, 42, 2013.06.
+4. Nguyen Viet Long, Michitaka Ohtaki, Masayoshi Yuasa, Satoshi Yoshida, Taiga Kuragaki, Gao Minh Thi, Masayuki Nogami, Synthesis and Self-Assembly of Gold Nanoparticles by Chemically Modified Polyol Methods under Experimental Control, Journal of Nanomaterials, 2013, 2013.04.
+5. Li Han, Ngo Van Nong, Le Thanh Hung, Nini Pryds, Michitaka Ohtaki, Søren Linderoth, The Influence of α- and γ-Al2O3 Phases on the Thermoelectric Properties of Al-doped ZnO
+, Journal of Alloys and Compounds, 555, 2013.04.
+6. Nguyen Viet Long, Masayuki Nogami, Cao Minh Thi, Michitaka Ohtaki, Experimental Evidences of Crystal Nucleation and Growth of Platinum Nanoparticles with Most Characteristic Roughness Heteromorphologies and Nanostructures from Homogeneous Solution, Journal of Advanced Microscopy Research, 7, 2012.09.
+7. Nguyen Viet Long, Michitaka Ohtaki, Takashi Matsubara, Cao Minh Thi, Masayuki Nogami, New Experimental Evidences of Pt-Pd Bimetallic Nanoparticles with Core-Shell Configuration and Highly Fine-ordered Nanostructures by High-Resolution Electron Transmission Microscopy, The Journal of Physical Chemistry C, 116, 22, 2012.06.
+8. Nguyen Viet Long, Cao Minh Thi, Masayuki Nogami, Michitaka Ohtaki, Novel Issues of Morphology, Size, and Structure of Pt Nanoparticles in Chemical Engineering: Surface Attachment, Aggregation or Agglomeration, Assembly, and Structural Changes, New Journal of Chemistry, 2012.06.
+9. Tohru Sugahara, Teppei Araki, Michitaka Ohtaki, Katsuaki Suganuma, Structure and Thermoelectric Properties of Double-perovskite Oxides: Sr2-xKxFeMoO6, Journal of the Ceramic Society of Japan, 120, 6, 211-216, 2012.06.
+10. Tohru Sugahara, Ngo Van Nong, Michitaka Ohtaki, Structure and Thermoelectric Properties of Ca2-xSrxFeMoO6 (0 ≤ x ≤ 0.3) Double-perovskite Oxides, Materials Chemistry and Physics, 133, 2-3, 630-634, 2012.04.
+11. Nguyen Viet Long, Nguyen Duc Chien, Tomokatsu Hayakawa, Takashi Matsubara, Michitaka Ohtaki, Masayuki Nogami, Sharp Cubic and Octahedral Morphologies of Poly(vinylpyrrolidone)-stabilised Platinum Nanoparticles by Polyol Method in Ethylene Glycol: Their Nucleation, Growth and Formation Mechanisms, Journal of Experimental Nanoscience, 7, 2, 133-149, 2012.03.
+12. Michitaka Ohtaki, Kazuhiko Araki, Thermoelectric Properties and Thermopower Enhancement of Al-doped ZnO with Nanosized Pore Structure, Journal of the Ceramic Society of Japan, 119, 11, 813-816, 2011.11.
+13. Nguyen Viet Long, Michitaka Ohtaki, Tong Duy Hien, Jalem Randy, Masayuki Nogami, Synthesis and Characterization of Polyhedral and Quasi-sphere Non-polyhedral Pt Nanoparticles: Effects of Their Various Surface Morphologies and Sizes on Electrocatalytic Activity for Fuel Cell Applications, Journal of Nanoparticle Research, 13, 10, 5177-5191, 2011.10.
+14. Nguyen Viet Long, Michitaka Ohtaki, Tong Duy Hien, Jalem Randy, Masayuki Nogami, A Comparative Study of Pt and Pt-Pd Core-shell Nanocatalysts, Electrochimica Acta, 56, 25, 9133-9143, 2011.10.
+15. Nguyen Viet Long, Michitaka Ohtaki, Masayuki Nogami, Tong Duy Hien, Effects of Heat Treatment and Poly(vinylpyrrolidone) (PVP) Polymer on Electrocatalytic Activity of Polyhedral Pt Nanoparticles towards their Methanol Oxidation, Colloid and Polymer Science, 289, 12, 1373-1386, 2011.08.
+16. Tohru Sugahara, Michitaka Ohtaki, Structural and Semiconductor-to-metal Transitions of Double-perovskite Cobalt Oxide Sr2-xLaxCoTiO6-d with Enhanced Thermoelectric Capability, Applied Physics Letters, 99, 6, 062107, 2011.08.
+17. Nguyen Viet Long, Michitaka Ohtaki, Masaya Uchida, Randy Jalem, Hirohito Hirata, Nguyen Duc Chien, Masayuki Nogami, Synthesis and Characterization of Polyhedral Pt Nanoparticles: Their Catalytic Property, Surface Attachments, Self-aggregation and Assembly, Journal of Colloid and Interface Science, 359, 2, 339-350, 2011.07.
+18. Nguyen Viet Long, Masaya Uchida, Jalem Randy, Hirohito Hirata, Nguyen Duc Chien, Michitaka Ohtaki, Masayuki Nogami, Synthesis and Characterization of Pt-Pd Alloy and Core-shell Bimetallic Nanoparticles for Direct Methanol Fuel Cells (DMFCs): Enhanced Electrocatalytic Properties of Well-shaped Core-shell morphologies and Nanostructures, International Journal of Hydrogen Energy, 36, 14, 8478-8491, 2011.07.
+19. Nguyen Viet Long, Tong Dui Hien, Toru Asaka, Michitaka Ohtaki, Masayuki Nogami, Synthesis and Characterization of Pt-Pd Nanoparticles with Core-shell morphology: Nucleation and Overgrowth of the Pd Shells on the as-prepared and Defined Pt Seeds, Journal of Alloys and Compounds, 509, 29, 7702-7709, 2011.07.
+20. Ngo Van Nong, Nini Pryds, Soren Linderoth, Michitaka Ohtaki, Enhancement of the Thermoelectric Performance of p-Type Layered Oxide Ca3Co4O9+d Through Heavy Doping and Metallic Nanoinclusions, Advanced Materials, 23, 21, 2484-2490, 2011.06.
+21. Ngo Van Nong, Syun-ichi. Yanagiya, Sonne Monica, Nini Pryds, Michitaka Ohtaki, High-Temperature Thermoelectric and Microstructural Characteristics of Cobalt-Based Oxides with Ga Substituted on the Co-Site, Journal of Electronic Materials, 40, 5, 716-722, 2011.05.
+22. N. V. Nong, C.-J. Liu, M. Ohtaki, High Temperature Thermoelectric Properties of Late Rare Earth-doped Ca3Co4-xGaxO9+d , J. Alloy Compd., 509, 977-981, 2011.01.
+23. N. V. Nong, C.-J. Liu, M. Ohtaki, Improvement on the High Temperature Thermoelectric Performance of Ga-doped Misfit-layered Ca3Co4-xGaxO9+d (x = 0, 0.05, 0.1, and 0.2), J. Alloy Compd., 491, 1-2, 53-56, 2010.01.
+24. M. Ohtaki, K. Araki, K. Yamamoto, High Thermoelectric Performance of Dually Doped ZnO Ceramics, Journal of Electronic Materials, 38, 1234-1238, 2009.06.
+25. T. Sugahara, M. Ohtaki, T. Souma, Thermoelectric Properties of Double-perovskite Oxide Sr2-xMxFeMoO6 (M = Ba, La), J. Ceram. Soc. Jpn., 116 (12), 1278-1282, 2008.12.
+26. T. Souma, D. Isobe, M. Ohtaki, Synthesis and Rietveld Analysis of New Thermoelectric Oxides F-doped Na1.6Co2O4, Trans. Mater. Res. Soc. Jpn., 33 (4), 897-901, 2008.06.
+27. T. Souma, M. Ohtaki, K. Ohnishi, M. Shigeno , Y. Ohba, N. Nakamura, T. Shimozaki, Power Generation Characteristics of Oxide Thermoelectric Modules Incorporating Nanostructured ZnO Sintered Materials, Proc. 26th Int. Conf. Thermoelectrics, pp. 38-41, 2008.04.
+28. M. Ohtaki, R. Hayashi, K. Araki, Thermoelectric Properties of Sintered ZnO Incorporating Nanovid Structure: Influence of the Size and Number Density of Nanovoids, Proc. 26th Int. Conf. Thermoelectrics, pp. 112-116, 2008.04.
+29. T. Souma, M. Ohtaki, M. Shigeno, Y. Ohba, N. Nakamura, T. Shimozaki, Jointing Technique and Power Generation Characteristics of p-NaCo2O4/n-ZnO Oxide Thermoelectric Modules, Trans. Mater. Res. Soc. Jpn., 32(3), 701-704, 2007.06.
+30. T. Souma, M. Ohtaki, M. Shigeno, Y. Ohba, N. Nakamura, T. Shimozaki, Fabrication and Power Generation Characteristics of p-NaCo2O4/n-ZnO Oxide Thermoelectric Modules, Proc. 25th Int. Conf. Thermoelectrics, pp.603-606., 2006.11.
+31. M. Ohtaki, R. Hayashi, Enhanced Thermoelectric Performance of Nanostructured ZnO: A possibility of Selective Phonon Scattering and Carrier Energy Filtering by Nanovoid Structure, Proc. 25th Int. Conf. Thermoelectrics, pp.276-279., 2006.11.
+32. N. V. Nong, M. Ohtaki, Power Factors of Late Rare Earth-doped Ca3Co2O6 Oxides, Solid State Commun., 139(5), 232-234., 2006.08.
+33. H. Hirobe, M. Ohtaki, Enhanced Phonon Scattering by Oxygen Defects in Metal Oxides, Trans. Mater. Res. Soc. Jpn., 31(2), 403-406., 2006.06.
+34. N. V. Nong, M. Ohtaki, High-temperature Thermoelectric properties of Late Rare Earth-doped Ca3Co2O6, Trans. Mater. Res. Soc. Jpn., 31(2), 399-402, 2006.06.
+35. T. Souma, M. Ohtaki, Synthesis and Rietveld Analysis of Zn4-xCdxSb3 Bulk Crystals in the Zn-rich Region, J. Alloy. Compd., 413, 289-297, 2006.03.
+Presentations
+ Show All Presentations >>
+1. Michitaka Ohtaki, Recent Aspects of Oxide Ceramic Materials for Thermoelectric Energy Conversion, BIT's 1st Annual World Congress of Smart Materials-2015 (WCSM-2015), 2015.03.23.
+2. Michitaka Ohtaki, New Aspects of Oxide Ceramic Materials for Thermoelectric Energy Conversion, Energy, Materials, and Nanotechnology (EMN) Meeting on Ceramics, 2015.01.27.
+3. Michitaka Ohtaki, Kohei Mizuta, Yuki Iwano, New Aspects in Oxide Thermoelectric Materials for Heat-to-Electricity Direct Energy Conversion, The 13th Eurasia Conference on Chemical Sciences (EuAsC2S-13), 2014.12.16.
+4. Michitaka Ohtaki, Yuki Iwano, Enhanced Phonon Scattering and Carrier Compensation in Multinary-doped ZnO Thermoelectric Oxide, 2014 MRS Fall Meeting, 2014.12.05.
+5. Michitaka Ohtaki, Self-assembly Synthesis of 2-D Semiconducting Oxide Nano-superlattice with Enhanced Photocatalytic Activity by Incorporation of Au Nanoparticles, The Second International Workshop on Nano Materials for Energy Conversion (NMEC-2), 2014.11.18.
+6. Michitaka Ohtaki, Oxide Thermoelectric Materials for Power Generation From Mid-to-High Temperature Unused Heat Energy, The 16th Cross Straits Symposium on Energy and Environmental Science and Technology（CSS-EEST16）, 2014.11.14.
+7. Michitaka Ohtaki, Taiga Kuragaki, Taketoshi Tomida, High-temperature Durability of doped ZnO on Thermal Cycling under Aerobic Conditions, IUMRS International Conference in Asia (IUMRS-ICA) 2014, 2014.08.26.
+8. Michitaka Ohtaki, Kohei Mizuta, Enhanced Phonon Scattering in Oxides with “Rattling” Atoms in Oversized Cage Structure, The 33rd International Conference on Thermoelectrics (ICT2014), 2014.07.09.
+9. Michitaka Ohtaki, Kohei Mizuta, Enhanced Phonon Scattering in “Rattling” Oxides for Thermoelectric Energy Conversion, The 6th Forum on New Materials, CIMTEC 2014, 2014.06.19.
+10. Michitaka Ohtaki, Recent Aspects of R&D for Next Generation Thermoelectric Materials, The 1st Symposium of Research and Education Center for Advanced Energy Materials, Devices, and Systems, 2013.03.13.
+11. Michitaka Ohtaki, So Miyaishi, Kohei Mizuta, New Aspects in Oxide Thermoelectric Materials with Unconventionally Enhanced Phonon Scattering, 11th European Conference on Thermoelectrics (ECT 2013), 2013.11.18.
+12. Michitaka Ohtaki, Yuki Iwano, Oxide Thermoelectric Materials Promising for Power Generation from Mid-to-High Temperature Waste Heat, The 2nd International Symposium on Inorganic and Environmental Materials (ISIEM 2013), 2013.10.30.
+13. Michitaka Ohtaki, Oxide Materials with Unconventional Transport Properties Promising for Thermoelectrics, The 15th Asian Chemical Congress (15ACC),, 2013. 8. 19-23. , 2013.08.23.
+14. Michitaka Ohtaki, Nanostructured Oxide Ceramics for Efficient Thermoelectric Energy Conversion, 12th International Conference on Ceramic Processing Science (12-ICCPS), 2013.08.05.
+15. 大瀧 倫卓, 富田 健稔, 倉垣 大河, High-temperature Stability of ZnO-based Thermoelectric Materials with Thermal Cycling under Aerobic Conditions, The 32nd International Conference on Thermoelectrics (ICT2013), 2013.07.03.
+16. 大瀧 倫卓, Oxide Materials in Thermoelectrics: Beyond a Simple Picture of Ionic Compounds, The 10th Pacific Rim Conference on Ceramic and Glass Technology (PacRim10), 2013.06.06.
+17. Michitaka Ohtaki, Oxide Materials for Mid-to-High Temperature Thermoelectric Energy Conversion, The 29th International Korea-Japan Seminar on Ceramics, 2012.11.23.
+18. Michitaka Ohtaki, Oxide Thermoelectric Materials Promising for Heat-to-Electricity Direct Conversion from Mid-to-High Temperature Waste Heat, 2nd International Conference on Competitive Materials and Technology Processes (ic-cmtp2), 2012.10.10.
+19. Michitaka Ohtaki, Yuki Iwano, So Miyaishi, Optimizing the Thermoelectric Properties of Oxide Materials: some case studies and strategies, IUMRS-International Conference on Electronic Materials (IUMRS-ICEM 2012), 2012.09.24.
+20. Michitaka Ohtaki, Oxide Thermoelectric Materials with Bulk Nanocomposite Structures for Heat-to-Electricity Direct Conversion and Applicability of Self-assembly Low-dimensional Oxide Nanomaterials, First International Workshop on Nano Materials for Energy Conversion and Fuel Cell (NMEC-1), 2012.08.22.
+21. Michitaka Ohtaki, So Miyaishi, Extremely Low Thermal Conductivity in Oxides with Cage-like Crystal Structure , The 31st International Conference on Thermoelectrics 2012 (ICT-2012), 2012.07.11.
+22. Michitaka Ohtaki, Yuki Iwano, Thermoelectric Properties and Impurity-related Heterogeneous Microstructure of Doped ZnO, 2012 Spring Meeting of E-MRS, 2012.05.16.
+23. Michitaka Ohtaki, Zinc Oxide as a Promising Material for Thermoelectric Power Generation Utilizing Wasted Heat Energy, The 12th International Confernce on Chemical Sciences (EuAsC2S-12), 2012.04.18.
+Membership in Academic Society
+Iron and Steel Institute of Japan
+
+
+Unauthorized reprint of the contents of this database is prohibited.
+
+Copyright © 2006, Kyushu University. All rights reserved.

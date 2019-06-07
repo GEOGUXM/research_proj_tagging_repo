@@ -1,0 +1,354 @@
+###AuthorName=Eric van Berkum
+###AuthorTitle=Prof
+###Affiliation=Centre for Transport Studies
+###Position=
+##############################
+BACK
+Staff
+Bingyuan Huang MSc.
+Dr.ing. Lissy La Paix Puello
+Drs.ing. Erwin Bezembinder
+Former Staff
+Marie-José Olde Kalter MSc.
+Mariska van Essen MSc.
+Prof.dr.ing. Karst Geurs
+Prof.dr.ir. Eric van Berkum
+Prof.dr.ir. Marieke Martens
+Roald J. van Loon MSc.
+I Gusti Ayu Andani MSc.
+Dr. John Pritchard
+Dr. Tiago Fioreze
+Dr. Tom Thomas
+Dr.ir. Jaap Vreeswijk
+Dr.ir. Luc Wismans
+Ing. Kasper van Zuilekom
+Bo Zhang MSc.
+Francesco Walker MSc.
+Sander Veldscholten MSc.
+Anika Boelhouwer, MSc.
+EN| NL| DE
+ET FACULTYCentre for Transport Studies (VVR)
+STAFF
+PROF.DR.IR. ERIC VAN BERKUM
+CONTACT
+PROFESSIONAL EXPERIENCE
+EDUCATION
+PROJECTS
+TEACHING
+PUBLICATIONS
+RELEVANT FUNCIONS
+Eric van Berkum was born and raised in Hengelo(O). He holds a BSc and MSc in Applied Mathematics at the University of Twente. After a career as a software engineer at Cap Gemini he moved in 1988 to Goudappel Coffeng, a traffic and transport consultancy in Deventer. He worked there for 21 years in which he has had several positions. His main research interest is on transport modeling, networks, travel behaviour and traffic management. In 1998 he became a parttime professor in traffic management at the Centre for Transport Studies. In 2009 he left Goudappel Coffeng and became a full professor and also head of the Centre for Transport Studies.
+CONTACT
+Room: Horst room Z228
+Phone: +31 (0) 53 - 489 4886/ 06-39584496
+Phone secretary: +31 (0) 53 - 489 4322
+Email: e.c.vanberkum@utwente.nl
+Position: Full Professor
+PROFESSIONAL EXPERIENCE
+2009 - HEDEN
+Full Professor and Head of the Centre for Transport Studies, University of Twente
+1998 - 2009
+Part time Professor, Centre for Transport Studies, University of Twente
+1988-2009
+Goudappel Coffeng, Deventer, the Netherlands
+1985-1988
+Cap Gemini, Utrecht, the Netherlands
+EDUCATION
+1993
+PhD, Civil Engineering, Delft University of Technology. Thesis title: Impact of Information, Dynamics in Route and Departure Time Choice
+1984
+MSc, Applied Mathematics, University of Twente. Thesis title: Cross Decomposition and the Capacitated Facility Location Problem.
+1982
+BSc, Applied Mathematics, University of Twente. Thesis title: Properties of Hamiltonian Random Graphs.
+PROJECTS
+2015-2019
+An evidence based framework to assess the influence of positive, personalized, incentives on car use reduction
+2015-2017
+EU HORIZON2020 - Empower
+2015-2017
+Towards a system optimal network state using personalized travel information.
+2012
+Optimal design of intersections in an urban transport network
+2011
+Behavioural indicators for traffic safety
+TEACHING
+Bachelor Module 8:
+?Modellering/Optimalisatie Van Transportprocessen
+Master
+?Traffic Operations
+? Traffic Management
+? Transport Research Project
+? Intelligent Transport Systems
+? Mathematical Optimization in Transport
+?He has supervised 100+ MSc students
+PUBLICATIONS
+2016
+Essen, M.A. van, Thomas, T., Berkum, E.C. van & Chorus, C. (2016). From User Equilibrium to System Optimum: A literature review on the role of travel information, bounded rationality and non-selfish behaviour at the network and individual level. --- Transport reviews --- . DOI: 10.1080/01441647.2015.1125399
+
+
+Essen, M.A. van, Thomas, T., Chorus, C. & Berkum, E.C. van (2016). The role of travel time information on day-to-day route choice behavior based on real-world experiments. In TRB (Ed.), --- Proceedings of The 95th Annual Meeting of the Transportation Board, Washington DC, USA, 10-14 January 2016. (online no.16-0806) --- (pp. 1-20).
+
+2015
+Berkum, E. C. van (2015). Impact of road surface marking on the merging process at on-ramps. In Proceedings of the 94th Annual Meeting of the Transportation Board, 11-17 January 2015.
+
+
+Berkum, Eric van & Huerne, Henny ter (forthcoming). Modelling traffic hindrance caused by road construction as part of a multi-criteria assessment framework. In S. Cohen, G. Yannis, (Eds.), --- TRA Volume 3 Traffic and Safety, Wiley.
+
+
+Bezembinder, E.M., Wismans, L.J.J. & Berkum, E.C. van (2015). Using decision trees to determine junction design rules. In TRB (Ed.), --- Proceedings of the 94th Annual Meeting of the Transportation Board, 11-15 January 2015, Washington DC, USA. (on CD ROM). --- (pp. 1-16). Washington DC: TRB.
+
+
+Brands, T., Wismans, L.J.J. & Berkum, E.C. van (2015) The Pareto set as decision support information in multimodal passenger transportation network design. In --- Proceedings of Conference on Advanced Systems in Public Transport, 19-23 July 2015, Rotterdam.
+
+
+Essen, M.A. van, Rakha, H., Vreeswijk, J.D., Wismans, L.J.J. & Berkum, E.C. van (2015). Day-to-day route choice modeling incorporating inertial behavior. In IATBR (Ed.), --- Proceedings of The 14th International Conference on Travel Behaviour Research, 19-23 July 2015, Windsor. (online) --- (pp. 1-18). Windsor: IATBR.
+
+
+Ohazulike A.E., G. Still, W. Kern and E.C. van Berkum (2015): Multiple stakeholders in road pricing: A game theoretic approach, in Hausken K. and J. Zhuang (eds.), Game Theoretic Analysis of Congestion, Safety and Security, Springer Series in Reliability Engineering, Springer Verlag.) (pp. 159-189).
+
+
+Palm, H., Wismans, L.J.J., Mede, P.H.J. van der & Kievit, E. de (2015). Combining new data gathering technology to investigate pedestrian movements in cities. In ITS (Ed.), Proceedings of 22nd ITS World Congress, 5-9 October 2015, Bordeaux, France,. (pp. 1-10).
+
+
+Suijs, L.C.W., Wismans, L.J.J., Krol, L. & Berkum, E.C. van (2015). Phantom jam avoidance through in-car speed advice. --- Transportation research procedia, 8 --- , 227-236.
+
+
+Vreeswijk, J.D., Rakha, H., Berkum, E.C. van & Arem, B. van (2015). Analysis of inertial choice behavior based expected and experienced savings from a real-world route choice experiment. --- International journal of transportation, 3 --- (3), pp. 11-28. http://dx.doi.org/10.14257/ijt.2015.3.3.02
+
+
+Vreeswijk, J.D., Berkum, E.C. van & Arem, B. van (2015). Field study to evaluate awareness and perception of waiting time at signalized intersections. In TRB (Ed.), --- Proceedings of 94th Annual Meeting of the Transportation Board, 11-15 January 2015, Washington DC, USA. (on CD-rom) --- (pp. 1-15).
+
+
+Vreeswijk, J.D., Berkum, E.C. van & Arem, B. van (2015). Evaluating Awareness and Perception of Waiting Time at Signalized Intersections. --- Transportation research record, 2518 --- , 86-94. DOI: 10.3141/2518-12
+
+
+Vreeswijk, J.D., Berkum, E.C. van & Arem, B. van (2015). Measurement of Awareness and Perception of Real-World Traffic Light Changes by Online Panel Survey. In TRB (Ed.), --- Proceedings of 94th Annual Meeting of the Transportation Board, 11-15 January 2015, Washington DC, USA (on CD-rom) --- (pp. 1-14).
+
+
+Vreeswijk, J.D., Landman, R.L., Berkum, E.C. van, Heygi, A., Hoogendoorn, S.P. & Arem, B. van (2015). Improving the road network performance with dynamic route guidance by considering the indifference band of road users. --- IET intelligent transport systems --- , 1-10.
+
+
+Wismans, L.J.J., Suijs, L.C.W., Krol, L. & Berkum, E.C. van (2015). In-car Advice to Reduce Negative Effects of Phantom Jams. In TRB (Ed.), --- Proceedings of 94th Annual Meeting of the Transportation Board, 11-15 January 2015, Washington DC, USA. (on USB) --- (pp. 1-14).
+
+
+Wismans, L.J.J., Suijs, L.C.W., Krol, L. & Berkum, E.C. van (2015). In-car Advice to Reduce Negative Effects of Phantom Jams. --- Transportation research record, 2489 --- 1-10. DOI 10.3141/2489-01
+
+2014
+Berkum, E. C. van (2014). Generation of OD-data from navigation systems data using machine learning. In Proceedings of IEEE Symposium Series on Computational Intelligence, Orlando FL, USA, December 9-12, 2014.
+
+
+Berkum, Eric van & Huerne, Henny ter (2014). Modelling traffic hindrance caused by road construction as part of a multi-criteria assessment framework. In B. Jacob, J. Kovarik & V. Motyka (Eds.), Transport Research Arena 2014, 5th conference Transport solution, April 14 - 17 2014, Paris, France --- (pp. 10). Paris, France: TRA.
+
+
+Bezembinder, E.M., Wismans, L.J.J. & Berkum, E.C. van (2014). Using decision trees to determine junction design rules. In --- Proceedings of the European Transport Conference, September 29th - October 1st, 2014, Frankfurt, Germany. (pp. 1-12). Frankfurt: ETC.
+
+
+Brands, T. & Berkum, E. C. van (2014). Performance of a genetic algorithm for solving the multi-objective, multimodel transportation network design problem. International journal of transportation, (ISSN 2287-7940), 2(1), 1-20.
+
+
+Brands, T., Berkum, E.C. van & Wismans, L.J.J. (2014). Multi-objective optimization of multimodal passenger transportation networks: coping with demand uncertainty. In M.G. Karlaftis, N.D. Lagaros & M. Papadrakakis (Eds.), --- Proceedings of 1st International Conference on Engineering and Applied Sciences, OPT-I, 4-6 June 2014, Kos Island, Greece (pp. 547-561). Greece: NTUA.
+
+
+Brands, T., Wismans, L.J.J. & Berkum, E.C. van (2014). Multi-objective Transportation Network Design: Accelerating Search by applying e-NSGAII. In C.C. Coello (Ed.), --- Proceedings of IEEE-CEC 2014 Symposium, 6-11 July 2014, Beijing, China (pp. 405-412). Beijing: IEEE press.
+
+
+Brands, T. & Berkum, E. C. van (2014). Using results from multi-objective optimization as decision support information in multimodal passenger transportation network design. In Proceedings TRAIL Congress, 13 November 2014, Delft. Delft: TRAIL.
+
+
+Suijs, L., Krol, L., Wismans, L. J. J. & Berkum, E. C. van (2014). Phantom jam suppression through in-car speed advice. In Proceedings of European Transport Conference, September 29th - October 1st 2014, Frankfurt, Germany, pp.1-12.
+
+
+Vreeswijk, J. D., Thomas, T., Berkum, E. C. van & Arem, B. van (2014). Perception bias in route choice. TRANSPORTATION, (ISSN 0049-4488), 1-16. http://dx.doi.org/10.1007/s11116-014-9552-3
+
+
+Vreeswijk, J. D., Berkum, E. C. van & Arem, B. van (2014). Analysis of inertia thresholds based on real-world route choice data. In TRAIL (Ed.), Proceedings of the TRAIL Congress, 13 November 2014, Delft.
+
+
+Vreeswijk, J. D., Thomas, T., Berkum, E. C. van & Arem, B. van (2014). Perception bias in route choice, In TRB (Ed.), Proceedings of 93th Annual Meeting of the Transportation Board, 12-16 January 2014, Washington DC, USA. (on DVD), pp. 1-16, Washington: TRB.
+
+
+Vreeswijk, J. D., Thomas, T., Berkum, E. C. van & Arem, B. van (2014). Drivers' perception of route alternatives as indicator for the Indifference band, Transportation Research Record: Journal of the Transportation Research Board, No. 2383, pp. 10–17.
+
+
+Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2014). Acceleration of solving the dynamic multi-objective network design problem using response surface methods. J. intell. transp. syst., (ISSN 1547-2450), 18(1), 17-29.
+
+
+Wismans, L.J.J., Berkum, E.C. van & Bliemer, M.C.J. (2014). Handling multiple objectives in optimization of externalities as objectives for dynamic traffic management. --- European journal of transport and infrastructure research, 14 --- (2), 159-177.
+
+
+Wismans, L.J.J., Brands, T., Berkum, E.C. van & Bliemer, M.C.J. (2014). Pruning and ranking the Pareto optimal set, application for the dynamic multi-objective network design problem. --- Journal of advanced transportation, 48 --- (6), 588-607.
+
+
+Wismans, L.J.J., Romph, E. de, Friso, K. & Zantema, K. (2014). Real-time traffic models, decisions support for traffic management. In --- Proceedings of Design & Decision Support Systems in Architecture and Urban Planning Conference, August 25-27 2014, Eindhoven, pp. 1-16 (on USB flash drive)
+
+2013
+Bezembinder, E. M., Wismans, L. J. J. & Berkum, E. C. van (2013). Ontwerpregels voor kruispunten in stedelijke netwerken. (Design rules for junctions in urban networks). In Proceedings Colloquium Vervoersplanologisch Speurwerk (CVS), November 21-22 2013, Rotterdam. (online paper ID-045) (pp. 1-15). Rotterdam: CVS.
+
+
+Ohazulike, A.E., Still, G., Kern, W. and Berkum, E. C. van (2013) An origin–destination based road pricing model for static and multi-period traffic assignment problems. Transportation Research Part E: Logistics and Transportation Review. Volume 58, November 2013, Pages 1-27. ISSN: 1366-5545.
+
+
+Vreeswijk, J. D., Bie, J., Berkum, E. C. van & Arem, B. van (2013). Effective traffic management based on bounded rationality and indifference bands. IET intell. transp. syst., (ISSN 1751-9578), pp. 1-10.
+
+
+Vreeswijk, J. D., Thomas, T., Berkum, E. C. van & Arem, B. van (2013). Drivers' perception of route alternatives as indicator for the indifference band. In TRB (Ed.), Proceedings of 92th Annual Meeting of the Transportation Board, 13-17 January 2013, Washington DC, USA (Paper 13-2607) (pp. 1-13). Washington DC: Mira Publishing.
+
+
+Vreeswijk, J. D., Thomas, T., Berkum, E. C. van & Arem, B. van (2013). Drivers' perception of route alternatives. In ITS (Ed.), Proceedings of 20th ITS World Congres, October 15-18 2013, Tokyo, Japan (On CD Paper no. TP 2128) (pp. 1-10). Tokyo: ITS.
+
+
+Vreeswijk, J. D., Berkum, E. C. van & Arem, B. van (2013). Measuring user awareness at signalized intersections. In TRB (Ed.), Proceedings of 92th Annual Meeting of the Transportation Board, 13-17 January 2013, Washington DC, USA (Paper 13-2612) (pp. 1-13). Washington DC: Mira Publishing.
+
+
+Vreeswijk, J. D., Berkum, E. C. van & Arem, B. van (2013). Drivers' perception and learning in route choice. In G. Caruso, P. Gerber, F. Viti & M. Hesse (Eds.), Proceedings of the BIVEC-GIBET transport research days, 30-31 May 2013, Brussels, Belgium. (pp. 69-70). Brussels: BIVEC.
+
+
+Wismans, L.J.J., Berkum, E.C. van & Bliemer, M.C.J. (2013). Accelerating solving the dynamic multi-objective network design problem using response surface methods. Evaluation of using function approximation within the SPEA2+. International journal of intelligent transportation systems research, 1-37.
+
+
+Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2013). Effects of optimizing externalities using cooperating DTM measures on network level. Int. j. intell. transp. syst. res., (ISSN 1868-8659), 17(1), 65-77.
+
+
+Wismans, L. J. J., Brink, R. M. M. van den, Brederode, L. J. N., Zantema, K. J. & Berkum, E. C. van (2013). Comparison of estimation of emissions based on static and dynamic traffic assignment. In TRB (Ed.), Proceedings of 92th Annual Meeting of the Transportation Board, 13-17 January 2013, Washington DC, USA. (on CD-rom) (pp. 1-18). Washington: TRB.
+
+
+
+
+2012
+Bie, J., Vreeswijk, J. D. & Berkum, E. C. van (2012). Extending prospect theory for modeling day-to-day traffic dynamics: Risk aversion and equilibrium stability. In DTA (Ed.), 4th International Symsposium on Dynamic Traffic Assignment (DTA), 4-6 June 2012, Martha's Vineyard, Massachusetts, USA (pp. 1-11). Massachusetts: DTA.
+
+
+Bie, J., Vreeswijk, J. D. & Berkum, E. C. van (2012). Penetration level and impact of ITS applications: economic analysis of ITS deployment plans and the role of governments. In Proceedings of the 19th World Congress on Intelligent Transport Systems in Vienna, Austria, 22-26 October 2012. (on CD-rom) (pp. 1-5). Vienna: WCTS.
+
+
+Brands, T. & Berkum, E. C. van (2012). Multi-objective optimization of multimodal transportation networks: Interpretation of the Pareto set from a case study in Amsterdam. (online). In Proceedings of TRAIL Beta congress, 30-31st of October 2012, Rotterdam, The Netherlands. (pp. 1-16). Rotterdam: TRAIL.
+
+
+Brands, T. & Berkum, E. C. van (2012). Multi-objective optimization of multimodal transportation networks. (paper no 75 on USB stick). In Proceedings of the 1st European Symposium on Quantitative Methods in Transportation Systems, 4-7th of September 2012, Lausanne, Switserland. (pp. 1-6). Lausanne: Latsis.
+
+
+Hoogendoorn, R., Vreeswijk, J. D., Hoogendoorn, S. P., Brookhuis, K. A., Arem, B. van & Berkum, E. C. van (2012). Efficacy of dynamic traffic management measures: the influence of complexity and situational awareness. In Proceedings of the 5th International conference on Traffic and Transport Psychology, August 29-31, 2012, in Groningen, The Netherlands. (pp. 34).
+
+
+Huerne, H. L. ter, Berkum, E. C. van & Hermelink, W. A. H. (2012). A Multi Objective Framework to Optimise Planning of Road Works. In E. Beuving, P. Dewez, G. Malkoc & M. Southern (Eds.), Proceedings of the 5th Eurasphalt and Eurobitume Congress, 13-15 June 2012, Istanbul, Turkey (pp. 1-8). Brussels, Belgium: Foundation Eurasphalt (ISBN 978-90-802884-0-9).
+
+
+Huerne, H. L. ter, Fikse, K., Berkum, E. C. van & Hermelink, W. A. H. (2012). Modeling traffic hindrance caused bij road maintenance. In D. Wilson, S. Costello, T. Henning, P. Black & C. Olsen (Eds.), Proceedings MAIREPAV7 - 7th International Conference on Maintenance and Rehabilitation of Pavements and Technological Control, August 28 - 30, 2012, Auckland, New Zealand (pp. 1-10). Auckland, New Zealand: University of Auckland.
+
+
+Ohazulike, A.E., Still, G., Kern, W. and Berkum, E. C. van (2012) Analytical Model of Route-Based Pricing for Time Dependent Traffic Assignment. In: Proceedings of the TRAIL-Beta Congress 2012 “Mobility & Logistics – Science meets Practice” 30-31 October 2012.
+
+
+Ohazulike, A.E. and Still, G.J. and Kern, W. and Van Berkum, E.C. (2012) Multi-Stakeholder Road Pricing Game: Solution Concepts. International Journal of Computational and Mathematical Sciences 6. pp. 1-12. pISSN 2010-3905, eISSN 2010-3913.
+
+
+Ohazulike, A.E., Still, G., Kern, W. and Berkum, E. C. van (2012). Multi-Objective Road Pricing: A Game Theoretic and Multi-Level Optimization Approach. In 25th European Conference on Operational Research, 8-11 July 2012, Vilnius, Lithuania.
+
+
+Ohazulike, A.E., Bliemer, M.C.J., Still, G. and Berkum, E. C. van (2012). Multiobjective Road Pricing: Game Theoretic and Multistakeholder Approach (paper 12-0719 (Online)). In TRB (Ed.), 91st Annual Meeting Transportation Research Board (TRB) Conference, January 22-26, 2012 Washington DC (pp 1-21). Mira Digital Publishing.
+
+
+Ohazulike, A.E., Still, G., Kern, W. and Berkum, E. C. van (2012). Multi-Stakeholder Road Pricing Game: Solution Concepts. In: International Conference on Operations Research (ICOR 2012), March 2012, Phuket, Thailand, Issues 63, pp. 10-21, World Academy of Science, Engineering and Technology (WASET). pISSN 2010-376X, eISSN 2010-3778.
+
+
+Vreeswijk, J. D., Berkum, E. C. van & Arem, B. van (2012). Drivers' ability to detect changes in timing at signalized intersections. In Proceedings of 5th international conference on traffic and transport psychology, 29-31 August 2012, Groningen. (pp. 75). Groningen.
+
+
+Vreeswijk, J. D., Landman, R. L., Berkum, E. C. van, Hegyi, A., Hoogendoorn, S. P. & Arem, B. van (2012). Improving the road network performance with dynamic route guidance by considering the indifference band of road users. In IATBR (Ed.), Proceedings of 13th International conference on Travel Behavior Research (IATBR), Toronto, 15-19 July. (on CD-rom) (pp. 1-22). Toronto: IATBR.
+
+
+Vreeswijk, J. D., Berkum, E. C. van & Arem, B. van (2012). Theoretical and methodological framework for user awareness at signalized intersections. In TRB (Ed.), The Transportation Research Board (TRB) 91st Annual Meeting, Washington DC, January 22-26, 2012 (online) (pp. 1-13). Washington: Mira Publishing.
+
+
+Wismans, L. J. J. & Berkum, E. C. van (2012, October 30). Sustainable dynamic traffic management. Rotterdam, TRAIL-Beta Congress 2012.
+
+2011
+Bie, J., Berkum, E. C. van & Arem, B. van (2011) Dynamic route choice and the influence of a safety inventive: experimental results with a dynamic route choice simulator (paper 11-0738, online), 90th Annual Meeting Transportation Research Board (TRB) Conference, January 23-27, 2011 Washington DC, pp. 1-14), Washington: Mira Digital Publishing.
+
+
+Bijl, B. van der, Vreeswijk, J. D., Bie, J. & Berkum, E. C. van (2011). Car drivers' perception and acceptance of waiting time at signalized intersectons. In The 14th International IEEE Annual Conference on Intelligent Transportation Systems (ITSC), Washington DC, 5-7 October 2011 (on CD-rom). IEEE Catalog Number: CFP11ITS-CDR.. Washington: Omnipress (ISBN 978-1-4577-2196-0).
+
+  Vreeswijk, J. D., Berkum, E. C. van & Arem, B. van (2011). Flexible traffic management based on bounded rationality and indifference bands. In 2nd International Conference on Models and Technologies for ITS, Leuven, Belgium, June 22-24, 2011 (on CD-rom) (pp. 1-4).
+
+  Vreeswijk, J. D., Do, M., Middag, W., Martens, M. H., Berkum, E. C. van & Arem, B. van (2011). Travelers ability to observe changes in traffic intensities and traffic light settings. In ITSC (Ed.), The 14th International IEEE Annual Conference on Intelligent Transportation Systems (ITSC), Washington DC, 5-7 October 2011 (on CD-rom). IEEE Catalog Number: CFP11ITS-CDR.. Washington: Omnipress (ISBN 978-1-4577-2196-0).
+
+  Vreeswijk, J. D. & Berkum, E. C. van (2011). Netwerkmanagement versus de weggebruiker. NM-Magazine, (ISSN 1875-2179), 1, 25-27.
+
+  Vreeswijk, J. D., Berkum, E. C. van & Arem, B. van (2011). Priorities in urban traffic problems and implications for the design of solutions. In ITS (Ed.), 8th European Congress and exhibition on Intelligent Transport Systems and Services. Lyon, 6-9 June, 2011 (pp. 1-5). Lyon: ITS.
+
+  Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2011). Comparison of multi objective evolutionary algorithms for optimization of externalities using dynamic traffic management measures. Transp. res. rec., (ISSN 0361-1981), 2263, 163-173.
+    Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2011). Modelling Externalities using Dynamic Traffic  Assignment Models: a review. Transp. rev., (ISSN 0144-1647), Vol.31, 4 pp. 521-545. DOI: 10.1080/01441647.2010.544856.
+
+  Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2011). Dynamic traffic management measures to optimize air quality, climate, noise, traffic safety and congestion: effects of a single objective optimization. (Chapter 16, Part 4). In P. Rietveld, P. Huijbregts & J.A.EE. van Nunen (Eds.), Transitions towards sustainable mobility (pp. 297-313). Heidelberg Dordrecht London New York: Springer (ISBN 978-3-642-21191-1)
+
+  Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2011). Geld maakt niet gelukkig, als weging van externe effecten bij de optimalisatie van DVM. NM-Magazine, (ISSN 1875-2179), 2(6), 31-33.
+
+  Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2011).Comparison of multi objective evolutionary algorithms for optimization of externalities using dynamic traffic management measures. (Paper 11-1771). In TRB (Ed.) Compendium of Papers, TRB 90th Annual Meeting, Washington, Mira Digital Publishing.
+
+  Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2011). Comparison of  evolutionary multi objective  algorithms for the dynamic network design problem (On CD-rom). In IEEE (Ed.), 8th IEEE International  In IEEE (Ed.), 8th IEEE International  Conference on Networking, Sensing and Control. IEEE Catalog number CFP11NSC-CDR.. Delft: IEEE (ISBN  978-1-4244-9572-6).
+
+  Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2011).
+In Proceedings DTM-conference May 12, 2011 (DVM-congres  2011) 12-05-2011, Rotterdam.
+
+  Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2011). Accelerating solving the dynamic MO NDP using response surface methods. Evaluation of using function approximation within the SPEA2+. In F. Viti, B. Immers & C. Tampere (Eds.), Proceedings Models and technologies for intelligent transportation systems conference, June 22-24, Leuven. (on CD-rom) (pp. 1-4).
+
+   
+2010
+Berkum, E. C. van (2010). Multi-objective decision aid for traffic management. In University of Durham (Ed.), ESF (European Science Foundation) Workshop Foundations Of Autonomic Computing For Traffic Management Systems, 14-16 April 2010, University of Durham, United Kingdom.
+
+  Berkum, E. C. van (2010, June 17). ATMA - aanpak en resultaten. Lelystad (Aviodrome), Gebruikersgroep Verkeersmanagement.
+
+  Brands, T. & Berkum, E. C. van (2010). Optimalisatie van het multimodale vervoersnetwerk in de Randstad, rekening houdend met meerdere doelstellingen. In Colloquium vervoersplanologisch speurwerk (CVS), Roermond, 25-26 november 2010. (On-line). Roermond: CVS.
+
+  Hermelink, W. A. H., Berkum, E. C. van & Huerne, H. L. ter (2010). Raamwerk voor het inzichtelijk maken van verkeershinder bij wegonderhoud. In CROW Infradagen 2010, 23-24 June 2010, Papendal, The Netherlands (On-line) (pp. 1-10).
+
+  Hermelink, W. A. H., Berkum, E. C. van & Huerne, H. L. ter (2010). Project hinderarm wegonderhoud. Verkeer in beeld, (ISSN 1878-9277), 4(2), 22.
+
+  Thomas T., W. Weijermars and E.C. van Berkum (2010): Predictions of Urban Volumes in Single Time Series, IEEE Transactions on Intelligent Transport Systems, 11-1, pp 71-80
+
+  Hulleman R.P. and E.C. van Berkum (2010): ATMA-MODeRN: Development of a Multi-Objective Decision Tool, 12th World Conference on Transport Research, Lisbon, Portugal.
+
+  Ohazulike, A. E., Bliemer, M. C. J., Still, G. J. & Berkum, E. C. van (2010). Multi-objective road pricing: A cooperative and competitive bilevel optimization approach. In T.P. Alkim & T. Arentze e.a. (Eds.), 11th Trail Congress Connecting People - Integrating Expertise, 23 and 24 November 2010. (on CD-rom). Delft: TRAIL (ISBN 978-90-5584-139-4).
+
+  Veenstra, S. A. & Berkum, E. C. van (2010). Het ontrafelen van stedelijk verkeer: het onderzoeken van verkeersgeneratie ten behoeve van het operationaliseren, kwantificeren en evalueren van stedelijk verkeersbeleid. In Stichting Colloquium Vervoersplanologisch Speurwerk (CVS), 25-26 november, Roermond. (On-line). Roermond: CVS.
+
+  Vonk, W. G., Nijenhuis, G., Berkum, E. C. van, Bodmer, M. & Hulleman, R. (2010).InfoRio, focus group sessions to test potential for a personal real time travel information concept for public transport, (no 03071, 23 p.). In J.M. Viegas & R. Macario (Eds.), 12th WCTR : World Conference on Transport Research, 11-15 July 2010, Lisbon, Portugal : general proceedings. WCTR society.
+
+  Vreeswijk, J. D., Berkum, E. C. van, Arem, B. van & Vliet, H. van (2010). Toward effective strategies for energy efficient network management. (DOI 10.1109/ITSC.2010.5625125). In A. Abadi & D. Bauer e.a. (Eds.), The 13th International IEEE Annual Conference on Intelligent Transportation Systems (ITSC), Madeira Island, 19-22 September 2010. (on DVD) (pp. 937-942). Funchai: ITSC (ISBN 978-142447657-2).
+
+  Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2010). Optimization of externalities using DTM measures. A Pareto optimal multi objective optimization using the evolutionary algorithm SPEA2+. In T.P. Allkim, B. van Arem & T. Arentze e.a. (Eds.), 11th Trail Congress Connecting People - Integrating Expertise. (on CD-rom). Delft: TRAIL (ISBN 978-90-5584-139-4).
+
+  Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2010). Wisselwerking tussen bereikbaarheid en externe effecten bij de optimalisatie van DVM maatregelen in verkeersnetwerken. Tijdschr. vervoerswet., (ISSN 0040-7623), 46(2), 44-54.
+
+  Wismans, L. J. J., Berkum, E. C. van & Bliemer, M. C. J. (2010). Multi-objective network design problem: minimizing externalities using dynamic traffic management measures. In M. Bierlaire & C. Osorio (Eds.), Extended abstracts. Seventh triennial symposium on transportation analysis. Tristan Conference, June 2010, Tromso, Norway. (CD-rom). (pp. 808-811). Tromso: Tristan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RELEVANT FUNCIONS
+2014
+Organizer and Scientific chair of Summer school on Autonomous Road Transport Systems: Behavioural responses and impact, held at the Bulgarian Academy of Sciences, September 9-12, 2014 Functie bij : Bulgarian Academy of Sciences.
+  Member of program committee of the 17th International IEEE Conference on Intelligent Transportation Systems, Qingdao, China, October 8-11, 2014.. Functie bij : IEEE.
+  Member of the editorial Board of the Journal Tijdschrift Vervoerswetenschappen. Functie bij : Tijdschrift Vervoerswetenschappen.
+Prof.dr.ir. Eric van Berkum
+Share this page
+UNIVERSITY OF TWENTE
+DRIENERLOLAAN 5
+7522 NB ENSCHEDE
+0031 53 489 9111
+info@utwente.nl
+Route
+Disclaimer & CopyrightPrivacy & CookiesLast Update 20-04-2017
+COOKIES
+
+The websites of the University of Twente use cookies in order to analyse website usage and improve user-friendliness. In addition, we use third-party tracking cookies, for instance to measure user preferences and to enable users to share our content on social media. Read more about cookies.

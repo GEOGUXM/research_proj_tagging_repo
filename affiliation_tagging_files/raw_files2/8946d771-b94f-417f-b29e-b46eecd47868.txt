@@ -1,0 +1,51 @@
+###AuthorName=Afonso S. Bandeira
+###AuthorTitle=Ph.D
+###Affiliation=Graduate School of Arts & Science
+###Position=Assistant Professor of Mathematics
+##############################
+PEOPLE
+RESEARCH
+COURSES
+PHD
+MASTER'S
+UNDERGRAD
+RESOURCES
+CALENDARS
+ABOUT
+People
+Faculty
+Postdocs
+Visitors
+Staff
+Ph.D. Students
+Ph.D. Alumni
+Departmental Leadership
+Research
+Courses
+PhD
+Master's
+Undergrad
+Resources
+Calendars
+About
+Faculty Profile
+Afonso S. Bandeira
+Assistant Professor of Mathematics
+(joint appointment with the NYU Center for Data Science)
+bandeira@cims.nyu.edu
+212-998-3475
+Warren Weaver Hall, Office 1123
+http://cims.nyu.edu/~bandeira/
+Education
+Ph.D., Applied and Computational Mathematics, Princeton University, USA, 2015.
+M.S., Mathematics, University of Coimbra, Portugal, 2010.
+B.S., Mathematics, University of Coimbra, Portugal, 2009.
+Research Interests
+My research interests broadly lie in applied mathematics. In particular, I tend to pursue mathematical understanding behind processes which extract information from data. This often relates to signal processing, theoretical computer science, optimization, machine learning, probability theory, statistics, and information theory, to name a few.
+Select Publications
+A. S. Bandeira and R. v. Handel, "Sharp nonasymptotic bounds on the norm of random matrices with independent entries", Annals of Probability (2015)
+E. Abbe, A. S. Bandeira, G. Hall, "Exact recovery in the stochastic block model", IEEE Transactions on Information Theory 62, 1, 471-487 (2016)
+B. Alexeev, A. S. Bandeira, M. Fickus, D. G. Mixon, "Phase retrieval with polarization", SIAM Journal on Imaging Sciences (SIIMS) 7, 1, 35-66 (2013)
+A. S. Bandeira, A. Singer, D. A. Spielman, "A Cheeger Inequality for the Graph Connection Laplacian", SIAM Journal on Matrix Analysis and Applications (SIMAX) 34, 4, 1611-1630 (2013)
+New York University | Arts & Science | College of Arts & Science | Graduate School of Arts & Science
+© New York University

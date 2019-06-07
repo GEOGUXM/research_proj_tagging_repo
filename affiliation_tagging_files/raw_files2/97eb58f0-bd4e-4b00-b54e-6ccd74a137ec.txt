@@ -1,0 +1,32 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+ENGLISH  | HOME | IMPRESSUM | KIT
+Institut für Technik der Informationsverarbeitung (ITIV)
+  Start
+Institut
+Mitarbeiter
+Institutsleitung
+Sekretariat
+Wissenschaftliche Mitarbeiter
+Externe Doktoranden
+Lehrbeauftragte
+Technik und Werkstatt
+Gastwissenschaftler
+Bearbeiter Studentische Arbeiten
+Alumni
+Forschung
+Studium und Lehre
+Jobs
+
+Stefan Gutmann
+Masterarbeit (Nr. 2162)
+Realisierung eines Mehrfrequenzmessverfahrens für die kapazitive Füllstandmesstechnik; Realization of a Multi Frequency Measurement Methodology for the Capacitive Level Measurement Technology
+Engesserstr. 5
+76131 Karlsruhe
+
+
+letzte Änderung: 23.06.2016
+KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft

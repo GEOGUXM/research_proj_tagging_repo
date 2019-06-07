@@ -1,0 +1,58 @@
+###AuthorName=
+###AuthorTitle=
+###Affiliation=
+###Position=
+##############################
+Institut für Biologie und Biotechnologie der Pflanzen
+Plant Biochemistry and Biotechnology
+zum Inhalt
+zur Hauptnavigation
+zur Zielgruppennavigation
+zur Subnavigation
+HOME
+NEWS
+MEMBERS
+RESEARCH
+PUBLICATIONS
+TEACHING
+SOFTWARE
+INSTITUT IBBP
+ANSPRECHPARTNER
+LAGEPLAN
+INTERN
+PLANT BIOCHEMISTRY AND BIOTECHNOLOGY
+AG Prof. Dr. Michael Hippler
+© Prof. Dr. Michael Hippler
+Neuartiges Protein schützt Algen vor Schäden durch Sonneneinstrahlung / Für effiziente Fotosynthese
+© WWU / AG Hippler
+Ohne Sonnenlicht sähe das Leben auf der Erde völlig anders aus, denn die meisten Lebewesen hängen direkt oder indirekt davon ab. Pflanzen, die mithilfe der Fotosynthese aus Licht Energie gewinnen und ihre Zellbausteine erzeugen, sind die Grundlage der meisten Nahrungsketten. Doch zu starke Sonneneinstrahlung kann den Pflanzen schaden – sie bekommen quasi einen "Sonnenbrand". Ein internationales Forscherteam um Prof. Dr. Michael Hippler von der Westfälischen Wilhelms-Universität Münster (WWU) und Prof. Dr. Genji Kurisu von der Universität Osaka, Japan, hat nun in der einzelligen Grünalge "Chlamydomonas reinhardtii" ein neuartiges Protein entdeckt und seine Struktur und Funktion aufgeklärt. Das Protein, "Calredoxin" genannt, ist Hauptbestandteil eines Schutzmechanismus', der die Alge vor Schäden durch zu hohe Lichtintensitäten bewahrt. Die Ergebnisse sind in der aktuellen Ausgabe der Fachzeitschrift "Nature Communications" (online) veröffentlicht.
+
+"Damit die Fotosynthese effizient ablaufen kann, müssen Schutzmechanismen starke Schwankungen der Lichtintensität kompensieren", sagt Michael Hippler vom Institut für Biologie und Biotechnologie der Pflanzen der WWU. Bei zu intensiver Sonneneinstrahlung entstehen während der fotosynthetischen Energieumwandlung für den Organismus schädliche Formen von Sauerstoff – zum Beispiel reaktive Sauerstoffspezies, umgangssprachlich "Sauerstoffradikale" genannt. Pflanzen haben daher verschiedene Mechanismen entwickelt, um sich gegen überschüssige Lichtenergie zu schützen. Ein solcher Mechanismus kann zum Beispiel die Umwandlung von überschüssiger Lichtenergie in Wärmeenergie sein. Diesen Prozess hatte ein Forscherteam mit Beteiligung der Münsteraner vor einigen Jahren erstmals aufgeklärt. Das neu entdeckte Protein ist zentraler Bestandteil eines weiteren Schutzmechanismus'.
+
+Calredoxin kommt in bestimmten Zellbestandteilen der Algen, in den sogenannten Chloroplasten, vor. Es bindet den Mineralstoff Kalzium und bringt – abhängig von der Kalzium-Bindung – Redoxreaktionen in Gang. Solche von Calredoxin katalysierten Redoxreaktionen spielen zum Beispiel bei der Entgiftung von reaktiven Sauerstoffspezies eine essenzielle Rolle. Kalzium wiederum ist als Bau- und Botenstoff ein wichtiges Element der Fotosynthese und generell auch wichtig bei der Regulation der Fotosynthese unter Lichtstress. Die Forscher wollen in weiteren Studien herausfinden, ob der neu entdeckte Mechanismus auch in höheren Gefäßpflanzen vorkommt oder ob er eine Besonderheit der Algen ist.
+Das Wissen um "Sonnenbrand-Schutzmechanismen" wie das neu entdeckte Calredoxin könnte in Zukunft helfen, Ernteerträge zu optimieren, so ein Gedanke der Forscher. Denn möglicherweise ließen sich Pflanzen mit besonders guten Schutzeigenschaften züchten, die eine effizientere Fotosynthese betreiben.
+
+Originalpublikation:
+
+Hochmal A. K. et al. (2016): Calredoxin represents a calcium-dependent sensor-responder connected to redox regulation in the chloroplast. Nature Communications, DOI: 10.1038/NCOMMS11847
+News der AG Hippler im Überblick
+KONTAKT
+AG PROF. DR. MICHAEL HIPPLER
+Schlossplatz 8
+48143 Münster
+Deutschland
+Tel: +49 251 83-24790
+Fax: +49 251 83-28371
+mhippler@uni-muenster.de
+IBBP - ARBEITSGRUPPEN
+KONTAKT
+AG Prof. Dr. Michael Hippler
+Schlossplatz 8
+48143 Münster
+Tel: +49 251 83-24790
+Fax: +49 251 83-28371
+mhippler@uni-muenster.de
+wissen.leben
+WWU Münster
+IMPRESSUM
+© 2016 INSTITUT FÜR BIOLOGIE UND BIOTECHNOLOGIE DER PFLANZEN
