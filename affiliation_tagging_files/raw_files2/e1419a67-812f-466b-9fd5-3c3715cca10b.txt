@@ -1,7 +1,7 @@
 ###AuthorName=Martin "Mac" Cheever
 ###AuthorTitle=Professor
 ###Affiliation=School of Medicine
-###Position=Professor of Medicine and Associate Director of Medical Oncology
+###Position=
 ##############################
 School of Medicine | Fred Hutchinson Cancer Research Center
 Seattle Cancer Care Alliance | Consortium

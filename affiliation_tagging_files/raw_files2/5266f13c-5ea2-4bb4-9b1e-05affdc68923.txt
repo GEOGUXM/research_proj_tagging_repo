@@ -1,7 +1,7 @@
 ###AuthorName=Travis R Legleiter
 ###AuthorTitle=PhD
 ###Affiliation=Botany and Plant Pathology
-###Position=Weed Science Program Specialist
+###Position=Specialist
 ##############################
 Quick Links
 Botany and Plant Pathology

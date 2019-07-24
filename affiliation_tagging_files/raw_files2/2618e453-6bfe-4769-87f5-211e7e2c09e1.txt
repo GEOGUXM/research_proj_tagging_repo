@@ -1,7 +1,7 @@
 ###AuthorName=Bettina Siewert
 ###AuthorTitle=MD
 ###Affiliation=Harvard Medical School
-###Position=Associate Professor of Radiology
+###Position=Associate Professor
 ##############################
 Contact BIDMC
 Maps & Directions

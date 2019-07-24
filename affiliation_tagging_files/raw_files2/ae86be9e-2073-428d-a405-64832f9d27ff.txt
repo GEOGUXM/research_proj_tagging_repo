@@ -1,7 +1,7 @@
 ###AuthorName=Marysia Placzek
 ###AuthorTitle=Professor
 ###Affiliation=Department of Biomedical Science
-###Position=Professor in Developmental Neurobiology
+###Position=
 ##############################
 Home
 Log in to MUSE

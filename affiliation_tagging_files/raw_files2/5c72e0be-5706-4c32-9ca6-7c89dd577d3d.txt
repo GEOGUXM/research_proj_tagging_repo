@@ -1,7 +1,7 @@
 ###AuthorName=Yuri S. Kivshar
 ###AuthorTitle=Prof
 ###Affiliation=Nonlinear Physics
-###Position=Head, Distinguished Professor (level E3), Australian Federation Fellow
+###Position=Head
 ##############################
   Prof. Yuri S. Kivshar
 Home page

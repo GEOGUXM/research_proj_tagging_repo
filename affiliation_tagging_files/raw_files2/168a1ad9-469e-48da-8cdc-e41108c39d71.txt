@@ -1,7 +1,7 @@
 ###AuthorName=David Baker
 ###AuthorTitle=Professor
 ###Affiliation=School of Veterinary Medicine
-###Position=Professor and Director of the Division of Laboratory Animal Medicine
+###Position=Director
 ##############################
 Skip to main content
 begin sitewide navigation

@@ -1,7 +1,7 @@
 ###AuthorName=Melvin C. Gitlin
 ###AuthorTitle=Professor
 ###Affiliation=
-###Position=Professor of Clinical Anesthesiology; Vice-Chair of Clinical Affairs
+###Position=Vice-Chair
 ##############################
 About UHealth International Patients En Español
 Home

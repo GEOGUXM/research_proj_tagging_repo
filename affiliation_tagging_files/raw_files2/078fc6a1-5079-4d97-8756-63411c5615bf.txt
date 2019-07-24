@@ -1,7 +1,7 @@
 ###AuthorName=Nancy J Scott
 ###AuthorTitle=Professor
 ###Affiliation=Comparative Humanities
-###Position=Professor of Fine Arts
+###Position=
 ##############################
 Academics | Brandeis Home
 Browse by School

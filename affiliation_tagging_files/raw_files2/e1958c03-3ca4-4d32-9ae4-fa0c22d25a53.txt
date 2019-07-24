@@ -1,7 +1,7 @@
 ###AuthorName=BRUCE D. WEINBERG
 ###AuthorTitle=Professor
 ###Affiliation=School of Management
-###Position=Department Chair & Professor Marketing
+###Position=Department Chair
 ##############################
 Enter the terms you wish to search for.
 Links

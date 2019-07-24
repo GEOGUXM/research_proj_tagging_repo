@@ -1,7 +1,7 @@
 ###AuthorName=Jill S. Shapiro
 ###AuthorTitle=
 ###Affiliation=Department of Anthropology
-###Position=Lecturer in Discipline
+###Position=Lecturer
 ##############################
 Skip to main content
 Columbia University in the City of New York

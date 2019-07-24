@@ -1,7 +1,7 @@
 ###AuthorName=Adithya Arikere
 ###AuthorTitle=
 ###Affiliation=
-###Position=Industrial graduate student
+###Position=
 ##############################
 Turn on more accessible mode
 Skip Ribbon Commands

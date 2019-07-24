@@ -1,7 +1,7 @@
 ###AuthorName=Hadrien Montanelli
 ###AuthorTitle=PhD
 ###Affiliation=Mathematical Institute
-###Position=Postgraduate Student
+###Position=
 ##############################
 Skip to main content
 Login

@@ -1,7 +1,7 @@
 ###AuthorName=Meriem El Karoui
 ###AuthorTitle=Dr
 ###Affiliation=Biological Sciences
-###Position=present Chancellor Fellow and Reader
+###Position=Chancellor Fellow and Reader
 ##############################
 Skip to main content
 Schools & departments

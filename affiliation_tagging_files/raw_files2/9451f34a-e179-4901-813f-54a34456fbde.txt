@@ -1,7 +1,7 @@
 ###AuthorName=Bradley A. Levinson
 ###AuthorTitle=Professor
 ###Affiliation=Department of Educational Leadership and Policy Studies
-###Position=Professor of Education, Department of Educational Leadership and Policy Studies; Adjunct Professor of Anthropology and Latino Studies
+###Position=
 ##############################
 Skip to Content
 Skip to Search

@@ -1,7 +1,7 @@
 ###AuthorName=Suresh Canagarajah
 ###AuthorTitle=Professor
 ###Affiliation=Department of Applied Linguistics
-###Position=Director, Migration Studies Project
+###Position=Director
 ##############################
 Skip to Main Content
 Penn State

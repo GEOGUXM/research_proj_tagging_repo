@@ -1,7 +1,7 @@
 ###AuthorName=Jennifer Kaldenberg
-###AuthorTitle=DrPH
+###AuthorTitle=Dr
 ###Affiliation=Department of Occupational Therapy
-###Position=Clinical Assistant Professor
+###Position=Assistant Professor
 ##############################
 VIEW OUR PROGRAMS
 ABOUT US

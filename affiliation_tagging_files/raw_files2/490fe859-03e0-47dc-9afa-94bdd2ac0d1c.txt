@@ -1,7 +1,7 @@
 ###AuthorName=Van G. Wilson
 ###AuthorTitle=Professor
 ###Affiliation=Department of Microbial Pathogenesis and Immunology
-###Position=Professor and Associate Dean
+###Position=Associate Dean
 ##############################
 skip to main content
 TAMHSC

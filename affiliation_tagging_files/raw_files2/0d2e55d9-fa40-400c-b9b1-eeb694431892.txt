@@ -1,7 +1,7 @@
 ###AuthorName=Sir Martin Sweeting
 ###AuthorTitle=Professor
 ###Affiliation=Department of Electrical and Electronic Engineering
-###Position=Distinguished Professor of Space Engineering
+###Position=
 ##############################
 We use cookies to help us provide the best possible user experience. By using this site, you agree that we may store and access cookies on your device. Find out more about cookies
 close

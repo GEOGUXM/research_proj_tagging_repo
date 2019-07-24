@@ -1,7 +1,7 @@
 ###AuthorName=W Paul Quick
 ###AuthorTitle=Professor
 ###Affiliation=Department of Animal and Plant Sciences
-###Position=Lecturer, Senior Lecturer
+###Position=Senior Lecturer
 ##############################
 Log in to MUSE
 University of Sheffield crest

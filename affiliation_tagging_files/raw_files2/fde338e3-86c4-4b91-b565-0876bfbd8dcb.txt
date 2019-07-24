@@ -1,7 +1,7 @@
 ###AuthorName=Daniel Epstein
 ###AuthorTitle=Ph.D
 ###Affiliation=Computer Science & Engineering
-###Position=Ph.D. candidate
+###Position=
 ##############################
 Daniel Epstein
 Home | Publications | Projects | CV

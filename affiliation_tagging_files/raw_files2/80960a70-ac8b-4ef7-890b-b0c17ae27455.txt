@@ -1,7 +1,7 @@
 ###AuthorName=Franco Sassi
 ###AuthorTitle=Professor
 ###Affiliation=Business School
-###Position=Professor of International Health Policy and Economics
+###Position=
 ##############################
 HOME
 RESEARCH

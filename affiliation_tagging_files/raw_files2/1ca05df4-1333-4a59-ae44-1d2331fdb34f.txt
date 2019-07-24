@@ -1,7 +1,7 @@
 ###AuthorName=Benjamin Lev
 ###AuthorTitle=
 ###Affiliation=Department of Applied Physics
-###Position=Associate Professor of Applied Physics and, By Courtesy, of Physics
+###Position=Associate Professor
 ##############################
 Stanford University School of Humanities and Sciences
 Department of Applied Physics

@@ -1,7 +1,7 @@
 ###AuthorName=Michael Bell
 ###AuthorTitle=Professor
 ###Affiliation=School of Agriculture and Food Sciences
-###Position=Chair in Tropical Agronomy
+###Position=Chair
 ##############################
 Skip to menu
 Skip to content

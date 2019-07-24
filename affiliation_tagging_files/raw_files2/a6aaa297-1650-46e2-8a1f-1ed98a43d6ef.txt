@@ -1,7 +1,7 @@
 ###AuthorName=Richard E. Carson
 ###AuthorTitle=Ph.D
 ###Affiliation=School of Engineering & Applied Science
-###Position=Professor of Biomedical Engineering & Radiology and Biomedical Imaging
+###Position=
 ##############################
 FACEBOOK
 TWITTER

@@ -1,7 +1,7 @@
 ###AuthorName=Pierre Siklos
 ###AuthorTitle=PROFESSOR
 ###Affiliation=School of International Affairs
-###Position=CIGI SENIOR FELLOW
+###Position=SENIOR FELLOW
 ##############################
 Skip to main content
 Balsillie School of International Affairs

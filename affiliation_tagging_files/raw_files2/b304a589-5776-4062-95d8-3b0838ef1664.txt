@@ -1,7 +1,7 @@
 ###AuthorName=Akeel Bilgrami
 ###AuthorTitle=Professor
 ###Affiliation=Philosophy
-###Position=Professor of Philosophy
+###Position=
 ##############################
 Select:
 Albert, David Z

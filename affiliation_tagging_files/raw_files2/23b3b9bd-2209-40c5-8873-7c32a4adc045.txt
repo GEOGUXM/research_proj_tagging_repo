@@ -1,7 +1,7 @@
 ###AuthorName=Djuro Mirkovic
 ###AuthorTitle=PhD
 ###Affiliation=
-###Position=PhD Candidate
+###Position=
 ##############################
 Swinburne Home
 Courses

@@ -1,7 +1,7 @@
 ###AuthorName=Joe Elliott
 ###AuthorTitle=Prof
 ###Affiliation=School of Education
-###Position=Professor in the School of Education
+###Position=
 ##############################
 A-Z Index Accessibility
 Undergraduate

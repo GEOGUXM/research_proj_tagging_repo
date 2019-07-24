@@ -1,7 +1,7 @@
 ###AuthorName=Susan R. Frankenberg
 ###AuthorTitle=Ph.D
 ###Affiliation=Department of Anthropology
-###Position=Program Coordinator, Museum Studies
+###Position=Program Coordinator
 ##############################
  DEPARTMENT OF ANTHROPOLOGY
 MENU

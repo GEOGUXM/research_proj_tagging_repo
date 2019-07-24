@@ -1,7 +1,7 @@
 ###AuthorName=Ralph Giannella
 ###AuthorTitle=Professor
 ###Affiliation=Department of Internal Medicine
-###Position=Professor of Digestive Diseases
+###Position=
 ##############################
 CoM HOME
 University of Cincinnati

@@ -1,7 +1,7 @@
 ###AuthorName=Suzy Scherf
 ###AuthorTitle=Ph. D
 ###Affiliation=Department of Psychology
-###Position=Assistant Professor of Psychology
+###Position=Assistant Professor
 ##############################
 Skip to Main Content
 Penn State

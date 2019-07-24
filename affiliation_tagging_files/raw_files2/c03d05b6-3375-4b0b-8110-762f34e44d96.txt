@@ -1,7 +1,7 @@
 ###AuthorName=Antaki, James F.
 ###AuthorTitle=Professor
 ###Affiliation=Department of Biomedical Engineering
-###Position=Professor of Biomedical Engineering
+###Position=
 ##############################
 Carnegie Mellon University
 Search Only Biomedical Engineering Submit Carnegie Mellon University Search

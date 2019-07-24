@@ -1,7 +1,7 @@
 ###AuthorName=Mauro Ferrari
 ###AuthorTitle=Professor
 ###Affiliation=Department of Medicine
-###Position=Professor of Biomedical Engineering in Medicine
+###Position=
 ##############################
 VIVO
 Weill Cornell Medical College

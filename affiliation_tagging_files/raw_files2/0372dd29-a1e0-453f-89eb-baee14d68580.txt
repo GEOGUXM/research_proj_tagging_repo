@@ -1,7 +1,7 @@
 ###AuthorName=Karen E. Schifferdecker
 ###AuthorTitle=PhD
 ###Affiliation=Community and Family Medicine
-###Position=Assistant Professor of Community and Family Medicine
+###Position=Assistant Professor
 ##############################
 Skip to main content
 Search for:
