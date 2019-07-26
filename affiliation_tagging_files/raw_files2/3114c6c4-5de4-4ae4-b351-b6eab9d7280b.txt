@@ -1,7 +1,7 @@
 ###AuthorName=Dinesh Tewatia
 ###AuthorTitle=M.S
 ###Affiliation=
-###Position=ASST PROFESSOR (CHS)
+###Position=ASST PROFESSOR
 ##############################
 uwhealth.org
 med.wisc.edu

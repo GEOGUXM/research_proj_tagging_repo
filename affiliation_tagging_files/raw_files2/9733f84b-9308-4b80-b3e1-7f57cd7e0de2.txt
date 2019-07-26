@@ -1,7 +1,7 @@
 ###AuthorName=Orin S. Kerr
 ###AuthorTitle=Professor
 ###Affiliation=Law School
-###Position=Professor of Law
+###Position=
 ##############################
 Jump to navigation
 Prospective Students

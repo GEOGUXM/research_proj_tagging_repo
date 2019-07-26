@@ -1,7 +1,7 @@
 ###AuthorName=Yuri Mishina
 ###AuthorTitle=DR
 ###Affiliation=Business School
-###Position=Assistant Professor in OB/Strategy
+###Position=Assistant Professor
 ##############################
 HOME
 HONOURS AND MEMBERSHIPS

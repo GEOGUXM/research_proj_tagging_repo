@@ -1,7 +1,7 @@
 ###AuthorName=Jeffrey R. Morgan
 ###AuthorTitle=Professor
 ###Affiliation=Biomedical Engineering Engineering Molecular Pharmacology, Physiology and Biotechnology
-###Position=Professor of Medical Science, Professor of Engineering
+###Position=
 ##############################
 Researchers @ Brown
 Manage your profile

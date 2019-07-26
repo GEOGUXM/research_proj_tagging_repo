@@ -1,7 +1,7 @@
 ###AuthorName=Nicholas Vargas
 ###AuthorTitle=
 ###Affiliation=Department of Sociology
-###Position=Assistant Professor of Sociology and Latin American Studies
+###Position=Assistant Professor
 ##############################
 Text-only version of this website
 Skip navigation

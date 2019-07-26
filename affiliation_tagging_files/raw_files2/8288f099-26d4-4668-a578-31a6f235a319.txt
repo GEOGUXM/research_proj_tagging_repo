@@ -1,7 +1,7 @@
 ###AuthorName=Kevin C. McMunigal
 ###AuthorTitle=Professor
 ###Affiliation=School of Law
-###Position=Professor of Law
+###Position=
 ##############################
 FACULTY & STAFF
 CAREERS

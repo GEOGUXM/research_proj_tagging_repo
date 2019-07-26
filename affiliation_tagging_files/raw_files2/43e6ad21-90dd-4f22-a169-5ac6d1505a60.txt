@@ -1,7 +1,7 @@
 ###AuthorName=Gil Z. Hochberg
 ###AuthorTitle=Professor
 ###Affiliation=THE DEPARTMENT OF COMPARATIVE LITERATURE
-###Position=Professor of Comparative Literature and Gender Studies
+###Position=
 ##############################
 Skip to main content
 UCLA

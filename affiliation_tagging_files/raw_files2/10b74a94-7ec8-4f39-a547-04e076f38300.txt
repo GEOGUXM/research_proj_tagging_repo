@@ -1,7 +1,7 @@
 ###AuthorName=Christos Constantinidis
-###AuthorTitle=Ph.D
+###AuthorTitle=Professor
 ###Affiliation=Medicine and Science
-###Position=Professor, Neurobiology & Anatomy
+###Position=
 ##############################
 Skip Navigation
 Wake Forest School of Medicine

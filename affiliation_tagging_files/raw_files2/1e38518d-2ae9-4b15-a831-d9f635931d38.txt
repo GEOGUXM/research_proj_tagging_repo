@@ -1,7 +1,7 @@
 ###AuthorName=Kevin J Curran
 ###AuthorTitle=M.D.
 ###Affiliation=Medical College
-###Position=Assistant Professor of Pediatrics
+###Position=Assistant Professor
 ##############################
 VIVO
 Weill Cornell Medical College

@@ -1,7 +1,7 @@
 ###AuthorName=Minghui Hu
 ###AuthorTitle=Ph.D
 ###Affiliation=History Department
-###Position=Associate Professor,
+###Position=Associate Professor
 ##############################
 SKIP TO MAIN CONTENT
 SKIP TO PRIMARY NAVIGATION

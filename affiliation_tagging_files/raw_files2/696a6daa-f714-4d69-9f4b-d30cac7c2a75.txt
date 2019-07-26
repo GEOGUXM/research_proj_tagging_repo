@@ -1,7 +1,7 @@
 ###AuthorName=Joseph P. A. Harrity
 ###AuthorTitle=Prof
 ###Affiliation=Department of Chemistry
-###Position=Professor of Synthetic Organic Chemistry
+###Position=
 ##############################
 Home
 Log in to MUSE

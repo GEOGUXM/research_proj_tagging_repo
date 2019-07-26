@@ -1,7 +1,7 @@
 ###AuthorName=Vincent Farenga
 ###AuthorTitle=Professor
 ###Affiliation=Comparative Studies in Literature and Culture
-###Position=Professor of Classics & Comparative Literature
+###Position=
 ##############################
 Comparative Studies in Literature and Culture
 

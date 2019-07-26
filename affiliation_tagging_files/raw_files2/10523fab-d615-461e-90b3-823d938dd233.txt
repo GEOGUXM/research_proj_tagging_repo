@@ -1,7 +1,7 @@
 ###AuthorName=Chuanyi Mark Lu
 ###AuthorTitle=Professor
 ###Affiliation=Veterans Affairs Medical Center
-###Position=Professor of Clinical Laboratory Medicine
+###Position=
 ##############################
 UCSF Departments of Pathology & Laboratory Medicine
 Faculty Directory

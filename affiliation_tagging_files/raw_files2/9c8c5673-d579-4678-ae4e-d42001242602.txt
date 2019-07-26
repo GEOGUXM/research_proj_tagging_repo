@@ -1,7 +1,7 @@
 ###AuthorName=J. Alberto Aragon-Correa
 ###AuthorTitle=Professor
 ###Affiliation=School of Hospitality and Tourism Management
-###Position=Professor of Management
+###Position=
 ##############################
 We use cookies to help us provide the best possible user experience. By using this site, you agree that we may store and access cookies on your device. Find out more about cookies
 close

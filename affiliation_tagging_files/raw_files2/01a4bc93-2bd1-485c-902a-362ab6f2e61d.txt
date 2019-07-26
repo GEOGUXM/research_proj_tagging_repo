@@ -1,7 +1,7 @@
 ###AuthorName=Alison W. Conner
 ###AuthorTitle=Professor
 ###Affiliation=William S. Richardson School of Law
-###Position=Director, International Programs
+###Position=Director
 ##############################
 PORTALS
 POPULAR LINKS+

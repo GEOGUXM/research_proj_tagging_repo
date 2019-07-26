@@ -1,7 +1,7 @@
 ###AuthorName=Karen Kim
 ###AuthorTitle=Professor
 ###Affiliation=Department of Medicine Faculty
-###Position=Dean for Faculty Affairs
+###Position=Dean
 ##############################
 UCHICAGO | UCMC | BSD | DIRECTORY | MAPS | INTERNAL RESOURCES
 Home

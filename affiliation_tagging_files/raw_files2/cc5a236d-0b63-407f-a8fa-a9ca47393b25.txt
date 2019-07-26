@@ -1,7 +1,7 @@
 ###AuthorName=Ralph P Tufano
 ###AuthorTitle=Professor
 ###Affiliation=SCHOOL OF MEDICINE
-###Position=Professor of Otolaryngology
+###Position=
 ##############################
 Skip Navigation
 Find a Doctor

@@ -1,7 +1,7 @@
 ###AuthorName=Perry Adebar
 ###AuthorTitle=Dr
 ###Affiliation=Department of Civil Engineering
-###Position=Professor and Department Head
+###Position=Department Head
 ##############################
 Skip to main content
 Skip to main navigation

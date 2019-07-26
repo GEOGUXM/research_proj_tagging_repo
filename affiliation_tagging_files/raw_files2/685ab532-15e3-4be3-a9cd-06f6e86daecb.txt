@@ -1,7 +1,7 @@
 ###AuthorName=Pamela J Lein
 ###AuthorTitle=Professor
 ###Affiliation=Molecular Biosciences
-###Position=Professor and Researcher
+###Position=Researcher
 ##############################
 Skip to page content
 Vet Med Home

@@ -1,7 +1,7 @@
 ###AuthorName=Marcus Clark
 ###AuthorTitle=Professor
 ###Affiliation=Department of Medicine
-###Position=Chief, Section of Rheumatology
+###Position=Chief
 ##############################
 Skip to main navigation
 Skip to main content

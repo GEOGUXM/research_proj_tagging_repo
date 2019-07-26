@@ -1,7 +1,7 @@
 ###AuthorName=Juliane Reinecke
 ###AuthorTitle=Professor
 ###Affiliation=Organisation Studies at Warwick Business School
-###Position=Professor of Organisation Studies
+###Position=
 ##############################
 ×
 The WBS website uses cookies. By continuing to browse this site, we will assume that you consent to the use of cookies in line with our cookie policy.

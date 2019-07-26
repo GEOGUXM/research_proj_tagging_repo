@@ -1,7 +1,7 @@
 ###AuthorName=Audrey Halpern
 ###AuthorTitle=MD
 ###Affiliation=Department of Neurology
-###Position=Clinical Assistant Professor
+###Position=Assistant Professor
 ##############################
 Find a Doctor
 Conditions We Treat

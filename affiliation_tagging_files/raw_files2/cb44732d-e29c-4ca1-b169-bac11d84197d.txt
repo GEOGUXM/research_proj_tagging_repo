@@ -1,7 +1,7 @@
 ###AuthorName=Simon Lewis
 ###AuthorTitle=Professor
 ###Affiliation=School of Geography
-###Position=Professor of Quaternary Science
+###Position=
 ##############################
 School of Geography
 UNDERGRADUATE

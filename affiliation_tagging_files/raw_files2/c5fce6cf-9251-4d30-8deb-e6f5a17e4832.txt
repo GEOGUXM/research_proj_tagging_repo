@@ -1,7 +1,7 @@
 ###AuthorName=Gavin Dalton
 ###AuthorTitle=Professor
 ###Affiliation=Department of Physics
-###Position=Professor of Astrophysics
+###Position=
 ##############################
 HOME
 STUDY HERE

@@ -1,7 +1,7 @@
 ###AuthorName=Paul Downes
 ###AuthorTitle=PhD
 ###Affiliation=Department of English
-###Position=Associate Professor of English and American Literature
+###Position=Associate Professor
 ##############################
 Department of English
 University of Toronto

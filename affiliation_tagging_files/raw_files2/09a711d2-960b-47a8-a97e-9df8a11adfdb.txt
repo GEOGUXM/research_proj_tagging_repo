@@ -1,7 +1,7 @@
 ###AuthorName=Barbara Will
 ###AuthorTitle=Ph.D
 ###Affiliation=English
-###Position=Associate Dean of Arts and Humanities
+###Position=Associate Dean
 ##############################
 Skip Top Navigation
 Dartmouth College

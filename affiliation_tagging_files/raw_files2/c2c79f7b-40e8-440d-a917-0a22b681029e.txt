@@ -1,7 +1,7 @@
 ###AuthorName=Joe Outlaw
 ###AuthorTitle=Professor
 ###Affiliation=Department of Agricultural Economics
-###Position=Professor and Extension Economist
+###Position=Extension Economist
 ##############################
 Texas A&M Forest Service
 Texas A&M Veterinary Medical Diagnostics Laboratory

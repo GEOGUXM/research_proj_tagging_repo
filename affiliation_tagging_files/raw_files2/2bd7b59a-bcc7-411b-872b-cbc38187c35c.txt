@@ -1,7 +1,7 @@
 ###AuthorName=Brian Seed
 ###AuthorTitle=Professor
 ###Affiliation=Genetics
-###Position=Professor of Genetics
+###Position=
 ##############################
 Skip to main content
 DEPARTMENT OF
