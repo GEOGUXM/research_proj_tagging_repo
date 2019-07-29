@@ -1,7 +1,7 @@
 ###AuthorName=Steven Dubinett
 ###AuthorTitle=M.D
 ###Affiliation=Medicine, Molecular & Medical Pharmacology
-###Position=Associate Vice Chancellor for Research
+###Position=Associate Vice Chancellor
 ##############################
 Home About Us UCLA Giving UCSB Links Search Videos Intranet
 Text Size: A A A A

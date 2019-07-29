@@ -1,7 +1,7 @@
 ###AuthorName=Faruk Gul
 ###AuthorTitle=professor
 ###Affiliation=economics
-###Position=professor of economics at  princeton university
+###Position=
 ##############################
   faruk gul
     Susan Dod Brown professor of economics at  princeton university

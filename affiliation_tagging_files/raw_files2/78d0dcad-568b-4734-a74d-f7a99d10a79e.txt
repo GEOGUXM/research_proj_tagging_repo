@@ -1,7 +1,7 @@
 ###AuthorName=Bruce Yacyshyn
 ###AuthorTitle=Professor
 ###Affiliation=College of Medicine Internal Medicine Entire Directory
-###Position=Professor of Digestive Diseases
+###Position=
 ##############################
 CoM HOME
 University of Cincinnati

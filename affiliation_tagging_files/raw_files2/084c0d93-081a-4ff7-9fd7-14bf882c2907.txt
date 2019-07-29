@@ -1,7 +1,7 @@
 ###AuthorName=SUE FINCH
 ###AuthorTitle=Dr
 ###Affiliation=School of Mathematics and Statistics
-###Position=Statistical Consultant
+###Position=Consultant
 ##############################
 The University of Melbourne Logo
 School of Mathematics and Statistics Personnel Dr SUE FINCH

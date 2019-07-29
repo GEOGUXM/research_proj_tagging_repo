@@ -1,7 +1,7 @@
 ###AuthorName=Louis Durlofsky
 ###AuthorTitle=Professor
 ###Affiliation=Environmental Sciences
-###Position=Otto N. Miller Professor in Earth Sciences
+###Position=
 ##############################
 Skip to content
 Skip to navigation

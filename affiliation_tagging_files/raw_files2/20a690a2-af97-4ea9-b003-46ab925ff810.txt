@@ -1,7 +1,7 @@
 ###AuthorName=Nour Sayed
 ###AuthorTitle=PhD
 ###Affiliation=Dependable Computing
-###Position=PhD Student
+###Position=
 ##############################
 HOME | LEGALS | SITEMAP | KIT
 Chair of Dependable Nano Computing (CDNC)

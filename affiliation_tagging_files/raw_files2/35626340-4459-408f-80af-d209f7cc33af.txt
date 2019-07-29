@@ -1,7 +1,7 @@
 ###AuthorName=Jiro Akita
 ###AuthorTitle=Professor
 ###Affiliation=Faculty of Economics
-###Position=Professor of International Finance
+###Position=
 ##############################
 Access
 Sitemap

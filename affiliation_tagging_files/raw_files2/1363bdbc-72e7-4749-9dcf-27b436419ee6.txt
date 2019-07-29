@@ -1,7 +1,7 @@
 ###AuthorName=Marino Gergoric
 ###AuthorTitle=PhD
 ###Affiliation=Chemistry and Chemical Engineering, Industrial Materials Recycling
-###Position=PhD student
+###Position=
 ##############################
 Turn on more accessible mode
 Skip Ribbon Commands

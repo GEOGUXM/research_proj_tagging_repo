@@ -1,7 +1,7 @@
 ###AuthorName=Blannie Bowen
 ###AuthorTitle=Ph.D
 ###Affiliation=Agricultural Economics, Sociology, and Education
-###Position=Vice Provost for Academic Affairs
+###Position=Vice Provost
 ##############################
 Skip to content
 Department of

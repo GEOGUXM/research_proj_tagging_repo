@@ -1,7 +1,7 @@
 ###AuthorName=Sarah Gull
 ###AuthorTitle=Dr
 ###Affiliation=
-###Position=Joint Course Supervisor, Graduate Medical Course and Director of Studies
+###Position=Director
 ##############################
 VIEW NAV
 Home > About us > Our people > College fellows

@@ -1,7 +1,7 @@
 ###AuthorName=Simon Stern
 ###AuthorTitle=Professor
 ###Affiliation=Faculty of Law
-###Position=Associate Professor, Faculty of Law; Graduate Faculty
+###Position=Associate Professor
 ##############################
 Department of English
 University of Toronto

@@ -1,7 +1,7 @@
 ###AuthorName=Garry Robert Nathan
 ###AuthorTitle=Dr
 ###Affiliation=Department of Mathematics
-###Position=Professional Teaching Fellow
+###Position=Teaching Fellow
 ##############################
 Contact us
 Questions? AskAuckland

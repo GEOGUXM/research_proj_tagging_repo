@@ -1,7 +1,7 @@
 ###AuthorName=Claude Romano
 ###AuthorTitle=Professor
 ###Affiliation=Institute for Religion & Critical Inquiry
-###Position=Professor of Philosophy
+###Position=
 ##############################
 Institute for Religion & Critical Inquiry
 Skip to Main Content

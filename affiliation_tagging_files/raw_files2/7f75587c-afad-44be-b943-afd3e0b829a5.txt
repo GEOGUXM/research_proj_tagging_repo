@@ -1,7 +1,7 @@
 ###AuthorName=Ulrich Kamp
 ###AuthorTitle=Professor
 ###Affiliation=College of Humanities and Sciences
-###Position=Professor of Geography
+###Position=
 ##############################
 Accessible Navigation
 Navigation

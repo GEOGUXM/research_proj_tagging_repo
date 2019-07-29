@@ -1,7 +1,7 @@
 ###AuthorName=I. Cevdet Noyan
 ###AuthorTitle=Chair
 ###Affiliation=Materials Science and Engineering
-###Position=Chair and Professor
+###Position=Chair
 ##############################
 Skip to Navigation
 Columbia University Home |

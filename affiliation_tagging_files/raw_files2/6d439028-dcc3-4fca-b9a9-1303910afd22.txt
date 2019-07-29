@@ -1,7 +1,7 @@
 ###AuthorName=Leonard Unsworth
 ###AuthorTitle=Professor
 ###Affiliation=Faculty of Education & Arts
-###Position=Professor in Education
+###Position=
 ##############################
 ACU (Australian Catholic University)
 Skip to content Staff directory Careers at ACU A-Z Maps Contact us

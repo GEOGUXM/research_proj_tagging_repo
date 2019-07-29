@@ -1,7 +1,7 @@
 ###AuthorName=Victor H. Vroom
 ###AuthorTitle=Professor
 ###Affiliation=School of Management
-###Position=Professor Emeritus of Management & Professor of Psychology
+###Position=Professor Emeritus
 ##############################
 Skip to main content
 Mission & Objectives

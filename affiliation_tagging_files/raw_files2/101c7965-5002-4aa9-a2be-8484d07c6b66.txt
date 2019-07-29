@@ -1,7 +1,7 @@
 ###AuthorName=Shelia Dunaway
 ###AuthorTitle=Dr
 ###Affiliation=Department of Medicine
-###Position=Clinical Assistant Professor
+###Position=Assistant Professor
 ##############################
 Home | Contact Us | About Us | UW Directory | Site Map
 

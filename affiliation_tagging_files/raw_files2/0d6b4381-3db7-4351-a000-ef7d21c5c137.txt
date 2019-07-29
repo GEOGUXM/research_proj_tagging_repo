@@ -1,7 +1,7 @@
 ###AuthorName=Georganne Nordstrom
 ###AuthorTitle=PhD
 ###Affiliation=
-###Position=Associate Professor of Composition and Rhetoric
+###Position=Associate Professor
 ##############################
 HOME
 UNDERGRADUATE

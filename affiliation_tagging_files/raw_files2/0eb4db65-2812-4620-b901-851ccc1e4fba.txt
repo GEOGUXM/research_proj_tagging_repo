@@ -1,7 +1,7 @@
 ###AuthorName=Michael F. A. Hippler
 ###AuthorTitle=Dr.
 ###Affiliation=Department of Chemistry
-###Position=Senior Lecturer in Physical Chemistry
+###Position=Senior Lecturer
 ##############################
 Home
 Log in to MUSE

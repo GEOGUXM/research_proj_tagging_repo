@@ -1,7 +1,7 @@
 ###AuthorName=David P. Calfee
 ###AuthorTitle=Dr
 ###Affiliation=
-###Position=Associate Professor of Healthcare Policy and Research
+###Position=Associate Professor
 ##############################
 VIVO
 Weill Cornell Medical College

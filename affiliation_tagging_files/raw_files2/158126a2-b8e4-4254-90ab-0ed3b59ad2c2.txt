@@ -1,7 +1,7 @@
 ###AuthorName=Alex Nading
 ###AuthorTitle=Dr
 ###Affiliation=School of Social and Political Science
-###Position=Lecturer in Social Anthropology; Deputy Director
+###Position=Lecturer
 ##############################
 Skip to main content
 School of Social and Political Science

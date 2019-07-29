@@ -1,7 +1,7 @@
 ###AuthorName=Chi Ming TAM
 ###AuthorTitle=Prof
 ###Affiliation=Division of Building Science and Technology
-###Position=Professor and Head
+###Position=Head
 ##############################
 Skip to content
 Search Keywords

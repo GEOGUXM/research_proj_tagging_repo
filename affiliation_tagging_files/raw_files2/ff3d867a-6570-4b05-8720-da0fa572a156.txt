@@ -1,7 +1,7 @@
 ###AuthorName=Shao-Horn, Yang
 ###AuthorTitle=Professor
 ###Affiliation=Department of Mechanical Engineering
-###Position=W.M. Keck Professor of Energy
+###Position=
 ##############################
 MIT MechE
 Home

@@ -1,7 +1,7 @@
 ###AuthorName=LuAnn White
 ###AuthorTitle=Professor
 ###Affiliation=Department of Global Environmental Health Sciences
-###Position=Director of the Tulane Center for Applied Environmental Public Health
+###Position=Director
 ##############################
 GLOBAL ENVIRONMENTAL HEALTH SCIENCES
 

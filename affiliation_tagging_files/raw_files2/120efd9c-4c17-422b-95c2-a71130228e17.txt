@@ -1,7 +1,7 @@
 ###AuthorName=David Abbott
 ###AuthorTitle=Professor
 ###Affiliation=Social Science Complex
-###Position=Head of School & Professor of Social Policy
+###Position=Head of School
 ##############################
 Skip to main content
 Home

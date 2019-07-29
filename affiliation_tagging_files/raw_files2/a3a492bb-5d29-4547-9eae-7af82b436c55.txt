@@ -1,7 +1,7 @@
 ###AuthorName=Joseph Bartolomeo
 ###AuthorTitle=Professor
 ###Affiliation=Department of English
-###Position=Professor and Associate Dean
+###Position=Associate Dean
 ##############################
 UMass Amherst
 Links

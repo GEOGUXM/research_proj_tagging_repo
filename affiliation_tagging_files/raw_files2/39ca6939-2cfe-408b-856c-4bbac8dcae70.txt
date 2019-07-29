@@ -1,7 +1,7 @@
 ###AuthorName=Karen Skinner
 ###AuthorTitle=MS
 ###Affiliation=Law
-###Position=Senior Law Librarian - Research Services, and Adjunct Assistant Professor of Law
+###Position=Senior Law Librarian
 ##############################
 Faculty
 VIEW MORE IN THIS SECTION

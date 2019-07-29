@@ -1,7 +1,7 @@
 ###AuthorName=AsPr Louise Paatsch
 ###AuthorTitle=
 ###Affiliation=Faculty of Arts and Education
-###Position=Assoc Hos (Research & Res Training)
+###Position=Assoc Hos
 ##############################
 Menu
 Search
