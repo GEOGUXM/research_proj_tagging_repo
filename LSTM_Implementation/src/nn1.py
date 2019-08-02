@@ -24,10 +24,11 @@ np.random.seed(1)
 # initialize weights randomly with mean 0
 syn0 = 2 * np.random.random((3, 1)) - 1
 
-for iter in xrange(10000):
+for iter in xrange(100000):
     # forward propagation
     l0 = X
-    l1 = nonlin(np.dot(l0, syn0))
+    dot_res = np.dot(l0, syn0)
+    l1 = nonlin(dot_res)
 
     # how much did we miss?
     l1_error = y - l1
