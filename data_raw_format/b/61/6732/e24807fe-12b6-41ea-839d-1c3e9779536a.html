@@ -1,0 +1,208 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/faculty.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="doctitle" --></head><body class="noleftnav faculty" id="internal">Elahe A. Mostaghel - Faculty - Division of Medical Oncology - University of Washington<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../scripts/scripts.js"></script>
+<script type="text/javascript" src="../scripts/jquery.js"></script>
+<script type="text/javascript">
+      (function ($) {
+        $.fn.fadeTransition = function(options) {
+          var options = $.extend({pauseTime: 4000, transitionTime: 2000}, options);
+          var transitionObject;
+
+          Trans = function(obj) {
+            var timer = null;
+            var current = 0;
+            var els = $("> *", obj).css("display", "none").css("left", "0").css("top", "0").css("position", "absolute");
+            $(obj).css("position", "relative");
+            $(els[current]).css("display", "block");
+
+            function transition(next) {
+              $(els[current]).fadeOut(options.transitionTime);
+              $(els[next]).fadeIn(options.transitionTime);
+              current = next;
+              cue();
+            };
+
+            function cue() {
+              if ($("> *", obj).length < 2) return false;
+              if (timer) clearTimeout(timer);
+              timer = setTimeout(function() { transition((current + 1) % els.length | 0)} , options.pauseTime);
+            };
+            
+            this.showItem = function(item) {
+              if (timer) clearTimeout(timer);
+              transition(item);
+            };
+
+            cue();
+          }
+
+          this.showItem = function(item) {
+            transitionObject.showItem(item);
+          };
+
+          return this.each(function() {
+            transitionObject = new Trans(this);
+          });
+        }
+
+      })(jQuery);
+    
+      var page = {
+        tr: null,
+        init: function() {
+          page.tr = $(".area").fadeTransition({pauseTime: 4000, transitionTime: 2000});
+          $("img.navigation").each(function() {
+            $(this).children().each( function(idx) {
+              if ($(this).is("a"))
+                $(this).click(function() { page.tr.showItem(idx); return false; })
+            });
+          });
+        },
+
+        show: function(idx) {
+          if (page.tr.timer) clearTimeout(page.tr.timer);
+          page.tr.showItem(idx);
+        }
+      };
+
+      $(document).ready(page.init);    
+    </script>
+
+
+<a name="top" id="top"></a>
+<div id="container">
+  <div id="banner">
+    <!--fading slideshow-->
+    <div class="area" style="position: relative;"> <img class="navigation" src="../images/banner/img4.jpg" alt="" style="display: block; left: 0px; top: 0px; position: absolute;"> <img class="navigation" src="../images/banner/img1-b.jpg" alt="" style="display: none; left: 0px; top: 0px; position: absolute;"> <img class="navigation" src="../images/banner/img3-b.jpg" alt="" style="display: none; left: 0px; top: 0px; position: absolute;"> <img class="navigation" src="../images/banner/img2-b.jpg" alt="" style="display: none; left: 0px; top: 0px; position: absolute;"> </div>
+    <div id="uwlinks">
+      <ul>
+        <li><a href="http://uwmedicine.washington.edu/Education/Pages/default.aspx" rel="external">School of Medicine<em></em></a> |</li>
+        <li><a href="http://www.fhcrc.org/" rel="external">Fred Hutchinson Cancer Research Center<em></em></a></li>
+      </ul>
+      <ul id="scca_c">
+        <li><a href="https://www.seattlecca.org" rel="external">Seattle Cancer Care Alliance <em></em></a></li>
+        |
+        <li><a href="http://www.cancerconsortium.org/" rel="external">Consortium<em></em></a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="topnav">
+    <ul>
+      <li><a href="../index.html">Home</a></li>
+      <li id="fac"><a href="index.html">Faculty</a></li>
+      <li id="ptc"><a href="../patient.html">Patient Care</a></li>
+      <li id="rsch"><a href="../research.html">Research</a></li>
+      <li id="fello"><a href="../fellowship/index.html">Fellowships</a></li>
+      <li id="admin"><a href="../admin.html">Administration</a></li>
+      <li><a href="http://depts.washington.edu/givemed/give/?page=make&amp;source=canmed,medonc,bresup,lungon,kidnca,womcli,breonc,onccom,yoderg,becker,oncdis,gralow,robine,medchi,sarcom,jgbrcn,pressc,capcan,bconco,oncliv,funbcr,inflam,chpcri,gicanr,advcan,ndbcfd,whitin,swimpc,tumcel,living,myelom,oncpro,mononc,antbio,feferd,oncres,trateg,honegg,careon,breasc,nekrcc,medpil,onclhn,youngi,moesup,melren,exopha,oncogi,ispyme,sarpro,gilman,oncogu,onccli,prtcan,sbk120,safden,safinn,oncgir,pcfonc,globcf,safbon,oncche,globre,dwrighm,jdblec,ryanen" rel="external" class="noborder">Make  a Gift <em></em></a></li>
+    </ul>
+  </div>
+  <div id="content">
+    <div id="bodytext"> <a name="top" id="top"></a>
+      <h1 id="section">Faculty</h1>
+      <!-- InstanceBeginEditable name="photo" --><img class="faculty" src="../images/faculty/mostaghel.jpg" alt="Elahe A. Mostaghel, MD, PhD" width="180" height="180"><!-- InstanceEndEditable -->
+      <h2> <!-- InstanceBeginEditable name="Faculty Name" --> Elahe A. Mostaghel, MD, PhD <!-- InstanceEndEditable --></h2>
+      <!-- InstanceBeginEditable name="title" -->
+      <p>Associate Professor<br>
+        Department of Medicine<br>
+        Division of Oncology</p>
+      <!-- InstanceEndEditable -->
+      <h3>Mailing Address</h3>
+      <!-- InstanceBeginEditable name="contact" -->
+      <p>Seattle Cancer Care Alliance<br>
+        825 Eastlake Ave E<br>
+        Seattle, WA   98109-1023</p>
+      <!-- InstanceEndEditable -->
+      <h3>Admin Contact</h3>
+      <!-- InstanceBeginEditable name="admin contact" -->
+      <p>206.288.SCCA (7222)</p>
+      <!-- InstanceEndEditable -->
+      <h3>Specialty / Expertise</h3>
+      <!-- InstanceBeginEditable name="expertise" -->
+      <p>Treatment of prostate, bladder and testicular cancer</p>
+      <!-- InstanceEndEditable -->
+      <h3>Research Interests</h3>
+      <!-- InstanceBeginEditable name="research interest" -->
+      <ul>
+        <li>Optimizing hormonal therapy for prostate cancer. </li>
+        <li>Determining mechanisms by which prostate cancer cells become resistant to therapy. </li>
+        <li>Clinical trials. </li>
+      </ul>
+      <!-- InstanceEndEditable -->
+      <h3>Current Research Projects</h3>
+      <!-- InstanceBeginEditable name="current research" -->
+      <p>Title: Defining and Exploiting Molecular Mechanisms of Androgen-Metabolism for Prostate  Cancer Therapy<br>
+        Funding: Damon Runyon Cancer  Research Foundation<br>
+        The goals of this proposal is to  delineate the cellular mechanisms by which prostate tumors maintain or ‘buffer’  intratumoral androgens levels in the castrate microenvironment and to evaluate  the pre-clinical efficacy of novel agents targeting these pathways.</p>
+      <p>Title: Maximal  Inhibition of the Androgen Axis for Prostate Cancer Therapy<br>
+        Funding: National Institutes of Health/National Cancer  Institute<br>
+        The goal of this project is to test  the hypothesis that complete inhibition of testicular, adrenal, and  intraprostatic androgen production will be necessary to achieve maximal  suppression of intraprostatic androgen levels and maximal tumor cell apoptosis  and growth inhibition.</p>
+      <p>Title: Assessment  of Prostatic Androgen Activity Following Testosterone Suppression<br>
+        Funding: Prostate  Cancer Foundation<br>
+        The  goal of this project is to assess the intraprostatic androgen environment  following testosterone suppression by assaying tissue androgen levels,  steroidogenic enzymes, and androgen regulated gene expression.</p>
+      <p>Title: Exploring the Role of  Steroid Transport Genes in Prostate Cancer Progression and Response to Therapy<br>
+        Funding: Pacific Northwest SPORE,  NIH/NCI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+        The  goal of this project is to characterize the expression and functional role of  steroid transport proteins in the response to hormonal therapy in men with  localized and advanced prostate cancer.</p>
+      <p>Title: Optimizing Treatment of Advanced Prostate Cancer  and Exploiting Mechanisms Driving Castration Resistance<br>
+        Funding: Department  of Defense Prostate Cancer Research Program <br>
+        The goal of this project is to delineate  resistance mechanisms underlying recurrent prostate tumor growth after  progressively stringent AR pathway blockade, and to evaluate the differential  sensitivity of tumors recurring after progressive AR inhibition to the  repressive effects of testosterone therapy, using the LuCaP35 tumor xenograft  model.</p>
+      <p>&nbsp;</p>
+      <!-- InstanceEndEditable -->
+      <h3>Training</h3>
+      <!-- InstanceBeginEditable name="training" -->
+      <p>Dr. Mostaghel received her AB from Harvard University, Cambridge MA and her MD and PhD from Duke University in Durham, NC. She completed her Internal Medicine Residency at the University of California, San Francisco, and was a Post-Doctoral Fellow in Oncology at the University of Washington and Fred Hutchinson Cancer Research Center, Seattle, WA.</p>
+      <!-- InstanceEndEditable -->
+      <h3>Selected Publications</h3>
+      <!-- InstanceBeginEditable name="publications" -->
+      <p>Mostaghel  EA, Geng L, Holcomb  I, Coleman IM, Lucas JL, True LD, Nelson PS. Variability in the androgen  response of prostate epithelium to 5-alpha reductase inhibition: implications  for PCa chemoprevention. Cancer Research (in press).</p>
+      <p>Sun S, Sprenger CT, Vessella RL, Haugk  K, Soriano K, Mostaghel EA, Page ST,  Coleman IM, Nelson PS, Nguyen HM, Plymate SR. A Novel, Frequently Occurring  Androgen Receptor Splice Variant Confers Castration Resistance in Prostate Cancer.  Journal of Clinical Investigation  (in press).</p>
+      <p>Mostaghel EA,  Montgomery RB, Nelson PS. Castration-resistant prostate cancer: Targeting  androgen metabolic pathways in recurrent disease.&nbsp; Urologic Oncology: Seminars and Original  Investigations. 27(3):251-7, 2009.</p>
+      <p>Mendiratta P, Mostaghel  EA, Guinney J, Tewori A, Porrello A, Barry W, Nelson PS, Febbo PG. A  Genomic Strategy for Targeting Therapy in Castration-Resistant Prostate Cancer.  Journal of Clinical Oncology. 27(12):2022-9, 2009.</p>
+      <p>Harris, WP, Mostaghel EA, Nelson PS, Montgomery  RB. Androgen deprivation therapy: progress in understanding mechanisms of  resistance and optimizing androgen depletion. Nat Clin Pract Urol.  6(2):76-85, 2009.</p>
+      <p>Marks LS, Mostaghel EA, Nelson PS. Prostate tissue androgens: History and  current clinical relevance.&nbsp; Journal  of Urology. 72(2):247-54, 2008.</p>
+      <p>Mostaghel EA,  Montgomery RB, Vessella R, Hess DL, Kalhorn TF, Higano CS, True LD, Nelson PS.  Maintenance of Intratumoral Androgens in Metastatic Prostate Cancer: A  Mechanism for Castration-Resistant Tumor Growth. Cancer  Research  68(11);4447-54, 2008.</p>
+      <p>Mostaghel EA,  and Nelson PS. Intracrine Androgen Metabolism in Prostate Cancer Progression:  Mechanisms of Castration Resistance and Therapeutic Implications. Best Practice &amp; Research Clinical Endocrinology  &amp; Metabolism: Endocrinology and the Prostate. 22(2):243-58, 2008.</p>
+      <p>Mostaghel EA,  Page ST, Lin DW, Fazli L, Coleman IM, True LD, Knudsen B, Hess DL, Nelson CC,  Matsumoto AM, Bremner WJ, Gleave ME, and Nelson PS. Intraprostatic Androgens  and Androgen-Regulated Gene Expression Persist Following Testosterone  Suppression: Therapeutic Implications for Castration-Resistant Prostate Cancer.  Cancer Research. 67(10):5033-41, 2007.</p>
+      <p>Mostaghel EA,  Montgomery RB, Lin DW. The Basic Biochemistry and Molecular Events of Hormone  Therapy. Current Urology Reports. 8(3):224-32, 2007.</p>
+      <p>Kalhorn  TF, Page ST,  Howald WN, Mostaghel EA, and Nelson  PS. &nbsp;Analysis of testosterone and  dihydrotestosterone from biological fluids as the oxime derivatives using  high-performance liquid chromatography/tandem mass spectrometry. Rapid  Commun Mass Spectrom. 21(19):3200-3206, 2007.</p>
+      <p>Marks LS, Mazer NA, Mostaghel EA, Hess DL, Dorey FJ,  Bostwick DG, Epstein JI, Partin AW, Veltri RW, Makarov D, Macairan ML, and  Nelson PS. Testosterone replacement therapy and the prostate: A randomized  trial employing serial biopsies in aging men. Journal of the American  Medical Association. 296(19):2351-61, 2006.</p>
+      <p>Page ST, Lin DW, Mostaghel EA, Hess DL, True LD, Amory J, Nelson PS, Matsumoto AM, and  Bremner WJ. Persistent intraprostatic androgen concentrations after medical  castration in healthy men. Journal of Clinical Endocrinology and Metabolism.  91(10):3850-6, 2006.</p>
+      True L, Coleman I, Hawley S, Huang CY, Gifford  D, Coleman R, Beer TM, Gelmann E, Datta M, Mostaghel EA, Knudsen B,  Lange P, Vessella R, Lin D, Hood L, and Nelson PS. A molecular correlate to the  Gleason grading system for prostate adenocarcinoma. Proceedings of the National   Academy of Science. USA  103 (29):10991-6, 2006. <!-- InstanceEndEditable --><!-- InstanceBeginEditable name="lastupdated" -->
+      <p>Last updated: June 2010</p>
+      <!-- InstanceEndEditable -->
+      <p class="top"><a href="#top">Top</a></p>
+    </div>
+    <!--end of bodytext-->
+  </div>
+  <div id="footer">
+    <p>Copyright © 2010 University of Washington. All Right Reserved.</p>
+    <ul>
+      <li><a href="http://uwmedicine.washington.edu/Education/Pages/default.aspx" rel="external">UW School of Medicine<em></em></a> | </li>
+      <li><a href="http://depts.washington.edu/medweb/" rel="external">Department of Medicine<em></em></a> | </li>
+      <li><a href="https://depts.washington.edu/domweb" rel="external">Staff Portal<em></em></a></li>
+    </ul>
+    <div id="search">
+      <form method="get" action="http://www.google.com/search">
+        <input name="q" size="31" maxlength="255" value="" type="text">
+        <input name="hq" value="site:depts.washington.edu/oncology" type="hidden">
+        <input name="site" value="search" type="hidden">
+        <input name="hl" value="en" type="hidden">
+        <input name="lr" value="" type="hidden">
+        <input name="safe" value="off" type="hidden">
+        <input name="sa" value="Search" type="submit">
+      </form>
+    </div>
+    <ul>
+      <li><a href="../privacy.html">Notice of Privacy Practices</a> | </li>
+      <li><a href="../copyright.html">Copyright and Disclaimer</a> | </li>
+      <li><a href="../credit.html">Credits and Acknowledgements</a> </li>
+    </ul>
+  </div>
+</div>
+
+
+</body><!-- InstanceEnd --></html>

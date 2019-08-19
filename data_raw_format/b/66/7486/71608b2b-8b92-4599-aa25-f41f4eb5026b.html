@@ -1,0 +1,441 @@
+<html lang="en"><head dir="ltr" lang="en-US">
+		<meta charset="UTF-8"><script type="text/javascript" src="https://bam.nr-data.net/1/1a4644a1c7?a=702423&amp;v=1026.7a27a3e&amp;to=Z1YHY0dZC0pXWhZRVl4cMEVcFwxXUlwaFklYQw%3D%3D&amp;rst=6296&amp;ref=http://surgery.queensu.ca/home/attending_staff/dr_boris_zevin&amp;ap=40&amp;be=1069&amp;fe=6286&amp;dc=3375&amp;perf=%7B%22timing%22:%7B%22of%22:1498034490490,%22n%22:0,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22ce%22:0,%22rq%22:0,%22rp%22:0,%22rpe%22:0,%22dl%22:1059,%22di%22:3304,%22ds%22:3374,%22de%22:3381,%22dc%22:6285,%22l%22:6285,%22le%22:6285%7D,%22navigation%22:%7B%7D%7D&amp;at=SxEEFQ9DGEQ%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+		<title>Dr Boris Zevin</title>
+		<meta name="keywords" content="Dr Boris Zevin General Surgeon Kingston General Hospital Queen's University Kingston, ON">
+		<meta name="description" content="Dr Boris Zevin General Surgeon Kingston General Hospital Queen's University Kingston, ON">
+		<meta name="robots" content="index,follow">
+
+		<link rel="shortcut icon" href="/templates/department-surgery/images/favicon.ico">
+		<link rel="icon" href="/templates/department-surgery/images/favicon.ico" type="image/x-icon">
+
+		<link rel="stylesheet" href="/templates/department-surgery/css/blueprint/screen.css" type="text/css" media="screen, projection">
+		<link rel="stylesheet" href="/templates/department-surgery/css/blueprint/print.css" type="text/css" media="print">
+		<!--[if lt IE 8]><link rel="stylesheet" href="/templates/department-surgery/css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+		<link href="/templates/department-surgery/css/public.css" media="all" rel="stylesheet" type="text/css">
+		<link href="/templates/department-surgery/css/jquery/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
+
+		<script type="text/javascript" src="/templates/department-surgery/javascript/jquery.min.js"></script>
+		<script type="text/javascript" src="/templates/department-surgery/javascript/jquery-ui.min.js"></script>
+
+		<script type="text/javascript" src="/templates/department-surgery/javascript/fancybox/jquery.easing-1.3.pack.js"></script>
+		<script type="text/javascript" src="/templates/department-surgery/javascript/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
+		<link rel="stylesheet" href="/templates/department-surgery/javascript/fancybox/jquery.fancybox.css?v=2.0.3" type="text/css" media="screen">
+		<script type="text/javascript" src="/templates/department-surgery/javascript/fancybox/jquery.fancybox.pack.js?v=2.0.3"></script>
+		<link rel="stylesheet" href="/templates/department-surgery/javascript/fancybox/helpers/jquery.fancybox-buttons.css?v=2.0.3" type="text/css" media="screen">
+		<script type="text/javascript" src="/templates/department-surgery/javascript/fancybox/helpers/jquery.fancybox-buttons.js?v=2.0.3"></script>
+		<link rel="stylesheet" href="/templates/department-surgery/javascript/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.0.3" type="text/css" media="screen">
+		<script type="text/javascript" src="/templates/department-surgery/javascript/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.0.3"></script>
+		<script type="text/javascript" src="/templates/department-surgery/javascript/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.0.3"></script>
+		<link rel="stylesheet" href="/templates/department-surgery/css/jquery.fs.boxer.css" type="text/css">
+		<script src="/templates/department-surgery/javascript/jquery.fs.boxer.js"></script>
+
+
+		<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+
+		<link rel="stylesheet" media="screen" type="text/css" href="/templates/department-surgery/css/queens_utilitybar.css">
+		<!--[if lt IE 8]><link rel="stylesheet" media="screen" type="text/css" href="/templates/department-surgery/css/queens_utilitybar_ie.css"/><![endif]-->
+
+		
+		<script type="text/javascript">
+				var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-80882-2']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		/*
+		google.load('search', '1');
+		google.setOnLoadCallback(function() {
+		google.search.CustomSearchControl.attachAutoCompletion(
+			'006311014641071737499:bqyapjcao6g',
+			document.getElementById('site-search'),
+			'cse-search-box');
+		});
+*/
+		</script>
+	</head>
+	<body>
+		<div id="utilitybar">
+		  <ul>
+			<li class="accessibility"><a href="#prinav">Skip to Navigation</a></li>
+			<li class="accessibility"><a href="http://www.queensu.ca/www/wsaguide">Web Standards and Accessibility Guide</a></li>
+			<li class="queenssearch">
+			  <form action="http://www.queensu.ca/search/" method="get" class="queenssearch">
+				<fieldset>
+				  <label class="accessibility" for="qsearch">Search for:</label>
+
+				  <input checked="checked" value="web" title="Search for web pages" name="type" id="qweb" type="radio">
+				  <label class="buttons" for="qweb" title="Search for web pages">Pages</label>
+
+				  <input value="people" title="Search for people" name="type" id="qpeople" type="radio">
+				  <label class="buttons" for="qpeople" title="Search for people">People</label>
+
+				  <input id="qsearch" name="q" size="26" value="Search Queen's..." type="text">
+
+				  <input value="Search" type="submit">
+				 </fieldset>
+			  </form>
+			</li>
+			<li class="wordmark"><a href="http://www.queensu.ca/">Queen's University</a></li>
+		  </ul>
+		</div>
+		<div id="hs-crown">
+			<div class="container">
+				<div class="span-18">
+					&nbsp;
+				</div>
+				<div class="span-6 last">
+					&nbsp;
+				</div>
+			</div>
+		</div>
+		<div id="hs-header">
+			<div class="container">
+				<div class="span-16">
+					<div class="site-title">
+						<a href="http://surgery.queensu.ca"><img src="/templates/department-surgery/images/header-deptsurgery.png" alt="Department of Surgery" title="Department of Surgery" width="428" height="43"></a><br>
+						<a href="http://meds.queensu.ca" target="_blank"><img src="/templates/department-surgery/images/header-som-bottom-a.png" alt="School of Medicine" title="School of Medicine" width="159" height="21"></a>
+						<a href="http://www.queensu.ca" target="_blank"><img src="/templates/department-surgery/images/header-som-bottom-b.png" alt="Queen's University" title="Queen's University" width="156" height="21"></a>
+					</div>
+				</div>
+				<div class="span-8 curve last">
+					<a href="http://www.queensu.ca" target="_blank"><img class="queens-logo" src="/templates/department-surgery/images/queens-logo.png" alt="Queen's University" title="Queen's University" width="146" height="101"></a>
+				</div>
+			</div>
+		</div>
+		<div id="hs-primary-navigation">
+			<div class="container">
+				<div class="span-18">
+					<ul><li class="selected"><a href="/" target="">Home</a></li>
+<li><a href="/education" target="">Education</a></li>
+<li><a href="/divisions" target="">Divisions</a></li>
+<li><a href="/research" target="">Research</a></li>
+<li><a href="/useful_links" target="">Useful Links</a></li>
+<li><a href="/internal" target="">MEdTech Central</a></li>
+</ul>				</div>
+				<div class="span-6 curve last">
+					&nbsp;
+				</div>
+			</div>
+		</div>
+		<div id="hs-secondary-navigation">
+						<div class="container">
+				<div class="span-19 navigation">
+					<ul><li><a href="/home/mission" target="">Mission</a></li>
+<li class="selected"><a href="/home/attending_staff" target="">Attending Staff</a></li>
+<li><a href="/home/rounds_and_conferences" target="">Rounds and Conferences</a></li>
+<li><a href="/home/job_opportunities" target="">Job Opportunities</a></li>
+<li><a href="/home/announcements" target="">Announcements</a></li>
+<li><a href="/home/contact_us" target="">Contact Us</a></li>
+</ul>				</div>
+				<div class="span-5 curve last">
+<!--
+					<form action="http://surgery.queensu.ca/search" id="cse-search-box" method="GET">
+					    <input type="hidden" name="cx" value="006311014641071737499:bqyapjcao6g" />
+					    <input type="hidden" name="cof" value="FORID:9" />
+					    <input type="hidden" name="ie" value="UTF-8" />
+						<input type="text" id="site-search" name="q" autocomplete="off" value="Search Anesthesiology and Perioperative Medicine..." />
+					</form>
+					<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"></script>
+-->
+				</div>
+			</div>
+		</div>
+		<div id="hs-body">
+			<div class="container">
+				<img class="curve-right" src="/templates/department-surgery/images/body-bg-curve.gif" alt="" title="" width="7" height="152">
+				<div class="span-5">
+<div id="hs-tertiary-navigation"><ul>
+	<li class="root"><a href="/home/attending_staff">Attending Staff</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_ryan_alkins" target="">Dr Ryan Alkins</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_davide_bardana" target="">Dr Davide Bardana</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_ryan_bicknell" target="">Dr Ryan Bicknell</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_gianluigi_bisleri" target="">Dr Gianluigi Bisleri</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_dan_borschneck" target="">Dr Dan Borschneck</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_peter_brown" target="">Dr Peter Brown</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_aaron_campbell" target="">Dr Aaron Campbell</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_wiley_chung" target="">Dr Wiley Chung</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_douglas_james_cook" target="">Dr Douglas James Cook</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_john_davidson" target="">Dr John Davidson</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_lindsay_davidson" target="">Dr Lindsay Davidson</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_john_drover" target="">Dr John Drover</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_jay_engel" target="">Dr Jay Engel</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_andrew_hamilton" target="">Dr Andrew Hamilton</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_mark_harrison" target="">Dr Mark Harrison</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_diederick_jalink" target="">Dr Diederick Jalink</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_mila_kolar" target="">Dr Mila Kolar</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_ron_levy" target="">Dr Ron Levy</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_hugh_macdonald" target="">Dr Hugh MacDonald</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_stephen_mann" target="">Dr Steve Mann</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_glykeria_martou" target="">Dr Glykeria Martou</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_douglas_mckay" target="">Dr Douglas McKay</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_kim_meathrel" target="">Dr Kim Meathrel</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_dale_mercer" target="">Dr Dale Mercer</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_shaila_merchant" target="">Dr Shaila Merchant</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_sulaiman_nanji" target="">Dr Sulaiman Nanji</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_sunil_patel" target="">Dr Sunil Patel</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_darrin_payne" target="">Dr Darrin Payne</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_dimitri_petsikas" target="">Dr Dimitri Petsikas</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_david_pichora" target="">Dr David Pichora</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_ronald_pokrupa" target="">Dr Ronald Pokrupa</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_ken_reid" target="">Dr Ken Reid</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_richard_reznick" target="">Dr Richard Reznick</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_david_robertson" target="">Dr David Robertson</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_john_rudan" target="">Dr John Rudan</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_fraser_saunders" target="">Dr Fraser Saunders</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_ross_walker" target="">Dr Ross Walker</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_christopher_wallace" target="">Dr Christopher Wallace</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_fred_watkins" target="">Dr Fred Watkins</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_andrea_winthrop" target="">Dr Andrea Winthrop</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_gavin_wood" target="">Dr Gavin Wood</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_jeff_yach" target="">Dr Jeff Yach</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_david_yen" target="">Dr David Yen</a></li>
+</ul><ul>
+	<li><a href="/home/attending_staff/dr_david_zelt" target="">Dr David Zelt</a></li>
+</ul><ul>
+	<li class="selected"><a href="/home/attending_staff/dr_boris_zevin" target="">Dr Boris Zevin</a></li>
+</ul></div></div>				<div class="span-19 last">
+															<div class="colpad-l" style="padding: 0 14px 25px 0;">
+					<h1>Dr Boris Zevin</h1>
+<p><img style="float: left; margin: 0px 5px;" src="http://surgery.queensu.ca/assets/Zevin.jpg" alt="Dr Boris Zevin" title="Dr Boris Zevin" width="240" height="280" border="0"><strong><br>University Position:</strong><br>Assistant Professor<br><br><strong>Current Appointments:</strong><br>Attending Staff, Kingston General Hospital<br>Attendings Staff, Hotel Dieu Hospital<br><br><strong>Areas of Clinical Interest:</strong><br>•&nbsp;Minimally invasive foregut, bariatric and metabolic surgery<br>•&nbsp;Abdominal wall reconstruction and hernia surgery<br><br><br><br><br><strong>Areas of Research Interest:</strong><br>•&nbsp;Medical and surgical education research (curriculum development, assessment and evaluation, simulation)<br>•&nbsp;Clinical outcomes research in foregut and bariatric surgery<strong><br><br><br>Contact Information:</strong><br>Department of Surgery<br>Division of General Surgery<br>Burr 2<br>Kingston General Hospital<br>76 Stuart Street<br>Kingston, ON&nbsp;&nbsp;&nbsp; K7L 2V7<br>Tel. (613) 549-6666 Ext 7662<br>Fax. (613) 548-2500</p>
+<p><br><a href="mailto:zevinb@kgh.kari.net" target="_blank">Click here to email Dr Zevin</a><br><br>Click here to go to the <a href="http://www.hoteldieu.com/programs-and-departments/kingston-bariatric-regional-assessment-and-treatment-centre" target="_blank" title="Bariatric Surgery website">Kingston Bariatric Regional Assessment and Treatment Centre website</a><br><br><br><strong>EDUCATION</strong><br><br>•&nbsp;Jul 2015 – Jun 2016<br><span style="font-size: 16.0016px; line-height: 20.002px;"><strong>Clinical Fellowship, Department of Surgery, Ohio State University, USA</strong><br></span><span style="font-size: 16.0016px; line-height: 20.002px;">Fellowship in Advanced Minimally Invasive Upper GI /Bariatric Surgery and Endoscopy<br><br>•&nbsp;Jul 2008 – Jun 2015<br><strong>General Surgery Residency, University of Toronto, Canada&nbsp;<br><br></strong>•&nbsp;Jul 2010 – Mar 2014<br></span><span style="font-size: 16.0016px; line-height: 20.002px;"><strong>Doctor of Philosophy, Institute of Medical Science, University of Toronto, Canada</strong><br></span><span style="font-size: 16.0016px; line-height: 20.002px;">PhD Thesis: “Design and Validation of a Comprehensive Simulation-Enhanced Training Curriculum for a Complex Minimally Invasive Operation”</span></p>
+<p><span style="font-size: 16.0016px; line-height: 20.002px;">•&nbsp;Jul 2010 – Mar 2014<br></span><span style="font-size: 16.0016px; line-height: 20.002px;"><strong>Research Fellowship, The Wilson Centre, University of Toronto, Canada</strong><br></span><span style="font-size: 16.0016px; line-height: 20.002px;">Research Focus in Medical and Surgical Education</span></p>
+<p><span style="font-size: 16.0016px; line-height: 20.002px;">•&nbsp;Jul 2010 – Mar 2014<br><strong>Research Fellowship, Clinician Investigator Program, Royal College of Physicians and Surgeons of Canada</strong><br><br>•&nbsp;Aug 2004 – Apr 2008<br><strong>Doctor of Medicine, Faculty of Medicine, University of Toronto, Canada</strong><br><br>•&nbsp;Sep 2000 – May 2004<br></span><span style="font-size: 16.0016px; line-height: 20.002px;"><strong>Honours Bachelor of Science, Faculty of Pure and Applied Science, York University, Canada</strong><br></span><span style="font-size: 16.0016px; line-height: 20.002px;">Major/Minor: Chemistry/Biology</span></p>
+<p><span style="font-size: 16.0016px; line-height: 20.002px;"><br><strong>CERTIFICATION</strong><br><br>•&nbsp;College of Physicians and Surgeons of Ontario – Licence No. 88884 (Apr 2016)<br>•&nbsp;American Board of Surgery – Certificate No. 060611 (Oct 2015)<br>•&nbsp;Fundamentals of Endoscopic Surgery (FES) – Certificate No. 15091090759 (Sept 2015)<br>•&nbsp;Fundamental Use of Surgical Energy (FUSE) – Certificate No. 15082694225 (Sept 2015)<br>•&nbsp;Specialist Certificate, General Surgery, The Royal College of Physicians and Surgeons of Canada (July 2015)<br>•&nbsp;State Medical Board of Ohio - Licence No. 35125536 (Jan 2015)<br>•&nbsp;Fundamentals of Laparoscopic Surgery (FLS) – Certificate No. 962444012505 (Sept 2014)<br>•&nbsp;Advanced Trauma Life Support (ATLS) – ID 388668 (Oct&nbsp; 2010)<br>•&nbsp;Advanced Cardiac Life Support (ACLS) – ID 279686 (June 2010)&nbsp;<br><br><br><strong>ACADEMIC APPOINTMENTS</strong><br><br><span style="text-decoration: underline;">University Appointments</span><br><br>•&nbsp;Aug 2016 – present<br><strong>Assistant Professor of Surgery and Medical Education Scholar</strong>, Department of Surgery, Queen’s University, Canada<br><br>•&nbsp;Jul 2015 – Jun 2016<br><strong>Clinical Assistant Professor of Surgery, </strong>Department of Surgery, Ohio State University, USA<br><br><br><span style="text-decoration: underline;">Hospital Appointments</span><br><br>• Aug 2016 – present<br><strong>Assistant Professor of Surgery, </strong>Kingston General Hospital and Hotel Dieu Hospital, Kingston, Ontario, Canada<br><br>•&nbsp;Jul 2015 – Jun 2016<br><strong>Clinical Assistant Professor of Surgery, </strong>Ohio State University Wexner Medical Center, USA<br><br><br><span style="text-decoration: underline;">Other Appointments</span><br><br>•&nbsp;Jan 2010 – present<br><strong>Instructor</strong>, Advanced Trauma Life Support (ATLS),American College of Surgeons<br><br>•&nbsp;Dec 2009 – present<br><strong>Course Director &amp; Instructor, </strong>Advanced Cardiac Life Support (ACLS), American Heart Association<br><br>•&nbsp;Jan 2011 – Dec 2014<br><strong>Lecturer, </strong>Ontario International Medical Graduate School, Toronto<br><br>•&nbsp;Jul 2014 – Oct 2014<br><strong>Chief Administrative Resident</strong>, Division of General Surgery, St. Michael’s Hospital, Toronto<br><br>•&nbsp;Jul 2012 – Dec 2012<br></span><strong style="font-family: inherit; font-size: 16.0016px; font-style: inherit; line-height: 20.002px;">Chief Administrative Resident</strong><span style="font-size: 16.0016px; line-height: 20.002px;">, Surgeon Scientist Training Program, Division of General Surgery,&nbsp;</span><span style="font-size: 16.0016px; line-height: 20.002px;">University of Toronto</span></p>
+<p><span style="font-size: 16.0016px; line-height: 20.002px;">•&nbsp;Jan 2011 – Apr 2011<br><strong>Instructor</strong>, Physiotherapy Year 1 Gross Anatomy, University of Toronto<br><br>•&nbsp;Jun 2005 – Apr 2008<br><strong>Research Student, </strong>Mobility Program Clinical Research Unit, St. Michael’s Hospital, Toronto<br><br>•&nbsp;Sep 2005 – May 2006<br><strong>Research Student, </strong>Department of Otolaryngology - Head and Neck Surgery, University of Toronto<br><br><br><strong>PROFESSIONAL SOCIETY MEMBERSHIPS</strong><br><br>•&nbsp;Canadian Association of General Surgeons (CAGS)<br>•&nbsp;American College of Surgeons (ACS)<br>•&nbsp;Canadian Medical Association (CMA)<br>•&nbsp;Ontario Medical Association (OMA)<br>•&nbsp;Society of American Gastrointestinal and Endoscopic Surgeons (SAGES)<br><br><br><strong>HONOURS AND AWARDS</strong><br><br>•&nbsp;The Department of Surgery Fellow Teaching Award, The Ohio State University Wexner Medical Center and College of Medicine (2016)<br>•&nbsp;Canadian Association of General Surgeons, Stevens Norvell Award - $300 (2015)<br>•&nbsp;Instructor of the Year Award, Advanced Life Support Educators, University of Toronto, Faculty of Medicine (2012)<br>•&nbsp;John L. Provan Fellowship in Surgical Education - $40,750 (2012)<br>•&nbsp;Gallie-Bateman Resident Research Award (2012)<br>•&nbsp;Fellowship for Studies in Medical Education, Royal College of Physicians and Surgeons of Canada - $45,000 (2012)<br>•&nbsp;Ontario Graduate Scholarship - $15,000 (2012)<br>•&nbsp;Clinician Investigator Program Fellowship - $63,000 (2011)<br>•&nbsp;CIHR Master's Award: Frederick Banting and Charles Best Canada Graduate Scholarships - $17,500 (2011)<br>•&nbsp;Ontario Graduate Scholarship - $15,000 (2011) - Declined<br>•&nbsp;2006 Ivan Smith Memorial Studentship Program (2006)<br>•&nbsp;Explore 2006 French Language Summer Program at Université de Montréal (2006)<br>•&nbsp;St. Michael’s Hospital Summer Student Research Award (2005)<br>•&nbsp;Society of Chemical Industry Merit Award (2004)<br>•&nbsp;Award for Analytical Chemistry donated by the American Chemical Society (2003)<br>•&nbsp;The National Canadian Society for Chemistry Silver Medal for York University (2002, 2003)<br>•&nbsp;York University Carey Risman Memorial Scholarship (2002, 2003)<br>•&nbsp;York University Ruth Hill Memorial Scholarship (2002, 2003)&nbsp;<br>•&nbsp;NSERC Undergraduate Student Research Award (2002, 2003)<br>•&nbsp;York University Presidents Honor Roll (2001, 2002)<br>•&nbsp;York Entrance Scholarship and York Continual Scholarship (2000 - 2004)<br>•&nbsp;Department of Chemistry 1<sup>st</sup> and 2<sup>nd</sup> Year Book Prize Award (2001, 2002)<br><br><br><strong>ADMINISTRATIVE ACTIVITIES</strong><br><br><span style="text-decoration: underline;">International Society Activities</span><br><br>•&nbsp;Research and Development Committee, Consortium of ACS-accredited Education Institutes (2016 – present)<br>•&nbsp;Research and Career Development Committee, Society of the American Gastrointestinal and Endoscopic Surgeons (SAGES) (2014 – present)<br>•&nbsp;Bariatric Subcommittee, American College of Surgeons (2016 – present)<br><br><br><span style="text-decoration: underline;">University Committees</span><br><br>•&nbsp;Resident Member, Post Graduate Education Committee in General Surgery (PGEC), University of Toronto (2011-2013)<br>•&nbsp;Resident Member, CaRMS Admissions Committee, Division of General Surgery, University of Toronto (2011-2015)<br>•&nbsp;Member, Admissions Committee, Faculty of Medicine, University of Toronto (2006)<br><br><br><span style="text-decoration: underline;">Departmental Activities</span><br><br>•&nbsp;Examiner in the Mock Oral Board Exams for surgery residents (April 2016)<br>•&nbsp;Moderator for gastric surgery animal lab with PGY 3-5 residents (Dec 2015)<br><br><br><strong>GRANTS</strong><br><br><span style="text-decoration: underline;">Peer-reviewed Grants</span><br></span></p>
+<ul>
+<li>Design and Validation of a Surgical Skills Assessment Tool for Laparoscopic Roux-en-Y Gastric Bypass. PSI Foundation Resident Research Grant (2011). Role: Principal Investigator ($14,500).</li>
+<li>Design and Validation of a Surgical Skills Assessment Tool for Laparoscopic Roux-en-Y Gastric Bypass. Education Development Fund, University of Toronto (2011). Role: Co-investigator ($5,850).</li>
+</ul>
+<span style="text-decoration: underline;">Non-peer-reviewed Grants</span><br><br>
+<ul>
+<li>A comparison of self versus external assessment for technical tasks in surgery. University of Toronto, School of Graduate Studies Conference Grant. Role: Principal Investigator ($450).</li>
+<li>Design and Validation of a Surgical Skills Assessment Tool for Laparoscopic Roux-en-Y Gastric Bypass. University of Toronto, School of Graduate Studies Conference Grant. Role: Principal Investigator ($695).</li>
+</ul>
+<br><strong>PUBLICATIONS</strong><br><br><span style="text-decoration: underline;">Peer-reviewed Journal Articles</span><br><br><ol>
+<li>Dokukina T, Evstigneev V, Misiuk N, Dokukina V, <strong>Zevin B.</strong> Diagnostics of Organic Brain Disorders in Patients with Neurosis Like Disorders Based on CT and QEEG Data. <em>Georgian Journal of Radiology</em> 1(10), 2002, pg. 18-21</li>
+<li><strong>Zevin B</strong>, Aggarwal R, Grantcharov TP. Volume-outcome association in bariatric surgery: A systematic review. <em>Ann Surg.</em> 2012 Jul;256(1):60-71.</li>
+<li><strong>Zevin B</strong>, Aggarwal R, Grantcharov TP. Simulation-based training and learning curves in laparoscopic Roux-en-Y gastric bypass. <em>Br J </em><em>Surg.</em> 2012 Jul;99(7):887-895.</li>
+<li><strong>Zevin B.</strong>&nbsp; Self Versus External Assessment for Technical Tasks in Surgery: A Narrative Review. <em>J Grad Med Educ</em>. 2012 Dec;4(4):417-425.</li>
+<li><strong>Zevin B</strong>, Levy JS, Satava RM, Grantcharov TP. A Consensus-based Framework for Design, Validation and Implementation of Simulation-based Training Curricula in Surgery. <em>J Am Coll Surg</em>. 2012 Oct;215(4):580-586.</li>
+<li><strong>Zevin B</strong>, Bonrath EM, Aggarwal R, Dedy NJ, Ahmed N, Grantcharov TP; ATLAS Group. The Development, Feasibility, Validity and Reliability of a Scale for Objective Assessment of Operative Performance in Laparoscopic Gastric Bypass Surgery. <em>J Am Coll Surg</em>. 2013 May;216(5):955-965.</li>
+<li>Bonrath EM, Dedy NJ, <strong>Zevin B</strong>, Grantcharov TP. Defining Technical Errors in Laparoscopic Surgery: A Systematic Review. <em>Surg Endosc</em>. 2013 Aug;27(8):2678-91.</li>
+<li>Dedy NJ, <strong>Zevin B</strong>, Bonrath EM, Grantcharov TP. Current concepts of team training in surgical residency: A survey of North American program directors. <em>J Surg Educ</em>. 2013 Sep-Oct;70(5):578-84</li>
+<li>Dedy NJ, Bonrath EM, <strong>Zevin B</strong>, Grantcharov TP. Teaching non-technical skills in surgical residency: A systematic review of current approaches and outcomes. <em>Surgery</em>. 2013 Nov;154(5):1000-1008.</li>
+<li>Bonrath EM, <strong>Zevin B</strong>, Dedy NJ, Grantcharov TP. An error rating tool to identify and analyze technical errors and events in laparoscopic surgery. <em>Br J </em><em>Surg.</em> 2013 Jul;100(8):1080-8.</li>
+<li>Gawad N, <strong>Zevin B</strong>, Bonrath EM, Dedy NJ, Louridas M, Grantcharov TP. Introduction of a comprehensive training curriculum in laparoscopic surgery for medical students: A randomized trial. <em>Surgery</em>. 2014 Sep;156(3):698-706.</li>
+<li><strong>Zevin B</strong>, Aggarwal R, Grantcharov TP. Surgical Simulation in 2013: Why is it still not the standard in surgical training? <em>J Am Coll Surg</em>. 2014 Feb;218(2):294-301.</li>
+<li>Bonrath EM, Dedy NJ, <strong>Zevin B</strong>, Grantcharov TP. International consensus on safe techniques and error definitions in laparoscopic surgery. <em>Surg Endosc</em>. 2014 May;28(5):1535-44.</li>
+<li>Shetty S, <strong>Zevin B</strong>, Grantcharov TP, Bell RL, Roberts KE, Duffy AJ. Laparoscopic Simulation Training: Resident Survey. <em>J Surg Educ.</em> 2014 Sep-Oct;71(5):727-33.</li>
+<li>Singh P, Aggarwal R, <strong>Zevin B</strong>, Grantcharov T, Darzi A. A Global Delphi Consensus Study on Defining and Measuring Quality in Surgical Training. <em>J Am Coll Surg</em>. 2014 Sep;219(3):346-353.e7.</li>
+<li>Stefanidis D, Sevdalis N, Paige J, <strong>Zevin B</strong>, Aggarwal R, Grantcharov T, Jones DB. Simulation in Surgery: What's Needed Next? <em>Ann Surg. </em>2015 May;261(5):846-53.</li>
+</ol><br><span style="text-decoration: underline;">Submitted for publication</span><br><br><ol>
+<li><strong>Zevin B</strong>, Dedy NJ, Bonrath EM, Grantcharov TP. Comprehensive Simulation-Enhanced Training Curriculum in Bariatric Surgery: A Randomized Controlled Trial. Submitted to <em>SOARD</em> (May 2016).</li>
+</ol><br><span style="text-decoration: underline;">Non-peer-reviewed journal articles</span><br><br><ol>
+<li><strong>Zevin B</strong>, Grantcharov TP. Surgical Management of Obesity.&nbsp; <em>IMS Magazine Winter 2012, </em>pg. 25-26</li>
+</ol><br><span style="text-decoration: underline;">Book chapters</span><br><br><ol>
+<li>D. Morra, C. Torgerson, A. Lablaw. <em>2006 Canadian Medical Residency Guide. Taking Control of Your Future Medical Career</em>, 5<sup>th</sup> Edition. Toronto, Ontario</li>
+</ol><br><span style="text-decoration: underline;">Abstracts and/or Proceedings</span><br><br><ol>
+<li><strong>Zevin B</strong>, Aggarwal R, Grantcharov TP. Volume-Outcome Association in Bariatric Surgery: A Systematic Review.<em> J Surg Res</em>. 2012 Feb;179(2):191</li>
+<li>Bonrath EM, <strong>Zevin B</strong>, Dedy NJ, Grantcharov TP. Development of a tool for the identification and assessment of technical errors in laparoscopic surgery. <em>J Am Coll Surg.</em> 2012 Sep;215(3):S117</li>
+<li><strong>Zevin B</strong>, Levy JS, Satava RM, Grantcharov TP. &nbsp;An evidence-based algorithm for the design, validation and implementation of a simulation-based surgical training curriculum.<em> J Am Coll Surg.</em> 2012 Sep;215(3):S120-121</li>
+<li>Shetty S, <strong>Zevin B</strong>, Grantcharov TP, Bell RL, Roberts KE, Duffy AJ. Laparoscopic Simulation Training: Resident Survey. <em>J Surg Res</em>. 2013 Feb;179(2):189</li>
+<li><strong>Zevin B</strong>, Dedy NJ, Bonrath EM, Grantcharov TP. Development and validation of a comprehensive simulation-enhanced training curriculum in bariatric surgery. <em>J Am Coll Surg.</em> 2013 Sep;217(3):S118-S119</li>
+<li>Dedy NJ, <strong>Zevin B</strong>, Bonrath EM, Grantcharov TP. Non-technical skills of surgery residents: does experiential learning lead to competence? <em>J Am Coll Surg.</em> 2013 Sep;217(3):S116-S116</li>
+</ol><br><strong>PRESENTATIONS</strong><br><br><span style="text-decoration: underline;">Podium presentations</span><br><br><ol>
+<li><strong>Zevin B</strong>, Ashamalla S, Dedy NJ, Louridas M, Bonrath EM, Grantcharov TP. <em>Implementation and Evaluation of a Comprehensive Simulation-Enhanced Upper GI Training Curriculum in a Large Academic General Surgery Residency Training Program</em>. Presented at 37<sup>th</sup> Annual Assembly of General Surgeons, University of Toronto, Canada (May 2014)</li>
+<li><strong>Zevin B</strong>, Dedy NJ, Bonrath EM, Grantcharov TP. <em>Comprehensive simulation-enhanced training curriculum in bariatric surgery: </em><em>A more effective approach to bariatric surgical training</em>. Presented at ASMBS Annual Meeting, Atlanta, USA (Nov 2013)</li>
+<li><strong>Zevin B</strong>, Dedy NJ, Bonrath EM, Grantcharov TP. <em>Comprehensive simulation-enhanced training curriculum in bariatric surgery: </em><em>A more effective approach to bariatric surgical training</em>. Presented at The Richard K. Reznick Wilson Centre Research Day, University of Toronto, Toronto, Canada (October 2013)</li>
+<li><strong>Zevin B</strong>, Dedy NJ, Bonrath EM, Grantcharov TP. <em>Development and validation of a comprehensive simulation-enhanced training curriculum in bariatric surgery</em>. Presented at 2013 American College of Surgeons Surgical Forum, Washington, USA (October 2013)</li>
+<li>Dedy NJ, <strong>Zevin B</strong>, Bonrath EM, Grantcharov TP. <em>Non-technical skills of surgery residents: does experiential learning lead to competence?</em> Presented at 2013 American College of Surgeons Surgical Forum, Washington, USA (October 2013)</li>
+<li><strong>Zevin B</strong>, Dedy NJ, Bonrath EM, Grantcharov TP. <em>Development and Validation of a Comprehensive Simulation-Enhanced Training Curriculum In Bariatric Surgery: A Randomized Controlled Trial</em>. Presented at 36<sup>th</sup> Annual Assembly of General Surgeons, University of Toronto, Canada (May 2013)</li>
+<li>Singh P, Aggarwal R, <strong>Zevin B</strong>, Grantcharov T, Darzi A. <em>International Consensus on Defining and Measuring Quality in Surgical Training</em>. Presented at the 6th Annual Meeting of the Members of the Consortium of ACS-accredited Education Institutes, Chicago, USA (March 2013)</li>
+<li>Gawad N, Bonrath EM, Dedy NJ, <strong>Zevin B</strong>, Louridas M, Grantcharov TP. <em>Introduction of a Comprehensive Training Curriculum in Laparoscopic Surgery for Medical Students: a Randomized Trial</em>. Presented at the 6th Annual Meeting of the Members of the Consortium of ACS-accredited Education Institutes, Chicago, USA (March 2013)</li>
+<li>Shetty S, <strong>Zevin B</strong>, Grantcharov TP, et al. <em>Laparoscopic Simulation Training: Resident Survey</em>. Presented at 8th Annual Academic Surgical Congress, New Orleans, USA (February 2013)</li>
+<li><strong>Zevin B</strong>, Bonrath EM, Aggarwal R, Grantcharov TP. <em>Objective Assessment of Operative Performance in Laparoscopic Gastric Bypass: Is It Possible?</em> Presented at The Richard K. Reznick Wilson Centre Research Day, University of Toronto, Toronto, Canada (October 2012)</li>
+<li><strong>Zevin B</strong>, Levy JS, Satava RM, Grantcharov TP. <em>An evidence-based framework for the design, validation and implementation of a simulation-based surgical training curriculum.</em> Presented at 2012 American College of Surgeons Surgical Forum, Chicago, USA (October 2012)</li>
+<li>Bonrath&nbsp;E,&nbsp;<strong>Zevin B</strong>,&nbsp;Dedy N,&nbsp;Grantcharov TP. <em>Development of a Tool for the Identification and Assessment of Technical Errors in Laparoscopic Surgery</em>. Presented at 2012 American College of Surgeons Surgical Forum, Chicago, USA (October 2012)</li>
+<li><strong>Zevin B</strong>, Levy JS, Satava RM, Grantcharov TP. <em>An evidence-based framework for the design, validation and implementation of a simulation-based surgical training curriculum.</em> Presented at 38<sup>th</sup> Gallie Day, Department of Surgery, University of Toronto, Canada (May 2012) – <strong>Received an honorary mention</strong>.</li>
+<li>Bonrath&nbsp;E,&nbsp;<strong>Zevin B</strong>,&nbsp;Dedy N,&nbsp;Grantcharov TP. <em>Development of a Tool for the Identification and Assessment of Technical Errors in Laparoscopic Surgery</em>. Presented at 35th Annual Assembly of General Surgeons, University of Toronto, Canada (May 2012)</li>
+<li><strong>Zevin B</strong>, Aggarwal R, Grantcharov TP. <em>Volume-Outcome Association in Bariatric Surgery: A Systematic Review</em>. Presented at the 7<sup>th</sup> Annual Academic Surgical Congress, Las Vegas, USA (February 2012)</li>
+</ol><br>
+<p><span style="font-size: 16.0016px; line-height: 20.002px;"><span style="text-decoration: underline;">Poster presentations</span><br></span></p>
+<ol>
+<li><strong>Zevin B</strong>, Hazey JW, Perry KA. <em>Laparoscopic Nissen Fundoplication versus Magnetic Gastroesophageal Sphincter Augmentation: Comparison of Patient Reported Outcomes and Costs. </em>Presented at SAGES 2016 Surgical Spring Week, Boston, USA (March 2016)</li>
+<li>Gordon L, Bonrath EM, <strong>Zevin B</strong>, Grantcharov TP. <em>Analyzing error patterns during laparoscopic surgery: a novel application of cumulative sum (CUSUM) charts.</em> Presented at 2014 American College of Surgeons Clinical Congress, San Francisco, USA (October 2014)</li>
+<li><strong>Zevin B</strong>, Ashamalla S, Dedy NJ, Louridas M, Bonrath EM, Grantcharov TP. <em>Implementation and Evaluation of a Comprehensive Simulation-Enhanced Upper GI Training Curriculum in a Large Academic General Surgery Residency Training Program</em>. 7th Annual Meeting of the Members of the Consortium of ACS-accredited Education Institutes, Chicago, USA (March 2014)</li>
+<li>Bonrath EM,&nbsp;<strong>Zevin B</strong>,&nbsp;Dedy NJ,&nbsp;Grantcharov TP.<em> Identification of Critical Safety Zones during Laparoscopic Gastric Bypass Surgery using Error Analysis. </em>ASMBS 2013 Obesity Week, Atlanta, GA, USA (November 2013)</li>
+<li>Bonrath EM, Dedy NJ, <strong>Zevin B</strong>, Grantcharov TP. <em>Safe Techniques in Laparoscopic Surgery: Establishing an International Expert Consensus</em>. Presented at 36<sup>th</sup> Annual Assembly of General Surgeons, University of Toronto, Canada (May 30, 2012)</li>
+<li><strong>Zevin B</strong>, Dedy NJ, Bonrath EM, Grantcharov TP. <em>Development and Validation of a Comprehensive Simulation-Enhanced Training Curriculum in Bariatric Surgery: A Randomized Controlled Trial</em>. Presented at 39<sup>th</sup> Gallie Day, Department of Surgery, University of Toronto, Canada (May 2013) – <strong>Awarded 1<sup>st</sup> Prize</strong><strong> Gallie-Bateman</strong><strong> Award</strong>.</li>
+<li>Dedy NJ, Bonrath EM, <strong>Zevin B</strong>, Grantcharov TP. <em>Crew resource management training in surgical residency programs: A survey of North American program directors</em>. Presented at the 6th Annual Meeting of the Members of the Consortium of ACS-accredited Education Institutes, Chicago, USA (March 2013)</li>
+<li><strong>Zevin B</strong>, Bonrath EM, Aggarwal R, Grantcharov TP. <em>Development, Feasibility, Validity and Reliability of a Scale for Objective Assessment of Operative Performance in Laparoscopic Gastric Bypass Surgery</em>. Presented at Second Annual CIP Symposium, University of Toronto, Canada (November 26, 2012)</li>
+<li>Hayter M<strong>, </strong>Unger Z, <strong>Zevin B</strong>, Hicks C. <em>The effect of warm-up using mental practice on trauma team performance — a simulation study</em>. Presented at 2012 Simulation Summit, Ottawa, Canada (November 17-18, 2012)</li>
+<li><strong>Zevin B</strong>, Bonrath EM, Aggarwal R, Grantcharov TP. &nbsp;<em>A valid and reliable tool for assessment of surgical skill in laparoscopic Roux-en-Y gastric bypass</em>. Presented at 2012 Canadian Surgery Forum, Calgary, Canada (September 15, 2012)</li>
+<li>Bonrath&nbsp;E,&nbsp;<strong>Zevin B</strong>,&nbsp;Dedy N,&nbsp;Grantcharov T. <em>Identification and assessment of technical errors in laparoscopic Roux-en-Y gastric bypass</em>. Presented at 2012 Canadian Surgical Forum, Calgary, Canada (September 15, 2012) - <strong>Awarded Best Poster Prize.</strong>&nbsp;</li>
+<li><strong>Zevin B</strong>, Bonrath EM, Aggarwal R, Grantcharov TP. <em>An Objective Tool for Assessment of Surgical Skill in Laparoscopic Roux-en-Y Gastric Bypass</em>. Presented at 35<sup>th</sup> Annual Assembly of General Surgeons, University of Toronto, Canada (May 24, 2012) – Received an honorary mention.</li>
+<li><strong>Zevin B</strong>, Bonrath EM, Aggarwal R, Grantcharov TP. <em>An Objective Tool for Assessment of Surgical Skill in Laparoscopic Roux-en-Y Gastric Bypass</em>. Presented at Education Achievement Celebration, University of Toronto, Canada (April 30, 2012)</li>
+<li><strong>Zevin B.</strong> <em>A comparison of self versus external assessment for technical tasks in surgery</em>.&nbsp; Presented at the 5th Annual Meeting of the Members of the Consortium of ACS-accredited Education Institutes, Chicago, USA (2012)</li>
+<li><strong>Zevin B.</strong>, Aggarwal R., Grantcharov TP. <em>Volume-Outcome Association in Bariatric Surgery: A Systematic Review</em>. Presented at the Clinician Investigator Program Symposium, Toronto, Canada (November 24, 2011)</li>
+<li><strong>Zevin B.</strong>, Aggarwal R., Grantcharov TP. <em>Design and Validation of a Surgical Skills Assessment Tool for Laparoscopic Roux-en-Y Gastric Bypass</em>.&nbsp; Presented at the Richard K. Reznick Wilson Centre Research Day, Toronto, Canada (October 28, 2011)</li>
+<li><strong>Zevin B.</strong>, Aggarwal R., Grantcharov TP. <em>Design and Validation of a Surgical Skills Assessment Tool for Laparoscopic Roux-en-Y Gastric Bypass</em>.&nbsp; Presented at the 4th Annual Meeting of the Members of the Consortium of ACS-accredited Education Institutes, Chicago, USA (2011)</li>
+<li>Escott B., <strong>Zevin B.</strong> et al. <em>Monitoring the Impact of Efficiency Initiatives on Health Outcomes in Total Hip Arthroplasty. </em>&nbsp;Presented at The Canadian Orthopaedic Association 62<sup>nd</sup> Annual Meeting, Halifax, Canada (2007)</li>
+<li><strong>Zevin B.</strong> et al.<em> Systematic Review of Prognostic Factors Affecting Outcomes of Operatively Managed Extremity Fractures</em>. Presented at The Canadian Orthopaedic Association 61<sup>st</sup> Annual Meeting, Toronto, Canada (2006)</li>
+<li><strong>Zevin B.</strong> et al. <em>Investigation of Wait Times and Stress Level Dependence on Socioeconomic Status in Head and Neck Cancer Patients at UHN and MSH</em>. Presented at DOCH 2 Student Presentation Day, University of Toronto, Toronto, Canada (2006)</li>
+<li><strong>Zevin B.</strong><em> Comparison of Quality of Life before and after the implementation of a hospital-led initiative to shorten length of stay (LOS) post primary total hip arthroplasty</em>.&nbsp; Presented at the St. Michael’s Hospital Summer Research Student Poster Competition, Toronto, Canada (2005)</li>
+</ol>
+<p><span style="font-size: 16.0016px; line-height: 20.002px;"><span style="text-decoration: underline;"><br>Invited Presentations</span><br></span></p>
+<ol>
+<li><em>Surgical Simulation: Past, Present and Future. </em>Queen’s University, Kingston, Ontario, Canada (January 2016)</li>
+<li><em>Volume Based Outcomes in Bariatric Programs.</em> 4<sup>th</sup> Annual Care of the Bariatric Patient Conference. Columbus, Ohio, USA (August 2015)</li>
+<li><em>Implementation of an Assessment Tool</em>. “Defining High Quality Surgical Training” workshop ata 2013 meeting of the Association of Program Directors in Surgery. Orlando, Florida, USA. (April 2013)</li>
+<li><em>Early Gastric Cancer: Controversies in Treatment</em>.&nbsp; Nuevas Fronteras en Cirugia Minimamente Invasiva. Chile (October 2012)</li>
+<li><em>Update on Implementation of Competency Based Curriculum</em>. LapSim User Group Meeting, Chicago, USA (October 2012)</li>
+<li><em>Development of a Comprehensive Simulation-based Training Curriculum for Bariatric Surgery</em>. ATLAS group meeting, San Diego, California, USA (March 2012)</li>
+<li>ATLAS group meeting, San Francisco, California, USA (September 2011)</li>
+<li>LapSim user group meeting, San Francisco, California, USA (September 2011)</li>
+</ol>
+<p><span style="font-size: 16.0016px; line-height: 20.002px;"><br><span style="text-decoration: underline;">Departmental rounds</span><br></span></p>
+<ol>
+<li><em>Surgical Management of Obesity.</em>&nbsp; General Surgery Grand Rounds, Kingston General Hospital, Kingston, Ontario, Canada (January 2016)</li>
+<li><em>Management of Hepatocellular Carcinoma</em>. Hepatobiliary Resident Rounds, Toronto General Hospital, Toronto, Canada (May 2014)</li>
+</ol><br><strong>PROFESSIONAL DEVELOPMENT<br></strong><br>
+<p><span style="font-size: 16.0016px; line-height: 20.002px;">• Bariatric Surgery Fellows Masterclass (Sept 2015, Tampa, FL)&nbsp;<br>•&nbsp;SAGES Flexible Endoscopy Fellows Course (Sept 2015, Cleveland, OH)<br>•&nbsp;SAGES Advanced Colorectal Resident Course (Nov 2013, London, Canada)<br>•&nbsp;SAGES Advanced Upper GI and Bariatric Surgery Resident Course (Sept 2013, London, Canada)<br><br><br><strong>PEER-REVIEWED ACTIVITIES</strong><br><br>Member of the editorial board<br>•&nbsp;Clinics in Surgery – General Surgery – since 2016<br><br><br><span style="text-decoration: underline;">Peer Review</span><br><br>•&nbsp;Journal of Graduate Medical Education – since 2012<br>•&nbsp;Diabetes, Metabolic Syndrome and Obesity: Targets and Therapy – since 2013<br>•&nbsp;Surgery – since 2013<br>•&nbsp;SAGE Open Medicine – since 2013<br>•&nbsp;British Medical Journal – since 2014<br>•&nbsp;Journal of the American College of Surgeons – since 2015<br>•&nbsp;Advances in Medical Education and Practice – since 2015<br><br><br>Updated August 29, 2016</span></p>					</div>
+				</div>
+			</div>
+		</div>
+		<div id="hs-footer">
+			<div class="footer">
+				<div class="container">
+					<img class="wing-left" src="/templates/department-surgery/images/footer-navigation-wing-left.png" alt="" title="" width="22" height="108">
+					<img class="wing-right" src="/templates/department-surgery/images/footer-navigation-wing-right.png" alt="" title="" width="22" height="108">
+					<div class="span-6 align-c">
+						<a href="http://www.queensu.ca" target="_blank"><img class="queens-logo-white" src="/templates/department-surgery/images/queens-logo-white.png" alt="Queen's University" title="Queen's University" width="101" height="69"></a>
+					</div>
+					<div class="span-18 last">
+						<div class="colpad-t">
+							<h4>Around Our Site</h4>
+							<div class="float-l" style="width: 24%">
+								<ul>
+									<li><a href="/education">Undergraduate Programs</a></li>
+									<li><a href="/education">Postgraduate Programs</a></li>
+									<li><a href="/divisions">Divisions</a></li>
+								</ul>
+							</div>
+							<div class="float-l" style="width: 24%">
+								<ul>
+									<li><a href="/announcements">All Events</a></li>
+									<li><a href="/useful_links">Useful Links</a></li>
+									<li><a href="/home/contact_us">Contact Us</a></li>
+
+								</ul>
+							</div>
+							<div class="float-l" style="width: 24%">
+								<ul>
+									<li><a href="https://meds.queensu.ca/central/community/surgeryinternal:shares">Internal - Faculty</a></li>
+									<li><a href="https://meds.queensu.ca/central/community/internalresidents:shares">Internal - Residents</a></li>
+									<li><a href="/research">Research</a></li>
+								</ul>
+							</div>
+							<div class="float-l" style="width: 24%">
+								<ul>
+									<li><a href="http://meds.queensu.ca">School of Medicine</a></li>
+									<li><a href="http://healthsci.queensu.ca">Faculty of Health Sciences</a></li>
+									<li><a href="http://ww.queensu.ca">Queen's University</a></li>
+								</ul>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="toes">
+				<div class="container">
+					<img class="wing-left" src="/templates/department-surgery/images/toes-wing-left.png" alt="" title="" width="22" height="39">
+					<img class="wing-right" src="/templates/department-surgery/images/toes-wing-right.png" alt="" title="" width="22" height="39">
+					<div class="span-12">
+						<div class="colpad-l colpad-r">Copyright © 2017 Queen's University. All Rights Reserved.</div>
+					</div>
+					<div class="span-12 last align-r">
+						<div class="colpad-l colpad-r"><a href="/home/disclaimer">Content Disclaimer</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<script type="text/javascript">
+		$(function() {
+/*
+			$('#site-search').focus(function() {
+				if ($('#site-search').val() == 'Search Anesthesiology and Perioperative Medicine�...') {
+					$('#site-search').val('');
+				}
+			}).blur(function() {
+				if ($('#site-search').val() == '') {
+					$('#site-search').val('Search Anesthesiology and Perioperative Medicine...');
+				}
+			});
+*/
+
+			$('#qweb, #qpeople').click(function() {
+				$('#qsearch').focus();
+			});
+
+			$('#qsearch').focus(function() {
+				if ($('#qsearch').val() == 'Search Queen\'s...') {
+					$('#qsearch').val('');
+				}
+			}).blur(function() {
+				if ($('#qsearch').val() == '') {
+					$('#qsearch').val('Search Queen\'s...');
+				}
+			});
+		});
+		</script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1a4644a1c7","applicationID":"702423","transactionName":"Z1YHY0dZC0pXWhZRVl4cMEVcFwxXUlwaFklYQw==","queueTime":0,"applicationTime":40,"atts":"SxEEFQ9DGEQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>

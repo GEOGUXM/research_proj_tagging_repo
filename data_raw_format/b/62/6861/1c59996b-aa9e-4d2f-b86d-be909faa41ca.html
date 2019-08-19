@@ -1,0 +1,741 @@
+<html class="wf-opensans-n4-active wf-anticslab-n4-active wf-ptsans-n4-active wf-active ua-gecko ua-gecko-53 ua-gecko-53-0 ua-firefox ua-firefox-53 ua-firefox-53-0 ua-desktop ua-desktop-linux js applicationcache geolocation history postmessage websockets localstorage sessionstorage no-websqldatabase webworkers hashchange audio canvas canvastext video webgl cssgradients multiplebgs opacity rgba inlinesvg hsla supports svgclippaths smil no-touchevents fontface generatedcontent textshadow indexeddb indexeddb-deletedatabase cssanimations backgroundsize borderimage borderradius boxshadow flexbox no-cssreflections csstransforms csstransforms3d csstransitions" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# og: http://ogp.me/ns#" data-useragent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0" style="overflow-y: auto;" lang="en-US"><head>
+	<meta name="viewport" content="user-scalable=no, width=device-width, height=device-height">
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" src="https://bam.nr-data.net/1/ab0374a39e?a=27787783&amp;v=1039.bef6007&amp;to=Z1QGZBZQVkNYU0YNWV4eJVMQWFdeFkNbClFcVElRElBcUWZAXRZCVl4IWQs%3D&amp;rst=6478&amp;ref=http://cee.mit.edu/people_individual/nigel-h-m-wilson/&amp;ap=784&amp;be=2290&amp;fe=6358&amp;dc=5096&amp;af=err,xhr,stn,ins&amp;perf=%7B%22timing%22:%7B%22of%22:1498024105139,%22n%22:0,%22r%22:9,%22re%22:970,%22f%22:970,%22dn%22:970,%22dne%22:970,%22c%22:970,%22ce%22:970,%22rq%22:970,%22rp%22:970,%22rpe%22:970,%22dl%22:2279,%22di%22:5095,%22ds%22:5095,%22de%22:5145,%22dc%22:6358,%22l%22:6358,%22le%22:6436%7D,%22navigation%22:%7B%22rc%22:1%7D%7D&amp;at=SxMFEl5KRU0%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYFWVJaDxACU1ZaAAYPVQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+
+	
+	<!--[if lte IE 8]>
+	<script type="text/javascript" src="http://cee.mit.edu/wp-content/themes/Avada/assets/js/html5shiv.js"></script>
+	<![endif]-->
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Nigel H.M. Wilson - MIT CEE</title>
+						<script>
+							/* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+							if ( typeof WebFontConfig === "undefined" ) {
+								WebFontConfig = new Object();
+							}
+							WebFontConfig['google'] = {families: ['Antic+Slab:400', 'PT+Sans:400', 'Open+Sans:300&subset=latin']};
+
+							(function() {
+								var wf = document.createElement( 'script' );
+								wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+								wf.type = 'text/javascript';
+								wf.async = 'true';
+								var s = document.getElementsByTagName( 'script' )[0];
+								s.parentNode.insertBefore( wf, s );
+							})();
+						</script>
+						
+<!-- This site is optimized with the Yoast SEO plugin v4.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://cee.mit.edu/people_individual/nigel-h-m-wilson/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Nigel H.M. Wilson - MIT CEE">
+<meta property="og:description" content="Professor
+
+Research Interests: urban transportation systems">
+<meta property="og:url" content="https://cee.mit.edu/people_individual/nigel-h-m-wilson/">
+<meta property="og:site_name" content="MIT CEE">
+<meta property="article:publisher" content="https://www.facebook.com/MITCEE/">
+<meta property="og:image" content="https://cee.mit.edu/wp-content/uploads/2016/07/nigelWilson200.png">
+<meta property="og:image:width" content="200">
+<meta property="og:image:height" content="200">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Professor
+
+Research Interests: urban transportation systems">
+<meta name="twitter:title" content="Nigel H.M. Wilson - MIT CEE">
+<meta name="twitter:site" content="@MIT_CEE">
+<meta name="twitter:image" content="https://cee.mit.edu/wp-content/uploads/2016/07/nigelWilson200.png">
+<meta name="twitter:creator" content="@MIT_CEE">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="MIT CEE » Feed" href="https://cee.mit.edu/feed/">
+<link rel="alternate" type="application/rss+xml" title="MIT CEE » Comments Feed" href="https://cee.mit.edu/comments/feed/">
+<link rel="alternate" type="text/calendar" title="MIT CEE » iCal Feed" href="https://cee.mit.edu/events/?ical=1">
+			<link rel="shortcut icon" href="//cee.mit.edu/wp-content/uploads/2016/07/favicon.ico" type="image/x-icon">
+					<!-- For iPad Retina display -->
+			<link rel="apple-touch-icon-precomposed" sizes="144x144" href="">
+		<link rel="alternate" type="application/rss+xml" title="MIT CEE » Nigel H.M. Wilson Comments Feed" href="https://cee.mit.edu/people_individual/nigel-h-m-wilson/feed/">
+
+		<meta property="og:title" content="Nigel H.M. Wilson">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://cee.mit.edu/people_individual/nigel-h-m-wilson/">
+		<meta property="og:site_name" content="MIT CEE">
+		<meta property="og:description" content="Nigel Wilson
+Professor
+Research Interests: urban transportation systems
+
+   Connect MIT
+Room 1-238
+77 Massachusetts Avenue
+Cambridge, MA, 02139
+
+Telephone:&nbsp;617.253.5046
+Email:&nbsp;nhmw@mit.edu
+Assistant:&nbsp;Tse Yiu, Mei-Chun Ruth&nbsp;/&nbsp;ryiu@mit.edu
+Research Website:&nbsp;http://transitlab.mit.edu  Education 
+
+ 	B.Sc.(Eng) 1965, Imperial College, London University
+ 	S.M. 1967, MIT
+ 	Ph.D. 1970, MIT
+  Research Interests 
+
+ 	Public transportation
+ 	Transport system design
+ 	New transportation systems
+  Selected Publications">
+
+									<meta property="og:image" content="https://cee.mit.edu/wp-content/uploads/2016/07/nigelWilson200.png">
+							<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/cee.mit.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.9"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://cee.mit.edu/wp-includes/js/wp-emoji-release.min.js?ver=4.5.9" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="http://cee.mit.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="avada-parent-stylesheet-css" href="http://cee.mit.edu/wp-content/themes/Avada/style.css?ver=4.5.9" type="text/css" media="all">
+<link rel="stylesheet" id="avada-stylesheet-css" href="http://cee.mit.edu/wp-content/themes/Avada-Child-Theme/style.css?ver=1.0.0" type="text/css" media="all">
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='avada-shortcodes-css'  href='http://cee.mit.edu/wp-content/themes/Avada/shortcodes.css?ver=1.0.0' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="fontawesome-css" href="http://cee.mit.edu/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=1.0.0" type="text/css" media="all">
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='avada-IE-fontawesome-css'  href='http://cee.mit.edu/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=1.0.0' type='text/css' media='all' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='avada-IE8-css'  href='http://cee.mit.edu/wp-content/themes/Avada/assets/css/ie8.css?ver=1.0.0' type='text/css' media='all' />
+<![endif]-->
+<!--[if IE]>
+<link rel='stylesheet' id='avada-IE-css'  href='http://cee.mit.edu/wp-content/themes/Avada/assets/css/ie.css?ver=1.0.0' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="avada-iLightbox-css" href="http://cee.mit.edu/wp-content/themes/Avada/ilightbox.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="avada-animations-css" href="http://cee.mit.edu/wp-content/themes/Avada/animations.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="avada-dynamic-css-css" href="//cee.mit.edu/wp-content/uploads/avada-styles/avada-1875.css?timestamp=1496161285&amp;ver=4.5.9" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-css" href="http://cee.mit.edu/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.css?ver=1.5.7" type="text/css" media="screen">
+<link rel="stylesheet" id="avada-mobile-style-css" href="http://cee.mit.edu/wp-content/themes/Avada-Child-Theme/mobile-style.css?ver=4.5.9" type="text/css" media="all">
+<link rel="stylesheet" id="avada-exta-style-css" href="http://cee.mit.edu/wp-content/themes/Avada-Child-Theme/style-2.css?ver=4.5.9" type="text/css" media="all">
+<link rel="stylesheet" id="avada-exta-style2-css" href="http://cee.mit.edu/wp-content/themes/Avada-Child-Theme/style-3.css?ver=4.5.9" type="text/css" media="all">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Antic+Slab:400%7CPT+Sans:400%7COpen+Sans:300&amp;subset=latin"><script type="text/javascript">
+/* <![CDATA[ */
+var tribe_events_linked_posts = {"post_types":{"tribe_venue":"venue","tribe_organizer":"organizer"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cee.mit.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://cee.mit.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://cee.mit.edu/wp-content/themes/Avada-Child-Theme/assets/js/navigation.js?ver=1"></script>
+<link rel="https://api.w.org/" href="https://cee.mit.edu/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cee.mit.edu/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cee.mit.edu/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.5.9">
+<link rel="shortlink" href="https://cee.mit.edu/?p=1875">
+<link rel="alternate" type="application/json+oembed" href="https://cee.mit.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcee.mit.edu%2Fpeople_individual%2Fnigel-h-m-wilson%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://cee.mit.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcee.mit.edu%2Fpeople_individual%2Fnigel-h-m-wilson%2F&amp;format=xml">
+
+			<!--/ Facebook Thumb Fixer Open Graph /-->
+			<meta property="og:type" content="article">
+			<meta property="og:url" content="https://cee.mit.edu/people_individual/nigel-h-m-wilson/">
+			<meta property="og:title" content="Nigel H.M. Wilson">
+			<meta property="og:description" content="Professor
+
+Research Interests: urban transportation systems">
+			<meta property="og:site_name" content="MIT CEE">
+			<meta property="og:image" content="https://cee.mit.edu/wp-content/uploads/2016/07/nigelWilson200.png">
+
+			<meta itemscope="" itemtype="article">
+			<meta itemprop="description" content="Professor
+
+Research Interests: urban transportation systems">
+			<meta itemprop="image" content="https://cee.mit.edu/wp-content/uploads/2016/07/nigelWilson200.png">
+			
+
+<!--[if IE 9]> <script>var _fusionParallaxIE9 = true;</script> <![endif]-->
+<!-- Easy FancyBox 1.5.7 using FancyBox 1.3.7 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var fb_timeout = null;
+var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
+var easy_fancybox_handler = function(){
+	/* YouTube */
+	jQuery('a[href*="youtube.com/watch"]:not(.nofancybox), area[href*="youtube.com/watch"]:not(.nofancybox)').addClass('fancybox-youtube');
+	jQuery('a[href*="youtu.be/"]:not(.nofancybox), area[href*="youtu.be/"]:not(.nofancybox)').addClass('fancybox-youtube');
+	jQuery('a.fancybox-youtube, area.fancybox-youtube, li.fancybox-youtube a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'iframe', 'width' : 640, 'height' : 360, 'padding' : 0, 'titleShow' : false, 'titlePosition' : 'float', 'titleFromAlt' : true, 'onStart' : function(selectedArray, selectedIndex, selectedOpts) { selectedOpts.href = selectedArray[selectedIndex].href.replace(new RegExp('youtu.be', 'i'), 'www.youtube.com/embed').replace(new RegExp('watch\\?(.*)v=([a-z0-9\_\-]+)(&amp;|&|\\?)?(.*)', 'i'), 'embed/$2?$1$4'); var splitOn = selectedOpts.href.indexOf('?'); var urlParms = ( splitOn > -1 ) ? selectedOpts.href.substring(splitOn) : ""; selectedOpts.allowfullscreen = ( urlParms.indexOf('fs=0') > -1 ) ? false : true } }) );
+	/* Vimeo */
+	jQuery('a[href*="vimeo.com/"]:not(.nofancybox), area[href*="vimeo.com/"]:not(.nofancybox)').addClass('fancybox-vimeo');
+	jQuery('a.fancybox-vimeo, area.fancybox-vimeo, li.fancybox-vimeo a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'iframe', 'width' : 500, 'height' : 281, 'padding' : 0, 'titleShow' : false, 'titlePosition' : 'float', 'titleFromAlt' : true, 'onStart' : function(selectedArray, selectedIndex, selectedOpts) { selectedOpts.href = selectedArray[selectedIndex].href.replace(new RegExp('//(www\.)?vimeo\.com/([0-9]+)(&|\\?)?(.*)', 'i'), '//player.vimeo.com/video/$2?$4'); var splitOn = selectedOpts.href.indexOf('?'); var urlParms = ( splitOn > -1 ) ? selectedOpts.href.substring(splitOn) : ""; selectedOpts.allowfullscreen = ( urlParms.indexOf('fullscreen=0') > -1 ) ? false : true } }) );
+	/* Auto-click */ 
+	jQuery('#fancybox-auto').trigger('click');
+}
+/* ]]> */
+</script>
+
+	
+	<!--[if lte IE 8]>
+	<script type="text/javascript">
+	jQuery(document).ready(function() {
+	var imgs, i, w;
+	var imgs = document.getElementsByTagName( 'img' );
+	for( i = 0; i < imgs.length; i++ ) {
+		w = imgs[i].getAttribute( 'width' );
+		imgs[i].removeAttribute( 'width' );
+		imgs[i].removeAttribute( 'height' );
+	}
+	});
+	</script>
+
+	<script src="http://cee.mit.edu/wp-content/themes/Avada/assets/js/excanvas.js"></script>
+
+	<![endif]-->
+
+	<!--[if lte IE 9]>
+	<script type="text/javascript">
+	jQuery(document).ready(function() {
+
+	// Combine inline styles for body tag
+	jQuery('body').each( function() {
+		var combined_styles = '<style type="text/css">';
+
+		jQuery( this ).find( 'style' ).each( function() {
+			combined_styles += jQuery(this).html();
+			jQuery(this).remove();
+		});
+
+		combined_styles += '</style>';
+
+		jQuery( this ).prepend( combined_styles );
+	});
+	});
+	</script>
+
+	<![endif]-->
+
+	<script type="text/javascript">
+		var doc = document.documentElement;
+		doc.setAttribute('data-useragent', navigator.userAgent);
+	</script>
+
+	<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6469580-1', 'auto');
+  ga('create', 'UA-1592615-30',{'name':'mitsitewide'});
+  ga('send', 'pageview');
+  ga('mitsitewide.send','pageview');
+</script>
+	<style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+<body class="single single-avada_portfolio postid-1875 single-format-standard fusion-body no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar no-totop no-mobile-totop mobile-logo-pos-left layout-wide-mode side-header side-header-left menu-text-align-left mobile-menu-design-modern fusion-image-hovers fusion-show-pagination-text do-animate">
+				<div id="mobile-header-wrapper">
+		<div id="mobile-nav-toggle">
+			<a class="cee-mit-bars" href="#"></a>
+		</div><div id="mobile-nav-logo"><a href="/" class="linkNavLogo"><img src="/wp-content/uploads/2016/10/mobile-logo-cee.png"></a></div>
+	</div>
+	<div class="mobile-nav-wrapper">
+		<div class="close-mobile-nav"></div>
+		<div class="mobile-nav">
+			<div class="mobile-nav-container">
+				<div class="cta-buttons-container">
+					<div class="cta-button"><p> Apply </p></div>
+					<div class="cta-button"><p> Visit </p></div>
+					<div class="cta-button"><p> See Programs </p></div>
+				</div>
+					<div class="fusion-main-menu"><ul id="menu-main-menu" class="fusion-menu"><li id="menu-item-1028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1028"><a href="https://cee.mit.edu/"><span class="menu-text">Home</span></a></li><li id="menu-item-878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-878 fusion-dropdown-menu"><a href="https://cee.mit.edu/about/" aria-haspopup="true"><span class="menu-text">About</span></a> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span><ul class="sub-menu"><li id="menu-item-933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-933 fusion-dropdown-submenu"><a href="https://cee.mit.edu/about/mission/"><span class="">Mission</span></a></li><li id="menu-item-10540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10540 fusion-dropdown-submenu"><a href="https://cee.mit.edu/about/diversity-and-inclusion/"><span class="">Diversity and Inclusion</span></a></li><li id="menu-item-931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-931 fusion-dropdown-submenu"><a href="https://cee.mit.edu/about/giving-to-cee/"><span class="">Give to CEE</span></a></li></ul></li><li id="menu-item-843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-843 fusion-dropdown-menu"><a href="https://cee.mit.edu/undergraduate/" aria-haspopup="true"><span class="menu-text">Undergraduate</span></a> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span><ul class="sub-menu"><li id="menu-item-881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881 fusion-dropdown-submenu"><a href="https://cee.mit.edu/undergraduate/undergraduate-degrees/"><span class="">Undergraduate Degrees</span></a></li><li id="menu-item-8429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8429 fusion-dropdown-submenu"><a href="https://cee.mit.edu/undergraduate/minors/"><span class="">Minors</span></a></li><li id="menu-item-1749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1749 fusion-dropdown-submenu"><a href="https://cee.mit.edu/undergraduate/undergraduate-opportunities/"><span class="">Undergraduate Opportunities</span></a></li><li id="menu-item-1746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1746 fusion-dropdown-submenu"><a href="https://cee.mit.edu/undergraduate/undergraduate-student-life/"><span class="">Undergraduate Student Life</span></a></li><li id="menu-item-8433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8433 fusion-dropdown-submenu"><a href="https://cee.mit.edu/undergraduate/educational-objectives-and-outcomes/"><span class="">Educational Objectives and Outcomes</span></a></li></ul></li><li id="menu-item-853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-853 fusion-dropdown-menu"><a href="https://cee.mit.edu/graduate/" aria-haspopup="true"><span class="menu-text">Graduate</span></a> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span><ul class="sub-menu"><li id="menu-item-1755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1755 fusion-dropdown-submenu"><a href="https://cee.mit.edu/graduate/graduate-degree/"><span class="">Graduate Degrees</span></a></li><li id="menu-item-1757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1757 fusion-dropdown-submenu"><a href="https://cee.mit.edu/graduate/admissions/"><span class="">Graduate Admissions</span></a></li><li id="menu-item-7485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7485 fusion-dropdown-submenu"><a href="https://cee.mit.edu/graduate/grad-timeline-and-faq/"><span class="">Graduate Timeline and FAQ</span></a></li><li id="menu-item-8102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8102 fusion-dropdown-submenu"><a href="https://cee.mit.edu/graduate/graduate-funding/"><span class="">Graduate Funding</span></a></li><li id="menu-item-1747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1747 fusion-dropdown-submenu"><a href="https://cee.mit.edu/graduate/graduate-student-life/"><span class="">Graduate Student Life</span></a></li></ul></li><li id="menu-item-7960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7960"><a href="https://cee.mit.edu/postdoctorate/"><span class="menu-text">Postdoctorate</span></a></li><li id="menu-item-992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-992 fusion-dropdown-menu"><a href="https://cee.mit.edu/research/" aria-haspopup="true"><span class="menu-text">Research</span></a> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span><ul class="sub-menu"><li id="menu-item-1931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1931 fusion-dropdown-submenu"><a href="https://cee.mit.edu/research/ecology/"><span class="">Ecological Systems</span></a></li><li id="menu-item-1932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932 fusion-dropdown-submenu"><a href="https://cee.mit.edu/research/resources/"><span class="">Resources and Sustainability</span></a></li><li id="menu-item-1930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1930 fusion-dropdown-submenu"><a href="https://cee.mit.edu/research/infrastructure/"><span class="">Structures and Design</span></a></li><li id="menu-item-1928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1928 fusion-dropdown-submenu"><a href="https://cee.mit.edu/research/urban-systems/"><span class="">Urban Systems</span></a></li><li id="menu-item-1929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1929 fusion-dropdown-submenu"><a href="https://cee.mit.edu/research/global-systems/"><span class="">Global Systems</span></a></li></ul></li><li id="menu-item-991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-991 fusion-dropdown-menu"><a href="https://cee.mit.edu/people/" aria-haspopup="true"><span class="menu-text">People</span></a> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span><ul class="sub-menu"><li id="menu-item-1110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1110 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/faculty/"><span class="">Faculty</span></a></li><li id="menu-item-1113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1113 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/postdocs/"><span class="">Postdocs</span></a></li><li id="menu-item-1112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1112 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/researchers/"><span class="">Researchers</span></a></li><li id="menu-item-1114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1114 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/staff/"><span class="">Staff</span></a></li><li id="menu-item-7482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7482 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/faculty-search/"><span class="">Faculty Search</span></a></li><li id="menu-item-1111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1111 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/lecturers/"><span class="">Lecturers</span></a></li></ul></li><li id="menu-item-1756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1756"><a href="https://cee.mit.edu/resources/"><span class="menu-text">Resources and Opportunities</span></a></li><li id="menu-item-6561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6561"><a href="http://cee.mit.edu/events/"><span class="menu-text">Events</span></a></li><li id="menu-item-990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-990"><a href="https://cee.mit.edu/blog/"><span class="menu-text">Blog</span></a></li><li id="menu-item-11233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11233"><a href="https://cee.mit.edu/contact/"><span class="menu-text">Contact</span></a></li><li id="menu-item-11232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11232 fusion-last-menu-item"><a href="https://cee.mit.edu/apply/"><span class="menu-text">Apply</span></a></li></ul></div>			<div class="fusion-mobile-menu-icons">
+							<a href="#" class="fusion-icon fusion-icon-bars"></a>
+		
+		
+			</div>
+
+
+<div class="fusion-mobile-nav-holder"><ul id="menu-main-menu" class="fusion-menu"><li id="mobile-menu-item-1028" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/"><span class="menu-text">Home</span></a></li><li id="mobile-menu-item-878" class="fusion-mobile-nav-item" style=""><span href="#" aria-haspopup="true" class="fusion-open-submenu"></span><a href="https://cee.mit.edu/about/"><span class="menu-text">About</span></a> <ul class="sub-menu" style="display: none;"><li id="mobile-menu-item-933" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/about/mission/"><span class="">Mission</span></a></li><li id="mobile-menu-item-10540" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/about/diversity-and-inclusion/"><span class="">Diversity and Inclusion</span></a></li><li id="mobile-menu-item-931" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/about/giving-to-cee/"><span class="">Give to CEE</span></a></li></ul></li><li id="mobile-menu-item-843" class="fusion-mobile-nav-item" style=""><span href="#" aria-haspopup="true" class="fusion-open-submenu"></span><a href="https://cee.mit.edu/undergraduate/"><span class="menu-text">Undergraduate</span></a> <ul class="sub-menu" style="display: none;"><li id="mobile-menu-item-881" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/undergraduate/undergraduate-degrees/"><span class="">Undergraduate Degrees</span></a></li><li id="mobile-menu-item-8429" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/undergraduate/minors/"><span class="">Minors</span></a></li><li id="mobile-menu-item-1749" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/undergraduate/undergraduate-opportunities/"><span class="">Undergraduate Opportunities</span></a></li><li id="mobile-menu-item-1746" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/undergraduate/undergraduate-student-life/"><span class="">Undergraduate Student Life</span></a></li><li id="mobile-menu-item-8433" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/undergraduate/educational-objectives-and-outcomes/"><span class="">Educational Objectives and Outcomes</span></a></li></ul></li><li id="mobile-menu-item-853" class="fusion-mobile-nav-item" style=""><span href="#" aria-haspopup="true" class="fusion-open-submenu"></span><a href="https://cee.mit.edu/graduate/"><span class="menu-text">Graduate</span></a> <ul class="sub-menu" style="display: none;"><li id="mobile-menu-item-1755" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/graduate/graduate-degree/"><span class="">Graduate Degrees</span></a></li><li id="mobile-menu-item-1757" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/graduate/admissions/"><span class="">Graduate Admissions</span></a></li><li id="mobile-menu-item-7485" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/graduate/grad-timeline-and-faq/"><span class="">Graduate Timeline and FAQ</span></a></li><li id="mobile-menu-item-8102" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/graduate/graduate-funding/"><span class="">Graduate Funding</span></a></li><li id="mobile-menu-item-1747" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/graduate/graduate-student-life/"><span class="">Graduate Student Life</span></a></li></ul></li><li id="mobile-menu-item-7960" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/postdoctorate/"><span class="menu-text">Postdoctorate</span></a></li><li id="mobile-menu-item-992" class="fusion-mobile-nav-item" style=""><span href="#" aria-haspopup="true" class="fusion-open-submenu"></span><a href="https://cee.mit.edu/research/"><span class="menu-text">Research</span></a> <ul class="sub-menu" style="display: none;"><li id="mobile-menu-item-1931" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/research/ecology/"><span class="">Ecological Systems</span></a></li><li id="mobile-menu-item-1932" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/research/resources/"><span class="">Resources and Sustainability</span></a></li><li id="mobile-menu-item-1930" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/research/infrastructure/"><span class="">Structures and Design</span></a></li><li id="mobile-menu-item-1928" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/research/urban-systems/"><span class="">Urban Systems</span></a></li><li id="mobile-menu-item-1929" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/research/global-systems/"><span class="">Global Systems</span></a></li></ul></li><li id="mobile-menu-item-991" class="fusion-mobile-nav-item" style=""><span href="#" aria-haspopup="true" class="fusion-open-submenu"></span><a href="https://cee.mit.edu/people/"><span class="menu-text">People</span></a> <ul class="sub-menu" style="display: none;"><li id="mobile-menu-item-1110" class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/faculty/"><span class="">Faculty</span></a></li><li id="mobile-menu-item-1113" class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/postdocs/"><span class="">Postdocs</span></a></li><li id="mobile-menu-item-1112" class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/researchers/"><span class="">Researchers</span></a></li><li id="mobile-menu-item-1114" class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/staff/"><span class="">Staff</span></a></li><li id="mobile-menu-item-7482" class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/faculty-search/"><span class="">Faculty Search</span></a></li><li id="mobile-menu-item-1111" class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/lecturers/"><span class="">Lecturers</span></a></li></ul></li><li id="mobile-menu-item-1756" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/resources/"><span class="menu-text">Resources and Opportunities</span></a></li><li id="mobile-menu-item-6561" class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/events/"><span class="menu-text">Events</span></a></li><li id="mobile-menu-item-990" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/blog/"><span class="menu-text">Blog</span></a></li><li id="mobile-menu-item-11233" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/contact/"><span class="menu-text">Contact</span></a></li><li id="mobile-menu-item-11232" class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/apply/"><span class="menu-text">Apply</span></a></li></ul></div>
+
+			</div>
+				<div class="social-icons">
+					<div class="social-wrap">
+						<a class="fusion-icon-twitter"></a>
+						<a class="fusion-icon-facebook"></a>
+					</div>
+				</div>
+		</div>
+	</div>
+	<div id="wrapper" class="" style="">
+		<div id="home" style="position:relative;top:1px;"></div>
+				
+							
+<div id="side-header-sticky"></div>
+<div id="side-header" class="clearfix fusion-mobile-menu-design-modern fusion-sticky-logo-1 fusion-mobile-logo-1 fusion-sticky-menu- header-shadow bounceInLeft" style="position: fixed;">
+	<div class="side-header-wrapper">
+						<div class="side-header-content fusion-logo-left fusion-mobile-logo-1">
+			<div class="fusion-logo" data-margin-top="31px" data-margin-bottom="31px" data-margin-left="0px" data-margin-right="0px">
+				<a class="fusion-logo-link" href="https://cee.mit.edu">
+						<img src="//cee.mit.edu/wp-content/uploads/2017/03/cee-mit-logo.png" alt="MIT CEE" class="fusion-logo-1x fusion-standard-logo" width="240" height="473">
+
+															<img src="//cee.mit.edu/wp-content/uploads/2017/03/cee-mit-logo.png" alt="MIT CEE" style="max-height: 473px; height: auto;" class="fusion-standard-logo fusion-logo-2x" width="240" height="473">
+			
+			<!-- mobile logo -->
+											<img src="//cee.mit.edu/wp-content/uploads/2016/07/MASTHEADMobile.png" alt="MIT CEE" class="fusion-logo-1x fusion-mobile-logo-1x" width="60" height="34">
+
+									<img src="//cee.mit.edu/wp-content/uploads/2016/07/MASTHEADMobile.png" alt="MIT CEE" class="fusion-logo-2x fusion-mobile-logo-2x" width="60" height="34">
+							
+			<!-- sticky header logo -->
+					</a>
+		</div>
+		</div>
+		<div class="fusion-main-menu-container fusion-logo-menu-left">
+			<div class="fusion-main-menu"><ul id="menu-main-menu-1" class="fusion-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1028"><a href="https://cee.mit.edu/"><span class="menu-text">Home</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-878 fusion-dropdown-menu"><a href="https://cee.mit.edu/about/" aria-haspopup="true"><span class="menu-text">About</span></a> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span><ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-933 fusion-dropdown-submenu"><a href="https://cee.mit.edu/about/mission/"><span class="">Mission</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10540 fusion-dropdown-submenu"><a href="https://cee.mit.edu/about/diversity-and-inclusion/"><span class="">Diversity and Inclusion</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-931 fusion-dropdown-submenu"><a href="https://cee.mit.edu/about/giving-to-cee/"><span class="">Give to CEE</span></a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-843 fusion-dropdown-menu"><a href="https://cee.mit.edu/undergraduate/" aria-haspopup="true"><span class="menu-text">Undergraduate</span></a> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span><ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881 fusion-dropdown-submenu"><a href="https://cee.mit.edu/undergraduate/undergraduate-degrees/"><span class="">Undergraduate Degrees</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8429 fusion-dropdown-submenu"><a href="https://cee.mit.edu/undergraduate/minors/"><span class="">Minors</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1749 fusion-dropdown-submenu"><a href="https://cee.mit.edu/undergraduate/undergraduate-opportunities/"><span class="">Undergraduate Opportunities</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1746 fusion-dropdown-submenu"><a href="https://cee.mit.edu/undergraduate/undergraduate-student-life/"><span class="">Undergraduate Student Life</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8433 fusion-dropdown-submenu"><a href="https://cee.mit.edu/undergraduate/educational-objectives-and-outcomes/"><span class="">Educational Objectives and Outcomes</span></a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-853 fusion-dropdown-menu"><a href="https://cee.mit.edu/graduate/" aria-haspopup="true"><span class="menu-text">Graduate</span></a> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span><ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1755 fusion-dropdown-submenu"><a href="https://cee.mit.edu/graduate/graduate-degree/"><span class="">Graduate Degrees</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1757 fusion-dropdown-submenu"><a href="https://cee.mit.edu/graduate/admissions/"><span class="">Graduate Admissions</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7485 fusion-dropdown-submenu"><a href="https://cee.mit.edu/graduate/grad-timeline-and-faq/"><span class="">Graduate Timeline and FAQ</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8102 fusion-dropdown-submenu"><a href="https://cee.mit.edu/graduate/graduate-funding/"><span class="">Graduate Funding</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1747 fusion-dropdown-submenu"><a href="https://cee.mit.edu/graduate/graduate-student-life/"><span class="">Graduate Student Life</span></a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7960"><a href="https://cee.mit.edu/postdoctorate/"><span class="menu-text">Postdoctorate</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-992 fusion-dropdown-menu"><a href="https://cee.mit.edu/research/" aria-haspopup="true"><span class="menu-text">Research</span></a> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span><ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1931 fusion-dropdown-submenu"><a href="https://cee.mit.edu/research/ecology/"><span class="">Ecological Systems</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932 fusion-dropdown-submenu"><a href="https://cee.mit.edu/research/resources/"><span class="">Resources and Sustainability</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1930 fusion-dropdown-submenu"><a href="https://cee.mit.edu/research/infrastructure/"><span class="">Structures and Design</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1928 fusion-dropdown-submenu"><a href="https://cee.mit.edu/research/urban-systems/"><span class="">Urban Systems</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1929 fusion-dropdown-submenu"><a href="https://cee.mit.edu/research/global-systems/"><span class="">Global Systems</span></a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-991 fusion-dropdown-menu"><a href="https://cee.mit.edu/people/" aria-haspopup="true"><span class="menu-text">People</span></a> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1110 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/faculty/"><span class="">Faculty</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1113 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/postdocs/"><span class="">Postdocs</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1112 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/researchers/"><span class="">Researchers</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1114 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/staff/"><span class="">Staff</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7482 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/faculty-search/"><span class="">Faculty Search</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1111 fusion-dropdown-submenu"><a href="http://cee.mit.edu/people/lecturers/"><span class="">Lecturers</span></a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1756"><a href="https://cee.mit.edu/resources/"><span class="menu-text">Resources and Opportunities</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6561"><a href="http://cee.mit.edu/events/"><span class="menu-text">Events</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-990"><a href="https://cee.mit.edu/blog/"><span class="menu-text">Blog</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11233"><a href="https://cee.mit.edu/contact/"><span class="menu-text">Contact</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11232 fusion-last-menu-item"><a href="https://cee.mit.edu/apply/"><span class="menu-text">Apply</span></a></li></ul></div>			<div class="fusion-mobile-menu-icons">
+							<a href="#" class="fusion-icon fusion-icon-bars"></a>
+		
+		
+			</div>
+
+
+<div class="fusion-mobile-nav-holder"><ul id="menu-main-menu-1" class="fusion-menu"><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/"><span class="menu-text">Home</span></a></li><li class="fusion-mobile-nav-item" style=""><span href="#" aria-haspopup="true" class="fusion-open-submenu"></span><a href="https://cee.mit.edu/about/"><span class="menu-text">About</span></a> <ul class="sub-menu" style="display: none;"><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/about/mission/"><span class="">Mission</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/about/diversity-and-inclusion/"><span class="">Diversity and Inclusion</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/about/giving-to-cee/"><span class="">Give to CEE</span></a></li></ul></li><li class="fusion-mobile-nav-item" style=""><span href="#" aria-haspopup="true" class="fusion-open-submenu"></span><a href="https://cee.mit.edu/undergraduate/"><span class="menu-text">Undergraduate</span></a> <ul class="sub-menu" style="display: none;"><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/undergraduate/undergraduate-degrees/"><span class="">Undergraduate Degrees</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/undergraduate/minors/"><span class="">Minors</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/undergraduate/undergraduate-opportunities/"><span class="">Undergraduate Opportunities</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/undergraduate/undergraduate-student-life/"><span class="">Undergraduate Student Life</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/undergraduate/educational-objectives-and-outcomes/"><span class="">Educational Objectives and Outcomes</span></a></li></ul></li><li class="fusion-mobile-nav-item" style=""><span href="#" aria-haspopup="true" class="fusion-open-submenu"></span><a href="https://cee.mit.edu/graduate/"><span class="menu-text">Graduate</span></a> <ul class="sub-menu" style="display: none;"><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/graduate/graduate-degree/"><span class="">Graduate Degrees</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/graduate/admissions/"><span class="">Graduate Admissions</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/graduate/grad-timeline-and-faq/"><span class="">Graduate Timeline and FAQ</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/graduate/graduate-funding/"><span class="">Graduate Funding</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/graduate/graduate-student-life/"><span class="">Graduate Student Life</span></a></li></ul></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/postdoctorate/"><span class="menu-text">Postdoctorate</span></a></li><li class="fusion-mobile-nav-item" style=""><span href="#" aria-haspopup="true" class="fusion-open-submenu"></span><a href="https://cee.mit.edu/research/"><span class="menu-text">Research</span></a> <ul class="sub-menu" style="display: none;"><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/research/ecology/"><span class="">Ecological Systems</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/research/resources/"><span class="">Resources and Sustainability</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/research/infrastructure/"><span class="">Structures and Design</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/research/urban-systems/"><span class="">Urban Systems</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/research/global-systems/"><span class="">Global Systems</span></a></li></ul></li><li class="fusion-mobile-nav-item" style=""><span href="#" aria-haspopup="true" class="fusion-open-submenu"></span><a href="https://cee.mit.edu/people/"><span class="menu-text">People</span></a> <ul class="sub-menu" style="display: none;"><li class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/faculty/"><span class="">Faculty</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/postdocs/"><span class="">Postdocs</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/researchers/"><span class="">Researchers</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/staff/"><span class="">Staff</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/faculty-search/"><span class="">Faculty Search</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/people/lecturers/"><span class="">Lecturers</span></a></li></ul></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/resources/"><span class="menu-text">Resources and Opportunities</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="http://cee.mit.edu/events/"><span class="menu-text">Events</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/blog/"><span class="menu-text">Blog</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/contact/"><span class="menu-text">Contact</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://cee.mit.edu/apply/"><span class="menu-text">Apply</span></a></li></ul></div>
+
+		</div>
+
+		
+								
+			<div class="side-header-content side-header-content-1-2">
+											</div>
+		
+					<div class="side-header-content side-header-content-3">
+				<div class="fusion-header-content-3-wrapper"><div class="fusion-header-banner"></div></div>			</div>
+		
+			</div>
+	<div class="side-header-background"></div>
+	<div class="side-header-border"></div>
+</div>
+		
+		<div id="sliders-container">
+					</div>
+				
+							
+		
+		
+						<div id="main" class="clearfix width-100" style="padding-left:0px;padding-right:0px;">
+			<div class="fusion-row" style="max-width:100%;"><div id="content" class="portfolio-full" style="width: 100%;">
+	
+	
+			<div id="post-1875" class="post-1875 avada_portfolio type-avada_portfolio status-publish format-standard has-post-thumbnail hentry portfolio_category-faculty portfolio_category-urban-systems">
+			
+																		<div class="fusion-flexslider flexslider fusion-post-slideshow post-slideshow">
+							<ul class="slides">
+																																																																																																																																																																																			</ul>
+						</div>
+												
+						<div class="project-content clearfix">
+				
+			<span class="entry-title" style="display: none;">
+			Nigel H.M. Wilson		</span>
+	
+			<span class="vcard" style="display: none;">
+			<span class="fn">
+				<a href="https://cee.mit.edu/author/mituser2/" title="Posts by EagleDream Webdev" rel="author">EagleDream Webdev</a>			</span>
+		</span>
+	
+			<span class="updated" style="display:none;">
+			2017-04-04T14:28:17+00:00		</span>
+	
+				<div class="project-description post-content" style=" width:100%;">
+											<h3 style="display:none;" data-fontsize="28" data-lineheight="42">Project Description</h3>
+										<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#ffffff;margin-left: auto;margin-right: auto;margin-top:5%;"></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-1  fusion-parallax-none nonhundred-percent-fullwidth faculty-with-photo" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:20px;padding-top:20px;padding-left:0px;padding-right:0px;background-color:#ffffff;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;-ms-filter: &quot;progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://cee.mit.edu/wp-content/uploads/2016/07/nigelWilson-e1475084657521.png', sizingMethod='scale')&quot;;background-image: url(http://cee.mit.edu/wp-content/uploads/2016/07/nigelWilson-e1475084657521.png);" id="nigelWilson"><style type="text/css" scoped="scoped">.fusion-fullwidth-1 {
+                            padding-left: 0px !important;
+                            padding-right: 0px !important;
+                        }</style><div class="fusion-row"><div class="fusion-one-half fusion-layout-column fusion-column-last fusion-spacing-yes faculty-with-photo-info" style="margin-top:20%;margin-bottom:20%;"><div class="fusion-column-wrapper"><div id="infoDiv">
+<h2 data-fontsize="50" data-lineheight="80">Nigel Wilson</h2>
+<p class="fac-listing-title">Professor</p>
+<p class="fac-listing-rinterests"><strong>Research Interests:</strong> urban transportation systems</p>
+</div>
+<div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div></div></div><div class="fusion-fullwidth fullwidth-box fusion-fullwidth-2  fusion-parallax-none nonhundred-percent-fullwidth faculty-with-photo-bodyInfo" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:20px;padding-top:20px;padding-left:0px;padding-right:0px;background-color:#212121;"><style type="text/css" scoped="scoped">.fusion-fullwidth-2 {
+                            padding-left: 0px !important;
+                            padding-right: 0px !important;
+                        }</style><div class="fusion-row"><div class="fusion-title title fusion-sep-none fusion-title-size-three fusion-border-below-title" style="margin-top:5%;margin-bottom:31px;"><h3 class="title-heading-left" data-fontsize="28" data-lineheight="42">Connect</h3></div><p>MIT<br>
+Room 1-238<br>
+77 Massachusetts Avenue<br>
+Cambridge, MA, 02139</p>
+<p><em>Telephone:&nbsp;617.253.5046<br>
+</em><em>Email:&nbsp;</em>nhmw@mit.edu<br>
+<em>Assistant:</em>&nbsp;Tse Yiu, Mei-Chun Ruth&nbsp;/&nbsp;<a href="mailto:ryiu@mit.edu">ryiu@mit.edu<br>
+</a><em>Research Website:</em>&nbsp;<a href="http://transitlab.mit.edu/">http://transitlab.mit.edu</a></p>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#e0dede;margin-left: auto;margin-right: auto;margin-top:50px;"></div><div class="fusion-title title fusion-sep-none fusion-title-size-three fusion-border-below-title" style="margin-top:0px;margin-bottom:31px;"><h3 class="title-heading-left" data-fontsize="28" data-lineheight="42">Education</h3></div><ul>
+<li>B.Sc.(Eng) 1965, Imperial College, London University</li>
+<li>S.M. 1967, MIT</li>
+<li>Ph.D. 1970, MIT</li>
+</ul>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#e0dede;margin-left: auto;margin-right: auto;margin-top:50px;"></div><div class="fusion-title title fusion-sep-none fusion-title-size-three fusion-border-below-title" style="margin-top:0px;margin-bottom:31px;"><h3 class="title-heading-left" data-fontsize="28" data-lineheight="42">Research Interests</h3></div><ul>
+<li>Public transportation</li>
+<li>Transport system design</li>
+<li>New transportation systems</li>
+</ul>
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="border-color:#e0dede;margin-left: auto;margin-right: auto;margin-top:50px;"></div><div class="fusion-title title fusion-sep-none fusion-title-size-three fusion-border-below-title" style="margin-top:0px;margin-bottom:31px;"><h3 class="title-heading-left" data-fontsize="28" data-lineheight="42">Selected Publications</h3></div><p>1. Wilson, N., “Opportunities Provided by Automated Data Collection Systems,” in ‘Restructuring Public Transport through Bus Rapid Transit.” The Policy Press, University of Bristol, publication pending (February 2016).</p>
+<p>2. Sanchez-Martinez, G.E., H.N. Koutsopoulos, and N.H.M. Wilson.&nbsp; “Event-Driven Holding Control for High-Frequency Transit.”&nbsp; Transportation Research Record: Journal of the Transportation Research Board, No. 2535, pp 65-72 (2015).</p>
+<p>3. Delgado, F., J.C. Munoz, R. Giesen, and N.H.M. Wilson. &nbsp; “Integrated Real-Time Transit Signal Priority Control for High-Frequency Transit Service.”&nbsp; Transportation Research Record: Journal of the Transportation Research Board, No. 2533, pp 28-38 (2015).</p>
+<p>4. Tribone, D., D. Block-Schachter, F.P. Salvucci, J. Attanucci, and N.H.M. Wilson.&nbsp; “An Automated Data Driven Performance Regime for Operations Management, Planning, and Control.” Transportation Research Record: Journal of the Transportation Research Board, No. 2415, pp 72-79 (2014).</p>
+<p>5. TRB Special Report 313 (co-author): “Framing Surface Transportation Research for the Nation’s Future.”&nbsp; National Academy of Engineering, Research Frameworks Committee (2013).</p>
+<p>6. Zhao, J., M. Frumin, N. Wilson, and Z. Zhao, “Unified estimator for excess journey time under heterogeneous passenger incidence behavior using smartcard data.”&nbsp; Transportation Research Part C: Emerging Technologies 34, pp 70–88 (2013).</p>
+<p>7. Gordon, J.B., H.N. Koutsopoulos, N.H.M. Wilson, and J.P. Attanucci.&nbsp; “Automated Inference of Linked Transit Journeys in London Using Fare-Transaction and Vehicle Location Data.” Transportation Research Record: Journal of the Transportation Research Board, No. 2343, pp 17-24 (2013).</p>
+<p>8. Frumin, M., J. Zhao, N.H.M. Wilson, and Z. Zhao.&nbsp; “Automatic Data for Applied Railway Management: A Case Study on the London Overground. Transportation Research Record: Journal of the Transportation Research Board, No. 2353, pp 47-56 (2013).</p>
+<p>9. Hickey, S.W., E.C. Paul, and N.H.M. Wilson.&nbsp; “Using automatically collected data to measure passenger experience: Applications to London Underground.”&nbsp; Proceedings of the 12<sup>th</sup> Conference on Advanced Systems for Public Transport.&nbsp; Santiago, Chile, July 2012.</p>
+<p>10. Raveau, S., Z. Guo, J.C. Muñoz, and N.H.M. Wilson.&nbsp; “Route Choice Modelling on Metro Networks.” Proceedings of the 12<sup>th</sup> Conference on Advanced Systems for Public Transport.&nbsp; Santiago, Chile, July 2012.</p>
+<p>11. Wang, W., J.P. Attanucci, and N.H.M. Wilson.&nbsp; “Bus Passenger Origin-Destination Estimation and Related Analyses Using Automated Data Collection Systems.” Journal of Public Transportation, Vol. 14, No. 4, pp 111-130 (2011).</p>
+<p>12. Guo, Z. and N.H.M. Wilson. ” Assessing the Cost of Transfer Inconvenience in Public Transport Systems: A Case Study of the London Underground.” Transportation Research Part A: Policy and Practice. Vol. 45, Issue 2, pp 91-104 (2011).</p>
+<p>13. Extraboard Workforce Planning for Bus Transit Operations. Gupta, D., F. Li, and N. Wilson.&nbsp; Center for Urban and Regional Affairs, University of Minnesota.&nbsp; CURA Reporter Volume 41, No. 3 and 4, pp 11-18 (2011).</p>
+<p>14. Carrel, A., R.G. Mishalani, N.H.M. Wilson, J. Attanucci, and A.B. Rahbee. “Decision Factors in Service Control on a High‐frequency Metro Line and Their Importance in Service Delivery.” Transportation Research Record: Journal of the Transportation Research Board, Vol. 2146, pp 52-59 (2010).</p>
+<p>15. <span class="s1">Uniman, D.L., J. Attanucci, R.G. Mishalani, and N.H.M. Wilson. “Service Reliability Measurement Using Automated Fare Card Data: Application to the London Underground.” Transportation Research Record: Journal of the Transportation Research Board, pp 92-99 (2010).</span></p>
+<p>16. <span class="s1">van Oort, N., N.H.M. Wilson, and R. van Nes. “Reliability Improvement in Short Headway Transit Services: Schedule- and Headway-Based Holding Strategies.” Transportation Research Record: Journal of the Transportation Research Board, V 2143, pp 67-76 (2010).</span></p>
+<p>17. <span class="s1">Zureiqat, H., N.H. Wilson, and J. Attanucci. “Fare Policy Analysis for Public Transport: A Discrete-Continuous Modeling Approach Using Panel Data.” TRB Paper #09-1591.&nbsp; In <i>Proceedings of the 88<sup>th</sup> Annual Meeting of the Transportation Research Board</i>.&nbsp; CD-ROM.&nbsp; Transportation Research Board of the National Academies, Washington D.C. (2009).</span></p>
+<p>18. <span class="s1">Seaborn, Catherine, N.H.M. Wilson, and J. Attanucci. “Using Smart Card Fare Payment Data to Analyze Multimodal Public Transport Journeys in London.” Transportation Research Record: Journal of the Transportation Research Board, pp 55-62 (2009).</span></p>
+<p>19. <span class="s1">Wilson, N.H.M., A. Rahbee, and J. Zhao. “The Potential Impact of Automated Data Collection Systems on Urban Public Transport Planning.” Schedule-Based Modeling of Transportation Networks: Theory and Applications, pp 75-99. Springer, 2009.</span></p>
+<p>20. <span class="s1">Wilson, N.H.M. and A. Nuzzolo (eds.), Schedule-Based Modeling of Transportation Networks: Theory and applications. Operations Research/Computer Science Interfaces Series, Vol. 46. Springer (2008).</span></p>
+<p>21. <span class="s1">Wilson, Nigel H.M., John P. Attanucci, Joanne Chan, and Alex Cui. 2008. “The use of automated data collection systems to improve public transport performance.” Proceedings of the 10th International Conference on Application of Advanced Technologies in Transportation. Athens, May 2008.</span></p>
+<p>22. <span class="s1">Panglinan, C., N.H.M. Wilson and A. Dluger. “Bus Supervision Deployment Strategies and the Use of Real-Time AVL for Improved Bus Service Reliability.” Transportation Research Record: Journal of the Transportation Research Board 2063, pp 28-33 (2008).</span></p>
+<p>23. <span class="s1">Puong, A, and N.H.M. Wilson, “A Train Holding Model for Urban Rail Transit Systems.” Proceedings of 2004 conference on Computer Aided Scheduling of Public Transport, Lecture Notes in Economics and Mathematical Systems (S. Voss, editor), pp 319-337 (2008).</span></p>
+<p>24. <span class="s1">Guo, Z., N.H.M. Wilson, and A. Rahbee. “The Impact of Weather on Transit Ridership in Chicago.” Transportation Research Record: Journal of the Transportation Research Board, Vol. 2034, pp 3-10 (2007).</span></p>
+<p>25. <span class="s1">Guo, Z. and N.H.M. Wilson, “Modeling the Effects of Transit System Transfers on Travel Behavior: The Case of Commuter Rail and Subway in Downtown Boston.” Transportation Research Record: Journal of the Transportation Research Board 2006, pp 11-20 (2007).</span></p>
+<p>26. <span class="s1">Zhao, J., A. Rahbee, and N.H.M. Wilson, “Estimating a Rail Passenger Trip Origin-Destination Matrix Using Automatic Data Collection Systems.” Computer-Aided Civil and Infrastructure Engineering 22, pp 376-387 (2007).</span></p>
+<p>27. <span class="s1">Utsunomiya, M., J. Attanucci, and N. Wilson. “Potential Uses of Transit Smart Card Registration and Transaction Data to Improve Transit Planning.” Transportation Research Record: Journal of the Transportation Research Board 1971, pp 119-126 (2006).</span></p>
+<p>28. <span class="s1">Wilson, N.H.M., J. Zhao, and A. Rahbee, “The Potential Impact of Automated Data Collection Systems on Urban Public Transport Planning.” TRAIL Research School, Delft, May 2005.</span></p>
+<p>29. <span class="s1">Guo, Z and N.H.M. Wilson, “Assessment of the Transfer Penalty for Transit Trips: A GIS-based Disaggregate Modeling Approach.” Transportation Research Record 1872, pp 10-18 (2004).</span></p>
+<p>30. <span class="s1">Wilson, N.H.M. and A. Nuzzolo (eds.), Schedule-Based Dynamic Transit Modeling: Theory and Applications. Kluwer Academic Publishers (2004).</span></p>
+<p>31. <span class="s1">Wilson, N.H.M., “An Optimal Integrated Real-Time Disruption Control Model for Rail Transit Systems.” Papers of TRAIL Seminar on Rail Operations at TU Delft, March 2002.</span></p>
+<p>32. <span class="s1">Wilson, N.H.M., “Public Transport in the USA: A Critical Appraisal and Prospects for Future Industry Restructuring.” Papers of TRAIL Seminar on Competition, Public Transport, and Service Innovations at TU Delft, March 2002.</span></p>
+<p>33. <span class="s1">Rye, T. and Wilson, N.H.M., “The Urban Bus Situation in the UK: Recent Developments and a Case Study of Edinburgh.” Papers of TRAIL Seminar on Competition, Public Transport, and Service Innovations at TU Delft, March 2002.</span></p>
+<p>34. <span class="s1">Izquierdo-Encarnación, J.M.; Mercado, L.E.; Colucci, B.; Salvucci, F.P.; Wilson, N.H.M.; “A New Model for Applied University Research and Professional Development: The Tren Urbano Program.” Transportation Research Record 1812, pp 161-168 (2002).</span></p>
+<p>35. <span class="s1">“Contracting for Bus and Demand-Responsive Transit Services” (Nigel Wilson was one of 12 committee members responsible for this report). Transportation Research Board Special Report 258, National Academy Press, Washington DC (2001).</span></p>
+<p>36. <span class="s1">Shiftan, Y. and N.H.M. Wilson, “The Absence Consequences of Overtime in the Transit Industry”, Journal of Public Transportation, Vol. 3, No. 4, pp 25-39 (2001).</span></p>
+<p>37. <span class="s1">Shen, S. and N.H.M. Wilson, “Optimal Integrated Real-Time Disruption Control Model for Rail Transit Systems”, Computer-Aided Scheduling of Public Transport, Lecture Notes in Economics and Mathematical Systems #505 (S. Voss and J. Daduna, co-editors), pp 335-364 (2001).&nbsp;</span></p>
+<p>38. <span class="s1">Eberlein, X.J., Bernstein, D.H. and N.H.M. Wilson, “The Holding Problem with Real-Time Information Available, Transportation Science, Vol. 35, No. 1, pp 1-18 (2001).</span></p>
+<p>39. <span class="s1">González-Quevedo, A.A., B. Colucci, L.E. Mercado-Sherman, K.E. Kruckemeyer, and N.H.M. Wilson, “The Tren Urbano UPR/MIT Professional Development Program”, Journal of Engineering Education, pp 127-132 (2000).</span></p>
+<p>40. <span class="s1">Wilson, N.H.M. (ed.), Lecture Notes in Economics and Mathematical Systems #471: Computer-Aided Scheduling, Springer-Verlag (1999).&nbsp;</span></p>
+<p>41. <span class="s1">Heimburger, D.E., A.Y. Herzenberg, and N.H.M. Wilson, “Using Simple Simulation Models in the Operational Analysis of Rail Transit Lines: A Case Study of the MBTA’s Red Line,” Transportation Research Record 1677, pp 21-30 (1999).</span></p>
+<p>42. <span class="s1">O’Dell, S.W. and N.H.M. Wilson, “Optimal Real-Time Control Strategies for Rail Transit Operations During Disruptions,” Lecture Notes in Economics and Mathematical Systems #471: Computer-Aided Scheduling (ed. by N.H.M. Wilson), Springer-Verlag, pp 299-323 (1999).</span></p>
+<p>43. <span class="s1">Eberlein, X.J., N.H.M. Wilson and D. Bernstein, “Modeling Real-Time Control Strategies in Public Transit Operations,” Lecture Notes in Economics and Mathematical Systems #471: Computer-Aided Scheduling (ed. by N.H.M. Wilson), Springer-Verlag, pp 325-346 (1999).</span></p>
+<p>44. <span class="s1">Eberlein, X.J., M.H.M. Wilson, C. Barnhart and D. Bernstein, “The Real-Time Deadheading Problem in Transit Operations Control,” Transportation Research (Part B), Vol. 32, No. 2, pp 77-100 (1998).</span></p>
+<p>45. <span class="s1">Wilson, N.H.M., “Dispatch/Service Management” section in Transit ITS Compendium, L.B. Wilson (Editor), Published by the Institution for Transportation Engineers (1997).</span></p>
+</div></div>
+				</div>
+							</div>
+
+			<div class="portfolio-sep"></div>
+											
+									</div>
+	</div>
+									</div>  <!-- fusion-row -->
+			</div>  <!-- #main -->
+			
+			
+			
+			
+										
+				<div class="fusion-footer">
+
+																
+						<footer class="fusion-footer-widget-area fusion-widget-area">
+							<div class="fusion-row">
+								<div class="fusion-columns fusion-columns-1 fusion-widget-area">
+									
+																																							<div class="fusion-column fusion-column-last col-lg-12 col-md-12 col-sm-12">
+												<div id="text-3" class="fusion-footer-widget-column widget widget_text">			<div class="textwidget"><div class="row row-eq-height footerRowMobile">
+
+    <div class="col-xs-12 col-sm-12 col-md-2">
+        <div class="footer-logo">
+            <img src="/wp-content/uploads/2017/03/cee-mit-logo.png" alt="CEE Logo" width="150">
+        </div>
+    </div><!-- ./col-->
+
+    <div class="col-xs-12 col-sm-12 col-md-10">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-2 block">
+                <hr class="style1">
+                <input name="footerItem" id="footerAbout" type="checkbox">
+                <label for="footerAbout" class="footerLabel"><span><h4 class="footer-heading" data-fontsize="14" data-lineheight="21"><a href="/about/" class="footer-aTagTopLevel">About</a><span class="footerAccordPlus"><i class="fa fa-plus-square-o" aria-hidden="true"></i></span></h4></span></label>
+                <hr class="style2">
+                <div class="footer-list info">
+                    <ul>
+                        <li><a href="/about/mission">Mission</a></li>
+                        <li><a href="/about/diversity-and-inclusion/">Diversity and Inclusion</a></li>
+                        <li> <a href="/about/giving-to-cee">Giving to CEE</a></li>
+                        <li><a href="/contact">Contact</a></li>
+                        <li><a href="/apply">Apply</a></li>
+                    </ul>
+                </div><!-- ./ul div-->
+            </div><!-- ./col-->
+
+            <div class="col-xs-12 col-sm-12 col-md-2 block">
+                <hr class="style1">
+                <input name="footerItem" id="footerUndergrad" type="checkbox">
+                <label for="footerUndergrad" class="footerLabel"><span><h4 class="footer-heading" data-fontsize="14" data-lineheight="21"><a href="/undergraduate/" class="footer-aTagTopLevel">Undergraduate</a><span class="footerAccordPlus"><i class="fa fa-plus-square-o" aria-hidden="true"></i></span></h4></span></label>
+                <hr class="style2">
+                <div class="footer-list info">
+                    <ul>
+                        <li><a href="/undergraduate/for-prospective-students">Undergraduate Degrees</a></li>
+                        <li><a href="/undergraduate/minors">Minors</a></li>
+                        <li><a href="/undergraduate/undergraduate-opportunities/">Undergraduate Opportunities</a></li>
+                        <li><a href="/undergraduate/undergraduate-student-life">Undergraduate Student Life</a></li>
+                        <li><a href="/undergraduate/educational-objectives-and-outcomes/">Educational Objectives and Outcomes</a></li>
+                    </ul>
+                </div><!-- ./ul div-->
+            </div><!-- ./col-->
+
+            <div class="col-xs-12 col-sm-12 col-md-2 block">
+                <hr class="style1">
+                <input name="footerItem" id="footerGraduate" type="checkbox">
+                <label for="footerGraduate" class="footerLabel"><span><h4 class="footer-heading" data-fontsize="14" data-lineheight="21"><a href="/graduate/" class="footer-aTagTopLevel">Graduate</a><span class="footerAccordPlus"><i class="fa fa-plus-square-o" aria-hidden="true"></i></span></h4></span></label>
+                <hr class="style2">
+                <div class="footer-list info">
+                    <ul>
+                        <li><a href="/graduate/graduate-degree/">Graduate Degrees</a></li>
+                        <li><a href="/graduate/admissions/">Graduate Admissions</a></li>
+                        <li><a href="/graduate/grad-timeline-and-faq/">Graduate Timeline and FAQ</a></li>
+                        <li><a href="/graduate/graduate-funding/">Graduate Funding</a></li>
+                        <li><a href="/graduate/resources/">Graduate Resources and Opportunities</a></li>
+                        <li><a href="/graduate/graduate-student-life/">Graduate Student Life</a></li>
+                    </ul>
+                </div><!-- ./ul div-->
+            </div><!-- ./col-->
+
+            <div class="col-xs-12 col-sm-12 col-md-2 block">
+                <hr class="style1">
+                <input name="footerItem" id="footerResearch" type="checkbox">
+                <label for="footerResearch" class="footerLabel"><span><h4 class="footer-heading" data-fontsize="14" data-lineheight="21"><a href="/research/" class="footer-aTagTopLevel">Research</a><span class="footerAccordPlus"><i class="fa fa-plus-square-o" aria-hidden="true"></i></span></h4></span></label>
+                <hr class="style2">
+                <div class="footer-list info">
+                    <ul>
+                        <li><a href="/research/ecology/">Ecological Systems</a></li>
+                        <li><a href="/research/resources/">Resources and Sustainability</a></li>
+                        <li><a href="/research/infrastructure/">Structures and Design</a></li>
+                        <li><a href="/research/urban-systems/">Urban Systems</a></li>
+                        <li><a href="/research/global-systems/">Global Systems</a></li>
+                    </ul>
+                </div><!-- ./ul div-->
+            </div><!-- ./col-->
+
+            <div class="col-xs-12 col-sm-12 col-md-2 block">
+                <hr class="style1">
+                <input name="footerItem" id="footerPeople" type="checkbox">
+                <label for="footerPeople" class="footerLabel"><span><h4 class="footer-heading" data-fontsize="14" data-lineheight="21"><a href="/people/" class="footer-aTagTopLevel">People</a><span class="footerAccordPlus"><i class="fa fa-plus-square-o" aria-hidden="true"></i></span></h4></span></label>
+                <hr class="style2">
+                <div class="footer-list info">
+                    <ul>
+                        <li><a href="/people/faculty/">Faculty</a></li>
+                        <li><a href="/people/postdocs/">Postdocs</a></li>
+                        <li><a href="/people/researchers/">Researchers</a></li>
+                        <li><a href="/people/staff/">Staff</a></li>
+                        <li><a href="/people/faculty-search/">Faculty Search</a></li>
+<li><a href="/people/lecturers/">Lecturers</a></li>
+                    </ul>
+                </div><!-- ./ul div-->
+            </div><!-- ./col-->
+
+            <div class="col-xs-12 col-sm-12 col-md-2 block" id="socialCol">
+                <hr class="style1">
+                <input name="footerItem" id="footerEvents" type="checkbox">
+                <label for="footerEvents" class="footerLabel"><span><h4 class="footer-heading" data-fontsize="14" data-lineheight="21"><a href="/resources/" class="footer-aTagTopLevel">Resources</a><span class="footerAccordPlus"><i class="fa fa-plus-square-o" aria-hidden="true"></i></span></h4></span></label>
+                <hr class="style2">
+                <div class="footer-list info">
+                    <ul>
+                        <li><a href="/resources/">Resources</a></li>
+                        <li><a href="/events/">Events</a></li>
+                        <li><a href="/blog/">Blog</a></li>
+                    </ul>
+                </div><!-- ./ul div-->
+
+                <div class="footer-social" id="footerSocial">
+                <div class="fusion-social-links"><div class="fusion-social-networks boxed-icons"><div class="fusion-social-networks-wrapper"><a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" style="color:#15222e;background-color:#5b7c86;border-color:#5b7c86;border-radius:50%;" target="_blank" href="https://www.facebook.com/MITCEE" data-placement="top" data-title="Facebook" data-toggle="tooltip" title="" data-original-title="Facebook"></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" style="color:#15222e;background-color:#5b7c86;border-color:#5b7c86;border-radius:50%;" target="_blank" href="https://twitter.com/MIT_CEE" data-placement="top" data-title="Twitter" data-toggle="tooltip" title="" data-original-title="Twitter"></a><a class="fusion-social-network-icon fusion-tooltip fusion-instagram fusion-icon-instagram" style="color:#15222e;background-color:#5b7c86;border-color:#5b7c86;border-radius:50%;" target="_blank" href="https://www.instagram.com/mit_cee/" data-placement="top" data-title="Instagram" data-toggle="tooltip" title="" data-original-title="Instagram"></a><a class="fusion-social-network-icon fusion-tooltip fusion-linkedin fusion-icon-linkedin" style="color:#15222e;background-color:#5b7c86;border-color:#5b7c86;border-radius:50%;" target="_blank" href="https://www.linkedin.com/edu/school?id=165012&amp;trk=tyah&amp;trkInfo=idx%3A5-2-13%2CtarId%3A1424977796014%2Ctas%3Amit+ci" data-placement="top" data-title="Linkedin" data-toggle="tooltip" title="" data-original-title="Linkedin"></a></div></div></div>
+                </div><!-- ./social div-->
+            </div><!-- ./col-->
+
+        </div><!-- ./row-->
+        <div class="row lastFooterRow">
+            <hr class="style2">
+            <div class="col-xs-12 col-sm-12 col-md-6">
+                <p>
+                    Massachusetts Institute of Technology Department of Civil and Environmental Engineering  </p>
+<p> 77 Massachusetts Avenue, Room 1-290 Cambridge, MA 02139-4307    (617) 253-7101
+                </p>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4" style="float: right;">
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//mit.us14.list-manage.com/subscribe?u=b235401836eee84a7611954ca&amp;id=9a8f6eef79" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+    <div id="mc_embed_signup_scroll">
+	
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Sign up for news and updates</label>
+	<input value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Your Email" type="email">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input name="b_b235401836eee84a7611954ca_9a8f6eef79" tabindex="-1" value="" type="text"></div>
+    <div class="clear"></div><input name="subscribe" id="mc-embedded-subscribe" class="button fa-chevron-right" value="" type="submit">
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+                <div class="tfclear"></div> 
+            </div>
+        </div><!-- ./row-->
+    </div><!-- ./col-sm-10 -->
+</div><!-- ./row--></div>
+		<div style="clear:both;"></div></div>																																				</div>
+																																																																																																																		
+									<div class="fusion-clearfix"></div>
+								</div> <!-- fusion-columns -->
+							</div> <!-- fusion-row -->
+						</footer> <!-- fusion-footer-widget-area -->
+					
+																						
+						<footer id="footer" class="fusion-footer-copyright-area">
+							<div class="fusion-row">
+								<div class="fusion-copyright-content">
+
+											<div class="fusion-copyright-notice" style="padding-bottom: 0px;">
+			<div><div class="col-sm-6" style="
+    margin-top: 0.75%;"><a href="http://web.mit.edu/">MIT Home</a></div> <div class="col-sm-6"><p class="footerRight" style="float: right;"><!--  Privacy Policy   |   Terms of Use   |   Sitemap --></p></div></div>
+		</div>
+					<div class="fusion-social-links-footer" style="display: none;">
+							</div>
+		
+								</div> <!-- fusion-fusion-copyright-content -->
+							</div> <!-- fusion-row -->
+						</footer> <!-- #footer -->
+									</div> <!-- fusion-footer -->
+					</div> <!-- wrapper -->
+
+				
+		<a class="fusion-one-page-text-link fusion-page-load-link"></a>
+
+		<!-- W3TC-include-js-head -->
+
+		<script type="text/javascript" src="http://cee.mit.edu/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/cee.mit.edu\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cee.mit.edu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1"></script>
+<script type="text/javascript" src="http://cee.mit.edu/wp-includes/js/comment-reply.min.js?ver=4.5.9"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var toTopscreenReaderText = {"label":"Go to Top"};
+var js_local_vars = {"admin_ajax":"https:\/\/cee.mit.edu\/wp-admin\/admin-ajax.php","admin_ajax_nonce":"d8ed3df632","protocol":"","theme_url":"http:\/\/cee.mit.edu\/wp-content\/themes\/Avada","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","page_smoothHeight":"false","flex_smoothHeight":"true","language_flag":"en","infinite_blog_finished_msg":"<em>All posts displayed.<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>","infinite_blog_text":"<em>Loading the next set of posts...<\/em>","portfolio_loading_text":"<em>Loading Portfolio Items...<\/em>","faqs_loading_text":"<em>Loading FAQ Items...<\/em>","order_actions":"Details","avada_rev_styles":"0","avada_styles_dropdowns":"1","blog_grid_column_spacing":"40","blog_pagination_type":"Infinite Scroll","carousel_speed":"2500","counter_box_speed":"1000","content_break_point":"850","disable_mobile_animate_css":"0","disable_mobile_image_hovers":"1","portfolio_pagination_type":"Infinite Scroll","form_bg_color":"#ffffff","header_transparency":"1","header_padding_bottom":"0px","header_padding_top":"0px","header_position":"Left","header_sticky":"1","header_sticky_tablet":"0","header_sticky_mobile":"0","header_sticky_type2_layout":"menu_only","sticky_header_shrinkage":"1","is_responsive":"1","is_ssl":"false","isotope_type":"masonry","layout_mode":"wide","lightbox_animation_speed":"Normal","lightbox_arrows":"1","lightbox_autoplay":"0","lightbox_behavior":"all","lightbox_desc":"1","lightbox_deeplinking":"1","lightbox_gallery":"1","lightbox_opacity":"0.90","lightbox_path":"vertical","lightbox_post_images":"1","lightbox_skin":"metro-white","lightbox_slideshow_speed":"5000","lightbox_social":"1","lightbox_title":"1","lightbox_video_height":"720","lightbox_video_width":"1280","logo_alignment":"Left","logo_margin_bottom":"31px","logo_margin_top":"31px","megamenu_max_width":"1100","mobile_menu_design":"modern","nav_height":"40","nav_highlight_border":"3","page_title_fading":"0","pagination_video_slide":"0","related_posts_speed":"2500","submenu_slideout":"1","side_header_break_point":"850","sidenav_behavior":"Hover","site_width":"1300px","slider_position":"below","slideshow_autoplay":"1","slideshow_speed":"7000","smooth_scrolling":"0","status_lightbox":"1","status_totop_mobile":"0","status_vimeo":"0","status_yt":"1","testimonials_speed":"4000","tfes_animation":"sides","tfes_autoplay":"1","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150","title_style_type":"double","title_margin_top":"0px","title_margin_bottom":"31px","typography_responsive":"0","typography_sensitivity":"0.6","typography_factor":"1.50","woocommerce_shop_page_columns":"","woocommerce_checkout_error":"Not all fields have been filled in correctly.","side_header_width":"203"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cee.mit.edu/wp-content/themes/Avada/assets/js/main.min.js?ver=1.0.0" async=""></script> 
+<script type="text/javascript" src="http://cee.mit.edu/wp-includes/js/wp-embed.min.js?ver=4.5.9"></script>
+<script type="text/javascript" src="http://cee.mit.edu/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.js?ver=1.5.7"></script>
+<script type="text/javascript" src="http://cee.mit.edu/wp-content/plugins/easy-fancybox/jquery.easing.pack.js?ver=1.3"></script>
+<script type="text/javascript" src="http://cee.mit.edu/wp-content/plugins/easy-fancybox/jquery.mousewheel.min.js?ver=3.1.12"></script>
+
+<script type="text/javascript">
+jQuery(document).on('ready post-load', easy_fancybox_handler );
+</script>
+
+		<script>
+    function blah(){
+        var element = document.getElementById("side-header");
+        element.className += " " + 'bounceInLeft';
+    }
+    blah();
+</script>
+
+<script>
+    jQuery('.footerLabel').click(function() {
+    var clicks = jQuery(this).data('clicks');
+    if (clicks) {
+	    jQuery(this).find("span.footerAccordPlus i.fa").removeClass("fa-minus-square-o");
+	    jQuery(this).find("span.footerAccordPlus i.fa").addClass("fa-plus-square-o");
+    } else {
+        jQuery(this).find("span.footerAccordPlus i.fa").removeClass("fa-plus-square-o");
+	    jQuery(this).find("span.footerAccordPlus i.fa").addClass("fa-minus-square-o");
+    }
+    jQuery(this).data("clicks", !clicks);
+});
+</script>
+
+<script>
+    jQuery(document).ready(function() {
+        jQuery('<div id="mobile-nav-logo"><a href="/" class="linkNavLogo"><img src="/wp-content/uploads/2016/10/mobile-logo-cee.png" /></a></div>').insertAfter("#mobile-nav-toggle");
+    
+        if(jQuery('body').hasClass('admin-bar')){
+			jQuery('#mobile-header-wrapper').css('top','41px');
+		}
+		
+		jQuery('#mobile-nav-toggle').click(function(e){
+				jQuery('#mobile-header-wrapper').addClass("mobileNavActive");
+		});
+
+		jQuery('.close-mobile-nav').click(function(){
+				jQuery('#mobile-header-wrapper').removeClass("mobileNavActive");
+		});
+		/*
+            jQuery('.mobile-nav .menu-item a').on('click touchend', function(e) {
+            var el = jQuery(this);
+            var link = el.attr('href');
+            window.location = link;
+            });	
+        */
+    });
+</script>
+
+<script>
+  //apply opacity to arrow
+  jQuery(window).scroll( function(){
+
+  //get scroll position
+  var topWindow = jQuery(window).scrollTop();
+  //multiply by 1.5 so the arrow will become transparent half-way up the page
+  var topWindow = topWindow * 1.5;
+  
+  //get height of window
+  var windowHeight = jQuery(window).height();
+      
+  //set position as percentage of how far the user has scrolled 
+  var position = topWindow / windowHeight;
+  //invert the percentage
+  position = 1.75 - position;
+
+  //define arrow opacity as based on how far up the page the user has scrolled
+  //no scrolling = 1, half-way up the page = 0
+  jQuery('.arrow-wrap').css('opacity', position);
+  //hide arrow if halfway up page
+  if ( position<0 ){
+        jQuery('.arrow-wrap').hide();
+  }
+  else {
+        jQuery('.arrow-wrap').show();
+  }
+
+});
+</script>
+		<!--[if lte IE 8]>
+			<script type="text/javascript" src="http://cee.mit.edu/wp-content/themes/Avada/assets/js/respond.js"></script>
+		<![endif]-->
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ab0374a39e","applicationID":"27787783","transactionName":"Z1QGZBZQVkNYU0YNWV4eJVMQWFdeFkNbClFcVElRElBcUWZAXRZCVl4IWQs=","queueTime":0,"applicationTime":784,"atts":"SxMFEl5KRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div class="to-top-container"><a href="#" id="toTop" style="display: none;"><span id="toTopHover"></span><span class="screen-reader-text">Go to Top</span></a></div></body></html>

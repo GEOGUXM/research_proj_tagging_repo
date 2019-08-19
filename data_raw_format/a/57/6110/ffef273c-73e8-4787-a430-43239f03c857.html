@@ -1,0 +1,327 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" version="XHTML+RDFa 1.0" dir="ltr" class="js"><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" src="https://bam.nr-data.net/1/5f31fe5d44?a=14208410&amp;v=1026.7a27a3e&amp;to=M1wHYBYCXkJZWxcLWAoWJFcQCl9fF0oGBlIXUAJaOw1fVV1nEwNQAWYTXQEUb15OXREQXgBc&amp;rst=10255&amp;ref=http://www.vub.ac.be/people/leo-audenhove&amp;ap=2782&amp;be=4997&amp;fe=10243&amp;dc=7575&amp;perf=%7B%22timing%22:%7B%22of%22:1498025690693,%22n%22:0,%22r%22:2,%22re%22:1749,%22f%22:1749,%22dn%22:1749,%22dne%22:1749,%22c%22:1749,%22ce%22:1749,%22rq%22:1749,%22rp%22:1749,%22rpe%22:1749,%22dl%22:4985,%22di%22:7547,%22ds%22:7574,%22de%22:7605,%22dc%22:10242,%22l%22:10242,%22le%22:10244%7D,%22navigation%22:%7B%22rc%22:1%7D%7D&amp;at=HxsEFl4YTUw%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script src="https://connect.facebook.net/signals/config/200846427027911?v=2.7.16" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/analytics.js"></script><script src="//www.googletagmanager.com/gtm.js?id=GTM-MNJ7FC" type="text/javascript" async=""></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta property="og:type" content="profile">
+<meta property="og:description" content="Leo Van Audenhove">
+<link rel="shortcut icon" href="http://www.vub.ac.be/sites/vub/files/favicon.ico" type="image/vnd.microsoft.icon">
+<meta property="og:url" content="http://www.vub.ac.be/people/leo-audenhove">
+<meta property="og:title" content="Leo Van Audenhove">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="/people/leo-audenhove">
+<link rel="shortlink" href="/node/6013">
+  <title>Leo Van Audenhove | Vrije Universiteit Brussel</title>
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <link type="text/css" rel="stylesheet" href="http://www.vub.ac.be/sites/vub/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.vub.ac.be/sites/vub/files/css/css_gFYEj66gBXd-6nvreieyjdBkuNmR4fX2kWTGIC_U7ww.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.vub.ac.be/sites/vub/files/css/css_lDZNV7voiHwbl08cPtDBsJJdF7_53Z2Coy5BszFn5gk.css" media="all">
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-bottom{background:#abb202;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.vub.ac.be/sites/vub/files/css/css_zoEQFqn52nMyzivopt2Y4D7R5cf6trR_r4NAIVDp61c.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.vub.ac.be/sites/vub/files/css/css_4Y6hp5yhbifvY5_SLd-CEu7g9_vAW234OnRCqVRh098.css" media="print">
+<link type="text/css" rel="stylesheet" href="http://www.vub.ac.be/sites/vub/files/css/css_KuZIUjjAZ2iuEg8TM95wkHxqGe56ZYILqUZ3DDUw6Ig.css" media="all">
+  <script type="text/javascript" src="http://www.vub.ac.be/sites/vub/files/js/js_ri60QNjcazMKdlAmWmDsmRb0iKaVkkXUQxH2MsgpmVo.js"></script>
+<script type="text/javascript" src="http://www.vub.ac.be/sites/vub/files/js/js_Xk8TsyNfILciPNmQPp9sl88cjH71DQWyeHE0MB62KO4.js"></script>
+<script type="text/javascript" src="http://www.vub.ac.be/sites/vub/files/js/js_tEJyN7pgOklDgMjnnPenU88bj7_WZlzj0_91Rphqyn8.js"></script>
+<script type="text/javascript" src="http://www.vub.ac.be/sites/vub/files/js/js_ff9_WoUcxa2HqSECAvJg4GY0sYutM6fuFVyZl0RZ-v8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function() {
+
+    mobilemenu = this;
+    
+    jQuery("#block-menu-menu-mobile-main").wrap("<div class=\"mobilemenu\"></div>");
+    // jQuery("#block-vub-header-vub-top-header").after(function(){jQuery("#block-menu-menu-mobile-main").clone()});
+    // jQuery("#block-search-form").after(function(){ return jQuery("#block-menu-menu-mobile-main").clone()});
+    jQuery("#block-menu-menu-mobile-main").after(function(){ return jQuery("#block-search-form").clone()});
+
+    mobilemenu.removemenu = function() {
+      jQuery(".mobilemenu").toggleClass("expanded").slideUp();
+      jQuery("body").off("click");
+    }
+    
+    jQuery(".mobile_menu_toggle").click(function() {
+      if(!jQuery(".mobilemenu").hasClass("expanded")) {
+        jQuery(".mobilemenu")
+          .toggleClass("expanded")
+            .slideToggle(
+              {"done":function(){
+                  // disable menu-hide click on search form but allow submitting it
+                  jQuery("body").click(mobilemenu.removemenu).find(".l-mainsearch").click(function(e) {return false;}).find("input#edit-submit").click(function(e) {jQuery(this).parents("#search-block-form").submit();});
+                }
+              }
+            );
+          }
+      });
+    });
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.vub.ac.be/sites/vub/files/js/js_mWGN-7feM0dykOe10BsRmXBnwHDP2rhavxgUCxFKCHU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"redesign","theme_token":"pdpRowRBiywGqr9ixCZZWsroWVY7-U1Zv_an-jRCm8o","jquery_version":"1.8","js":{"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/themes\/redesign\/redesign\/slicing\/js\/app.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/custom\/vub_colorbox_load\/vub_colorbox_load.js":1,"public:\/\/languages\/nl_zsu4xeFSiCTLO90fzT4u8EkMJfHOwgq3ZmwjTl84K1o.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/custom\/vub_download\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/custom\/vub_download\/js\/vub_download.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/contrib\/fb_likebox\/jquery.viewport.mini.js":1,"sites\/all\/modules\/contrib\/fb_likebox\/fb_likebox_lazy.js":1,"0":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/custom\/vub_landingpages\/css\/landingpages.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/vub_student_flow\/assets\/css\/student-flow.css":1,"sites\/all\/themes\/redesign\/layouts\/vub_master_layout\/..\/..\/css\/base\/layouts.css":1,"0":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/themes\/redesign\/redesign\/slicing\/css\/main.css":1,"sites\/all\/themes\/redesign\/redesign\/slicing\/css\/components\/navigation.css":1,"sites\/all\/themes\/redesign\/redesign\/slicing\/css\/components\/navigation.responsive.css":1,"sites\/all\/themes\/redesign\/redesign\/slicing\/css\/components\/header.css":1,"sites\/all\/themes\/redesign\/redesign\/slicing\/css\/components\/header.responsive.css":1,"sites\/all\/themes\/redesign\/redesign\/slicing\/css\/components\/footer.css":1,"sites\/all\/themes\/redesign\/redesign\/slicing\/css\/components\/footer.responsive.css":1,"sites\/all\/themes\/redesign\/redesign\/slicing\/css\/main.responsive.css":1,"sites\/all\/themes\/redesign\/redesign\/slicing\/css\/main-ie.css":1,"sites\/all\/themes\/redesign\/redesign\/assets\/css\/admin.css":1,"sites\/all\/themes\/redesign\/css\/style.css":1,"sites\/all\/themes\/redesign\/css\/print.css":1,"sites\/all\/themes\/redesign\/redesign\/assets\/css\/overrides.css":1,"sites\/all\/themes\/redesign\/redesign\/assets\/css\/overrides\/cookie-banner.css":1,"sites\/all\/themes\/redesign\/redesign\/assets\/css\/overrides\/webforms.css":1}},"colorbox":{"opacity":"0.85","current":"{current} van {total}","previous":"\u00ab Vorige","next":"Volgende \u00bb","close":"Sluiten","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleCSE":{"cx":"015485276075399457774:jxr4wuhc2xg","language":"","resultsWidth":600,"domain":"www.google.com"},"field_group":{"fieldset":"full"},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":1,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EDe VUB gebruikt cookies om je bezoek aan onze website zo aangenaam mogelijk te maken.\u00a0\u003C\/h2\u003E\u003Cp\u003EKlik op \u0022Ok, ik ga akkoord\u0022 om verder te gaan.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOk, ik ga akkoord\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003EMeer informatie\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EBedankt voor je toestemming\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EVerbergen\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMeer informatie\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/disclaimer","popup_link_new_window":1,"popup_position":null,"popup_language":"nl","domain":"vub.ac.be"},"urlIsAjaxTrusted":{"\/people\/leo-audenhove":true},"colorbox_node":{"width":"600px","height":"600px"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-6013 node-type-profiel i18n-nl vub-no-sidebars people leo-audenhoveno-touch sliding-popup-processed">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MNJ7FC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MNJ7FC');</script>
+<!-- End Google Tag Manager -->
+<div id="skip-link">
+  <a href="#main-content" class="element-invisible element-focusable">Overslaan en naar de algemene inhoud gaan</a>
+</div>
+<section class="rd-top">
+  <div class="rd-main-navigation-block">
+    <a href="/" class="rd-logo-vub"></a>
+    <nav class="rd-main-navigation">
+      <div class="rd-menu-item"><a href="/opleidingen">Studeren</a><div class="rd-sub-menu"><div class="rd-container rd-has-default-margins"><div class="rd-col-1-3"><h5>Aanbod</h5><a href="/opleiding/bachelors">Bachelor</a><a href="http://www.vub.ac.be/opleiding/schakelprogrammas">Schakelprogramma's</a><a href="/opleiding/voorbereidingsprogrammas">Voorbereidingsprogramma's</a><a href="/opleiding/masters">Master</a><a href="/opleiding/manamas">Master na Master</a><a href="/opleiding/postgraduaten">Postgraduaten</a><a href="/node/31128/">Lerarenopleiding</a><a href="/phd">Doctoreren</a><a href="/werken-studeren">Werken en studeren</a><a href="/daarom">Studeren aan de VUB</a></div><div class="rd-col-1-3"><h5>Praktische info</h5><a href="/node/53961/">Inschrijvingen</a><a href="http://www.geneeskundestuderen.info">Toelatingsexamen</a><a href="/node/36684/">Taaltesten</a><a href="/brochures">Brochures</a><a href="/op-kot">Op kot in Brussel</a></div><div class="rd-col-1-3"><h5>Voor studenten</h5><a href="/academische-kalender">Academische kalender</a><a href="https://my.vub.ac.be/les-en-examenroosters">Lessenroosters</a><a href="https://my.vub.ac.be/studiebegeleiding/studie-en-examenflexibiliteit">Flexibel studeren</a><a href="/reglementen">Reglementen</a><a href="/begeleiding">Studiebegeleidingscentrum</a></div></div><div class="rd-social">Follow us on <a href="https://www.facebook.com/vrijeuniversiteitbrussel/" class="icon-social-facebook"></a><a href="https://twitter.com/vubrussel?lang=nl" class="icon-social-twitter"></a><a href="https://www.instagram.com/vubrussel/" class="icon-social-instagram"></a><a href="https://www.youtube.com/user/VUBrussel" class="icon-social-youtube"></a></div></div></div><div class="rd-menu-item"><a href="/onderzoek">Onderzoek</a><div class="rd-sub-menu"><div class="rd-container rd-has-default-margins"><div class="rd-col-1-4"><h5>Informatie</h5><a href="/onderzoek/beleid">Onderzoeksbeleid en organisatie</a><a href="/onderzoek/beleid/deontologie">Wetenschappelijke Integriteit</a><a href="/onderzoek/beleid/european-research">Europees en internationaal</a></div><div class="rd-col-1-4"><h5>Output</h5><a href="/onderzoek/hall-of-fame">Hall of fame</a><a href="/onderzoek/groepen">Onderzoeksgroepen</a><a href="https://cris.cumulus.vub.ac.be/portal/">Publicaties</a></div><div class="rd-col-1-4"><h5>Primaire onderzoeksdomeinen</h5><a href="/onderzoek/big-data">Big data</a><a href="/onderzoek/brein-gedrag">Brein &amp; Gedrag</a><a href="/onderzoek/kringloop-leven">De kringloop van het leven</a><a href="/onderzoek/in-de-strijd-tegen-ziektes">In de strijd tegen ziektes</a><a href="/onderzoek/kleine-deeltjes">Kleine Deeltjes</a><a href="/onderzoek/maatschappelijke-uitdagingen">Maatschappelijke uitdagingen</a><a href="/onderzoek/natuur-en-ecologie">Natuur en Ecologie</a><a href="/onderzoek/smart-engineering">Smart Engineering</a><a href="/onderzoek/stadsdynamiek">Stadsdynamiek</a></div><div class="rd-col-1-4"><h5>Hulpmiddelen</h5><a href="http://www.wtnschp.be/">Expertisecel Wetenschapscommunicatie</a><a href="https://cris.cumulus.vub.ac.be/portal">Onderzoeksplatform</a><a href="https://intranet.vub.ac.be/research/guide">Projectfunding</a><a href="http://vubtechtransfer.be/">VUB TechTransfer</a></div></div><div class="rd-social">Follow us on <a href="https://www.facebook.com/vrijeuniversiteitbrussel/" class="icon-social-facebook"></a><a href="https://twitter.com/vubrussel?lang=nl" class="icon-social-twitter"></a><a href="https://www.instagram.com/vubrussel/" class="icon-social-instagram"></a><a href="https://www.youtube.com/user/VUBrussel" class="icon-social-youtube"></a></div></div></div><div class="rd-menu-item"><a href="/innovatie">Innovatie</a><div class="rd-sub-menu"><div class="rd-container rd-has-default-margins"><div class="rd-col-1-1"><h5>Samenwerkingsproces</h5><a href="/innovatie/innovatie/funding-applied-industrial-research">Funding Strategic &amp; Applied Research</a><a href="/innovatie/innovatie/h2020-support">H2020 Support</a><a href="/innovatie/innovatie/intellectual-property-management-licensing">Intellectual Property Management &amp; Licensing</a><a href="/innovatie/innovatie/research-parks-incubators">Research Parks &amp; Incubators</a><a href="/innovatie/innovatie/entrepreneurship-education">Entrepreneurship Education</a><a href="/innovatie/innovatie/legal-advice-contract-management">Legal Advice for TechTransfer &amp; Contract Management</a><a href="/innovatie/innovatie/marketing-communication-events">Techtransfer related Marketing, Communication &amp; Events</a><a href="/innovatie/innovatie/spin-off-management">Spin-off Management</a><a href="/innovatie/innovatie/business-cooperation">Business Cooperation</a></div></div><div class="rd-social">Follow us on <a href="https://www.facebook.com/vrijeuniversiteitbrussel/" class="icon-social-facebook"></a><a href="https://twitter.com/vubrussel?lang=nl" class="icon-social-twitter"></a><a href="https://www.instagram.com/vubrussel/" class="icon-social-instagram"></a><a href="https://www.youtube.com/user/VUBrussel" class="icon-social-youtube"></a></div></div></div><div class="rd-menu-item"><a href="/internationaal">Internationaal</a><div class="rd-sub-menu"><div class="rd-container rd-has-default-margins"><div class="rd-col-1-2"><h5>Student</h5><a href="https://my.vub.ac.be/goingabroad">Studeren in het buitenland</a><a href="/node/31296">VUB Exchange programmes</a></div><div class="rd-col-1-2"><h5>Netwerk</h5><a href="/international/old/partners-network">Partners</a><a href="/brussels-diplomatic-academy">Brussels Diplomatic Academy</a><a href="http://www.ies.be/">Institute for European Studies</a><a href="http://www.chinanetworkvub.eu/">VUB China Network</a><a href="http://www.vesalius.edu">Vesalius College</a><a href="http://www.vub.ac.be/en/confucius">Confucius Institute</a></div></div><div class="rd-social">Follow us on <a href="https://www.facebook.com/vrijeuniversiteitbrussel/" class="icon-social-facebook"></a><a href="https://twitter.com/vubrussel?lang=nl" class="icon-social-twitter"></a><a href="https://www.instagram.com/vubrussel/" class="icon-social-instagram"></a><a href="https://www.youtube.com/user/VUBrussel" class="icon-social-youtube"></a></div></div></div><div class="rd-menu-item"><a href="/diensten">Diensten</a><div class="rd-sub-menu"><div class="rd-container rd-has-default-margins"><div class="rd-col-1-3"><h5>Studenten</h5><a href="/daarom">Toekomstige Studenten</a><a href="https://my.vub.ac.be">VUB Studenten</a><a href="/alumni">Alumni</a></div><div class="rd-col-1-3"><h5>Personeel</h5><a href="/over/jobs">Toekomstige Werknemers</a><a href="https://intranet.vub.ac.be/">VUB-personeelsleden</a><a href="http://www.vkp-vub-uz-ehb.be">Oud-werknemers</a></div><div class="rd-col-1-3"><h5>Overige diensten</h5><a href="/leraren">Leraren</a><a href="/onderzoek">Onderzoekers</a><a href="/innovatie">Bedrijven</a><a href="/pers">Journalisten</a><a href="http://www.vub.ac.be/BIBLIO/">VUB Bibliotheek</a><a href="/over/non-profit">Non-profitsector</a></div></div><div class="rd-social">Follow us on <a href="https://www.facebook.com/vrijeuniversiteitbrussel/" class="icon-social-facebook"></a><a href="https://twitter.com/vubrussel?lang=nl" class="icon-social-twitter"></a><a href="https://www.instagram.com/vubrussel/" class="icon-social-instagram"></a><a href="https://www.youtube.com/user/VUBrussel" class="icon-social-youtube"></a></div></div></div><div class="rd-menu-item"><a href="/over">Universiteit</a><div class="rd-sub-menu"><div class="rd-container rd-has-default-margins"><div class="rd-col-1-4"><h5>We are VUB</h5><a href="/we-are-vub">Ken jij de VUB?</a><a href="/2020">VUB2020</a><a href="/foundation">VUB Foundation</a></div><div class="rd-col-1-4"><h5>Infodesk</h5><a href="/over/bestuur">Bestuur</a><a href="/over/netwerk">Netwerk</a><a href="/over/feiten">Feiten en cijfers</a><a href="/pers">Persdesk</a><a href="/over/jobs">Werken aan de VUB</a></div><div class="rd-col-1-4"><h5>Campussen</h5><a href="/campus/brussels-health-campus">Brussels Health Campus</a><a href="/campus/brussels-humanities-sciences-engineering-campus">Brussels Humanities, Sciences &amp; Engineering Campus</a><a href="/campus/brussels-technology-campus">Brussels Technology Campus</a></div><div class="rd-col-1-4"><h5>Faculteiten</h5><a href="/faculteit/economische-en-sociale-wetenschappen-solvay-business-school">Economische en Sociale Wetenschappen &amp; Solvay Business School</a><a href="/faculteit/geneeskunde-en-farmacie">Geneeskunde en Farmacie</a><a href="/faculteit/ingenieurswetenschappen">Ingenieurswetenschappen</a><a href="/faculteit/letteren-en-wijsbegeerte">Letteren en Wijsbegeerte</a><a href="/faculteit/lichamelijke-opvoeding-kinesitherapie">Lichamelijke Opvoeding &amp; Kinesitherapie</a><a href="/faculteit/psychologie-educatiewetenschappen">Psychologie &amp; Educatiewetenschappen</a><a href="/faculteit/recht-en-criminologie">Recht en Criminologie</a><a href="/faculteit/wetenschappen-en-bio-ingenieurswetenschappen">Wetenschappen en Bio-ingenieurswetenschappen</a><a href="/faculteit/idlo">Interfacultair Departement Lerarenopleiding (IDLO)</a></div></div><div class="rd-social">Follow us on <a href="https://www.facebook.com/vrijeuniversiteitbrussel/" class="icon-social-facebook"></a><a href="https://twitter.com/vubrussel?lang=nl" class="icon-social-twitter"></a><a href="https://www.instagram.com/vubrussel/" class="icon-social-instagram"></a><a href="https://www.youtube.com/user/VUBrussel" class="icon-social-youtube"></a></div></div></div>    </nav>
+
+    <div class="rd-right-menu-block">
+      <nav class="rd-language-navigation">
+        <a href="http://www.vub.ac.be">Nederlands</a><a href="http://www.vub.ac.be/en">English</a>      </nav>
+
+      <div class="rd-info-block">
+        Portal for        <span class="icon-arrow-down"></span>
+        <div class="rd-sub-menu">
+          <ul><li><a href="http://www.vub.ac.be">VUB</a></li><li><a href="https://intranet.vub.ac.be">personeel</a></li><li><a href="https://my.vub.ac.be">Studenten</a></li></ul>        </div>
+      </div>
+      <div class="rd-search-block">
+        <span class="icon-search"></span>
+        <div class="rd-sub-search">
+          <form class="google-cse" action="/people/leo-audenhove" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Zoekveld</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Zoeken </label>
+ <input title="Geef de woorden op waarnaar u wilt zoeken." id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" class="form-text" type="text">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input id="edit-submit--2" name="op" value="Zoeken" class="form-submit" type="submit"></div><input name="form_build_id" value="form--7BK0149HWHnvBRhyhQYTl1-QUk2U-zARgVVHyt5Q9Q" type="hidden">
+<input name="form_id" value="search_block_form" type="hidden">
+</div>
+</div></form>        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="rd-mobile-navigation-block">
+    <div class="rd-logo-vub"></div>
+    <div class="rd-menu-button icon-hamburger">
+      <nav class="rd-mobile-main-navigation">
+        <div class="rd-menu-item"><a href="/opleidingen">Studeren</a></div><div class="rd-menu-item"><a href="/onderzoek">Onderzoek</a></div><div class="rd-menu-item"><a href="/innovatie">Innovatie</a></div><div class="rd-menu-item"><a href="/internationaal">Internationaal</a></div><div class="rd-menu-item"><a href="/diensten">Diensten</a></div><div class="rd-menu-item"><a href="/over">Universiteit</a></div>      </nav>
+    </div>
+  </div>
+
+</section>
+  <header>
+          <div class="rd-gallery js-gallery">
+        <div class="rd-hero rd-slide" id="slide-1" style="background-image: url(/sites/all/modules/features/vub_paragraph_types/paragraphs/defaults/hero/beeld60_3200x1500_px38.jpg)">
+            <div class="rd-v-center-outer">
+                <div class="rd-v-center">
+                    <div class="rd-v-center-inner">
+                        <div class="rd-inner-slide">
+                          
+                                                        <h1>
+                                Leo Van Audenhove                              </h1>
+                          
+                                                                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  </header>
+
+<div id="wrapper" class="clearfix">
+   <!-- full width region -->
+  
+  <!-- two column region -->
+  <div class="clearfix">
+    <div class="container ">
+      <div id="content">
+        <h2 class="element-invisible">U bent hier</h2><div class="breadcrumb">VUB Home</div>                                                  <h1 class="title" id="page-title">Leo Van Audenhove</h1>                                            <div class="region region-content">
+    <div id="block-system-main" class="block block-system ">
+                <div class="content">
+      <div class="panel-display panel-vub-master-layout clearfix">
+
+
+  <!--  Row 1 Long  -->
+  
+  <!-- SIDEBAR  -->
+  
+  <!--  LEFT SIDE  -->
+  <div class="cell8">
+    <!--  Content 1  -->
+          <div class="cell8 vub-layouts-content last pane-region">
+        <div class="panel-pane pane-entity-view pane-node">
+  
+      
+  
+  <div class="pane-content">
+    <div class="ds-2col-stacked node node-profiel node-promoted view-mode-full clearfix">
+
+  
+  <div class="group-header">
+      </div>
+
+  <div class="group-left cell4">
+    <div class="field field-name-field-profilepic"><img src="http://www.vub.ac.be/sites/vub/files/styles/large/public/Van%20Audenhove%20Leo_picture_0.jpg?itok=zkS0tLi3" alt="" width="480" height="374"></div>  </div>
+
+  <div class="group-right cell4 last">
+    <h2>Leo Van Audenhove</h2><div class="field field-name-field-specialiteiten"><div class="label-above">Specialisaties:&nbsp;</div><div class="item-list"><ul class="textformatter-list"><li class="first">Media</li>
+<li>Informatiesamenleving</li>
+<li>Telecommunicatie</li>
+<li>Digitale kloof</li>
+<li class="last">Internationale communicatie</li>
+</ul></div></div>  </div>
+
+  <div class="group-footer">
+    <fieldset class=" group-contact field-group-fieldset form-wrapper"><legend><span class="fieldset-legend">Contact</span></legend><div class="fieldset-wrapper"><div class="field field-name-field-telefoon field-type-text field-label-inline clearfix"><div class="field-label">Telefoon:&nbsp;</div><div class="field-items"><div class="field-item even">+32-2-6292415</div></div></div><div class="field field-name-field-email"><div class="label-inline">E-mail:&nbsp;</div>Leo.Van.Audenhove@vub.ac.be</div></div></fieldset>
+  </div>
+
+</div>
+
+  </div>
+
+  
+  </div>
+      </div>
+        
+    <!--  Content 1  -->
+    
+    <!--  Content 2  -->
+        
+    <!--  Tabs region -->
+    
+    <!--  Content 3  -->
+    
+    <!--  Content 4  -->
+        
+  </div>
+
+  <!-- SIDEBAR  -->
+  
+
+  
+  <!--  Row 2 Long  -->
+      <div class="cell12 last pane-region">
+      <div class="panel-pane pane-vub-course-employee-courses">
+  
+        <h2 class="pane-title">
+      Begeleide of gedoceerde vakken:    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="employee-course-offers"><li><span class="vub-colorbox-load"><a href="/en/opleiding/fiches/54771">Internet Censorship, Control and Governance</a> (titular)</span> in <br>
+<ul><li><a href="http://www.vub.ac.be/en/study/gerontological-sciences-windesheim/programme/w/exchange-ba-biology">Exchange agreements</a></li>
+<li><a href="http://www.vub.ac.be/en/study/communication-studies-new-media-and-society-in-europe/programme/r/master-of-science-in-communication-studies">Master of Science in Communication Studies</a></li>
+<li><a href="http://www.vub.ac.be/opleiding/communicatiewetenschappen/programma/r/master-of-science-in-de-communicatiewetenschappen">Master of Science in de communicatiewetenschappen</a></li></ul>
+</li><li><span class="vub-colorbox-load"><a href="/en/opleiding/fiches/55471">Comparative Communication Research</a> (titular)</span> in <br>
+<ul><li><a href="http://www.vub.ac.be/en/study/gerontological-sciences-windesheim/programme/w/exchange-ba-biology">Exchange agreements</a></li>
+<li><a href="http://www.vub.ac.be/en/study/communication-studies-new-media-and-society-in-europe/programme/r/master-of-science-in-communication-studies">Master of Science in Communication Studies</a></li></ul>
+</li><li><span class="vub-colorbox-load"><a href="/en/opleiding/fiches/57696">International Communication</a> (titular)</span> in <br>
+<ul><li><a href="http://www.vub.ac.be/en/study/gerontological-sciences-windesheim/programme/w/exchange-ba-biology">Exchange agreements</a></li>
+<li><a href="http://www.vub.ac.be/en/study/communication-studies-new-media-and-society-in-europe/programme/r/preparatory-programme-communication-studies">Preparatory Programme Master of Science in Communication Studies</a></li>
+<li><a href="http://www.vub.ac.be/opleiding/sociologie/programma/r/bachelor-of-science-in-de-politieke-wetenschappen-en-de-sociologie">Bachelor of Science in de politieke wetenschappen en de sociologie</a></li>
+<li><a href="http://www.vub.ac.be/opleiding/communicatiewetenschappen/programma/r/schakelprogramma-communicatiewetenschappen">Schakelprogramma Master of Science in de communicatiewetenschappen</a></li>
+<li><a href="http://www.vub.ac.be/opleiding/communicatiewetenschappen/programma/r/bachelor-of-science-in-de-communicatiewetenschappen">Bachelor of Science in de communicatiewetenschappen</a></li></ul>
+</li><li><span class="vub-colorbox-load"><a href="/en/opleiding/fiches/58614">Theories on Media, Technology and Society</a> (titular)</span> in <br>
+<ul><li><a href="http://www.vub.ac.be/en/study/gerontological-sciences-windesheim/programme/w/exchange-ba-biology">Exchange agreements</a></li>
+<li><a href="http://www.vub.ac.be/en/study/communication-studies-new-media-and-society-in-europe/programme/r/master-of-science-in-communication-studies">Master of Science in Communication Studies</a></li>
+<li><a href="http://www.vub.ac.be/en/study/educational-sciences/programme/r/master-of-science-in-educational-sciences">Master of Science in Educational Sciences</a></li>
+<li><a href="http://www.vub.ac.be/opleiding/onderwijskunde/programma/r/master-of-science-in-de-onderwijskunde">Master of Science in de onderwijskunde</a></li>
+<li><a href="http://www.vub.ac.be/opleiding/geschiedenis/programma/r/master-of-arts-in-de-geschiedenis">Master of Arts in de geschiedenis</a></li>
+<li><a href="http://www.vub.ac.be/opleiding/communicatiewetenschappen/programma/r/master-of-science-in-de-communicatiewetenschappen">Master of Science in de communicatiewetenschappen</a></li></ul>
+</li><li><span class="vub-colorbox-load"><a href="/opleiding/fiches/90179">Project: Media, Internet en Globalisering</a> (titular)</span> in <br>
+<ul><li><a href="http://www.vub.ac.be/opleiding/communicatiewetenschappen/programma/r/master-of-science-in-de-communicatiewetenschappen">Master of Science in de communicatiewetenschappen</a></li></ul>
+</li></ul>  </div>
+
+  
+  </div>
+    </div>
+    
+    
+    
+  <!--  Row 3 Long  -->
+    
+  
+  <!--  50% + 50%  -->
+  
+  <!--  Row 4 Long  -->
+    
+    
+
+</div>
+    </div>
+</div>
+  </div>
+              </div>
+          </div>
+  </div>
+</div> <!-- /#wrapper -->
+
+<footer>
+  <div class="rd-container has-default-margins">
+    <div class="rd-col-1-4 rd-contact-info">
+              <img src="http://www.vub.ac.be/sites/all/themes/redesign/logo-white.svg" alt=""><hr>
+            <p>
+                  Pleinlaan 2 1050 Brussel<br>
+        
+                  02/629.20.10<br>
+        
+                  <a href="mailto:info@vub.ac.be">info@vub.ac.be</a>
+              </p>
+              <a href="https://www.facebook.com/vrijeuniversiteitbrussel/" target="_blank" class="icon-social-facebook"></a>
+      
+              <a href="https://twitter.com/vubrussel?lang=nl" target="_blank" class="icon-social-twitter"></a>
+      
+              <a href="https://www.instagram.com/vubrussel/" target="_blank" class="icon-social-instagram"></a>
+      
+              <a href="https://www.youtube.com/user/VUBrussel" target="_blank" class="icon-social-youtube"></a>
+      
+      
+    </div>
+    <div class="rd-col-3-4 rd-footer-navigation">
+      <div class="rd-col-1-3"><h5>Portalen</h5><a href="/">Publiek</a><a href="http://my.vub.ac.be/">VUB-studenten</a><a href="https://intranet.vub.ac.be/">VUB-personeel</a><a href="/disclaimer">Disclaimer</a></div><div class="rd-col-1-3"><h5>Platformen</h5><a href="http://vubtoday.be/nl">Nieuws op VUB Today</a><a href="https://pointcarre.vub.ac.be/?noExtAuth">Studieplatform PointCarré</a><a href="http://student.cumulus.vub.ac.be/psp/CALIPROD/?&amp;cmd=login&amp;languageCd=DUT">SelfService Studenten</a><a href="https://helpdesk.vub.ac.be/">IT Helpdesk</a><a href="https://webmail.vub.ac.be/">VUB webmail</a><a href="http://aivpc41.vub.ac.be/who/index.phtml">Telefoonboek</a></div><div class="rd-col-1-3"><h5>Home</h5><a href="http://www.vub.ac.be/opleidingen/">Onderwijs</a><a href="http://www.vub.ac.be/onderzoek/">Onderzoek</a><a href="http://www.vub.ac.be/innovatie">Innovatie</a><a href="http://www.vub.ac.be/internationaal">Internationaal</a><a href="http://www.vub.ac.be/diensten">Diensten</a><a href="http://www.vub.ac.be/over">Over de universiteit</a></div>    </div>
+    <div class="rd-col-1-1 rd-creator">
+                Created by webmaster -             <a href="/user/login">Inloggen</a>    </div>
+
+
+  </div>
+</footer>
+<script type="text/javascript" src="http://www.vub.ac.be/sites/vub/files/js/js_x6Jn67-3ihg5-mx0s1a7fLKeege2fYcBl3domO0yq9E.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5f31fe5d44","applicationID":"14208410","transactionName":"M1wHYBYCXkJZWxcLWAoWJFcQCl9fF0oGBlIXUAJaOw1fVV1nEwNQAWYTXQEUb15OXREQXgBc","queueTime":0,"applicationTime":2782,"atts":"HxsEFl4YTUw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<div id="sliding-popup" style="height: auto; width: 100%; display: block; bottom: 0px;" class="sliding-popup-bottom">
+  <div class="popup-content info">
+    <div id="popup-text">
+      <h2>De VUB gebruikt cookies om je bezoek aan onze website zo aangenaam mogelijk te maken.&nbsp;</h2><p>Klik op "Ok, ik ga akkoord" om verder te gaan.</p>    </div>
+    <div id="popup-buttons">
+      <button type="button" class="agree-button">Ok, ik ga akkoord</button>
+      <button type="button" class="find-more-button">Meer informatie</button>
+    </div>
+  </div>
+</div><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div style="display: none; visibility: hidden;"><script type="text/javascript">var _elqQ=_elqQ||[];_elqQ.push(["elqSetSiteId","457207082"]);_elqQ.push(["elqTrackPageView"]);(function(){function a(){var b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src="//img03.en25.com/i/elqCfg.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)}window.addEventListener?window.addEventListener("DOMContentLoaded",a,!1):window.attachEvent&&window.attachEvent("onload",a)})();</script></div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","200846427027911");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=200846427027911&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+</body></html>

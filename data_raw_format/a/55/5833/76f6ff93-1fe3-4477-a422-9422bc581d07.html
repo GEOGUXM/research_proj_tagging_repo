@@ -1,0 +1,384 @@
+<html prefix="og: http://ogp.me/ns#" lang="en-US"><head>
+<meta charset="UTF-8"><script type="text/javascript" src="https://bam.nr-data.net/1/20144ff5b1?a=16058222&amp;v=1039.bef6007&amp;to=ZFcDYEIDCkBSVBUPVl0dIFdECwtdHEQICF5fV0xXQBY7Q1ZYEQpc&amp;rst=4068&amp;ref=http://www.impact.upenn.edu/people/carol_mclaughlin/&amp;ap=531&amp;be=1200&amp;fe=4030&amp;dc=3421&amp;perf=%7B%22timing%22:%7B%22of%22:1498030542734,%22n%22:0,%22f%22:15,%22dn%22:17,%22dne%22:244,%22c%22:244,%22ce%22:442,%22rq%22:442,%22rp%22:1185,%22rpe%22:1185,%22dl%22:1187,%22di%22:3414,%22ds%22:3420,%22de%22:3433,%22dc%22:4029,%22l%22:4029,%22le%22:4031%7D,%22navigation%22:%7B%7D%7D&amp;at=SBAAFgoZGU4%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carol McLaughlin - Center for High Impact Philanthropy - University of Pennsylvania</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.impact.upenn.edu/xmlrpc.php">
+
+<!-- favicon -->
+<link rel="shortcut icon" href="http://www.impact.upenn.edu/wp-content/themes/chip/favicon.ico">
+<script type="text/javascript">
+  var path = (("https:" == document.location.protocol) ? "https://databroker.coremotives.com/databroker.js?version=2" : "http://cdn.coremotivesmarketing.com/databroker.js");
+  document.write(unescape("%3Cscript src='" + path + "' type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="http://cdn.coremotivesmarketing.com/databroker.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  try {
+        var coreMotives = new DataBroker();
+        coreMotives.customerId = "21180279-6bc1-e211-b434-00155d32390f";
+        coreMotives.instanceId = 1495;
+        coreMotives.trackPageView();
+  } catch (e) { }
+</script>
+
+
+<!-- This site is optimized with the Yoast SEO plugin v4.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.impact.upenn.edu/people/carol_mclaughlin/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Carol McLaughlin - Center for High Impact Philanthropy - University of Pennsylvania">
+<meta property="og:description" content="Carol A. McLaughlin is senior advisor for global public health and founding team member at the Center for High Impact Philanthropy, as well as...">
+<meta property="og:url" content="http://www.impact.upenn.edu/people/carol_mclaughlin/">
+<meta property="og:site_name" content="Center for High Impact Philanthropy - University of Pennsylvania">
+<meta property="article:publisher" content="https://www.facebook.com/CenterforHighImpactPhilanthropy">
+<meta property="og:image" content="http://www.impact.upenn.edu/wp-content/uploads/2016/2015/03/McLaughlin_Head_Shot.jpg">
+<meta property="og:image:width" content="229">
+<meta property="og:image:height" content="265">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Carol A. McLaughlin is senior advisor for global public health and founding team member at the Center for High Impact Philanthropy, as well as...">
+<meta name="twitter:title" content="Carol McLaughlin - Center for High Impact Philanthropy - University of Pennsylvania">
+<meta name="twitter:site" content="@impactsp2">
+<meta name="twitter:image" content="http://www.impact.upenn.edu/wp-content/uploads/2016/2015/03/McLaughlin_Head_Shot.jpg">
+<meta name="twitter:creator" content="@impactsp2">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Center for High Impact Philanthropy - University of Pennsylvania » Feed" href="http://www.impact.upenn.edu/feed/">
+<link rel="alternate" type="application/rss+xml" title="Center for High Impact Philanthropy - University of Pennsylvania » Comments Feed" href="http://www.impact.upenn.edu/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.impact.upenn.edu\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.impact.upenn.edu/wp-includes/js/wp-emoji-release.min.js" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="yikes-inc-easy-events-calendar-css" href="http://www.impact.upenn.edu/wp-content/mu-plugins/yikes-inc-easy-events/public/css/yikes-inc-easy-events-calendar-public.css" type="text/css" media="all">
+<link rel="stylesheet" id="yks-jquery-ui-fullcalendar-style-css" href="http://www.impact.upenn.edu/wp-content/mu-plugins/yikes-inc-easy-events/public/css/fullcalendar/fullcalendar.css" type="text/css" media="all">
+<link rel="stylesheet" id="yks-jquery-ui-fullcalendar-print-css" href="http://www.impact.upenn.edu/wp-content/mu-plugins/yikes-inc-easy-events/public/css/fullcalendar/fullcalendar.print.css" type="text/css" media="print">
+<link rel="stylesheet" id="yks-ee-calendar-square-icon-css" href="http://www.impact.upenn.edu/wp-content/mu-plugins/yikes-inc-easy-events/public/css/fa-icon.css" type="text/css" media="all">
+<link rel="stylesheet" id="fc-form-css-css" href="http://www.impact.upenn.edu/wp-content/plugins/formcraft3/assets/css/form.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://www.impact.upenn.edu/wp-content/plugins/revslider/public/assets/css/settings.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="font-awesome-css" href="http://www.impact.upenn.edu/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="yikes-starter-style-css" href="http://www.impact.upenn.edu/wp-content/themes/chip/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="yikes-bootstrap-style-css" href="http://www.impact.upenn.edu/wp-content/themes/chip/inc/bootstrap/css/bootstrap.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="yikes-fontawesome-style-css" href="http://www.impact.upenn.edu/wp-content/themes/chip/inc/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bsf-Defaults-css" href="http://www.impact.upenn.edu/wp-content/uploads/smile_fonts/Defaults/Defaults.css" type="text/css" media="all">
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/mu-plugins/yikes-inc-easy-events/public/js/yikes-inc-easy-events-calendar-public.js"></script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/mu-plugins/yikes-inc-easy-events/public/js/jquery-ui/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/mu-plugins/yikes-inc-easy-events/public/js/fullcalendar/moment.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var event_data = {"ajaxurl":"http:\/\/www.impact.upenn.edu\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/mu-plugins/yikes-inc-easy-events/public/js/fullcalendar/fullcalendar.js"></script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/themes/chip/inc/bootstrap/js/bootstrap.min.js"></script>
+<link rel="https://api.w.org/" href="http://www.impact.upenn.edu/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.impact.upenn.edu/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.impact.upenn.edu/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.4.2">
+<link rel="shortlink" href="http://www.impact.upenn.edu/?p=1577">
+<link rel="alternate" type="application/json+oembed" href="http://www.impact.upenn.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.impact.upenn.edu%2Fpeople%2Fcarol_mclaughlin%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.impact.upenn.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.impact.upenn.edu%2Fpeople%2Fcarol_mclaughlin%2F&amp;format=xml">
+<style type="text/css">.myfixed { margin:0 auto!important; float:none!important; border:0px!important; background:none!important; max-width:100%!important; }
+	#mysticky-nav { width:100%!important;  position: static;top: -100px;}.wrapfixed { position: fixed!important; top:0px!important; left: 0px!important; margin-top:0px!important;  z-index: 1000000; -webkit-transition: 0.3s; -moz-transition: 0.3s; -o-transition: 0.3s; transition: 0.3s;   -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=95)"; filter: alpha(opacity=95); opacity:.95; background-color: #004180!important;  }
+	@media (max-width: 359px) {.wrapfixed {position: static!important; display: none!important;}}
+	</style>
+	
+<style>
+.scroll-back-to-top-wrapper {
+    position: fixed;
+	opacity: 0;
+	visibility: hidden;
+	overflow: hidden;
+	text-align: center;
+	z-index: 99999999;
+    background-color: #777777;
+	color: #eeeeee;
+	width: 50px;
+	height: 48px;
+	line-height: 48px;
+	right: 30px;
+	bottom: 30px;
+	padding-top: 2px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+.scroll-back-to-top-wrapper:hover {
+	background-color: #888888;
+  color: #eeeeee;
+}
+.scroll-back-to-top-wrapper.show {
+    visibility:visible;
+    cursor:pointer;
+	opacity: 1.0;
+}
+.scroll-back-to-top-wrapper i.fa {
+	line-height: inherit;
+}
+.scroll-back-to-top-wrapper .fa-lg {
+	vertical-align: 0;
+}
+</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.impact.upenn.edu/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.impact.upenn.edu/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><meta name="generator" content="Powered by Slider Revolution 5.2.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/timeline.49f24b3ed4b1be2d087c97aca497c0d1.js"></script></head>
+
+<body class="single single-cpt_people postid-1577 group-blog wpb-js-composer js-comp-ver-4.11.1 vc_responsive">
+
+
+<header id="masthead" class="site-header" role="banner">
+
+	<!-- jumbotron -->
+	<div id="header-top">
+		<div class="container">
+			<div class="col-sm-9 header-top-left">
+				<a href="http://www.impact.upenn.edu/" title="Center for High Impact Philanthropy – University of Pennsylvania" rel="home">
+					<img src="http://www.impact.upenn.edu/wp-content/themes/chip/images/logo.png" alt="Center for High Impact Philanthropy – University of Pennsylvania" class="site-title">
+				</a>
+			</div>
+			<div class="col-sm-3 header-top-right">
+				<div class="header-top-social">
+					<a href="http://twitter.com/Impactsp2" target="_blank"><i class="fa fa-twitter"></i></a>
+					<a href="http://www.facebook.com/CenterforHighImpactPhilanthropy" target="_blank"><i class="fa fa-facebook-square"></i></a>
+					<a href="http://www.youtube.com/impactsp2" target="_blank"><i class="fa fa-youtube-play"></i></a>
+					<a href="http://www.linkedin.com/groups?home=&amp;gid=2015373" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+				</div>
+
+				<div class="header-top-search">
+					
+<form role="search" class="search-form" action="/" method="get">
+	<label class="sr-only" for="search">
+		<span class="screen-reader-text">Search for:</span>
+	</label>
+		
+	<div class="input-group">
+		<input name="s" id="search" class="form-control" placeholder="Search …" value="" title="Search for:" type="text">
+		<span class="input-group-btn">
+			<button type="submit" class="btn">
+                <i class="fa fa-search"></i>
+            </button>
+		</span>
+	</div>
+</form>				</div>
+			</div>
+		</div>
+	</div><!-- /.jumbotron -->
+
+	<div id="mainnav-container">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div id="mysticky-wrap"><div id="mysticky-nav"><nav id="site-navigation" class="navbar navbar-inverse" role="navigation">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+						
+						<div class="collapse navbar-collapse navbar-ex1-collapse">
+							<ul id="menu-main-menu" class="nav navbar-nav nav-menu"><li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80 dropdown"><a title="Our Guidance" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Our Guidance <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-194" class="has-decription menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a title="High Impact Opportunities by Issue Area" href="http://www.impact.upenn.edu/our-analysis/opportunities-to-achieve-impact/">High Impact Opportunities by Issue Area</a><div class="menu-item-description">Education, public health, disaster relief, and more</div></li>
+	<li id="menu-item-193" class="has-decription menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a title="How to Achieve Impact Anywhere" href="http://www.impact.upenn.edu/our-analysis/how-can-i-practice-high-impact-philanthropy/">How to Achieve Impact Anywhere</a><div class="menu-item-description">Guidance for donors, no matter what the cause</div></li>
+	<li id="menu-item-457" class="has-decription menu-item menu-item-type-post_type menu-item-object-page menu-item-457"><a title="How We Define High Impact Philanthropy" href="http://www.impact.upenn.edu/our-analysis/what-is-high-impact-philanthropy/">How We Define High Impact Philanthropy</a><div class="menu-item-description">What it is, and how to do it</div></li>
+</ul>
+</li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-81 dropdown"><a title="Educational Offerings" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Educational Offerings <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-10092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10092"><a title="Funder Executive Education Program" href="http://www.impact.upenn.edu/events/funder-executive-education-program/">Funder Executive Education Program</a><div class="menu-item-description">program for philanthropists and foundation professionals</div></li>
+	<li id="menu-item-10096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10096"><a title="Custom Engagements" href="http://www.impact.upenn.edu/programs-and-services/">Custom Engagements</a><div class="menu-item-description">donor and executive education, workshops, speaking engagements, and more</div></li>
+	<li id="menu-item-10097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10097"><a title="Campus Programs for Penn Students" href="http://www.impact.upenn.edu/campus-programs-penn/">Campus Programs for Penn Students</a><div class="menu-item-description">teaching, advising, and student employment opportunities</div></li>
+</ul>
+</li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a title="Events" href="http://www.impact.upenn.edu/events/">Events</a></li>
+<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-83 dropdown"><a title="Blog &amp; News" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Blog &amp; News <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-3642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3642"><a title="Blog" href="http://www.impact.upenn.edu/category/blogs/">Blog</a><div class="menu-item-description">Guidance from the Center, plus perspectives from the field</div></li>
+	<li id="menu-item-3641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3641"><a title="News" href="http://www.impact.upenn.edu/category/news/">News</a><div class="menu-item-description">The Center’s work featured in mainstream media</div></li>
+</ul>
+</li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84 dropdown"><a title="About Us" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">About Us <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-1988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1988"><a title="Who We Are" href="http://www.impact.upenn.edu/about/who-we-are/">Who We Are</a></li>
+	<li id="menu-item-1982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1982"><a title="About Our Work" href="http://www.impact.upenn.edu/about/what-we-do/">About Our Work</a></li>
+	<li id="menu-item-666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-666"><a title="Employment Opportunities" href="http://www.impact.upenn.edu/about/employment-opportunities/">Employment Opportunities</a></li>
+	<li id="menu-item-3470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3470"><a title="Connect with Us" href="http://www.impact.upenn.edu/about/join-us/">Connect with Us</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a title="FAQ" href="http://www.impact.upenn.edu/about/faq/">FAQ</a></li>
+	<li id="menu-item-661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-661"><a title="Funders and Partners" href="http://www.impact.upenn.edu/about/funders-and-partners/">Funders and Partners</a></li>
+</ul>
+</li>
+<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a title="Support the Center" href="http://www.impact.upenn.edu/support-the-center/">Support the Center</a></li>
+</ul>						</div><!-- /.navbar-collapse -->
+					</nav></div></div><!-- #site-navigation -->
+				</div>
+			</div>
+		</div>
+	</div>
+
+</header><!-- #masthead -->
+<div id="main" class="site-main">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-sm-12">
+
+				<div id="primary" class="content-area">
+					<div id="content" class="site-content clearfix" role="main">						
+
+						
+							<article id="post-1577" class="post-1577 cpt_people type-cpt_people status-publish has-post-thumbnail hentry peopletypes-staff">
+							<p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://www.impact.upenn.edu/" rel="v:url" property="v:title">Home</a> » <span rel="v:child" typeof="v:Breadcrumb"><a href="http://www.impact.upenn.edu/people/" rel="v:url" property="v:title">People</a> » <strong class="breadcrumb_last">Carol McLaughlin</strong></span></span></span></p>							
+							<header class="entry-header">
+								<h1 class="blog-entry-title">Carol McLaughlin</h1>
+								<div class="entry-meta">
+									Senior Advisor, Global Public Health<br>
+									<a href="mailto:carolmc@sp2.upenn.edu">carolmc@sp2.upenn.edu</a>
+								</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+							<div class="entry-content clearfix">
+								<img src="http://www.impact.upenn.edu/wp-content/uploads/2016/2015/03/McLaughlin_Head_Shot.jpg" class="attachment-medium size-medium wp-post-image" alt="McLaughlin_Head_Shot" width="229" height="265">								<p>Carol A. McLaughlin is senior advisor for global public health and founding team member at the Center for High Impact Philanthropy, as well as Adjunct Faculty of the&nbsp;School of Social Policy &amp; Practice (SP2)&nbsp;in the University of Pennsylvania. She is a public health specialist and primary care/infectious disease physician with experience in research, community engagement, and program implementation in the U.S. and the developing world.</p>
+<p>She has been involved with a diverse variety of health projects including community-based interventions in Latin America, clinical programs in Thailand and Vietnam, public health work addressing resistance in cholera and malaria, and HIV care and treatment.</p>
+<p>After dual residency training in internal medicine and pediatrics through the Harvard Combined Program, Carol completed a fellowship in infectious disease at Penn and earned a Diploma in Tropical Medicine and Hygiene from the Gorgas Memorial Institute in Peru. She obtained training in epidemiology and community-based research through a Master in Clinical Epidemiology program at the University of Pennsylvania.</p>
+<p>She received MD and MPH degrees from the Johns Hopkins University School of Medicine and School of Public Health. She graduated Magna Cum Laude from Princeton University’s Woodrow Wilson School of Public and International Affairs, with a BA in Public and International Policy.</p>
+<p>Additional Penn affiliations:</p>
+<ul>
+<li>Director – Global Health Equities Track, internal medicine residency</li>
+<li>Co-director – Global Health Track, Master of Public Health (MPH) program</li>
+<li>Assistant Professor of Clinical Medicine, Division of Infectious Diseases, Perelman School of Medicine</li>
+<li>Attending physician, HIV/Infectious Disease, Penn Presbyterian Medical Center.</li>
+<li>Senior fellow, Center for Public Health Initiatives</li>
+</ul>
+<p>&nbsp;</p>
+							</div><!-- .entry-content -->
+
+						</article><!-- #post-## -->
+
+						
+					</div><!-- #content -->
+				</div><!-- #primary -->
+			</div><!-- .col-sm-12 -->
+		</div><!-- .row -->
+	</div><!-- .container -->
+</div><!-- #main -->
+
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div class="container">
+
+		<div class="row footer-widgets">
+			<div class="col-sm-4 footer-col footer-col-1">
+				<aside id="text-2" class="widget widget_text">			<div class="textwidget"><p><img src="http://live-penn-impact.pantheon.io/wp-content/uploads/2016/03/penn-logo.png"></p>
+<hr>
+<strong>The Center for High Impact Philanthropy</strong><br>
+3815 Walnut Street<br>
+Philadelphia, PA 19104-6179 (<a href="https://goo.gl/maps/OGZZK" target="_blank">Map</a>)<br>
+<a href="mailto:impact@sp2.upenn.edu">impact@sp2.upenn.edu</a>  |  215.573-7266<p></p>
+</div>
+		</aside>		
+			</div>	
+			
+			<div class="col-sm-4 footer-col footer-col-2">
+					
+			</div>		
+			
+			<div class="col-sm-4 footer-col footer-col-3">
+				<aside id="text-4" class="widget widget_text">			<div class="textwidget"><iframe id="twitter-widget-0" scrolling="no" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 520px; height: 240px; padding: 0px; border: medium none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px;" data-widget-id="575056881787486209" title="Twitter Timeline" frameborder="0"></iframe> 
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </div>
+		</aside>	
+			</div>			
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12 credits">
+				Copyright © 2017				<a href="http://www.impact.upenn.edu/" title="Center for High Impact Philanthropy – University of Pennsylvania" rel="home">Center for High Impact Philanthropy – University of Pennsylvania</a>				
+			</div>
+		</div><!-- .row -->
+		
+	</div><!-- .container -->	
+</footer><!-- #colophon -->
+
+<div class="scroll-back-to-top-wrapper">
+	<span class="scroll-back-to-top-inner">
+					<i class="fa fa-lg fa-arrow-circle-up"></i>
+			</span>
+</div><script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/mu-plugins/yikes-inc-easy-events/public/js/skip-link-focus-fix.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mysticky_name = {"mysticky_string":".navbar","mysticky_active_on_height_string":"320","mysticky_disable_at_width_string":"359"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/plugins/mystickymenu/js/mystickymenu.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var scrollBackToTop = {"scrollDuration":"500","fadeDuration":"0.5"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/plugins/scroll-back-to-top/assets/js/scroll-back-to-top.js"></script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/themes/chip/js/navigation.js"></script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/themes/chip/js/skip-link-focus-fix.js"></script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-content/themes/chip/js/stats.js"></script>
+<script type="text/javascript" src="http://www.impact.upenn.edu/wp-includes/js/wp-embed.min.js"></script>
+<!-- Start of StatCounter Code --> 
+<script type="text/javascript" language="javascript"> 
+var sc_project=2443396; 
+var sc_invisible=0; 
+var sc_partition=23; 
+var sc_security="b0d212c5"; 
+</script> 
+ 
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><span class="statcounter"><a class="statcounter" href="http://www.statcounter.com" target="_blank"><img src="http://c.statcounter.com/t.php?sc_project=2443396&amp;java=1&amp;security=b0d212c5&amp;u1=DF6D483157174FE204CB6EFDB91DAB70&amp;sc_random=0.07888525053931972&amp;jg=new&amp;rr=1.1.1.1.1.1.1.1.1&amp;resolution=1920&amp;h=1080&amp;camefrom=&amp;u=http%3A//www.impact.upenn.edu/people/carol_mclaughlin/&amp;t=Carol%20McLaughlin%20-%20Center%20for%20High%20Impact%20Philanthropy%20-%20University%20of%20Pennsylvania&amp;rcat=d&amp;rdom=d&amp;rdomg=new&amp;bb=1&amp;sc_snum=1&amp;sess=7a9eb4&amp;p=0" alt="StatCounter - Free Web Tracker and Counter" border="0"></a></span>
+<noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c24.statcounter.com/counter.php?sc_project=2443396&amp;java=0&amp;security=b0d212c5&amp;invisible=0" alt="counter customizable free hit" border="0"></a> </noscript> 
+<!-- End of StatCounter Code --> 
+ 
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+var pageTracker = _gat._getTracker("UA-4244996-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script> 
+ 
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+try {
+var pageTracker = _gat._getTracker("UA-7069131-7");
+pageTracker._trackPageview();
+} catch(err) {}</script> 
+             <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"20144ff5b1","applicationID":"16058222","transactionName":"ZFcDYEIDCkBSVBUPVl0dIFdECwtdHEQICF5fV0xXQBY7Q1ZYEQpc","queueTime":0,"applicationTime":531,"atts":"SBAAFgoZGU4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<iframe id="rufous-sandbox" scrolling="no" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none;" title="Twitter analytics iframe" frameborder="0"></iframe></body></html>

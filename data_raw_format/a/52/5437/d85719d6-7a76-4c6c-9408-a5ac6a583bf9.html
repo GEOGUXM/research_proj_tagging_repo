@@ -1,0 +1,245 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>University of South Australia - search for research students</title>
+<script language="JAVASCRIPT">
+<!--HIDE FROM OTHER BROWSERS
+
+  function ValidateName() {
+
+	if (document.searchformName.Name.value.length < 2) {
+		alert('Please enter at least 2 characters into the Name field');
+		return false;
+  	}
+	return true;
+  }
+
+  function ValidateWords() {
+
+	if (document.searchformWords.Words.value.length < 2) {
+		alert('Please enter at least 2 characters into the Words field');
+		return false;
+  	}
+	return true;
+  }
+
+ 
+// STOP HIDING FROM OTHER BROWSERS -->
+</script>
+<link href="students.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+
+-->
+</style>
+</head>
+
+<body>
+
+
+
+
+
+<meta name="Keywords" content="">
+<title>University of South Australia - search for research students</title>
+<link href="students.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+
+-->
+</style>
+
+
+
+
+<div id="box">
+  <div id="title">
+    <p class="style2">Directory of<br>
+      <span class="style1">Higher degree by research students </span></p>
+  </div>
+  <div id="boxleft"><img src="images/unisa.gif" width="54" height="68"></div>
+  <div id="boxright"><img src="images/imageright.jpg"></div>
+</div>
+
+
+
+
+
+
+<div id="left-menu">
+
+<ul id="mitem0" class="links-list">
+<li><span></span>
+<ul id="mitem1" class="links-list">
+<li><a href="#"><span id="menu-selected">Search</span></a>
+</li></ul>
+</li>
+</ul>
+
+
+</div>
+
+<div id="middleplusright">
+  <h1>Search for Research Students</h1>
+  <hr size="1">
+
+
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+    <td rowspan="2"><img src="images/t_spacer.gif" alt="t_spacer.gif (140 bytes)" width="40" height="1"></td>
+  </tr>
+  <tr>
+    <td width="100%"><font size="2" face="Arial, Helvetica, Sans-Serif">
+
+	<strong>Please enter
+    the name of the student you wish to search for.</strong> </font><p><font size="2" face="Arial, Helvetica, Sans-Serif" color="#000000">You can enter a student's
+    First Name only, Last Name only, or both First Name and Last Name. If you do not
+    know how to spell a student's name, then enter just the first few letters of the
+    student's name.</font></p>
+    
+<form name="searchformName" method="GET" action="student-list.asp" onsubmit="return ValidateName();">
+
+<table cellpadding="0">
+<tbody><tr>
+<td><font size="2" face="Arial,Helvetica,sans-serif"><strong>Name&nbsp;</strong></font></td>
+
+<td><input name="Name" size="50" type="text"><font size="1" face="Arial,Helvetica,sans-serif">&nbsp;&nbsp;(or Mail ID)</font></td></tr>
+
+</tbody></table>
+
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input value="Search for Home Page" src="images/search_but.gif" alt="Search" width="46" type="IMAGE" height="45" border="0">
+
+</p>
+</form>
+
+    <hr size="1" noshade="" align="left">
+
+<p><font size="2" face="Arial, Helvetica, Sans-Serif" color="#000000">
+<strong>Words in paragraph text search</strong>
+</font></p><p><font size="2" face="Arial, Helvetica, Sans-Serif" color="#000000">
+You can search for words contained within the paragraph text of the sections listed below on a student home page. Please enter one, two or three words to search for. Only Student Homepages containing all of your words will be displayed.</font></p>
+
+<form name="searchformWords" method="GET" action="words-in-para-list.asp" onsubmit="return ValidateWords();">
+
+<table cellpadding="0">
+<tbody><tr>
+<td><font size="2" face="Arial,Helvetica,sans-serif"><strong>Words&nbsp;</strong></font></td>
+
+<td><input name="Words" size="50" type="text"><font size="1" face="Arial,Helvetica,sans-serif">&nbsp;&nbsp;(up to 3 words maximum)</font></td></tr>
+
+</tbody></table>
+
+
+<font size="2" face="Arial,Helvetica,sans-serif" color="#000000">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Tick the boxes to limit your search to those sections:</strong>
+</font><br>
+
+<table cellpadding="0">
+<tbody><tr>
+<td width="60">
+&nbsp;
+</td>
+
+<td width="220">
+
+<input name="Aboutme" type="checkbox">
+
+<font size="2" face="Arial,Helvetica,sans-serif" color="#000000">
+&nbsp;About me
+</font><br>
+
+
+<input name="OnlineResources" type="checkbox">
+
+<font size="2" face="Arial,Helvetica,sans-serif" color="#000000">
+&nbsp;Online resources
+</font><br>
+
+
+<input name="Associations" type="checkbox">
+
+<font size="2" face="Arial,Helvetica,sans-serif" color="#000000">
+&nbsp;Associations
+</font>
+
+</td>
+
+<td width="20">
+&nbsp;
+</td>
+
+<td width="420">
+
+<input name="Thesis" type="checkbox">
+
+<font size="2" face="Arial,Helvetica,sans-serif" color="#000000">
+&nbsp;Thesis
+</font><br>
+
+
+<input name="Publications" type="checkbox">
+
+<font size="2" face="Arial,Helvetica,sans-serif" color="#000000">
+&nbsp;Research publications
+</font><br>
+
+
+
+</td>
+
+</tr>
+</tbody></table>
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input value="Search for Home Page" src="images/search_but.gif" alt="Search" width="46" type="IMAGE" height="45" border="0">
+
+</p></form>
+
+
+    <hr size="1" noshade="" align="left">
+
+    <p><font size="2" face="Arial,Helvetica,Sans-Serif">Alphabetical Student List<strong> (in
+    Last Name order)</strong><br>
+    <br>
+<a href="student-list.asp?SurnameLetter=A">A</a> 
+<a href="student-list.asp?SurnameLetter=B">B</a> 
+<a href="student-list.asp?SurnameLetter=C">C</a> 
+<a href="student-list.asp?SurnameLetter=D">D</a> 
+<a href="student-list.asp?SurnameLetter=E">E</a> 
+<a href="student-list.asp?SurnameLetter=F">F</a> 
+<a href="student-list.asp?SurnameLetter=G">G</a> 
+<a href="student-list.asp?SurnameLetter=H">H</a> 
+<a href="student-list.asp?SurnameLetter=I">I</a> 
+<a href="student-list.asp?SurnameLetter=J">J</a> 
+<a href="student-list.asp?SurnameLetter=K">K</a> 
+<a href="student-list.asp?SurnameLetter=L">L</a> 
+<a href="student-list.asp?SurnameLetter=M">M</a> 
+<a href="student-list.asp?SurnameLetter=N">N</a> 
+<a href="student-list.asp?SurnameLetter=O">O</a> 
+<a href="student-list.asp?SurnameLetter=P">P</a> 
+<a href="student-list.asp?SurnameLetter=Q">Q</a> 
+<a href="student-list.asp?SurnameLetter=R">R</a> 
+<a href="student-list.asp?SurnameLetter=S">S</a> 
+<a href="student-list.asp?SurnameLetter=T">T</a> 
+<a href="student-list.asp?SurnameLetter=U">U</a> 
+<a href="student-list.asp?SurnameLetter=V">V</a> 
+<a href="student-list.asp?SurnameLetter=W">W</a> 
+<a href="student-list.asp?SurnameLetter=X">X</a> 
+<a href="student-list.asp?SurnameLetter=Y">Y</a> 
+<a href="student-list.asp?SurnameLetter=Z">Z</a>
+    </font></p>
+
+
+   </td>
+  </tr>
+</tbody></table>
+
+</div>
+
+
+
+
+</body></html>

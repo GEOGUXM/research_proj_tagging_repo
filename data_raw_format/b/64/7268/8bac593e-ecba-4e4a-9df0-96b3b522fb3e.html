@@ -1,0 +1,1182 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="styles_com.css" type="text/css" rel="stylesheet">
+<link href="styles_comPRINT.css" type="text/css" rel="stylesheet" media="print">
+
+<link href="multiple-select.css" rel="stylesheet">
+
+<title>Florida State University College of Medicine </title>
+
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="scripts/oneColDropdownMenus.js" language="javascript" type="text/javascript"></script>
+
+<script src="scripts/divToggle.js" language="javascript" type="text/javascript"></script>
+<script src="scripts/popWindow.js" language="javascript" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+	function clearText(thefield){
+	if (thefield.defaultValue==thefield.value)
+	thefield.value = ""
+	} 
+</script>
+
+
+<script src="scripts/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+	function onLoadResizeIframe(iframe) {
+		 try
+		 {
+			 //iframe.height = '';
+			 if (iframe.contentWindow.document.getElementById('ClassYear')) {
+				 //iframe.height = (18500) + "px";
+			 }
+			 else {
+			 	//iframe.height = (iframe.contentWindow.document.body.scrollHeight + 100) + "px";
+			 }
+			 window.parent.scrollTo(0,0);
+		 }
+		 catch (err) {}
+	}
+	
+	
+</script>
+
+<script type="text/javascript" src="scripts/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="scripts/spotlightScroll.js"></script>
+<script type="text/javascript" src="scripts/slideShowScroll.js"></script>
+<script src="scripts/jquery.rs.slideshow.js"></script>
+<script src="scripts/html-captions-bootstrap.js"></script>
+
+<link href="scripts/fotorama-4.3.0/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
+<script src="scripts/fotorama-4.3.0/fotorama.js"></script> <!-- 12 KB -->
+
+
+
+<script type="text/javascript">
+$(function () {
+            // JSON image object
+            var imgObj = { "images": [
+                        { "src": "images/homepage.jpg",
+                            "alt": "Florida State University College of Medicine",
+							"description": null
+                        },
+                        { "src": "images/homepage1.jpg",
+                            "alt": "Florida State University College of Medicine",
+							"description": null
+                        },
+                        { "src": "images/homepage2.jpg",
+                            "alt": "Florida State University College of Medicine",
+							"description": null
+                        },
+                        { "src": "images/homepage3.jpg",
+                            "alt": "Florida State University College of Medicine",
+							"description": null
+                        },
+                        { "src": "images/homepage4.jpg",
+                            "alt": "Florida State University College of Medicine",
+							"description": null
+                        },
+                        { "src": "images/homepage5.jpg",
+                            "alt": "Florida State University College of Medicine",
+							"description": null
+                        },
+                        { "src": "images/homepage6.jpg",
+                            "alt": "Florida State University College of Medicine",
+							"description": null
+                        },
+                        { "src": "images/homepage7.jpg",
+                            "alt": "Florida State University College of Medicine",
+							"description": null
+                        }
+                    ]
+            };
+
+            // Create random number. Max length of json object
+            var rand, img;
+            $.each(imgObj, function (i, keys) {
+                rand = Math.floor(Math.random() * keys.length);
+            });
+
+			if(rand != '' || typeof rand != 'undefined'){
+				// Create new html elements
+				img = $('<img src="' + imgObj.images[rand].src +
+						'" alt="' + imgObj.images[rand].alt + '" />');
+	
+				description = $('<div id="image-slide-description">' + imgObj.images[rand].description + '</div>');
+		
+				$container = $('#slides');
+				$container.css('position', 'relative');
+				
+				// Inject elements into page
+				$container.html(img);
+				if (imgObj.images[rand].description != null) {
+					$container.append(description);
+					$container.find('#image-slide-description').css({ 
+						position: 'absolute',
+						bottom: 0,
+						width: function () {
+							return $container.outerWidth() - 30;
+						},
+						textAlign: 'left',
+						fontSize: '12px',
+						padding: '15px',
+						background: '#000000',
+						background: 'rgba(0,0,0,0.6)',
+						color: '#cccccc'
+					});
+				}
+			}
+            
+
+        });
+</script>
+
+
+
+
+<link href="RSS/spotlightRSS.xml" rel="alternate" type="application/rss+xml" title="FSU College of Medicine Spotlights"> 
+<link href="RSS/COMNewsRSS.xml" rel="alternate" type="application/rss+xml" title="FSU College of Medicine News">
+<meta name="google-translate-customization" content="f01f3dcf52746478-5774273c9bd1723e-g3ceff403e3e6785e-22">
+</head>
+<body>
+
+
+<div class="screenReaderNav"><a href="#wrapper">Skip Main Navigation</a> | <a href="#content">Skip to Content</a></div>
+<div id="backgroundWrapper">
+<div id="headerWrapper">
+	<div id="header">
+		<div id="headerLogo">
+			<div id="headerLogo_seal"><a href="http://fsu.edu"><img src="images/header_seal.png" alt="The Florida State University Seal" border="0"></a></div>
+			<div id="headerLogo_fsu"><a href="http://fsu.edu"><img src="images/header_fsu.png" alt="The Florida State University" border="0"></a></div>
+			<div id="headerLogo_com"><a href="index.cfm"><img src="images/header_com.png" alt="College of Medicine" border="0"></a></div>
+		</div>
+		<div id="headerNav">
+			
+			<ul>
+				
+				<li><a href="index.cfm" id="home">Home</a></li>
+				<li><a href="?page=COMaboutUs.contactUs" id="contact">Contact Us</a></li>
+				<li><a href="?page=home.faq" id="contact">FAQ</a></li>
+				<li><a href="/index.cfm?fuseaction=calendar.fulldisplay&amp;usetemplate=column" id="contact">Calendar</a></li>
+				<li><a href="?page=forFaculty.home" id="faculty">Faculty</a></li>
+<li><a href="?page=graduateMedicalEducation.home" id="residents">GME</a></li>
+<li><a href="#" class="arrow" id="students">Students</a>
+	<ul>
+		<li><a href="?page=prospectiveStudents.home" class="sub">Prospective</a></li>
+		<li><a href="?page=currentStudents.home" class="sub">Current</a></li>
+	</ul>
+</li>
+<li><a href="?page=alumniFriends.home" id="alumni">Alumni &amp; Friends</a></li>
+			</ul>
+		</div>
+		<div id="socialSites">
+			<a href="http://tobaccofree.fsu.edu" target="_blank"><img src="images/TobaccoFreeFSU.jpg" alt="Tobacco Free Campus" class="border" style="margin-right:20px;" width="30" height="27" border="0"></a>
+	 		<a href="http://instagram.com/fsucom" target="_blank"><img src="images/social_instagram.png" alt="Instagram" class="border" width="16" height="16" border="0"></a>
+	 		<a href="http://www.facebook.com/pages/Tallahassee-FL/FSU-College-of-Medicine-Alumni-Friends/59092631757" target="_blank"><img src="images/social_facebook.png" alt="Facebook" class="border" width="16" height="16" border="0"></a>
+	 		<a href="http://twitter.com/fsucom" target="_blank"><img src="images/social_twitter.png" alt="Twitter" class="border" width="16" height="16" border="0"></a>
+			<a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3197441" target="_blank"><img src="images/social_linkedin.png" alt="LinkedIn" class="border" width="16" height="16" border="0"></a>
+	 	
+			<a href="http://www.youtube.com/fsumed" target="_blank"><img src="images/social_youtube.png" alt="YouTube" class="border" width="16" height="16" border="0"></a>
+	 	</div>
+		<div id="headerSearch">
+			
+			<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+			
+			
+			<form action="index.cfm" id="cse-search-box">
+			   <input name="fuseaction" value="search.search" type="hidden">
+				 <label for="searchType">Select an area to search</label>
+				 <select name="searchType">
+					<option value="college" selected="selected">College of Medicine</option>
+					<option value="faculty">Faculty &amp; Staff</option>
+					
+				 </select>
+			    <input name="cx" value="007230261834753520850:9e1rufik4pq" type="hidden">
+			    <input name="cof" value="FORID:10" type="hidden">
+			    <input name="ie" value="UTF-8" type="hidden">
+			    <label for="q">Enter a search term</label>
+			    <input name="q" autocomplete="off" size="31" type="text">
+			    <input name="sa" value="Go" id="go" type="submit">
+			</form>
+			
+			
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+			
+			
+
+			
+		</div>
+	</div>
+</div>
+<div id="topNavWrapper">
+	
+	<div id="topNavOneCol">
+	
+<ul>
+	<li><a href="#" class="about">About Us</a>
+	<ul>
+		<li><a href="?page=comAboutUs.overview" class="sub">Overview</a></li>
+		<li><a href="?page=ClinicalServices.Home" class="sub">Clinical Services</a></li>
+		<li><a href="?page=CouncilDiversityInclusion.Home" class="sub">Diversity &amp; Inclusion</a></li>
+		
+		<li><a href="#" class="sub">Support Offices</a>
+			<ul>
+				<li><a href="?fuseaction=newsPubs.home" class="sub_sub">News &amp; Publications</a></li>
+				<li><a href="?page=financeAdministration.home" class="sub_sub">Finance &amp; Administration </a></li>
+				<li><a href="?page=oit.home" class="sub_sub">Office of Information Technology</a></li>
+			</ul>
+		</li>
+		<li><a href="?page=financeAdministration.employment" class="sub">Employment</a></li>
+	</ul>
+	</li>
+	<li><a href="?page=Home.regionalMap" class="campuses">Campuses</a>
+	<ul>
+		<li><a href="?page=daytonaBeachRegional.home" class="sub">Daytona Beach</a></li>
+		<li><a href="?page=ftPierceRegional.home" class="sub">Fort Pierce</a></li>
+		<li><a href="?page=orlandoRegional.home" class="sub">Orlando</a></li>
+		<li><a href="?page=pensacolaRegional.home" class="sub">Pensacola</a></li>
+		<li><a href="?page=sarasotaRegional.home" class="sub">Sarasota</a></li>
+		<li><a href="?page=tallahasseeRegional.home" class="sub">Tallahassee</a></li>
+		<li><a href="?page=mariannaRuralTrack.home" class="sub">Marianna Rural Program</a></li>
+		<li><a href="?page=immokaleeHealthEd.home" class="sub">Immokalee Health Education Site </a></li>
+		
+	</ul>
+	</li>
+	<li><a href="#" class="academics">Academics</a>
+	<ul>
+		<li><a href="#" class="sub">Departments</a>
+		<ul>
+			<li><a href="?page=comAboutUs.departmentOverview" class="sub_sub">Overview</a></li>
+			<li><a href="?page=bssm.home" class="sub_sub">Behavioral Sciences &amp; Social Medicine</a></li>
+			<li><a href="?page=biomedicalSciences.home" class="sub_sub">Biomedical Sciences</a></li>
+			<li><a href="?page=clinicalSciences.home" class="sub_sub">Clinical Sciences</a></li>
+			<li><a href="?page=familyMedRuralHealth.home" class="sub_sub">Family Medicine &amp; Rural Health</a></li>
+			<li><a href="?page=geriatrics.home" class="sub_sub">Geriatrics</a></li>
+			<!--<li><a href="?page=MedicalHumanities.home" class="sub_sub">Medical Humanities &amp; Social Sciences</a></li>-->
+		</ul>
+		</li>
+		<li><a href="#" class="sub">Divisions / Offices</a>
+		<ul>
+			<li><a href="?page=academicAffairs.home" class="sub_sub">Academic Affairs</a></li>
+			<li><a href="?page=advisingOutreach.home" class="sub_sub">Advising &amp; Outreach</a></li>
+			<li><a href="?page=facultyDevelopment.home" class="sub_sub">Faculty Development</a></li>
+			<li><a href="?page=graduateMedicalEducation.home" class="sub_sub">Graduate Medical Education</a></li>
+			<!--<li><a href="?page=healthAffairs.home" class="sub_sub">Health Affairs</a></li>-->
+			<li><a href="?page=medicalEducation.home" class="sub_sub">Medical Education</a></li>
+			<li><a href="?page=studentAffairs.home" class="sub_sub">Student Affairs</a></li>
+		</ul>
+		</li>
+		<li><a href="?page=graduateMedicalEducation.home" class="sub">Residency Programs</a></li>
+		<li><a href="#" class="sub">Centers &amp; Institutes</a>
+		<ul>
+			<li><a href="?page=ahec.home" class="sub_sub">Area Health Education Center</a></li>
+			<li><a href="?page=autismInstitute.home" class="sub_sub">Autism Institute</a></li>
+            <li><a href="?page=IntegratedHealthcare.home" class="sub_sub">Center for Behavioral Health Integration </a></li>
+			<li><a href="?page=brainRepair.home" class="sub_sub">Center for Brain Repair</a></li>
+            <li><a href="?page=childstress.home" class="sub_sub">Center for Child Stress &amp; Health</a></li>
+			
+            <li><a href="?page=globalhealth.home" class="sub_sub">Center on Global Health</a></li>
+			<li><a href="?page=innovativeCollaboration.home" class="sub_sub">Center for Innovative Collaboration in Medicine &amp; Law</a></li>
+			
+			<li><a href="?page=medicinePublicHealth.home" class="sub_sub">Center for Medicine and Public Health</a></li>
+			<li><a href="?page=patientSafety.home" class="sub_sub">Center on Patient Safety</a></li>
+			<li><a href="?page=ruralHealthResearchPolicy.home" class="sub_sub">Center for Rural Health Research &amp; Policy</a></li>
+			<li><a href="?page=strategicPublicHealthPrepardness.home" class="sub_sub">Center for Strategic Public Health Preparedness</a></li>
+			
+		</ul>
+        
+	</li></ul>
+	</li>
+	<li><a href="#" class="admissions">Admissions</a>
+	<ul>
+		<li><a href="?page=mdAdmissions.home" class="sub">M.D.</a></li>
+		<li><a href="?page=phdAdmissions.admissionRequirements" class="sub">Ph.D.</a></li>
+        <li><a href="?page=pa.admissions" class="sub">Physician Assistant</a></li>
+        <li><a href="?page=IMS.advising" class="sub">IMS B.S. </a></li>
+		<li><a href="?page=honorsMedicalScholars.BSPhase" class="sub">Honors Medical Scholars</a></li>
+	</ul>
+	</li>
+	<li><a href="#" class="research">Research</a>
+	<ul>
+		<li><a href="?page=researchDivision.home" class="sub">Division of Research</a>
+        	<ul>
+        		<li><a href="?page=phdAdmissions.home" class="sub_sub">Ph.D. Program</a></li>
+            </ul>
+        </li>
+		<li><a href="?page=rac.home" class="sub">Human Subjects Research</a></li>
+<!--		<li><a href="?page=healthAffairs.home" class="sub">Division of Health Affairs</a>-->
+		<li><a href="#" class="sub">Centers &amp; Institutes</a>
+		<ul>
+			<li><a href="?page=ahec.home" class="sub_sub">Area Health Education Center</a></li>
+			<li><a href="?page=autismInstitute.home" class="sub_sub">Autism Institute</a></li>
+			<li><a href="?page=brainRepair.home" class="sub_sub">Center for Brain Repair</a></li>
+			<li><a href="?page=childstress.home" class="sub_sub">Center for Child Stress &amp; Health</a></li>
+			
+			<li><a href="?page=innovativeCollaboration.home" class="sub_sub">Center for Innovative Collaboration in Medicine &amp; Law</a></li>
+			
+			<li><a href="?page=medicinePublicHealth.home" class="sub_sub">Center for Medicine and Public Health</a></li>
+			<li><a href="?page=patientSafety.home" class="sub_sub">Center on Patient Safety</a></li>
+			<li><a href="?page=ruralHealthResearchPolicy.home" class="sub_sub">Center for Rural Health Research &amp; Policy</a></li>
+			<li><a href="?page=strategicPublicHealthPrepardness.home" class="sub_sub">Center for Strategic Public Health Preparedness</a></li>
+			<li><a href="?page=minoritiesAM.home" class="sub_sub">Center for Underrepresented Minorities in Academic Medicine</a></li>
+			
+		</ul>
+		</li>
+		<li><a href="?page=translationalLab.home" class="sub">Translational Science Laboratory</a></li>
+		<li><a href="?page=clinicalResearchNetwork.home" class="sub">Clinical Research Network</a></li>
+		<li><a href="?page=researchFundingFaculty.home" class="sub">Sponsored Projects &amp; Faculty Collaborations</a></li>
+		
+	</ul>
+	</li>
+	<li><a href="?fuseaction=library.home" class="library">Library</a></li>
+	<li><a href="?page=giving.home" class="giving">Giving</a></li>
+</ul>
+
+	</div>
+</div>
+<div id="wrapper">
+
+
+
+	<div id="oneColumnBorder_wrapper">
+		<div id="crumbHeader"></div>
+		<div id="oneColumnWrapper">
+			
+				<p></p>
+			
+			<style type="text/css">
+	h2 {
+		font-size: 18px;
+	}
+	
+	.profile_pic {
+		float: left; 
+		margin-right: 30px; 
+		margin-bottom: 10px;
+	}
+	
+	.profile_pic iframe {
+		border: thin solid #000; 
+		padding: 4px;
+	}
+	
+	.profile_pic img {
+		padding-left !important; 
+		margin-left: 0 !important;
+	}
+	
+	.profile_desc {
+		float: left;
+		width: 600px;
+	}
+	
+	.profile_video + .profile_desc {
+		width: 350px;
+	}
+	
+	.profile_desc h1 {
+		font-size: 22px; 
+		padding-bottom: 10px;
+	}
+	
+	.profile_desc h2 {
+		font-size: 18px; 
+		padding-top: 10px;
+	}
+	
+	.profile_desc p {
+		font-size: 14px;
+	}
+	
+	.clearfix {
+		clear: both;
+	}
+	
+	
+	
+	#twoColumnTop {
+		width: 95%;
+	}
+	
+</style>
+
+
+
+
+
+    <div class="profile_pic">
+    
+    	<img alt="Mahsheed Khajavi" src="http://med.fsu.edu/images/faculty/mahsheed.khajavi.jpg" class="border" id="marginLeft" style="" width="180">
+	
+	</div>
+
+<div class="profile_desc">
+	<h1 id="content" style="margin-top: 10px">Mahsheed Khajavi</h1>
+	<h2>Associate Professor</h2>
+    <p>
+        <a href="mailto:mahsheed.khajavi@med.fsu.edu">mahsheed.khajavi@med.fsu.edu</a><br> (850) 645-9853<br> Main Campus 
+       		<br>
+        
+    </p>
+</div>
+
+<div class="clearfix"></div>
+
+
+<h2>Biosketch</h2>
+<p>Dr. Khajavi is associate professor of clinical medicine in the FSU College of Medicine Department of Clinical Sciences. Prior to arriving at FSU, she was the inpatient medical director for Archbold Medical Center in Thomasville, Georgia. She developed a program to help improve patient care, physician metrics, global hospital metrics and physician recruitment and retainment. She also served as a consultant for improving hospitalist programs at Tift Regional Medical Center in Tifton, Georgia. Her career in medicine has focused on developing hospitalist teams and improving inpatient diagnosis, treatment and care. </p>
+
+
+
+
+<h2>Education</h2>
+<p>Tutorials in philosophy and comparative religion, Oxford University, Oxford, England<br>
+B.A., politics and philosophy, New York University, New York, New York<br>
+Post Baccalaureate Premedical Program, Bryn Mawr College, Bryn Mawr, Pennsylvania <br>
+M.D., George Washington University School of Medicine and Health Sciences<br>
+PGY I, Yale University Department of Medicine, New Haven, Connecticut<br>
+PGY II-IV, Emory University School of Medicine, Atlanta, Georgia<br>
+Board-certified in Internal Medicine, American Board of Internal Medicine<br></p>
+
+<h2>Publications</h2>
+<p>Khajavi, M. Adrenal Insufficiency in Hospitalized Patients. In: Comprehensive Hospital Medicine, Williams (Eds) Saunders, Philadelphia, PA 2007. P 517-521.<br>
+
+Blevins L., Christy J, Khajavi M, et al. Outcomes of Therapy for Cushing's Disease Due to Adrenocoticotropin-Secreting Pituitary Macroadenomas. Jcem. 1998; 83:63-67.<br>
+
+Review: Diabetic Ketoacidosis and the Hyperglycemic Hypersmolar Nonketotic Syndrome. The American Journal of Medical Sciences. 1996:311:225-33.<br></p>
+
+
+			
+		</div>
+	</div>
+<div id="bottomBar">
+ 	<!--<div id="slogan">Producing Compassionate Physicians for the  Twenty-First Century...</div>
+--> 	
+</div>
+
+</div>
+
+
+<div id="footer">
+  	<div id="footerNav">
+		<p><a href="index.cfm">Home</a> | 
+		<a href="?page=COMaboutUs.contactUs">Contact Us</a> | 
+		<a href="?page=home.faq">FAQ</a> | 
+		<a href="?fuseaction=calendar.fulldisplay&amp;usetemplate=column">Calendar</a> | 
+		<a href="?page=giving.home">Giving</a>
+		
+			
+				 | <a href="https://admin.med.fsu.edu/index.cfm?fuseaction=admin.main" class="lock">Admin</a>
+				 
+			
+	
+		</p>
+	</div>
+
+  	<div id="footerContact">
+  		<p>Florida State University | College of Medicine | 1115 West Call Street | Tallahassee, FL 32306-4300<br>
+  		Phone: (850) 644-1855 | Fax: (850) 644-9399 | <a href="http://med.fsu.edu/?page=COMaboutUs.contactUs">Contact Us</a></p>
+  	</div>
+  	<div id="footerCopyright"><p>© <a href="?page=home.copyright">Copyright</a>, <a href="http://fsu.edu" target="_blank">Florida State University</a>, 2017. All rights reserved.</p></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40724080-1', 'fsu.edu');
+  ga('send', 'pageview');
+
+</script>
+
+	<div style="float: right; margin-top: -60px; margin-right: 10px; color: #2B0007;">
+    	<style>
+
+
+	table.cfdump_wddx,
+	table.cfdump_xml,
+	table.cfdump_struct,
+	table.cfdump_varundefined,
+	table.cfdump_array,
+	table.cfdump_query,
+	table.cfdump_cfc,
+	table.cfdump_object,
+	table.cfdump_binary,
+	table.cfdump_udf,
+	table.cfdump_udfbody,
+	table.cfdump_udfarguments {
+		font-size: xx-small;
+		font-family: verdana, arial, helvetica, sans-serif;
+		cell-spacing: 2px;
+	}
+
+	table.cfdump_wddx th,
+	table.cfdump_xml th,
+	table.cfdump_struct th,
+	table.cfdump_varundefined th,
+	table.cfdump_array th,
+	table.cfdump_query th,
+	table.cfdump_cfc th,
+	table.cfdump_object th,
+	table.cfdump_binary th,
+	table.cfdump_udf th,
+	table.cfdump_udfbody th,
+	table.cfdump_udfarguments th {
+		text-align: left;
+		color: white;
+		padding: 5px;
+	}
+
+	table.cfdump_wddx td,
+	table.cfdump_xml td,
+	table.cfdump_struct td,
+	table.cfdump_varundefined  td,
+	table.cfdump_array td,
+	table.cfdump_query td,
+	table.cfdump_cfc td,
+	table.cfdump_object td,
+	table.cfdump_binary td,
+	table.cfdump_udf td,
+	table.cfdump_udfbody td,
+	table.cfdump_udfarguments td {
+		padding: 3px;
+		background-color: #ffffff;
+		vertical-align : top;
+	}
+
+	table.cfdump_wddx {
+		background-color: #000000;
+	}
+	table.cfdump_wddx th.wddx {
+		background-color: #444444;
+	}
+
+
+	table.cfdump_xml {
+		background-color: #888888;
+	}
+	table.cfdump_xml th.xml {
+		background-color: #aaaaaa;
+	}
+	table.cfdump_xml td.xml {
+		background-color: #dddddd;
+	}
+
+	table.cfdump_struct {
+		background-color: #0000cc ;
+	}
+	table.cfdump_struct th.struct {
+		background-color: #4444cc ;
+	}
+	table.cfdump_struct td.struct {
+		background-color: #ccddff;
+	}
+
+	table.cfdump_varundefined {
+		background-color: #CC3300 ;
+	}
+	table.cfdump_varundefined th.varundefined {
+		background-color: #CC3300 ;
+	}
+	table.cfdump_varundefined td.varundefined {
+		background-color: #ccddff;
+	}
+
+	table.cfdump_array {
+		background-color: #006600 ;
+	}
+	table.cfdump_array th.array {
+		background-color: #009900 ;
+	}
+	table.cfdump_array td.array {
+		background-color: #ccffcc ;
+	}
+
+	table.cfdump_query {
+		background-color: #884488 ;
+	}
+	table.cfdump_query th.query {
+		background-color: #aa66aa ;
+	}
+	table.cfdump_query td.query {
+		background-color: #ffddff ;
+	}
+
+
+	table.cfdump_cfc {
+		background-color: #ff0000;
+	}
+	table.cfdump_cfc th.cfc{
+		background-color: #ff4444;
+	}
+	table.cfdump_cfc td.cfc {
+		background-color: #ffcccc;
+	}
+
+
+	table.cfdump_object {
+		background-color : #ff0000;
+	}
+	table.cfdump_object th.object{
+		background-color: #ff4444;
+	}
+
+	table.cfdump_binary {
+		background-color : #eebb00;
+	}
+	table.cfdump_binary th.binary {
+		background-color: #ffcc44;
+	}
+	table.cfdump_binary td {
+		font-size: x-small;
+	}
+	table.cfdump_udf {
+		background-color: #aa4400;
+	}
+	table.cfdump_udf th.udf {
+		background-color: #cc6600;
+	}
+	table.cfdump_udfarguments {
+		background-color: #dddddd;
+		cell-spacing: 3;
+	}
+	table.cfdump_udfarguments th {
+		background-color: #eeeeee;
+		color: #000000;
+	}
+
+</style> <script language="javascript">
+
+
+// for queries we have more than one td element to collapse/expand
+	var expand = "open";
+
+	dump = function( obj ) {
+		var out = "" ;
+		if ( typeof obj == "object" ) {
+			for ( key in obj ) {
+				if ( typeof obj[key] != "function" ) out += key + ': ' + obj[key] + '<br>' ;
+			}
+		}
+	}
+
+
+	cfdump_toggleRow = function(source) {
+		//target is the right cell
+		if(document.all) target = source.parentElement.cells[1];
+		else {
+			var element = null;
+			var vLen = source.parentNode.childNodes.length;
+			for(var i=vLen-1;i>0;i--){
+				if(source.parentNode.childNodes[i].nodeType == 1){
+					element = source.parentNode.childNodes[i];
+					break;
+				}
+			}
+			if(element == null)
+				target = source.parentNode.lastChild;
+			else
+				target = element;
+		}
+		//target = source.parentNode.lastChild ;
+		cfdump_toggleTarget( target, cfdump_toggleSource( source ) ) ;
+	}
+
+	cfdump_toggleXmlDoc = function(source) {
+
+		var caption = source.innerHTML.split( ' [' ) ;
+
+		// toggle source (header)
+		if ( source.style.fontStyle == 'italic' ) {
+			// closed -> short
+			source.style.fontStyle = 'normal' ;
+			source.innerHTML = caption[0] + ' [short version]' ;
+			source.title = 'click to maximize' ;
+			switchLongToState = 'closed' ;
+			switchShortToState = 'open' ;
+		} else if ( source.innerHTML.indexOf('[short version]') != -1 ) {
+			// short -> full
+			source.innerHTML = caption[0] + ' [long version]' ;
+			source.title = 'click to collapse' ;
+			switchLongToState = 'open' ;
+			switchShortToState = 'closed' ;
+		} else {
+			// full -> closed
+			source.style.fontStyle = 'italic' ;
+			source.title = 'click to expand' ;
+			source.innerHTML = caption[0] ;
+			switchLongToState = 'closed' ;
+			switchShortToState = 'closed' ;
+		}
+
+		// Toggle the target (everething below the header row).
+		// First two rows are XMLComment and XMLRoot - they are part
+		// of the long dump, the rest are direct children - part of the
+		// short dump
+		if(document.all) {
+			var table = source.parentElement.parentElement ;
+			for ( var i = 1; i < table.rows.length; i++ ) {
+				target = table.rows[i] ;
+				if ( i < 3 ) cfdump_toggleTarget( target, switchLongToState ) ;
+				else cfdump_toggleTarget( target, switchShortToState ) ;
+			}
+		}
+		else {
+			var table = source.parentNode.parentNode ;
+			var row = 1;
+			for ( var i = 1; i < table.childNodes.length; i++ ) {
+				target = table.childNodes[i] ;
+				if( target.style ) {
+					if ( row < 3 ) {
+						cfdump_toggleTarget( target, switchLongToState ) ;
+					} else {
+						cfdump_toggleTarget( target, switchShortToState ) ;
+					}
+					row++;
+				}
+			}
+		}
+	}
+
+	cfdump_toggleTable = function(source) {
+
+		var switchToState = cfdump_toggleSource( source ) ;
+		if(document.all) {
+			var table = source.parentElement.parentElement ;
+			for ( var i = 1; i < table.rows.length; i++ ) {
+				target = table.rows[i] ;
+				cfdump_toggleTarget( target, switchToState ) ;
+			}
+		}
+		else {
+			var table = source.parentNode.parentNode ;
+			for ( var i = 1; i < table.childNodes.length; i++ ) {
+				target = table.childNodes[i] ;
+				if(target.style) {
+					cfdump_toggleTarget( target, switchToState ) ;
+				}
+			}
+		}
+	}
+
+	cfdump_toggleSource = function( source ) {
+		if ( source.style.fontStyle == 'italic' || source.style.fontStyle == null) {
+			source.style.fontStyle = 'normal' ;
+			source.title = 'click to collapse' ;
+			return 'open' ;
+		} else {
+			source.style.fontStyle = 'italic' ;
+			source.title = 'click to expand' ;
+			return 'closed' ;
+		}
+	}
+
+	cfdump_toggleTarget = function( target, switchToState ) {
+		if ( switchToState == 'open' )	target.style.display = '' ;
+		else target.style.display = 'none' ;
+	}
+
+	// collapse all td elements for queries
+	cfdump_toggleRow_qry = function(source) {
+		expand = (source.title == "click to collapse") ? "closed" : "open";
+		if(document.all) {
+			var nbrChildren = source.parentElement.cells.length;
+			if(nbrChildren > 1){
+				for(i=nbrChildren-1;i>0;i--){
+					target = source.parentElement.cells[i];
+					cfdump_toggleTarget( target,expand ) ;
+					cfdump_toggleSource_qry(source);
+				}
+			}
+			else {
+				//target is the right cell
+				target = source.parentElement.cells[1];
+				cfdump_toggleTarget( target, cfdump_toggleSource( source ) ) ;
+			}
+		}
+		else{
+			var target = null;
+			var vLen = source.parentNode.childNodes.length;
+			for(var i=vLen-1;i>1;i--){
+				if(source.parentNode.childNodes[i].nodeType == 1){
+					target = source.parentNode.childNodes[i];
+					cfdump_toggleTarget( target,expand );
+					cfdump_toggleSource_qry(source);
+				}
+			}
+			if(target == null){
+				//target is the last cell
+				target = source.parentNode.lastChild;
+				cfdump_toggleTarget( target, cfdump_toggleSource( source ) ) ;
+			}
+		}
+	}
+
+	cfdump_toggleSource_qry = function(source) {
+		if(expand == "closed"){
+			source.title = "click to expand";
+			source.style.fontStyle = "italic";
+		}
+		else{
+			source.title = "click to collapse";
+			source.style.fontStyle = "normal";
+		}
+	}
+
+</script> med.fsu.edu  | <style>
+
+
+	table.cfdump_wddx,
+	table.cfdump_xml,
+	table.cfdump_struct,
+	table.cfdump_varundefined,
+	table.cfdump_array,
+	table.cfdump_query,
+	table.cfdump_cfc,
+	table.cfdump_object,
+	table.cfdump_binary,
+	table.cfdump_udf,
+	table.cfdump_udfbody,
+	table.cfdump_udfarguments {
+		font-size: xx-small;
+		font-family: verdana, arial, helvetica, sans-serif;
+		cell-spacing: 2px;
+	}
+
+	table.cfdump_wddx th,
+	table.cfdump_xml th,
+	table.cfdump_struct th,
+	table.cfdump_varundefined th,
+	table.cfdump_array th,
+	table.cfdump_query th,
+	table.cfdump_cfc th,
+	table.cfdump_object th,
+	table.cfdump_binary th,
+	table.cfdump_udf th,
+	table.cfdump_udfbody th,
+	table.cfdump_udfarguments th {
+		text-align: left;
+		color: white;
+		padding: 5px;
+	}
+
+	table.cfdump_wddx td,
+	table.cfdump_xml td,
+	table.cfdump_struct td,
+	table.cfdump_varundefined  td,
+	table.cfdump_array td,
+	table.cfdump_query td,
+	table.cfdump_cfc td,
+	table.cfdump_object td,
+	table.cfdump_binary td,
+	table.cfdump_udf td,
+	table.cfdump_udfbody td,
+	table.cfdump_udfarguments td {
+		padding: 3px;
+		background-color: #ffffff;
+		vertical-align : top;
+	}
+
+	table.cfdump_wddx {
+		background-color: #000000;
+	}
+	table.cfdump_wddx th.wddx {
+		background-color: #444444;
+	}
+
+
+	table.cfdump_xml {
+		background-color: #888888;
+	}
+	table.cfdump_xml th.xml {
+		background-color: #aaaaaa;
+	}
+	table.cfdump_xml td.xml {
+		background-color: #dddddd;
+	}
+
+	table.cfdump_struct {
+		background-color: #0000cc ;
+	}
+	table.cfdump_struct th.struct {
+		background-color: #4444cc ;
+	}
+	table.cfdump_struct td.struct {
+		background-color: #ccddff;
+	}
+
+	table.cfdump_varundefined {
+		background-color: #CC3300 ;
+	}
+	table.cfdump_varundefined th.varundefined {
+		background-color: #CC3300 ;
+	}
+	table.cfdump_varundefined td.varundefined {
+		background-color: #ccddff;
+	}
+
+	table.cfdump_array {
+		background-color: #006600 ;
+	}
+	table.cfdump_array th.array {
+		background-color: #009900 ;
+	}
+	table.cfdump_array td.array {
+		background-color: #ccffcc ;
+	}
+
+	table.cfdump_query {
+		background-color: #884488 ;
+	}
+	table.cfdump_query th.query {
+		background-color: #aa66aa ;
+	}
+	table.cfdump_query td.query {
+		background-color: #ffddff ;
+	}
+
+
+	table.cfdump_cfc {
+		background-color: #ff0000;
+	}
+	table.cfdump_cfc th.cfc{
+		background-color: #ff4444;
+	}
+	table.cfdump_cfc td.cfc {
+		background-color: #ffcccc;
+	}
+
+
+	table.cfdump_object {
+		background-color : #ff0000;
+	}
+	table.cfdump_object th.object{
+		background-color: #ff4444;
+	}
+
+	table.cfdump_binary {
+		background-color : #eebb00;
+	}
+	table.cfdump_binary th.binary {
+		background-color: #ffcc44;
+	}
+	table.cfdump_binary td {
+		font-size: x-small;
+	}
+	table.cfdump_udf {
+		background-color: #aa4400;
+	}
+	table.cfdump_udf th.udf {
+		background-color: #cc6600;
+	}
+	table.cfdump_udfarguments {
+		background-color: #dddddd;
+		cell-spacing: 3;
+	}
+	table.cfdump_udfarguments th {
+		background-color: #eeeeee;
+		color: #000000;
+	}
+
+</style> <script language="javascript">
+
+
+// for queries we have more than one td element to collapse/expand
+	var expand = "open";
+
+	dump = function( obj ) {
+		var out = "" ;
+		if ( typeof obj == "object" ) {
+			for ( key in obj ) {
+				if ( typeof obj[key] != "function" ) out += key + ': ' + obj[key] + '<br>' ;
+			}
+		}
+	}
+
+
+	cfdump_toggleRow = function(source) {
+		//target is the right cell
+		if(document.all) target = source.parentElement.cells[1];
+		else {
+			var element = null;
+			var vLen = source.parentNode.childNodes.length;
+			for(var i=vLen-1;i>0;i--){
+				if(source.parentNode.childNodes[i].nodeType == 1){
+					element = source.parentNode.childNodes[i];
+					break;
+				}
+			}
+			if(element == null)
+				target = source.parentNode.lastChild;
+			else
+				target = element;
+		}
+		//target = source.parentNode.lastChild ;
+		cfdump_toggleTarget( target, cfdump_toggleSource( source ) ) ;
+	}
+
+	cfdump_toggleXmlDoc = function(source) {
+
+		var caption = source.innerHTML.split( ' [' ) ;
+
+		// toggle source (header)
+		if ( source.style.fontStyle == 'italic' ) {
+			// closed -> short
+			source.style.fontStyle = 'normal' ;
+			source.innerHTML = caption[0] + ' [short version]' ;
+			source.title = 'click to maximize' ;
+			switchLongToState = 'closed' ;
+			switchShortToState = 'open' ;
+		} else if ( source.innerHTML.indexOf('[short version]') != -1 ) {
+			// short -> full
+			source.innerHTML = caption[0] + ' [long version]' ;
+			source.title = 'click to collapse' ;
+			switchLongToState = 'open' ;
+			switchShortToState = 'closed' ;
+		} else {
+			// full -> closed
+			source.style.fontStyle = 'italic' ;
+			source.title = 'click to expand' ;
+			source.innerHTML = caption[0] ;
+			switchLongToState = 'closed' ;
+			switchShortToState = 'closed' ;
+		}
+
+		// Toggle the target (everething below the header row).
+		// First two rows are XMLComment and XMLRoot - they are part
+		// of the long dump, the rest are direct children - part of the
+		// short dump
+		if(document.all) {
+			var table = source.parentElement.parentElement ;
+			for ( var i = 1; i < table.rows.length; i++ ) {
+				target = table.rows[i] ;
+				if ( i < 3 ) cfdump_toggleTarget( target, switchLongToState ) ;
+				else cfdump_toggleTarget( target, switchShortToState ) ;
+			}
+		}
+		else {
+			var table = source.parentNode.parentNode ;
+			var row = 1;
+			for ( var i = 1; i < table.childNodes.length; i++ ) {
+				target = table.childNodes[i] ;
+				if( target.style ) {
+					if ( row < 3 ) {
+						cfdump_toggleTarget( target, switchLongToState ) ;
+					} else {
+						cfdump_toggleTarget( target, switchShortToState ) ;
+					}
+					row++;
+				}
+			}
+		}
+	}
+
+	cfdump_toggleTable = function(source) {
+
+		var switchToState = cfdump_toggleSource( source ) ;
+		if(document.all) {
+			var table = source.parentElement.parentElement ;
+			for ( var i = 1; i < table.rows.length; i++ ) {
+				target = table.rows[i] ;
+				cfdump_toggleTarget( target, switchToState ) ;
+			}
+		}
+		else {
+			var table = source.parentNode.parentNode ;
+			for ( var i = 1; i < table.childNodes.length; i++ ) {
+				target = table.childNodes[i] ;
+				if(target.style) {
+					cfdump_toggleTarget( target, switchToState ) ;
+				}
+			}
+		}
+	}
+
+	cfdump_toggleSource = function( source ) {
+		if ( source.style.fontStyle == 'italic' || source.style.fontStyle == null) {
+			source.style.fontStyle = 'normal' ;
+			source.title = 'click to collapse' ;
+			return 'open' ;
+		} else {
+			source.style.fontStyle = 'italic' ;
+			source.title = 'click to expand' ;
+			return 'closed' ;
+		}
+	}
+
+	cfdump_toggleTarget = function( target, switchToState ) {
+		if ( switchToState == 'open' )	target.style.display = '' ;
+		else target.style.display = 'none' ;
+	}
+
+	// collapse all td elements for queries
+	cfdump_toggleRow_qry = function(source) {
+		expand = (source.title == "click to collapse") ? "closed" : "open";
+		if(document.all) {
+			var nbrChildren = source.parentElement.cells.length;
+			if(nbrChildren > 1){
+				for(i=nbrChildren-1;i>0;i--){
+					target = source.parentElement.cells[i];
+					cfdump_toggleTarget( target,expand ) ;
+					cfdump_toggleSource_qry(source);
+				}
+			}
+			else {
+				//target is the right cell
+				target = source.parentElement.cells[1];
+				cfdump_toggleTarget( target, cfdump_toggleSource( source ) ) ;
+			}
+		}
+		else{
+			var target = null;
+			var vLen = source.parentNode.childNodes.length;
+			for(var i=vLen-1;i>1;i--){
+				if(source.parentNode.childNodes[i].nodeType == 1){
+					target = source.parentNode.childNodes[i];
+					cfdump_toggleTarget( target,expand );
+					cfdump_toggleSource_qry(source);
+				}
+			}
+			if(target == null){
+				//target is the last cell
+				target = source.parentNode.lastChild;
+				cfdump_toggleTarget( target, cfdump_toggleSource( source ) ) ;
+			}
+		}
+	}
+
+	cfdump_toggleSource_qry = function(source) {
+		if(expand == "closed"){
+			source.title = "click to expand";
+			source.style.fontStyle = "italic";
+		}
+		else{
+			source.title = "click to collapse";
+			source.style.fontStyle = "normal";
+		}
+	}
+
+</script> 128.186.172.6 
+    </div>
+    <div style="clear: both;"></div>
+
+</div>
+
+
+
+
+</div></body></html>

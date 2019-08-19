@@ -1,0 +1,157 @@
+The University of Southampton
+Courses
+Undergraduate
+Postgraduate taught
+Postgraduate research
+Foundation Years
+How to apply
+Free online learning
+Continuing professional development
+Prospectuses
+Pre-sessional English language courses
+University life
+Choose Southampton
+Fees & funding
+Accommodation
+International students
+Study abroad & exchange
+Campus life
+City life
+Careers & employability
+Arts
+Learning & teaching
+Key dates
+Research
+Our impact
+Facilities
+Centres and institutes
+Funding
+Research & Innovation Services
+Partnerships
+Commercialising research
+Researcher support
+Research integrity
+Business
+Why work with us?
+Collaboration
+Consultancy
+Commercialisation
+Use our facilities
+Connect with our students
+How we operate
+Suppliers
+Make a business enquiry
+Global
+International Office
+Partnerships map
+Partnerships and initiatives
+Visiting fellowships
+Accessibility Tools
+About
+Visit
+Alumni
+Departments
+News
+Events
+Contact
+×
+Medicine
+Who we are
+Our research
+Undergraduate study
+Postgraduate study
+International
+Enterprise
+Academic units
+Our alumni
+Outreach
+Our news, events & seminars
+Contact us
+Right
+Our staff
+Our approach
+Achievements
+What our students think
+Executive team
+International links
+Home
+>Medicine>Who we are>Our staff
+Phone:
+(023) 8120 5097
+Email:
+S.L.Buchan@soton.ac.uk
+Dr Sarah Buchan BSc, PhD
+Senior Post-Doctoral Research Fellow
+Related links
+As a Senior Research Fellow and immunologist I am fascinated by how T lymphocytes protect us against infection and how these amazing cells can be used to combat cancer. My research focusses on understanding how some of the receptors expressed on the surface of T lymphocytes can be manipulated to best mobilise anti-tumour immunity.
+T cells are motile killers capable of specifically destroying cancerous and infected cells; understanding what controls these powerful assassins will allow new cancer treatments to be developed.
+Dr Buchan completed her PhD at the University of Southampton in 2005 studying the optimization of vaccine design and delivery to maximize T-cell responses to cancer cells under Prof. F. K. Stevenson. The principles established by this research, and her subsequent work targeting the leukemia-associated antigen WT1, triggered the inception of several ongoing clinical trials in cancer patients, overseen by Prof C. Ottensmeier.
+
+In 2008 she moved to the group of Prof. Al-Shamkhani to study how members of the tumour necrosis factor superfamily modify the quality and quantity of T-cell activation. In 2009 she was awarded the Faculty Post-Doctoral Career Track Award enabling her to continue her research investigating the processes that regulate T-cell activity and function and how this information can be exploited for the eradication of cancer. 
+Qualifications
+BSc, Biology, University of Southampton (1998)
+PhD, University of Southampton (2005)
+Appointments held
+2001-2005 Research Assistant/Part-time PhD student, University of Southampton
+
+2005-2008 Post-Doctoral Research Fellow, University of Southampton
+
+2008-present Senior Post-Doctoral Fellow and Career-Track Fellow, University of Southampton.
+Research
+Responsibilities
+Publications
+Teaching
+Contact
+Research interests
+Dr Buchan’s research interests revolve around the biology of T lymphocytes, a key cell type used by the immune system to combat infectious disesases and cancer. Her research seeks to understand how these cells can be activated to respond to tumour cells in vivo and how T-cell activity can be maintained in the face of suppressive mechanisms exploited by tumour cells.
+Activating anti-tumour T cells
+Encouraging the activation of cancer-reactive T cells can be problematic in vivo as cancerous cells derive from ‘self’, posing a challenge for the immune system which is designed to respond to ‘foreign’ antigens. Nonetheless, with Prof. F.K.Stevenson and her team in Southampton, Dr Buchan has shown that DNA vaccines encoding both a ‘foreign’ sequence from tetanus toxoid and a tumour-derived target sequence, are able to engage the immune system and drive activation and expansion of tumour-specific T cells in mice. Delivering these vaccines in a site transiently exposed to an alternating electrical current (a process called electroporation) further enhanced the efficacy of DNA vaccination and enabled aproximately 80% of mice to reject colon carcinoma in vivo. This combination of electroporation and DNA vaccination also conferred significant protection from tumour growth in a therapeutic setting. As a result of these data, the first clinical trial evaluating the combination of DNA vaccination and electroporation in cancer patients is ongoing, overseen by Prof. C. Ottensmeier.
+Further research, using ‘humanised’ mice, showed that DNA vaccines can be used to activate T cells specific for human-relevant peptides derived from the tumour-associated target, WT1. Of note, WT1-specific T cells activated by DNA vaccination in humanised mice killed human leukaemia cell lines in vitro suggesting that this DNA vaccine design may be efficacious in patients. A clinical trial evaluating this WT1-targeting DNA vaccine design is currently ongoing.
+Overcoming immune suppressive mechanisms in vivo
+In recent years it has become apparent that T cells present at tumour sites often become ‘exhausted’ characterised by decreased effector function and a propensity to undergo programmed cell death, driven by negative signals supplied through e.g. PD-1. To overcome these suppressive mechanisms Dr Buchan has more recently been working with the group of Prof A. Al-Shamkhani to explore the T-cell activatory properties of members of the TNF receptor superfamily. This large family of receptors engage intracellular signalling pathways in T cells, including the pro-survival NF-kB pathway, to augment T-cell activation and longevity. Current research is focussed on exploring whether agonistic antibodies directed against members of the TNFRSF can augment local T-cell function in vivo and thereby improve rates of tumour regression. In parallel, and with Dr R Chakraverty at University College London, the team are exploring whether TNFRSF agonists can maintain functional anti-leukaemia T cells in the absence of overt graft-versus-host disease after bone marrow transplantation. This important project models the clinical situation in which leukaemia patients are irradiated and then receive allogeneic bone marrow transplantation as part of their treatment regime. In this setting T cells deriving from the donor provide protection from resurgence of leukaemia (termed graft versus leukaemia or GvL), but unfortunately, often cause graft versus host disease (GvHD) driven by irradiation-induced inflammation. GvL in the absence of GvHD can be achieved by removing T cells from the initial bone marrow transplant, and instead supplying T cells at later time points after irradiation (called delayed donor lymphocyte infusion; DLI). However, while this allows initial GvL reactivity without GvHD, continual exposure to antigen results in donor T cells becoming ‘exhausted’. Ongoing research is investigating which TNFRSF agonists are most effective at preventing T cells differentiating to an exhausted phenotype, and/or whether TNFRSF agonists can reverse T-cell exhaustion once established.
+An additional element of this research is to study the nature of NF-kB activation driven through members of the TNFRSF. This signalling pathway activates pleiotropic downstream phenotypes in cells and Dr Buchan’s previous research shows that some of this diversity may be due, at least in part, to differential activation of the alternative and canonical NF-kB pathways by distinct regions of individual TNFRSF members. Understanding how these signals are regulated at the sub-receptor level may therefore provide a platform for modulating the quality of the anti-tumour T-cell response, and this remains an area of interest.
+Academic unit(s)
+Cancer Sciences Academic Unit
+
+
+
+
+
+
+Share this profile
+Facebook Google+ Twitter Weibo
+Information for
+Visitors
+Staff & students
+Schools & colleges
+Researchers
+Employers & recruiters
+Parents & guardians
+Students from outside UK/EU
+Contact us
++44(0)23 8059 5000
++44(0)23 8059 3131
+Address
+University of Southampton
+University Road
+Southampton
+SO17 1BJ
+United Kingdom
+Get directions ›
+Connect with us
+Facebook
+Twitter
+Instagram
+LinkedIn
+YouTube
+Download University of Southampton prospectus
+Download a PDF of our prospectus or order a printed copy to be delivered to your door.
+Download a prospectus
+© 2017 University of Southampton
+Site map
+Freedom of information
+Terms & conditions
+Contact
+Jobs
+We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we will assume that you are happy to receive cookies on the University of Southampton website.
+×

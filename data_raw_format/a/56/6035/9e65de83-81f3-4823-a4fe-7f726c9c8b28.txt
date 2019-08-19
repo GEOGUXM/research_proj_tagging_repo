@@ -1,0 +1,42 @@
+Skip to main content
+Main menu
+Search this site
+You are here
+Home | People
+Carol Vandenberg
+Professor
+Phone: (805) 893-8505
+Email: carol.vandenberg@lifesci.ucsb.edu
+Office: 5175 Bio II
+Awards / Honors
+Margaret Oakley Dayhoff Award in Biophysics
+Biography
+Dr. Vandenberg received her B.A. degree in Biology and Chemistry from the University of California, Santa Cruz, and her Ph.D. in Neurosciences from the University of California, San Diego. Her doctoral dissertation examined the biochemistry of visual transduction. As an NIH postdoctoral fellow and a Muscular Dystrophy Association postdoctoral fellow at UCLA, she studied sodium and potassium channels in nerve and muscle cells. Her research at UCSB uses molecular, cell biological and biophysical approaches to elucidate the mechanisms of ion channel function, protein trafficking and neuronal polarity.
+Research Description
+Neurons and other excitable cells have the unique ability to transmit and to respond to signals on a millisecond time scale. These rapid signals are due to ion channels, which are the molecular gates that control electrical activity. Our research focuses on 1) potassium channels and the signal transduction complexes that are involved in their regulation and trafficking, and 2) mechanisms of neuronal polarity. Using a combination of cell biological and biophysical approaches, our goal is to learn how molecular events shape the electrical signals and responses of the nervous system.
+Our ion channel studies are directed towards understanding the molecular mechanisms underlying the function of inwardly rectifying potassium channels. Potassium channels are the most abundant and diverse group of ion channel in the human genome, and also the most important for regulating cellular electrical signals. Potassium channels play a critical role in the control of neuronal action potential signaling, generation of the heart beat, contraction of muscles, and secretion of hormones. Our ion channel work is focused on investigation of channel trafficking and regulation by channel-associated signaling complexes. By using a proteomics approach we have identified channel-associated signaling and trafficking proteins, which we are studying in mammalian neurons, muscle cells and epithelial cells, both in culture and in vivo. Our studies encompass a variety of methods including cell biology, molecular biology, fluorescence imaging, biochemical studies of trafficking, protein-protein interaction, and biophysical/electrophysiological studies of electrical activity.
+Another area of our research concerns the mechanisms of neuronal polarity. Cell polarity and precise subcellular protein localization are pivotal to neuronal function. Neurons are highly polarized into axonal and dendritic domains that are functionally specialized to receive and transmit signals, and each of which contains unique complements of membrane proteins. We are investigating the molecular mechanisms that underlie the polarized targeting of membrane proteins and the role of SNARE proteins in orchestrating the polarized trafficking of protein cargoes to axonal and dendritic membranes.
+Selected Publications
+Soo Hoo L, Banna CD, Radeke CM, Sharma N, Albertolle ME, Low SH, Weimbs T, Vandenberg CA (2016) The SNARE Protein Syntaxin 3 Confers Specificity for Polarized Axonal Trafficking in Neurons. PLoS ONE 11(9), e0163671. doi:10.1371/journal.pone.0163671
+Dassau, L., Conti, L. R., Radeke, C. M., Ptacek, L. J., and Vandenberg, C. A. (2011) Kir2.6 regulates the surface expression of Kir2 inward rectifier potassium channels. J. Biol. Chem. 286, 9526-9541.
+Adelman, J. P., Clapham, D. E., Hibino, H., Inanobe, A., Jan, L. Y., Karschin, A., Kubo, Y., Kurachi, Y., Lazdunski, M., Miki, T., Nichols, C. G., Pearson, W. L., Seino, S., and Vandenberg, C. A. (2008) Inwardly Rectifying Potassium Channels. IUPHAR Ion Channel Database (IUPHAR-DB), http://www.iuphar-db.org/DATABASE/FamilyMenuForward?familyId=74
+Vandenberg, C. A. (2008) Integrins step up the pace of cell migration through polyamines and potassium channels. Proc. Natl. Acad. Sci. USA 105, 7109-7110.
+Kubo, Y., Adelman, J. P., Clapham, D. E., Jan, L. Y., Karschin, A., Kurachi, Y., Lazdunski, M., Nichols, C. G., Seino, S., and Vandenberg, C. A (2005) Nomenclature and molecular relationships of Kir channels. Pharmacol. Rev. 57, 509-526.
+Fang, Y., Schram, G., Romanenko, V., Shi, C., Conti, L., Vandenberg, C. A., Davies, P. F., Nattel, S., and Levitan, I. (2005) Functional expression of Kir2.x in human aortic endothelial cells: the dominant role of Kir2.2. Am. J. Physiol. Cell Physiol. 289, C1134-1144.
+Leonoudakis, D., Conti, L. R., Radeke, C. M., McGuire, L. M. M., and Vandenberg, C. A. (2004) A multi-protein trafficking complex composed of SAP97, CASK, Veli and Mint1 is associated with inward rectifier Kir2 potassium channels. J. Biol. Chem. 279, 19051-19063.
+Leonoudakis, D., Conti, L. R., Anderson, S., Radeke, C. M., McGuire, L. M. M., Adams, M. E., Froehner, S. C., Yates, J. R., and Vandenberg, C. A. (2004) Protein trafficking and anchoring complexes revealed by proteomic analysis of inward rectifier potassium channel (Kir2.x) associated proteins J. Biol. Chem. 279, 22331-22346.
+Romanenko, V. G., Fang, Y., Byfield, F., Travis, A. J., Vandenberg, C. A., Rothblat, G. H., and Levitan, I. (2004) Cholesterol sensitivity and lipid raft targeting of Kir 2.1 channels. Biophys. J. 87, 3850-3861.
+Conti, L.R., Radeke, C.M., and Vandenberg, C.A. (2002) Membrane targeting of ATP-sensitive potassium channel: Effects of glycosylation on surface expression. J. Biol. Chem. 277, 25416-25422.
+Conti, L.R., Radeke, C.M., Shyng, S.-L., and Vandenberg, C.A. (2001) Transmembrane topology of the sulfonylurea receptor SUR1. J. Biol. Chem. 276, 41270-41278.
+Research Areas
+Biochemistry & Biomaterials
+Biomedical Sciences
+Cell Biology
+Neuroscience
+Affiliations
+Campus
+Biomolecular Science and Engineering Program
+Neuroscience Research Institute
+Molecular, Cellular, and Developmental Biology • University of California, Santa Barbara
+Copyright © 2017 The Regents of the University of California, All Rights Reserved.
+Site Information • Terms of Use • Privacy • Login

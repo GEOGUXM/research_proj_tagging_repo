@@ -1,0 +1,117 @@
+ 
+Nobuhiro Yanai Last modified date：2017.05.15
+
+Associate Professor / Biofunctional Chemistry
+Department of Applied Chemistry
+Faculty of Engineering
+
+
+1 Research Interests
+2 Current and Past Project
+3 Academic Activities
+3.1 Papers
+3.2 Presentations
+4 Membership in Academic Society
+5 Awards
+6 Other Educational Activities
+Graduate School
+Department of Chemistry and Biochemistry
+Graduate School of Engineering
+Undergraduate School
+Department of Materials Science and Engineering
+School of Engineering
+Other Organization
+Center for Molecular Systems (CMS)
+
+
+Homepage
+https://sites.google.com/site/nobuhiroyanaihomepage/home
+Personal homepage .
+http://www.chem.kyushu-u.ac.jp/~ircms/
+Center for Molecular Systems .
+http://www.chem.kyushu-u.ac.jp/~kimizuka/
+Kimizuka lab .
+Academic Degree
+Ph. D. (Engineering)
+Field of Specialization
+Functional Materials Chemistry, Photon Upconversion
+Outline Activities
+[Research]
+Development of highly efficient photon upconversion molecular systems, Science of excited triplet state
+
+[Education]
+Lectures of organic chemistry and polymer chemistry
+Experimental classes of undergraduate students
+Research guidance for Doctor, Master, Undergraduate students in the lab
+
+[Awards]
+Award for Encouragement of Research in Polymer Science, the Society of Polymer Science, Japan (2016)
+Poster Award, 7th International Conference on Green and Sustainable Chemistry (GSC-7) and 4th JACI/GSC Symposium, 2015, Tokyo
+The Award of Encouragement of Research in IUMRS-ICA2014, Fukuoka, Japan
+CSJ Presentation Award 2014, Nagoya, Japan
+Quadrant Award 2013, Switzerland
+Research
+Research Interests
+Development of Photon-Upconversion Molecular Systems
+keyword : Photon Upconversion, Self-Assembly, Energy Migration
+2013.04～2015.03.
+Construction of highly efficient energy conversion system based on self-assembly
+keyword : self-assembly, energy conversion
+2012.11～2013.04.
+Current and Past Project
+This international collaboration aims to understand a new problem in the field of self-assembly: self-assembly of particles that reconfigure. We envision a tag-team approach between synthetic developments in the Japanese laboratory, and physical exploration of assembly in the U.S. laboratory.
+Academic Activities
+Papers
+ Show All Papers >>
+1. Yoichi Sasaki, Shogo Amemori, Nobuhiro Yanai, Nobuo Kimizuka, Hironori Kouno, Near infrared-to-blue photon upconversion by exploiting direct S-T absorption of a molecular sensitizer, J. Mater. Chem. C, 2017.05, [URL].
+2. DUAN PENGFEI, Deepak Asthana, Takuya Nakashima, Tsuyoshi Kawai, Nobuhiro Yanai, Nobuo Kimizuka, All-or-None Switching of Photon Upconversion in Self-Assembled Organogel Systems, Faraday Discussions, 196, 2016.07, [URL].
+3. Nobuhiro Yanai, Nobuo Kimizuka, Masa-aki Morikawa, Photon Upconversion and Molecular Solar Energy Storage by Maximizing the Potential of Molecular Self-Assembly, Langmuir, 32, 2016.03, [URL].
+4. Shogo Amemori, Yoichi Sasaki, Nobuhiro Yanai, Nobuo Kimizuka, Near Infrared-to-Visible Photon Upconversion Sensitized by a Metal Complex with Spin-Forbidden yet Strong S0-T1 Absorption, J. Am. Chem. Soc., 138, 2016.06, [URL].
+5. Nobuhiro Yanai, Mariko Kozue, Shogo Amemori, Kabe Ryota, CHIHAYA ADACHI, Nobuo Kimizuka, Increased Vis-to-UV upconversion performance by energy level matching between a TADF donor and high triplet energy acceptors, J. Mater. Chem. C, 4, 2016.04, [URL].
+6. Keisuke Okumura, Kazuma Mase, Nobuhiro Yanai, Nobuo Kimizuka, Employing Core-Shell Quantum Dots as Triplet Sensitizer for Photon Upconversion, Chem.-Eur. J., 2016.04, [URL].
+7. Hironori Kouno, Taku Ogawa, Shogo Amemori, Prasenjit Mahato, Nobuhiro Yanai, Nobuo Kimizuka, Triplet energy migration-based photon upconversion by amphiphilic molecular assemblies in aerated water, Chem. Sci., 2016.04, [URL].
+8. Nobuhiro Yanai, Nobuo Kimizuka, Recent emergence of photon upconversion based on triplet energy migration in molecular assemblies, Chem. Commun., 22, 2016.03, [URL].
+9. Masanori Hosoyamada, Nobuhiro Yanai, Nobuo Kimizuka, Molecularly Dispersed Donors in Acceptor Molecular Crystals for Photon Upconversion under Low Excitation Intensity, Chem.-Eur. J., 22, 2016.01.
+10. Shota Hisamitsu, Nobuhiro Yanai, Nobuo Kimizuka, Photon-Upconverting Ionic Liquids: Effective Triplet Energy Migration in Contiguous Ionic Chromophore Arrays, Angew. Chem., Int. Ed., 54, 2015.08.
+11. Shogo Amemori, Nobuhiro Yanai, Nobuo Kimizuka, Metallonaphthalocyanines as triplet sensitizers for near-infrared photon upconversion beyond 850 nm, Physical Chemistry Chemical Physics, 17, 2015.08, [URL].
+12. Taku Ogawa, Nobuhiro Yanai, Angelo Monguzzi, Nobuo Kimizuka, Highly Efficient Photon Upconversion in Self-Assembled Light-Harvesting Molecular Systems, Scientific Reports, 5, 2015.06, [URL].
+13. DUAN PENGFEI, Nobuhiro Yanai, Yuki Kurashige, Nobuo Kimizuka, Aggregation-Induced Photon Upconversion through Control of theTriplet Energy Landscapes of the Solution and Solid States, Angew. Chem. Int. Ed., 54, 2015.05, [URL].
+14. Shota Hisamitsu, Nobuhiro Yanai, Shigenri Fujikawa, Nobuo Kimizuka, Photoinduced Crystallization in Ionic Liquids: Photodimerization-induced Equilibrium Shift and Crystal Patterning, Chemistry Letters, 7, 2015.05, [URL].
+15. DUAN PENGFEI, Nobuhiro Yanai, Hisanori Nagatomi, Nobuo Kimizuka, Photon Upconversion in Supramolecular Gel Matrixes: Spontaneous Accumulation of Light-Harvesting Donor-Acceptor Arrays in Nanofibers and Acquired Air Stability, JOURNAL OF THE AMERICAN CHEMICAL SOCIETY, 137, 5, 1887-1894, 2015.02, [URL].
+16. DUAN PENGFEI, Nobuhiro Yanai, Nobuo Kimizuka, A Bis-Cyclometalated Iridium Complex as a Benchmark Sensitizer for Efficient Visible-to-UV Photon Upconversion, Chem. Commun., 50, 13111-13113, 2014.10, [URL].
+17. Hirotaka Ejima, Nobuhiro Yanai, James P. Best, Melinda Sindoro, Steve Granick, Frank Caruso, Near-Incompressible Faceted Polymer Microcapsules from Metal-Organic Framework Templates, Advanced Materials, 25, 2013.08.
+18. Melinda Sindoro, Nobuhiro Yanai, Ah-Young Jee, Steve Granick, Collidal-sized Metal-Organic Frameworks: Synthesis and Applications, Acc. Chem. Res., 47, 2013.12.
+19. DUAN PENGFEI, Nobuhiro Yanai, Nobuo Kimizuka, Photon Upconverting Liquids : Matrix-Free Molecular Upconversion Systems Functioning in Air, J. Am. Chem. Soc., 2013, 135, 19056-19059, 135, 2013.12, [URL].
+20. Takashi Uemura, Gosuke Washino, Yanai Nobuhiro, Susumu Kitagawa, Controlled Encapsulation of Photo-Responsive Macromolecules in Porous Coodination Polymer, Chem. Lett., 42, Editor's Choice, 2013.02.
+21. Yanai Nobuhiro, Takashi Uemura, Susumu Kitagawa, Behavior of Binary Guests in a Porous Coordination Polymer, Chem. Mater., 24, 2012.12.
+22. Yanai Nobuhiro, Melinda Sindoro, Jing Yan, Steve Granick, Electric Field-Induced Assembly of Monodisperse Polyhedral Metal-Organic Framework Crystals, J. Am. Chem. Soc., 135, 2013.01.
+Presentations
+ Show All Presentations >>
+1. 楊井 伸浩, Photon Upconversion based on Triplet Energy Migration, RSC Inorganic Chemistry Symposium, 2016.10.24.
+2. 楊井 伸浩, Photon Upconversion in Chromophore Arrays Preorganized by Coordination Chemistry, 第６６回錯体化学討論会, 2016.09.10.
+3. 楊井 伸浩, Photon upconverting molecular assemblies, Japan-Taiwan Joint Seminar on Energy and Environment for Young Chemists, 2016.06.24.
+4. 楊井 伸浩, Photon Upconversion in Organic Nanomaterials, MNC2015, 2015.10.08.
+5. 楊井 伸浩, Photon Upconversion by Triplet Energy Migration in Molecular Assemblies, Seminar at Center for Plastic Electronics, 2015.10.08.
+6. 楊井 伸浩, Photon Upconversion by Triplet Energy Migration in Molecular Assemblies, Seminar at Cavendish laboratory, 2015.10.05.
+7. 楊井 伸浩, Supramolecular Systems for photon conversion technologies, China-Japan Joint Symposium on Functional Supramolecular Architectures, 2014.12.13.
+8. 楊井 伸浩, 君塚 信夫, Photon Upconversion Meets Supramolecular Self-Assembly, IPC2014, 2014.12.05.
+9. 楊井 伸浩, Prasenjit Mahato, 君塚 信夫, Photon Upconversion in MOFs, MOF2014, 2014.09.30.
+10. 楊井 伸浩, Prasenjit Mahato, Angelo Monguzzi, 君塚 信夫, Photon Upconversion in Self-Assembled Molecular Systems, IUMRS-ICA2014, 2014.08.25.
+11. 楊井 伸浩, DUAN PENGFEI, Prasenjit Mahato, Angelo Monguzzi, 君塚 信夫, Triplet Exciton Migration and Photon Upconversion in Self-Assembled Molecular Systems, Gordon research conference on Electronic Processes in Organic Materials, 2014.05.07.
+Membership in Academic Society
+The Japanese Photochemistry Association
+American Chemical Society
+Japan Society of Coordination Chemistry
+Awards
+Development of Molecular Assemblies Having Photon Upconversion Functions
+Quadrant Award 2013, "Controlling Polymer Properties in Coordination Nanospaces"
+Educational
+Other Educational Activities
+2016.03.
+2014.04, I mentored master and undergraduate students to accomplish the outstanding scientific findings. The results of this research guidance was highly evaluated, as evidenced by the awards of master students in the national conference of coordination chemistry and workshop of polymer society in Kyushu. I organized Kyushu University-UIUC Kickoff Meeting of ICC Program for Synthesis and Assembly of Reconfigurable Nanocrystals, and brought 5 master students to there. This gave great chances for the students to give presentations in English, discuss in English, and communicate with foreign young researchers, which helped them to construct international research network among young researchers..
+2013.03.
+
+
+Unauthorized reprint of the contents of this database is prohibited.
+
+Copyright © 2006, Kyushu University. All rights reserved.

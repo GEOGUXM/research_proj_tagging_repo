@@ -1,0 +1,302 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" style="" class=" js flexbox webgl no-touch geolocation hashchange history websockets rgba hsla multiplebgs backgroundsize borderimage textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage applicationcache svg svgclippaths mediaqueries no-regions supports"><head>
+<title>SNR: PRT Meet the Faculty</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="CAFNR, College of Agriculture, Food and Natural Resources, College of Ag, Natural Resources, Food">
+<meta name="verify-v1" content="nH5zgARIW56cv3dHUQJQDtO7a/md0EFiB2g8VypWkpI="> 
+<link href="/styles/cafnr-grandfather.css?version=2.5" rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" type="text/css" media="print" href="/includes/print.css">
+<style>
+	
+/* Add News Listing Styles */
+
+.news-list-item {clear: both; float: left;}
+.news-list-image {background-size: cover; border: solid 3px #1d1d1d; float: left; height: 74px; margin: 0px 10px 10px 0px; width: 50px;}
+
+</style>
+
+
+<!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" media="print" href="/includes/ie7-print.css" />
+<![endif]-->
+<!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" media="print" href="/includes/ie7-print.css" />
+<![endif]-->
+
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"> 
+<!--script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script -->
+<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="http://cafnr.missouri.edu/scripts/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://cafnr.missouri.edu/scripts/modernizr.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-941142-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  // Toggle and animation jQuery for the search box
+  // Written by Aaron Duke
+  // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  jQuery(function () {
+	  
+	  
+	  Date.now = Date.now || function() { return +new Date; }; 
+	  
+	  // Setup object selector variables
+    var searchToggle = jQuery('#search-toggle');
+    var search = jQuery('#search');
+    var searchForm = jQuery('#search-box, #search-button');
+    var searchBox = jQuery('#search-box');
+    var searchButton = jQuery('#search-button');
+    var icons = jQuery("#icon-container");
+    var lastToggleTime = 0;
+    var searchShown = false;
+
+		// Setup event handlers to call functions
+    searchToggle.on('click focus', searchOpen); // Open searchbox on click or focus of toggle
+    jQuery('body').on('click', searchClosed); // Close searchbox when clicking elsewhere on page
+    jQuery(document).ready(searchStuck); // Preserve the open searchbox when you go back in the browser
+
+		// When search is activated via click or tab focus
+    function searchOpen(e) {
+	    
+	    e.preventDefault();
+    
+	    if(jQuery(this).attr('id') == 'search-toggle') {
+	
+	      if (Date.now() > lastToggleTime + 500) { // Chrome animation fix by Derek Howard
+	        lastToggleTime = Date.now();
+	        search.toggle(); // Toggle the search box into the page
+	        icons.fadeToggle(300); // Fade out icons while simultaneously...
+	        search.animate({width: '250px', opacity: '1'}, 300); // ...slide animating the search box to the left while fading in
+	        searchShown = true; // Variable to handle closing by clicking the rest of the page
+	      }
+	      
+	    }
+	    
+	    searchBox.focus(); // Set focus to the search box so they can start typing
+	   }
+    
+    // When search focus is lost by clicking elsewhere on page
+    function searchClosed(e) { 
+      if (Date.now() > lastToggleTime + 500) { // Chrome animation fix by Derek Howard
+	      if (searchShown == true && !jQuery(e.target).is(searchForm) && searchBox.val().length == 0) { // If the search is open, the mouse is not clicking inside the search form and the search box is empty then we can close it up
+	        lastToggleTime = Date.now();
+	        search.animate({width: '0px', opacity: '0'}, 700); // Slide search box closed while fading out
+	        icons.fadeToggle(700); // Fade icons out while sliding alongside search box
+	        search.filter(':animated').promise().done(function() { // Toggle the search out of the page once animation is done
+	          search.toggle();
+	        });
+	        searchShown = false; // Variable to handle closing by clicking the rest of the page
+	      }
+      }
+    }
+    
+    // When navigating back to the page, if there is text still in the search box it pops it back open
+    function searchStuck(e) {
+	    if (searchBox.val().length > 0) { // Tests to see if box has text
+		    searchOpen(); // Call the opening function
+	    }
+    }
+    
+    // Modernizr stuff to fix SVGs
+    if (!Modernizr.svg) {
+	
+		jQuery(".unit-sig-32 .logo a").attr("style", "background-image: url('http://cafnr.missouri.edu/images/mu-logo-32-stroked.png');");
+	  jQuery(".unit-sig-32.reverse .wordmark a").attr("style", "background-image: url('http://cafnr.missouri.edu/images/unit-wordmark-32-white.png');");
+	  jQuery(".unit-sig-32 .unit a").attr("style", "background-image: url('http://snr.missouri.edu/images/school-of-natural-resources-32.png');");
+		
+		jQuery(".facebook").attr("style", "background-image: url('http://cafnr.missouri.edu/images/icons/icon-facebook.png');");
+	  jQuery(".twitter").attr("style", "background-image: url('http://cafnr.missouri.edu/images/icons/icon-twitter.png');");
+	  jQuery(".app").attr("style", "background-image: url('http://cafnr.missouri.edu/images/icons/icon-app.png');");
+	  jQuery(".flickr").attr("style", "background-image: url('http://cafnr.missouri.edu/images/icons/icon-flickr.png');");
+	  jQuery("#search-toggle").attr("style", "background-image: url('http://cafnr.missouri.edu/images/icons/icon-search.png');");
+	  
+	}
+	
+	if (!Modernizr.backgroundsize) {
+		// jQuery("#featured-image").css("background-color", "#515154");
+	}
+    
+  }); // It's over!
+  
+</script>
+
+</head>
+
+
+<body>   
+  <div id="header-container">
+
+    <header class="header" role="banner">
+
+            
+      <div id="left-container">
+        <div class="unit-sig-32 reverse">
+          <p class="logo"><a href="http://missouri.edu">Mizzou Logo</a></p>
+          <h1 class="unit one-line"><a href="http://snr.missouri.edu">School of Natural Resources</a></h1>
+          <h2 class="wordmark"><a href="http://missouri.edu">University of Missouri</a></h2>
+        </div>
+      </div>
+
+      <div id="right-container">
+        
+      		        <div id="search" class="search-hidden cf m-all t-all d-all">
+          <form role="search" method="get" id="search-form" tabindex="2" action="http://search.missouri.edu/search">
+              <div>
+                  <input name="site" value="doit_cafnr" type="hidden">
+                  <input name="proxystylesheet" value="doit_cafnr" type="hidden">
+                  <input name="client" value="doit_cafnr" type="hidden">
+                  <input name="output" value="xml_no_dtd" type="hidden">
+                  <input value="" name="q" id="search-box" placeholder="Start typing to search" type="text">
+                  <input value="Search" name="search-button" id="search-button" class="search-button" onclick="document.forms[0].submit();" href="#" type="button">
+              </div>
+          </form>
+        </div>	
+      
+				        <div id="icon-container">
+                    <input href="#" id="search-toggle" title="Search" tabindex="1" role="button" type="button">
+                    <a class="social-icon flickr" href="https://www.flickr.com/photos/cafnr" title="Flickr">Flickr</a>
+          <a class="social-icon app" href="http://app.cafnr.org/" title="CAFNR App">CAFNR App</a>
+          <a class="social-icon twitter" href="https://twitter.com/cafnr" title="Twitter">Twitter</a>
+          <a class="social-icon facebook" href="https://www.facebook.com/mizzoucafnr" title="Facebook">Facebook</a>
+        </div>
+
+        
+
+    		</div>
+
+		</header>
+  			
+  	</div>
+  			
+  
+  <div class="container">
+	
+
+	<div id="bottomContainer">
+		<div id="primaryNavigation"><ul class="navigation noprint">
+    <li class="navigation">
+        <a href="/academics/" onclick="switchUl('menu2');" class="navigation-links">Academics &amp; Majors</a>
+        <span class="dropdown" style="display: none;" id="menu2">
+				<a class="subnavigation-links" href="https://admissions.missouri.edu/">Admissions</a><br>
+				<a class="subnavigation-links" href="/academics/advising.php">Advising</a><br>
+				<a class="subnavigation-links" href="/academics/financial.php">Financial Asst.</a><br>
+				<a class="subnavigation-links" href="/academics/organizations.php">Organizations</a><br>
+				<a class="subnavigation-links" href="/academics/policies.php">Policies</a><br>
+			</span>
+    </li>
+    <hr class="nav">
+    <li class="navigation"><a class="navigation-links" href="/grad/">Graduate Studies</a>
+    </li>
+    <hr class="nav">
+    <li class="navigation">
+        <a href="/about/" onclick="switchUl('menu1');" class="navigation-links">About SNR</a>
+        <span class="dropdown" style="display: none;" id="menu1">
+				<a class="subnavigation-links" href="/about/administration.php">Administration</a><br>
+				<a class="subnavigation-links" href="/about/faculty.php">Meet the Faculty</a><br>
+				<a class="subnavigation-links" href="/about/history.php">A Brief History</a><br>
+				<a class="subnavigation-links" href="/about/exhibits.php">Exhibits</a><br>
+			</span>
+    </li>
+    <hr class="nav">
+    <li class="navigation"><a class="navigation-links" href="/about/faculty.php">Meet the Faculty</a>
+    </li>
+    <hr class="nav">
+    <li class="navigation"><a href="/research/" onclick="switchUl('menu3');" class="navigation-links">Research</a>
+        <span class="dropdown" style="display: none;" id="menu3">
+				<a class="subnavigation-links" href="/research/facilities.php">Facilities</a><br>
+				<a class="subnavigation-links" href="/deer/">White-tailed Deer</a><br>
+			</span>
+    </li>
+    <hr class="nav">
+    <li class="navigation"><a class="navigation-links" href="/newsletter/">Newsletter</a>
+    </li>
+    <hr class="nav">
+    <li class="navigation"><a href="http://hrs.missouri.edu/find-a-job/academic/unit/cafnr/" class="navigation-links">Faculty Positions</a>
+    </li>
+    <hr class="nav">
+    <li class="navigation"><a class="navigation-links" href="/giving/">Giving to SNR</a>
+    </li>
+    <hr class="nav">
+    <li class="navigation"><a class="navigation-links" href="/contact.php">Contact Us</a>
+    </li>
+    <hr class="nav">
+    <li class="navigation"><a class="navigation-links" href="/snr-social-media.php">SNR Social Media</a>
+    </li>
+    <hr class="nav">
+    <li class="navigation"><a class="navigation-links" href="http://cafnr.missouri.edu">CAFNR Home</a>
+    </li>
+    <hr class="nav">
+</ul>
+
+<script type="text/javascript">
+    <!--
+    function switchUl(id) {
+        if (document.getElementById) {
+            a = document.getElementById(id);
+            a.style.display = (a.style.display != "none") ? "none" : "block";
+        }
+    }
+    var aryMenu = new Array("menu1", "menu2", "menu3");
+    for (i = 0; i < aryMenu.length; i++) {
+        switchUl(aryMenu[i]);
+    }
+    // -->
+</script>
+</div>
+		<div id="primaryContent">
+		<a name="skip-navigation"></a>
+<div class="breadcrumbs noprint"><script type="text/javascript">LeaveCrumbs('Douglas K. Eiken, Ph.D.',' &raquo; ',"group1",4,1)</script></div> 
+<h1>Faculty</h1>
+<img class="float-right" src="/images/faculty/eiken-d.jpg" alt="Douglas K. Eiken" width="150" height="200" border="0">
+<h2>Douglas K. Eiken, Ph.D.</h2>
+<hr>
+<strong>Adjunct Instructor</strong>
+<ul class="text-90">
+	<li><b>Phone:</b> 573-882-7086</li>
+	<li><b>E-mail:</b> <a href="mailto:eikend@missouri.edu
+">eikend@missouri.edu</a></li>
+<li><b>Address:</b> 105 Anheuser-Busch Natural Resources Building</li> 
+</ul>
+<h2>Education</h2>
+<ul>
+	<li>PhD Leisure Studies, University of Utah</li>
+</ul>
+
+<h2>Teaching</h2>
+<ul>
+	<li>Administration of Leisure Services</li>
+</ul>
+
+
+</div>
+</div>
+</div>
+
+  
+
+<div class="clearfix">&nbsp;</div>
+
+<div class="full-footer-grandfather">
+
+<div style="color:#fff;width:800px; background-color:#747679; margin:0 auto; padding:1.5em 0 2em 0;">
+
+	<p class="division">School of Natural Resources</p>
+	<p>&nbsp;</p>
+      <p class="copyright-bottom">Copyright © 2017 - Curators of the <a class="copyright-bottom-link" href="http://www.umsystem.edu">University of Missouri</a>. All rights reserved. <a class="copyright-bottom-link" href="http://missouri.edu/dmca">DMCA</a> and <a class="copyright-bottom-link" href="http://missouri.edu/copyright">other copyright information</a>. An <a class="copyright-bottom-link" href="http://missouri.edu/eeo-aa">equal opportunity/access/affirmative action/pro-disabled and veteran employer</a>.</p> 
+	  <p class="copyright-bottom">Published by <a class="copyright-bottom-link" href="https://cafnr.missouri.edu/about/cafnr-marketing-and-communications/">CAFNR Marketing and Communications</a></p>
+
+
+
+</div>
+</div>
+
+
+
+</body></html>

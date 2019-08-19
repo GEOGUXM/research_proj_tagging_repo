@@ -1,0 +1,116 @@
+Text-only version of this website
+Skip navigation
+Home page
+What's new
+Search
+Contact Webmaster
+Website policies
+Disability services
+University of Florida
+Department of Clinical and Health Psychology
+College of Public Health and Health Professions
+  Kathryn Ross, Ph.D., M.P.H.
+Dr. Kathryn Ross
+Assistant Professor
+Ph.D., 2013, University of Florida
+Email:  kmross@phhp.ufl.edu
+Office:  (352) 294-8433
+Full CV
+Dr. Kathryn Ross is an Assistant Professor in the Department of Clinical and Health Psychology and in the Social and Behavioral Sciences concentration in the College of Public Health and Health Professions. Dr. Ross received her M.P.H. (Biostatistics concentration) from the University of Florida in 2012 and her Ph.D. (Clinical Psychology, Health Psychology track) in 2013. She completed the Obesity Research Track APA-approved clinical internship and an F32-funded postdoctoral fellowship at the Brown Clinical Psychology Training Consortium and Weight Control & Diabetes Research Center at the The Miriam Hospital. Dr. Ross’s postdoctoral fellowship focused on training in cost effectiveness analyses and the conduct of a randomized pilot trial assessing the impact of newer self-monitoring technology, with and without additional phone coaching, on weight loss in overweight and obese adults. After the end of her postdoctoral fellowship, Dr. Ross joined the faculty at the Weight Control & Diabetes Research Center and the Department of Psychiatry and Human Behavior at the Brown Medical School. Dr. Ross moved back to Gainesville to join the faculty in the Department of Clinical & Health Psychology in the summer of 2016.
+Dr. Ross currently teaches within the Social and Behavioral Sciences concentration in the MPH and PhD in Public Health programs. She advises masters and doctoral students both in the Department of Clinical Psychology and in Public Health.
+Research Focus
+Dr. Ross’ research focuses on the prevention and treatment of adult obesity, with particular emphasis on improving the long-term maintenance of weight loss and developing effective behavioral weight management interventions that can be disseminated on a public-health level. Increasingly, she has begun to investigate the integration of newer technology into weight management interventions as a way of lowering cost of treatment delivery and increasing intervention reach.
+Dr. Ross currently has an R21 from NIDDK (R21 DK109205) aimed at identifying and characterizing high-risk periods for weight regain following initial weight loss. Using a rich longitudinal dataset that she collected while implementing and assessing an Internet-based weight loss program within an existing corporate wellness program, Dr. Ross and her collaborators will use novel statistical techniques to identify the points at which individuals change trajectory from weight loss/maintenance to regain, and then use a set of time-varying covariates (data collected daily and weekly) to develop predictive algorithms for these “high risk” periods. These results will be used to inform the development of a novel, just-in-time adaptive intervention for weight loss maintenance.
+External Support
+Ongoing Research Support
+R21 DK109205     Ross, KM (PI)     09/15/2016 – 08/31/2018
+Identification and Prediction of High-Risk Periods for Regain After Weight Loss
+This project will use innovative statistical techniques to analyze a complex longitudinal dataset, collected as part of an existing behavioral lifestyle intervention, to identify and predict high-risk times for weight regain following weight loss.
+Role: PI
+R18 HL112720     Perri (PI)     08/15/2013 – 05/31/2018
+Rural Lifestyle Eating and Activity Program (Rural LEAP)
+This trial will test the effects of two telehealth interventions for the management of obesity in rural settings.
+Role: Co-Investigator
+Completed Research Support
+F32 DK100169     Ross, KM (PI)     08/05/2013-08/04/2015
+Impact of Self-Monitoring Technology and Interventionist Contact on Weight Loss
+This pilot study examined the impact of newer self-monitoring technology, with and without interventionist contact, on weight loss in overweight and obese individuals.
+Role: PI
+U01 HL090864     Wing, RR (PI)     08/18/2009 – 05/31/2016
+Prevention of Weight Gain in Young Adults
+The purpose of this project is to test two interventions to prevent weight gain in young adults.
+Role: Interventionist
+R18 DK083248     Wing, RR (PI)     07/01/2010 – 06/30/2016
+Using a State-Wide Initiative to Disseminate Effective Behavioral Weight Loss Strategies
+This program will evaluate a unique weight loss approach, combining a self-sustaining weight loss campaign with training in behavioral weight loss strategies and strategies to increase accountability (to improve weight loss success).
+Role: Interventionist
+Selected Publications
+(Previous name: Middleton, KR; *Designates Mentee)
+Lillis, J., Niemeier, H.M., Thomas, J.G., Unick, J., Ross, K.M., Leahey, T.M., Kendra, K.E., Dorfman, L., & Wing, R.R. (in press). A randomized trial of an Acceptance Based Behavioral Intervention for weight loss in people with high internal disinhibition. Obesity.
+*Tanenbaum, M. L., Ross, K. M., & Wing, R. R. (2016). Overeat today, skip the scale tomorrow: An examination of micro-level factors linked with non-adherence to self-weighing. Obesity,  epub ahead of print.
+Ross, K. M. & Wing, R. R. (2016). Impact of newer self-monitoring technology and brief phone-based intervention on weight loss: A randomized controlled pilot study. Obesity, 24, 1653-1659. PMCID:  PMC4963263
+Ross, K. M. & Wing, R. R. (2016). Concordance of in-home “smart” scale measurement with body weight measured in-person. Obesity Science & Practice, 2, 224-228.
+Ross, K. M. & Wing, R. R. (2016). Implementation of an Internet weight loss program in a worksite setting. Journal of Obesity, 2016, 1-7. PMCID: PMC4749817
+Ross, K. M., Thomas, J. G., & Wing, R. R. (2016). Successful weight loss maintenance associated with morning chronotype and better sleep quality. Journal of Behavioral Medicine, 39, 465-171. PMCID: PMC4854772
+Lillis J., Niemeier, H. M., Ross, K. M., Thomas, J. G., Leahey, T., Unick, J., Kendra, K. E., & Wing, R. R. (2015). Weight loss intervention for individuals with high internal disinhibition: Design of the Acceptance Based Behavioral Intervention (ABBI) randomized controlled trial. BMC Psychology, 3, 1-10. PMCID: PMC4446109
+Middleton, K. R. & Perri, M. G. (2014). A randomized trial investigating the effect of a brief lifestyle intervention on freshman-year weight gain. Journal of American College Health, 62, 109-109.
+Peterson, N. D., Middleton, K. R., Nackers, L. M., Newell, K. E., Milsom, V. A., & Perri, M. G. (2014). Dietary self-monitoring and long-term success with weight management. Obesity, 22, 1962-1967.
+Higgins, T. J., Middleton, K. R., Winner, L., & Janelle, C. M. (2014). Physical activity interventions differentially affect exercise task and barrier self-efficacy: A meta-analysis. Health Psychology, 33, 891-903. PMCID: PMC4148031
+Nackers, L. M., Middleton, K. R., Daniels, M. J., Dubyak, P. J., Anton, S. A., & Perri, M.G. (2013). Effects of prescribing 1,000 versus 1,500 kilocalories per day in the behavioral treatment of obesity: A randomized trial. Obesity, 21, 2481-2487.
+Ross Middleton, K. M., Patidar, S. A., & Perri, M. G. (2012). The impact of extended care on long-term weight loss maintenance: A systematic review and meta-analysis. Obesity Reviews, 13, 509-517. 
+Courses Taught
+Psychological, Social, and Behavioral Issues in Public Health (PHC 6410)
+Introduction to Health Psychology (CLP 4314)
+Honors and Awards
+2016  NIH Loan Repayment Program, NIDDK, awarded 2016-2018
+2015  The Obesity Society Early Career Young Professionals Travel Grant
+2015  NIH OBSSR / NHLBI Summer Institute on the Design and Conduct of Randomized Clinical Trials Involving Behavioral Interventions
+2014  NIH Loan Repayment Program, NIDDK, awarded 2014-2016
+2013  NIH Ruth L. Kirschstein Award (F32), NIDDK, awarded 2013-2016
+2012  Inducted into Delta Omega, honorary society for Public Health, University of Florida
+2011  Nathan W. Perry Memorial Scientist-Practitioner Award for outstanding integration of scientific method and scholarship with clinical work; Department of Clinical & Health Psychology, University of Florida
+2011  Outstanding Research Award, College of Public Health and Health Professions, University of Florida
+2009  Biostatistics Public Health Fellowship, Heath Resources and Services Administration, US Department of Health and Human Services
+2009  Outstanding Research Award, College of Public Health and Health Professions, University of Florida
+2009  Research Travel Award, Graduate Student Council, University of Florida
+2008  Outstanding Research Award, College of Public Health and Health Professions, University of Florida
+2008  Research Travel Award, Graduate Student Council, University of Florida
+Professional Memberships
+American Psychological Association (APA)
+American Public Health Association (APHA)
+The Obesity Society (TOS)
+Society for Behavioral Medicine (SBM)
+Contact Us
+Your Message (required)
+Send Email »
+Important Links
+APA
+CHP Intranet
+CSEA
+CUDCP
+MBI
+MyUFL
+Outlook Mail
+PHHP Research
+Upcoming CHP Events
+No events currently scheduled.
+No events currently scheduled.
+» VIEW FULL CALENDAR
+
+
+
+Log in
+Intranet
+Updated June 21, 2017
+Contact Webmaster
+Sitemap
+This page uses Google Analytics (Google Privacy Policy)
+Disclaimer & Permitted Use
+Disability Services
+Security Policies
+UF Privacy Policy
+Shands Privacy Policy
+© 2017 University of Florida
+UF Health is a collaboration of the University of Florida Health Science Center, Shands hospitals and other health care entities.
+© 2017 University of Florida Health
+PO Box 100165, Gainesville, FL 32610-0165. Phone: 352-273-6617

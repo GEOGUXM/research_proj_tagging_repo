@@ -1,0 +1,17 @@
+YOU ARE HERE: » Jakub Gabriel Kania
+JAKUB GABRIEL KANIA
+PhD Student
+Department of Engineering - Geotechnical Engineering
+Inge Lehmanns Gade 10
+building 3210, 04.106
+8000 Aarhus C
+Denmark
+jgk@eng.au.dk
+Phone: +4523604357
+Profile
+Project description:
+Precast driven piles or cast-in-place bored piles are often used in connection to construction work on sites with soft soil conditions. If the upper layers of soft soil later experience settlement, then the piles will, in addition to the building load, also be affected by a downwards acting force (termed negative skin friction or down drag) resulting from the adhesion between the soil and the pile in those layers which settle relative to the pile.
+Hence, a reliable assessment of negative skin friction is a vital part of pile design when piles are installed in soft ground conditions. However, current guidelines and design practice in Denmark are believed to be overly conservative due to limited understanding of the governing mechanism and limited knowledge regarding the effect of pile material and ground conditions on the development of negative skin friction. Especially the influence of bitumen coating on the development of negative skin friction is poorly understood and in Denmark and also generally in the Nordic countries, there exist only very limited documentation to prove the actual effect of bitumen coating.
+Project period: Oct 2016 - Sept. 2019
+Supervisor: Prof. (Docent) Kenny Kataoka Sørensen
+ID: 103129201

@@ -1,0 +1,53 @@
+Server Error in '/' Application.
+The wait operation timed out
+Description: An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+
+Exception Details: System.ComponentModel.Win32Exception: The wait operation timed out
+
+Source Error:
+
+An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.
+
+Stack Trace:
+
+[Win32Exception (0x80004005): The wait operation timed out]
+
+[SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=4; handshake=14998; ]
+   System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling) +1000
+   System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions) +801
+   System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions) +38
+   System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection) +852
+   System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions) +143
+   System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions) +17
+   System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry) +139
+   System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry) +367
+   System.Data.SqlClient.SqlConnection.Open() +130
+   CMS.DataEngine.AbstractDataConnection.Open() +141
+   CMS.DataEngine.AbstractDataConnection.CMS.SettingsProvider.IDataConnection.Open() +10
+   CMS.DataEngine.GeneralConnection.RunQuery(QueryParameters query) +107
+   CMS.DataEngine.GeneralConnection.ExecuteQuery(QueryParameters query) +378
+   CMS.DataEngine.GeneralConnection.ExecuteQuery(String queryName, QueryDataParameters parameters, String where, String orderBy, Int32 topN, String columns) +196
+   CMS.DataEngine.GeneralConnection.ExecuteQuery(String queryName, QueryDataParameters parameters, String where, String orderBy, Int32 topN, String columns, Int32 offset, Int32 maxRecords, Int32& totalRecords) +46
+   CMS.DocumentEngine.TreeProvider.ExecuteQuery(String queryName, QueryDataParameters parameters, String where, String orderBy, Int32 topN, String columns, Int32 offset, Int32 maxRecords, Int32& totalRecords) +114
+   CMS.DocumentEngine.TreeProvider.SelectNodes(NodeSelectionParameters parameters) +1284
+   CMS.DocumentEngine.TreeProvider.SelectNodes(String siteName, String aliasPath, String cultureCode, Boolean combineWithDefaultCulture, String classNames, String where, String orderBy, Int32 maxRelativeLevel, Boolean selectOnlyPublished, Int32 topN, String columns) +152
+   CMS.Controls.CMSAbstractDataProperties.GetDataSet(String path, String where, Boolean forceReload) +2284
+   CMS.Controls.CMSAbstractDataProperties.LoadData(Object& DataSource, Boolean forceReload) +168
+   CMS.Controls.CMSRepeater.ReloadData(Boolean forceReload) +1672
+   CMS.Controls.CMSRepeater.OnInit(EventArgs e) +72
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +391
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) +1632
+
+Version Information: Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.7.2053.0

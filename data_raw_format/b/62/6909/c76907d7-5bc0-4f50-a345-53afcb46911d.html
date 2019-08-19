@@ -1,0 +1,955 @@
+<html lang="en"><head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<title>FSU Department of Art History | Stephanie Leitch</title>
+	<link href="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme-ah-child/style.css" rel="stylesheet">
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+    <link rel="stylesheet" type="text/css" href="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/lightbox/lightbox.css">
+	<link rel="stylesheet" type="text/css" href="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/events/css/event.css">
+
+    <!-- Link FSU styles -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/_/css/strata-two.css">
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/_/js/respond.min.js"></script>
+    <link rel="stylesheet" href="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/_/css/strata-print.css" media="print">
+    
+     <!-- greatgive clock -->
+    <link href="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/greatgivehome.css" rel="stylesheet">
+    <!-- end greatgive clock -->
+	
+
+    <script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/js/jquery-git.js"></script>
+    <script type="text/javascript">
+
+           var start = new Date("April 14, 2016 9:00:00");
+           var end = new Date("April 16, 2016 23:59:99");
+            var MS_IN_WEEK = 604800000;
+            var MS_IN_DAY = 86400000;
+            var MS_IN_HOUR = 3600000;
+            var MS_IN_MIN = 60000;
+
+            setInterval(change, 1000);
+
+            function change() {        
+              
+              if ( new Date() < start ) {
+                $( "#greatgive-seconds-number" ).text( getDateDiff("seconds", 1) );
+                $( "#greatgive-minutes-number" ).text( getDateDiff("minutes", 1) );
+                $( "#greatgive-hours-number" ).text( getDateDiff("hours", 1) );
+                $( "#greatgive-days-number" ).text( getDateDiff("days", 1) );
+                }
+                
+                // if current time is during start and end date
+                if ( new Date() >= start && new Date() <= end  ) {
+                    $( "#greatgive-ticker" ).empty();
+                    $( "#greatgive-text" ).text("In Progress ...");
+                    $( "#greatgive-text" ).show();
+                }
+                    
+                // if current time is past end date  
+                if ( new Date() > end ) {                  
+                    $( "#greatgive-ticker" ).empty();
+                    $( "#greatgive-text" ).text("Thank you for giving!");
+                    $( "#greatgive-text" ).show();
+                }
+            }
+
+
+            function getDateDiff(timeblock, roundFloor) {
+
+                var ms_now = 0;
+                var ms_enddate = 0;
+                var time_left = 0;
+                var remainder = 0;
+
+                ms_now = getMs();
+                ms_enddate = getMs(1);
+
+                if (timeblock == "weeks") {
+                    time_left = (ms_enddate - ms_now)/MS_IN_WEEK;
+                }
+                else if (timeblock == "days") {
+                    time_left = (getDateDiff("weeks", 0) % 10) * 7;
+                }
+                else if (timeblock == "hours") {
+                    time_left = (getDateDiff("days", 0) % 1) * 24;
+                }
+                else if (timeblock == "minutes") {
+                    time_left = (getDateDiff("hours", 0) % 1) * 60;
+                }
+                else if (timeblock == "seconds") {
+                    time_left = (getDateDiff("minutes", 0) % 1) * 60;
+                }
+
+                if (roundFloor == 1)
+                    time_left = Math.floor(time_left);        
+
+                return time_left;
+            }
+
+            function getMs(dateToConvert) {
+
+                var ms_left = 0;
+
+                if (dateToConvert == null)
+                    ms_left = new Date();
+                else
+                    ms_left = start;
+
+                //convert date to milliseconds
+                ms_left = ms_left.getTime();
+
+                return ms_left;
+            }
+
+        </script>
+        
+        <!-- favicon -->
+        <link rel="shortcut icon" href="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme-ah-child/favicon.png">
+        <!-- end favicon -->
+ 
+        <!-- social graph -->
+                
+                
+        <meta property="og:title" content="Stephanie Leitch">
+        <meta property="og:description" content="The Florida State University program in Art History is one of the oldest and highest ranked in the Southeast, and the first in Florida to offer a doctoral degree. The department boasts one of the largest faculty of art and architectural historians south of Virginia and east of Texas.">
+        <meta property="og:image" content="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/Screen-Shot-2014-11-18-at-2.48.59-PM-1.png">
+        <meta property="og:site_name" content="FSU Department of Art History">
+        <meta property="og:type" content="website">
+        <!-- end social graph -->
+        
+	<style type="text/css">.eventon_events_list .eventon_list_event .desc_trig{background-color:#fafafa}.eventon_events_list .eventon_list_event .desc_trig:hover{background-color:#f4f4f4}.ajde_evcal_calendar .calendar_header p, 
+			.eventon_events_list .eventon_list_event .evcal_cblock, .evcal_cblock, .eventon_events_list .eventon_list_event .evcal_desc span.evcal_desc2, .evcal_desc span.evcal_desc2, .evcal_evdata_row .evcal_evdata_cell h2, .evcal_evdata_row .evcal_evdata_cell h3.evo_h3, .evcal_month_line p, .evo_clik_row .evo_h3, .eventon_events_list .eventon_list_event .evcal_desc span.evcal_event_subtitle, .evo_pop_body .evcal_desc span.evcal_event_subtitle{font-family:oswald, 'arial narrow'}.ajde_evcal_calendar .evo_sort_btn, .eventon_sf_field p, .evo_srt_sel p.fa{color:#B8B8B8}.ajde_evcal_calendar .evo_sort_btn:hover{color:#d8d8d8}#evcal_list .eventon_list_event .evcal_desc em{color:#8c8c8c}#evcal_list .eventon_list_event .evcal_desc em a{color:#c8c8c8}#evcal_list .eventon_list_event .event_description .evcal_btn, .evo_pop_body .evcal_btn{color:#ffffff;background:#237ebd;}#evcal_list .eventon_list_event .event_description .evcal_btn:hover, .evo_pop_body .evcal_btn:hover{color:#fff;background:#237ebd;}.evcal_evdata_row .evcal_evdata_icons i, .evcal_evdata_row .evcal_evdata_custometa_icons i{color:#6B6B6B;font-size:18px;}#eventon_loadbar{background-color:#6B6B6B}.evcal_evdata_row .evcal_evdata_cell h3, .evo_clik_row .evo_h3{font-size:18px}#evcal_list .eventon_list_event .evcal_cblock{color:#ABABAB}.evcal_evdata_row .evcal_evdata_cell h2, .evcal_evdata_row .evcal_evdata_cell h3{color:#6B6B6B}#evcal_list .eventon_list_event .evcal_eventcard p, .ajde_evcal_calendar .eventon_events_list .eventon_desc_in ul{color:#656565}.ajde_evcal_calendar #evcal_head.calendar_header #evcal_cur, .ajde_evcal_calendar .evcal_month_line p{color:#C6C6C6}.eventon_events_list .eventon_list_event .evcal_eventcard, .evcal_evdata_row, .evorow .tbrow, .dark1, .evo_pop_body{background-color:#cdcdcd}.dark1:hover{background-color:#d8d8d8}.event_description .bordb, #evcal_list .bordb, .eventon_events_list .eventon_list_event .event_description, .bordr, #evcal_list, .evo_pop_body .bordb{border-color:#e5e5e5}.eventon_events_list .eventon_list_event .evcal_list_a:after,  .evcal_list_a:after{background-color:#cdcdcd}.eventon_events_list .eventon_list_event .evcal_list_a.featured_event{background-color:#F9ECE4}.eventon_events_list .eventon_list_event .evcal_list_a.featured_event:hover{background-color:#FAE4D7}#eventon_loadbar_section{border-color:#cdcdcd}.event_description .evcal_close{background-color:#eaeaea}.event_description .evcal_close:hover{background-color:#c7c7c7}#evcal_list .evorow.getdirections, .evo_pop_body .evorow.getdirections{background-color:#ffffff}#evcal_list .evorow.getdirections .evoInput, .evo_pop_body .evorow.getdirections .evoInput{color:#888888}#evcal_list .evorow.getdirections .evcalicon_9 i, .evo_pop_body .evorow.getdirections .evcalicon_9 i{color:#858585}#evcal_list .eventon_list_event .evcal_desc span.evcal_event_title, .evo_popup .eventon_events_list .eventon_list_event .evcal_desc span.evcal_event_title{color:#6B6B6B}.eventon_events_list .eventon_list_event .evcal_desc span.evcal_event_subtitle, .evo_pop_body .evcal_desc span.evcal_event_subtitle{color:#6B6B6B}.fp_popup_option i{color:#999;font-size:22px;}.evo_cal_above span{color:#ffffff;background-color:#ADADAD;}.evo_cal_above span:hover{color:#ffffff;background-color:#C8C8C8;}.evo_cal_above span.evo-gototoday-btn{color:#ffffff;background-color:#ADADAD;}.evo_cal_above span.evo-gototoday-btn:hover{color:#ffffff;background-color:#d3d3d3;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a{color:#ffffff;background-color:#ECECEC;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a:hover{color:#ffffff;background-color:#c3c3c3;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a.current{color:#ffffff;background-color:#CFCFCF;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a.set{color:#ffffff;background-color:#888888;}.ajde_evcal_calendar .calendar_header .evo_j_dates p.legend{color:#6e6e6e;}.ajde_evcal_calendar .calendar_header .evcal_arrows{color:#e2e2e2;border-color:#e2e2e2;background-color:#ffffff;}.ajde_evcal_calendar .calendar_header .evcal_arrows:hover{color:#e2e2e2;border-color:#e2e2e2;background-color:#e2e2e2;}.ajde_evcal_calendar .calendar_header .evcal_arrows .fa{color:#e2e2e2}.ajde_evcal_calendar .calendar_header .evcal_arrows:hover .fa{color:#e2e2e2}.eventon_events_list .eventon_list_event .evcal_desc span.evo_above_title span, .evo_pop_body .evcal_desc span.evo_above_title span{color:#ffffff;background-color:#F79191;}.eventon_events_list .eventon_list_event .evcal_desc span.evo_above_title span.canceled, .evo_pop_body .evcal_desc span.evo_above_title span.canceled{color:#ffffff;background-color:#F79191;}.eventon_events_list .eventon_list_event .cancel_event.evcal_list_a{color:#ffffff;background:repeating-linear-gradient(45deg,#FDF2F2,#FDF2F2 10px,#FAFAFA 10px,#FAFAFA 20px);}.evcal_desc .evcal_desc3 em.evocmd_button, #evcal_list .evcal_desc .evcal_desc3 em.evocmd_button{color:#ffffff;background-color:#237dbd;}.eventon_fc_days .evo_fc_day{background-color:#ffffff;color:#d4d4d4;}.eventon_fc_days .evo_fc_day:hover{background-color:#fbfbfb;color:#9e9e9e;}.eventon_fc_days .evo_fc_day.has_events{background-color:#ffffff;color:#dfa872;}.eventon_fc_days .evo_fc_day.has_events:hover{background-color:#F5F5F5;color:#9e9e9e;}.eventon_fc_days .evo_fc_day.on_focus{background-color:#FFF3E7;color:#d4d4d4;}.eventon_fc_days .evo_fc_day.on_focus:hover{background-color:#fbfbfb;color:#9e9e9e;}.eventon_fc_daynames .evo_fc_day{color:#9e9e9e}.eventon_fc_daynames .evo_fc_day:hover{color:#d4d4d4}.evofc_title_tip, .evoFC_tip{background-color:#808080;color:#f7f7f7;}body #evcal_list .eventon_list_event .evcal_desc .evcal_desc3 .evors_eventtop_data em,body .evo_pop_body .evcal_desc .evcal_desc3 .evors_eventtop_data em{color:#8c8c8c;background-color:#F7EBD6;border-color:#E4D6BE;}.evors_whos_coming span{background-color:#A7A7A7;color:#ffffff;}.evcal_evdata_row .evors_remaining_spots p em, .evcal_evdata_row .evors_mincap p em{background-color:#95D27F;color:#ffffff;}#evorsvp_form a.evcal_btn{background-color:#ffffff;color:#9AB37F;}#evorsvp_form .rsvp_status span.set{color:#9AB37F}#evorsvp_form .form_row select, #evorsvp_form .form_row input{color:#ffffff}#evorsvp_form .form_row input::-webkit-input-placeholder{color:#141412}#evorsvp_form .form_row input:-moz-input-placeholder{color:#141412}#evorsvp_form .form_row input::-moz-input-placeholder{color:#141412}#evorsvp_form .form_row input:-ms-input-placeholder{color:#141412}#evors_form_section, #evorsvp_form h3{color:#ffffff}.evors_popup:before{background-color:#9AB37F}.evoRS_status_option_selection span:hover, body .eventon_list_event .evcal_list_a .evors_eventtop_rsvp span:hover{background-color:#ffffff}.evoRS_status_option_selection span, body .eventon_list_event .evcal_list_a .evors_eventtop_rsvp span{border-color:#cdcdcd;background-color:#EAEAEA;}.ajde_evcal_calendar .evorss_rss_btn.evcal_btn{background-color:#ff7e42;color:#ffffff;}.evo_metarow_socialmedia a.evo_ss{background-color:#transparent;}.evo_metarow_socialmedia a.evo_ss:hover{background-color:#9d9d9d;}.evo_metarow_socialmedia a.evo_ss i{color:#858585;}.evo_metarow_socialmedia a.evo_ss:hover i{color:#ffffff;}.evo_metarow_socialmedia .evo_sm{border-color:#cdcdcd}.evcal_event_details .evcal_evdata_cell .eventon_details_shading_bot{
+		background: -moz-linear-gradient(top,  rgba(234,234,234,0) 0%, rgba(234,234,234,0.01) 1%, rgba(234,234,234,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(234,234,234,0)), color-stop(1%,rgba(234,234,234,0.01)), color-stop(100%,rgba(234,234,234,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(234,234,2344,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(234,234,234,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(234,234,234,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(234,234,234,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00eaeaea', endColorstr='#eaeaea',GradientType=0 ); /* IE6-9 */
+	}.evcal_evdata_img{height:200px}</style><link rel="dns-prefetch" href="//s.gravatar.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="FSU Department of Art History » Stephanie Leitch Comments Feed" href="http://arthistory.fsu.edu/stephanie-leitch/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/arthistory.fsu.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://arthistory.fsu.edu/wp-includes/js/wp-emoji-release.min.js?ver=4.8" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://arthistory.fsu.edu/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.5" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="popup-maker-site-css" href="http://arthistory.fsu.edu/wp-content/plugins/popup-maker/assets/css/site.min.css?ver=1.6.3" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://arthistory.fsu.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="evcal_google_fonts-css" href="//fonts.googleapis.com/css?family=Oswald%3A400%2C300%7COpen+Sans%3A700%2C400%2C400i%7CRoboto%3A700%2C400&amp;ver=4.8" type="text/css" media="screen">
+<link rel="stylesheet" id="evcal_cal_default-css" href="//arthistory.fsu.edu/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=2.5.4" type="text/css" media="all">
+<link rel="stylesheet" id="evo_font_icons-css" href="//arthistory.fsu.edu/wp-content/plugins/eventON/assets/fonts/font-awesome.css?ver=2.5.4" type="text/css" media="all">
+<link rel="stylesheet" id="evo_RS_styles-css" href="//arthistory.fsu.edu/wp-content/plugins/eventon-rsvp/assets/RS_styles.css?ver=2.5.9" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="http://arthistory.fsu.edu/wp-content/uploads/sites/8/tablepress-combined.min.css?ver=34" type="text/css" media="all">
+<link rel="stylesheet" id="evo_el_styles-css" href="http://arthistory.fsu.edu/wp-content/plugins/eventon-event-lists/assets/el_styles.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="evo_fc_styles-css" href="http://arthistory.fsu.edu/wp-content/plugins/eventon-full-cal/assets/fc_styles.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_reset_css-css" href="http://arthistory.fsu.edu/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_formsmain_css-css" href="http://arthistory.fsu.edu/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_ready_class_css-css" href="http://arthistory.fsu.edu/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_browsers_css-css" href="http://arthistory.fsu.edu/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/style.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="child-style-css" href="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme-ah-child/style.css?ver=4.8" type="text/css" media="all">
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.5"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.5"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/js/bootstrap.min.js?ver=4.8"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/js/jquery.film_roll.min.js?ver=4.8"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.2.3"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.2.3"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/gravityforms/js/conditional_logic.min.js?ver=2.2.3"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.2.3"></script>
+<link rel="https://api.w.org/" href="http://arthistory.fsu.edu/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://arthistory.fsu.edu/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://arthistory.fsu.edu/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Paula Gerson Honored at Columbia Symposium" href="http://arthistory.fsu.edu/paula-gerson-honored-at-columbia-symposium/">
+<link rel="next" title="Lynn Jones" href="http://arthistory.fsu.edu/lynn-jones/">
+<meta name="generator" content="WordPress 4.8">
+<link rel="canonical" href="http://arthistory.fsu.edu/stephanie-leitch/">
+<link rel="shortlink" href="http://wp.me/p6Xkjn-4Zn">
+<link rel="alternate" type="application/json+oembed" href="http://arthistory.fsu.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Farthistory.fsu.edu%2Fstephanie-leitch%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://arthistory.fsu.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Farthistory.fsu.edu%2Fstephanie-leitch%2F&amp;format=xml">
+
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<style type="text/css">img#wpstats{display:none}</style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><meta name="generator" content="Powered by Slider Revolution 5.4.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<style type="text/css">.eventon_events_list .eventon_list_event .desc_trig{background-color:#fafafa}.eventon_events_list .eventon_list_event .desc_trig:hover{background-color:#f4f4f4}.ajde_evcal_calendar .calendar_header p, 
+			.eventon_events_list .eventon_list_event .evcal_cblock, .evcal_cblock, .eventon_events_list .eventon_list_event .evcal_desc span.evcal_desc2, .evcal_desc span.evcal_desc2, .evcal_evdata_row .evcal_evdata_cell h2, .evcal_evdata_row .evcal_evdata_cell h3.evo_h3, .evcal_month_line p, .evo_clik_row .evo_h3, .eventon_events_list .eventon_list_event .evcal_desc span.evcal_event_subtitle, .evo_pop_body .evcal_desc span.evcal_event_subtitle{font-family:oswald, 'arial narrow'}.ajde_evcal_calendar .evo_sort_btn, .eventon_sf_field p, .evo_srt_sel p.fa{color:#B8B8B8}.ajde_evcal_calendar .evo_sort_btn:hover{color:#d8d8d8}#evcal_list .eventon_list_event .evcal_desc em{color:#8c8c8c}#evcal_list .eventon_list_event .evcal_desc em a{color:#c8c8c8}#evcal_list .eventon_list_event .event_description .evcal_btn, .evo_pop_body .evcal_btn{color:#ffffff;background:#237ebd;}#evcal_list .eventon_list_event .event_description .evcal_btn:hover, .evo_pop_body .evcal_btn:hover{color:#fff;background:#237ebd;}.evcal_evdata_row .evcal_evdata_icons i, .evcal_evdata_row .evcal_evdata_custometa_icons i{color:#6B6B6B;font-size:18px;}#eventon_loadbar{background-color:#6B6B6B}.evcal_evdata_row .evcal_evdata_cell h3, .evo_clik_row .evo_h3{font-size:18px}#evcal_list .eventon_list_event .evcal_cblock{color:#ABABAB}.evcal_evdata_row .evcal_evdata_cell h2, .evcal_evdata_row .evcal_evdata_cell h3{color:#6B6B6B}#evcal_list .eventon_list_event .evcal_eventcard p, .ajde_evcal_calendar .eventon_events_list .eventon_desc_in ul{color:#656565}.ajde_evcal_calendar #evcal_head.calendar_header #evcal_cur, .ajde_evcal_calendar .evcal_month_line p{color:#C6C6C6}.eventon_events_list .eventon_list_event .evcal_eventcard, .evcal_evdata_row, .evorow .tbrow, .dark1, .evo_pop_body{background-color:#cdcdcd}.dark1:hover{background-color:#d8d8d8}.event_description .bordb, #evcal_list .bordb, .eventon_events_list .eventon_list_event .event_description, .bordr, #evcal_list, .evo_pop_body .bordb{border-color:#e5e5e5}.eventon_events_list .eventon_list_event .evcal_list_a:after,  .evcal_list_a:after{background-color:#cdcdcd}.eventon_events_list .eventon_list_event .evcal_list_a.featured_event{background-color:#F9ECE4}.eventon_events_list .eventon_list_event .evcal_list_a.featured_event:hover{background-color:#FAE4D7}#eventon_loadbar_section{border-color:#cdcdcd}.event_description .evcal_close{background-color:#eaeaea}.event_description .evcal_close:hover{background-color:#c7c7c7}#evcal_list .evorow.getdirections, .evo_pop_body .evorow.getdirections{background-color:#ffffff}#evcal_list .evorow.getdirections .evoInput, .evo_pop_body .evorow.getdirections .evoInput{color:#888888}#evcal_list .evorow.getdirections .evcalicon_9 i, .evo_pop_body .evorow.getdirections .evcalicon_9 i{color:#858585}#evcal_list .eventon_list_event .evcal_desc span.evcal_event_title, .evo_popup .eventon_events_list .eventon_list_event .evcal_desc span.evcal_event_title{color:#6B6B6B}.eventon_events_list .eventon_list_event .evcal_desc span.evcal_event_subtitle, .evo_pop_body .evcal_desc span.evcal_event_subtitle{color:#6B6B6B}.fp_popup_option i{color:#999;font-size:22px;}.evo_cal_above span{color:#ffffff;background-color:#ADADAD;}.evo_cal_above span:hover{color:#ffffff;background-color:#C8C8C8;}.evo_cal_above span.evo-gototoday-btn{color:#ffffff;background-color:#ADADAD;}.evo_cal_above span.evo-gototoday-btn:hover{color:#ffffff;background-color:#d3d3d3;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a{color:#ffffff;background-color:#ECECEC;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a:hover{color:#ffffff;background-color:#c3c3c3;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a.current{color:#ffffff;background-color:#CFCFCF;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a.set{color:#ffffff;background-color:#888888;}.ajde_evcal_calendar .calendar_header .evo_j_dates p.legend{color:#6e6e6e;}.ajde_evcal_calendar .calendar_header .evcal_arrows{color:#e2e2e2;border-color:#e2e2e2;background-color:#ffffff;}.ajde_evcal_calendar .calendar_header .evcal_arrows:hover{color:#e2e2e2;border-color:#e2e2e2;background-color:#e2e2e2;}.ajde_evcal_calendar .calendar_header .evcal_arrows .fa{color:#e2e2e2}.ajde_evcal_calendar .calendar_header .evcal_arrows:hover .fa{color:#e2e2e2}.eventon_events_list .eventon_list_event .evcal_desc span.evo_above_title span, .evo_pop_body .evcal_desc span.evo_above_title span{color:#ffffff;background-color:#F79191;}.eventon_events_list .eventon_list_event .evcal_desc span.evo_above_title span.canceled, .evo_pop_body .evcal_desc span.evo_above_title span.canceled{color:#ffffff;background-color:#F79191;}.eventon_events_list .eventon_list_event .cancel_event.evcal_list_a{color:#ffffff;background:repeating-linear-gradient(45deg,#FDF2F2,#FDF2F2 10px,#FAFAFA 10px,#FAFAFA 20px);}.evcal_desc .evcal_desc3 em.evocmd_button, #evcal_list .evcal_desc .evcal_desc3 em.evocmd_button{color:#ffffff;background-color:#237dbd;}.eventon_fc_days .evo_fc_day{background-color:#ffffff;color:#d4d4d4;}.eventon_fc_days .evo_fc_day:hover{background-color:#fbfbfb;color:#9e9e9e;}.eventon_fc_days .evo_fc_day.has_events{background-color:#ffffff;color:#dfa872;}.eventon_fc_days .evo_fc_day.has_events:hover{background-color:#F5F5F5;color:#9e9e9e;}.eventon_fc_days .evo_fc_day.on_focus{background-color:#FFF3E7;color:#d4d4d4;}.eventon_fc_days .evo_fc_day.on_focus:hover{background-color:#fbfbfb;color:#9e9e9e;}.eventon_fc_daynames .evo_fc_day{color:#9e9e9e}.eventon_fc_daynames .evo_fc_day:hover{color:#d4d4d4}.evofc_title_tip, .evoFC_tip{background-color:#808080;color:#f7f7f7;}body #evcal_list .eventon_list_event .evcal_desc .evcal_desc3 .evors_eventtop_data em,body .evo_pop_body .evcal_desc .evcal_desc3 .evors_eventtop_data em{color:#8c8c8c;background-color:#F7EBD6;border-color:#E4D6BE;}.evors_whos_coming span{background-color:#A7A7A7;color:#ffffff;}.evcal_evdata_row .evors_remaining_spots p em, .evcal_evdata_row .evors_mincap p em{background-color:#95D27F;color:#ffffff;}#evorsvp_form a.evcal_btn{background-color:#ffffff;color:#9AB37F;}#evorsvp_form .rsvp_status span.set{color:#9AB37F}#evorsvp_form .form_row select, #evorsvp_form .form_row input{color:#ffffff}#evorsvp_form .form_row input::-webkit-input-placeholder{color:#141412}#evorsvp_form .form_row input:-moz-input-placeholder{color:#141412}#evorsvp_form .form_row input::-moz-input-placeholder{color:#141412}#evorsvp_form .form_row input:-ms-input-placeholder{color:#141412}#evors_form_section, #evorsvp_form h3{color:#ffffff}.evors_popup:before{background-color:#9AB37F}.evoRS_status_option_selection span:hover, body .eventon_list_event .evcal_list_a .evors_eventtop_rsvp span:hover{background-color:#ffffff}.evoRS_status_option_selection span, body .eventon_list_event .evcal_list_a .evors_eventtop_rsvp span{border-color:#cdcdcd;background-color:#EAEAEA;}.ajde_evcal_calendar .evorss_rss_btn.evcal_btn{background-color:#ff7e42;color:#ffffff;}.evo_metarow_socialmedia a.evo_ss{background-color:#transparent;}.evo_metarow_socialmedia a.evo_ss:hover{background-color:#9d9d9d;}.evo_metarow_socialmedia a.evo_ss i{color:#858585;}.evo_metarow_socialmedia a.evo_ss:hover i{color:#ffffff;}.evo_metarow_socialmedia .evo_sm{border-color:#cdcdcd}.evcal_event_details .evcal_evdata_cell .eventon_details_shading_bot{
+		background: -moz-linear-gradient(top,  rgba(234,234,234,0) 0%, rgba(234,234,234,0.01) 1%, rgba(234,234,234,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(234,234,234,0)), color-stop(1%,rgba(234,234,234,0.01)), color-stop(100%,rgba(234,234,234,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(234,234,2344,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(234,234,234,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(234,234,234,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(234,234,234,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00eaeaea', endColorstr='#eaeaea',GradientType=0 ); /* IE6-9 */
+	}.evcal_evdata_img{height:200px}</style><link rel="icon" href="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2015/10/cropped-cropped-black-seal-favicon-1-150x150.png" sizes="32x32">
+<link rel="icon" href="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2015/10/cropped-cropped-black-seal-favicon-1-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2015/10/cropped-cropped-black-seal-favicon-1-300x300.png">
+<meta name="msapplication-TileImage" content="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2015/10/cropped-cropped-black-seal-favicon-1-300x300.png">
+
+<!-- BEGIN GADWP v5.0.1 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-5213390-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+	<style id="pum-styles" type="text/css">
+	/* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Acme|Montserrat|Open Sans');
+
+/* Popup Theme 41461: Default Theme */
+.pum-theme-41461, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-41461 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1 ) } 
+.pum-theme-41461 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: inherit; font-size: 32px; font-style: normal; line-height: 36px } 
+.pum-theme-41461 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: inherit; font-style: normal } 
+.pum-theme-41461 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: inherit; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1 ) } 
+
+/* Popup Theme 41429: Framed Border */
+.pum-theme-41429, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.5 ) } 
+.pum-theme-41429 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1 ) } 
+.pum-theme-41429 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-41429 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-41429 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Acme; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+
+/* Popup Theme 41428: Cutting Edge */
+.pum-theme-41428, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.5 ) } 
+.pum-theme-41428 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 30, 115, 190, 1 ) } 
+.pum-theme-41428 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-size: 26px; line-height: 28px } 
+.pum-theme-41428 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit } 
+.pum-theme-41428 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: inherit; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.1 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.1 ); background-color: rgba( 238, 238, 34, 1 ) } 
+
+/* Popup Theme 41427: Hello Box */
+.pum-theme-41427, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-41427 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-41427 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-size: 32px; line-height: 36px } 
+.pum-theme-41427 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-41427 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: inherit; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1 ) } 
+
+/* Popup Theme 41426: Enterprise Blue */
+.pum-theme-41426, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.7 ) } 
+.pum-theme-41426 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-41426 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 34px; line-height: 36px } 
+.pum-theme-41426 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-41426 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: inherit; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1 ) } 
+
+/* Popup Theme 41425: Light Box */
+.pum-theme-41425, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.6 ) } 
+.pum-theme-41425 .pum-container, .pum-theme-lightbox .pum-container { padding: 18px; border-radius: 3px; border: 8px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-41425 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-41425 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit } 
+.pum-theme-41425 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { height: 30px; width: 30px; left: auto; right: -24px; bottom: auto; top: -24px; padding: 0px; color: #ffffff; font-family: inherit; font-size: 24px; line-height: 26px; border: 2px solid #ffffff; border-radius: 30px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1 ) } 
+
+/* Popup Theme 41463: CFA Default Theme */
+.pum-theme-41463, .pum-theme-default-theme-2 { background-color: rgba( 61, 61, 61, 0.79 ) } 
+.pum-theme-41463 .pum-container, .pum-theme-default-theme-2 .pum-container { padding: 22px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1 ) } 
+.pum-theme-41463 .pum-title, .pum-theme-default-theme-2 .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Open Sans; font-size: 32px; line-height: 36px } 
+.pum-theme-41463 .pum-content, .pum-theme-default-theme-2 .pum-content { color: #8c8c8c; font-family: Open Sans } 
+.pum-theme-41463 .pum-content + .pum-close, .pum-theme-default-theme-2 .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: 0px; top: auto; padding: 8px; color: #5b5b5b; font-family: Open Sans; font-size: 12px; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 0 ) } 
+
+
+	
+		</style>    <link rel="stylesheet" type="text/css" href="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/css/events-page.css">
+    
+<link rel="stylesheet" type="text/css" id="gravatar-card-css" href="http://s.gravatar.com/css/hovercard.css?ver=2017Junaa"><link rel="stylesheet" type="text/css" id="gravatar-card-services-css" href="http://s.gravatar.com/css/services.css?ver=2017Junaa"></head>
+<body onload="setInterval(change, 1000)">
+<header id="fsu-header">
+<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+    <div class="strata strata--eggshell-inner strata--plain-top"><!-- .strata -->
+        <div class="container">
+            <div class="row">
+                <div id="fsu-home" class="col-sm-5 col-xs-6">
+			<p class="fsu-home"><a href="http://www.fsu.edu/">Florida State University |</a>
+				<a href="http://www.cfa.fsu.edu/">College of Fine Arts</a></p>
+                </div>
+                <div id="fsu-nav-utility" class="col-sm-5 col-xs-6 col-sm-offset-2">
+                    <nav class="navbar-default fsu-nav-utility">
+                          <ul class="nav navbar-right" style="margin-top: 0;">
+                            <li class="nav-btn"><a id="apply-now" href="http://admissions.fsu.edu/" class="btn apply-btn btn-3 btn-100 btn-stroke btn-stroke-gray">APPLY</a></li>                     
+                            <li class="nav-btn"><a href="http://give.fsu.edu/art" class="btn apply-btn btn-3 btn-100 btn-stroke btn-stroke-gray">GIVE</a></li>
+                            <li><a class="" data-toggle="collapse" data-parent=".fsu-utilities" href="#fsu-global-nav" aria-expanded="false" aria-controls="fsu-global-nav" title="FSU Sites" style="margin-right: 0px;"><i class="fa fa-bars"></i></a></li>
+                          </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fsu-utilities">
+        <div class="panel">
+            <div id="fsu-giving" class="panel-collapse collapse">
+                <div class="strata strata--slate strata--slate-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-12 small">
+                                <p class="text-right"><i class="glyphicon glyphicon-gift"></i> This is your <a href="#"><i>Donation message</i></a>.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="panel">
+            <div id="fsu-login" class="panel-collapse collapse">
+                <div class="strata strata--slate strata--slate-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-12">
+
+                                <form class="navbar-form navbar-right" role="navigation">
+                                    <div class="form-group">
+                                        <input class="form-control" placeholder="Username" type="text">
+                                    </div>
+                                    <div class="form-group">
+                                        <input class="form-control" placeholder="Password" type="text">
+                                    </div>
+                                    <button type="submit" class="btn btn-default">Log In</button>
+                                </form>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="panel">
+            <div id="fsu-search" class="panel-collapse collapse">
+                <div class="strata strata--slate strata--slate-inner"><!-- .strata -->
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-12">
+
+                                <form class="navbar-form navbar-right" role="search">
+                                    <div class="form-group">
+                                        
+                                            <input class="form-control" placeholder="Search" name="s" id="s" type="text">
+                                        
+                                    <button type="submit" class="btn btn-default">Submit</button>
+                                    </div></form>
+                                
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="panel">
+            <div id="fsu-global-nav" class="panel-collapse collapse">
+                <div class="strata strata--slate strata--slate-inner"><!-- .strata -->
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-12">
+
+                                <nav class=" fsu-nav-global">
+                                    <div class="pull-center">
+                                        <ul class="nav navbar-nav">
+                                            <li><a href="http://fsu.edu/academics/" target="_blank">Academics</a></li>
+                                            <li><a href="http://admissions.fsu.edu/" target="_blank">Admissions</a></li>
+                                            <li><a href="http://about.research.fsu.edu/" target="_blank">Research</a></li>
+                                            <li><a href="http://fsu.edu/faculty/" target="_blank">Faculty</a></li>
+                                            <li><a href="http://fsu.edu/students/" target="_blank">Students</a></li>
+                                            <li><a href="http://alumni.fsu.edu/" target="_blank">Alumni and Friends</a></li>
+                                            <li><a href="http://veterans.fsu.edu/" target="_blank">Veterans</a></li>
+                                            <!-- <li><a href="http://one.fsu.edu/" target="_blank">Giving</a></li> -->
+                                        </ul>
+                                    </div>
+                                </nav>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+</header>
+<div id="navcontainer" style="z-index: 9999;">
+
+    <div class="container">
+            <nav class="navbar navbar-cvatd" role="navigation">
+                    <!-- group brand and toggle for better mobile display -->
+                    <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                            </button>                            
+                                <a class="navbar-brand" href="http://arthistory.fsu.edu" title="FSU Department of Art History"><img src="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2017/06/ARH-Logo.png" class="img-responsive cfa-logo" alt="FSU Department of Art History logo"></a>
+                    </div><!-- /navbar-header -->
+
+
+                    
+                    <div class="collapse hidden-lg hidden-md hidden-sm" id="navbar-collapse">
+                            <ul class="nav navbar-nav">
+                                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" id="dropdownMenu_how+to+apply">Apply <b class="caret"></b></a><ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu_how+to+apply"><li><a href="http://arthistory.fsu.edu/how-to-apply/">How to Apply</a></li><li><a href="http://arthistory.fsu.edu/how-to-apply/admissions-finances/">Admissions &amp; Finances</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" id="dropdownMenu_about">About <b class="caret"></b></a><ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu_about"><li><a href="http://arthistory.fsu.edu/about/">About the Department</a></li><li><a href="http://cfa.fsu.edu/about" target="_blank">About the College</a></li><li><a href="http://arthistory.fsu.edu/about/by-laws/">Bylaws</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" id="dropdownMenu_programs">Programs <b class="caret"></b></a><ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu_programs"><li><a href="http://arthistory.fsu.edu/programs/undergraduate/">Art History BA</a></li><li><a href="http://arthistory.fsu.edu/programs/minors/">Minors</a></li><li><a href="http://arthistory.fsu.edu/programs/graduate/">Art History MA &amp; PhD</a></li><li><a href="http://arthistory.fsu.edu/programs/international/">International Opportunities</a></li><li><a href="http://arthistory.fsu.edu/programs/mchs/">MA in Museum &amp; Cultural Heritage Studies</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" id="dropdownMenu_people">People <b class="caret"></b></a><ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu_people"><li><a href="http://arthistory.fsu.edu/people/faculty-staff/">Faculty &amp; Staff</a></li><li><a href="http://arthistory.fsu.edu/people/students/">Students</a></li><li><a href="http://arthistory.fsu.edu/people/alumni/">Alumni</a></li><li><a href="http://arthistory.fsu.edu/people/dissertations/">Dissertations</a></li><li><a href="http://arthistory.fsu.edu/people/visiting-scholars/">Visiting Scholars</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" id="dropdownMenu_news">News <b class="caret"></b></a><ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu_news"><li><a href="http://arthistory.fsu.edu/news/events/">Events</a></li><li><a href="http://arthistory.fsu.edu/news/mchsblog/">MCHS Blog</a></li><li><a href="https://forms.cfa.fsu.edu/department-forms/department-of-art-history/submit-news/">Submit News</a></li><li><a href="http://fsu.us12.list-manage.com/subscribe?u=140029a316520907db0f05b5f&amp;id=38e685e2fd" target="_blank">Newsletter Signup</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" id="dropdownMenu_resources">Resources <b class="caret"></b></a><ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu_resources"><li><a href="http://arthistory.fsu.edu/resources/department-calendar/">Department Calendar</a></li><li><a href="http://arthistory.fsu.edu/resources/all-resources/">All Resources</a></li><li><a href="http://arthistory.fsu.edu/resources/media-center/">Media Center</a></li><li><a href="http://arthistory.fsu.edu/resources/facilities-technology/">Facilities &amp; Technology</a></li><li><a href="http://arthistory.fsu.edu/symposium/" target="_blank">Graduate Symposium</a></li><li><a href="http://arthistory.fsu.edu/resources/art-history-room-schedules/">Room Schedules</a></li><li><a href="http://arthistory.fsu.edu/resources/university-resources/">University Resources</a></li><li><a href="http://arthistory.fsu.edu/resources/research-teaching/">Research &amp; Teaching</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" id="dropdownMenu_connect">Contact <b class="caret"></b></a><ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu_connect"><li><a href="http://arthistory.fsu.edu/connect/">Contact Us</a></li><li><a href="http://arthistory.fsu.edu/connect/social-media/">Social Media</a></li><li><a href="http://arthistory.fsu.edu/connect/site-map/">Site Map</a></li><li><a href="http://arthistory.fsu.edu/connect/giving/">Giving</a></li></ul></li>                            </ul>
+                    </div>
+
+
+                    <!-- mobile site collapse -->
+                    <div class="navbar-collapse hidden-xs">
+                            <!--<input type="text" class="form-control" placeholder="search" id="srch-term">-->
+                            <ul class="nav navbar-nav navbar-right">
+
+                                    <li><a href="http://arthistory.fsu.edu/how-to-apply/">Apply</a><ul><li><a href="http://arthistory.fsu.edu/how-to-apply/">How to Apply</a></li><li><a href="http://arthistory.fsu.edu/how-to-apply/admissions-finances/">Admissions &amp; Finances</a></li></ul></li><li><a href="http://arthistory.fsu.edu/about/">About</a><ul><li><a href="http://arthistory.fsu.edu/about/">About the Department</a></li><li><a href="http://cfa.fsu.edu/about" target="_blank">About the College</a></li><li><a href="http://arthistory.fsu.edu/about/by-laws/">Bylaws</a></li></ul></li><li><a href="http://arthistory.fsu.edu/programs/">Programs</a><ul><li><a href="http://arthistory.fsu.edu/programs/undergraduate/">Art History BA</a></li><li><a href="http://arthistory.fsu.edu/programs/minors/">Minors</a></li><li><a href="http://arthistory.fsu.edu/programs/graduate/">Art History MA &amp; PhD</a></li><li><a href="http://arthistory.fsu.edu/programs/international/">International Opportunities</a></li><li><a href="http://arthistory.fsu.edu/programs/mchs/">MA in Museum &amp; Cultural Heritage Studies</a></li></ul></li><li><a href="http://arthistory.fsu.edu/people/faculty-staff">People</a><ul><li><a href="http://arthistory.fsu.edu/people/faculty-staff/">Faculty &amp; Staff</a></li><li><a href="http://arthistory.fsu.edu/people/students/">Students</a></li><li><a href="http://arthistory.fsu.edu/people/alumni/">Alumni</a></li><li><a href="http://arthistory.fsu.edu/people/dissertations/">Dissertations</a></li><li><a href="http://arthistory.fsu.edu/people/visiting-scholars/">Visiting Scholars</a></li></ul></li><li><a href="http://arthistory.fsu.edu/news/">News</a><ul><li><a href="http://arthistory.fsu.edu/news/events/">Events</a></li><li><a href="http://arthistory.fsu.edu/news/mchsblog/">MCHS Blog</a></li><li><a href="https://forms.cfa.fsu.edu/department-forms/department-of-art-history/submit-news/">Submit News</a></li><li><a href="http://fsu.us12.list-manage.com/subscribe?u=140029a316520907db0f05b5f&amp;id=38e685e2fd" target="_blank">Newsletter Signup</a></li></ul></li><li><a href="http://arthistory.fsu.edu/resources/all-resources/">Resources</a><ul><li><a href="http://arthistory.fsu.edu/resources/department-calendar/">Department Calendar</a></li><li><a href="http://arthistory.fsu.edu/resources/all-resources/">All Resources</a></li><li><a href="http://arthistory.fsu.edu/resources/media-center/">Media Center</a></li><li><a href="http://arthistory.fsu.edu/resources/facilities-technology/">Facilities &amp; Technology</a></li><li><a href="http://arthistory.fsu.edu/symposium/" target="_blank">Graduate Symposium</a></li><li><a href="http://arthistory.fsu.edu/resources/art-history-room-schedules/">Room Schedules</a></li><li><a href="http://arthistory.fsu.edu/resources/university-resources/">University Resources</a></li><li><a href="http://arthistory.fsu.edu/resources/research-teaching/">Research &amp; Teaching</a></li></ul></li><li><a href="http://arthistory.fsu.edu/connect/">Contact</a><ul><li><a href="http://arthistory.fsu.edu/connect/">Contact Us</a></li><li><a href="http://arthistory.fsu.edu/connect/social-media/">Social Media</a></li><li><a href="http://arthistory.fsu.edu/connect/site-map/">Site Map</a></li><li><a href="http://arthistory.fsu.edu/connect/giving/">Giving</a></li></ul></li>
+
+                                    <!-- search bar -->
+                                    <li id="searchcontainer" class="search" onclick="focusSearchInput()">
+                                        <a><i class="glyphicon glyphicon-search"></i></a>
+                                            <ul id="searchinputcontainer" style="display: none;">
+                                                    <li style="width:300px"><form role="search" method="get" id="searchform" class="searchform" action="http://arthistory.fsu.edu/"><input class="form-control" placeholder="search" name="s" id="s" type="text"></form></li>
+                                                    <div onclick="closeSearchinput()" style="margin: -27px auto auto 270px; z-index: -10; font-weight: bolder; cursor: pointer;">X</div>
+                                            </ul>
+                                    </li>
+                                    <!-- end search bar -->
+                                    <!-- giving donate icon -->
+                                    <!-- <li><a href="http://cfa.fsu.edu/giving/" title="Give to the College of Fine Arts"><img src="http://cfa.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/giftbox.png" width="17px"></a></li> -->
+                                    <!-- end giving donate icon -->
+
+                            </ul>
+
+
+<script>
+function focusSearchInput() {
+    if ( $("#searchinputcontainer").css("display") == "none" )  
+      $("#searchinputcontainer").css("display", "block");
+
+}
+function closeSearchinput() {
+    $("#searchinputcontainer").fadeOut("3000");
+}
+</script>
+
+
+
+                    </div><!-- /.navbar-collapse -->
+            </nav>
+    </div><!-- /.container -->
+
+</div>
+
+<!--
+<div id="nav-spacer">
+&nbsp;
+</div>
+
+<script>
+    changeNavSize();
+    window.addEventListener('resize', function(event){
+        changeNavSize();
+    });
+    function changeNavSize() {
+        var ht = parseInt(document.getElementById("navcontainer").clientHeight);
+        document.getElementById("nav-spacer").setAttribute("style", "height:" + ht + "px");
+    }
+</script>-->
+<!-- colorbox lightbox -->
+<link rel="stylesheet" href="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/js/colorbox/example2/colorbox.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/js/colorbox/jquery.colorbox.js"></script>
+<!-- end colorbox lightbox -->
+
+<div class="container top-container">
+
+	<div class="row">
+            
+        	
+
+		<div class="col-sm-12">
+			
+			<div class="crumbs"><a href="/">Home</a> <span class="arrow">»</span> <a href="http://arthistory.fsu.edu/stephanie-leitch/"> Stephanie Leitch</a></div>		
+			<h2>
+                            <span class="social_links pull-right">
+				<a href="https://www.facebook.com/dialog/feed?app_id=145634995501895&amp;display=popup&amp;description=&amp;caption=&amp;name=Stephanie Leitch&amp;link=http://arthistory.fsu.edu/stephanie-leitch/&amp;picture=&amp;redirect_uri=https://developers.facebook.com/tools/explorer" title="facebook" target="_blank"><i class="fa fa-facebook fa-1x"></i></a>
+<a href="http://twitter.com/share?url=http://arthistory.fsu.edu/stephanie-leitch/" title="twitter" target="_blank"><i class="fa fa-twitter fa-1x"></i></a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://arthistory.fsu.edu/stephanie-leitch/&amp;title=Stephanie Leitch" title="linkedin" target="_blank"><i class="fa fa-linkedin fa-1x"></i></a>
+<a href="~/feed/" title="RSS" target="_blank"><i class="fa fa-rss fa-1x"></i></a>
+<a href="~/connect/monthly-newsletter/" title="envelope"><i class="fa fa-envelope fa-1x"></i></a>                            </span>
+                            <span id="post_title">Stephanie Leitch</span>
+                        </h2>
+			<div class="feed-date-tags">Published February 18, 2014  </div>
+							<div class="row">
+<p><!-- left column --></p>
+<div id="left_column_faculty" class="col-lg-4 col-md-5 col-sm-6"><strong><a href="http://cvatd.fsu.edu/wp-content/uploads/2014/10/544155f2cec17.jpg" rel="lightbox" title="Stephanie Leitch" class="cboxElement"><img class="wp-image-19183 alignleft" src="http://cvatd.fsu.edu/wp-content/uploads/2014/10/544155f2cec17-682x1024.jpg" alt="Stephanie Leitch" width="375" height="563"></a>Director of Graduate Studies &amp; Associate Professor</strong><br>
+Northern European Art and History of Graphics<br>
+Room 3025 WJB<br>
+Department of Art History<br>
+<a href="http://www.fsu.edu/cvdb/SLEITCH.rtf" target="_blank">Curriculum Vitae</a><p></p>
+<h4>Contact</h4>
+<p><a href="mailto:sleitch@fsu.edu" target="_blank">sleitch@fsu.edu</a><br>
+(850) 644-7067</p>
+</div>
+<p><!-- right column --></p>
+<div id="right_column_faculty" class="col-lg-8 col-md-7 col-sm-4">
+<p>
+        <style type="text/css">
+            #gallery-2 {
+                margin: auto;
+            }
+            #gallery-2 .gallery-item {
+                float: left;
+                margin-top: 10px;
+                text-align: center;
+                width: 25%;
+            }
+            #gallery-2 img {
+                border: 2px solid #cfcfcf;
+            }
+            #gallery-2 .gallery-caption {
+                margin-left: 0;
+            }
+            /* see gallery_shortcode() in wp-includes/media.php */
+        </style>
+		</p><div id="gallery-2" class="gallery galleryid-19181 gallery-columns-4 gallery-size-thumbnail"><dl class="gallery-item">
+            <dt class="gallery-icon landscape">
+                <a href="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/Fuchs_Pictores-1-1.jpg" class="cboxElement"><img src="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/Fuchs_Pictores-1-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Stephanie Leitch gallery image" width="150" height="150"></a>
+            </dt></dl><dl class="gallery-item">
+            <dt class="gallery-icon portrait">
+                <a href="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d2a95-1.jpg" class="cboxElement"><img src="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d2a95-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Stephanie Leitch gallery image" width="150" height="150"></a>
+            </dt></dl><dl class="gallery-item">
+            <dt class="gallery-icon portrait">
+                <a href="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d1af8-1.jpg" class="cboxElement"><img src="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d1af8-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Stephanie Leitch gallery image" width="150" height="150"></a>
+            </dt></dl><dl class="gallery-item">
+            <dt class="gallery-icon landscape">
+                <a href="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d6914-1.jpg" class="cboxElement"><img src="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d6914-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Stephanie Leitch gallery image" width="150" height="150"></a>
+            </dt></dl><br style="clear: both">
+            <br style="clear: both;">
+        </div>
+<br>
+<!-- end right column --><p></p>
+<h3>Research&nbsp;Areas</h3>
+<p>Stephanie Leitch (Ph.D., University of Chicago) joined the faculty in 2007. Her current project <em>The Art of Observation in the Early Modern Print</em> focuses on the visual treatment of novelties and the organizational schemes invented to handle them in printed media. Visual impulses to document observations in new epistemic genres such as cosmographies, botanicals, and physiognomies tread a careful tightrope between naturalistic space and normative models. Challenging the canonical notion that Renaissance visuality was typically formalized in naturalistic space, printed genres developing informational aims frequently subordinated veristic concerns to documentary formulations. This project examines the surface tension endemic to print in the charting of cosmographic and geographic information, in the battle between particularity and convention in physiognomies and <em>Kunstbücher</em>, and in the rise of the visual conceit of anamorphosis to plot the multivalent contributions to new knowledge.</p>
+<p>Her book <em>Mapping Ethnography in Early Modern Germany: New Worlds in Print Culture</em> (Basingstoke, UK: Palgrave Macmillan, 2010) locates a moment of relativistic and proto- ethnographic treatment of extra-Europeans in the print culture of early sixteenth century Augsburg. It identifies new visual thinking about humanity in the “new worlds” of America, Africa and Asia as the result of a productive exchange amongst artists Hans Burgkmair, Jörg Breu and humanists in their milieu. Their prints challenge both art historical and anthropological models to consider cross-cultural exchange in Renaissance print culture and argue for the role of visual culture in ethnography’s development. <em>Mapping Ethnography in Early Modern German</em>y won the Roland H. Bainton prize for Art History in 2011.</p>
+<p>Her new book project, <em>The Art of Observation in the Early Modern Print (1500-1700)</em>, argues for the role of prints in constructing the physical and pictorial practices of observations in the early modern period. First-hand observations were both visualized and organized in images that sought to reproduce unmediated experience with the world. Prints in nascent epistemic genres helped cue observation, calibrate sightings, and thus, shaped and sharpened visual acuity. The prescriptions these images delivered for visually investigating human, terrestrial and cosmographic phenomena challenged enshrined knowledge by presenting how-to information arguably of more immediate concern to lay audiences—images that could help one spot a chicken thief by a close reading of physiognomies, locate oneself at sea by sighting celestial phenomena, gauge distances, or assist in the interpretation of prodigious occurrences. Aligning avenues of inquiry from art history and the history of science, this book scrutinizes the visual strategies at work in physiognomies, cosmographies, and natural histories to assess how they supported claims of first-hand experience.</p>
+<h3>Teaching Areas</h3>
+<p>Lecture Courses Offered</p>
+<ul>
+<li>Art of Northern Europe</li>
+<li>Cosmopolitan Renaissance</li>
+<li>Cross-cultural Currents in the Renaissance</li>
+<li>History of Printmaking</li>
+</ul>
+<p>Graduate Seminars</p>
+<ul>
+<li>Rethinking the Renaissance</li>
+<li>European Encounters with the New World</li>
+<li>Fact and Fiction in the Early Modern Print</li>
+<li>Renaissance Organization: Documenting, Collecting, and Remembering</li>
+</ul>
+<h3>Selected Publications</h3>
+<ul>
+<li><a href="http://oaj.oxfordjournals.org/content/early/2015/07/08/oxartj.kcv010.full" target="_blank">“Visual Acuity and the Physiognomer’s Art of Observation,”</a>&nbsp;<em>Oxford Art Journal</em> 2015.</li>
+<li><a href="http://www.letras.ufrj.br/anglo_germanicas/cadernos/numeros/112013/textos/cl02112013leitch.pdf" target="_blank">“Vespucci’s Triangle and the Shape of the World,”</a>&nbsp;in A. Cardoso and L. Villas Bôas (eds.), <em>Cadernos de Letras 29: Estudos Atlânticos: Literatura, História, Cultura</em>.</li>
+<li>“Positive ID and the Renaissance Printed Profile” in <em>Print Theory</em> (forthcoming).</li>
+<li><em><a href="http://www.palgrave.com/page/detail/Mapping-Ethnography-in-Early-Modern-Germany/?K=9780230620292" target="_blank">Mapping Ethnography in Early Modern Germany: New Worlds in Print Culture</a></em>&nbsp;(Palgrave, 2010).</li>
+<li>“Burgkmair’s Peoples of Africa and India (1508) and the Origins of Ethnography in Print,” <em>Art Bulletin</em> 91:2 (June 2009), 134-15.</li>
+<li>“The Wild Man, Charlemagne, and the German Body,” <em>Art History: Journal of the Association of Art Historian</em>&nbsp;31:3 (June 2008), 283-302.</li>
+<li>“Seeing Objects in Personal Devotion,” <em>Pious Journeys: Christian Devotional Art and Practice in the later Middle Ages and Renaissance</em> (Chicago, 2001)<br>
+<h3></h3>
+</li>
+</ul>
+<h3></h3>
+</div>
+<div id="accordion" class="panel-group"></div>
+</div>
+
+        <style type="text/css">
+            #gallery-4 {
+                margin: auto;
+            }
+            #gallery-4 .gallery-item {
+                float: left;
+                margin-top: 10px;
+                text-align: center;
+                width: 33%;
+            }
+            #gallery-4 img {
+                border: 2px solid #cfcfcf;
+            }
+            #gallery-4 .gallery-caption {
+                margin-left: 0;
+            }
+            /* see gallery_shortcode() in wp-includes/media.php */
+        </style>
+		<div id="gallery-4" class="gallery galleryid-19181 gallery-columns-3 gallery-size-thumbnail"><dl class="gallery-item">
+            <dt class="gallery-icon portrait">
+                <a href="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d49d6-1.jpg" class="cboxElement"><img src="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d49d6-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Stephanie Leitch gallery image" width="150" height="150"></a>
+            </dt></dl><dl class="gallery-item">
+            <dt class="gallery-icon landscape">
+                <a href="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d5978-1.jpg" class="cboxElement"><img src="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d5978-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Stephanie Leitch gallery image" width="150" height="150"></a>
+            </dt></dl><dl class="gallery-item">
+            <dt class="gallery-icon landscape">
+                <a href="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d3a3b-1.jpg" class="cboxElement"><img src="http://arthistory.fsu.edu/wp-content/uploads/sites/8/2014/10/544155f2d3a3b-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Stephanie Leitch gallery image" width="150" height="150"></a>
+            </dt></dl><br style="clear: both">
+            <br style="clear: both;">
+        </div>
+
+		
+					</div>
+			
+       	</div>
+	
+	
+	
+	
+</div>
+        <script>
+            $('a[rel=lightbox], .gallery-icon a').colorbox({rel:'gal', scalePhotos: true, maxWidth: $(window).width()*.8, maxHeight: $(window).height()*.8 });
+        </script><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div>
+
+        
+<script src="http://arthistory.fsu.edu/wp-content/themes/cvatd-2014-wp-theme/assets/js/events-page.js"></script>
+<script>window.onload = currDate(); </script>
+<script>
+	  /*
+		    Mark today's date on calendar
+		*/
+		$('body').on('click','.evo-gototoday-btn', function(){
+		    setTimeout(currDate, 1700);
+		});
+
+		// previous month
+		$('body').on('click','.evcal_btn_prev', function(){
+		    setTimeout(currDate, 1700);
+		});
+		// next month
+		$('body').on('click','.evcal_btn_next',function(){  
+		    setTimeout(currDate, 1700);
+		});
+</script>
+
+<div class="footer-row footer-row-1">
+	<div id="first" class="widget-area" role="complementary">		
+			</div>
+</div>
+
+
+<footer>
+<div id="main-footer">
+	<div class="container">
+		<div class="row">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#footer-navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div class="collapse navbar-collapse" id="footer-navbar-collapse">
+						<div class="col-sm-3">
+                             <ul><li class="h4"><a href="http://arthistory.fsu.edu/how-to-apply/">Apply</a></li><li class="h5"><a href="http://arthistory.fsu.edu/how-to-apply/">How to Apply</a></li><li class="h5"><a href="http://arthistory.fsu.edu/how-to-apply/admissions-finances/">Admissions &amp; Finances</a></li></ul> <ul><li class="h4"><a href="http://arthistory.fsu.edu/about/">About</a></li><li class="h5"><a href="http://arthistory.fsu.edu/about/">About the Department</a></li><li class="h5"><a href="http://cfa.fsu.edu/about" target="_blank">About the College</a></li><li class="h5"><a href="http://arthistory.fsu.edu/about/by-laws/">Bylaws</a></li></ul> <ul><li class="h4"><a href="http://arthistory.fsu.edu/programs/">Programs</a></li><li class="h5"><a href="http://arthistory.fsu.edu/programs/undergraduate/">Art History BA</a></li><li class="h5"><a href="http://arthistory.fsu.edu/programs/minors/">Minors</a></li><li class="h5"><a href="http://arthistory.fsu.edu/programs/graduate/">Art History MA &amp; PhD</a></li><li class="h5"><a href="http://arthistory.fsu.edu/programs/international/">International Opportunities</a></li><li class="h5"><a href="http://arthistory.fsu.edu/programs/mchs/">MA in Museum &amp; Cultural Heritage Studies</a></li></ul>                        </div>
+						<div class="col-sm-3">
+                             <ul><li class="h4"><a href="http://arthistory.fsu.edu/people/faculty-staff">People</a></li><li class="h5"><a href="http://arthistory.fsu.edu/people/faculty-staff/">Faculty &amp; Staff</a></li><li class="h5"><a href="http://arthistory.fsu.edu/people/students/">Students</a></li><li class="h5"><a href="http://arthistory.fsu.edu/people/alumni/">Alumni</a></li><li class="h5"><a href="http://arthistory.fsu.edu/people/dissertations/">Dissertations</a></li><li class="h5"><a href="http://arthistory.fsu.edu/people/visiting-scholars/">Visiting Scholars</a></li></ul> <ul><li class="h4"><a href="http://arthistory.fsu.edu/news/">News</a></li><li class="h5"><a href="http://arthistory.fsu.edu/news/events/">Events</a></li><li class="h5"><a href="http://arthistory.fsu.edu/news/mchsblog/">MCHS Blog</a></li><li class="h5"><a href="https://forms.cfa.fsu.edu/department-forms/department-of-art-history/submit-news/">Submit News</a></li><li class="h5"><a href="http://fsu.us12.list-manage.com/subscribe?u=140029a316520907db0f05b5f&amp;id=38e685e2fd" target="_blank">Newsletter Signup</a></li></ul>                        </div>
+						<div class="col-sm-3">
+                             <ul><li class="h4"><a href="http://arthistory.fsu.edu/resources/all-resources/">Resources</a></li><li class="h5"><a href="http://arthistory.fsu.edu/resources/department-calendar/">Department Calendar</a></li><li class="h5"><a href="http://arthistory.fsu.edu/resources/all-resources/">All Resources</a></li><li class="h5"><a href="http://arthistory.fsu.edu/resources/media-center/">Media Center</a></li><li class="h5"><a href="http://arthistory.fsu.edu/resources/facilities-technology/">Facilities &amp; Technology</a></li><li class="h5"><a href="http://arthistory.fsu.edu/symposium/" target="_blank">Graduate Symposium</a></li><li class="h5"><a href="http://arthistory.fsu.edu/resources/art-history-room-schedules/">Room Schedules</a></li><li class="h5"><a href="http://arthistory.fsu.edu/resources/university-resources/">University Resources</a></li><li class="h5"><a href="http://arthistory.fsu.edu/resources/research-teaching/">Research &amp; Teaching</a></li></ul> <ul><li class="h4"><a href="http://arthistory.fsu.edu/connect/">Contact</a></li><li class="h5"><a href="http://arthistory.fsu.edu/connect/">Contact Us</a></li><li class="h5"><a href="http://arthistory.fsu.edu/connect/social-media/">Social Media</a></li><li class="h5"><a href="http://arthistory.fsu.edu/connect/site-map/">Site Map</a></li><li class="h5"><a href="http://arthistory.fsu.edu/connect/giving/">Giving</a></li></ul>                        </div>
+						<div class="col-sm-3">
+                             <div style="margin-top: 30px;"><li class="h5">Art History Social Media</li><span class="social_links lower-level"><a href="https://www.facebook.com/fsuarthistory/" title="facebook" target="_blank"><i class="fa fa-facebook fa-1x"></i></a>
+<a href="http://instagram.com/arthistoryfsu" title="instagram" target="_blank"><i class="fa fa-instagram fa-1x"></i></a>
+<a href="http://arthistory.fsu.edu/rss" title="RSS" target="_blank"><i class="fa fa-rss fa-1x"></i></a>
+<a href="http://fsu.us12.list-manage.com/subscribe?u=140029a316520907db0f05b5f&amp;id=38e685e2fd" title="envelope"><i class="fa fa-envelope fa-1x"></i></a></span><br><li class="h5 "><a href="mailto:art-design@fsu.edu">Report web issues</a></li></div>                        </div>
+			                            
+			</div>
+		</div> 
+	</div>
+</div>
+<div id="fsu-footer">
+<div class="container">
+	<div class="row">
+
+		<div class="col-sm-3">
+			<p>© 2017 <a href="http://fsu.edu">Florida State University</a>
+			<br>600 W. College Avenue
+			<br>Tallahassee, FL 32306</p>
+		</div>
+
+		<div class="col-sm-3">
+			<p><a href="http://fsu.edu/misc/comments.html" target="_blank">Questions or Comments</a>
+			<br><a href="http://fsu.edu/misc/policy.html" target="_blank">Privacy Policy</a>
+			<br><a href="http://fsu.edu/misc/copyright.html" target="_blank">Copyright</a></p>
+		</div>
+
+		<div class="col-sm-3 col-md-2 ">
+			<p>FSU Directory Assistance:
+			<br><a href="tel:+18506442525">850-644-2525</a></p>
+		</div>
+
+		<div class="col-sm-3 col-md-3 col-md-offset-1">
+			<div>
+			<p class="text-right" style="margin: 0;">FSU Social Media:</p>
+			<ul class="footer-social">
+				<li><a href="http://www.facebook.com/floridastate" title="Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+				<li><a href="http://twitter.com/floridastate" title="Twitter"><i class="fa fa-twitter-square fa-2x"></i></a></li>
+				<li><a href="http://www.youtube.com/floridastate" title="Youtube"><i class="fa fa-youtube-square fa-2x"></i></a></li>
+				<li><a href="http://www.linkedin.com/edu/school?id=18100" title="linkedin"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+			</ul>
+			</div>
+		</div>
+
+	</div>
+</div>
+</div>
+	
+
+	<div id="pum-41950" class="pum pum-overlay pum-theme-41463 popmake-overlay click_open" data-popmake="{&quot;id&quot;:41950,&quot;slug&quot;:&quot;apply-now-undergraduate-popup&quot;,&quot;theme_id&quot;:41463,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;#apply-under-button&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;tiny&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;400&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;true&quot;,&quot;esc_press&quot;:&quot;true&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" data-gform-id="4" data-gform-settings="{&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0,&quot;closepopup&quot;:false,&quot;closedelay&quot;:0}">
+
+	<div id="popmake-41950" class="pum-container popmake theme-41463 pum-responsive pum-responsive-tiny responsive size-tiny">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<p style="text-align: center"><img class="aligncenter" src="http://cfa.fsu.edu/wp-content/uploads/2016/10/CFAlogo.png" alt="cfa-logo" width="500px" height="auto"></p>
+<p style="text-align: center">
+                </p><div class="gf_browser_gecko gform_wrapper" id="gform_wrapper_4" style=""><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_4" id="gform_4" action="/stephanie-leitch/" class="popmake_pa"> 
+ <meta name="gforms-pum" content="{&quot;closepopup&quot;:false,&quot;closedelay&quot;:0,&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0}">
+                        <div class="gform_body"><ul id="gform_fields_4" class="gform_fields top_label form_sublabel_below description_below"><li id="field_4_1" class="gfield sub-label field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label gfield_label_before_complex" for="input_4_1_3"></label><div class="ginput_complex ginput_container no_prefix has_first_name no_middle_name no_last_name no_suffix gf_name_has_1 ginput_container_name gfield_trigger_change" id="input_4_1">
+                            
+                            <span id="input_4_1_3_container" class="name_first">
+                                                    <input name="input_1.3" id="input_4_1_3" value="" aria-label="First name" tabindex="0" aria-invalid="false" placeholder="First Name" type="text">
+                                                    <label for="input_4_1_3">First</label>
+                                                </span>
+                            
+                            
+                            
+                        </div></li><li id="field_4_4" class="gfield field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label gfield_label_before_complex" for="input_4_4_6"></label><div class="ginput_complex ginput_container no_prefix no_first_name no_middle_name has_last_name no_suffix gf_name_has_1 ginput_container_name gfield_trigger_change" id="input_4_4">
+                            
+                            
+                            
+                            <span id="input_4_4_6_container" class="name_last">
+                                                    <input name="input_4.6" id="input_4_4_6" value="" aria-label="Last name" tabindex="0" aria-invalid="false" placeholder="Last Name" type="text">
+                                                    <label for="input_4_4_6">Last</label>
+                                                </span>
+                            
+                        </div></li><li id="field_4_2" class="gfield form-email field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_4_2"></label><div class="ginput_container ginput_container_email">
+                            <input name="input_2" id="input_4_2" value="" class="medium" tabindex="0" placeholder="Email" aria-invalid="false" type="text">
+                        </div></li><li id="field_4_14" class="gfield gsection field_sublabel_below field_description_below gfield_visibility_visible"><h2 class="gsection_title"></h2></li><li id="field_4_11" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_visible"><h4><strong>Department or Program of Interest</strong></h4></li><li id="field_4_13" class="gfield text-left field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label"></label><div class="ginput_container ginput_container_checkbox"><ul class="gfield_checkbox" id="input_4_13"><li class="gchoice_4_13_1">
+								<input name="input_13.1" onclick="gf_apply_rules(4,[8]);" onkeypress="gf_apply_rules(4,[8]);" value="Request Information on All Programs" id="choice_4_13_1" tabindex="0" type="checkbox">
+								<label for="choice_4_13_1" id="label_4_13_1">Request Information on All Programs</label>
+							</li></ul></div></li><li id="field_4_8" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_4_8">Department of Interest<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_select"><select name="input_8" id="input_4_8" class="medium gfield_select" tabindex="13" aria-required="true" aria-invalid="false"><option value="Department of Art">Department of Art</option><option value="Department of Art Education">Department of Art Education</option><option value="Department of Art History">Department of Art History</option><option value="Department of Interior Architecture and Design">Department of Interior Architecture and Design</option><option value="School of Dance">School of Dance</option><option value="School of Theatre">School of Theatre</option><option value="Unsure / All Programs">Unsure / All Programs</option></select></div></li><li id="field_4_12" class="gfield gsection field_sublabel_below field_description_below gfield_visibility_visible"><h2 class="gsection_title"></h2></li><li id="field_4_5" class="gfield text-left field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label"></label><div class="ginput_container ginput_container_checkbox"><ul class="gfield_checkbox" id="input_4_5"><li class="gchoice_4_5_1">
+								<input name="input_5.1" value="Start an Application" id="choice_4_5_1" tabindex="0" type="checkbox">
+								<label for="choice_4_5_1" id="label_4_5_1">Start an Application</label>
+							</li><li class="gchoice_4_5_2">
+								<input name="input_5.2" value="Request Information" id="choice_4_5_2" tabindex="0" type="checkbox">
+								<label for="choice_4_5_2" id="label_4_5_2">Request Information</label>
+							</li><li class="gchoice_4_5_3">
+								<input name="input_5.3" value="No Thanks - I just want to learn more" id="choice_4_5_3" tabindex="0" type="checkbox">
+								<label for="choice_4_5_3" id="label_4_5_3">No Thanks - I just want to learn more</label>
+							</li></ul></div></li><li id="field_4_10" class="gfield field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_4_10">Additional Comments</label><div class="ginput_container ginput_container_textarea"><textarea name="input_10" id="input_4_10" class="textarea medium" tabindex="0" placeholder="Additional Comments..." aria-invalid="false" rows="10" cols="50"></textarea></div></li>
+                            </ul></div>
+        <div class="gform_footer top_label"> <input id="gform_submit_button_4" class="gform_button button" value="CONTINUE" tabindex="0" onclick="if(window[&quot;gf_submitting_4&quot;]){return false;}  window[&quot;gf_submitting_4&quot;]=true;  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_4&quot;]){return false;} window[&quot;gf_submitting_4&quot;]=true;  jQuery(&quot;#gform_4&quot;).trigger(&quot;submit&quot;,[true]); }" type="submit"> <input name="gform_ajax" value="form_id=4&amp;title=&amp;description=&amp;tabindex=1" type="hidden">
+            <input class="gform_hidden" name="is_submit_4" value="1" type="hidden">
+            <input class="gform_hidden" name="gform_submit" value="4" type="hidden">
+            
+            <input class="gform_hidden" name="gform_unique_id" value="" type="hidden">
+            <input class="gform_hidden" name="state_4" value="WyJbXSIsIjZkNzFjNjg5M2Q4NjdlYzAwYWE2MWQ1Zjk3MWI3M2ZjIl0=" type="hidden">
+            <input class="gform_hidden" name="gform_target_page_number_4" id="gform_target_page_number_4" value="0" type="hidden">
+            <input class="gform_hidden" name="gform_source_page_number_4" id="gform_source_page_number_4" value="1" type="hidden">
+            <input name="gform_field_values" value="" type="hidden">
+            
+        </div>
+                        <input name="_popmake_pa_conversion_check" value="41950" type="hidden"><input name="_popmake_pa_open_event_id" value="" type="hidden"></form>
+                        </div>
+                <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_4" id="gform_ajax_frame_4">This iframe contains the logic required to handle AJAX powered Gravity Forms.</iframe>
+                <script type="text/javascript">jQuery(document).ready(function($){gformInitSpinner( 4, 'http://arthistory.fsu.edu/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_4').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_4');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_4').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_4').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_4').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_4').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_4').val();gformInitSpinner( 4, 'http://arthistory.fsu.edu/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [4, current_page]);window['gf_submitting_4'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_4').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [4]);window['gf_submitting_4'] = false;}, 50);}else{jQuery('#gform_4').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [4, current_page]);} );} );</script><script type="text/javascript"> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/arthistory.fsu.edu\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/arthistory.fsu.edu\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 4) {gf_global["number_formats"][4] = {"1":{"price":false,"value":false},"4":{"price":false,"value":false},"2":{"price":false,"value":false},"14":{"price":false,"value":false},"11":{"price":false,"value":false},"13":{"price":false,"value":false},"8":{"price":false,"value":false},"12":{"price":false,"value":false},"5":{"price":false,"value":false},"10":{"price":false,"value":false}};if(window['jQuery']){if(!window['gf_form_conditional_logic'])window['gf_form_conditional_logic'] = new Array();window['gf_form_conditional_logic'][4] = { logic: { 8: {"field":{"actionType":"hide","logicType":"all","rules":[{"fieldId":"13","operator":"is","value":"Request Information on All Programs"}]},"nextButton":null,"section":""} }, dependents: { 8: [8] }, animation: 0, defaults: {"1":{"1.2":"","1.3":"","1.4":"","1.6":"","1.8":""},"4":{"4.2":"","4.3":"","4.4":"","4.6":"","4.8":""}}, fields: {"1":[],"4":[],"2":[],"14":[],"11":[],"13":[8],"8":[],"12":[],"5":[],"10":[]} }; if(!window['gf_number_format'])window['gf_number_format'] = 'decimal_dot';jQuery(document).ready(function(){gf_apply_rules(4, [8], true);jQuery('#gform_wrapper_4').show();jQuery(document).trigger('gform_post_conditional_logic', [4, null, true]);} );} if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [4, 1]) } ); </script><p></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			CLOSE            </button>
+		
+	</div>
+
+</div>
+<div id="pum-41945" class="pum pum-overlay pum-theme-41463 popmake-overlay click_open" data-popmake="{&quot;id&quot;:41945,&quot;slug&quot;:&quot;apply-now-graduate-popup-2&quot;,&quot;theme_id&quot;:41463,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;#apply-grad-button&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;tiny&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;400&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;true&quot;,&quot;esc_press&quot;:&quot;true&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}" role="dialog" aria-hidden="true" data-gform-id="3" data-gform-settings="{&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0,&quot;closepopup&quot;:false,&quot;closedelay&quot;:0}">
+
+	<div id="popmake-41945" class="pum-container popmake theme-41463 pum-responsive pum-responsive-tiny responsive size-tiny">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<p style="text-align: center"><img class="aligncenter" src="http://cfa.fsu.edu/wp-content/uploads/2016/10/CFAlogo.png" alt="cfa-logo" width="500px" height="auto"></p>
+<p style="text-align: center">
+                </p><div class="gf_browser_gecko gform_wrapper" id="gform_wrapper_3" style=""><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_3" id="gform_3" action="/stephanie-leitch/" class="popmake_pa"> 
+ <meta name="gforms-pum" content="{&quot;closepopup&quot;:false,&quot;closedelay&quot;:0,&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0}">
+                        <div class="gform_body"><ul id="gform_fields_3" class="gform_fields top_label form_sublabel_below description_below"><li id="field_3_1" class="gfield sub-label field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label gfield_label_before_complex" for="input_3_1_3"></label><div class="ginput_complex ginput_container no_prefix has_first_name no_middle_name no_last_name no_suffix gf_name_has_1 ginput_container_name gfield_trigger_change" id="input_3_1">
+                            
+                            <span id="input_3_1_3_container" class="name_first">
+                                                    <input name="input_1.3" id="input_3_1_3" value="" aria-label="First name" tabindex="0" aria-invalid="false" placeholder="First Name" type="text">
+                                                    <label for="input_3_1_3">First</label>
+                                                </span>
+                            
+                            
+                            
+                        </div></li><li id="field_3_4" class="gfield field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label gfield_label_before_complex" for="input_3_4_6"></label><div class="ginput_complex ginput_container no_prefix no_first_name no_middle_name has_last_name no_suffix gf_name_has_1 ginput_container_name gfield_trigger_change" id="input_3_4">
+                            
+                            
+                            
+                            <span id="input_3_4_6_container" class="name_last">
+                                                    <input name="input_4.6" id="input_3_4_6" value="" aria-label="Last name" tabindex="0" aria-invalid="false" placeholder="Last Name" type="text">
+                                                    <label for="input_3_4_6">Last</label>
+                                                </span>
+                            
+                        </div></li><li id="field_3_2" class="gfield form-email field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_3_2"></label><div class="ginput_container ginput_container_email">
+                            <input name="input_2" id="input_3_2" value="" class="medium" tabindex="0" placeholder="Email" aria-invalid="false" type="text">
+                        </div></li><li id="field_3_14" class="gfield gsection field_sublabel_below field_description_below gfield_visibility_visible"><h2 class="gsection_title"></h2></li><li id="field_3_11" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_visible"><h4><strong>Department or Program of Interest</strong></h4></li><li id="field_3_13" class="gfield text-left field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label"></label><div class="ginput_container ginput_container_checkbox"><ul class="gfield_checkbox" id="input_3_13"><li class="gchoice_3_13_1">
+								<input name="input_13.1" onclick="gf_apply_rules(3,[8]);" onkeypress="gf_apply_rules(3,[8]);" value="Request Information on All Programs" id="choice_3_13_1" tabindex="0" type="checkbox">
+								<label for="choice_3_13_1" id="label_3_13_1">Request Information on All Programs</label>
+							</li></ul></div></li><li id="field_3_8" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_3_8">Department of Interest<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_select"><select name="input_8" id="input_3_8" class="medium gfield_select" tabindex="13" aria-required="true" aria-invalid="false"><option value="Department of Art">Department of Art</option><option value="Department of Art Education">Department of Art Education</option><option value="Department of Art History" selected="selected">Department of Art History</option><option value="Department of Interior Architecture and Design">Department of Interior Architecture and Design</option><option value="School of Dance">School of Dance</option><option value="School of Theatre">School of Theatre</option><option value="Unsure / All Programs">Unsure / All Programs</option></select></div></li><li id="field_3_12" class="gfield gsection field_sublabel_below field_description_below gfield_visibility_visible"><h2 class="gsection_title"></h2></li><li id="field_3_5" class="gfield text-left field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label"></label><div class="ginput_container ginput_container_checkbox"><ul class="gfield_checkbox" id="input_3_5"><li class="gchoice_3_5_1">
+								<input name="input_5.1" value="Start an Application" id="choice_3_5_1" tabindex="0" type="checkbox">
+								<label for="choice_3_5_1" id="label_3_5_1">Start an Application</label>
+							</li><li class="gchoice_3_5_2">
+								<input name="input_5.2" value="Request Information" id="choice_3_5_2" tabindex="0" type="checkbox">
+								<label for="choice_3_5_2" id="label_3_5_2">Request Information</label>
+							</li><li class="gchoice_3_5_3">
+								<input name="input_5.3" value="No Thanks - I just want to learn more" id="choice_3_5_3" tabindex="0" type="checkbox">
+								<label for="choice_3_5_3" id="label_3_5_3">No Thanks - I just want to learn more</label>
+							</li></ul></div></li><li id="field_3_10" class="gfield field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_3_10">Additional Comments</label><div class="ginput_container ginput_container_textarea"><textarea name="input_10" id="input_3_10" class="textarea medium" tabindex="0" placeholder="Additional Comments..." aria-invalid="false" rows="10" cols="50"></textarea></div></li>
+                            </ul></div>
+        <div class="gform_footer top_label"> <input id="gform_submit_button_3" class="gform_button button" value="CONTINUE" tabindex="0" onclick="if(window[&quot;gf_submitting_3&quot;]){return false;}  window[&quot;gf_submitting_3&quot;]=true;  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_3&quot;]){return false;} window[&quot;gf_submitting_3&quot;]=true;  jQuery(&quot;#gform_3&quot;).trigger(&quot;submit&quot;,[true]); }" type="submit"> <input name="gform_ajax" value="form_id=3&amp;title=&amp;description=&amp;tabindex=1" type="hidden">
+            <input class="gform_hidden" name="is_submit_3" value="1" type="hidden">
+            <input class="gform_hidden" name="gform_submit" value="3" type="hidden">
+            
+            <input class="gform_hidden" name="gform_unique_id" value="" type="hidden">
+            <input class="gform_hidden" name="state_3" value="WyJbXSIsIjZkNzFjNjg5M2Q4NjdlYzAwYWE2MWQ1Zjk3MWI3M2ZjIl0=" type="hidden">
+            <input class="gform_hidden" name="gform_target_page_number_3" id="gform_target_page_number_3" value="0" type="hidden">
+            <input class="gform_hidden" name="gform_source_page_number_3" id="gform_source_page_number_3" value="1" type="hidden">
+            <input name="gform_field_values" value="" type="hidden">
+            
+        </div>
+                        <input name="_popmake_pa_conversion_check" value="41945" type="hidden"><input name="_popmake_pa_open_event_id" value="" type="hidden"></form>
+                        </div>
+                <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_3" id="gform_ajax_frame_3">This iframe contains the logic required to handle AJAX powered Gravity Forms.</iframe>
+                <script type="text/javascript">jQuery(document).ready(function($){gformInitSpinner( 3, 'http://arthistory.fsu.edu/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_3').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_3');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_3').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_3').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_3').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_3').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_3').val();gformInitSpinner( 3, 'http://arthistory.fsu.edu/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [3, current_page]);window['gf_submitting_3'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_3').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [3]);window['gf_submitting_3'] = false;}, 50);}else{jQuery('#gform_3').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [3, current_page]);} );} );</script><script type="text/javascript"> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/arthistory.fsu.edu\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/arthistory.fsu.edu\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 3) {gf_global["number_formats"][3] = {"1":{"price":false,"value":false},"4":{"price":false,"value":false},"2":{"price":false,"value":false},"14":{"price":false,"value":false},"11":{"price":false,"value":false},"13":{"price":false,"value":false},"8":{"price":false,"value":false},"12":{"price":false,"value":false},"5":{"price":false,"value":false},"10":{"price":false,"value":false}};if(window['jQuery']){if(!window['gf_form_conditional_logic'])window['gf_form_conditional_logic'] = new Array();window['gf_form_conditional_logic'][3] = { logic: { 8: {"field":{"actionType":"hide","logicType":"all","rules":[{"fieldId":"13","operator":"is","value":"Request Information on All Programs"}]},"nextButton":null,"section":""} }, dependents: { 8: [8] }, animation: 0, defaults: {"1":{"1.2":"","1.3":"","1.4":"","1.6":"","1.8":""},"4":{"4.2":"","4.3":"","4.4":"","4.6":"","4.8":""},"8":"Department of Art History"}, fields: {"1":[],"4":[],"2":[],"14":[],"11":[],"13":[8],"8":[],"12":[],"5":[],"10":[]} }; if(!window['gf_number_format'])window['gf_number_format'] = 'decimal_dot';jQuery(document).ready(function(){gf_apply_rules(3, [8], true);jQuery('#gform_wrapper_3').show();jQuery(document).trigger('gform_post_conditional_logic', [3, null, true]);} );} if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [3, 1]) } ); </script><p></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			CLOSE            </button>
+		
+	</div>
+
+</div>
+		<script type="text/javascript">
+		/*<![CDATA[*/
+		var gmapstyles = 'default';
+		/* ]]> */
+		</script>		
+			<div style="display:none">
+	</div>
+<div class="evo_lightboxes">					<div class="evo_lightbox eventcard eventon_events_list" id="">
+						<div class="evo_content_in">													
+							<div class="evo_content_inin">
+								<div class="evo_lightbox_content">
+									<a class="evolbclose ">X</a>
+									<div class="evo_lightbox_body eventon_list_event evo_pop_body evcal_eventcard"></div>
+								</div>
+							</div>							
+						</div>
+					</div>
+										<div class="evo_lightbox evors_lightbox " id="evors_lightbox">
+						<div class="evo_content_in">													
+							<div class="evo_content_inin">
+								<div class="evo_lightbox_content">
+									<a class="evolbclose evors_lightbox">X</a>
+									<div class="evo_lightbox_body evors_lightbox_body"></div>
+								</div>
+							</div>							
+						</div>
+					</div>
+					</div><script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/arthistory.fsu.edu\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pum_vars = {"ajaxurl":"http:\/\/arthistory.fsu.edu\/wp-admin\/admin-ajax.php","restapi":"http:\/\/arthistory.fsu.edu\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"41461","debug_mode":"","disable_open_tracking":""};
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit http:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_display_settings":"Display Settings:","label_close_settings":"Close Settings:","label_event_before_open":"Event: Before Open","label_event_after_open":"Event: After Open","label_event_open_prevented":"Event: Open Prevented","label_event_setup_close":"Event: Setup Close","label_event_close_prevented":"Event: Close Prevented","label_event_before_close":"Event: Before Close","label_event_after_close":"Event: After Close","label_event_before_reposition":"Event: Before Reposition","label_event_after_reposition":"Event: After Reposition","label_event_checking_condition":"Event: Checking Condition","triggers":{"click_open":{"name":"Click Open","modal_title":"Click Trigger Settings","settings_column":"<strong>Extra Selectors<\/strong>: {{data.extra_selectors}}"},"auto_open":{"name":"Auto Open","modal_title":"Auto Open Settings","settings_column":"<strong>Delay<\/strong>: {{data.delay}}"}},"cookies":{"on_popup_open":{"name":"On Popup Open","modal_title":"On Popup Open Settings"},"on_popup_close":{"name":"On Popup Close","modal_title":"On Popup Close Settings"},"manual":{"name":"Manual JavaScript","modal_title":"Click Trigger Settings"}}};
+var ajaxurl = "http:\/\/arthistory.fsu.edu\/wp-admin\/admin-ajax.php";
+var popmake_default_theme = "41461";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/popup-maker/assets/js/site.min.js?defer&amp;ver=1.6.3" defer="defer"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var popmake_pa_nonce = "31a86005f8";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/popup-maker-popup-analytics/assets/js/scripts.min.js?defer&amp;ver=1.1.4" defer="defer"></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2017Junaa"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.8"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-content/plugins/wp-gallery-custom-links/wp-gallery-custom-links.js?ver=1.1"></script>
+<script type="text/javascript" src="http://arthistory.fsu.edu/wp-includes/js/wp-embed.min.js?ver=4.8"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201725.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.0',blog:'102797449',post:'19181',tz:'0',srv:'arthistory.fsu.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '102797449', '19181' ]);
+</script>
+</footer>
+
+<img src="http://pixel.wp.com/g.gif?v=ext&amp;j=1%3A5.0&amp;blog=102797449&amp;post=19181&amp;tz=0&amp;srv=arthistory.fsu.edu&amp;host=arthistory.fsu.edu&amp;ref=&amp;rand=0.9756517347129154" alt=":)" id="wpstats" width="6" height="5"></body></html>

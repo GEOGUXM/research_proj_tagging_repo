@@ -1,0 +1,38 @@
+Support Courant
+Courant Login
+Institute
+Academics
+Research
+People
+Calendars
+Resources
+About Us
+Faculty
+Postdocs & Research Staff
+Graduate Students
+Visitors
+Staff
+Directory (Courant access only)
+FACULTY PROFILE
+Jerome K. Percus
+Professor of Mathematics and Physics
+percus@cims.nyu.edu
+212-998-3130
+Warren Weaver Hall, Office 501
+Education
+Ph.D., Physics, Columbia University, USA, 1954.
+M.A., Mathematics, Columbia University, USA, 1948.
+B.S., Electrical Engineering, Columbia University, USA, 1947.
+Research Interests
+A common thread among my research activities is the study of relations between high and low resolution solutions of mathematical and physical problems. Directions of current interest include the use of exact inequalities to obtain tight estimates of properties of large electron systems (see first publication below), controlled dimensional reduction of particles and fluids in nanolevel enclosures of large aspect ratio (see second publication below), and self-interacting random walks on networks (see final publication below).
+Selected Publications
+J.K. Percus, "On the Trail of the 2-body Reduced Density Matrix", Computational and Theoretical Chemistry 1003, 2-7 (2013)
+J.K. Percus, "Molecular Transport under Tight Confinement", AIP Conference Proceedings 1579, no. 1, 79-88 (2014)
+O.E. Percus and J.K. Percus, "The Maximum of a Symmetric Next Neighbor Walk on the Non-Negative Integers", Journal of Applied Probability 51, 162-173 (2014)
+New York University
+Faculty of Arts and Science
+College of Arts and Science
+Graduate School of Arts and Science
+Please e-mail comments or corrections to: webmaster at courant.nyu.edu
+For other inquiries, please see the list of contacts.
+© New York University

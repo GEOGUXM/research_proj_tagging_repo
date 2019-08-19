@@ -1,0 +1,46 @@
+Home
+Research
+Graduate Studies
+About Us
+Clinical Care
+Seminars
+Principal Investigators
+Research Areas
+Technology Exchange
+Find funding
+Prof Shoumo Bhattacharya FMedSci FRCP
+Research
+Collaborations
+Publications
+Research Area: Cell and Molecular Biology
+Technology Exchange: Drug discovery, Ex vivo models, Immunohistochemistry, In situ hybridisation, Magnetic resonance imaging & spectroscopy, Microscopy (Confocal), Protein interaction, Transcript profiling and Transgenesis
+Scientific Themes: Cardiovascular Science and Molecular, Cell & Systems Biology
+The Scar-In-A-Jar Assay allows us to identify novel drugs that block collagen secretion, and may be ...
+Our laboratory, based at the Wellcome Trust Centre for Human Genetics, with collaborations at the Target Discovery Institute has three major themes.   
+Theme 1 - Fibrosis and BMP/TGFb Signaling
+Noel Faherty, Matt Benson, Angela Lee
+Fibrosis is a major obstacle to regeneration, and plays a key role in diseases of the heart, kidneys, lungs, and liver. A number of key cytokine pathways that activate in cardiac fibrosis have been identified - including angiotensin II, TGFb, PDGF, CTGF, and endothelin-1, whereas BMP signalling is protective. A key challenge is to identify therapeutic targets for fibrosis within these signalling pathways. 
+a) BMP signalling: Using high-throughput siRNA approaches in mammalian cells we have identified a family of interacting genes that when knocked down enhance BMP signaling through a novel pathway.  The goal of the project is to understand the pathway in depth, using cell based  & molecular approaches, and apply this to fibrotic disease.
+b) Collagen matrix formation:  We have used network approaches to identify novel genes that are highly connected to the known fibrosis disease gene network. The high connectivity predicts that these genes are candidate drug targets for fibrosis. We have tested these candidates in a miniaturized “Scar-in-a-Jar assay” using tool compounds, and have identified two novel classes of small molecules that affect collagen secretion in vitro.  Goals of the project are to study the mechanisms of action of these molecules and validate them in models of cardiac fibrosis. We are also using the “Scar-in-a-Jar assay” to screen in an unbiased manner for further small molecules that affect collagen secretion at the Target Discovery Institute high-throughput screening facility. 
+Theme 2 - New Biotechnology
+Graham Davies, Kamayani Singh, Matt Benson, Adrian Gray
+Yeast 3 hybrid system:
+ We are establishing and improving a published system that will allow us to efficiently identify the targets of small molecules identified in high throughput phenotypic screens.  This project is in collaboration with Dr Paul Brennan, Head of Medicinal Chemistry at the Target Discovery Institute.  One goal of the project is to use candidate small molecules that have been identified in phenotypic screens (e.g. "Scar-in-a-Jar") and identify the cellular targets.
+Theme 3 -  Heart Formation and Congenital Heart Disease
+Dorota Szumska, Iain Dykes, Rathi Puliyadi, Linta Kucheria
+Congenital heart disease occurs in approximately 1% of all children, and is a major cause of illness and death.  Using ENU mutagenesis (in collaboration with Steve Brown, MRC Harwell) we have identified a number of genes that affect heart development, and are studying the developmental mechanisms. In addition,  we are part of two large programs: DMDD (Deciphering the Mechanisms of Developmental Disorders) which uses model organism genetics together with phenotyping of embryonic lethal mutants (with Dr Tim Mohun (NIMR) & Jurgen Schneider (Oxford)); and UK10K (with Matt Hurles (WTSI) which uses exon sequencing to identify gene variants in patients with congenital heart disease.  We believe that interfacing the DMDD and UK10K data will allow us to understand the mechanisms of congenital heart disease.
+Funding: 
+British Heart Foundation and Wellcome Trust Program Grants, Wellcome Trust Strategic Award, BHF Centre of Research Excellence, BHF Centre for Regenerative Medicine.
+Affiliated DPhil Programs that provide funding:
+BHF Funded Programs
+RDM Scholars Programme
+Profile
+Name: Prof Shoumo Bhattacharya FMedSci FRCP  
+Titles: BHF Chair of Cardiovascular Medicine, Honorary Consultant Cardiologist, Group Head / PI, Consultant Physician, Fellow and Member of congregation
+Location: Henry Wellcome Building of Genomic Medicine
+Division: Cardiovascular Medicine
+Group: Bhattacharya
+College: Green Templeton College
+© 2017 Radcliffe Department of Medicine
+Driven by Newt, Powered by Pinfox
+Home | Site Map | Contact | Freedom of Information | Privacy Policy | Copyright | Accessibility | Medical Sciences Division | Oxford University

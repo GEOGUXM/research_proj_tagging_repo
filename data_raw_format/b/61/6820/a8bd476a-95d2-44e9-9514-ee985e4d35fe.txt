@@ -1,0 +1,15 @@
+Home　|　Sitemap　|　Access　|　Contact　|　Japanese
+  People
+→ Japanese
+Tomonori MORIYAMA
+Email moriyama(@math.sci.osaka-u.ac.jp)
+Research
+Number theory
+Keywords Automorphic forms of several variables, automorphic L-functions
+Office Science Building B-350 (Toyonaka Campus)
+URL http://www.math.sci.osaka-u.ac.jp/~moriyama/
+I am interested in automorphic forms of several variables. A classical automorpchic (modular) form of one variable is a holomorphic function on the upper half plane having certain symmetry. Such functions appear in various branches of mathematics, say notably number theory, and have been investigated by many mathematicians.
+There is a family of minifolds called Riemannian symmetric spaces, which is a higher-dimensional generalization of the upper half plane. The set of isometries of a Riemannian symmetric space forms a Lie group G. Roughly speaking, an automorphic form of several variables is a function on a Riemannian symmetric space satisfying the relative invariance under an "arithmetic" subgroup of G and certain differential equations arising from the Lie group G. Studies on automorphic forms of several variables started from C. L. Siegel's works in 1930s and have been developed through interaction with mathematics of the day.
+Currently I am working on two themes: (i) the zeta functions attached to automorphic forms and (ii) explicit constructions of automorphic forms, by employing representation theory of reductive groups over local fields. One of the joy in studying this area is to discover a surprisingly simple structure among seemingly complicated objects.
+Department of Mathematics, Graduate School of Science, Osaka University Toyonaka, Osaka 560-0043, JAPAN TEL:+81-6-6850-5326 FAX:+81-6-6850-5327
+Copyright © Department of Mathematics, Osaka University. All rights reserved.

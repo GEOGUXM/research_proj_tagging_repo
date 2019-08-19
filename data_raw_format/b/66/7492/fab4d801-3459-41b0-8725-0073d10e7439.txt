@@ -1,0 +1,163 @@
+The University of Southampton
+Courses
+Undergraduate
+Postgraduate taught
+Postgraduate research
+Foundation Years
+How to apply
+Free online learning
+Continuing professional development
+Prospectuses
+Pre-sessional English language courses
+University life
+Choose Southampton
+Fees & funding
+Accommodation
+International students
+Study abroad & exchange
+Campus life
+City life
+Careers & employability
+Arts
+Learning & teaching
+Key dates
+Research
+Our impact
+Facilities
+Centres and institutes
+Funding
+Research & Innovation Services
+Partnerships
+Commercialising research
+Researcher support
+Research integrity
+Business
+Why work with us?
+Collaboration
+Consultancy
+Commercialisation
+Use our facilities
+Connect with our students
+How we operate
+Suppliers
+Make a business enquiry
+Global
+International Office
+Partnerships map
+Partnerships and initiatives
+Visiting fellowships
+Accessibility Tools
+About
+Visit
+Alumni
+Departments
+News
+Events
+Contact
+×
+Medicine
+Who we are
+Our research
+Undergraduate study
+Postgraduate study
+International
+Enterprise
+Academic units
+Our alumni
+Outreach
+Our news, events & seminars
+Contact us
+Right
+Our staff
+Our approach
+Achievements
+What our students think
+Executive team
+International links
+Home
+>Medicine>Who we are>Our staff
+Dr Igor Vorechovsky MD, PhD
+Principal Research Fellow
+Related links
+Dr Igor Vorechovsky is Principal Research Fellow within Medicine at the University of Southampton. Dr Vorechovsky joined the Faculty of Medicine in 2002 as a Lecturer.
+Why do we have genes in pieces? This arrangement greatly contributes to human morbidity.
+Having graduated in medicine from the Purkynje University Brno, he was trained in general Paediatrics and specialised in Clinical Genetics. He completed his PhD 1989 in molecular genetics. He held clinical or research positions in the Institute of Child Health, Paterson Institute, Karolinska Institute and academic positions in UCL and Southampton University.
+Dr Vorechovsky leads a group that investigates molecular mechanisms of predisposition to genetic disease at the level of RNA processing and their repair using non-genetic means. His past achievements include, for example, isolation of the gene for the first described immunodeficiency X-linked agammaglobulinaemia (Nature 361:226-233, Science 261:355-368) and identification of genes and critical mutations underlying several cancer-predisposing genetic disorders (Cell 85: 841-851, Nature Genetics 17:96-99). He is a co-author of >100 peer-reviewed articles, cited altogether >5,000x. Potential students, post-doctoral scientists or clinician scientists who are interested in joining his group are encouraged to contact Dr Vorechovsky.
+Qualifications
+1983 Doctor of Medicine Purkynje University
+1989 Ph.D. in Genetics Charles University
+Appointments held
+1983-89 Institute of Child Health; Research Fellow
+1989-91 Paterson Institute; Visiting Fellow
+1991-95 Karolinska Institute; Research Scientist
+1995-02 University College London, Lecturer
+Research
+Responsibilities
+Publications
+Teaching
+Contact
+Research interests
+Eukaryotic genes contain intervening sequences or introns that must be removed from precursor messenger RNA (pre-mRNA) to ensure correct gene expression. This process is known as pre-mRNA splicing and is mediated by conserved sequences at the 5’ and 3’ splice sites. These signals do not contain sufficient information to accurately identify gene coding sequences and many additional sequence features exist in the pre-mRNA that navigate the splicing machinery to the appropriate location. These features include exonic and intronic enhancer and silencer elements, which activate and repress inclusion of coding sequences in mRNA and are involved in numerous structural interactions and ligand binding.
+
+Our group is interested in identifying molecular mechanisms responsible for genetic susceptibility to complex genetic diseases at the level of pre-mRNA splicing. DNA variants in the human genome often influence efficiency of intron removal and downstream gene expression pathways, such as transcription and translation. Understanding how disease-predisposing variants interact with gene expression machinery is likely to be a prerequisite for future preventive and therapeutic approaches, such as antisense strategies that efficiently repair incorrectly spliced gene segments in vitro (Nucleic Acids Res. 2011 May 23) and in vivo (Genes Dev. 24:1634-1644, 2010).
+Examples of project areas:
+Molecular mechanisms of genetic susceptibility to type 1 diabetes at IDDM2
+IDDM2 is a locus on chromosome 11 that contains genetic variants predisposing to and protecting from type 1 diabetes, an autoimmune disorder characterized by self-destruction of pancreatic ß cells. This locus contains a gene encoding human proinsulin (INS). For example, we identified INS variants that influence pre-mRNA splicing and downstream RNA remodeling and are investigating which RNA-protein interactions are affected (Diabetes 55:260-264; 2006; Human Genetics 128:383-400; 2010). In addition, we identified auxiliary splicing elements that are responsible for haplotype-specific splicing of HLA-DQB1, a gene in the major histocompatiblity complex that predisposes to a large number of autoimmune disorders (Human Molecular Genetics 13:3189-3202; 2004 and Journal of Immunology 176:2381-2388; 2006).
+Development of bioinformatic tools that facilitate prediction of aberrant splice sites in human disease genes
+The database of cryptic and de novo 3’ and 5’ splice sites (Nucleic Acids Research 39: D86-D91, 2011) (http://www.dbass.org.uk) serves molecular and clinical geneticists, the RNA community and specialists in the field of bioinformatics to identify splicing mutations and auxiliary splicing signals. Initial analysis of the database has provided new insights into the mutation pattern underlying aberrant splice sites and their computational prediction (Nucleic Acids Research 33:4882-98; 2005, Nucleic Acids Research 34:4630-41; 2006 and Nucleic Acids Research 35:4250-4263; 2007) and into auxiliary splicing sequences that activate or repress their utilization (Nucleic Acids Research 35:6399-413; 2007). It also serves to develop and optimize predictive tools that distinguish exon skipping and cryptic splice-site activation (Eur J Hum Genet. 7:759-65.2009), identify exon-skipping substitutions in exons (Hum Mutat. 32:436-44, 2011) and is also helpful for addressing unresolved hypotheses, such as intron origin (Nucleic Acids Res. 2011 Apr 5.).
+Disease-associated exonization of repetitive sequences
+Approximately half of the human genome consists of repetitive sequences that were previously regarded as ‘junk DNA’ without any function. These elements are now recognized to be an important source of both regulatory and coding sequences. They are frequent in introns, may influence their removal and contribute to fine-tuning of gene expression. Mutations in repetitive elements may lead to constitutive splicing and cause hereditary disease (Hum Genet. 127:135-54, 2010) (Hum Mutat. 30:823-31, 2009) (Pediatr Res. 67:444, 2010). A common outcome of intronic mutations is partial exonization of intronic repeats and their low-level inclusion to mRNA. Alternative splicing of these intronic segments may lead to their exaptation, a gain of new coding or regulatory function. We are investigating molecular pathways involved in recognition of common human repetitive sequences by the spliceosome, the largest RNA-protein complex in the cell (Mol Cell Biol 25:6912-20; 2005 and Nucleic Acids Research 33:3897-906; 2005).
+Auxiliary factor of U2 small nuclear ribonucleoprotein (U2AF) in haematological malignancies
+U2AF is a stable heterodimer that binds to most 3’ splice sites to facilitate branch point recognition and accurate intron removal. It consists of a 65- and 35-kDa subunits that both bind the pre-mRNA early during spliceosome assembly. Recent studies have shown recurrent somatic mutations in genes encoding U2AF and their interaction partners in cancer, suggesting the existence of a shared oncogenic pathway initiated by impaired recognition of 3’ splice sites. We are studying global transcriptomic changes conferred by mutated U2AF subunits and regulation of their alternative splicing (Nucleic Acids Res 43:3747-3763, 2015).
+Academic unit(s)
+Human Development and Health Academic Units
+Affiliate academic unit(s)
+Human development and physiology Research group
+
+
+
+
+
+
+
+
+
+
+
+Share this profile
+Facebook Google+ Twitter Weibo
+Information for
+Visitors
+Staff & students
+Schools & colleges
+Researchers
+Employers & recruiters
+Parents & guardians
+Students from outside UK/EU
+Contact us
++44(0)23 8059 5000
++44(0)23 8059 3131
+Address
+University of Southampton
+University Road
+Southampton
+SO17 1BJ
+United Kingdom
+Get directions ›
+Connect with us
+Facebook
+Twitter
+Instagram
+LinkedIn
+YouTube
+Download University of Southampton prospectus
+Download a PDF of our prospectus or order a printed copy to be delivered to your door.
+Download a prospectus
+© 2017 University of Southampton
+Site map
+Freedom of information
+Terms & conditions
+Contact
+Jobs
+We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we will assume that you are happy to receive cookies on the University of Southampton website.
+×

@@ -1,0 +1,17 @@
+Index of /users/gordon
+ Name                         Last modified      Size  Description
+ Parent Directory                                  -   
+ Banff-Feb2012-pause.pdf      2012-02-09 14:14  1.2M  
+ Bologna-2011.pdf             2011-05-17 09:56   29M  
+ Down-Under-July2011.pdf      2011-07-14 14:29  758K  
+ GLR.pdf                      2003-08-11 07:34  176K  
+ Moscow-May2012.pdf           2012-05-17 11:23  1.0M  
+ Rice-Colloquium-Feb-2011.pdf 2011-02-21 09:37   29M  
+ StonyBrook-2012paused.pdf    2012-11-29 14:27  1.0M  
+ Tampa-March2012.pdf          2012-03-08 07:45  464K  
+ UCLA-Nov2012.pdf             2012-11-21 13:25  1.3M  
+ UQAM-Dec-2011.pdf            2011-12-07 08:47   29M  
+ artin-dedicated.pdf          2003-08-11 07:38  120K  
+ non-int02.pdf                2003-04-02 08:37  496K  
+ revers-JKTR.pdf              2003-04-10 08:19  107K  
+Apache/2.4.7 (Ubuntu) Server at www.ma.utexas.edu Port 80

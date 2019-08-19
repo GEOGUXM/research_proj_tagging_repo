@@ -1,0 +1,523 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr" class="js cufon-active cufon-ready" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" src="https://bam.nr-data.net/1/180521658b?a=51793376&amp;v=1039.bef6007&amp;to=Y1xWYkdTCkRRWxAPDFoWdVVBWwtZH2cWAxVdSl1ZW1sKUG9ODQMU&amp;rst=2409&amp;ref=http://drama.yale.edu/facstaff/david-blackmon&amp;ap=173&amp;be=679&amp;fe=2398&amp;dc=1619&amp;perf=%7B%22timing%22:%7B%22of%22:1498098481236,%22n%22:0,%22f%22:0,%22dn%22:3,%22dne%22:232,%22c%22:232,%22ce%22:453,%22rq%22:454,%22rp%22:673,%22rpe%22:673,%22dl%22:674,%22di%22:1618,%22ds%22:1619,%22de%22:1645,%22dc%22:2397,%22l%22:2397,%22le%22:2399%7D,%22navigation%22:%7B%7D%7D&amp;at=TxtVFA9JGUo%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://cse.google.com/cse.js?cx=005277622444583418352:a0yptuejc_w"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/sites/all/themes/yale_drama/favicon.ico" type="image/x-icon">
+  <title>David Blackmon | drama.yale.edu</title>
+  <link type="text/css" rel="stylesheet" media="all" href="http://drama.yale.edu/sites/default/files/css/css_96921c78aaf3c1c4b9f1b4b8a2dd66f5.css">
+<link type="text/css" rel="stylesheet" media="print" href="http://drama.yale.edu/sites/default/files/css/css_82663f076e6e3e20b7fe4ded8372830b.css">
+<link type="text/css" rel="stylesheet" media="all" href="http://drama.yale.edu/sites/default/files/css_injector_1.css?e">
+  <script type="text/javascript" src="http://drama.yale.edu/sites/default/files/js/js_63d877a66f0da59b59928db92d3446a0.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/default\/files","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":0,"font_color":"000","box_color":"000","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":200,"fade_in_speed":200,"slide_down_speed":200,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":0,"loop_items":0,"node_link_text":"","node_link_target":0,"image_count":"!current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":0,"enable_video":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"cufonSelectors":[{"selector":"#header-title h1","options":{"fontFamily":"Yale Design Roman","hover":0}}]});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-583765-2", "auto");ga("send", "pageview");
+//--><!]]>
+</script>
+  <script type="text/javascript"> </script>
+<script src="http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A%221.0%22%2C%22callback%22%3A%22__gcse.scb%22%2C%22style%22%3A%22http%3A%2F%2Fwww.google.com%2Fcse%2Fstatic%2Fstyle%2Flook%2Fshiny.css%22%2C%22language%22%3A%22en%22%7D%5D%7D" type="text/javascript"></script><link type="text/css" href="http://www.google.com/uds/api/search/1.0/890e228675e68570fa203500d9572ad4/default+en.css" rel="stylesheet"><link type="text/css" href="http://www.google.com/cse/static/style/look/shiny.css" rel="stylesheet"><script type="text/javascript" src="http://www.google.com/uds/api/search/1.0/890e228675e68570fa203500d9572ad4/default+en.I.js"></script><style type="text/css">
+.gsc-control-cse {
+font-family: Verdana, sans-serif;
+border-color: #DAE0E5;
+background-color: #DAE0E5;
+}
+.gsc-control-cse .gsc-table-result {
+font-family: Verdana, sans-serif;
+}
+input.gsc-input {
+border-color: #B6BEC5;
+}
+input.gsc-search-button {
+border-color: #B6BEC5;
+background-color: #D0D1D4;
+}
+.gsc-tabHeader.gsc-tabhInactive {
+border-color: #999999;
+background-color: #EEEEEE;
+}
+.gsc-tabHeader.gsc-tabhActive {
+border-color: #999999;
+background-color: #999999;
+}
+.gsc-tabsArea {
+border-color: #999999;
+}
+.gsc-webResult.gsc-result,
+.gsc-results .gsc-imageResult {
+border-color: #FFFFFF;
+background-color: #FFFFFF;
+}
+.gsc-webResult.gsc-result:hover,
+.gsc-imageResult:hover {
+border-color: #D2D6DC;
+background-color: #EDEDED;
+}
+.gsc-webResult.gsc-result.gsc-promotion:hover {
+border-color: #D2D6DC;
+background-color: #EDEDED;
+}
+.gs-webResult.gs-result a.gs-title:link,
+.gs-webResult.gs-result a.gs-title:link b,
+.gs-imageResult a.gs-title:link,
+.gs-imageResult a.gs-title:link b {
+color: #0568CD;
+}
+.gs-webResult.gs-result a.gs-title:visited,
+.gs-webResult.gs-result a.gs-title:visited b,
+.gs-imageResult a.gs-title:visited,
+.gs-imageResult a.gs-title:visited b {
+color: #0568CD;
+}
+.gs-webResult.gs-result a.gs-title:hover,
+.gs-webResult.gs-result a.gs-title:hover b,
+.gs-imageResult a.gs-title:hover,
+.gs-imageResult a.gs-title:hover b {
+color: #0568CD;
+}
+.gs-webResult.gs-result a.gs-title:active,
+.gs-webResult.gs-result a.gs-title:active b,
+.gs-imageResult a.gs-title:active,
+.gs-imageResult a.gs-title:active b {
+color: #0568CD;
+}
+.gsc-cursor-page {
+color: #0568CD;
+}
+a.gsc-trailing-more-results:link {
+color: #0568CD;
+}
+.gs-webResult .gs-snippet,
+.gs-imageResult .gs-snippet,
+.gs-fileFormatType {
+color: #5F6A73;
+}
+.gs-webResult div.gs-visibleUrl,
+.gs-imageResult div.gs-visibleUrl {
+color: #5F6A73;
+}
+.gs-webResult div.gs-visibleUrl-short {
+color: #5F6A73;
+}
+.gs-webResult div.gs-visibleUrl-short {
+display: none;
+}
+.gs-webResult div.gs-visibleUrl-long {
+display: block;
+}
+.gs-promotion div.gs-visibleUrl-short {
+display: none;
+}
+.gs-promotion div.gs-visibleUrl-long {
+display: block;
+}
+.gsc-cursor-box {
+border-color: #FFFFFF;
+}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {
+border-color: #999999;
+background-color: #FFFFFF;
+color: #0568CD;
+}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+border-color: #999999;
+background-color: #999999;
+color: #0568CD;
+}
+.gsc-webResult.gsc-result.gsc-promotion {
+border-color: #FFFFFF;
+background-color: #FFFFFF;
+}
+.gsc-completion-title {
+color: #0568CD;
+}
+.gsc-completion-snippet {
+color: #5F6A73;
+}
+.gs-promotion a.gs-title:link,
+.gs-promotion a.gs-title:link *,
+.gs-promotion .gs-snippet a:link {
+color: #0066CC;
+}
+.gs-promotion a.gs-title:visited,
+.gs-promotion a.gs-title:visited *,
+.gs-promotion .gs-snippet a:visited {
+color: #0066CC;
+}
+.gs-promotion a.gs-title:hover,
+.gs-promotion a.gs-title:hover *,
+.gs-promotion .gs-snippet a:hover {
+color: #0066CC;
+}
+.gs-promotion a.gs-title:active,
+.gs-promotion a.gs-title:active *,
+.gs-promotion .gs-snippet a:active {
+color: #0066CC;
+}
+.gs-promotion .gs-snippet,
+.gs-promotion .gs-title .gs-promotion-title-right,
+.gs-promotion .gs-title .gs-promotion-title-right * {
+color: #333333;
+}
+.gs-promotion .gs-visibleUrl,
+.gs-promotion .gs-visibleUrl-short {
+color: #5F6A73;
+}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-moz-user-select:none;white-space:nowrap}.gsst_e{opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gsq_a{padding:0}.gscsep_a{display:none}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gsfe_a{border:1px solid #b9b9b9;border-top-color:#a0a0a0;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);}.gsfe_b{border:1px solid #4d90fe;outline:none;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);}.gssb_a{padding:0 7px}.gssb_e{border:0}.gssb_l{margin:5px 0}#gsc-i-id1::-webkit-input-placeholder{font-size:14px}#gsc-i-id1:-moz-placeholder{font-size:14px}#gsc-i-id1::-moz-placeholder{font-size:14px}#gsc-i-id1:-ms-input-placeholder{font-size:14px}#gsc-i-id1:focus::-webkit-input-placeholder{color:transparent}#gsc-i-id1:focus:-moz-placeholder{color:transparent}#gsc-i-id1:focus::-moz-placeholder{color:transparent}#gsc-i-id1:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+<body class="not-front not-logged-in page-node node-type-facstaff two-sidebars node-555 lightbox-processed">
+  <div id="page">
+    <div id="header" class="clearfix">
+
+     <div id="header-drama">
+      	<div id="masthead">
+   			<a href="/node/1"><img src="/sites/all/themes/yale_drama/images/sod_masthead.gif" alt="sod_masthead" border="none"></a>
+   		</div> <!-- /#masthead-->	
+   		<div id="nav-container">
+   		  
+  <div id="searchTools">
+  
+    <ul id="yaleHeaderLinks">
+      <li><a href="http://calendar.yale.edu" style="color: #039">Calendar</a></li>
+      <li class="last"><a href="http://www.yale.edu/directories" style="color: #039">A-Z Index</a></li>
+    </ul>
+
+
+<!-- Script for Google Custom Search -->
+    <script>
+      (function() {
+        var cx = '005277622444583418352:a0yptuejc_w';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script>
+    <!-- End script for Google Custom Search -->
+
+    <!-- Div required to display Google Custom Search Overlay.. do not use display:none -->
+    <div style="width:0px;overflow:hidden;height:0px;">
+        <div id="___gcse_0"><div class="gsc-control-cse gsc-control-cse-en"><div class="gsc-control-wrapper-cse" dir="ltr"><form class="gsc-search-box" accept-charset="utf-8"><table class="gsc-search-box" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-input"><input autocomplete="off" size="10" class=" gsc-input" name="search" title="search" id="gsc-i-id1" x-webkit-speech="" x-webkit-grammar="builtin:search" dir="ltr" spellcheck="false" style="outline: medium none; background: rgb(255, 255, 255) url(&quot;http://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png&quot;) no-repeat scroll left center; text-indent: 48px;" placeholder="Custom Search" lang="en" type="text"><input name="bgresponse" id="bgresponse" type="hidden"></td><td class="gsc-search-button"><input value="Search" class="gsc-search-button" title="search" type="button"></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table><table class="gsc-branding" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-branding-user-defined"></td><td class="gsc-branding-text"><div class="gsc-branding-text">powered by</div></td><td class="gsc-branding-img"><img src="https://www.google.com/cse/static/images/1x/googlelogo_grey_46x15dp.png" class="gsc-branding-img" srcset="https://www.google.com/cse/static/images/2x/googlelogo_grey_46x15dp.png 2x"></td></tr></tbody></table></form><div class="gsc-results-wrapper-overlay"><div class="gsc-results-close-btn" tabindex="0"></div><div class="gsc-tabsAreaInvisible"><div class="gsc-tabHeader gsc-inline-block gsc-tabhActive">Web</div><span class="gs-spacer"> </span><div tabindex="0" class=" gsc-tabHeader gsc-tabhInactive gsc-inline-block">Image</div><span class="gs-spacer"> </span></div><div class="gsc-refinementsAreaInvisible"></div><div class="gsc-above-wrapper-area-invisible"><table class="gsc-above-wrapper-area-container" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-result-info-container"><div class="gsc-result-info-invisible"></div></td><td class="gsc-orderby-container"><div class="gsc-orderby-invisible"><div class="gsc-orderby-label gsc-inline-block">Sort by:</div><div class="gsc-option-menu-container gsc-inline-block"><div class="gsc-selected-option-container gsc-inline-block"><div class="gsc-selected-option">Relevance</div><div class="gsc-option-selector"></div></div><div class="gsc-option-menu-invisible"><div class="gsc-option-menu-item gsc-option-menu-item-highlighted"><div class="gsc-option">Relevance</div></div><div class="gsc-option-menu-item"><div class="gsc-option">Date</div></div></div></div></div></td></tr></tbody></table></div><div class="gsc-adBlockInvisible"></div><div class="gsc-wrapper"><div class="gsc-adBlockInvisible"></div><div class="gsc-resultsbox-invisible"><div class="gsc-resultsRoot gsc-tabData gsc-tabdActive"><table class="gsc-resultsHeader" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-twiddleRegionCell"><div class="gsc-twiddle"><div class="gsc-title">Web</div></div><div class="gsc-stats"></div><div class="gsc-results-selector gsc-all-results-active"><div class="gsc-result-selector gsc-one-result" title="show one result">&nbsp;</div><div class="gsc-result-selector gsc-more-results" title="show more results">&nbsp;</div><div class="gsc-result-selector gsc-all-results" title="show all results">&nbsp;</div></div></td><td class="gsc-configLabelCell"></td></tr></tbody></table><div><div class="gsc-expansionArea"></div></div></div><div class="gsc-resultsRoot gsc-tabData gsc-tabdInactive"><table class="gsc-resultsHeader" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-twiddleRegionCell"><div class="gsc-twiddle"><div class="gsc-title">Image</div></div><div class="gsc-stats"></div><div class="gsc-results-selector gsc-all-results-active"><div class="gsc-result-selector gsc-one-result" title="show one result">&nbsp;</div><div class="gsc-result-selector gsc-more-results" title="show more results">&nbsp;</div><div class="gsc-result-selector gsc-all-results" title="show all results">&nbsp;</div></div></td><td class="gsc-configLabelCell"></td></tr></tbody></table><div><div class="gsc-expansionArea"></div></div></div></div></div></div><div class="gsc-modal-background-image" tabindex="0"></div></div></div></div>
+    </div>
+    <!-- End div for Google Custom Search Overlay -->
+
+    <!-- Custom form for Google Custom Search with Overlay -->
+    <form action="" id="yaleHeaderSearch">
+      <input value="005277622444583418352:a0yptuejc_w" name="cx" type="hidden">
+      <input value="FORID:11" name="cof" type="hidden">
+      <input class="sfield" name="query" size="25" alt="Search School of Drama" placeholder="Search School of Drama" onfocus="this.value=''; style.color='#000000'; style.background='#ffffdd'" style="border: 1px solid #4F79A8" type="text">
+      <input class="btn gobutton" src="/sites/all/themes/yale_drama/color_schemes/drama/search_go_button.gif" value="Go" alt="Go" type="image">
+    </form>
+    <!-- End form for Google Custom Search -->
+    
+    
+    <div id="myContainer">
+      <a href="javascript:;" onclick="togLyr('my-menu','1');">
+      <img id="my-button" src="/sites/all/themes/yale_drama/color_schemes/drama/y_menu_arrow.gif" alt="Y-Menu" width="36" height="21" border="0"></a>
+
+      <div id="my-wrapper">
+        <div id="my-menu" onmouseover="togLyr('my-menu','1');" onmouseout="togLyr('my-menu','0');">
+          <ul>
+            <li><a href="http://www.yale.edu/">Yale home</a></li>
+            <li><a href="http://www.yale.edu/about/index.html">About Yale</a></li>
+            <li><a href="http://www.yale.edu/academics/index.html">Academic programs</a></li>
+            <li><a href="http://www.yale.edu/admissions/index.html">Admissions</a></li>
+            <li><a href="http://www.yale.edu/medicine/index.html">Health &amp; medicine</a></li>
+            <li><a href="http://www.yale.edu/work/index.html">Working at Yale</a></li>
+            <li><a href="http://www.yale.edu/newhaven/index.html">Yale &amp; New Haven</a></li>
+            <li><a href="http://world.yale.edu">Yale &amp; the World</a></li> 
+            <li><a href="http://www.yale.edu/tomorrow/index.html">Yale Tomorrow</a></li>
+            <li><a href="http://www.yale.edu/opa">News</a></li>
+          </ul>
+          <ul class="lower">
+            <li><a href="http://www.yale.edu/gateways/prosp_students.html">Prospective students</a></li>
+            <li><a href="http://www.yale.edu/gateways/students.html">Students</a></li>
+            <li><a href="http://www.yale.edu/gateways/parents.html">Parents</a></li>
+            <li><a href="http://www.yale.edu/gateways/faculty.html">Faculty</a></li>
+            <li><a href="http://www.yale.edu/gateways/staff.html">Staff</a></li>
+            <li><a href="http://www.yale.edu/gateways/postdoc.html">Postdocs</a></li>
+            <li><a href="http://www.yale.edu/gateways/alumni.html">Alumni</a></li>
+            <li><a href="http://www.yale.edu/gateways/foundations.html">Foundations &amp; corporations</a></li>
+            <li><a href="http://www.yale.edu/gateways/patients.html">Patients</a></li>
+            <li><a href="http://www.yale.edu/gateways/visitors.html">Visitors</a></li>
+          </ul>
+        </div> <!-- /my-menu -->
+    </div> <!-- /my-wrapper -->
+  </div> <!-- /myContainer -->
+</div> <!-- closes searchTools -->
+<div class="clear"></div>   			<div id="header-spacer">				
+   			</div> <!-- /#header-spacer-->
+   			<div id="navigation">
+   				<div id="tabnav">
+    				<ul class="primary-links"><li class="menu-12451 first"><a href="/news-events" title="News &amp; Events" id="home">Home</a></li>
+<li class="menu-454"><a href="/mission-statement" title="About Us" id="about-us">About Us</a></li>
+<li class="menu-12443"><a href="http://drama.yale.edu/onstage/season/2016-17-yale-school-drama-season" title="THE 2011-12 YALE SCHOOL OF DRAMA SEASON" id="on-stage">On Stage</a></li>
+<li class="menu-461"><a href="/learn-more" title="Admissions" id="admissions">Admissions</a></li>
+<li class="menu-746"><a href="http://ysdinfo.yale.edu/" id="ysd-info" target="_blank">YSD Info</a></li>
+<li class="menu-745"><a href="/welcome-alumni-1" title="Welcome Alumni" id="alumni">Alumni</a></li>
+<li class="menu-903 last"><a href="/contact-us" title="Contact Us" id="contact-us">Contact Us</a></li>
+</ul>   				</div> <!-- /#tabnav--> 
+   				<div id="tabnavbottom">
+					  <div id="block-menu-menu-about-us" class="block block-menu" style="display: none;">
+
+  <div class="content clearfix">
+    <ul class="menu"><li class="leaf first ysdbulletin"><a href="http://www.yale.edu/printer/bulletin/htmlfiles/drama/index.html" target="_blank">YSD Bulletin</a></li>
+<li class="leaf degreeprograms"><a href="/degree-programs" title="Degree Programs">Degree Programs</a></li>
+<li class="leaf history"><a href="/history" title="History">History</a></li>
+<li class="leaf facultyampstaff"><a href="/facstafflist/all">Faculty &amp; Staff</a></li>
+<li class="leaf traveldirections"><a href="/travel-directions" title="Travel Directions">Travel Directions</a></li>
+<li class="leaf calendar"><a href="/academic-calendar-2016-17" title="Academic Calendar 2015-16">Calendar</a></li>
+<li class="leaf last calendar"><a href="/academic-calendar-2013-2014" title="Academic Calendar 2011-2012">Calendar</a></li>
+</ul>  </div>
+</div>
+  <div id="block-menu-menu-admissions" class="block block-menu" style="display: none;">
+
+  <div class="content clearfix">
+    <ul class="menu"><li class="leaf first faq"><a href="/frequently-asked-questions" title="Frequently Asked Questions">FAQ</a></li>
+<li class="leaf ysdbulletin"><a href="http://www.yale.edu/printer/bulletin/htmlfiles/drama/index.html" target="_blank">YSD Bulletin</a></li>
+<li class="leaf learnmore"><a href="/learn-more" title="">Learn More</a></li>
+<li class="leaf applynow"><a href="/apply-online" title="Apply Online">Apply Now</a></li>
+<li class="leaf academicdepartments"><a href="/academic-departments" title="Academic Departments">Academic Departments</a></li>
+<li class="leaf last financialaid"><a href="/required-financial-aid-application-procedures" title="Required Financial Aid Application Procedures">Financial Aid</a></li>
+</ul>  </div>
+</div>
+  <div id="block-menu-menu-alumni" class="block block-menu" style="display: none;">
+
+  <div class="content clearfix">
+    <ul class="menu"><li class="leaf first annualmagazine"><a href="/annual-magazine-1" title="Alumni Magazine">Annual Magazine</a></li>
+<li class="leaf last enewsletter"><a href="/alumni-e-newsletter-1" title="Alumni e-Newsletter">e-Newsletter</a></li>
+</ul>  </div>
+</div>
+  <div id="block-menu-menu-on-stage-nav" class="block block-menu" style="display: none;">
+
+  <div class="content clearfix">
+    <ul class="menu"><li class="leaf first seasonarchive"><a href="http://drama.yale.edu/onstage/season/2015-16-yale-school-drama-season" title="The 2013-14 Yale School of Drama Season" id="on-stage">Season Archive</a></li>
+<li class="leaf last buytickets"><a href="https://ysd-tickets.yale.edu" target="_blank">Buy Tickets</a></li>
+</ul>  </div>
+</div>
+  <div id="block-menu-menu-contact-us" class="block block-menu" style="display: none;">
+
+  <div class="content clearfix">
+    <ul class="menu"><li class="leaf first keystaffampoffices"><a href="/contact-us">Key Staff &amp; Offices</a></li>
+<li class="leaf requestatranscript"><a href="/transcript-requests" title="Transcript Requests">Request a Transcript</a></li>
+<li class="leaf boxoffice"><a href="https://www.yalerep.org/about-us/contact-us" target="_blank">Box Office</a></li>
+<li class="leaf last yalephonedirectory"><a href="http://www.yale.edu/search/find_people.html">Yale Phone Directory</a></li>
+</ul>  </div>
+</div>
+   				</div> <!-- /#tabnavbottom--> 
+   			</div><!-- /#nav-container-->
+   		</div><!-- /#navigation-->   		
+      </div> <!-- /#header-drama--> 
+
+    </div> <!-- /header -->
+
+    <div id="container">
+      <div id="container-inner">
+        <div id="sidebar-left" class="column sidebar">
+          <div id="sidebar-left-inner">
+          
+                      
+                         <!--  <div id="primary" class="clearfix"> -->
+                             <!--  </div> -->
+            
+              <div id="block-views-Facstaff_Menu-block_1" class="block block-views">
+  <h4 class="block-title">Department</h4>
+
+  <div class="content clearfix">
+    <div class="view view-Facstaff-Menu view-id-Facstaff_Menu view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/facstafflist/53">Acting</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/facstafflist/58">Administrative Staff</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/facstafflist/54">Design</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/facstafflist/59">Directing</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/facstafflist/60">Dramaturgy and Dramatic Criticism</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/facstafflist/61">Playwriting</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/facstafflist/62">Production Staff</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/facstafflist/55">Sound Design</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/facstafflist/63">Stage Management</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/facstafflist/64">Technical Design and Production</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-11 views-row-odd views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/facstafflist/65">Theater Management</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+          </div> <!-- /sidebar-left-inner -->
+        </div> <!-- /sidebar-left -->
+  
+<!--   <div id="content-photo"> was here; see around line 101 for end div -->
+
+  
+      <div id="main" class="column">
+      
+      	     	
+      	<div id="content-photo">
+       		       	</div> <!-- /content-photo -->
+           
+           
+        <div id="main-inner">
+                              <!-- <div id="breadcrumb"> --><!-- </div> -->                   
+         
+
+       
+          <div id="content">
+            <h1 class="title" id="page-title">David Blackmon</h1>            <div class="tabs"><ul class="tabs primary">
+<li class="active"><a href="/facstaff/david-blackmon" class="active">View current</a></li>
+<li><a href="/node/555/workflow">Workflow</a></li>
+</ul>
+</div>            <div id="content-content" class="clearfix">
+              <div id="node-555" class="node node-type-facstaff node-published clearfix">
+
+  
+  
+  <div class="meta">
+    
+      </div>
+
+  <div class="content">
+	<div class="department"></div>
+	<div class="position">Financial Aid Officer</div>
+    <div class="page-node-body"><p>David Blackmon has been the Financial Aid Officer for Yale School of Drama since 2014. David has worked in Financial Aid at several universities and colleges in both Connecticut and Massachusetts since 2005. He has a BA from Central Connecticut State University and is in pursuit of a MS in Political Science from Southern Connecticut State University. David is a very active member of CAPFAA (Connecticut Association of Professional Financial Aid Administrators) and the 2016 recipient of their Henry Miller, Emerging Leader Award. In his free time, David is an avid sneaker and movie collector.</p></div>  
+ 	
+      </div>
+
+  </div>
+<!-- node-facstaff.tlp.php -->
+            </div> <!-- /content-content -->
+          </div> <!-- /content -->
+
+        </div> <!-- /#main-inner -->
+      </div> <!-- /#main -->
+
+              <div id="sidebar-right" class="column sidebar">
+                  <div id="sidebar-right-inner">
+                      <div id="block-cck_blocks-field_sidebar_image" class="block block-cck_blocks">
+
+  <div class="content clearfix">
+    <div class="field field-type-filefield field-field-sidebar-image">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <img src="http://drama.yale.edu/sites/default/files/imagecache/sidebar_image/images/sidebar/no_image_39_14_1.jpg" alt="" title="" class="imagecache imagecache-sidebar_image imagecache-default imagecache-sidebar_image_default" width="191" height="187">        </div>
+        </div>
+</div>
+  </div>
+</div>
+  <div id="block-cck_blocks-field_info_bock" class="block block-cck_blocks">
+
+  <div class="content clearfix">
+    <div class="field field-type-text field-field-info-bock">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p><a href="mailto:david.blackmon@yale.edu">david.blackmon@yale.edu</a></p>
+        </div>
+        </div>
+</div>
+  </div>
+</div>
+          </div> <!-- /sidebar-right-inner -->
+        </div> <!-- /sidebar-right -->
+            
+      <!--   was here -->
+      
+    
+      
+      </div> <!-- /container-inner -->
+    </div> <!-- /container -->
+
+    <div id="footer" class="clearfix">
+      <div id="footer-inner">
+        <div id="footer-logo">
+          <a href="http://www.yale.edu/" title="Yale University"><img src="/sites/all/themes/yale_drama/color_schemes/drama/logo_footer.gif" alt="Yale logo"></a>
+        </div> <!-- /#footer-logo -->
+        <div id="footer-message">
+          <p>Copyright © 2017 Yale University. All rights reserved. 
+          <span class="footer-links">
+          <a title="Yale Privacy policy" href="http://www.yale.edu/privacy">Privacy policy</a> | 
+          <a title="Login via Central Authentication Service" href="/cas">Login</a></span><br>
+         Content may not have been approved by or reflect the views of Yale University.
+          </p>
+                  </div> <!-- /#footer-message -->
+      </div> <!-- /#footer-inner -->
+    </div> <!-- /#footer -->
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45934301-5', 'auto', 'yaleTracker');
+  ga('yaleTracker.send', 'pageview');
+
+</script><script type="text/javascript" src="http://drama.yale.edu/sites/default/files/js/js_e378997d221c790216f9562ee5e8b85b.js"></script>
+
+  </div> <!-- /page -->
+<!-- page.tpl.php -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"180521658b","applicationID":"51793376","transactionName":"Y1xWYkdTCkRRWxAPDFoWdVVBWwtZH2cWAxVdSl1ZW1sKUG9ODQMU","queueTime":0,"applicationTime":173,"atts":"TxtVFA9JGUo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<div id="lightbox2-overlay" style="display: none;"></div>      <div id="lightbox" style="display: none;" class="lightbox2-orig-layout">        <div id="outerImageContainer" style="background-color: rgb(0, 0, 0); color: rgb(0, 0, 0);"><div id="modalContainer" style="display: none; padding: 0px;"></div><div id="frameContainer" style="display: none; padding: 0px;"></div><div id="imageContainer" style="display: none; padding: 0px;"><img id="lightboxImage" alt=""><div id="hoverNav"><a id="prevLink" title="Previous" href="#" style="padding-top: 0px;"></a><a id="nextLink" title="Next" href="#" style="padding-top: 0px;"></a></div></div><div id="loading"><a href="#" id="loadingLink"></a></div></div>        <div id="imageDataContainer" class="clearfix" style="background-color: rgb(0, 0, 0); color: rgb(0, 0, 0);">          <div id="imageData"><div id="imageDetails"><span id="caption"></span><span id="numberDisplay"></span></div><div id="bottomNav"><div id="frameHoverNav"><a id="framePrevLink" title="Previous" href="#" style="padding-top: 0px;"></a><a id="frameNextLink" title="Next" href="#" style="padding-top: 0px;"></a></div><a id="bottomNavClose" title="Close" href="#" style="background-color: rgb(0, 0, 0); color: rgb(0, 0, 0);"></a><a id="bottomNavZoom" href="#"></a><a id="bottomNavZoomOut" href="#"></a><a id="lightshowPause" title="Pause Slideshow" href="#" style="display: none;"></a><a id="lightshowPlay" title="Play Slideshow" href="#" style="display: none;"></a></div></div>        </div>      </div><table style="width: 181px; display: none; top: 34px; left: 460px; position: absolute;" class="gstl_50 gssb_c" cellspacing="0" cellpadding="0"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table></body></html>

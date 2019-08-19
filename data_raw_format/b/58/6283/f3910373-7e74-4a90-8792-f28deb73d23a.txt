@@ -1,0 +1,20 @@
+INDEX
+Faculty
+Faculty List
+Faculty Detail
+FACULTY DETAIL
+Ichiro SAKUMA Professor
+Bioelectronics
+Field of Study: Computer Aided Surgery，Bio-Instrumentation，Electrophysiology
+[MAIL] sakuma@bmpe.u-tokyo.ac.jp
+[URL] http://www.bmpe.t.u-tokyo.ac.jp/
+Realization of advanced Medicine through Fusion of Engineering and Bioscience
+Realization of advanced medicine based on biomedical engineering, precision engineering, electronic engineering, measurement technology, and control engineering utilizing recent advances of life sciences.
+Subjects of Reseach
+Surgical Robotics
+Minimally Invasive Precision Guided Therapy
+Optical Mapping of Cardiac Excitation
+Cardiac Electrophysiology
+Faculty List
+Faculty Detail
+Copyright (C) 2013-2017 Department of Bioengineering, School of Engineering, The University of Tokyo All Rights Reserved.

@@ -1,0 +1,21 @@
+Mert Saglam (saglam@uw.edu)
+I am a graduate student in the theory group at the UW. In 2011, I obtained a M.Sc. degree from Simon Fraser University, where I was very lucky to be advised by Gábor Tardos.
+Publications
+On the communication complexity of sparse set disjointness and exists-equal problems
+(with Gábor Tardos)
+54th Annual Symposium on Foundations of Computer Science (FOCS 2013)
+[pdf] [abstract] [arXiv] [bib]
+We show that the r-round communication complexity of the k-disjointness problem is precisely Θ(k log(r) k) bits. Setting r = log* k, our upper bound gives an O(k)-bits, log* k-rounds protocol with error probability exponentially small in k. This improves the best previous protocol due to Håstad and Wigderson, which ran in O(log k) rounds and erred with constant probability.
+Our lower bound applies even to the simpler task of computing the OR of k independent instances of equality. An important aspect of our work is that the lower bound we get is super-linear in k, even though a single instance of equality can be solved with O(1) bits and constant error probability.
+Tight Bounds for Data Stream Algorithms and Communication Problems
+(supervisor: Gábor Tardos)
+M.Sc. Thesis, SFU, School of Computing Science. September 2011.
+[pdf] [bib]
+Tight Bounds for Lp Samplers, Finding Duplicates in Streams, and Related Problems
+(with Hossein Jowhari and Gábor Tardos)
+30th Symposium on Principles of Database Systems (PODS 2011)
+[pdf] [abstract] [arXiv] [bib]
+Periodicity in Streams
+(with Funda Ergün and Hossein Jowhari)
+14th Intl. Workshop on Randomization and Computation (RANDOM 2010)
+[pdf] [abstract] [bib]

@@ -1,0 +1,929 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="js js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-active" lang="en"><!--<![endif]--><head>
+   <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "//www.educ.cam.ac.uk",
+      "logo": "//www.educ.cam.ac.uk/images/homepage/googlesearch_UCFE_logo.jpg"
+    }
+   </script>
+   <script type="text/javascript" src="//use.typekit.com/hyb5bko.js"></script>
+   <style type="text/css">.tk-myriad-pro{font-family:"myriad-pro","Verdana","Arial",sans-serif;}</style><style type="text/css">@font-face{font-family:myriad-pro;src:url(https://use.typekit.com/af/33bde2/00000000000000000001709e/27/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.com/af/33bde2/00000000000000000001709e/27/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.com/af/33bde2/00000000000000000001709e/27/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:myriad-pro;src:url(https://use.typekit.com/af/e95421/00000000000000000001709f/27/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.com/af/e95421/00000000000000000001709f/27/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.com/af/e95421/00000000000000000001709f/27/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;}@font-face{font-family:myriad-pro;src:url(https://use.typekit.com/af/3b9e03/00000000000000000001709b/27/l?subset_id=2&fvd=i4&v=3) format("woff2"),url(https://use.typekit.com/af/3b9e03/00000000000000000001709b/27/d?subset_id=2&fvd=i4&v=3) format("woff"),url(https://use.typekit.com/af/3b9e03/00000000000000000001709b/27/a?subset_id=2&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;}@font-face{font-family:myriad-pro;src:url(https://use.typekit.com/af/67378a/000000000000000000017098/27/l?subset_id=2&fvd=n3&v=3) format("woff2"),url(https://use.typekit.com/af/67378a/000000000000000000017098/27/d?subset_id=2&fvd=n3&v=3) format("woff"),url(https://use.typekit.com/af/67378a/000000000000000000017098/27/a?subset_id=2&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;}@font-face{font-family:myriad-pro;src:url(https://use.typekit.com/af/72a259/00000000000000000001709a/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.com/af/72a259/00000000000000000001709a/27/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.com/af/72a259/00000000000000000001709a/27/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:myriad-pro;src:url(https://use.typekit.com/af/a8450a/00000000000000000001709c/27/l?subset_id=2&fvd=n6&v=3) format("woff2"),url(https://use.typekit.com/af/a8450a/00000000000000000001709c/27/d?subset_id=2&fvd=n6&v=3) format("woff"),url(https://use.typekit.com/af/a8450a/00000000000000000001709c/27/a?subset_id=2&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;}</style><script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+   <script type="text/javascript">  document.documentElement.className += " js";</script>
+   <script type="text/javascript" src="/sitetech/common_code/js/jquery.min.js"></script>
+   <script type="text/javascript" src="/sitetech/common_code/js/ios-orientationchange-fix.js"></script>
+   <script type="text/javascript" src="/sitetech/common_code/js/modernizr.js"></script>
+   <script type="text/javascript" src="/sitetech/common_code/js/jquery.shorten.js"></script>
+   <script type="text/javascript" src="/sitetech/common_code/js/educ-custom2.js"></script>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta name="description" content="">
+   <meta name="author" content="">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="HandheldFriendly" content="true">
+   <meta name="keywords" content="Teacher Training, CPD, humanities, Education Tripos, Science Education, master of education, Psychology Education, Theatre, Doctor of Philosophy, Centre for Commonwealth Education, NGO, human rights, supervision, history, pedal, global development, MPhil, Research in Education, performing arts, library, philosophy, international, PhD, geography, Accredited Counselling, language, PEDAL, performance, academic programs, International Education, social science, ITT, Neuroscience Education, Cambridge University Drama, Professional development, social sciences, Undergraduate Education, doctor of education, Development Education, Leadership for Learning, research degree, Institute of Education, education studies, arts, PPD, politics, Language Education, MA, Centre for Education and International Development, global, PEDAL Launch, theater, graduate study, Centre for Children's Literature, social justice, Education with English and Drama, creativity, play, Centre for Research on Play in Education, Masters, secondary Education, educational psychology, acting, routes, literature, Mathematics Education, School of Education, teaching, English literature, Technology Education, liberal arts, Kaleidoscope, sociology, EdD, MEd, children's literature, REAL, PGCE, theatre studies, Cambridge Faculty of Education, primary education, Education Equality, international relations, Development &amp;amp; Learning">
+   <!-- Apple icons -->
+<link rel="apple-touch-icon" href="/icon_76x76.png">
+
+<link rel="apple-touch-icon" sizes="76x76" href="/icon_76x76.png">
+
+<link rel="apple-touch-icon" sizes="122x122" href="/icon_122x122.png">
+
+<link rel="apple-touch-icon" sizes="152x152" href="/icon_154x154.png">
+
+
+   <!-- CSS : implied media="all" -->
+   <link rel="stylesheet" href="/sitetech/css/full-stylesheet.css">
+   <link rel="stylesheet" href="/sitetech/css/styleguide.css">
+   <link rel="stylesheet" href="/sitetech/css/global.css">
+   <link rel="stylesheet" href="/sitetech/css/stafflists.css">
+   <link rel="stylesheet" href="/sitetech/css/lists.css">
+   <link rel="stylesheet" href="/sitetech/css/divlists.css">
+   <link rel="stylesheet" href="/sitetech/css/tables.css">
+   <link rel="stylesheet" href="/sitetech/css/talks-cam-div.css">
+   <link rel="stylesheet" href="/sitetech/css/educrightmenu.css">
+   <link rel="stylesheet" href="/sitetech/css/mastheads.css">
+   <title>Sue Swaffield : Faculty of Education</title>
+</head>
+<body class="campl-theme-ff section_people section_staff section_swaffield">
+   <a href="#primary-nav" class="campl-skipTo">skip to primary navigation</a>
+   <a href="#content" class="campl-skipTo">skip to content</a>
+      <div class="campl-row campl-global-header">
+      <div class="campl-wrap clearfix">   
+         <div class="campl-header-container campl-column8" id="global-header-controls" style="display: block;"><a href="" class="campl-open-menu ir" id="open-menu">View menu</a> <!-- sml47 was column8 - column10 floats menu to side of cam logo -->
+            <a href="//www.cam.ac.uk" class="campl-main-logo"><img alt="University of Cambridge" src="/images/template-images/main-logo-small.png"></a>
+            <ul class="campl-unstyled-list campl-horizontal-navigation campl-global-navigation clearfix">
+               <li>
+                  <a href="#study-with-us" style="min-height: 0px;">Study at Cambridge</a>
+               </li>
+               <li>
+                  <a href="#about-the-university" style="min-height: 0px;">About the University</a>
+               </li>
+               <li>
+                  <a href="//www.cam.ac.uk/research" class="campl-no-drawer" style="min-height: 0px;">Research at Cambridge</a>
+               </li>
+            </ul>
+         </div>
+         <div class="campl-column2">
+            <div class="campl-quicklinks"><a href="#" class="campl-open-quicklinks clearfix"><span class="campl-quicklinks-txt">Quick links</span><span class="campl-icon-dropdown ir"></span></a>
+            <ul class="campl-unstyled-list campl-quicklinks-list campl-global-navigation-container  column12 clearfix">
+            <li>
+               <a href="http://www.cam.ac.uk/for-staff">For staff</a>
+            </li>
+            <li>
+               <a href="http://www.admin.cam.ac.uk/students/gateway">For current students</a>
+            </li>
+            <li>
+               <a href="http://www.alumni.cam.ac.uk">For alumni</a>
+            </li>
+            <li>
+               <a href="http://www.cam.ac.uk/for-business">For business</a>
+            </li>
+            <li>
+               <a href="http://www.cam.ac.uk/colleges-and-departments">Colleges &amp; departments</a>
+            </li>
+            <li>
+               <a href="http://www.cam.ac.uk/libraries-and-facilities">Libraries &amp; facilities</a>
+            </li>
+            <li>
+               <a href="http://www.cam.ac.uk/museums-and-collections">Museums &amp; collections</a>
+            </li>
+            <li class="last">
+               <a href="http://www.cam.ac.uk/email-and-phone-search">Email &amp; phone search</a>
+            </li>
+         </ul></div>
+         </div>
+         <div class="campl-column2">
+            <div class="campl-site-search" id="site-search-btn"><a href="#" class="campl-icon-search-btn ir" id="open-search">Search</a>
+               <label for="header-search" class="hidden">Search site</label>
+               <div class="campl-search-input">
+                  <form action="//search.cam.ac.uk/web" method="get" target="_blank">
+                  <input id="header-search" name="query" value="" placeholder="Search" type="text">
+                  <input name="filterTitle" value="All Faculty sites" type="hidden">
+                                    <input name="include" value="www.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="recoup.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="www-rba.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="thinkingtogether.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="alternative-settings.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="learningwithoutlimits.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="iwbcollaboration.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="engaged.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="dialogueiwb.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="jotter.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="t-media.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="caribbeanpoetry.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="instructlab.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="conference.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="classictales.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="corerj.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="zapp.educ.cam.ac.uk" type="hidden">
+                  <input class="campl-search-submit" src="/images/template-images/btn-search-header.png" type="image">
+                  </form>
+               </div>
+            </div>
+         </div>
+      </div>      
+   </div>
+   <div class="campl-row campl-global-header campl-search-drawer">
+      <div class="campl-wrap clearfix">
+         <form class="campl-site-search-form" id="site-search-container" action="http://search.cam.ac.uk/web/" method="get">
+            <div class="campl-search-form-wrapper clearfix">
+               <input name="query" class="text" placeholder="Search" type="text">
+               <input class="campl-search-submit" src="/images/template-images/btn-search.png" type="image">
+                                 <input name="include" value="www.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="recoup.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="www-rba.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="thinkingtogether.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="alternative-settings.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="learningwithoutlimits.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="iwbcollaboration.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="engaged.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="dialogueiwb.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="jotter.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="t-media.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="caribbeanpoetry.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="instructlab.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="conference.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="classictales.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="corerj.educ.cam.ac.uk" type="hidden">
+                  <input name="include" value="zapp.educ.cam.ac.uk" type="hidden">
+            </div>
+         </form>
+      </div>
+   </div>
+   <div class="campl-row campl-global-navigation-drawer">
+      <div class="campl-wrap clearfix">   
+         <div class="campl-column12 campl-home-link-container">
+            <a href="http://www.educ.cam.ac.uk">Home</a>
+         </div>
+      </div>
+      <div class="campl-wrap clearfix">      
+         <div class="campl-column12 campl-global-navigation-mobile-list campl-global-navigation-list">
+            <div class="campl-global-navigation-outer clearfix" id="study-with-us">
+               <ul class="campl-unstyled-list campl-global-navigation-header-container ">
+                     <li><a href="http://www.cam.ac.uk/study-at-cambridge">Study at Cambridge</a></li>
+               </ul>
+               <div class="campl-column4">
+                  <ul class="campl-global-navigation-container campl-unstyled-list campl-global-navigation-secondary-with-children" style="min-height: 300px;">
+                     <li>
+                        <a href="http://www.study.cam.ac.uk/undergraduate/">Undergraduate</a>
+                        <ul class="campl-global-navigation-tertiary campl-unstyled-list">
+                           <li>
+                              <a href="http://www.study.cam.ac.uk/undergraduate/courses/">Courses</a>
+                           </li>
+                           <li>
+                              <a href="http://www.study.cam.ac.uk/undergraduate/apply/">Applying</a>
+                           </li>
+                           <li>
+                              <a href="http://www.study.cam.ac.uk/undergraduate/events/">Events and open days</a>
+                           </li>
+                          <li>
+                              <a href="http://www.study.cam.ac.uk/undergraduate/finance/">Fees and finance</a>
+                           </li>
+                          <li>
+                              <a href="http://www.becambridge.com/">Student blogs and videos</a>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </div>
+               <div class="campl-column4">
+                  <ul class="campl-global-navigation-container campl-unstyled-list campl-global-navigation-secondary-with-children" style="min-height: 300px;">
+                     <li>
+                        <a href="http://www.admin.cam.ac.uk/students/gradadmissions/prospec/">Graduate</a>
+                        <ul class="campl-global-navigation-tertiary campl-unstyled-list">
+                           <li>
+                              <a href="http://www.admin.cam.ac.uk/students/gradadmissions/prospec/whycam/">Why Cambridge</a>
+                           </li>
+                           <li>
+                              <a href="http://www.admin.cam.ac.uk/students/gradadmissions/prospec/studying/qualifdir/">Qualifications directory</a>
+                           </li>
+                           <li>
+                           <a href="http://www.admin.cam.ac.uk/students/gradadmissions/prospec/apply/">How to apply</a></li>
+                           <li><a href="http://www.admin.cam.ac.uk/students/studentregistry/fees/">Fees and funding</a></li>
+                           <li><a href="http://www.admin.cam.ac.uk/students/gradadmissions/prospec/faq/index.html">Frequently asked questions</a></li>
+                        </ul>
+                     </li>
+                  </ul>
+               </div>
+               <div class="campl-column4">
+                  <ul class="campl-global-navigation-container campl-unstyled-list last" style="min-height: 300px;">
+                     <li>
+                        <a href="http://www.cam.ac.uk/about-the-university/international-cambridge/studying-at-cambridge">International students</a>
+                     </li>
+                     <li>
+                        <a href="http://www.ice.cam.ac.uk">Continuing education</a>
+                     </li>
+                     <li>
+                        <a href="http://www.admin.cam.ac.uk/offices/education/epe/">Executive and professional education</a>
+                     </li>
+                     <li>
+                        <a href="http://www.educ.cam.ac.uk">Courses in education</a>
+                     </li>
+                  </ul>
+               </div>
+            <a href="#" class="campl-close-menu">Close</a></div>   
+
+            <div class="campl-global-navigation-outer clearfix" id="about-the-university">
+               <ul class="campl-global-navigation-header-container campl-unstyled-list">
+                  <li><a href="http://www.cam.ac.uk/about-the-university">About the University</a></li>
+               </ul>
+               <div class="campl-column4">
+                  <ul class="campl-global-navigation-container campl-unstyled-list" style="min-height: 300px;">
+                     <li>
+                        <a href="http://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work">How the University and Colleges work</a>
+                     </li>
+                     <li>
+                        <a href="http://www.cam.ac.uk/about-the-university/history">History</a>
+                     </li> 
+                     <li>
+                        <a href="http://www.cam.ac.uk/about-the-university/visiting-the-university">Visiting the University</a>
+                     </li>
+                     <li>
+                        <a href="http://www.cam.ac.uk/about-the-university/term-dates-and-calendars">Term dates and calendars</a>
+                     </li>
+                     <li class="last">
+                        <a href="http://map.cam.ac.uk">Map</a>
+                     </li>
+                  </ul>
+               </div>
+               <div class="campl-column4">
+                  <ul class="campl-global-navigation-container campl-unstyled-list" style="min-height: 300px;">
+                     <li>
+                        <a href="http://www.cam.ac.uk/for-media">For media</a>
+                     </li>
+                     <li>
+                        <a href="http://www.cam.ac.uk/video-and-audio">Video and audio</a>
+                     </li>
+                     <li>
+                        <a href="http://webservices.admin.cam.ac.uk/faesearch/map.cgi">Find an expert</a>
+                     </li>
+                     <li>
+                        <a href="http://www.cam.ac.uk/about-the-university/publications">Publications</a>
+                     </li>
+                     <li class="last">
+                        <a href="http://www.cam.ac.uk/about-the-university/international-cambridge">International Cambridge</a>
+                     </li>
+                  </ul>
+               </div>
+               <div class="campl-column4">
+                  <ul class="campl-global-navigation-container campl-unstyled-list" style="min-height: 300px;">
+                     <li>
+                        <a href="http://www.cam.ac.uk/news">News</a>
+                     </li>
+                     <li>
+                        <a href="http://www.admin.cam.ac.uk/whatson">Events</a>
+                     </li>
+                     <li>
+                        <a href="http://www.cam.ac.uk/public-engagement">Public engagement</a>
+                     </li>
+                     <li>
+                        <a href="http://www.jobs.cam.ac.uk">Jobs</a>
+                     </li>
+                     <li class="last">
+                        <a href="http://www.philanthropy.cam.ac.uk">Giving to Cambridge</a>
+                     </li>
+                  </ul>
+               </div>
+            <a href="#" class="campl-close-menu">Close</a></div>   
+
+            <div class="campl-global-navigation-outer clearfix" id="our-research">
+               <ul class="campl-global-navigation-header-container campl-unstyled-list">
+                  <li><a href="http://www.cam.ac.uk/research">Research at Cambridge</a></li>
+               </ul>
+            <a href="#" class="campl-close-menu">Close</a></div>
+         </div>
+
+         <ul class="campl-unstyled-list campl-quicklinks-list campl-global-navigation-container ">
+            <li>
+               <a href="http://www.cam.ac.uk/for-staff">For staff</a>
+            </li>
+            <li>
+               <a href="http://www.admin.cam.ac.uk/students/gateway">For current students</a>
+            </li>
+            <li>
+               <a href="http://www.alumni.cam.ac.uk">For alumni</a>
+            </li>
+            <li>
+               <a href="http://www.cam.ac.uk/for-business">For business</a>
+            </li>
+            <li>
+               <a href="http://www.cam.ac.uk/colleges-and-departments">Colleges &amp; departments</a>
+            </li>
+            <li>
+               <a href="http://www.cam.ac.uk/libraries-and-facilities">Libraries &amp; facilities</a>
+            </li>
+            <li>
+               <a href="http://www.cam.ac.uk/museums-and-collections">Museums &amp; collections</a>
+            </li>
+            <li class="last">
+               <a href="http://www.cam.ac.uk/email-and-phone-search">Email &amp; phone search</a>
+            </li>
+         </ul>
+      </div>
+   </div>
+<!-- .campl-global-header ends -->
+<a name="top"></a>
+<a name="abstop"></a>
+<!-- local crumb trail navigation begins -->
+   <div class="campl-row campl-page-header campl-section-page">
+      <div class="campl-wrap clearfix">
+         <div class="campl-column12">
+            <div class="campl-content-container">
+               <div class="campl-breadcrumb" id="breadcrumb" style="border: 0px solid green;">
+  
+                  <div style="float: right; font-size: 1.1em; color: #ffffff; padding-right: 0.5em;  padding-left: 0.5em; margin-right: 0.5em; padding-bottom: 0.2em; /*background-color: #101010;*/">
+                    <span class="header-foenet"><a href="/internal/">FoE-net</a> | </span><a href="/contact/staffcontact.html">Faculty Staff List</a> | <a href="/contact/">Contact Us</a>
+                  </div>
+
+
+
+                  <ul class="campl-unstyled-list campl-horizontal-navigation clearfix"> 
+                     <li class="first-child">
+                        <a href="http://www.cam.ac.uk" class="campl-home ir">Home</a>
+                     </li>
+                     <li>
+                        /&nbsp;<a href="http://map.cam.ac.uk/directory/" target="_blank">Departments A-Z</a>&nbsp;/
+                     </li>
+                     <li>
+                                                                                                                                                                                                                        <div class="campl-current" style="width: 85%; border: 0px solid white; "><a href="/">Faculty of Education</a> / <a href="/people/">People in the Faculty</a> / Sue Swaffield</div>
+                     </li>
+                  </ul>
+               </div>
+                              <h1 class="campl-page-title" style=""><a href="http://www.educ.cam.ac.uk">The Faculty of Education</a></h1>
+               </div>       
+               <p class="campl-mobile-parent"><a href=""><span class="campl-back-btn campl-menu-indicator"></span>Departments A-Z</a></p>
+            </div>
+         </div>
+      </div>
+   
+<!-- local crumb trail navigation ends -->
+<!-- local navigation begins -->
+   <div class="campl-row campl-page-header">
+      <div class="campl-wrap clearfix campl-local-navigation" id="local-nav"><p class="campl-closed campl-menu-btn" id="menu-btn"><a href="#"><span>Menu</span> <span class="campl-menu-btn-arrow"></span></a></p>
+         <div class="campl-local-navigation-container">
+
+            <ul class="campl-unstyled-list campl-current">
+               <li class="campl-top"><a href="/">Home</a>
+               </li><li class="campl-top campl-sub"><a style="position: relative;" href="/about/">About<span class="campl-menu-indicator campl-fwd-btn"></span></a>
+                  <ul><li class="campl-back-link"><a href="#"><span class="campl-back-btn campl-menu-indicator"></span>Back to section home</a></li><li class="campl-title"><a href="/about/">About</a></li>
+<!-- begin:about -->
+                     <li><a href="/about/reachus/">Map &amp; How To Reach Us</a></li>
+                     <li><a href="/about/jobs/">Job Opportunities in the Faculty</a></li><!-- nofooter -->
+                     <li><a href="/about/visitingscholars/">Visiting Scholars</a></li><!-- nofooter -->
+                     <li><a href="/about/visitingstudents/">Visiting Students</a></li><!-- nofooter -->
+<!-- end:about -->
+                  </ul>
+               </li> 
+               <li class="campl-top campl-sub"><a style="position: relative;" href="/courses/">Study with Us<span class="campl-menu-indicator campl-fwd-btn"></span></a>
+                  <ul><li class="campl-back-link"><a href="#"><span class="campl-back-btn campl-menu-indicator"></span>Back to section home</a></li><li class="campl-title"><a href="/courses/">Study with Us</a></li>
+<!-- begin:courses -->
+                     <li><a href="/courses/undergrad/">Undergraduate Study</a></li>
+                     <li><a href="/courses/pgce/">PGCE Study</a></li>
+                     <li><a href="/courses/graduate/">Graduate Study</a></li>
+                     <li><a href="/courses/ppd/">Practitioner Professional Development</a></li>
+                     <li><a href="/courses/ppd/counsellors/">&nbsp;&nbsp;»&nbsp;Counselling</a></li><!-- nofooter -->
+                     <li><a href="/courses/feedback/">Student Engagement &amp; Feedback </a></li><!-- nofooter -->
+<!-- end:courses -->
+                  </ul>
+               </li>
+               <li class="campl-top campl-sub"><a style="position: relative;" href="/research/">Research<span class="campl-menu-indicator campl-fwd-btn"></span></a>
+                  <ul><li class="campl-back-link"><a href="#"><span class="campl-back-btn campl-menu-indicator"></span>Back to section home</a></li><li class="campl-title"><a href="/research/">Research</a></li>
+<!-- begin:research -->
+    <li><a href="/research/areas/">Research Areas</a></li>
+    <li><a href="/events/#researchseminars">Open Research Seminars</a></li>
+	<li><a href="/research/workingpapers/">Working Paper Series</a></li>
+	<li><a href="/research/projects/">Research Projects</a></li>
+	<li><a href="/research/academicgroups/">Academic Groups</a></li>
+	<li><a href="/research/publications/">Publications</a></li>
+<!-- end:research -->
+                  </ul>  
+               </li>
+               <li class="campl-top campl-sub"><a style="position: relative;" href="/centres/">Centres &amp; Networks<span class="campl-menu-indicator campl-fwd-btn"></span></a>
+                  <ul><li class="campl-back-link"><a href="#"><span class="campl-back-btn campl-menu-indicator"></span>Back to section home</a></li><li class="campl-title"><a href="/centres/">Centres &amp; Networks</a></li>
+<!-- begin:centres -->
+                      <li><a href="/centres/real/">REAL Centre</a></li><!-- nofooter -->
+                     <li><a href="/centres/pedal/">PEDAL Centre</a></li><!-- nofooter -->
+                     <li><a href="/centres/childrensliterature/">Centre for Children's Literature</a></li><!-- nofooter -->
+                      <li><a href="/centres/eri/">Education Reform and Innovation</a></li><!-- nofooter -->
+                                          
+                     <li><a href="http://nrich.maths.org/about" target="_blank">NRICH mathematics</a></li><!-- nofooter -->                     
+                     <li><a href="/centres/cscp/">Cambridge School Classics Project</a></li><!-- nofooter -->                     
+                     <li><a href="/centres/lfl/">Leadership for Learning</a></li><!-- nofooter -->
+                                         
+                     <li><a href="/centres/networks/camstar/">CamSTAR Network</a></li><!-- nofooter -->                     
+                      <li><a href="/centres/networks/cedir/">CEDiR Group</a></li><!-- nofooter -->                     
+                     <li><a href="/centres/networks/cian/">CIAN Network</a></li><!-- nofooter -->                     
+                     <li><a href="/centres/networks/cricle/">CRiCLE Network</a></li><!-- nofooter -->                     
+                    <li><a href="/research/projects/super/">SUPER Network</a></li><!-- nofooter -->                      
+                     <li><a href="/centres/primaryreview/">Cambridge Primary Review Trust</a></li><!-- nofooter -->                  
+<!-- end:centres -->
+                  </ul> 
+               </li>
+               <li class="campl-top campl-sub"><a style="position: relative;" href="/people/" class="campl-selected">People<span class="campl-menu-indicator campl-fwd-btn"></span></a>
+                  <ul><li class="campl-back-link"><a href="#"><span class="campl-back-btn campl-menu-indicator"></span>Back to section home</a></li><li class="campl-title"><a href="/people/">People</a></li>
+<!-- begin:people -->
+                     <li><a href="/people/acadstaff/" id="acadstaff">Academic Staff</a></li>
+                     <li><a href="/people/acadstaff/associatedacademics.html" id="assocacad">Associated Academic Staff</a></li>
+                     <li><a href="/people/emeritus/index.html" id="emeritus">Emeritus Readers and Professors</a></li>
+                     <li><a href="/people/doctoralstudents/" id="doctoral">Doctoral Students</a></li>
+<!-- end:people -->
+                  </ul> 
+               </li>
+               <li class="campl-top campl-sub"><a style="position: relative;" href="/news/">News<span class="campl-menu-indicator campl-fwd-btn"></span></a>
+                  <ul><li class="campl-back-link"><a href="#"><span class="campl-back-btn campl-menu-indicator"></span>Back to section home</a></li><li class="campl-title"><a href="/news/">News</a></li>
+<!-- begin:news -->
+                     <li><a href="/internal/bulletin/">Bulletin&nbsp;&nbsp;<img src="/images/common/raven24_white.gif" alt="Raven login" style="display: inline; vertical-align: center;" width="18" height="12"></a></li>
+                    <li><a href="/media/">Audio &amp; Video</a></li>
+                     <li><a href="/news/newsguidelines/">How to submit News</a></li>
+<!-- end:news -->
+                  </ul>
+               </li>
+               <li class="campl-top campl-sub"><a style="position: relative;" href="/events/">Events<span class="campl-menu-indicator campl-fwd-btn"></span></a>
+                  <ul><li class="campl-back-link"><a href="#"><span class="campl-back-btn campl-menu-indicator"></span>Back to section home</a></li><li class="campl-title"><a href="/events/">Events</a></li>
+<!-- begin:events -->
+                     <li><a href="/events/#researchseminars">Open Research Seminar Calendar</a></li>
+                     <li><a href="/events/conferences/">Conferences</a></li>
+                     <li><a href="/media/">Media</a></li>
+<!-- end:events -->
+                  </ul>
+               </li>
+               <li class="campl-top campl-sub"><a style="position: relative;" href="/library/">Library<span class="campl-menu-indicator campl-fwd-btn"></span></a>
+                  <ul><li class="campl-back-link"><a href="#"><span class="campl-back-btn campl-menu-indicator"></span>Back to section home</a></li><li class="campl-title"><a href="/library/">Library</a></li>
+<!-- begin:library -->
+                     <li><a href="/library/opening/">Opening Hours</a></li><!-- nofooter -->
+                      
+<!-- end:library -->
+                  </ul> 
+               </li>
+
+               <li class="campl-top campl-sub"><a style="position: relative;" href="/services/">Services<span class="campl-menu-indicator campl-fwd-btn"></span></a>
+                  <ul><li class="campl-back-link"><a href="#"><span class="campl-back-btn campl-menu-indicator"></span>Back to section home</a></li><li class="campl-title"><a href="/services/">Services</a></li>
+<!-- begin:services -->
+                     <li><a href="/services/it/">IT Service</a></li>
+                     <li><a href="/services/avs/">AV Support Service</a></li>
+                     <li><a href="/services/external-bookings/">External Bookings</a></li>
+<!-- end:services -->
+                  </ul>
+               </li>
+
+               <span style="float: right; padding-right: 1em;"><li><a href="/internal/">&nbsp;&nbsp;<em style="font-size: 1.1em; letter-spacing: 0.2em; font-weight: 300;">educ</em><span style="letter-spacing: 0.05em;">&nbsp;</span><span style="letter-spacing: 0.3em;">NET</span>&nbsp;&nbsp;</a>
+                               </li></span>
+            
+         </ul>
+      </div>
+   </div>
+<!-- local navigation ends -->
+<!--
+*
+*
+* MAIN CONTENT FROM HERE
+*
+*
+-->
+<!-- PFC ses42 -->
+
+<!-- page title -->
+      <div class="campl-wrap clearfix campl-page-sub-title campl-recessed-sub-title">
+         <div class="campl-column2 campl-spacing-column">
+            &nbsp;
+         </div>
+                  <div class="campl-column8"> <!-- 8 -->
+
+            <div class="campl-content-container">
+
+
+                                
+                              <h1 style="margin: 0; padding: 0; font-weight: 400; letter-spacing: 0.05em; " class="campl-sub-title">Sue Swaffield</h1>            </div>
+         </div> <!-- END OF <div class="campl-content-container"> -->
+
+      </div>
+   </div>
+<!-- page title ends -->
+<!-- vertical breadcrumb navigation begins -->
+<!-- ie the left hand menu -->
+      <div class="campl-row campl-content campl-recessed-content">
+      <div class="campl-wrap clearfix">
+
+         <div class="campl-column2">
+            <div class="campl-tertiary-navigation" style="min-height: 4059px;">
+               <div class="campl-tertiary-navigation-structure">
+      <ul class="campl-unstyled-list campl-vertical-breadcrumb">   <li><a href="/">Faculty of Education<span class="campl-vertical-breadcrumb-indicator"></span></a></li>   <li><a href="http://www.educ.cam.ac.uk/people">People in the Faculty
+<span class="campl-vertical-breadcrumb-indicator"></span></a></li>
+
+      </ul>
+<ul class="campl-unstyled-list campl-vertical-breadcrumb-navigation">   <li class="campl-selected">   Sue Swaffield <ul class="campl-unstyled-list campl-vertical-breadcrumb-children">
+            <li><a href="/people/acadstaff/">Academic Staff</a></li>
+<li><a href="/people/acadstaff/associatedacademics.html">Associated Academic Staff</a></li>
+<li><a href="/people/emeritus/index.html">Emeritus Readers and Professors</a></li>
+<li><a href="/people/doctoralstudents/">Doctoral Students</a></li>
+<li><a href="/people/doctoralstudents/theses/">Completed Doctoral Theses</a></li>
+
+            </ul>
+         </li>
+      </ul>
+      
+               </div>
+            </div>
+         </div>
+<!-- vertical breadcrumb navigation ends -->
+<!-- page content starts -->
+               <div class="campl-column8  campl-main-content" id="content" style="min-height: 4059px;">
+               <div class="campl-content-container our-content">
+
+<h2>Position/Status</h2>
+
+<p>University Senior Lecturer - Educational Leadership and School Improvement</p>
+
+<h2>E-mail Address</h2>
+
+<p>ses42<span>@</span>cam.ac.uk</p>
+
+<h2>Phone</h2>
+
+<p>01223 767633</p>
+
+<h2>Qualifications</h2>
+
+<ul class="nobullet">
+   	<li>PhD (Cantab)</li>
+   	<li>MA (Cantab)</li>
+   	<li>MEd (Cantab)</li>
+   	<li>MA (UEA)</li>
+   	<li>BEd (Hons)(Cantab)</li>
+   	<li>Cert Ed</li>
+</ul>
+
+<h2>Membership of Professional Bodies/Associations</h2>
+
+<ul class="nobullet">
+   	<li>American Educational Research Association</li>
+   	<li>Association for Achievement and Improvement through Assessment (President 1999-2001, and Honorary Life Member)</li>
+   	<li>British Educational Leadership, Management and Administration Society</li>
+   	<li>British Educational Research Association</li>
+   	<li>International Professional Development Association</li>
+</ul>
+<hr>
+<p><a href="#"><img class="right" alt="Back to top" src="/images/common/nav_arrow_up.gif" width="16" height="19" border="0"></a></p>
+<p><a name="profile"></a></p>
+
+<h2>Profile</h2>
+
+<p>Sue Swaffield's teaching and research interests are within the fields of educational leadership, school improvement and assessment. Leadership for learning, critical friendship and assessment for learning are particular interests - and often interconnect. Her work in Higher Education builds on two decades of teaching in a variety of schools and serving as a local authority adviser.<br>
+<br>
+Sue is a member of the Educational Leadership, Policy, Evaluation and Change academic group in the Faculty of Education, and a co-founder of Leadership for Learning: the Cambridge Network. She also belongs to the Research for Equitable Access and Learning (REAL) centre, and the Cambridge Educational Dialogue Research (CEDiR) group. <br>
+<br>
+The Leadership for Learning (LfL) framework and principles that are so prominent in Sue's work were developed through the seven country LfL&nbsp;Carpe Vitam project that she co-directed, and have subsequently been adopted in many contexts around the world, including by the Ghana Education Service. Sue's career long involvement with Assessment for Learning has included research and development projects large and small, a wide range of publications, and numerous presentations, courses and workshops. She studies and promotes critical friendship particularly in relation to school leaders and school improvement, and among students. &nbsp;</p>
+<p>Sue teaches on the Doctoral, Masters and Practitioner Professional Development programmes, co-ordinating the Educational Leadership and School Improvement MEd and MPhil, as well as the Postgraduate Certificate in Educational Assessment and Examinations.</p>
+<p>She is a past president and honorary life member of AAIA (Association for Achievement and Improvement through Assessment), Associate Editor of the journal ‘Professional Development in Education’, and on the editorial advisory board of ‘Assessment in Education: principles, policy and practice’.&nbsp;</p>
+<p>Sue is a Fellow of Wolfson College Cambridge, a Syndic of Cambridge University Press, and Adjunct Research Fellow in the Griffith Institute for Educational Research, Griffith University, Brisbane.<br>
+<br>
+</p>
+
+<h2>Academic Area/Links</h2>
+
+<ul>
+   	<li>Educational Leadership</li>
+   	<li>School Improvement</li>
+   	<li>Leadership for Learning</li>
+   	<li>Assessment for Learning</li>
+</ul>
+<hr>
+<p><a href="#"><img class="right" alt="Back to top" src="/images/common/nav_arrow_up.gif" width="16" height="19" border="0"></a></p>
+<p><a name="research"></a></p>
+
+<h2>Research Topics</h2>
+
+<ul>
+   	<li>Leadership for Learning</li>
+   	<li>Assessment for Learning</li>
+   	<li>Critical Friendship</li>
+</ul>
+
+<h4>Prospective PhD Applications</h4>
+
+<p>Sue would welcome informal contact from prospective PhD students on any of the research topics mentioned above.</p>
+
+<h4>Research Projects</h4>
+
+<ul>
+   	<li>Cambridge Schools Leadership for Learning Community</li>
+   	<li>Leadership in Co-operative Schools</li>
+   	<li>Developing Assessment for Learning in a cluster of schools</li>
+   	<li>Support and Challenge for Headteachers</li>
+   	<li>Leadership for Learning: Building headteachers' leadership capacity - Ghana</li>
+   	<li>Learning How To Learn (ESRC/TLRP)</li>
+   	<li>Leadership for Learning: the Carpe Vitam project (Wallenberg)&nbsp;</li>
+   	<li>Schools Facing Exceptionally Challenging Circumstances (DfES)</li>
+</ul>
+<hr>
+<p><a href="#"><img class="right" alt="Back to top" src="/images/common/nav_arrow_up.gif" width="16" height="19" border="0"></a></p>
+<p><a name="teaching"></a></p>
+
+<h2>Courses&nbsp;</h2>
+
+<ul>
+   	<li>MEd and MPhil: Educational Leadership and School Improvement</li>
+   	<li>Postgraduate Certificate in Educational Assessment and Examinations</li>
+</ul>
+<hr>
+<p><a href="#"><img class="right" alt="Back to top" src="/images/common/nav_arrow_up.gif" width="16" height="19" border="0"></a></p>
+<p><a name="publications"></a></p>
+
+<h2>Publications</h2>
+
+
+<h4>Refereed journal articles</h4>
+
+<p><strong>Swaffield, S.</strong> (2015) Support and challenge for school leaders: Headteachers’ perceptions of School Improvement Partners. <em>Educational Management Administration and Leadership</em> 43(1) 61-76. doi:10.1177/1741143213494884</p>
+<p>Malakolunthu, S., MacBeath, J. and <strong>Swaffield, S</strong>. (2014) Improving the quality of teaching and learning through 'Leadership for Learning': Changing scenarios in basic schools in Ghana. <em>Educational Management Administration and Leadership</em> 42(5) 701-717. doi:10.1177/1741143213510510</p>
+<p>Jull, S., <strong>Swaffield, S.</strong> and MacBeath, J. (2014) Changing perceptions is one thing…: barriers to transforming leadership and learning in Ghanaian basic schools. <em>School Leadership &amp; Management</em> 34 (1) 69-84.</p>
+<p>Alexandrou, A. and <strong>Swaffield, S.</strong> (2012) Editorial. Teacher leadership and professional development: perspectives, connections and prospects. <em>Professional Development in Education</em> 38(2) 159-167.</p>
+<p><strong>Swaffield, S. </strong>(2011) Getting to the heart of authentic Assessment for Learning. <em>Assessment in Education: Principles, Policy and Practice </em>18 (4) 433-449.</p>
+<p><b>Swaffield, S. </b>(2009) The international state of professional development (Editorial). <i>Professional Development in Education </i>35 (4) 505-509.</p>
+<!--StartFragment-->    <!--EndFragment-->
+<p>MacBeath, J., <strong>Swaffied, S.</strong> and Frost, D. (2009) Principled Narrative: the Carpe Vitam project <em>International Journal of Leadership in Education </em>12 (3) 223-237.</p>
+<p><strong>Swaffield, S.</strong> (2008) Critical Friendship, dialogue and learning, in the context of Leadership for Learning. <em>School Leadership and Management</em> 28 (4) 323-336.</p>
+<p>MacBeath, J., Frost, D. and <strong>Swaffield, S.</strong> (2008) Editorial. <em>School Leadership and Managment</em> 28 (4) 301-306.</p>
+<p><strong>Swafffield, S.</strong> (2007) Light touch critical friendship. <em>Improving Schools</em> 10 (3) 205-219.</p>
+<p><strong>Swaffield, S.</strong> (2007) Scaffolding discourse in multi-national collaborative enquiry: The Carpe Vitam Leadership for Learning project. <em>Leading and Managing</em> 12 (2) 10–18.</p>
+<p><strong>Swaffield, S.</strong> and MacBeath, J. (2006) Embedding Learning How to Learn in school policy: the challenge for leadership. <em>Research Papers in Education</em> 21 (2) 201-215.</p>
+<p>Warwick, P. and <strong>Swaffield, S.</strong> (2006) Articulating and connecting frameworks of reflective practice and leadership: perspectives from 'Fast Track' trainee teachers. <em>Reflective Practice</em> 7 (2) 247–263.</p>
+<p>MacBeath, J., Frost, D. and <strong>Swaffield, S.</strong> (2005) Researching Leadership for Learning in Seven Countries (The Carpe Vitam Project)'. <em>Education Research and Perspectives</em> 32 (2) 24 - 42.</p>
+<p><strong>Swaffield, S.</strong> (2005) No Sleeping Partners: relationships between head teachers and critical friends. <em>School Leadership and Management</em> 25 (1) 43 - 57.</p>
+<p><strong>Swaffield, S.</strong> and MacBeath, J. (2005) School self-evaluation and the role of a critical friend. <em>Cambridge Journal of Education</em> 35 (2) 239 - 252.</p>
+<p><strong>Swaffield, S.</strong> (2004) Critical friends: supporting leadership, improving learning. <em>Improving Schools</em> 7 (3) 267 - 278.</p>
+
+<h4>Other articles and research reports</h4>
+
+<p><strong>Swaffield, S.</strong>, Dempster, N., Frost, D. and MacBeath, J. (Eds.) (2014). Leadership for Learning Travels. <em>Inform No. 17</em>. Cambridge: University of Cambridge, Faculty of Education.</p>
+<p>Major, L. and <strong>Swaffield, S.</strong> (2014). Introducing the Most Significant Change technique to support Leadership for Learning in Ghana. Commonwealth Centre for Education Report No. 14. University of Cambridge.</p>
+<p><strong>Swaffield, S.</strong>, Jull, S. and Ampah-Mensah, A. (2013) Using Mobile Phone Texting to Support the Capacity of School Leaders in Ghana to Practise Leadership for Learning. <em>Procedia – Social and Behavioural Sciences</em>. 103, 26 November 2013, 1295-1302.</p>
+<p>Frost, D., MacBeath, J. and <strong>Swaffield, S</strong>. (2013) Sustaining Teachers’ Professional Growth. <em>Inform No. 15</em>.  Cambridge: University of Cambridge, Faculty of Education.</p>
+<p><strong>Swaffield, S.</strong> (2012) ‘Asistencia tecnica a escuelas pobres’ [Technical assistance to poor schools] El Mercurio (Chile) 3 September 2012.</p>
+<p>Jull, S., MacBeath, J. and <strong>Swaffield, S</strong>. (2012) Leadership for Learning Ghana: Systematic Bottom-up Top-down change.  <em>Inform No. 13.</em>  Cambridge: University of Cambridge, Faculty of Education.</p>
+<p><strong>Swaffield, S.</strong> and MacBeath, J. (2009) Leading Leadership for Learning Resources. Cambridge: University of Cambridge Faculty of Education.<br>
+<br>
+Frost, D., MacBeath, J., <strong>Swaffield, S.</strong> and Waterhouse, J. (2008) The Legacy of the Carpe Vitam Leadership for Learning Project. <em>Inform No. 8.</em> Cambridge: University of Cambridge Faculty of Education.</p>
+<p>MacBeath, J. and <strong>Swaffield, S.</strong> (2007) Schools Facing Exceptionally Challenging Circumstances: A summary of the project evaluation. <em>Inform No. 7</em>. Cambridge: University of Cambridge Faculty of Education.</p>
+<p>MacBeath, J., Frost, D., <strong>Swaffield, S.</strong> and Waterhouse, J. (2006) <em>Making the Connections: The story of a seven country odyssey in search of a practical theory</em>. Cambridge: University of Cambridge Faculty of Education.</p>
+<p><strong>Swaffield, S.</strong> (2005) Supporting principals through critical friendship. <em>Prime Focus</em> Spring 2005, 16 - 18.</p>
+<p><strong>Swaffield, S.</strong> (2005) Supporting principals through critical friendship'. <em>Principal Matters</em> Spring 2005, 25 - 27.</p>
+<p><strong>Swaffield, S.</strong> (2003) Critical Friendship <em>Inform No. 3.</em> Cambridge: University of Cambridge Faculty of Education.</p>
+<p><strong>Swaffield, S.</strong> (2003) Assessment: Servant or Dictator? <em>Forum</em> 45 (2) 39-43.</p>
+
+<h4>Books and book chapters</h4>
+
+<p><strong>Swaffield, S. </strong>(2016) 'Multi-level leadership for Assessment for Learning, and the potential of critical friendship' in G. Johnson and N. Dempster (Eds.) <em>Leadership in Diverse Learning Contexts</em>. Rotterdam: Springer. p93-108</p>
+<p>Pollard, A, with Black-Hawkins, K., Cliff Hodges, G., Dudley, P., James, M., Linklater, H., <strong>Swaffield, S.,</strong> Swann, M., Turner, F., Warwick, P. Winterbottom, M. and Wolpert, M.A. (2014) <em>Reflective Teaching in Schools</em>. London: Bloomsbury.</p>
+<p>Alexandrou, A. and <strong>Swaffield, S. </strong>(Eds.) (2013) <em>Teacher Leadership and Professional Development.</em> Abingdon: Routledge.</p>
+<p><strong>Swaffield, S.</strong> and Alexandrou, A. (2013) ‘Teacher leadership and professional development: perspectives, connections and prospects’ in A. Alexandrou and S. Swaffield (Eds.) <em>Teacher Leadership and Professional Development.</em> Abingdon: Routledge. p1-8.</p>
+<p>Alexandrou, A.,<strong> Swaffield, S. </strong>and MacBeath, J. (2013) ‘Scottish Teacher Leaders: Two accidental journeys enacting Leadership for Learning’ in A. Alexandrou and S. Swaffield (Eds.) <em>Teacher Leadership and Professional Development</em>. Abingdon: Routledge. p215-230.</p>
+<p>MacBeath, J. and<strong> Swaffield, S. </strong>(2013) ‘Living with the colonial legacy: the Ghana story’ in S. Clarke and T. O’Donoghue (Eds.) <em>School Level Leadership in Post-Conflict Societies</em>. Abingdon: Routledge. p49-63.</p>
+<p><strong>Swaffield, S. </strong>and MacBeath, J. (2013) ‘Leadership for Learning’ in Wise, C., Bradshaw, P and Cartwright, M. (Eds.) <em>Leading Professional Practice in Education.</em> Milton Keynes: The Open University, and London: Sage. p9-24.</p>
+<p>MacBeath, J., <strong>Swaffield, S., </strong>Oduro, G. and Ampah-Mensah, A. (2012) ‘Building Leadership Capacity, Enhancing Learning and Teaching in Ghanaian Basic Schools’ in J. MacBeath and M. Younger (Eds.) <em>A Common Wealth of Learning: Millennium Goals Revisited.</em> Abingdon: Routledge. p49-60.<br>
+<strong><br>
+Swaffield, S. </strong>(2011) 'Leading assessment for learning' in T. Townsend and J. MacBeath (Eds.) <em>International Handbook of Leadership for Learning.</em> Rotterdam: Springer.</p>
+<p>Dudley, P. and <strong>Swaffield, S.</strong> (2008) Understanding and using assessment data, in S. Swaffield, (Ed) <em>Unlocking Assessment: Understanding for reflection and application.</em> London: Routledge.</p>
+<p><strong>Swaffield, S.</strong> (Ed) (2008) <em>Unlocking Assessment: Understanding for reflection and application.</em> London: Routledge.</p>
+<p><strong>Swaffield, S.</strong> (2008) Feedback - the central process in assessment for learning, in S. Swaffield (Ed) <em>Unlocking Assessment: Understanding for reflection and application.</em> London: Routledge.</p>
+<p><strong>Swaffield, S.</strong> and Dempster, N. (2008) A learning dialogue, in J. MacBeath and N. Dempster (Eds) <em>Connecting Leadership and Learning: Principles for practice.</em> London: Routledge.</p>
+<p><strong>Swaffield, S.</strong> and MacBeath, J. (2008) Leadership for Learning, in J. MacBeath and N. Dempster (Eds) <em>Connecting Leadership and Learning: Principles for practice.</em> London: Routledge.</p>
+<p>Frost, D. and <strong>Swaffield, S.</strong> (2008) Leadership for Learning: Lessons from a seven country project, in J. MacBeath and Y.C.Cheng (Eds) <em>Leadership for Learning: International Perspectives.</em> Rotterdam: Sense Publications.</p>
+<p>Pollard, A. with Anderson, J., Maddock, M., <strong>Swaffield, S.</strong>, Warin, J. and Warwick, P. (2008) <em>Reflective Teaching: Effective and evidence-informed professional practice,</em> 3rd ed<em>.</em> London: Continuum.</p>
+<p>James, M., Black, P., Carmichael, P., Drummond, M-J., Fox, A., MacBeath, J., Marshall, B., McCormick, R., Pedder, D., Procter, R., <strong>Swaffield, S.</strong>, Swann, J., and Wiliam, D. (2007) <em>Improving Learning How to Learn in classrooms, schools and networks</em>. London: Routledge.</p>
+<p>James, M., Black, P., Carmichael, P., Conner, C., Dudley, P., Fox, A., Frost, D., Honour, L., MacBeath, J., McCormick, R., Marshall, B., Pedder, D., Procter, R., <strong>Swaffield, S.</strong> and Wiliam, D. (2006) <em>Learning How to Learn: tools for schools</em>. London: Routledge.</p>
+<p>MacBeath, J., Gray, J., Cullen, J., Frost, D., Steward, S. and <strong>Swaffield, S.</strong> (2006) <em>Schools on the Edge: Responding to challenging circumstances.</em> London: Paul Chapman.</p>
+<p>Pollard, A. with Collins, J., Maddock, M., Simco, N., <strong>Swaffield, S.</strong>, Warin, J., and Warwick, P. (2005) <em>Reflective Teaching: Effective and evidence-informed professional practice,</em> 2nd ed<em>.</em> London: Continuum.</p>
+<p><strong>Swaffield, S.</strong> and Dudley, P. (2003) <em>Assessment Literacy For Wise Decisions,</em> 2nd ed. London: ATL.</p>
+<p>Harrison, C. and <strong>Swaffield, S.</strong> (2003) Formative Assessment in Action, in Richardson, C. (Ed) <em>Whither Assessment?</em> London: Qualifications and Curriculum Authority</p>
+<p>Pollard, A. with contributions by Collins, J., Simco, N., <strong>Swaffield, S.</strong>, Warin, J., and Warwick, P. (2002) <em>Reflective Teaching: Effective and evidence-informed professional practice.</em> London: Continuum.</p>
+<p><strong>Swaffield, S.</strong> and Dudley, P. (2002) <em>Assessment Literacy For Wise Decisions.</em> London: ATL.</p>
+<p><strong>Swaffield, S.</strong> (1999) The Role of the LEA in Supporting Assessment in the Primary School, in Conner, C. (Ed) <em>Assessment in Action in the Primary School</em>. London: Falmer Press.</p>
+
+
+   </div>
+</div>
+<!-- Quick Links / right hand menu when not on front page--><div class="campl-column2 campl-secondary-content educrightmenucontainer" style="min-height: 4059px; display: block;"><div class="/*campl-content-container*/ educrightmenu"><div style="text-align: center;"><h1 style="border: none;">Sue Swaffield</h1></div><div style="margin-top: 2px; text-align: center;">
+      <img src="/images/staff/swaffield_sue.jpg" alt="image of staff member" style="width: 150px; height: 180px;">
+   <hr>
+   </div>
+   
+
+<ul>
+   <li><a href="#profile">Profile</a></li>
+   <li><a href="#research">Research</a></li>
+   <li><a href="#teaching">Teaching</a></li>
+   <li><a href="#publications">Selected Publications</a></li>
+</ul>
+</div>
+
+</div></div></div><!-- END: Quick Links / right hand menu when not on front page --><!-- .campl-local-footer starts -->
+   <div class="campl-row campl-local-footer">
+      <div class="campl-wrap clearfix">
+
+         <div style="border-top: 1px solid #ffffff; margin-bottom: 20px; width: 32%; margin-right: 10px; float: right;">
+            <span style="float: right;"><a href="#top">^ Back To Top</a></span>
+                     </div>
+
+         <div class="campl-column3 campl-footer-navigation" style="height: 258px;">
+            <div class="campl-content-container campl-navigation-list">
+               <h3><a href="/about/">About</a></h3> 
+               <ul class="campl-unstyled-list">
+               <li><a href="/about/reachus/">Map &amp; How To Reach Us</a></li>
+                                    </ul>
+            </div>
+            <div class="campl-content-container campl-navigation-list">
+               <h3><a href="/courses/">Study with Us</a></h3> 
+               <ul class="campl-unstyled-list">
+               <li><a href="/courses/undergrad/">Undergraduate Study</a></li>
+                     <li><a href="/courses/pgce/">PGCE Study</a></li>
+                     <li><a href="/courses/graduate/">Graduate Study</a></li>
+                     <li><a href="/courses/ppd/">Practitioner Professional Development</a></li>
+                                    </ul>
+            </div>
+         </div>
+         <div class="campl-column3 campl-footer-navigation" style="height: 258px;">
+            <div class="campl-content-container campl-navigation-list">
+               <h3><a href="/research/">Research</a></h3> 
+               <ul class="campl-unstyled-list">
+               <li><a href="/research/areas/">Research Areas</a></li>
+    <li><a href="/events/#researchseminars">Open Research Seminars</a></li>
+	<li><a href="/research/workingpapers/">Working Paper Series</a></li>
+	<li><a href="/research/projects/">Research Projects</a></li>
+	<li><a href="/research/academicgroups/">Academic Groups</a></li>
+	<li><a href="/research/publications/">Publications</a></li>
+               </ul>
+            </div>
+            <div class="campl-content-container campl-navigation-list">
+               <h3><a href="/centres/">Centres &amp; Networks</a></h3> 
+               <ul class="campl-unstyled-list">
+                           </ul></div>
+         </div>
+
+         <div class="campl-column2 campl-footer-navigation">
+            <div class="campl-content-container campl-navigation-list">
+               <h3><a href="/services/index.html">Services</a></h3> 
+               <ul class="campl-unstyled-list">
+               <li><a href="/services/it/">IT Service</a></li>
+                     <li><a href="/services/avs/">AV Support Service</a></li>
+                     <li><a href="/services/external-bookings/">External Bookings</a></li>
+               </ul>
+            </div>
+            <div class="campl-content-container campl-navigation-list">
+               <h3><a href="/people/">People</a></h3> 
+               <ul class="campl-unstyled-list">
+                              </ul>
+            </div>
+            <div class="campl-content-container campl-navigation-list">
+               <h3><a href="/library/">Library</a></h3> 
+               <ul class="campl-unstyled-list">
+                              </ul>
+            </div>
+         </div>
+
+         <div class="campl-column2 campl-footer-navigation">
+            <div class="campl-content-container campl-navigation-list">
+               <h3 class="block-title"><a href="/contact/" class="block-title-link">Connect with us</a></h3>
+               <ul>
+                  <li><a class="cam-social-media-icon cam-twitter-icon" href="https://twitter.com/CambridgeEdFac" target="top">Twitter</a></li>
+                  <li><a class="cam-social-media-icon cam-facebook-icon" href="https://www.facebook.com/University-of-Cambridge-Faculty-of-Education-115856555116845/" target="top">Facebook</a></li>
+                  <li><a class="cam-social-media-icon cam-youtube-icon" href="https://www.youtube.com/CambridgeEDUC" target="top">Youtube</a></li>
+               </ul>
+            </div>
+         </div>
+
+         <div class="campl-column2 campl-footer-navigation">
+            <div class="campl-content-container campl-navigation-list" style="color: white;">
+            <h3>Our Address</h3>
+            184 Hills Road, Cambridge, CB2 8PQ, UK<br>
+            <strong>+44 (0)1223 767600</strong><br><br>
+            <a href="/about/reachus/">Map &amp; How to Reach Us</a>
+            </div>
+         </div>
+
+      </div>   
+   </div>
+<!-- .campl-local-footer ends -->
+<!-- .campl-global-footer begins -->
+   <div class="campl-row campl-global-footer">
+      <div class="campl-wrap clearfix">
+         <div class="campl-column3 campl-footer-navigation" style="height: 221px;">
+            <div class="campl-content-container campl-footer-logo">
+               <img alt="University of Cambridge" src="/images/template-images/main-logo-small.png" class="campl-scale-with-grid">
+               <p>© 2017 University of Cambridge</p>
+                  <ul class="campl-unstyled-list campl-global-footer-links">
+                     <li>
+                        <a href="http://www.cam.ac.uk/university-a-z">University A-Z</a>
+                     </li>
+                     <li>
+                        <a href="http://www.cam.ac.uk/contact-the-university">Contact the University</a>
+                     </li>
+                     <li>
+                        <a href="http://www.cam.ac.uk/about-this-site/accessibility">Accessibility</a>
+                     </li>
+                     <li>
+                        <a href="http://www.admin.cam.ac.uk/univ/information/foi/">Freedom of information</a>
+                     </li>
+                     <li>
+                        <a href="http://www.cam.ac.uk/about-this-site/terms-and-conditions">Terms and conditions</a>
+                     </li>
+                  </ul>
+            </div>
+         </div>
+         <div class="campl-column3 campl-footer-navigation" style="height: 221px;">
+            <div class="campl-content-container campl-navigation-list">
+
+               <div class="link-list">
+                  <h3><a href="">Study at Cambridge</a></h3> 
+                  <ul class="campl-unstyled-list">
+                     <li>
+                        <a href="http://www.study.cam.ac.uk/undergraduate/">Undergraduate</a>
+                     </li>
+                     <li>
+                        <a href="http://www.admin.cam.ac.uk/students/gradadmissions/prospec/">Graduate</a>
+                     </li>
+                     <li>
+                        <a href="http://www.cam.ac.uk/about-the-university/international-cambridge/studying-at-cambridge">International students</a>
+                     </li>
+                     <li>
+                        <a href="http://www.ice.cam.ac.uk">Continuing education</a>
+                     </li>
+                     <li>
+                        <a href="http://www.admin.cam.ac.uk/offices/education/epe/">Executive and professional education</a>
+                     </li>
+                     <li>
+                        <a href="http://www.educ.cam.ac.uk">Courses in education</a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         <div class="campl-column3 campl-footer-navigation" style="height: 221px;">
+            <div class="campl-content-container campl-navigation-list">
+               <h3><a href="http://www.cam.ac.uk/about-the-university">About the University</a></h3> 
+               <ul class="campl-unstyled-list campl-page-children">
+                  <li>
+                     <a href="http://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work">How the University and Colleges work</a>
+                  </li>
+                  <li>
+                     <a href="http://www.cam.ac.uk/about-the-university/visiting-the-university">Visiting the University</a>
+                  </li>
+                  <li>
+                     <a href="http://map.cam.ac.uk">Map</a>
+                  </li>
+                  <li>
+                     <a href="http://www.cam.ac.uk/news">News</a>
+                  </li>
+                  <li>
+                     <a href="http://www.admin.cam.ac.uk/whatson">Events</a>
+                  </li>
+                  <li>
+                     <a href="http://www.jobs.cam.ac.uk">Jobs</a>
+                  </li>
+                  <li>
+                     <a href="http://www.philanthropy.cam.ac.uk">Giving to Cambridge</a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <div class="campl-column3 campl-footer-navigation last" style="height: 221px;">
+            <div class="campl-content-container campl-navigation-list">
+               <h3><a href="http://www.cam.ac.uk/research">Research at Cambridge</a></h3> 
+               <ul class="campl-unstyled-list">
+                  <li>
+                     <a href="http://www.cam.ac.uk/research/news">News</a>
+                  </li>
+                  <li>
+                     <a href="http://www.cam.ac.uk/research/features">Features</a>
+                  </li>
+                  <li>
+                     <a href="http://www.cam.ac.uk/research/discussion">Discussion</a>
+                  </li>
+                  <li>
+                     <a href="http://www.cam.ac.uk/research/spotlight-on">Spotlight on...</a>
+                  </li>
+                  <li>
+                     <a href="http://www.cam.ac.uk/research/research-at-cambridge">About research at Cambridge</a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </div>   
+   </div>
+<!-- .campl-global-footer ends -->
+
+
+<script src="/sitetech/common_code/js/library.js"></script>
+
+
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-7391405-17', 'auto');
+  ga('send', 'pageview');
+</script><script type="text/javascript">
+setContentColumnHeight();
+</script>
+
+
+</body></html>

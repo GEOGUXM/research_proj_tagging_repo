@@ -1,0 +1,85 @@
+Skip over navigation
+Chemical and Biological Engineering
+Home
+About Us
+Graduates
+Undergraduates
+Research
+People
+Faculty
+Aksay
+Avalos
+Benziger
+Brangwynne
+Brun
+Brynildsen
+Datta
+Debenedetti
+Kevrekidis
+Koel
+Link
+Loo
+Nelson
+Panagiotopoulos
+Priestley
+Prud'homme
+Register
+Shvartsman
+Sundaresan
+Bourg
+Carter
+Petry
+Stone
+Steingart
+Toettcher
+White
+Wühr
+Emeritus Faculty
+Administrative Staff
+Research and Technical Staff
+Postdoctoral Fellows and Visiting Researchers
+Graduate Students
+Class Pictures
+News
+Events
+
+Home People Faculty Aksay
+Ilhan A. Aksay
+Professor of Chemical and Biological Engineering
+B.S., Ceramic Engineering, University of Washington, 1967
+M.S., Materials Science and Engineering, University of California at Berkeley, 1969
+Ph.D., Materials Science and Engineering, University of California at Berkeley, 1973
+Room: A326 Engineering Quad
+Phone: 609-258-4393
+Email: iaksay@princeton.edu
+Webpage: Ceramic Materials Laboratory
+Honors and Awards
+National Academy of Inventors, 2014
+American Association for the Advancement of Science, 2012
+Science Academy (Turkey), 2012
+Turkish Academy of Sciences (TÜBA), 2010
+National Academy of Engineering, 2010
+National (Turkish) Medal of Science, TÜBITAK, Turkey, 2001
+Edward C. Henry Award, the American Ceramic Society, 2000
+Charles M.A. Stine Award, American Institute of Chemical Engineers, 1997
+The Puget Sound Academic Engineer of the Year, the State of Washington, 1988
+Richard M. Fulrath Award, American Ceramic Society, 1987
+Concurrent University Appointments
+Associated Faculty, Department of Civil and Environmental Engineering
+Associated Faculty, Department of Mechanical and Aerospace Engineering
+Associated Faculty, Princeton Environmental Institute
+Publications
+Research Areas
+Materials Synthesis, Processing, Structure and Properties
+Research Interests
+Materials processing with complex fluids is the central theme of our research activities. Complex fluids such as colloids and/or amphiphilic solutions spontaneously self-assemble to produce ordered nanostructures, an essential step in the design and processing of materials [D.M. Dabbs, I.A. Aksay, Annu. Rev. Phys. Chem. 51 601 (2000)]. Many of our activities draw inspiration from biological systems (see following figure) [R.Z. Wang, Z. Suo, A.G. Evans, N. Yao, I.A. Aksay, J. Mater. Res. 16 2485 (2001)]. Like the biological analogs that provide inspiration, our goal is to shape new systems that are multifunctional, "smart" in their ability to detect and respond to changes in environmental conditions, and capable of self-healing.
+Guided self-assembly of nanostructured composites. Although self-assembly provides locally ordered nanostructures similar to those observed in biological systems, global order is not attained due to the statistical nature of the ordering process. We explore the role of electrohydrodynamic effects to guide the global order by a variety of techniques that have derived their fundamental understanding from joint studies with D.A. Saville [W.D. Ristenpart, I.A. Aksay, D.A. Saville, Phys. Rev. Lett. 90 128303 (2003)]. Colloidal patterning through cone-jet printing is one technique that offers the potential to produce patterns at the nanometer scale rapidly and over large areas.
+Self-healing materials. Man-made materials lack the ability for self-repair; whereas biologically produced materials sense and repair defects through cellular activities. Concepts generated from model studies provide new approaches for the development of man-made materials with self-repair functions. Our synthetic analogs are built with arrays of microreactors through pixelated structures similar to those used in LCD technology. For instance, when an organic/inorganic hybrid coating is damaged, the damaged region heals spontaneously [N. Yao, A.Y. Ku, H. Nakagawa, T. Lee, D.A. Saville, I.A. Aksay, Chem. Mater. 12 1536 (2000)]. Further, the rate of self-repair is enhanced with the application of weak electrical fields (~102 V/m). In a second example, we partially mimic the process of blood clotting as a process of colloidal aggregation at a defect site. We then make this a permanent protective layer, for instance, through the electrodeposition of a metal binder in the interstitials of the colloidal aggregate. In both approaches the mechanisms are not yet fully understood.
+Microsensors and actuators. Our goal is to develop arrays of piezoelectric microcantilevers (e.g., PbO-ZrO2-TiO2 (PZT)) that replicate the process of gathering physical and chemical metrics in vivo. We explore the feasibility of using arrays of nanocomposite microcantilevers [C.R. Martin, I.A. Aksay, J. Phys. Chem. B 107 4261 (2003)] as biosensors that are capable of simultaneously measuring, in real time, multiple biophysical and biochemical properties of fluids in the human body [W.Y. Shih, X. Li, H. Gu, W.-H. Shih, I.A. Aksay, J. Appl. Phys. 89 1497 (2001)]. A nanostructured coating (L3 templated silica) gives enhanced sensitivity due to the presence of features from 5 to 30 nm in size that, in turn, give rise to a large effective surface-area (>1000 m2/g).
+
+(a, b, c) Tabular and layered structure of nacre from abalone shown at three magnifications. (d, e) Distributed deformation, displayed by the opening of gaps between all tablets by a fixed strain, is regulated through nanoscaled pillars (d) and asperities (e). (f) A synthetic model.
+© 2017 The Trustees of Princeton University
+The Department of Chemical and Biological Engineering
+Princeton, NJ 08544
+Feedback: checomp@princeton.edu
+Last update: October 27, 2010

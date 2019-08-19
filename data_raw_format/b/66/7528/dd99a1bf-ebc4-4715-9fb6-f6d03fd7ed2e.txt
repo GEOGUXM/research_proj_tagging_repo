@@ -1,0 +1,79 @@
+JUMP TO DEPARTMENT & PROGRAM WEBSITES
+Applied & Computational Mathematics
+Applied Mathematics & Statistics
+Applied Physics
+Arts & Sciences
+Bioengineering Innovation & Design
+Biomedical Engineering
+Chemical & Biomolecular Engineering
+Civil Engineering
+Computational Medicine
+Computer Integrated Surgery
+Computer Science
+Cybersecurity / Security Informatics
+Data Science
+Electrical & Computer Engineering
+Engineering for Sustainable Development
+Engineering Management
+Entrepreneurship & Management
+Environmental Engineering
+Environmental Engineering, Science & Management
+Financial Mathematics
+General Engineering
+Geography
+Information Systems Engineering
+Materials Science & Engineering
+Mechanical Engineering
+Nanobiotechnology
+Robotics
+Space Systems, Space Science and Aerospace
+Systems Engineering
+Systems Science & Engineering
+Technical Management
+EXPLORE ALL FIELDS OF STUDY ›
+Electrical and Computer Engineering
+APPLY
+MAKE A GIFT
+ABOUT
+PEOPLE
+RESEARCH
+UNDERGRADUATE STUDIES
+GRADUATE STUDIES
+NEWS & EVENTS
+ALUMNI & GIVING
+MODERNIZATION
+FACULTY
+Rene Vidal
+PROFESSOR
+Primary Appointment: Biomedical Engineering
+Research Interests
+Biomedical image analysis: Surgical gesture and skill recognition, analysis of high angular resolution diffusion imaging (HARDI), classification of stem cell derived cardiac myocytes, interactive medical image segmentation
+Computer vision: camera sensor networks, activity recognition, dynamic texture segmentation and recognition, 3D motion segmentation, non-rigid shape and motion analysis, structure from motion and multiple view geometry, omnidirectional vision
+Machine learning: manifold clustering, kernels on dynamical systems, GPCA, kernel GPCA, dynamic GPCA
+Dynamical systems: observability, identification, realization, metrics and topology for hybrid systems
+Robotics: formation control of teams of non-holonomic robots, coordination and control of multiple autonomous vehicles for pursuit-evasion games, multiple view motion estimation and control for landing an unmanned aerial vehicle
+Signal processing: consensus on manifolds, distributed optimization, compressive sensing.
+Bio
+Awards and Honors
+2012:  Best Paper Award for paper entitled “Intrinsic Consensus on SO(3) with Almost-Global Convergence – ” IEEE Conference on Decision and Control – 2012
+2012:  Best Paper Award in Medical Robotics and Computer Assisted Interventions for paper entitled ‘Surgical Gesture Classification from Video Data’ – MICCAI 2012
+2012:  J. K. Aggarwal Prize “for outstanding contributions to generalized principal component analysis (GPCA) and subspace clustering in computer vision and pattern recognition – ” 2012
+2011:  Best Paper Award Finalist for paper entitled ‘Average Consensus on Riemannian Manifolds with Bounded Curvature’ – 50th IEEE Conference on Decision and Control – 2011
+  Secondary Appointment: Department of Electrical and Computer Engineering
+Back to All Faculty
+CV
+Clark Hall 302B
+Email
+Office (410) 516-7306
+Departmental Website
+Laboratory Website
+FOLLOW US
+RT @JMessersmith_JH: Robots, nanoparticles & the Ebola suit, oh my! #HopkinsontheHill is TONIGHT. Come support federally-funded research! h… 21 hours
+Johns Hopkins University, Whiting School of Engineering
+3400 North Charles Street, Baltimore, MD 21218-2608
+410-516-7031
+contactece@jhu.edu
+Whiting School of Engineering
+Johns Hopkins University
+Legal
+© 2017 Johns Hopkins University

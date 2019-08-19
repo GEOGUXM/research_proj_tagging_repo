@@ -1,0 +1,49 @@
+Skip to Content
+Skip to Navigation
+
+Faculty / Research
+DAVID TALMAGE, B.A.,PHD
+Professor 
+ Ph.D. University of Minnesota
+B.A., University of Virginia
+david.talmage@stonybrook.edu
+Genetically modified mouse models of neuropsychiatric diseases: how does signaling by axonal NRG1 proteins regulate the development, maturation and plasticity of key cortical – limbic circuits.
+OverviewBiographyPublicationResearch GroupLab PageContact Information
+  Neuropsychiatric disorders affect a significant percentage of the population, placing an immense burden on patients, families and society.  Although it is clear that there are complex genetic and environmental interactions associated with risk of developing these disorders, we know little about their actual causes; lack effective treatments and cures remain a distant goal.
+My lab develops and uses genetically modified mice to study genes implicated in neuropsychiatric diseases with the goal of understanding of the products of these genes contributes to the etiology neuropsychiatric disease. We are studying how signaling by axonal proteins regulates the targeting, survival and functional maturation of subpopulations of neurons affected in schizophrenia. Our current focus is on two schizophrenia susceptibility genes, NRG1 and ERBB4.  By combining our expertise in mouse genetic models, molecular biology and cell signaling, with the expertise in circuit electrophysiology of the laboratory of Dr. Lorna Role (Dept of Neurobiology and Behavior), we are able to use molecular, electrophysiological and behavioral approaches to understand the functions of NRG1 – ERBB4 in the development, maturation and plasticity of key cortical – limbic circuits.
+  The NRG1 gene encodes a family of at least 20 different proteins that serve as ligands for members of the ERBB family of receptor tyrosine kinases. The Type III subfamily of NRG1 isoforms stand out for a number of reasons: they are predominantly neuronal, they are membrane tethered rather than released from the cell surface; they are targeted to both axonal and dendritic compartments, and they both activate ERBB receptors and as function as receptors.  Thus, the Type III NRG1 isoforms are bi-directional, juxtacrine signaling molecules that mediate interactions between Type III NRG1 expressing neurons and ERBB expressing neurons and glia. We are dissecting the contribution of each of these signaling strategies to the formation, maintenance and plasticity of excitatory synapse onto striatal neurons.  Additionally, we are probing the role of NRG1 – ERBB4 signaling in regulating the cholinergic modulation of these synapses, both by studying the expression, axonal targeting and function of nicotinic acetylcholine receptors, and in the development of basal forebrain cholinergic neurons.
+Fig 1: Illustration of our working model of NRG1 – ERBB4 bidirectional signaling at a glutamatergic synapse.  Axonal Type III NRG1 binds to ERBB4 on dendrites, activating “forward signaling” pathways that affect the synthesis and / or targeting of post-synaptic glutamate receptors (GluR).  In addition, the axonal Type III NRG1 stimulates “back-signaling” in the presynaptic neuron.  In this context, Type III NRG1 activates local PI3K signaling and following cleavage by gamma secretase, the NRG1 intracellular domain is retrogradely transported to the nucleus where is regulates transcription.
+ Fig 2: Neuron following stimulation of “back-signaling” stained with antibodies recognizing Type III NRG1 (green) or phosphatidylinositol 3- trisphosphate (PIP3; red).  Clusters of Type III NRG1 and PIP3 are seen along the axon (arrows); the cell body is at the left (DAPI stained nucleus).
+   Fig 3: Confocal image (single 1 micron section in the z-plane) of Type III NRG1 expressing cell stained with antibodies recognizing either the extracellular (green, HA epitope) or the intracellular (red) domains of Type III NRG1.  Extracellular and intracellular staining on the surface are largely co-incident under control conditions (left).  Following interaction with ERBB4 surface the NRG1-intracellular domain is lost from the surface while the extracellular domain remains (middle panel).  The release of the NRG1-intracellular domain is not seen when gamma secretase activity is inhibited (right panel).
+
+Faculty / Research
+Graduate Program
+Undergraduate Program
+News & Events
+About the Department
+Resources
+Research Category
+Cancer
+Metabolic Disorders
+Mitochondrial Biology
+Neuropharmacology
+Signaling
+Research Subcategory
+Aging
+Cardiovascular
+Chemical Biology
+DNA Damage Repair
+Diabetes
+Environmental Toxicology
+Fertility
+Infectious Diseases
+Lipid Biology
+Multiple Sclerosis
+Spinal Cord Repair
+Stem Cells
+Stroke
+© 2016 SUNY Stony Brook Department of Pharmacology. All Rights Reserved.
+Department of Pharmacological Sciences
+Stony Brook University Medical School, BST 8-140
+Stony Brook, NY 11794-8651
+Phone: (631) 444-3050     Fax: (631) 444-9749      Contact Us

@@ -1,0 +1,886 @@
+<html lang="en"><!--<![endif]--><!--[if gte IE 9]>
+<style type="text/css">
+	.gradient {
+		filter: none;
+	}
+</style>
+<![endif]--><head>
+    <!-- Basic Page Needs
+================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+    
+
+
+<title>Panos Papalambros</title>  <meta name="Keywords" content="Integrative Systems + Design,College of Engineering,University of Michigan">
+<meta name="Description" content="Integrative Systems + Design,College of Engineering,University of Michigan">
+
+	<meta name="author" content="">
+
+	<!--[if lt IE 9]>
+		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+     <!-- CSS
+   ================================================== -->
+    	<link href="/style/css/base.css" rel="stylesheet" type="text/css">
+    <link href="/style/css/screen.css" rel="stylesheet" type="text/css">
+    <link href="/style/css/skeleton.css" rel="stylesheet" type="text/css">
+        <link href="/style/css/mediaelementplayer.css" rel="stylesheet" type="text/css">
+        <link href="/style/css/style-all.css" rel="stylesheet" type="text/css" media="all">
+    <!--[if IE 7]><link href="/style/css/ie8.css" rel="stylesheet" ><![endif]-->
+    <!--[if IE 8]><link href="/style/css/ie8.css" rel="stylesheet" ><![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	<link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+    <!-- Fonts
+	================================================== -->
+    <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900,200,300,600|Open+Sans:400,700,400italic,700italic,300,300italic,600,600italic" rel="stylesheet" type="text/css">
+
+        <link rel="image_src" href="//confluence.engin.umich.edu/download/attachments/21103180/isd-source-image.gif">
+
+    <!-- Scripts -->
+    <!-- jQuery library (served from Google) -->
+<script type="text/javascript" src="http://w.sharethis.com/button/p.js" async=""></script><script type="text/javascript" id="www-widgetapi-script" src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vflPSGdpW/www-widgetapi.js" async=""></script><script src="https://www.youtube.com/iframe_api"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="http://www.google.com/cse/cse.js?cx=015606070185334858993:t2l7qbfqm8m"></script><script type="text/javascript" id="async-buttons" src="http://w.sharethis.com/button/async-buttons.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js" type="text/javascript"></script>
+    <script src="/style/js/jquery.loadmask.js" type="text/javascript"></script>
+<link href="/style/css/jquery.loadmask.css" rel="stylesheet" type="text/css">
+    <script src="/style/js/core.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/style/css/fullcalendar.css" type="text/css">
+    <!-- for homepage slideshow -->
+    <script src="/style/js/jquery.printElement.js" type="text/javascript"></script>
+    <script src="/style/js/jQuery.extensions.js" type="text/javascript"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.hoverintent/1.8.1/jquery.hoverIntent.min.js" type="text/javascript"></script>
+
+<!-- for drop down mega-menus -->
+    <script type="text/javascript">
+    $(function($)
+    {
+        var AccordionSection = {
+            init: function ()
+            {
+                setMainContentMinHeight();
+                setWidth();
+                initHandler();
+
+                function setMainContentMinHeight()                   {
+                    var sidebar = $('.container > div.columns.four.sidebar').length ? $('.container > div.columns.four.sidebar') : $('.container > div.columns.five.sidebar');
+                    if(sidebar.length)
+                    {
+                        var topRightHt = sidebar.height() + 100;
+                        var columnToModify = $('.container > div#page-content.columns.twelve').length ?  $('.container > div#page-content.columns.twelve') :  $('.container > div#page-content.columns.eleven');
+                        columnToModify.css('min-height', topRightHt);
+                    }
+                }
+
+            
+                function setWidth()
+                {
+                    $('div.mobile-accordion').each(function ()
+                    {
+                        var width = $(this).width();
+                        $(this).find('h3.mobile-title a').addClass('accordion-section-title');
+                        $(this).find('div.mobile-content').first().addClass('accordion-section-content');
+                    });
+                }
+
+                function initHandler()
+                {
+                    $('.accordion-section-title').click(function (e)
+                    {
+                        // Grab current anchor value
+                        var self = this;
+                        ($(e.target).is('.active'))
+                                ? close()
+                                : open();
+
+                        function close()
+                        {
+                            $(self).removeClass('active');
+                            $(self).parents('.mobile-accordion').removeClass('active');
+                            $(self).parents('.mobile-accordion').find($(self).attr('href')).slideUp(300).removeClass('open');
+                        }
+
+                        function open()
+                        {
+                            $(self).addClass('active');
+                            $(self).parents('.mobile-accordion').addClass('active');
+                            $(self).parents('.mobile-accordion').find($(self).attr('href')).slideDown(300).addClass('open');
+                        }
+
+                        e.preventDefault();
+                        return false;
+                    });
+                }
+            }
+        }
+        AccordionSection.init();
+    });
+</script>
+
+<style type="text/css">     .isd-collapsible-main-title{
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 23px;
+        color: #2173aa;
+        margin-bottom: 5px;
+    }
+    .isd-collapsible-panel-body{
+        padding: 3px 0 2px 0;
+        background-color: #ffffff;
+    }
+    .isd-collapsible-panel-title{
+        font-size: 12pt;
+        font-weight: bold;
+        margin-bottom: 10px;
+        padding-left: 15px;
+        padding-top: 5px;
+    }
+        .isd-collapsible-space-between-panels{
+        margin-top: 15px;
+    }
+</style>       <!-- for drop down mega-menus -->
+<script type="text/javascript" src="/style/js/megamenu/jquery.flexnav.min.js"></script><!-- jQuery -->
+<script type="text/javascript">
+    $(document).ready(function ($)
+    {
+        $(".flexnav").flexNav({
+            'animationSpeed': 250, // default for drop down animation speed
+            'transitionOpacity': true, // default for opacity animation
+            'buttonSelector': '.menu-button', // default menu button class name
+            'hoverIntent': true, // Change to true for use with hoverIntent plugin
+            'hoverIntentTimeout': 150, // hoverIntent default timeout
+            'calcItemWidths': false, // dynamically calcs top level nav item widths
+            'hover': true // would you like hover support?
+        });
+
+        $('#main-menu nav > ul > li.item-with-ul > a').on("click", function(event) {
+            $(this).next('ul').hide();
+        })
+    });
+</script>
+         
+<!--  for revolution slider -->
+    <script src="/style/js/SliderRevolution/rs-plugin/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+<script src="/style/js/SliderRevolution/rs-plugin/js/jquery.themepunch.revolution.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/style/js/SliderRevolution/rs-plugin/css/settings.css" media="screen">
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/enquire.js/2.1.2/enquire.min.js"></script>
+   
+    <script src="/style/js/shadowbox.js" type="text/javascript"></script>
+<script type="text/javascript">
+    Shadowbox.init({
+        enableKeys: false,
+        overlayColor: "#FFF"
+    });
+</script>
+<style type="text/css">
+    /*
+      This css is to take out the anchor-look for the bottom
+      four .bottom-img links.
+    */
+    a.bottom-img {
+      cursor: default;
+    }
+
+        #eventList div.overview {display:none;}
+    .loading-ph {background: url("/style/css/loading.gif") no-repeat center; background-size: contain;}
+
+    #grad-menu {
+        overflow-y: scroll;
+        overflow-x: visible;
+    }
+
+    #grad-menu::-webkit-scrollbar {display: none}
+
+    #grad-menu > li {
+        position: relative;
+    }
+    .floatRight {
+        float: right !important;
+    }
+
+
+/*# sourceMappingURL=shadowbox.css.map */
+
+  </style>
+
+
+<!-- for tabbed course descriptions -->
+<script src="/style/js/organictabs.jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function()
+    {
+        $('#details p a[href^="#"], #compare table a[href^="#"]').click(function()
+        {
+            $('.nav  a[href="' + $(this).attr('href')+'"]').trigger('click');
+            return false;
+        });
+
+        if($('#tabWidget').length)
+        {
+            $("#tabWidget").addClass('isd-organic-tabs');
+        }
+        $(".isd-organic-tabs").organicTabs({
+            "speed": 200
+        });
+
+        $('ul.nav li a').on('click', function() {
+            $(this).parent('li').siblings('li').removeClass('current');
+            $(this).parent('li').addClass('current');
+        });
+
+
+        // if path has a page anchor '#', parse it, use it to trigger click
+        var url = getDocumentURL();
+        var psFnd = url.lastIndexOf('#');
+        if (psFnd > 0)
+        {
+                                    var anchorName = url.substring(psFnd).toLowerCase();
+            var navAnchor = $('ul.nav a[href^="' + anchorName + '"]');              if ($(anchorName).length > 0 && navAnchor.length > 0) {                     navAnchor.first().trigger('click');
+            }
+        }
+    });
+</script>
+<!-- for Social Share -->
+<script type="text/javascript">var switchTo5x = true;</script>
+<script type="text/javascript" src="//w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "6cea52f7-f704-49e7-bc5b-785ea7cc19d8", doNotHash: false, doNotCopy: true, hashAddressBar: false});</script>
+
+	
+
+<script>
+    (function() {
+        var cx = '015606070185334858993:t2l7qbfqm8m';
+        var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//www.google.com/cse/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+    })();
+</script>
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-1270233-13']);
+        _gaq.push(['_setDomainName', 'umich.edu']);
+        _gaq.push(['_trackPageview']);
+
+    (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+    })();
+
+    var videoPlay = false;
+    var videoPlayHalfway = false;
+
+        var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+    //setup youtube player object
+    var player;
+        function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+            events: {
+                'onReady': onPlayerReady,
+                'onStateChange': onPlayerStateChange
+            }
+        });
+    }
+
+    //get video meta data upon player initialization
+    var videoTitle = "Failed to retrieve video title at url: " + window.location.pathname;
+    var videoDuration;
+
+    function onPlayerReady(event) {
+        var video_id = player.getVideoData().video_id;
+        var url = "https://gdata.youtube.com/feeds/api/videos/" + video_id + "?v=2&alt=json";
+        $.getJSON(url)
+                .done(function (data) {
+                    videoTitle = data.entry.title.$t;
+                });
+        videoDuration = player.getDuration();
+    }
+
+    //check player during change of state events
+    function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.PLAYING && !videoPlay) {
+            videoPlay = true;
+            _gaq.push(['_trackEvent', 'Videos', 'YouTube Play/Watch', "YouTube Play/Watch : " + videoTitle]);
+            //alert("YouTube video play: " + videoTitle);
+        }
+
+        if (player.getCurrentTime() / videoDuration >= 0.5 && !videoPlayHalfway) {
+            videoPlayHalfway = true;
+            _gaq.push(['_trackEvent', 'Videos', 'YouTube Play/Watch [Duration 50% or more]', "YouTube Play/Watch [Duration 50% or more] : " + videoTitle]);
+            //alert("YouTube video play halfway: " + videoTitle)
+        }
+    }
+
+    //check player during tab/window exit
+        $(window).bind('beforeunload', function () {
+        if (typeof player === 'object' && typeof player.getCurrentTime === 'function' && player.getCurrentTime() / videoDuration >= 0.5 && !videoPlayHalfway) {
+            videoPlayHalfway = true;
+            _gaq.push(['_trackEvent', 'Videos', 'YouTube Play/Watch [Duration 50% or more]', "YouTube Play/Watch [Duration 50% or more] : " + videoTitle]);
+            //return "YouTube video: " + videoTitle;
+        }
+        else if (videoPlay && !videoPlayHalfway) {
+            _gaq.push(['_trackEvent', 'Videos', 'YouTube Play/Watch [Duration less than 50%]', "YouTube Play/Watch [Duration less than 50%] : " + videoTitle]);
+        }
+    });
+
+    $(document).ready(function() {
+
+        var brochure = $("a.download.over-table2");
+                if (typeof brochure.get('0') !== 'undefined' && brochure.attr('href') !== false)
+        {
+            var brochureLabel = brochure.attr('href').split('/').pop();
+            brochure.bind('click', function() {
+                _gaq.push(['_trackEvent', 'Brochures', 'View Brochure', "View brochure: " + brochureLabel]);
+            });
+        }
+    })
+
+</script>
+
+
+<!-- Start of MouseFlow -->
+
+<script type="text/javascript">
+    var _mfq = _mfq || [];
+    (function () {
+        var mf = document.createElement("script");
+        mf.type = "text/javascript";
+        mf.async = true;
+        mf.src = "//cdn.mouseflow.com/projects/05c803c9-3a77-4ff6-a7c2-43e9497bf67f.js";
+        document.getElementsByTagName("head")[0].appendChild(mf);
+    })();
+</script><script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/05c803c9-3a77-4ff6-a7c2-43e9497bf67f.js"></script>
+
+<!-- End of MouseFlow -->
+  <script src="/style/js/responsive-components.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function() {
+        $('body.people').find('ul#bio').addClass('no-style');
+
+                $('#upcoming .register-link').hoverIntent({
+            over: function() {$(this).addClass('touch');},
+            out: function() {$(this).removeClass('touch');},
+            timeout: 1000
+        });
+
+        $('.isdCurtain').ourOwnCurtain();
+
+        $('.keywords-panel').ourOwnKeywordPanel({});
+
+        $(".collapsible-panel").ourOwnCollapsiblePanel({});
+
+        document.getElementById('footerDate').innerHTML = new Date().getFullYear();     });
+
+
+
+
+</script>    	<link rel="stylesheet" type="text/css" href="http://w.sharethis.com/button/css/buttons.e80452d5e7cc382dad89d10f50bde247.css"><iframe id="stSegmentFrame" name="stSegmentFrame" scrolling="no" sandbox="allow-scripts allow-same-origin" style="display:none;" width="0px" height="0px" frameborder="0"></iframe><script src="https://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A%221.0%22%2C%22callback%22%3A%22__gcse.scb%22%2C%22style%22%3A%22https%3A%2F%2Fwww.google.com%2Fcse%2Fstatic%2Fstyle%2Flook%2Fshiny.css%22%2C%22language%22%3A%22en%22%7D%5D%7D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/uds/api/search/1.0/890e228675e68570fa203500d9572ad4/default+en.css" rel="stylesheet"><link type="text/css" href="https://www.google.com/cse/static/style/look/shiny.css" rel="stylesheet"><script type="text/javascript" src="https://www.google.com/uds/api/search/1.0/890e228675e68570fa203500d9572ad4/default+en.I.js"></script><style type="text/css">
+</style></head>
+
+        
+
+<body class="people landing" data-using-parent-class="true">
+        <style type="text/css">
+    iframe[name='google_conversion_frame'] {
+    height: 0 !important;
+    width: 0 !important;
+    line-height: 0 !important;
+    font-size: 0 !important;
+    margin-top: -13px;
+    float: left;
+    position:absolute;
+}
+</style>
+<!-- START GENERIC Google AdWords Re-Marketing Script -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1062455576;
+    var google_conversion_label = "NnEwCKTMhQUQmJLP-gM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><iframe name="google_conversion_frame" title="Google conversion frame" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1062455576/?random=1498024298262&amp;cv=8&amp;fst=1498024298262&amp;num=1&amp;fmt=1&amp;label=NnEwCKTMhQUQmJLP-gM&amp;guid=ON&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1080&amp;u_aw=1920&amp;u_cd=24&amp;u_his=50&amp;u_tz=600&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;frm=0&amp;url=http%3A%2F%2Fisd.engin.umich.edu%2Fpeople%2Fpanos-papalambros&amp;tiba=Panos%20Papalambros" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" width="300" height="13" frameborder="0"></iframe>
+<!-- END GENERIC Google AdWords Re-Marketing Script -->
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1062455576/?value=0&amp;label=NnEwCKTMhQUQmJLP-gM&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+            <div id="top_wrapper" data-role="header" style="position: relative;">
+
+    <div id="header">
+        <div class="container">
+            <h1 id="isd-logo" class="six column alpha">
+                <a href="/">
+                    <!-- TODO: make images relative to ROOT, will do so later on -->
+                    <img src="//confluence.engin.umich.edu/download/attachments/30508410/isd-wordmark.png" alt="Integrative Systems + Design, College of Engineering, University of Michigan">
+                </a>
+            </h1>
+                            <ul id="audience-menu" class="ten column omega">
+	<li><a href="/degree-programs/student-resources.htm">Student Resources</a></li>
+	<li><a href="/projects">Company Sponsors</a></li>
+	<li><a href="/people/staff.htm">Staff</a></li>
+    <li><a href="/employment/index.htm">Employment</a></li>
+    <li><a href="https://www.giving.umich.edu/give/326959" target="_blank">Giving</a></li>
+</ul>
+                    </div>
+    </div>
+    <div id="main-menu">
+        <div class="page_wrapper container">
+                            <div id="search" class="columns four">
+                    <form method="get" action="http://www-search.engin.umich.edu/search" id="bannerSearch_menu">
+    <fieldset>
+        <input name="site" id="site" value="CoE-ISD" type="hidden">
+        <input name="client" id="client" value="isd_frontend" type="hidden">
+        <input name="output" id="output" value="xml_no_dtd" type="hidden">
+        <input name="proxystylesheet" id="proxystylesheet" value="isd_frontend" type="hidden">
+
+        <label for="q" id="searchLabel"></label>
+        <input accesskey="S" name="q" id="q" size="31" maxlength="255" tabindex="1" value="" type="text">
+        <input value="" type="submit">
+        <input name="proxyreload" id="proxyreload" value="1" type="hidden">
+    </fieldset>
+</form>
+
+
+                </div>
+                    <div class="menu-button">
+        <span class="menu-button-text">Menu</span>
+        <span class="touch-button hamburger">
+          <img src="http://confluence.engin.umich.edu/download/attachments/30508410/icon-menu-hamburger.png" alt="Open mobile menu" style="height: 25px; width: 25px;">
+        </span>
+    <span class="touch-button"><i class="navicon">▼</i></span></div>
+    <div class="mobile-menu-contact">
+        <a href="tel:7346477200" class="icon-phone">
+            <img src="http://confluence.engin.umich.edu/download/attachments/30508410/icon-menu-phone.png" alt="Call ISD">
+        </a>
+        <a href="/contact-us" class="contact" rel="shadowbox;width=530;height=600"><img src="http://confluence.engin.umich.edu/download/attachments/30508410/icon-menu-balloon.png" alt="Contact ISD"></a>
+    </div>
+    <nav class="mainmenu columns twelve">
+      <ul data-breakpoint="768" class="flexnav with-js opacity lg-screen">
+        <li id="search-mobile">
+          <form method="get" action="http://www-search.engin.umich.edu/search" id="bannerSearch_menu">
+            <fieldset>
+              <input name="site" id="site" value="CoE-ISD" type="hidden">
+              <input name="client" id="client" value="isd_frontend" type="hidden">
+              <input name="output" id="output" value="xml_no_dtd" type="hidden">
+              <input name="proxystylesheet" id="proxystylesheet" value="isd_frontend" type="hidden">
+
+              <label for="q" id="searchLabel"></label>
+              <input accesskey="S" name="q" id="q" size="31" maxlength="255" tabindex="1" value="" type="text">
+              <input value="" type="submit">
+              <input name="proxyreload" id="proxyreload" value="1" type="hidden">
+            </fieldset>
+          </form>
+        </li>
+        <li class="about item-with-ul"><a href="/about/index.htm" title="about">About ISD</a>
+          <ul style="display: none;">
+            <li>
+              <div class="columns four">
+                  <!--ABOUT ISD-->
+                  <p><a href="/about/index.htm">Welcome</a></p>
+                  <p><a href="/about/index.htm#learningpaths ">ISD Learning Paths</a></p>
+                  <p><a href="/about/visiting.htm">Visiting</a></p>
+                  <p><a href="/about/news">Inside ISD News</a></p>
+            </div>
+            </li>    
+          </ul>
+        <span class="touch-button"><i class="navicon">▼</i></span></li>
+        <li class="admissions item-with-ul"><a href="/admissions-and-aid/index.htm">Admissions + Aid</a>
+          <ul style="display: none;">
+            <li>
+              <!-- Engineering Degrees -->
+              <div class="columns eight boxed engineer">
+                <h3>Engineering Degree Programs</h3>
+                <div class="sub right">
+                  <p><a href="/degree-programs/automotive-engineering/">Automotive Engineering</a></p>
+                  <p><a href="/degree-programs/energy-systems-engineering/">Energy Systems Engineering</a></p>
+                  <p><a href="/degree-programs/global-automotive-and-manufacturing-engineering/">Global Automotive + Mfg. Engineering</a></p>
+                  <p><a href="/degree-programs/manufacturing-engineering/">Manufacturing</a></p>
+                  <p><a href="/degree-programs/systems-engineering/">Systems Engineering + Design</a></p>
+                </div>
+                <div class="sub left">
+                    <p><a href="/admissions-and-aid/index.htm">Overview</a></p>
+                    <p><a href="/admissions-and-aid/admissions.htm">Admissions</a></p>
+                    <p><a href="/admissions-and-aid/financial-aid.htm">Financial Aid</a></p>
+                    <p><a href="/admissions-and-aid/tuition.htm">Tuition</a></p>
+                </div>
+              </div>
+              <!-- Design Science Degrees -->
+              <div class="columns six boxed des-sci">
+                  <h3>Design Science Degree Programs</h3>
+                  <div class="sub left">
+                      <p><a href="/degree-programs/design-science/master-of-science-program">Master of Science</a></p>
+                      <p><a href="/degree-programs/design-science/doctoral-program">Doctoral Program</a></p>
+                  </div>
+                  <div class="sub right">
+                      <p><a href="/degree-programs/design-science/what-sets-us-apart">Overview</a></p>
+                      <p><a href="/degree-programs/design-science/prospective-students">Prospective Students</a></p>
+                      <p><a href="/degree-programs/design-science/financial-aid">Financial Aid</a></p>
+                      <p><a href="/degree-programs/design-science/tuition">Tuition</a></p>
+                      <p><a href="/degree-programs/design-science/deadlines">Deadlines</a></p>
+                      <p><a href="/degree-programs/design-science/apply">Apply</a></p>
+                      <p><a href="/degree-programs/design-science/contact-us">Contact Us</a></p>
+                  </div>
+              </div>
+            </li>
+          </ul>
+        <span class="touch-button"><i class="navicon">▼</i></span></li>
+        <li class="degrees item-with-ul"><a href="/degree-programs/">Degree Programs</a>
+          <ul style="display: none;">
+            <li>
+              <div class="columns four">
+                <!--Masters Degrees-->
+                <h3>Master's Degrees</h3>
+                <p><a href="/degree-programs/automotive-engineering/">Automotive Engineering</a></p>
+                <p><a href="/degree-programs/design-science/index.htm">Design Science</a></p>
+                <p><a href="/degree-programs/energy-systems-engineering/">Energy Systems Engineering</a></p>
+                <p><a href="/degree-programs/global-automotive-and-manufacturing-engineering/">Global Automotive and Manufacturing Engineering</a></p>
+                <p><a href="/degree-programs/manufacturing-engineering/">Manufacturing</a></p>
+                <p><a href="/degree-programs/systems-engineering/">Systems Engineering + Design</a></p>
+              </div>
+              <div class="columns four">
+                  <!--Doctoral Degrees-->
+                  <h3>Doctoral Degrees</h3>
+                  <p><a href="/degree-programs/design-science/">Design Science</a></p>
+                  <p><a href="/degree-programs/manufacturing-engineering-doctorate/">Manufacturing</a></p>
+
+                  <br>
+                  <h3>SUGS</h3>
+                  <p><a href="/degree-programs/sugs/index.htm">Eligible Degrees</a></p>
+              </div>
+              <div class="columns four">
+                  <!--Dual Degrees & SUGS-->
+                  <h3>Dual Degrees</h3>
+                  <p><a href="/degree-programs/manufacturing-engineering-mba/">Manufacturing + MBA</a></p>
+                  
+                  <br>
+                  <!--Online Degrees-->
+                  <h3>Online Graduate Programs</h3>
+                  <p><a href="/degree-programs/online-graduate-programs/index.htm">Degrees and Courses</a></p>
+              </div>
+              <div class="columns four">
+                  <h3>Student Resources</h3>
+                  <p><a href="/about/student-resources.htm">General Resources</a></p>
+                  <p><a href="/about/student-resources.htm#oncampusstudents">On-campus Students</a></p>
+                  <p><a href="/about/student-resources.htm#onlinestudents">Online Students</a></p>
+                  <p><a href="/about/student-resources.htm#internationalstudents">International Students</a></p>
+              </div>
+            </li>
+          </ul>
+        <span class="touch-button"><i class="navicon">▼</i></span></li>
+        <li class="certificates item-with-ul"><a href="/professional-programs/index.htm">Professional Programs</a>
+          <ul style="display: none;">
+            <li>
+              <div class="columns three">
+                <!--Six Sigma-->
+                <h3><a href="/professional-programs/six-sigma/index.htm">Six Sigma Certification</a></h3>
+                <p><a href="/professional-programs/six-sigma/green-belt/index.htm">Green Belt</a></p>
+                <p><a href="/professional-programs/six-sigma/black-belt/index.htm">Black Belt</a></p>
+                <p><a href="/professional-programs/six-sigma/master-black-belt/index.htm">Master Black Belt</a></p>
+                <p><a href="/professional-programs/six-sigma/design.htm">Design for Six Sigma</a></p>
+                <p><a href="/professional-programs/lean-six-sigma/index.htm">Lean Six Sigma Green Belt</a></p>
+                <p><a href="/professional-programs/lean-six-sigma-blackbelt/index.htm">Lean Six Sigma Black Belt</a></p>
+               </div>
+              <div class="columns three">
+                <!--Lean Certificates-->
+                <h3>Lean Certificates</h3>
+                <p><a href="/professional-programs/lean-change-management/index.htm">Lean Change Management</a></p>
+                <p><a href="/professional-programs/lean-leadership/index.htm">Lean Leadership</a></p>
+                <p><a href="/professional-programs/lean-manufacturing/index.htm">Lean Manufacturing</a></p>
+                <p><a href="/professional-programs/lean-office/index.htm">Lean Office and Service</a></p>
+                <p><a href="/professional-programs/lean-product-development/index.htm">Lean Product Development</a></p>
+                <p><a href="/professional-programs/lean-logistics/index.htm">Lean Supply Chain and Logistics</a></p>
+              </div>
+              <div class="columns three">
+                <h3>Healthcare Courses</h3>
+                <p><a href="/professional-programs/lean-healthcare/index.htm">Lean Healthcare</a></p>
+                <p><a href="/professional-programs/six-sigma-greenbelt-healthcare/index.htm">Six Sigma Green Belt Healthcare</a></p>
+                <br>
+                <h3>Kata Workshop</h3>
+                <p><a href="/professional-programs/kata-for-daily-improvement/index.htm">Kata for Daily Improvement</a></p>
+              </div>
+              <div class="columns three">
+                <!-- Engineering Courses (previously Short Courses) -->
+                <h3>Engineering Courses</h3>
+                <p><a href="/professional-programs/battery-manufacturing/index.htm">Battery Manufacturing</a></p>
+                <p><a href="/professional-programs/connected-and-automated-vehicles/index.htm">Connected and Automated Vehicles</a></p>
+                <p><a href="/professional-programs/dynamics-of-heavy-trucks/index.htm">Dynamics of Heavy Trucks</a></p>
+                <p><a href="/professional-programs/human-factors-engineering/index.htm">Human Factors Engineering</a></p>
+                <p><a href="/professional-programs/hybrid-and-electric-vehicles/index.htm">Hybrid and Electric Vehicles</a></p>
+                <p><a href="/professional-programs/production-systems-engineering/index.htm">Production Systems Engineering</a></p>
+              </div>
+
+              <div class="columns three">
+                <!-- Online Professional Programs-->
+                <h3>Online Professional Programs</h3>
+                <p><a href="/professional-programs/online-professional-programs/index.htm">Online Certificates and
+                      Courses</a></p>
+              </div>
+            </li>
+          </ul>
+        <span class="touch-button"><i class="navicon">▼</i></span></li>
+        <li class="programs item-with-ul"><a href="/custom-programs/index.htm">Custom Programs</a>
+          <ul style="display: none;">
+            <li>
+              <div class="columns four">
+                <!--CUSTOM PROGRAMS-->
+                <h3>FEATURED CUSTOM PROGRAMS</h3>
+                <p><a href="/custom-programs/index.htm">Overview</a></p>
+                <p><a href="/professional-programs/six-sigma/index.htm">Online Six Sigma</a></p>
+                <p><a href="/professional-programs/hybrid-and-electric-vehicles/index.htm">Hybrid and Electric Vehicles</a></p>
+                <p><a href="/professional-programs/systems-engineering-certificate/index.htm">Systems Engineering Certificate</a></p>
+                <p class="copy">All of our <a href="/professional-programs/index.htm ">professional programs</a> are customizable for your organization.</p>
+              </div>
+              <div class="columns ten feature">
+                <!-- Feature -->
+                 <img src="//confluence.engin.umich.edu/download/attachments/21103180/lean-mfg-2458_240x200.png?api=v2" alt="ISD Custom Programs">
+                  <p>Our professors and industry experts are available to collaborate with you by tailoring programs to meet your specific organizational needs and presenting them at a location of your choice.</p>
+                  <p>For more information, contact us at <a href="tel:+7346477200">(734) 647-7200</a> or via our <a href="/contact-us" class="contact" rel="shadowbox;width=530;height=600">contact form</a>
+.</p>
+              </div>
+            </li>
+          </ul>
+        <span class="touch-button"><i class="navicon">▼</i></span></li>
+         <li class="people item-with-ul"><a href="/people/index.htm">People</a>
+          <ul style="display: none;">
+            <li>
+              <div class="columns four">
+                <!--PEOPLE-->
+                <p><a href="/people/administration.htm">Administration</a></p>
+                <p><a href="/people/program-directors-and-coordinators.htm">Program Directors and Coordinators</a></p>
+                <p><a href="/people/faculty.htm">ISD Faculty</a></p>
+                <p><a href="/people/affiliated-faculty.htm">Affiliated Faculty</a></p>
+                <p><a href="/people/short-program-instructors.htm">Short Program Instructors</a></p>
+                <p><a href="/people/staff.htm">Staff</a></p>
+                <p><a href="/people/a-to-z-list.htm">A-Z List</a></p>
+                <p><a href="/about/employment/index.htm">Employment</a></p>
+                <p><a href="/degree-programs/design-science/faculty">Design Science Community</a></p>
+                <p><a href="/EAB">External Advisory Board</a></p>
+                <p><a href="/GSAC ">Graduate Student Advisory Committee</a></p>
+              </div>
+            </li>
+          </ul>
+        <span class="touch-button"><i class="navicon">▼</i></span></li>
+     </ul>
+    </nav>
+                    </div>
+    </div>
+</div>
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="page-banner" class="img-embed">
+
+           <div class="container ">
+                      <h2 class="page-title">Panos Papalambros</h2>
+        </div>
+   </div>
+
+
+<div id="content">
+
+    <div id="breadcrumbs">
+    <div class="container">
+          
+<div class="crumbs columns eleven alpha">
+            		
+    <a href="/">ISD Home</a>
+                    / 		
+    <a href="/people/index.htm">People</a>
+                /
+                             Panos Papalambros
+            
+
+</div>
+              <ul class="social-media columns five omega">
+    <li style="margin-right: 10px; font-weight: bold;width:25px;">Share:</li>
+    <li><span class="st_googleplus" st_processed="yes"><span style="text-decoration: none; color: rgb(0, 0, 0); display: inline-block; cursor: pointer; padding-left: 0px; padding-right: 0px; width: 16px;" class="stButton"><span class="chicklets googleplus">&nbsp;</span></span></span><div>GooglePlus</div></li>
+    <li><span class="st_facebook" st_processed="yes"><span style="text-decoration: none; color: rgb(0, 0, 0); display: inline-block; cursor: pointer; padding-left: 0px; padding-right: 0px; width: 16px;" class="stButton"><span class="chicklets facebook">&nbsp;</span></span></span><div>Facebook</div></li>
+    <li><span class="st_twitter" st_processed="yes"><span style="text-decoration: none; color: rgb(0, 0, 0); display: inline-block; cursor: pointer; padding-left: 0px; padding-right: 0px; width: 16px;" class="stButton"><span class="chicklets twitter">&nbsp;</span></span></span><div>Twitter</div></li>
+    <li><span class="st_linkedin" st_processed="yes"><span style="text-decoration: none; color: rgb(0, 0, 0); display: inline-block; cursor: pointer; padding-left: 0px; padding-right: 0px; width: 16px;" class="stButton"><span class="chicklets linkedin">&nbsp;</span></span></span><div>Linkedin</div></li>
+    <li><span class="st_email" st_processed="yes"><span style="text-decoration: none; color: rgb(0, 0, 0); display: inline-block; cursor: pointer; padding-left: 0px; padding-right: 0px; width: 16px;" class="stButton"><span class="chicklets email">&nbsp;</span></span></span><div>email</div></li>
+    <li><span class="st_pinterest" st_processed="yes"><span style="text-decoration: none; color: rgb(0, 0, 0); display: inline-block; cursor: pointer; padding-left: 0px; padding-right: 0px; width: 16px;" class="stButton"><span class="chicklets pinterest">&nbsp;</span></span></span><div>Pinterest</div></li>
+    <li><span class="st_sharethis" st_processed="yes"><span style="text-decoration: none; color: rgb(0, 0, 0); display: inline-block; cursor: pointer; padding-left: 0px; padding-right: 0px; width: 16px;" class="stButton"><span class="chicklets sharethis">&nbsp;</span></span></span><div>ShareThis</div></li>
+    <li><a href="#" id="print-page"><span>Print</span></a></li>
+
+</ul>
+       </div>
+</div>
+
+    <div id="main-content">
+        <div class="container">
+
+                        
+
+<div id="page-content" class="eleven columns alpha zone">
+     									        <div><div class="two-col">
+<div class="four columns alpha">
+<div class="captioned" style="width: 220px;"><img src="http://confluence.engin.umich.edu/download/attachments/21103180/panos-papalambros-large.jpg?api=v2" alt="Panos Papalambros" border="0"></div>
+</div>
+<div class="six columns omega">
+<h3 style="margin-top: 30px; margin-bottom: 0px;">Panos Papalambros</h3>
+<h5>Chair &amp; Professor, Integrative Systems + Design <br> James B Angell Distinguished University Professor of Engineering</h5>
+<p><a href="/about/news/panos-ralph-coats-roe">2014 ASEE Ralph Coats Roe Award Recipient</a></p>
+</div>
+<div class="spacer" style="height: 20px;">&nbsp;</div>
+</div></div>
+        <div class="spacer">&nbsp;</div>
+		
+									        <div><!-- START of #course-description tabs -->
+<ul id="bio" style="opacity: 1;" class="no-style">
+<li>
+<p>Panos Y. Papalambros is the James B. Angell Distinguished University Professor and the Donald C. Graham Professor of Engineering. He is a Professor of Mechanical Engineering, Professor of Architecture, and Professor of Art and Design; and serves as the founding Chair of the Integrative Systems &amp; Design Division, College of Engineering, at the University of Michigan.</p>
+<p>Born in Patras, Greece, he attended the National Technical University of Athens (Ethnikon Metsovion Polytechnion) and earned a diploma in Mechanical and Electrical Engineering in 1974. Moving to California he attended Stanford University and earned his M.S. degree (Mechanical Engineering) in 1976 and Ph.D. degree (Design Division, Mechanical Engineering) in 1979. At Michigan he has served as a faculty member since 1979.</p>
+<p>During his tenure at Michigan he served as mechanical engineering department chair (1992-98, and 2007-08) and was the founding director of several laboratories and centers: Optimal Design (ODE) Laboratory (1980-); Design Laboratory (1990-92); Ford Durability Simulation Center (1992-94); Automotive Research Center (1994-2003); General Motors Collaborative Research Laboratory (1998-2002); the Antilium Project (2003-2008), and the Ford BlockM Sustainability Laboratory (2006-2009); he served as the founding chair and director of the University of Michigan interdisciplinary Design Science Doctoral Program (2006-2011).</p>
+<p>His research interests include design science and optimization, with applications to sustainable design of products, automotive systems, such as hybrid and electric vehicles; design of complex engineered systems; and architectural design. With D. J. Wilde, he co-authored the textbook Principles of Optimal Design: Modeling and Computation (1988, 2000). He has published over 320 articles in journals, conference proceedings, and books.</p>
+<p>He is a member of ASME, INFORMS, MOS, SME, SAE, ISSMO, AIAA, AAUP, ASEE, IEEE, INCOSE and serves as Vice President on the Board of Management of the Design Society. He served as Chief Editor of the ASME Journal of Mechanical Design (2008-2012) and as associate editor of the Journal of Mechanisms, Transmissions and Automation in Design, Journal of Global Optimization, Computer-Integrated Engineering, and the Japan Society of Mechanical Engineers International Journal. He currently serves on the editorial boards of the journals Artificial Intelligence in Engineering Design and Manufacturing, Engineering Design, Engineering Optimization, Structural and Multidisciplinary Optimization, Journal of Reliability and Safety and Product Development.</p>
+<p>He is a Fellow of ASME and SAE, and the recipient of the ASME Design Automation Award (1998), ASME Machine Design Award (1999), Japan SME Design and Systems Achievement Award (2004), ASME Joel and Ruth Spira Outstanding Design Educator Award (2007), and the Stephen S. Attwood Award (highest engineering honor in the University of Michigan, 2009).</p>
+<iframe src="https://www.youtube.com/embed/VZ_zHOfyIjY?rel=0&amp;showinfo=0" width="630" height="350"></iframe> Professor Papalambros examines the foundations of ISD and the benefits its interdisciplinary nature provides to students.</li>
+</ul></div>
+        <div class="spacer">&nbsp;</div>
+		
+	</div>            
+
+<div id="sidebar" class="five columns zone">
+    <div class="clear"></div>        			            				    
+
+
+<div id="grad-menu-wrapper" class="deletable-widget no-style">
+    <ul id="grad-menu">
+                                                             
+                                                         <li class="internal-link"><a class="grad-menu-item" href="/people/administration.htm">Administration</a></li>
+                                                             
+                                                         <li class="internal-link"><a class="grad-menu-item" href="/people/program-directors-and-coordinators.htm">Program Directors and Coordinators</a></li>
+                                                             
+                                                         <li class="internal-link"><a class="grad-menu-item" href="/people/faculty.htm">ISD Faculty</a></li>
+                                                             
+                                                         <li class="internal-link"><a class="grad-menu-item" href="/people/affiliated-faculty.htm">Affiliated Faculty</a></li>
+                                                             
+                                                         <li class="internal-link"><a class="grad-menu-item" href="/people/short-program-instructors.htm">Short Program Instructors</a></li>
+                                                             
+                                                         <li class="internal-link"><a class="grad-menu-item" href="/people/staff.htm">Staff</a></li>
+                                                             
+                                                         <li class="internal-link"><a class="grad-menu-item" href="/degree-programs/design-science/faculty">Design Science Community</a></li>
+                                                             
+                                                         <li class="internal-link"><a class="grad-menu-item" href="/EAB"> ISD External Advisory Board</a></li>
+                                                             
+                                                         <li class="internal-link"><a class="grad-menu-item" href="/GSAC">GSAC</a></li>
+                                                             
+                                                         <li class="internal-link"><a class="grad-menu-item" href="/people/a-to-z-list.htm">A-Z List</a></li>
+                                                             
+                                                         <li class="internal-link"><a class="grad-menu-item" href="/employment/index.htm">Employment</a></li>
+                                                </ul>
+</div>
+		
+	</div>
+
+
+        </div>
+    </div>
+</div>
+
+    
+
+
+<div id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="eight columns alpha">
+                <ul class="contact-info">
+    <li><a href="tel:7346477200" class="phone">(734)&nbsp;647-7200</a></li>
+    <li><a href="/contact-us" class="contact" rel="shadowbox;width=530;height=600">Contact Us</a>
+</li>
+    <li><a href="/about/addresses-maps-visiting.htm" class="map">Locations &amp; Maps</a></li>
+</ul>
+                                    <!--Social Sites -->
+<ul class="social-media">
+    <li><a href="http://www.facebook.com/michigan.engineering" target="_blank" class="social_facebook" title="Michigan Engineering on Facebook"></a>
+        <span>Facebook</span>
+    </li>
+    <li><a href="https://twitter.com/UMengineering" target="_blank" class="social_twitter" title="Michigan Engineering on Twitter"></a>
+        <span>Twitter</span>
+    </li>
+    <li><a href="https://www.linkedin.com/groups/8476473" class="social_linkedin" title="Michigan Engineering Alumni Group on LinkedIn" target="_blank"></a>
+        <span>Linkedin</span>
+    </li>
+    <li><a href="http://www.youtube.com/user/michiganisd" title="ISD on YouTube" target="_blank" class="social_youtube"></a>
+        <span>Youtube</span>
+    </li>
+    <li><a href="https://tagboard.com/UMichISD/192708" title="ISD on #tagboard" target="_blank" class="social_tagboard"></a>
+        <span>Tagboard</span>
+    </li>
+    <li class="umichisd">#UMichISD</li>
+</ul>                                <ul id="footer-nav">
+    <li><a href="http://engin.umich.edu" target="_blank">College of Engineering</a></li>
+    <li><a href="http://umich.edu" target="_blank">University of Michigan</a></li>
+    <li><a href="/privacy-policy" rel="shadowbox;width=980;height=895">Privacy Policy</a></li>
+            <li><a href="http://isd.engin.umich.edu/intranet " target="_blank">ISD Intranet</a></li>
+        <li class="next-line"><a href="/isd-faculty-resources">Faculty Resources</a></li>      </ul>
+            </div>
+            <div class="eight columns omega">
+                                                <a href="http://umich.edu" target="blank" class="um-logo">
+                    <img src="http://confluence.engin.umich.edu/download/attachments/30508410/um-wordmark.png" alt="University of Michigan">
+                </a>
+                <div class="siteinfo">
+                    ©<span id="footerDate">2017</span>
+                    <a href="http://www.regents.umich.edu" target="_blank">The Regents of the University of Michigan</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <script type="text/javascript">
+                                $(function () {
+            $('#print-page').on('click', function () {
+                $('#page-content').printElement();
+                                    });
+        });
+    </script>
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span></span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div><div id="stcpDiv" style="position: absolute; top: -1999px; left: -1988px;">ShareThis Copy and Paste</div><div id="stwrapper" class="stwrapper stwrapper5x stwrapper5x" style="display: none;"><iframe allowtransparency="true" id="stLframe" class="stLframe" name="stLframe" scrolling="no" src="http://edge.sharethis.com/share5x/index.e55493ccecadd71469433a92342f0330.html" frameborder="0"></iframe></div><div id="stOverlay" onclick="javascript:stWidget.closeWidget();"></div></body></html>

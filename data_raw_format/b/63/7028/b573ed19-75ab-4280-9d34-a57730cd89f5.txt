@@ -1,0 +1,101 @@
+HomeAboutAcademicsFearless Ideas
+This Site umd.edu
+
+HOME
+ABOUT ECE
+UNDERGRADUATE PROGRAM
+GRADUATE PROGRAM
+RESEARCH
+FACULTY & STAFF
+MEET THE STUDENTS
+ALUMNI
+CORPORATE RELATIONS
+GIVING
+JIMMY H. C. LIN FUND
+NEWS & EVENTS
+ECE COMPUTING FACILITIES
+TECH OPS
+ECE PHOTOS
+CANVAS LOGIN
+    FOLLOW US ON
+    ECE SITE FEEDBACK
+Return to Faculty Directory
+
+Wu, Min
+Professor
+ECE/UMIACS/ISR
+2142 Kim Building
+Email: 
+minwu@umd.edu
+(link sends e-mail)
+Phone: 
+301-405-0401
+Lab Description: 
+Comcast Multimedia Signal Processing Laboratory
+Communications and Signal Processing Laboratory (CSPL)
+Research Interests 
+Information Security and Forensics
+Multimedia Signal Processing
+Multimedia Communications
+Background 
+Dr. Min Wu received a B.E. degree in electrical engineering and a B.A. degree in economics from Tsinghua University, Beijing, China, in 1996 (both with the highest honors), and an M.S. degree and Ph.D. degree in electrical engineering from Princeton University in 1998 and 2001, respectively. She was with NEC Research Institute and Signafy, Inc. Princeton, NJ, in 1998, and with the Media Security Group, Panasonic Information & Networking Laboratories, Princeton, NJ, in 1999. Since Fall 2001, she has been a faculty member of the Electrical and Computer Engineering Department and the Institute of Advanced Computer Studies (UMIACS
+(link is external)
+) at University of Maryland, College Park. She is also affiliated with the Institute of Systems Research (ISR
+(link is external)
+) in the same university.
+Dr. Wu's research interests include information security and forensics, and multimedia signal processing and communications. She has published one book "Multimedia Data Hiding" (Springer-Verlag, 2003) and about 65 refereed journal and conference publications. She holds four U.S. patents on media security. Dr. Wu is a member of the IEEE Technical Committee on Multimedia Signal Processing and on Multimedia Systems and Applications. She has served as publicity chair for 2003 IEEE International Conference on Multimedia and Expo (ICME'03), finance chair for 2007 IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP'07), and in the technical program committees of several international conferences on multimedia, signal processing, communications, and information security. She also co-edited a Special Issue on Multimedia Security and Rights Management for EURASIP Journal of Applied signal Processing in 2004.
+Dr. Wu received an NSF CAREER award on information security and protection in 2002, and a George Corcoran Education Award from University of Maryland in 2003, a 2004 Best Paper Award from the EURASIP Journal of Applied Signal Processing, and a Young Investigator award on multimedia security and forensics from U.S. Office of Naval Research in 2005. In 2004, she was selected by the MIT Technology Review Magazine as one of the 100 top young innovators whose contribution to emerging technologies will profoundly influence the world.
+Education 
+B.S.E Engineering Automation, Tshingua University
+B.A. Economics, Tshingua Univesity 
+Ph.D. Electrical Engineering, Princeton University
+Selected Publications 
+When was a video captured? Where? Was the sound track captured together with the visual? Or added on later? Check out our latest work addressing these issues using environmental fingerprint from power grid:
+
+R. Garg, A.L. Varna and M. Wu, " 'Seeing' ENF: Natural Time Stamp for Digital Video via Optical Sensing and Signal Processing," ACM Multimedia 2011, Best Student Paper Award. [17% acceptance] 
+
+W-H. Chuang, R. Garg, and M. Wu, "How Secure are Power Network Signature Based Time Stamps?” ACM CCS, Oct. 2012. [19% acceptance] 
+
+R. Garg, A. Hajj-Ahmad and M. Wu, “Geo-Location Estimation from Electrical Network Frequency Signals,” IEEE ICASSP, to appear May 2013.
+Honors and Awards 
+IEEE Fellow, Class 2011, for contributions to multimedia security and forensics. 
+University of Maryland Distinguished Scholar-Teacher, an honor for excellence in research and teaching, 2013. 
+2012: Innovator of the Year Award (The Daily Record); and Invention of the Year Award (Univ. Maryland). 
+2007: Computer World "40 under 40" Young IT Innovator Award. 
+2005: U.S. DoD ONR Young Investigator Award (YIP), 2005.
+2004: MIT Technology Review Magazine TR100 award, as one of the 100 top young innovators under age of 35 whose contribution to emerging technologies will profoundly influence our world.  [UMD news;  photo article from the Chinese edition of TR magazine]
+2002: U.S. NSF Faculty Early Career Development Award (CAREER).
+IEEE Signal Processing Society Best Paper Award (2005); and EURASIP Best Paper Award (2004). For two journal publications in multimedia and forensics. 
+Best Student Paper Awards, ICASSP 2005 and ACM Multimedia 2011, with student coauthors. 
+2009: IEEE Mac Van Valkenburg Early Career Teaching Award.
+2009-2010: Robert Kent Junior Faculty Teaching Award, College of Engineering, Univ. Maryland, College Park.
+2003: George Corcoran Faculty Education Award in electrical engineering.
+Professional Memberships 
+IEEE Fellow
+Related News 
+ECE Graduate Students Score Big Wins in Prestigious Chinese Government Award
+The award was established in 2003 to recognize outstanding academic performance of self-financed Chinese students abroad. April 14, 2017
+Dr. Min Wu Invented a Novel Technique to Measure Electric Network Frequency Signals (ENF) from Video Recordings
+Dr. Wu's invention can be used in a variety of applications including security and forensics, digital humanities and immersive multimedia. March 31, 2017
+Alireza Khaligh wins Clark School's junior faculty teaching award
+Khaligh was recognized for his dedication to excellence in power engineering education, teaching, mentorship, service, and leadership.  December 5, 2016
+Ulukus Named 2016-2017 Distinguished Scholar-Teacher by University of Maryland
+The Distinguished Scholar-Teacher Program honors members of UMD faculty who have demonstrated outstanding scholarly achievements along with equally outstanding accomplishments as teachers. April 19, 2016
+Wu Wins 2015 Signal Processing Society Meritorious Service Award
+Exemplary service and leadership garner IEEE award for Clark School Professor. December 7, 2015
+Liu Awarded 2016 IEEE Kirchmayer Graduate Teaching Award
+Prolific Researcher Recognized for Exceptional Teaching and Mentoring August 17, 2015
+ECE Professor and Students Win Invention of the Year Award
+Applications of innovative resesarch include security and forensics, digital humanities and immersive multimedia. April 30, 2015
+Food Safety, Energy Storage & Video Authentication Inventions Honored at Awards Ceremony
+Three Clark School innovations win UMD Invention of the Year Awards April 30, 2015
+Invention of the Year Nominee: Method for Extracting ENF Signals from Video
+Invention offers security, forensic, and historic preservation applications April 17, 2015
+Min Wu is finalist for Invention of the Year
+Her invention enables the source of a video stream to be identified based on electric network frequency signals. March 26, 2015
+UMD
+(link is external)
+| Clark School
+(link is external)
+| ECE Home | Site Map
+Copyright © 2017 University of Maryland.

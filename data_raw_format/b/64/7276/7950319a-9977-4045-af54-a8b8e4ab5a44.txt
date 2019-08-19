@@ -1,0 +1,52 @@
+CONTACT
+NEWS
+SUPPORT BIOCHEM
+ABOUT US
+PEOPLE
+EVENTS
+ACADEMIC PROGRAMS
+FACULTY POSITIONS
+RESOURCES
+PEOPLE
+FACULTY
+STAFF
+GRADUATE STUDENTS
+POSTDOCTORAL FELLOWS
+NEW STUDENTS
+Back to Faculty
+Stephen Hauschka
+Professor of Biochemistry
+Adjunct Professor of Zoology
+BA, Amherst College
+PhD, Johns Hopkins University
+Off.: J541
+  Ph.: 206.616.6998
+  Fax: 206.685.1792
+haus@u.washington.edu
+Research
+Research in our group addresses basic questions of skeletal and cardiac muscle biology: (1.) How do mesodermal cells become determined to enter the skeletal and cardiac muscle cell lineages? (2.) How are skeletal and cardiac muscle genes activated during development? (3.) How are quantitative modulations in gene expression controlled with respect to fast and slow skeletal muscle fiber types and cardiac muscles; and how are these controls modulated by the unique physiology of different anatomical muscles? (4.) How can the understanding of muscle gene regulation be developed into effective strategies for muscle gene therapy? (5.) What mechanisms regulate the mitogenic responsiveness of satellite cells during skeletal muscle regeneration? (6.) Can skeletal muscle cells and stem cells be modified so as to provide functionally beneficial replacements for injured skeletal and cardiac muscle?
+Early chick embryo cardiomyocytes can express endothelial cell proteins such as vonWillibrand’s Factor (Red), as well as muscle proteins such as myosin (Green).
+These problems are studied in cell cultures, chick and mouse embryos, and transgenic mice. The systems are experimentally manipulated via cytokines, intracellular signal transduction pathways, transcription factors, and a diverse array of target gene regulatory regions. Studies of skeletal and cardiac muscle development focus on identifying cytokines and molecular mechanisms that induce myogenesis in chick embryo somites, and on inductive interactions that convert stem cells to cardiomyocytes.
+Chick embryo somite following exposure to cytokines that induce skeletal muscle differentiation in some cells (Green), while others continue along alternative developmental pathways (Red).
+Studies of muscle gene regulation focus on identifying regulatory regions and control elements within muscle genes such as M-creatine kinase, and on transcription factors that interact with the identified elements. These studies involve quantitative proteomics to identify previously unknown DNA binding factors and ChIP analysis to identify factors bound to chromatin of cells in different developmental states. Related studies focus on the role of nuclear membrane components such as lamin and emerin in regulating muscle gene expression, and how mutations in these genes lead to muscle and cardiac diseases. Gene therapy studies concentrate on the design of regulatory gene cassettes that can be used for high-level expression of therapeutic proteins in human muscle diseases such as Duchenne Muscular Dystrophy, and cardiomyopathies, and on strategies for the external regulation of therapeutic gene expression. Muscle regeneration studies focus on using stem cells for constructing artificial muscles, and on determining the mechanisms that control when replicating muscle cells differentiate. Studies of heart muscle repair concentrate on deriving myogenic cell lines carrying gene modifications that potentiate the functional repair of experimental cardiac infarcts.
+Publications:
+Showing most recent results. [Show All]
+Bengtsson NE, Hall JK, Odom GL, Phelps MP, Andrus CR, Hawkins RD, Hauschka SD, Chamberlain JR, Chamberlain JS. Muscle-specific CRISPR/Cas9 dystrophin gene editing ameliorates pathophysiology in a mouse model for Duchenne muscular dystrophy. Nat Commun 2017 Feb; 8:14454. [PMID:28195574] [PMCID:PMC5316861]
+Thomson KS, Odom GL, Murry CE, Mahairas GG, Moussavi-Harami F, Teichman SL, Chen X, Hauschka SD, Chamberlain JS, Regnier M. Translation of Cardiac Myosin Activation with 2-deoxy-ATP to Treat Heart Failure via an Experimental Ribonucleotide Reductase-Based Gene Therapy. JACC Basic Transl Sci 2016 Dec; 1(7):666-679. [PMID:28553667] [PMCID:PMC5444879]
+Kolwicz SC, Odom GL, Nowakowski SG, Moussavi-Harami F, Chen X, Reinecke H, Hauschka SD, Murry CE, Mahairas GG, Regnier M. AAV6-mediated Cardiac-specific Overexpression of Ribonucleotide Reductase Enhances Myocardial Contractility. Mol. Ther. 2016 Feb; 24(2):240-50. [PMID:26388461] [PMCID:PMC4817808]
+Hu C, Kasten J, Park H, Bhargava R, Tai DS, Grody WW, Nguyen QG, Hauschka SD, Cederbaum SD, Lipshutz GS. Myocyte-mediated arginase expression controls hyperargininemia but not hyperammonemia in arginase-deficient mice. Mol. Ther. 2014 Oct; 22(10):1792-802. [PMID:24888478] [PMCID:PMC4428413]
+Muir LA, Nguyen QG, Hauschka SD, Chamberlain JS. Engraftment potential of dermal fibroblasts following in vivo myogenic conversion in immunocompetent dystrophic skeletal muscle. Mol Ther Methods Clin Dev 2014 Jun; 1:14025. [PMID:25558461] [PMCID:PMC4280788]
+Moyes KW, Sip CG, Obenza W, Yang E, Horst C, Welikson RE, Hauschka SD, Folch A, Laflamme MA. Human embryonic stem cell-derived cardiomyocytes migrate in response to gradients of fibronectin and Wnt5a. Stem Cells Dev. 2013 Aug; 22(16):2315-25. [PMID:23517131] [PMCID:PMC3732016]
+Tai PW, Smith CL, Angello JC, Hauschka SD. Analysis of fiber-type differences in reporter gene expression of β-gal transgenic muscle. Methods Mol. Biol. 2012; 798:445-59. [PMID:22130853]
+Himeda CL, Tai PW, Hauschka SD. Analysis of muscle gene transcription in cultured skeletal muscle cells. Methods Mol. Biol. 2012; 798:425-43. [PMID:22130852]
+Gantz JA, Palpant NJ, Welikson RE, Hauschka SD, Murry CE, Laflamme MA. Targeted genomic integration of a selectable floxed dual fluorescence reporter in human embryonic stem cells. PLoS ONE 2012; 7(10):e46971. [PMID:23071682] [PMCID:PMC3468579]
+Tai PW, Fisher-Aylor KI, Himeda CL, Smith CL, Mackenzie AP, Helterline DL, Angello JC, Welikson RE, Wold BJ, Hauschka SD. Differentiation and fiber type-specific activity of a muscle creatine kinase intronic enhancer. Skelet Muscle 2011 Jul; 1:25. [PMID:21797989] [PMCID:PMC3157005]
+Department of Biochemistry
+UW Box 357350
+1705 NE Pacific St.
+Seattle WA 98195-7350
+Health Sciences Building
+J-Wing, Room J405 (Map)
+Tel +1 206 543-1660.
+Fax +1 206 685-1792
+Hours: 8:30-12:00; 12:30-4:30

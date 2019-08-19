@@ -1,0 +1,389 @@
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><head><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_GB.nSHAQLUuDMc.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCPT_IfuSxKCisZJDGyJJVUM7TBltw/cb=gapi.loaded_1" async=""></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_GB.nSHAQLUuDMc.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCPT_IfuSxKCisZJDGyJJVUM7TBltw/cb=gapi.loaded_0" async=""></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js" gapi_processed="true"></script><script async="" charset="utf-8" type="text/javascript" src="https://d10lpsik1i8c69.cloudfront.net/js/clickstream.js" crossorigin="anonymous"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style><script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/button.b731e6c82269f70f6fc53634e044a4c6.js"></script><link rel="stylesheet" type="text/css" media="all" href="https://d10lpsik1i8c69.cloudfront.net/css/reset.css"></head><body id="docs" class="no-js"><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: hide</p>
+<p>Filename: libraries/Doctor.php</p>
+<p>Line Number: 285</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: hide</p>
+<p>Filename: libraries/Doctor.php</p>
+<p>Line Number: 285</p>
+
+</div>		
+
+
+
+
+
+	<meta charset="utf-8">
+
+	<title>	
+	Dr. Stefanie  Krick, M.D., Ph.D. - 
+	
+
+Find a Doctor - University of Miami Health System</title>
+	
+	<meta name="description" content="University of Miami Health System offers healthcare services from South Florida's premier doctors and hospitals by combining patient care, research and education.">
+	
+	<link rel="shortcut icon" href="/images/_style/favicon.png"> 
+	<link rel="stylesheet" href="/style/core">
+	<link rel="stylesheet" href="/style/section">
+	<link rel="stylesheet" href="/style/custom-section">
+	
+							<link rel="stylesheet" href="/style/doctors">
+			<link rel="stylesheet" href="/style/custom">
+
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KG6NK5"></script><script type="text/javascript" async="" src="http://cdn.luckyorange.com/w.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.8/jquery.validate.js"></script>
+	<script type="text/javascript" src="/scripts/modernizr-1.7.min.js"></script>
+
+	<!--Payment Forms hover effect-->
+	
+	<!--facebook-->
+	<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>	<noscript><link rel="stylesheet" href="/style/no-js"></noscript>
+	<link rel="stylesheet" href="/css/print.css" media="print">
+
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4955829-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<!-- Lucky Orange tracking pixel -->
+<script type="text/javascript">
+window.__wtw_lucky_site_id = 37068;
+
+(function()
+{ var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true; wa.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://cdn') + '.luckyorange.com/w.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s); }
+
+)();
+</script>
+	
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KG6NK5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KG6NK5');</script>
+<!-- End Google Tag Manager -->
+
+
+	<ul id="accessibility" class="hide">
+		<li><a href="#content">Go to content</a></li>
+		<li><a href="#navigation">Go to navigation</a></li>
+        	<li><a href="#footer">Go to footer</a></li>
+	</ul>
+
+
+	<header>
+	<div class="container">
+		<h1><a href="/"><img src="/images/_style/uhealth-logo-top.png" alt="UHealth - University of Miami Health System"></a></h1>
+		<ul id="tertiary-nav">
+			<li><a href="/about">About UHealth</a></li>
+			<li><a href="/patients/international">International Patients</a></li>
+			<li><a href="http://es.uhealthsystem.com">En Español</a></li>
+			<li>
+				<form method="get" action="/search/results" id="homepage_search_bar">
+				    <input name="q" size="20" value="Search UHealth" class="searchbox cleardefault" type="text">
+				    <input name="n" value="10" type="hidden">
+				    <input name="s" value="current" type="hidden">
+				    <input name="filter" value="0" type="hidden">
+				    <input name="submit" class="searchimage" value="" type="submit">
+				</form>
+			</li>
+		</ul>
+		<div class="clear"></div>
+		
+		<nav id="navigation">
+			<h2 class="hide">UHealth Navigation</h2>
+			<a href="/"><span class="text">Home</span><span class="border"></span></a>
+	
+	<a href="/doctors/" class="active"><span class="text">Find a Doctor</span><span class="border"></span></a>		
+		
+	<a href="/appointments/"><span class="text">Appointments</span></a>	
+	<a href="http://ummd.org/"><span class="text">Referrals</span></a>	
+	<a href="/patients/"><span class="text">Patient Services</span></a>	
+	<a href="/locations/"><span class="text">Locations</span></a>	
+	<a href="/billing/"><span class="text">Billing</span></a>	
+	<a href="/patients/uchart" class="last"><span class="text">My UHealthChart</span></a>	
+		</nav>
+	</div><!--end header container-->
+	<div class="border-bottom"></div>
+	</header>
+	
+	<div id="content">
+	
+	<div id="main-container" class="container">	
+		<div class="background">
+		<div id="main-content">
+		<p class="breadcrumb"><a href="/doctors/">Find a Doctor</a> » Profile</p>
+		<article class="post error">
+<h2>Sorry, no doctors match your search</h2>
+
+<h3>Try your search again</h3>
+
+<p>You can search by letter, specialty or location:</p>
+
+<ul id="letter-select">
+	<li><a href="/doctors/a">a</a></li>
+	<li><a href="/doctors/b">b</a></li>
+	<li><a href="/doctors/c">c</a></li>
+	<li><a href="/doctors/d">d</a></li>
+	<li><a href="/doctors/e">e</a></li>
+	<li><a href="/doctors/f">f</a></li>
+	<li><a href="/doctors/g">g</a></li>
+	<li><a href="/doctors/h">h</a></li>
+	<li><a href="/doctors/i">i</a></li>
+	<li><a href="/doctors/j">j</a></li>
+	<li><a href="/doctors/k">k</a></li>
+	<li><a href="/doctors/l">l</a></li>
+	<li><a href="/doctors/m">m</a></li>
+	<li><a href="/doctors/n">n</a></li>
+	<li><a href="/doctors/o">o</a></li>
+	<li><a href="/doctors/p">p</a></li>
+	<li><a href="/doctors/q">q</a></li>
+	<li><a href="/doctors/r">r</a></li>
+	<li><a href="/doctors/s">s</a></li>
+	<li><a href="/doctors/t">t</a></li>
+	<li><a href="/doctors/u">u</a></li>
+	<li><a href="/doctors/v">v</a></li>
+	<li><a href="/doctors/w">w</a></li>
+	<li><a href="/doctors/x">x</a></li>
+	<li><a href="/doctors/y">y</a></li>
+	<li class="last"><a href="/doctors/z">z</a></li>
+</ul>
+
+<div class="clear"></div>
+
+<ul>
+	<li><a href="/patients">Search by Specialty</a></li>
+	<li><a href="/locations">Search by Location</a></li>
+</ul>
+
+<div class="clear"></div>
+
+<h3>Search the UHealth Website</h3>
+
+<h3 class="hide">Search the UHealth Website</h3>
+	<p>Try searching the UHealth System website to find what you're looking for.</p>
+
+	<form method="get" action="/search/results">
+		<input name="q" value="Search the UHealth Website" class="cleardefault searchbox" type="text">
+		<input name="n" value="10" type="hidden">
+	    <input name="s" value="current" type="hidden">
+	    <input name="filter" value="0" type="hidden">
+		<button type="submit">Submit</button>
+	</form>
+</article>
+	
+
+	<ul class="share">
+		<li id="print"><span>Print</span></li>
+		<li id="share"><span>E-mail</span></li>
+		<li class="plus">
+			<div style="text-indent: 0px; margin: 0px; padding: 0px; background: transparent none repeat scroll 0% 0%; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px;" id="___plusone_0"><iframe ng-non-bindable="" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;" tabindex="0" vspace="0" id="I0_1498014854670" name="I0_1498014854670" src="https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&amp;size=medium&amp;origin=http%3A%2F%2Fuhealthsystem.com&amp;url=http%3A%2F%2Fuhealthsystem.com%2Fdoctors%2Fprofile%2F%253C%3Fphp%2520echo%2520getAddress()%3B%2520%253F%253E&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.nSHAQLUuDMc.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCPT_IfuSxKCisZJDGyJJVUM7TBltw#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I0_1498014854670&amp;parent=http%3A%2F%2Fuhealthsystem.com&amp;pfname=&amp;rpctoken=18259880" data-gapiattached="true" title="+1" width="100%" frameborder="0"></iframe></div>
+		</li><li>
+		</li><li id="pinterest"><a data-pin-config="beside" href="//pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png"></a>
+		</li>
+		<li id="twitter_share">
+			<iframe id="twitter-widget-0" scrolling="no" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" style="position: static; visibility: visible; width: 60px; height: 20px;" title="Twitter Tweet Button" src="http://platform.twitter.com/widgets/tweet_button.7bf2b0e802ada47dae9548b7a1739fed.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http%3A%2F%2Fuhealthsystem.com%2Fdoctors%2Fprofile%2F141954&amp;related=BascomPalmerEye%2CSylvesterCancer&amp;size=m&amp;text=Dr.%20Stefanie%20Krick%2C%20M.D.%2C%20Ph.D.%20-%20Find%20a%20Doctor%20-%20University%20of%20Miami%20Health%20System&amp;time=1498014854676&amp;type=share&amp;url=%3C%3Fphp%20echo%20getAddress()%3B%20%3F%3E&amp;via=UMiamiMedicine" data-url="<?php echo getAddress(); ?>" frameborder="0"></iframe>
+		</li>
+		<li id="fb_like">
+			<div class="fb-like fb_iframe_widget" style="position:relative;left:1px" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-action="recommend" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=recommend&amp;app_id=199078476813329&amp;container_width=0&amp;href=http%3A%2F%2Fuhealthsystem.com%2Fdoctors%2Fprofile%2F141954&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=450"><span style="vertical-align: bottom; width: 105px; height: 20px;"><iframe name="f3739ef74f1ad78" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" style="border: medium none; visibility: visible; width: 105px; height: 20px;" src="https://www.facebook.com/plugins/like.php?action=recommend&amp;app_id=199078476813329&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F0F7S7QWJ0Ac.js%3Fversion%3D42%23cb%3Df17927c368ed03e%26domain%3Duhealthsystem.com%26origin%3Dhttp%253A%252F%252Fuhealthsystem.com%252Ffe85b5e55fba76%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Fuhealthsystem.com%2Fdoctors%2Fprofile%2F141954&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=450" class="" width="450px" height="1000px" frameborder="0"></iframe></span></div>
+		</li>
+			</ul> <!-- end share -->
+	<div class="clear"></div>
+	
+	<section id="panel" class="hide">
+
+	<form name="share-form" id="share-form" method="post" action="http://uhealthsystem.com/">
+<div class="hiddenFields">
+<input name="ACT" value="25" type="hidden">
+<input name="URI" value="doctors/profile/141954" type="hidden">
+<input name="XID" value="d7a2897dfa3e315ff350b44631642cac541406cb" type="hidden">
+<input name="status" value="open" type="hidden">
+<input name="return" value="" type="hidden">
+<input name="redirect_on_duplicate" value="" type="hidden">
+<input name="RET" value="http://uhealthsystem.com/doctors/profile/141954" type="hidden">
+<input name="form_name" value="Share Form Sylvester" type="hidden">
+<input name="params_id" value="197680426" type="hidden">
+<input name="site_id" value="2" type="hidden">
+</div>
+
+
+		<h4>E-mail a Friend</h4>
+
+				<label for="share_full_name" class="hide">Name</label><br>
+				<input name="full_name" id="share_full_name" placeholder="Name" class="cleardefault required" type="text">
+
+				<label for="share_email" class="hide">E-mail</label>
+				<input name="email" id="share_email" placeholder="E-mail Address" class="cleardefault required email" type="email">
+
+				<label for="share_recipient_email" class="hide">E-mail</label>
+				<input name="recipient_email" id="share_recipient_email" placeholder="Friend's E-mail" class="cleardefault required email" type="email">
+
+				<input name="page_title" value="Make an Appointment" type="hidden">
+
+				<input name="page_url" value="<?php echo getAddress(); ?>" type="hidden">
+
+		<button type="submit">Share this page</button>
+	</form>
+
+		<div class="clear"></div>
+	</section>
+
+
+
+	</div><!--end main-content-->
+
+	<aside id="sidebar">
+	
+	
+				<h4><span class="locations"></span>Practice Locations</h4>
+		<ul>
+					<li><a href="/locations/bascom-palmer"><span class="text">Bascom Palmer Eye Institute at Miami<br><br>Miami, FL  33136     </span><span class="more">»</span></a></li>
+				</ul>
+			
+
+	
+	
+	
+	
+		
+		<h4><span class="specialties"></span>Specialties</h4>		<h5>Internal Medicine</h5>
+			<p>University of Miami Health System <strong>Internal Medicine</strong> is focused on helping patients maintain good health and avoid serious illness. In addition, our world-class physicians are experts at diagnosing and treating a wide range of illnesses and diseases.</p>
+		<p class="bold"><a href="/patients/internal-medicine">Learn more about Internal Medicine at UHealth »</a></p>
+	
+		
+		
+</aside>
+
+		<div class="clear"></div>
+
+	</div><!--end background-->
+	</div><!--end main-container-->
+	
+	<div class="clear"></div>
+
+	</div><!--end main content-->
+
+<footer id="footer">
+	<div class="container">		
+		<div id="small-logo"><p><a href="/about/miller-school-of-medicine">Research and Medical Education by: 
+		<img src="/images/content/miller-small-logo.png" alt="University of Miami Miller School of Medicine" class="clear" width="175"></a></p>
+		</div>
+			
+			<div class="block">
+				<h5>University of Miami Health System</h5>
+				<ul>
+					<li><a href="/about/">About UHealth</a></li>
+					<li><a href="/careers">Careers</a></li>
+					<li><a href="/contact/">Contact</a></li>
+					<li><a href="/forms/newsletter-signup" id="newsletter-opener">Newsletter Signup</a></li>
+				</ul>
+				<ul>
+					<li><a href="https://twitter.com/umiamihealth">Twitter</a></li>
+					<li><a href="https://www.facebook.com/UMiamiHealth/">Facebook</a></li>
+					<li><a href="https://www.youtube.com/user/UHealthTV">YouTube</a></li>
+					<li><a href="/community">Community</a></li>
+				</ul>
+				<ul>
+					<li><a href="/legal/">Medical Disclaimer</a></li>
+					<li><a href="/legal/terms-of-use">Terms of Use</a></li>
+					<li><a href="/legal/privacy-statement">Privacy Statement</a></li>
+					<li>© Copyright 2017</li>
+				</ul>
+			</div><!--end block-->
+					
+			<div id="gift"><a href="/giving" title="Make a Gift"><span class="image"></span><span class="text">Every Gift Counts</span></a></div>
+
+
+		<div class="clear"></div>
+		<p class="tagline">University of Miami Health System, delivering South Florida's most advanced medical care.<br>
+				For general information call <a href="tel:+1-305-243-4000"><span class="bold">305-243-4000</span></a>. International patients please call 
+				<a href="tel:+1-305-243-9100"><span class="bold">305-243-9100</span></a>.</p>
+
+		
+	</div><!--end footer container-->
+			
+		
+	<div class="clear"></div>
+	<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_http" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="http://staticxx.facebook.com/connect/xd_arbiter/r/0F7S7QWJ0Ac.js?version=42#channel=fe85b5e55fba76&amp;origin=http%3A%2F%2Fuhealthsystem.com" frameborder="0"></iframe><iframe name="fb_xdm_frame_https" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="https://staticxx.facebook.com/connect/xd_arbiter/r/0F7S7QWJ0Ac.js?version=42#channel=fe85b5e55fba76&amp;origin=http%3A%2F%2Fuhealthsystem.com" frameborder="0"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f34389f1760bca" allowtransparency="true" allowfullscreen="true" scrolling="no" style="display: none;" src="https://www.facebook.com/connect/ping?client_id=199078476813329&amp;domain=uhealthsystem.com&amp;origin=1&amp;redirect_uri=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F0F7S7QWJ0Ac.js%3Fversion%3D42%23cb%3Df2aa8bd9c977218%26domain%3Duhealthsystem.com%26origin%3Dhttp%253A%252F%252Fuhealthsystem.com%252Ffe85b5e55fba76%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" frameborder="0"></iframe></div></div></div>
+</footer>
+<script type="text/javascript" src="/scripts/site-wide.js"></script>
+<script type="text/javascript" src="/scripts/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/scripts/footer.js"></script><div style="display: none; z-index: 1000; outline: 0px none;" class="ui-dialog ui-widget ui-widget-content ui-corner-all " tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-newsletter-signup"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-newsletter-signup">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="newsletter-signup" class="hide ui-dialog-content ui-widget-content" style="display: block;"></div></div>
+<script type="text/javascript" src="/scripts/platform.twitter.js.php"></script>
+<script type="text/javascript" src="/scripts/connect.facebook.js.php"></script>
+<!--
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+-->
+<script src="/js/fbml" type="text/javascript"></script>
+
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<script>
+//<![CDATA[
+  FB.init({
+    appId  : '199078476813329',
+    status : true, // check login status
+    cookie : true, // enable cookies to allow the server to access the session
+    fbml5  : true
+  });
+//]]>
+
+</script>
+<!--  Place this tag after the last plusone tag -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><iframe name="oauth2relay310483565" id="oauth2relay310483565" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2Fuhealthsystem.com&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.nSHAQLUuDMc.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCPT_IfuSxKCisZJDGyJJVUM7TBltw#rpctoken=388812767&amp;forcesecure=1" style="width: 1px; height: 1px; position: absolute; top: -100px;" tabindex="-1" aria-hidden="true"></iframe><iframe id="rufous-sandbox" scrolling="no" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none;" title="Twitter analytics iframe" frameborder="0"></iframe></body></html>

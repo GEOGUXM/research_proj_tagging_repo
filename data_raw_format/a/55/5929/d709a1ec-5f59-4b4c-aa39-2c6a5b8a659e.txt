@@ -1,0 +1,75 @@
+BACK
+Koen Giesbers
+Stef van der Woerdt
+Pien Goldsteen
+Rick Krabbendam
+Elmer Grob
+Tom Nijsink
+Margot Bekhuis
+Fiona Passanha
+Fikri Abali
+Guus van Dalum
+Yusif Saoor
+Madhumohan Rao Katika
+Yvonne Scholte op Reimer
+Barbara Liszka
+Sjoerd oude Alink
+Johan Teunis
+MCBP Alumni
+Edoardo Mazzi
+Ivan Stojanovic
+Wolfgang Baumgartner
+Annette van den Berg
+Ellen Coenen
+Daan Geijs
+Elmar Gool
+Yoeri van Hal
+Tanja Hamacher
+David den Houting
+Dewi Jhanjhan
+Danielle Koerhuis
+Heleen Mulder
+Lisa Oomens
+Jacco Ton
+Niels van der Velde
+EN| NL| DE
+TNW FACULTYMedical Cell BioPhysics
+IVAN STOJANOVIC
+
+PhD Student 
+E-mail: i.stojanovic@utwente.nl
+Telephone: +31 53 489 3881
+Fax: +31 53 489 3511
+Address: Faculty of Science and Technology
+Medical Cell BioPhysics (MCBP)
+Building: Carré
+Room: CR4433
+Drienerlolaan 5
+P.O. Box 217
+7500 AE Enschede
+The Netherlands
+PROJECT GOAL
+Develop Surface Plasmon Resonance imaging (SPRi) into a new (usable) cytometry technique for the label free and real time monitoring of cells for the sake of studying multiplex cell surface expression and the excretion of proteins by cells.
+SPR
+Surface Plasmon Resonance is an old technique which only now in the recent drastic increase in computer power starts to show its true potential. SPR works as follows: p-polarized light shines on a gold sensor surface after which it gets reflected back off the sensor. At a certain angle of incidence the light does not get reflected but the photons of the light and the free electrons of the gold start to interact with each other. After which a so called resonance condition is achieved, this results in the light not being reflected anymore. As it turns out the gold surface in this condition is very suitable to distinguish refractive index changes, such as by the binding of bio-molecules on the sensor. When a molecule binds to the gold surface the angle at which this resonance condition occurs (also known as the SPR angle) shifts. A computer is used to accurately keep track of the shifting angle in real time, as such it is possible to not only do positive / negative assays with SPR but also to quantify the samples that are being measured as the shift in SPR angle is proportional to the concentration of the binding molecule. Recently we have shown that it is possible to perform cell analysis using SPRi, we customized an Ibis MX96 SPR imager to make a unique combination between biosensing and imaging to develop a new discipline in cell analysis: SPR cytometry.
+With this setup we are able to perform: multiplex cell surface marker detection, label free cell surface marker expression level analysis, real time analysis of protein excretion by cells.
+
+Figure 1: Overlay plot of an SPR sensorgram showing MCF7, SKBR3 and HS578T cancer cells and their interaction with anti EpCAM antibodies (highly expressed in some cancers) and anti Human Serum Albumin antibodies (negative control).
+
+Figure 2: various types of cells binding on various types of ligands.
+
+Figure 3: The Ibis MX96 and the accompanying CFM microfluidic spotter
+COLLABORATION
+Ibis Technologies b.v. www.ibis-spr.nl
+Ssens b.v. www.ssens.nl
+Share this page
+UNIVERSITY OF TWENTE
+DRIENERLOLAAN 5
+7522 NB ENSCHEDE
+0031 53 489 9111
+info@utwente.nl
+Route
+Disclaimer & CopyrightPrivacy & CookiesLast Update 14-05-2017
+COOKIES
+
+The websites of the University of Twente use cookies in order to analyse website usage and improve user-friendliness. In addition, we use third-party tracking cookies, for instance to measure user preferences and to enable users to share our content on social media. Read more about cookies.

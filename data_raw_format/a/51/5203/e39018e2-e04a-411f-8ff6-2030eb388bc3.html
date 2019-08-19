@@ -1,0 +1,114 @@
+<html><head>
+        <title>The wait operation timed out</title>
+        <meta name="viewport" content="width=device-width">
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:hand; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { width: 280px; }
+         }
+        </style>
+    </head>
+
+    <body bgcolor="white">
+
+            <span><h1>Server Error in '/' Application.<hr width="100%" size="1" color="silver"></h1>
+
+            <h2> <i>The wait operation timed out</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Description: </b>An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+
+            <br><br>
+
+            <b> Exception Details: </b>System.ComponentModel.Win32Exception: The wait operation timed out<br><br>
+
+            <b>Source Error:</b> <br><br>
+
+            <table width="100%" bgcolor="#ffffcc">
+               <tbody><tr>
+                  <td>
+                      <code>
+
+An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.</code>
+
+                  </td>
+               </tr>
+            </tbody></table>
+
+            <br>
+
+            <b>Stack Trace:</b> <br><br>
+
+            <table width="100%" bgcolor="#ffffcc">
+               <tbody><tr>
+                  <td>
+                      <code><pre>
+[Win32Exception (0x80004005): The wait operation timed out]
+
+[SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=4; handshake=14998; ]
+   System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling) +1000
+   System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions) +801
+   System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions) +38
+   System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection) +852
+   System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions) +143
+   System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions) +17
+   System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry) +139
+   System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry) +367
+   System.Data.SqlClient.SqlConnection.Open() +130
+   CMS.DataEngine.AbstractDataConnection.Open() +141
+   CMS.DataEngine.AbstractDataConnection.CMS.SettingsProvider.IDataConnection.Open() +10
+   CMS.DataEngine.GeneralConnection.RunQuery(QueryParameters query) +107
+   CMS.DataEngine.GeneralConnection.ExecuteQuery(QueryParameters query) +378
+   CMS.DataEngine.GeneralConnection.ExecuteQuery(String queryName, QueryDataParameters parameters, String where, String orderBy, Int32 topN, String columns) +196
+   CMS.DataEngine.GeneralConnection.ExecuteQuery(String queryName, QueryDataParameters parameters, String where, String orderBy, Int32 topN, String columns, Int32 offset, Int32 maxRecords, Int32&amp; totalRecords) +46
+   CMS.DocumentEngine.TreeProvider.ExecuteQuery(String queryName, QueryDataParameters parameters, String where, String orderBy, Int32 topN, String columns, Int32 offset, Int32 maxRecords, Int32&amp; totalRecords) +114
+   CMS.DocumentEngine.TreeProvider.SelectNodes(NodeSelectionParameters parameters) +1284
+   CMS.DocumentEngine.TreeProvider.SelectNodes(String siteName, String aliasPath, String cultureCode, Boolean combineWithDefaultCulture, String classNames, String where, String orderBy, Int32 maxRelativeLevel, Boolean selectOnlyPublished, Int32 topN, String columns) +152
+   CMS.Controls.CMSAbstractDataProperties.GetDataSet(String path, String where, Boolean forceReload) +2284
+   CMS.Controls.CMSAbstractDataProperties.LoadData(Object&amp; DataSource, Boolean forceReload) +168
+   CMS.Controls.CMSRepeater.ReloadData(Boolean forceReload) +1672
+   CMS.Controls.CMSRepeater.OnInit(EventArgs e) +72
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +391
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Control.InitRecursive(Control namingContainer) +184
+   System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) +1632
+</pre></code>
+
+                  </td>
+               </tr>
+            </tbody></table>
+
+            <br>
+
+            <hr width="100%" size="1" color="silver">
+
+            <b>Version Information:</b>&nbsp;Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.7.2053.0
+
+            </font>
+
+    
+
+</body></html>

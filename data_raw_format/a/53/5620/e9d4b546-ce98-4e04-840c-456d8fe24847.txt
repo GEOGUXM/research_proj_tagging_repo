@@ -1,0 +1,48 @@
+The University of North Carolina at Chapel Hill
+CalendarLibrariesMapsDepartmentsConnectCarolinaSearch »
+Biology Department
+Undergraduate Program
+Graduate Program
+Research
+Seminars & Events
+People
+Resources
+Donate
+Contact Us
+Biology Home » Ahmed, Shawn
+  PEOPLE
+Faculty
+Staff
+Postdoctoral Associates
+Graduate Students
+Print
+Text:
+Increase font size
+Decrease font size
+
+Shawn Ahmed
+Professor
+
+CONTACT INFORMATION
+Office: 216 Fordham Hall
+Email: shawn[at]med.unc.edu
+Office Phone: (919) 843-4780
+Lab Phone: (919) 843-4813
+
+Ahmed Lab Website
+
+RESEARCH DESCRIPTION
+Our research group has interests in telomere replication and in germline immortality. We are studying these problems using the nematode Caenorabditis elegans, a multicellular eukaryote with excellent genetics, which can be combined with biochemical and cell biology approaches
+How does the germline achieve immortality?
+The germline is an immortal cell lineage that is passed from one generation to the next, indefinitely. In order to determine how germ cells achieve immortality, we have identified C. elegans mutants with Mortal Germlines: mutants that reproduce normally for several generations, but eventually became sterile (Figure 1). The germ cells of these mutants transmit forms of damage that accumulate over the generations to levels that cause dramatic effects on development.
+Figure 1. Mortal germline mutants eventually become sterile.
+Given that the soma is only needed for a single generation, evolutionary theory posits that somatic cells may be deficient for pathways that ensure germ cell immortality. Substantial evidence from vertebrates indicates that this is likely to be the case. We are utilizing an unbiased genetic approach to investigate pathways that enable germ cells to achieve proliferative immortality in C. elegans, which may shed light human diseases and may reveal novel forms of macromolecular damage that are relevant to heredity (other than transmission of DNA mutations).
+How are telomeres replicated?
+Telomeres, the ends of linear chromosomes, are usually composed of simple repetitive sequences. In most organisms, telomere length is maintained by telomerase, a ribonucleoprotein that adds repeats to chromosome termini. Humans deficient for telomerase suffer from the lethal hereditary disorders Aplastic Anemia, Dyskeritosis Congenita and Pulmonary Fibrosis. C. elegans is the most highly evolved multicellular eukaryote in which an unbiased genetic approach can be used to study the problem of telomere replication. A fraction of the mortal germline mutants described above are completely defective for telomerase activity in vivo (Figure 2). Studies of these genes may help to elucidate the mechanism by which telomerase functions at chromosome termini and may provide significant insight into telomerase-related diseases.
+Telomerase is deficient in most human somatic cells, and telomere erosion in this context may contribute to genome instability that fuels the development of many forms of cancer. C. elegans has holocentric chromosomes, so fused chromosomes that occur when telomerase is deficient can be genetically isolated and mapped. These stable end-to-end chromosome fusions allow us to address the mechanism by which dysfunctional telomeres are repaired with unparalleled clarity, and may provide insight into how large-scale DNA rearrangements occur during tumorigenesis.
+Figure 2. Telomere replication defects such as (a) telomere shortening and (b) end-to-end chromosome fusions are observed in a subset of mortal germline mutants, suggesting that telomerase does not function properly in these mutants.
+Manage this Site
+The Department of Biology believes that diversity is crucial to our pursuit of academic excellence, and is deeply committed to creating a diverse and inclusive community. We support UNC's policy, which states that "the University of North Carolina at Chapel Hill is committed to equality of opportunity and pledges that it will not practice or permit discrimination in employment on the basis of race, color, gender, national origin, age, religion, creed, disability, veteran's status, sexual orientation, gender identity or gender expression".
+Undergraduate Program | Graduate Program | Research | Seminars & Events | People | Resources | Donate | Contact Us
+UNC Department of Biology, Coker Hall, CB #3280, 120 South Road, Chapel Hill, NC 27599-3280 | 919-962-2077
+Contact our Website Administrator

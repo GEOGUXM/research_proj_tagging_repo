@@ -1,0 +1,631 @@
+<html lang="en-US"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0">
+<link rel="shortcut icon" href="http://mathstats.case.edu/wp-content/themes/CASTheme2015/favicon.ico">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<!-- <link rel="stylesheet" type="text/css" media="all" href="http://mathstats.case.edu/wp-content/themes/CASTheme2015/style.css" /> -->
+<link rel="pingback" href="http://mathstats.case.edu/xmlrpc.php">
+
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript" async="" src="http://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M6NQD8"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/mathstats.case.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://mathstats.case.edu/wp-includes/js/wp-emoji-release.min.js?ver=4.8" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="columns-css" href="http://mathstats.case.edu/wp-content/plugins/columns-for-bootstrap/columns.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="titillium-font-css" href="http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,600,700,900" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="http://mathstats.case.edu/wp-content/themes/CASTheme2015/css/bootstrap.css?ver=3.3.5" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=4.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="cas-bootstrap-override-css" href="http://mathstats.case.edu/wp-content/themes/CASTheme2015/css/cas-bootstrap-override.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="cas-layout-css" href="http://mathstats.case.edu/wp-content/themes/CASTheme2015/css/cas-layout.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="megamenu-css" href="http://mathstats.case.edu/wp-content/themes/CASTheme2015/css/cas-megamenu.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-css" href="http://mathstats.case.edu/wp-content/themes/CASTheme2015/css/cas-woocommerce.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="slb_core-css" href="http://mathstats.case.edu/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.6.0" type="text/css" media="all">
+<link rel="stylesheet" id="core-css" href="http://mathstats.case.edu/wp-content/plugins/casewestern-directory/css/style.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="sccss_style-css" href="http://mathstats.case.edu?sccss=1&amp;ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://mathstats.case.edu/wp-content/plugins/jetpack/css/jetpack.css?ver=5.0" type="text/css" media="all">
+<script type="text/javascript" src="http://mathstats.case.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://mathstats.case.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://mathstats.case.edu/wp-content/themes/CASTheme2015/js/bootstrap.js?ver=3.3.5"></script>
+<script type="text/javascript" src="http://mathstats.case.edu/wp-content/themes/CASTheme2015/js/jquery.finger.min.js?ver=0.0.11"></script>
+<script type="text/javascript" src="http://mathstats.case.edu/wp-content/themes/CASTheme2015/js/megamenu.js?ver=4.8"></script>
+<script type="text/javascript" src="http://mathstats.case.edu/wp-content/themes/CASTheme2015/js/retina.js?ver=0.0.2"></script>
+<link rel="https://api.w.org/" href="http://mathstats.case.edu/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mathstats.case.edu/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mathstats.case.edu/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.8">
+
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<style type="text/css">img#wpstats{display:none}</style>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49145005-1', 'case.edu');
+  ga('send', 'pageview');
+
+</script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M6NQD8');</script>
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript">
+
+adjustSiteTitle = function() {
+	var topBarContainerWidth = jQuery("#cas-top-bar .container .row").width();	
+	var siteTitleObject = jQuery("h1.topBarDepartmentName");
+	var siteTitleLength = siteTitleObject.html().length;
+  };
+
+	
+
+
+
+jQuery(document).ready(function($){
+
+	adjustSiteTitle();
+		
+	$("#cas-top-slider-container").click(function(){
+		$("#cas-top-slider-panel").slideToggle("slow");
+		$(this).toggleClass("active");
+		caretClassName = $("#cas-slider-icon").attr("class");
+		if (caretClassName == "fa fa-caret-down") {
+			$("#cas-slider-icon").addClass("fa-caret-up");
+			$("#cas-slider-icon").removeClass("fa-caret-down");
+		}
+		else {
+			$("#cas-slider-icon").addClass("fa-caret-down");
+			$("#cas-slider-icon").removeClass("fa-caret-up");;
+		}
+	});
+	
+	$("#cas-mobile-menu-slider-toggle").click(function(){
+		$("#cas-mobile-department-menu-accordian").slideToggle(10);
+	});
+	
+	$("#search-tab").click(function(){
+		$("#top-bar-search-slider").slideToggle(1);
+		$(this).toggleClass("active");
+		$("#top-bar-search-slider-input").val("");
+		$("#top-bar-search-slider-input").icfocus();
+	});
+	
+	$('#cwru-tabs-dropdown-toggle').mouseenter(function(){ 
+		$('#cwru-tabs-dropdown-toggle').dropdown('toggle'); 
+		var dropdownPoller = setInterval(function() {
+			if ($('#cwru-tabs-dropdown-toggle').is(':hover') || $('#cwru-tabs-dropdown').is(':hover')) {
+				
+			}
+			else {
+				$('#cwru-tabs-dropdown-toggle').parent().removeClass('open'); 
+				clearInterval(dropdownPoller);
+			}
+		}, 500);
+	});
+	
+});
+
+// Handle window resizes
+jQuery(window).resize(function() {
+	// Adjust Menu
+		
+	// Adjust site name
+	adjustSiteTitle();
+});
+
+
+
+</script>
+
+<title>Department of Mathematics, Applied Mathematics and Statistics</title>
+
+</head>
+<body class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6NQD8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		<div id="cas-top-slider-panel" class="hidden-xs hidden-sm">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<h2><a href="http://artsci.case.edu">College of Arts and Sciences</a></h2>
+						<div class="row">
+							<div class="col-md-6">
+								<a href="http://artsci.case.edu">College Home</a><br>
+								<a href="http://artsci.case.edu/about-the-college/">About the College</a><br>
+								<a href="http://artsci.case.edu/about-the-college/history/">History</a><br>
+								<a href="http://artsci.case.edu/about-the-college/about-the-dean/">About the Dean</a><br>
+								<a href="http://artsci.case.edu/about-the-college/deans-office/">Dean's Office</a><br>
+								<a href="http://artsci.case.edu/about-the-college/department-chairs/">Department Chairs</a><br>
+								<a href="http://artsci.case.edu/about-the-college/department-administrators/">Department Administrators</a><br>
+							</div>
+							<div class="col-md-6">
+								<a href="http://artsci.case.edu/blog/category/news/">College News and Events</a><br>
+								<a href="http://artsci.case.edu/development/making-a-gift/">Supporting the College</a><br>
+								<a href="http://artsci.case.edu/development/">Alumni and Friends</a><br>
+								<a href="http://artsci.case.edu/about-the-college/contact/">Contact the College</a><br>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-6">
+						<h2>Academic Departments</h2>
+						<div class="row">
+							<div class="col-md-6">
+								<a href="http://anthropology.case.edu">Anthropology</a><br>
+								<a href="http://arthistory.case.edu">Art History and Art</a><br>
+								<a href="http://astronomy.case.edu/">Astronomy</a><br>
+								<a href="http://biology.case.edu">Biology</a><br>
+								<a href="http://chemistry.case.edu">Chemistry</a><br>
+								<a href="http://classics.case.edu/">Classics</a><br>
+								<a href="http://cognitivescience.case.edu/">Cognitive Science</a><br>
+								<a href="http://dance.case.edu/">Dance</a><br>
+								<a href="http://geology.case.edu/">Earth, Environmental and Planetary Sciences</a><br>
+								<a href="http://english.case.edu">English</a><br>
+								<a href="http://history.case.edu/">History</a>
+							</div>
+							<div class="col-md-6">
+								<a href="http://mathstats.case.edu">Mathematics, Applied Mathematics and Statistics</a><br>
+								<a href="http://mll.case.edu">Modern Languages and Literatures</a><br>
+								<a href="http://music.case.edu/">Music</a><br>
+								<a href="http://philosophy.case.edu">Philosophy</a><br>
+								<a href="http://physics.case.edu/">Physics</a><br>
+								<a href="http://politicalscience.case.edu/">Political Science</a><br>
+								<a href="http://psychsciences.case.edu">Psychological Sciences</a><br>
+								<a href="http://religion.case.edu">Religious Studies</a><br>
+								<a href="http://sociology.case.edu">Sociology</a><br>
+								<a href="http://theater.case.edu/">Theater</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+   
+    <!-- header -->
+    <!-- content -->
+    <!-- footer -->
+
+<!-- page -->
+	
+	<div id="cas-top-bar" class="hidden-xs">
+			<div class="container headerFeatures">
+				<div class="row">
+                                    <div class="col-xs-3">
+                                              						<img id="cwruCASLogo" src="http://mathstats.case.edu/wp-content/themes/CASTheme2015/images/cas-logo-header.png" style="max-height:65px;">
+							                                    </div>
+					<div class="col-xs-9">
+						<div id="cas-top-bar-tabs">
+							<div id="cwru-tabs" class="dropdown">
+								<a id="cwru-tabs-dropdown-toggle" href="#">
+									<i class="fa fa-bars"></i> CWRU Links
+								</a>
+								<ul id="cwru-tabs-dropdown" class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+  								<li><a href="http://www.case.edu">CWRU Home</a></li>
+  								<li><a href="http://case.edu/stage/admissions/">Apply</a></li>
+  								<li><a href="http://www.case.edu/visit/">Visit</a></li>
+  								<li><a href="http://giving.case.edu/s/1526/index.aspx">Give</a></li>
+ 							 </ul>
+							</div>
+							<div id="cas-top-slider-container" class="college-tab">
+								College of Arts and Sciences <i style="margin-left: 5px;" id="cas-slider-icon" class="fa fa-caret-down"></i>
+							</div>
+							<div id="search-tab">
+								<i class="fa fa-search"></i>
+							</div>
+						<div class="site-name"><h1 class="topBarDepartmentName">Department of Mathematics, Applied Mathematics and Statistics</h1>
+                                            
+                                                </div>
+					<div id="top-bar-search-slider">
+						<form id="cse-search-box" action="//www.case.edu/search-results/" role="search" aria-label="desktop search">
+							<input name="cx" value="004305171799132815236:ciq4c8b3yv4" type="hidden">
+							<input name="ie" value="UTF-8" type="hidden">
+							<input name="q" id="top-bar-search-slider-input" type="text">
+							<button type="submit" name="sa" value="Search">Search</button>
+						</form>
+						
+				
+
+					</div>
+				</div>
+                          </div>
+                                </div>
+			</div>
+		</div>		<div id="cas-department-menu" class="hidden-xs hidden-sm">
+			<div class="container">
+				<div class="row"><div class="row">
+					<div class="col-xs-12">
+						
+<ul class="department-mega-menu">
+													<li class="menu-item menu-item-type-custom menu-item-object-custom">
+														<a title="Home" href="http://mathstats.case.edu" class="drop">
+															<i class="fa fa-home"></i>
+														</a>
+													</li>
+													<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-381"><a href="http://mathstats.case.edu/about-us/" class="drop">About Us</a>
+<div class="dropdown_2columns" style="width: 25px;"><div class="col_2" style="width: 95%;"><ul>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="http://mathstats.case.edu/about-us/contact/">Contact Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a href="http://mathstats.case.edu/about-us/resources-and-links/">Resources and Links</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-591"><a href="http://mathstats.case.edu/about-us/employment/">Employment Opportunities</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-489"><a href="#" class="drop">Directory</a>
+<div class="dropdown_2columns" style="width: 25px;"><div class="col_2" style="width: 95%;"><ul>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2039"><a href="http://mathstats.case.edu/faculty-staff/">Faculty and Staff</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2040"><a href="http://mathstats.case.edu/graduate-students/">Graduate Students</a></li>
+</ul></div></div>
+</li>
+<li>
+	<a class="drop" href="http://mathstats.case.edu/undergraduate-programs/">Academic Programs</a>	<div class="dropdown_6columns mega-dropdown" style="width: 75px;"><div class="col_2" style="width: 31%;"><h2>Undergraduate</h2><ul><li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://mathstats.case.edu/undergraduate-programs/">Introduction to Undergraduate Programs</a></li>
+<li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="http://mathstats.case.edu/undergraduate-programs/why/">Why Major in Mathematics, Applied Mathematics and Statistics</a></li>
+<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-arts-in-mathematics/">Bachelor of Arts in Mathematics</a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-science-in-mathematics/">Bachelor of Science in Mathematics</a></li>
+<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-science-in-applied-mathematics/">Bachelor of Science in Applied Mathematics</a></li>
+<li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-arts-in-statistics/">Bachelor of Arts in Statistics</a></li>
+<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-science-in-statistics/">Bachelor of Science in Statistics</a></li>
+<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-science-in-mathematics-and-physics/">Bachelor of Science in Mathematics and Physics</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://mathstats.case.edu/undergraduate-programs/integrated-bsms-program/">Integrated BS/MS Program</a></li>
+<li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="http://mathstats.case.edu/undergraduate-programs/minor-in-mathematics/">Minor in Mathematics</a></li>
+<li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="http://mathstats.case.edu/undergraduate-programs/minor-in-statistics/">Minor in Statistics</a></li>
+<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="http://mathstats.case.edu/undergraduate-programs/teacher-licensure/">Teacher Licensure</a></li>
+<li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="http://mathstats.case.edu/undergraduate-programs/undergraduate-courses/">Undergraduate Courses</a></li>
+</ul></div><div class="col_2" style="width: 31%;"><h2>Graduate</h2><ul><li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="http://mathstats.case.edu/graduate-programs/">Introduction to Graduate Programs</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="http://mathstats.case.edu/graduate-programs/master-of-science-in-mathematics/">Master of Science in Mathematics</a></li>
+<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="http://mathstats.case.edu/graduate-programs/master-of-science-in-applied-mathematics/">Master of Science in Applied Mathematics</a></li>
+<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="http://mathstats.case.edu/graduate-programs/phd/">PhD in Mathematics or Applied Mathematics</a></li>
+<li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a href="http://mathstats.case.edu/graduate-programs/master-of-science-in-statistics/">Master of Science in Statistics</a></li>
+<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="http://mathstats.case.edu/graduate-programs/phd-in-statistics/">PhD in Statistics</a></li>
+<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="http://mathstats.case.edu/graduate-programs/admission/">Admission</a></li>
+<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a href="http://mathstats.case.edu/graduate-programs/financial-aid/">Financial Aid</a></li>
+<li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-569"><a href="http://mathstats.case.edu/graduate-programs/graduate-courses/">Graduate Courses</a></li>
+<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://mathstats.case.edu/graduate-programs/careers/">Careers</a></li>
+<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="http://mathstats.case.edu/graduate-programs/faq/">Frequently Asked Questions</a></li>
+</ul></div><div class="col_2" style="width: 31%;"><h2>Resources</h2><ul><li id="menu-item-631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-631"><a href="http://mathstats.case.edu/undergraduate-programs/computing-labs/">Computing Labs</a></li>
+<li id="menu-item-633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-633"><a href="http://mathstats.case.edu/undergraduate-programs/math-tutoring-center/">Math Tutoring Center</a></li>
+</ul></div></div></li>
+
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-529"><a href="#" class="drop">News and Events</a>
+<div class="dropdown_2columns" style="width: 25px;"><div class="col_2" style="width: 95%;"><ul>	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-531"><a href="http://mathstats.case.edu/category/news/">News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="http://mathstats.case.edu/calendar/">Calendar of Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="http://mathstats.case.edu/calendar/colloquia/">Colloquia</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1910"><a href="http://mathstats.case.edu/datafest-2017/">DataFest 2017</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-535"><a href="http://mathstats.case.edu/calendar/seminars/">Seminars</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-932"><a href="http://mathstats.case.edu/calendar/student-presentations/">Student Presentations</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-233"><a href="http://mathstats.case.edu/research/" class="drop">Research</a>
+<div class="dropdown_2columns" style="width: 25px;"><div class="col_2" style="width: 95%;"><ul>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="http://mathstats.case.edu/research/imaging/">Imaging</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="http://mathstats.case.edu/research/convexity-and-high-dimensional-phenomena/">Convexity and High Dimensional Phenomena</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="http://mathstats.case.edu/research/life-sciences/">Life Sciences</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a href="http://mathstats.case.edu/research/probability/">Probability and Statistics</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="http://mathstats.case.edu/research/geometric-evolution-equations-for-curves/">Geometric Evolution Equations for Curves</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="http://mathstats.case.edu/research/dynamical-systems/">Dynamical Systems</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="http://mathstats.case.edu/research/large-scale-scientific-computing/">Large-scale Scientific Computing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="http://mathstats.case.edu/publications/">Publications</a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481"><a href="http://mathstats.case.edu/how-to-give/" class="drop">Support</a></li>
+<li>
+	<a class="drop" href="http://mathstats.case.edu/about-us/">Information For ...</a>	<div class="dropdown_6columns mega-dropdown" style="width: 75px;"><div class="col_2" style="width: 31%;"><h2>Prospective Students</h2><ul><li id="menu-item-617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-617"><a href="http://mathstats.case.edu/undergraduate-programs/">Introduction to Undergraduate Programs</a></li>
+<li id="menu-item-615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615"><a href="http://mathstats.case.edu/graduate-programs/">Introduction to Graduate Programs</a></li>
+<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="http://mathstats.case.edu/undergraduate-programs/why/">Why Major in Mathematics, Applied Mathematics and Statistics</a></li>
+</ul></div><div class="col_2" style="width: 31%;"><h2>Current Students</h2><ul><li id="menu-item-609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-609"><a href="http://mathstats.case.edu/undergraduate-programs/">Introduction to Undergraduate Programs</a></li>
+<li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="http://mathstats.case.edu/undergraduate-programs/undergraduate-courses/">Undergraduate Courses</a></li>
+<li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a href="http://mathstats.case.edu/graduate-programs/">Introduction to Graduate Programs</a></li>
+<li id="menu-item-605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-605"><a href="http://mathstats.case.edu/graduate-programs/graduate-courses/">Graduate Courses</a></li>
+<li id="menu-item-607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-607"><a href="http://mathstats.case.edu/graduate-programs/faq/">Frequently Asked Questions</a></li>
+<li id="menu-item-599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599"><a href="http://mathstats.case.edu/undergraduate-programs/computing-labs/">Computing Labs</a></li>
+<li id="menu-item-601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-601"><a href="http://mathstats.case.edu/undergraduate-programs/math-tutoring-center/">Math Tutoring Center</a></li>
+<li id="menu-item-603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-603"><a href="http://mathstats.case.edu/?page_id=5">Directory</a></li>
+</ul></div><div class="col_2" style="width: 31%;"><h2>Alumni and Friends</h2><ul><li id="menu-item-623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-623"><a href="http://mathstats.case.edu/category/news/">News</a></li>
+<li id="menu-item-621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-621"><a href="http://mathstats.case.edu/how-to-give/">How to Give</a></li>
+<li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="http://mathstats.case.edu/?page_id=5">Directory</a></li>
+</ul></div></div></li>
+
+</ul>
+                                        </div></div>
+				</div>
+			</div>
+		</div>
+		<div id="cas-mobile-top-bar" class="visible-xs-block">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						 						<img id="cwruCASLogo" src="http://mathstats.case.edu/wp-content/themes/CASTheme2015/images/cas-logo-header.png" style="width:100%; max-width:300px;">
+						                       <h1 class="topBarDepartmentName">Department of Mathematics, Applied Mathematics and Statistics</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+
+            <div id="cas-mobile-menu-slider-toggle" class="visible-xs visible-sm college-tab">
+                <i class="fa fa-bars"></i> Navigation + <i class="fa fa-search"></i> Search
+            </div>
+
+            <div id="cas-mobile-department-menu" class="visible-phone">
+                                <div class="accordion" id="cas-mobile-department-menu-accordian">
+                    <div id="mobile-nav-search">
+                        <form action="http://google.com/cse">
+                            <div class="input-append">
+                                <input id="footer-search-id" name="cx" value="015686301297374177681:uy8_du3q1dq" type="hidden">
+                                <input name="ie" value="UTF-8" type="hidden">
+                                <div class="input-append">
+                                    <input class="col-xs-8" name="q" id="appendedInputButton" type="text">
+                                    <button class="btn btn-default" type="submit">Search</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="accordion" id="accordion2">
+							<div class="accordion-group">
+								<div class="accordion-heading">
+									<a class="accordion-toggle" doubletap-url="http://mathstats.case.edu/about-us/" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+										About Us
+									</a>
+								</div>
+								<div id="collapseOne" class="accordion-body mobile-menu-dropdown collapse custom-mobile-menu" url="http://mathstats.case.edu/about-us/">
+									<div class="accordion-inner">
+										<a href="http://mathstats.case.edu/about-us/contact/">Contact Us</a><br><a href="http://mathstats.case.edu/about-us/resources-and-links/">Resources and Links</a><br><a href="http://mathstats.case.edu/about-us/employment/">Employment Opportunities</a><br>
+									</div>
+								</div>
+							</div>
+						
+
+							<div class="accordion-group">
+								<div class="accordion-heading">
+									<a class="accordion-toggle" doubletap-url="#" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+										Directory
+									</a>
+								</div>
+								<div id="collapseTwo" class="accordion-body mobile-menu-dropdown collapse custom-mobile-menu" url="#">
+									<div class="accordion-inner">
+										<a href="http://mathstats.case.edu/faculty-staff/">Faculty and Staff</a><br><a href="http://mathstats.case.edu/graduate-students/">Graduate Students</a><br>
+									</div>
+								</div>
+							</div>
+						
+
+				<div class="accordion-group">
+					<div class="accordion-heading">
+						<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+							Academic Programs
+						</a>
+					</div>
+					<div id="collapseThree" class="accordion-body collapse mobile-menu-dropdown custom-mobile-menu" url="http://mathstats.case.edu/undergraduate-programs/">
+						<div class="accordion-inner mobile-mega-dropdown-contents">
+							<div><h2>Undergraduate</h2><ul id="menu-undergraduate-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://mathstats.case.edu/undergraduate-programs/">Introduction to Undergraduate Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="http://mathstats.case.edu/undergraduate-programs/why/">Why Major in Mathematics, Applied Mathematics and Statistics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-arts-in-mathematics/">Bachelor of Arts in Mathematics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-science-in-mathematics/">Bachelor of Science in Mathematics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-science-in-applied-mathematics/">Bachelor of Science in Applied Mathematics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-arts-in-statistics/">Bachelor of Arts in Statistics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-science-in-statistics/">Bachelor of Science in Statistics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="http://mathstats.case.edu/undergraduate-programs/bachelor-of-science-in-mathematics-and-physics/">Bachelor of Science in Mathematics and Physics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://mathstats.case.edu/undergraduate-programs/integrated-bsms-program/">Integrated BS/MS Program</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="http://mathstats.case.edu/undergraduate-programs/minor-in-mathematics/">Minor in Mathematics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="http://mathstats.case.edu/undergraduate-programs/minor-in-statistics/">Minor in Statistics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="http://mathstats.case.edu/undergraduate-programs/teacher-licensure/">Teacher Licensure</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="http://mathstats.case.edu/undergraduate-programs/undergraduate-courses/">Undergraduate Courses</a></li>
+</ul></div><div><h2>Graduate</h2><ul id="menu-graduate-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="http://mathstats.case.edu/graduate-programs/">Introduction to Graduate Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="http://mathstats.case.edu/graduate-programs/master-of-science-in-mathematics/">Master of Science in Mathematics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="http://mathstats.case.edu/graduate-programs/master-of-science-in-applied-mathematics/">Master of Science in Applied Mathematics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="http://mathstats.case.edu/graduate-programs/phd/">PhD in Mathematics or Applied Mathematics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a href="http://mathstats.case.edu/graduate-programs/master-of-science-in-statistics/">Master of Science in Statistics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="http://mathstats.case.edu/graduate-programs/phd-in-statistics/">PhD in Statistics</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="http://mathstats.case.edu/graduate-programs/admission/">Admission</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a href="http://mathstats.case.edu/graduate-programs/financial-aid/">Financial Aid</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-569"><a href="http://mathstats.case.edu/graduate-programs/graduate-courses/">Graduate Courses</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://mathstats.case.edu/graduate-programs/careers/">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="http://mathstats.case.edu/graduate-programs/faq/">Frequently Asked Questions</a></li>
+</ul></div><div><h2>Resources</h2><ul id="menu-resources-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-631"><a href="http://mathstats.case.edu/undergraduate-programs/computing-labs/">Computing Labs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-633"><a href="http://mathstats.case.edu/undergraduate-programs/math-tutoring-center/">Math Tutoring Center</a></li>
+</ul></div>
+						</div>
+					</div>
+				</div>
+			
+
+							<div class="accordion-group">
+								<div class="accordion-heading">
+									<a class="accordion-toggle" doubletap-url="#" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
+										News and Events
+									</a>
+								</div>
+								<div id="collapseFour" class="accordion-body mobile-menu-dropdown collapse custom-mobile-menu" url="#">
+									<div class="accordion-inner">
+										<a href="http://mathstats.case.edu/category/news/">News</a><br><a href="http://mathstats.case.edu/calendar/">Calendar of Events</a><br><a href="http://mathstats.case.edu/calendar/colloquia/">Colloquia</a><br><a href="http://mathstats.case.edu/datafest-2017/">DataFest 2017</a><br><a href="http://mathstats.case.edu/calendar/seminars/">Seminars</a><br><a href="http://mathstats.case.edu/calendar/student-presentations/">Student Presentations</a><br>
+									</div>
+								</div>
+							</div>
+						
+
+							<div class="accordion-group">
+								<div class="accordion-heading">
+									<a class="accordion-toggle" doubletap-url="http://mathstats.case.edu/research/" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
+										Research
+									</a>
+								</div>
+								<div id="collapseFive" class="accordion-body mobile-menu-dropdown collapse custom-mobile-menu" url="http://mathstats.case.edu/research/">
+									<div class="accordion-inner">
+										<a href="http://mathstats.case.edu/research/imaging/">Imaging</a><br><a href="http://mathstats.case.edu/research/convexity-and-high-dimensional-phenomena/">Convexity and High Dimensional Phenomena</a><br><a href="http://mathstats.case.edu/research/life-sciences/">Life Sciences</a><br><a href="http://mathstats.case.edu/research/probability/">Probability and Statistics</a><br><a href="http://mathstats.case.edu/research/geometric-evolution-equations-for-curves/">Geometric Evolution Equations for Curves</a><br><a href="http://mathstats.case.edu/research/dynamical-systems/">Dynamical Systems</a><br><a href="http://mathstats.case.edu/research/large-scale-scientific-computing/">Large-scale Scientific Computing</a><br><a href="http://mathstats.case.edu/publications/">Publications</a><br>
+									</div>
+								</div>
+							</div>
+						
+
+							<div class="accordion-group">
+								<div class="accordion-heading">
+									<a href="http://mathstats.case.edu/how-to-give/" class="accordion-toggle">
+										Support
+									</a>
+								</div>
+							</div>
+				<div class="accordion-group">
+					<div class="accordion-heading">
+						<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+							Information For ...
+						</a>
+					</div>
+					<div id="collapseSeven" class="accordion-body collapse mobile-menu-dropdown custom-mobile-menu" url="http://mathstats.case.edu/about-us/">
+						<div class="accordion-inner mobile-mega-dropdown-contents">
+							<div><h2>Prospective Students</h2><ul id="menu-prospective-students-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-617"><a href="http://mathstats.case.edu/undergraduate-programs/">Introduction to Undergraduate Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615"><a href="http://mathstats.case.edu/graduate-programs/">Introduction to Graduate Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="http://mathstats.case.edu/undergraduate-programs/why/">Why Major in Mathematics, Applied Mathematics and Statistics</a></li>
+</ul></div><div><h2>Current Students</h2><ul id="menu-current-students-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-609"><a href="http://mathstats.case.edu/undergraduate-programs/">Introduction to Undergraduate Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="http://mathstats.case.edu/undergraduate-programs/undergraduate-courses/">Undergraduate Courses</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a href="http://mathstats.case.edu/graduate-programs/">Introduction to Graduate Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-605"><a href="http://mathstats.case.edu/graduate-programs/graduate-courses/">Graduate Courses</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-607"><a href="http://mathstats.case.edu/graduate-programs/faq/">Frequently Asked Questions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599"><a href="http://mathstats.case.edu/undergraduate-programs/computing-labs/">Computing Labs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-601"><a href="http://mathstats.case.edu/undergraduate-programs/math-tutoring-center/">Math Tutoring Center</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-603"><a href="http://mathstats.case.edu/?page_id=5">Directory</a></li>
+</ul></div><div><h2>Alumni and Friends</h2><ul id="menu-alumni-and-friends-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-623"><a href="http://mathstats.case.edu/category/news/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-621"><a href="http://mathstats.case.edu/how-to-give/">How to Give</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="http://mathstats.case.edu/?page_id=5">Directory</a></li>
+</ul></div>
+						</div>
+					</div>
+				</div>
+			
+</div>                </div>
+            </div>
+			
+                     
+                        
+                        
+		
+	
+
+
+
+		<div id="primary">
+			<div id="content" role="main">
+				<div class="container">
+					<article id="post-9930" class="post-9930 cw-directory-faculty type-cw-directory-faculty status-publish has-post-thumbnail hentry faculty-rank-full-time-lecturer faculty-type-other-appointments all-department-mathematics">
+    <div class="row mobile-padding" style="margin-bottom: 10px">
+        <div class="col-xs-12">
+            <header class="entry-header">
+                <h1 class="entry-title">Ulises Fidalgo</h1>
+
+            </header><!-- .entry-header -->
+        </div>
+    </div>
+    <div class="row mobile-padding" style="margin-bottom: 10px">
+        <div class="col-xs-12">
+                                                <h4>Full-time Lecturer</h4>
+                                    </div>
+    </div>
+    <div class="row mobile-padding">
+        <div class="col-xs-12 col-sm-6 hidden-md hidden-lg">
+            <p>
+                <img src="https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo.jpg" class="hidden-md hidden-lg img-responsive wp-post-image img-responsive" alt="Ulises Fidalgo" style="margin: 10px; margin-left: 0px; float: left;" srcset="https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo.jpg 1150w, https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo-150x150.jpg 150w, https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo-300x300.jpg 300w, https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo-768x769.jpg 768w, https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo-1024x1024.jpg 1024w, https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo-500x500.jpg 500w" sizes="(max-width: 1150px) 100vw, 1150px" width="1150" height="1151">            </p>
+        </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4 col-md-push-8">
+                                    <h2 class="section-head">Contact</h2>
+                    <p> 
+                                                    <a href="mailto:ulises.fidalgo@case.edu">ulises.fidalgo@case.edu</a><br>
+                                                                            216.368.2882<br>
+                                                                            Yost 323<br>
+                                                                            By appointment<br>
+                                                                    </p>
+                                                    <h2 class="section-head">Other Information</h2>
+                                            <p><strong>Classes: </strong>
+                            Spring 2017: MATH 224, TuTh 1:00-2:15 p.m. in Kent Hale Smith 119<br>TuTh 2:30-3:45 p.m. in Kent Hale Smith 119                        </p>	
+                                           
+                                                    
+                                                                                                            </div>
+                            <div class="col-xs-12 col-md-8 col-md-pull-4" style="margin-top: 5px;">
+                <p>
+                    <img src="https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo-500x500.jpg" class="hidden-xs hidden-sm img-responsive wp-post-image img-responsive" alt="Ulises Fidalgo" style="margin: 10px; margin-left: 0px; float: left;" srcset="https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo-500x500.jpg 500w, https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo-150x150.jpg 150w, https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo-300x300.jpg 300w, https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo-768x769.jpg 768w, https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo-1024x1024.jpg 1024w, https://artscimedia.case.edu/wp-content/uploads/2016/09/21090644/Ulises-Fidalgo.jpg 1150w" sizes="(max-width: 350px) 100vw, 350px" width="350" height="350">                </p>
+                            </div>
+            </div>
+
+</article><!-- #post-9930 -->
+				</div>
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+<div class="container">
+        <div class="row">
+            <div class="col-xs-12">  <div id="last-modified">Page last modified: February 15, 2017</div>             </div>
+        </div>
+</div>
+<div id="cas-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 footer-right-margin">
+                <h1>Department of Mathematics, Applied Mathematics and Statistics</h1>
+                <small>© 2017 <a href="http://www.cwru.edu">case western reserve university</a></small>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                <h2>Search</h2>
+                <form id="footer-search-form" action="//www.case.edu/search-results/" role="search" aria-label="desktop search">
+                    <div class="search-area">
+                        <div class="input-append">
+
+                            <input id="footer-search-id" name="cx" value="004305171799132815236:ciq4c8b3yv4" type="hidden">
+                            <input name="ie" value="UTF-8" type="hidden">
+                            <div class="input-append">
+                                <input class="col-xs-9" name="q" id="appendedInputButton" type="text">
+                                <button class="btn btn-default" type="submit">Search</button>
+                            </div>
+                            <div class="btn-group">
+                               
+                               
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+                        <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">               
+                <h2>Contact</h2>
+                <p class="contact-info">
+                    Yost Hall <br>
+2049 Martin Luther King Jr. Drive<br>
+Cleveland, OH 44106-7058                    <br>
+                                        <br>
+                    <a href="mailto:"></a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201725"></script>
+<script type="text/javascript" src="http://mathstats.case.edu/wp-includes/js/wp-embed.min.js?ver=4.8"></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+<script type="text/javascript" src="https://stats.wp.com/e-201725.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.0',blog:'75608443',post:'0',tz:'0',srv:'mathstats.case.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '75608443', '0' ]);
+</script>
+
+<img src="http://pixel.wp.com/g.gif?v=ext&amp;j=1%3A5.0&amp;blog=75608443&amp;post=0&amp;tz=0&amp;srv=mathstats.case.edu&amp;host=mathstats.case.edu&amp;ref=&amp;rand=0.6022750922598125" alt=":)" id="wpstats" width="6" height="5"></body></html>

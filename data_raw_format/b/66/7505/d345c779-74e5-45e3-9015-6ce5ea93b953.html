@@ -1,0 +1,377 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	
+  Clinical Sciences Department - Rosychuk, Rodney
+
+</title>
+<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+<meta name="description" content="">
+<meta name="keywords" content="colorado,state,university"><meta name="MSSmartTagsPreventParsing" content="TRUE"><meta content="off" name="autosize"><meta content="no" http-equiv="imagetoolbar"><meta http-equiv="Content-Style-Type" content="text/css">
+
+<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script src="/DirectorySearch/Scripts/jquery-1.4.1.js" type="text/javascript"></script>
+<script src="/DirectorySearch/Scripts/jquery.unobtrusive-ajax.min.js" type="text/javascript"></script>
+<script src="/DirectorySearch/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+  <script src="/DirectorySearch/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+<script src="/DirectorySearch/script/jquery.cookie.js" type="text/javascript"></script>
+<script src="/DirectorySearch/script/jquery.easing.1.3.js" type="text/javascript"></script>
+<script src="/DirectorySearch/script/cornerz/cornerz.js" type="text/javascript"></script>
+
+  <link rel="stylesheet" href="/DirectorySearch/css/cvmbs/vs.css" type="text/css" media="screen, projection">
+  
+
+<script type="text/javascript">
+
+//<![CDATA[
+  function callback() {
+    //alert("callback");
+  }
+  //jQuery
+
+  $(document).ready(function () {
+
+    $('.navbox, div.bannerBox, div.bannerBoxwide, div.contactBox, div.multiresourceBoxHolder, div.newsstoryImageL, div.newsstoryImageR, div.newsstoryImageLarge, .rounded, .rButton, div.supNav, .announcementsBox, .announcementsBoxSpecial, .hContact').cornerz({
+      radius: 7,
+      corners: "tl tr bl br"
+    });
+
+    $('.newsItem img').css({ "margin": "0px 0px 0px 0px", "float": "none" }).wrap("<div style='margin-right:10px; float:left;' />").parent().cornerz({
+      radius: 7,
+      corners: "tl tr bl br"
+    });
+
+    $('div.movieBox, div.movieBoxwide').cornerz({
+      radius: 7,
+      corners: "tl tr"
+    });
+
+    $('.featureImage, .smallFeatureImage, .pubHeaderImage').cornerz({
+      radius: 15,
+      corners: "tl tr bl br"
+    });
+
+    $('.mediumFeature, .largeFeatureImage').css({ 'visibility': 'visible' });
+
+    //Sart of nav code to remember open and closed states
+    $('div.navbox ul li.subNav, div.multiresourceBox ul li.subNav').each(function () {
+      //alert($(this).attr("id"));
+      //alert($.cookie($(this).attr("id")));
+      if ($.cookie($(this).attr("id"))) {
+        //alert('cookie exists: ' + $.cookie($(this).attr("id")));
+        $(this).addClass('open').children('span').addClass('open');
+      }
+
+    });
+
+    $('div.navbox ul li.subNav ul, div.multiresourceBox ul li.subNav ul').wrap('<div class="subNav" />').css({ 'display': 'block' });
+    $('div.navbox ul li.subNav div.subNav, div.multiresourceBox ul li.subNav div.subNav').css({ 'height': '0px', 'padding': '0px', 'overflow': 'hidden' });
+
+    ////checking if section is open
+    $('div.navbox ul li.subNav.open, div.multiresourceBox ul li.subNav.open').children('div.subNav').css({ 'height': 'auto', 'padding': '0px', 'overflow': 'hidden' });
+
+    ////click handling function for nav	
+    $('div.navbox ul li.subNav span, div.multiresourceBox ul li.subNav span').click(function () {
+      if (!$(this).parent().hasClass('open')) {
+        var h = $(this).parent().children('div.subNav').children('ul:first').height();
+        $(this).addClass('open');
+        $(this).parent().children('div.subNav').animate({ height: h + 9 }, 700, "easeOutExpo", callback);
+        $(this).parent().addClass('open');
+        $.cookie($(this).parent().attr("id"), "open", { path: '/' });
+
+      } else {
+        $(this).removeClass('open');
+        $(this).parent().children('div.subNav').animate({ height: 0 }, 700, "easeOutExpo", callback);
+        $(this).parent().removeClass('open');
+        $.cookie($(this).parent().attr("id"), null, { path: '/' });
+      }
+    });
+
+    //End of Nav code
+
+    $('.announcement:odd').addClass('odd');
+
+    $('.announcement:last').css({ 'border-bottom': '0px' });
+
+    $('ol.bigNumber li').css({ 'font-size': '25px' }).wrapInner('<span class="regText" style="font-size:12px" />')
+
+    $('.container a').filter(function () {
+      //adds icons to outgoing links...	
+      /*
+      return this.hostname !== "www.cvmbs.colostate.edu" && this.hostname !== "cvmbs.colostate.edu" && this.hostname !== location.hostname && this.hostname !== '';
+      }).addClass('link-External').append("<span class='icon-external' title='links to an external site'><!-- --></span>");	
+      */
+      return this.hostname !== "www.cvmbs.colostate.edu" && this.hostname !== "cvmbs.colostate.edu" && this.hostname !== location.hostname && this.hostname !== '';
+    }).attr({ target: '_self' });
+
+    // Add pdf icons to pdf links
+    $(".bodyContent a[href$='.pdf']").addClass("pdf").after("<span class='icon pdf' title='links to a pdf file'><!-- --></span>");
+
+    // Add txt icons to document links (doc, rtf, txt)
+    $(".bodyContent  a[href$='.txt'], .bodyContent a[href$='.rft']").addClass("txt").after("<span class='icon text' title='links to a text file'><!-- --></span>");
+    $(".bodyContent  a[href$='.doc'], .bodyContent a[href$='.docx']").addClass("doc").after("<span class='icon doc' title='links to a document'><!-- --></span>");
+    $(".bodyContent  a[href$='.ppt'], .bodyContent a[href$='.pptx']").addClass("ppt").after("<span class='icon ppt' title='links to a powerpoint file'><!-- --></span>");
+    $(".bodyContent  a[href$='.xls'], .bodyContent a[href$='.xlsx']").addClass("xls").after("<span class='icon xls' title='links to a spreadsheet'><!-- --></span>");
+
+    // Add zip icons to Zip file links (zip, rar)
+    $(".bodyContent  a[href$='.zip'], .bodyContent a[href$='.rar']").addClass("zip").after("<span class='icon zip' title='links to a compressed file'><!-- --></span>");
+
+    //open files in new window
+    $("a[href$='.zip'], a[href$='.rar'], a[href$='.rft'], a[href$='.txt'], a[href$='.doc'], a[href$='.docx'], a[href$='.ppt'] , a[href$='.pptx'], a[href$='.xls'], a[href$='.xlsx'], a[href$='.pdf']").attr("target", "_blank");
+
+    // Add email icons to email links
+    $(".bodyContent a[href^='mailto:']").addClass("email").after("<span class='icon email' title='links to an email address'><!-- --></span>");
+
+    //Add external link class to external links - 		
+    $('a').filter(function () {
+      //Compare the anchor tag's host name with location's host name
+      return this.hostname && this.hostname !== location.hostname;
+    }).addClass("external");
+
+  });	
+//]]>
+</script>
+<noscript>
+	<style>
+      div.navbox li.subNav ul
+      {
+        display: block;
+      }
+      .searchBox
+      {
+        display: none;
+      }
+	</style>
+</noscript>
+</head>
+<body class="mainpage">
+	<div class="wrap">
+		<div id="header">
+      
+        <h1 class="title">
+          <a href="http://csu-cvmbs.colostate.edu/Pages/default.aspx" class="external">
+            CVMBS</a></h1>
+			
+      <h2 class="logo">
+        <a href="http://www.colostate.edu" class="external">Colorado State University Home</a></h2>
+				<div class="searchBox">
+					<form action="/ns/search.aspx" id="cse-search-box">
+						<script type="text/javascript" language="JavaScript">
+						  //eng = '../search.aspx?q=';
+						</script>  
+        <input class="radio" onclick="$('#cx').val(this.value);" name="sengines" id="sCSU" value="001074770120494240330:nnxeddf6qe0" type="radio"><label for="sCSU">Search CSU</label>
+        <input class="radio cvmbs" onclick="$('#cx').val(this.value);" checked="checked" name="sengines" id="sCVMBS" value="001074770120494240330:u6mrjpwprwa" type="radio"><label for="sCVMBS">Search
+            CVMBS</label>
+						<input name="q" id="searchterms" class="searchInput" type="text">
+						<input name="cx" id="cx" value="001074770120494240330:u6mrjpwprwa" type="hidden">
+						<input name="cof" value="FORID:11" type="hidden">
+						<input name="ie" value="UTF-8" type="hidden">
+        <input class="searchButton" src="/DirectorySearch/Images/CVMBS/search-button.png" value="Search" type="image">
+					</form>
+				</div>
+      <a href="http://csu-cvmbs.colostate.edu/vth/Pages/default.aspx" class="rButton vth external" style="position: relative;">
+        Veterinary Teaching Hospital<div style="display: inherit"><canvas width="7px" height="7px" style="position:absolute;top:-1px;left:-1px;"></canvas><canvas width="7px" height="7px" style="position:absolute;top:-1px;right:-1px;"></canvas><canvas width="7px" height="7px" style="position:absolute;bottom:-1px;left:-1px;"></canvas><canvas width="7px" height="7px" style="position:absolute;bottom:-1px;right:-1px;"></canvas></div></a> <a href="http://csu-cvmbs.colostate.edu/vdl/Pages/default.aspx" class="rButton dlab external" style="position: relative;">Veterinary Diagnostic Laboratories<div style="display: inherit"><canvas width="7px" height="7px" style="position:absolute;top:-1px;left:-1px;"></canvas><canvas width="7px" height="7px" style="position:absolute;top:-1px;right:-1px;"></canvas><canvas width="7px" height="7px" style="position:absolute;bottom:-1px;left:-1px;"></canvas><canvas width="7px" height="7px" style="position:absolute;bottom:-1px;right:-1px;"></canvas></div></a>
+				<div id="nav">
+					<ul class="directory">
+          <li class="home"><a href="http://csu-cvmbs.colostate.edu/Pages/default.aspx" class="external">
+            CVMBS Home</a></li>
+          <li class="future"><a href="http://csu-cvmbs.colostate.edu/students/Pages/default.aspx" class="external">
+            All Students</a></li>
+          <li class="current"><a href="http://csu-cvmbs.colostate.edu/dvm-program/Pages/default.aspx" class="external">
+            DVM Program</a></li>
+          <li class="departments"><a href="http://csu-cvmbs.colostate.edu/academics/Pages/default.aspx" class="external">
+            Academics</a></li>
+          <li class="research"><a href="http://csu-cvmbs.colostate.edu/research/Pages/default.aspx" class="external">
+            Research</a></li>
+          <li class="alumni"><a href="http://csu-cvmbs.colostate.edu/alumni/Pages/default.aspx" class="external">
+            Alumni</a></li>
+          <li class="donors"><a href="http://csu-cvmbs.colostate.edu/giving/Pages/default.aspx" class="external">
+            Giving</a></li>
+						<!--<li class="faculty"><a href="/ns/faculty-staff/">Faculty &amp; Staff</a></li>-->
+						<!--The directory tab temporaily removed until the new directory is working, Toby Mai 07/07/2010-->
+						<li class="directory"><a href="/DirectorySearch/">Directory</a></li>
+						<!-- THIS IS THE TEMPLATES TAB -->						
+						<!--<li class="example"><a href="/ns/_support/templates/">Templates</a></li>-->
+					</ul>
+				<div class="employeeResources">
+          <a href="http://teams.cvmbs.colostate.edu/Pages/Home.aspx" class="external">
+            Employee Resources</a></div>
+		</div>	
+	</div>
+    
+<div class="outerContainer">
+	<div class="container xshowgrid">
+		<div class="span-36 last">
+          <!--<p style="padding:4px 0px 0px 5px; margin-bottom:-5px; font-size:60%; display:block; width:auto;">Home> Current Students> Some Page</p>-->
+				<!-- content area -->
+          
+  <div class="dirResult">
+    <div class="span-10">
+      <div class="personbox">
+        <div style="margin: 0px auto; text-align: center; padding: 10px;">
+          <img src="/DirectorySearch/Search/MemberPhoto/954" style="max-height: 200px;
+            max-width: 200px;">
+        </div>
+        <p style="padding-left: 25px; font-style: italic">
+          Clinical Sciences Department<br>
+          Professor</p>
+      </div>
+    </div>
+    <div class="span-26 last">
+      <h1 class="news">
+        Rodney W Rosychuk</h1>
+      <h3 class="news">
+        Contact Information</h3>
+      <p><strong>Office:</strong>&nbsp;A230 VTH<br>
+      
+
+        <b>
+          Other:</b>
+        970-297-4463<br>
+      
+
+        <b>
+          Office:</b>
+        970-297-1220<br>
+      
+      <strong>Email:</strong>&nbsp;<a href="mailto:Rod.Rosychuk@colostate.edu">rod.rosychuk@colostate.edu</a><br>
+      
+      </p>
+      
+      <h6>
+        Certification
+      </h6>
+      
+      <p>
+        Diplomate, American College of Veterinary Internal Medicine
+      </p>
+      
+      <h6>
+        Degree
+      </h6>
+      
+      <p>
+        University of Alberta, Edmonton, Alberta : Preveterinary Medicine : 1969
+      </p>
+      
+      <p>
+        Western College of Veterinarian Medicine : DVM with honors : University of Saskatchewan, Saskatoon, Canada : 1974
+      </p>
+      
+      <p>
+        University of Illinois, Urbana, IL : Internship in Small Animal Medicine and Surgery : 1975
+      </p>
+      
+      <p>
+        University of Illinois, Urbana, IL : Residency in Small Animal Internal Medicine : 1979
+      </p>
+      
+      <p>
+        Colorado State University : Alternative Residency in Veterinary Dermatology : 1990
+      </p>
+      
+      <h6>
+        Publication
+      </h6>
+      
+      <p>
+        Wildermuth K, Zabel S, Rosychuk RAW. The efficacy of cetirizine hydrochloride on the pruritus and dermatitis of cats wth mild to moderate atopic dermatitis:a randomized, double blinded, placebo-controlled, crossover study. Veterinary Dermatology; 2013. DOI:10.1111/vdc.12067    
+      </p>
+      
+      <p>
+        Cohen L, Zabel S, Rosychuk RAW. Relationship of body weight to maintenance cyclosporine dose in canine atopic dermatitis. Veterinary Dermatology – JAAHA – in press. 
+      </p>
+      
+      <p>
+        Wildermuth, K, Rosychuk RAW, Zabel, S. Corynebacterium spp. in dogs and cats with otitis externa and/or media: a retrospective study. JAAHA. Accepted for publication 2012
+      </p>
+      
+      <p>
+        Miller DS, Eagle RP, Zabel S, Rosychuk RAW, Campbell TW. Efficacy and Safety of Selamectin to treat Otodectes cyanotis infections in domestic ferrets. Vet Record. 2006, Volume 159, p. 748.
+      </p>
+      
+      <p>
+        Marsella R, Messinger L, Zabel S, Rosychuk RAW, Griffin C, Orozco-Cronin P, Belofsky G, LindemannJ, Stull D. A randomized, double blind, placebo-controlled study to evaluate the effect of EFF1001 an actinidia arguta (hardy kiwi) preparation, on CADESI scor and pruritus in dogs with mild to moderate atopic dermatitis. Veterinary Dermatology 2009; 20: 1-8.
+      </p>
+      
+      <p>
+        Mueller RS, Fieseler KV, Zabel S, Rosychuk RAW. Conventional and rush allergen-specific immunotherapy in the treatment of canine atopic dermatitis. Advances in Veterinary Dermatology, 2005, Vol. 5: 60 – 69.
+      </p>
+      
+      <p>
+        Mueller RS, Fieseler KV, Rosychuk RAW, Greenwalt T. Intradermal testing with the storage mite Tyrophagus putrescentiae in normal dogs and dogs with atopic dermatitis in Colorado. Veterinary Dermatology, 2005, 16:27-31.
+      </p>
+      
+      <p>
+        Mueller RS, Rieseler KV, Fettman M, Rosychuk RAW. The Effect of omega 3 fatty acids on canine atopic dermatitis, a double-blinded, placebo controlled study. Veterinary Dermatology. Vol 14 (5), p. 262, 2003.
+      </p>
+      
+      <p>
+        Mueller RS, Rosychuk RAW, Jonas LD. A Retrospective Study Regarding the Treatment of Lupoid Onychodystrophy in 30 dogs and Literature Review. J. Anim. Hosp. Assoc. vol 39 (2), 2003.
+      </p>
+      
+      <h6>
+        Species Interest
+      </h6>
+      
+      <p>
+        Small Animal : Internal Medicine
+      </p>
+      
+      <p>
+        Small Animal  : Dermatology
+      </p>
+      
+      <h6>
+        Link
+      </h6>
+      
+      <p>
+        PubMed-Dr. Rodney Rosychuk : <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Rodney+Rosychuk" target="_self" class="external">http://www.ncbi.nlm.nih.gov/pubmed/?term=Rodney+Rosychuk</a>
+      </p>
+      
+      <p>
+      </p>
+    </div>
+  </div>
+
+				<!-- end content area -->
+		</div>
+      </div>
+      <div class="push">
+        <!-- -->
+	</div>
+</div>
+<!-- end wrap -->
+</div>
+
+<div id="footer">
+	<div class="fwrap">
+		<div class="finner">
+			<p class="left">
+          For feedback regarding this site, contact Webmaster at <a href="mailto:cvmbsweb@colostate.edu">
+            cvmbsweb@colostate.edu</a>.<br>
+          © Copyright 2016 by College of Veterinary Medicine &amp; Biomedical Sciences<br>
+			Colorado State University. All Rights Reserved.
+			</p>
+        <p class="left">
+          <a href="http://admissions.colostate.edu/" class="external">Apply to CSU</a> | <a href="http://csu-cvmbs.colostate.edu/Pages/contact.aspx" class="external">
+            Contact Us</a> | <a href="http://www.colostate.edu/info-disclaimer.aspx" class="external">Disclaimer</a>
+          | <a href="http://www.colostate.edu/info-equalop.aspx" class="external">Equal Opportunity</a> | <a href="http://www.colostate.edu/info-privacy.aspx" class="external">Privacy Statement</a></p>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4291912-3']);
+  _gaq.push(['_setDomainName', '.cvmbs.colostate.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function () {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+ 
+
+</body></html>

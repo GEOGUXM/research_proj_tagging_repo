@@ -1,0 +1,1125 @@
+<html lang="en"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta http-equiv="Expires" content="0">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+		<meta name="Subject" content="KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science &amp; Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부"> 
+		<meta name="description" content="KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science &amp; Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부"> 
+		<meta name="keywords" content="KAIST, School, Computing, Computer, Science, Engineering, 카이스트, 전산학부, 전산, 컴퓨터, 공학, 과학, 인간중심, 컴퓨팅">
+		<meta property="og:url" content="https://cs.kaist.ac.kr">
+		<meta property="og:title" content="KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science &amp; Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부">
+		<meta property="og:image" content="/common/images/facebook_title_logo.jpg">
+		<meta property="og:site_name" content="KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science &amp; Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부">
+		<meta property="og:description" content="KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science &amp; Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부">
+		<meta property="og:updated_time" content="1412567194">
+		<title>KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science &amp; Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부</title>
+		<link rel="shortcut icon" type="image/x-icon" href="/common/images/favicon.ico">
+		<link rel="stylesheet" type="text/css" media="screen" href="/common/css/basic.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="/common/css/mobile.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="/common/css/style.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="/common/css/jquery.timepicker.css">
+		<link href="/common/css/overcast/jquery-ui-1.10.4.custom.min.css" rel="stylesheet">
+		<!-- 페이스북에 올릴시 기본 사용될 이미지 -->
+		<link rel="image_src" href="https://cs.kaist.ac.kr/common/images/facebook_title_logo.jpg">
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/common/js/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript" src="/common/js/jquery.timepicker.js"></script>
+		<script type="text/javascript" src="/common/js/jquery-ui-1.10.4.custom.min.js"></script>
+		<script type="text/javascript" src="/common/js/script.js"></script>
+		<script type="text/javascript" src="/common/js/message.js"></script>
+		<script type="text/javascript" src="/common/common.js?rnd=20160223"></script>
+		<!--[if lt IE 9]>
+		<script type="text/javascript" src="/common/js/css3-mediaqueries.js"></script>
+		<script type="text/javascript" src="/common/js/respond.min.js"></script>
+		<![endif]-->
+		<script>
+			
+			var cLang = "en";
+			var mobile = ( navigator.userAgent.match(/iPhone|iPad|iPhone|iPod|Mobile|UP.Browser|Android|BlackBerry|Windows CE|Nokia|webOS|Opera Mini|SonyEricsson|opera mobi|Windows Phone|IEMobile|POLARIS/) != null)?  true : false;
+		
+			var isios = navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false;
+			if(mobile){
+				if(isios){
+					if(navigator.userAgent.match(/(iPad)/g)){	// iPad
+						document.write("<meta name='viewport' content='width=device-width, initial-scale=0.7, maximum-scale=1.4, minimum-scale=0.7, target-densitydpi=device-dpi' />");
+					
+						$(function () {    
+							var safariMove = false;
+
+							$(document).ready(function(){
+								$(document).on("touchmove", function(e){
+								    safariMove = true;
+								});
+								
+								$(document).on("touchcancel", function(e){
+									safariMove = false;
+								});
+
+								$(document).on("touchend", function(e){
+								    if(!safariMove){
+								        e.target.click();
+								    }
+								    
+								    safariMove = false;
+								});
+							});
+							
+							/*
+						    var timeoutId = 0;
+						    var messageAppeared = false;
+
+						     $('a').on('touchstart', function(event) {
+
+						        event.preventDefault();
+						        timeoutId = setTimeout(function() {           
+
+						            messageAppeared = true;
+
+						        }, 1000);
+
+						    }).on('click touchend touchcancel', function(event) {                                
+
+						        if (messageAppeared) {
+						            event.preventDefault();
+						        } else {
+						            clearTimeout(timeoutId);
+						            if($(this).attr('target') == '_blank'){
+							    		window.open(link,'_blank');
+							    	}else {
+							    		location.href = $(this).attr('href');	
+							    	}
+						        }
+						        messageAppeared = false;        
+						    }); */
+						    
+						    /* $('a').on('click touchend', function(event) {                                
+					            if($(this).attr('target') == '_blank'){
+						    		window.open(link,'_blank');
+						    	}else {
+						    		location.href = $(this).attr('href');	
+						    	}
+						    }); */
+						    
+						});
+						
+					}else {	// iPhone
+						document.write("<meta name='viewport' content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=2.0'>");
+					}
+					
+				}else {	// 기타 모바일 OS
+					document.write("<meta name='viewport' content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=2.0'>");
+				}
+			}
+		</script>
+		<style>
+                body {font-family:Arial,sans-serif;}
+		</style>
+	</head>
+
+<body>
+	<ul class="accessibility">
+		<li><a href="#gnb">주메뉴로 이동</a></li>
+		<li><a href="#cont">메인본문내용으로 이동</a></li>
+		<li><a href="#container">본문내용으로 이동</a></li>
+		<li><a href="#footer">바닥글로 이동</a></li>
+	</ul>
+	<div id="wrap">
+
+<script>
+	   var isMobile = false; 
+	   
+	   $(document).ready(function(){
+            initNavMouse();
+            selectMenu();
+        });
+        
+        $(window).resize(function(){
+            var windowWidth = $(window).width();
+            if(windowWidth > 1049 && isMobile){
+                isMobile = false;
+                selectMenu();
+            }
+            else if(windowWidth < 1050 && !isMobile){
+               isMobile = true; 
+            }
+        });
+        
+	    /** 
+         * 메뉴 마우스 오버 설정
+         */
+        function initNavMouse(){
+            var topMenu = "28";
+            
+            $(".nav_depth_1 > li").mouseover(function(e){
+                // 객체에 마우스 올렸을시
+                var d1 = $(this);
+                var d2 = d1.find(">.nav_depth_2");
+                var menuBgGroup = $(".menu_bg_group");
+                selColor = d1.attr("menu-color");
+                
+                d2.css("padding-left", "");
+                //.css("padding-right", "");
+                $(".nav_depth_2").hide();
+                d1.parent().find("> li").css("background-color", "").css("border-bottom-color", "#000").find(">a").css("color", "#1e1e1e");
+                 
+                if(d2.length > 0){
+                    menuBgGroup.show();
+                }
+                else{
+                    menuBgGroup.hide();
+                }
+                
+                var pl = 325;
+                var mcount = (d2.width() / 145); 
+                if(mcount > 5){
+                    pl = 35 + ((7 - mcount) * 145);
+                }
+               
+                d2.css("padding-left", pl);
+                //d2.css("padding-right", Math.floor(pl/3));
+                
+                d2.show();
+                d1.css("background-color", "#1e1e1e");
+                d1.css("border-bottom-color", "#"+selColor);
+                
+                //var topBgColor = colorToRGBA(selColor, 0.25);
+                $(".top_depth_2").css("background-color", "#"+selColor);
+                $(".top_depth_2").css("opacity", "0.25");
+                
+                d1.find(">a").css("color", "#fff"); 
+                
+                //var menuSelector = $(".menu_selector");
+                //menuSelector.css("background-color", "#"+selColor);
+                offEventBubble(e);
+            }).mouseout(function(e){
+                // 객체에서 마우스가 벗어났을시
+                /*
+                var menuSelector = $(".menu_selector");
+                
+                if($(this).attr("menu_code") == topMenu || $(this).find("li").is("li[menu_code='"+topMenu+"']")){
+                    menuSelector.html((menuSelector.attr("menu_title")).replace("<br />", " "));
+                }
+                else{
+                    menuSelector.html("");
+                }
+                */
+               
+                offEventBubble(e);
+            });
+            
+            // 이 객체에 설정된 특정 함수 제거
+            $(".nav_menu > li a").off("mouseover").off("mouseoff");
+            
+            // 객체에 마우스 오버, 아웃 함수 설정
+            $(".nav_menu .nav_depth_2  li  a").mouseover(function(e){
+                var d2 = $(this);
+                d2.css("color", colorToRGBA(selColor, 1, 50));
+                d2.parent().css("color", colorToRGBA(selColor, 1, 50));
+                
+                offEventBubble(e);
+            }).mouseout(function(e){
+                var d2 = $(this);
+                d2.css("color", "#fff");
+                d2.parent().css("color", "#fff");
+                
+                offEventBubble(e);
+            });
+            
+            /*
+            $(".nav_menu .nav_depth_2 li").mouseover(function(){
+                var d2 = $(this);
+                var menuSelector = $(".menu_selector");
+                menuSelector.html((d2.find(">a").html()).replace("<br>", " "));
+            });
+            */
+           
+            $("#container > .inner").mouseover(function(e){
+                var topMenu = "28";
+                var navDepth1 = $(".nav_depth_1 > li");
+                
+                $.each(navDepth1, function(key, value){
+                    var obj = $(value);
+                    if(obj.attr("menu_code") == topMenu){
+                        obj.mouseover();
+                    }
+                    else if(obj.find("li").is("li[menu_code='"+topMenu+"']")){
+                        obj.mouseover();
+                    }
+                });
+                
+                offEventBubble(e);
+            });
+        }
+        
+        function selectMenu(){
+            var topMenu = "28";
+            var navDepth1 = $(".nav_depth_1 > li");
+            var menuSelector = $(".menu_selector");
+            var pNavi = $("p[class='navi']");
+            pNavi.html("");
+            
+            menuSelector.html((menuSelector.attr("menu_title")).replace("<br />", " "));
+            $(".local > .mark").html((menuSelector.attr("menu_title")).replace("<br />", " "));
+            
+            $.each(navDepth1, function(key, value){
+                var obj = $(value);
+                if(obj.attr("menu_code") == topMenu){
+                    menuSelector.css("background-color", "#"+obj.attr("menu-color"));
+                    
+                    var selectorObj = obj.find(">a");
+                    selectorObj.css("color", colorToRGBA(obj.attr("menu-color"), 1, 50)).off("mouseover").off("mouseout");
+                    obj.mouseover();
+                    
+                    pNavi.append("<a href='#'>"+(selectorObj.html()).replace("<br>", " ")+"</a>");
+                    
+                    var mobileObj = $("li[menu_code='"+obj.attr("menu_code")+"']");
+                    mobileObj.addClass("selected");
+                    $selectMenuItem = mobileObj;
+                    
+                    return;
+                }
+                else if(obj.find("li").is("li[menu_code='"+topMenu+"']")){
+                    menuSelector.css("background-color", "#"+obj.attr("menu-color"));
+                    obj.mouseover();
+                    
+                    var mobileObj = $(".menuList li[menu_code='"+obj.attr("menu_code")+"']");
+                    mobileObj.addClass("selected active");
+                    mobileObj.find("> ul").css("display","block");
+                    $selectMenuItem = mobileObj;
+                    
+                    var rgbaColor = colorToRGBA(obj.attr("menu-color"), 1, 50);
+                    
+                    var selectorObj = obj.find(">a");
+                    pNavi.append("<a href='"+selectorObj.attr("href")+"'>"+(selectorObj.html()).replace("<br>", " ")+"</a>");
+                    
+                    $.each(obj.find("> ul > li"), function(key2, value2){
+                        var obj2 = $(value2);
+                        if(obj2.attr("menu_code") == topMenu){
+                            var aObj2 = obj.find("li[menu_code='"+topMenu+"']").find("> a"); 
+                            aObj2.css("color", rgbaColor).off("mouseover").off("mouseout");
+                            
+                            pNavi.append(" > <a href='"+aObj2.attr("href")+"'>"+(aObj2.html()).replace("<br>", " ")+"</a>");
+                            
+                            var mobileObj = $(".menuList li[menu_code='"+topMenu+"']");
+                            mobileObj.addClass("selected");
+                            $subMenuItem = mobileObj;
+                            
+                            return ;
+                        }
+                        else if(obj2.find("li").is("li[menu_code='"+topMenu+"']")){
+                            var selectorObj = obj2.find("> a");
+                            selectorObj.css("color", rgbaColor).off("mouseover").off("mouseout");
+                            
+                            var selectorObj2 = obj2.find("li[menu_code='"+topMenu+"']");
+                            selectorObj2.css("color", rgbaColor);
+                            var aObj2 = selectorObj2.find("> a"); 
+                            aObj2.css("color", rgbaColor).off("mouseover").off("mouseout");
+                            
+                            pNavi.append(" > <a href='"+selectorObj.attr("href")+"'>"+(selectorObj.html()).replace("<br>", " ")+"</a>");
+                            pNavi.append(" > <a href='"+aObj2.attr("href")+"'>"+(aObj2.html()).replace("<br>", " ")+"</a>");
+                            
+                            var mobileObj = $(".menuList li[menu_code='"+obj2.attr("menu_code")+"']");
+                            mobileObj.addClass("selected active");
+                            mobileObj.find("> ul").css("display","block");
+                            $subMenuItem = mobileObj;
+                            
+                            var mobileObj2 = $(".menuList li[menu_code='"+topMenu+"']");
+                            mobileObj2.addClass("selected");
+                            $lastMenuItem = mobileObj2; 
+                            
+                            return ;
+                        }
+                    });
+                    
+                    return;
+                }
+            });
+        }
+        
+        
+	</script>
+	
+	<!-- web 버전 header 부분 -->
+	<div class="header" id="headWeb">
+		<div class="header_w">
+			<h1><a href="/"><img src="/common/images/header/logo_top.png" alt="KAIST - COMPUTER SCIENCE" style="height: 69px;" height="69" border="0"></a></h1>
+			<ul class="headNoti fix">
+				<li><a href="javascript:setLanguage('en' );"><img src="/common/images/header/lang_en.gif" alt="korea"></a></li><!-- img_headNoti_english.gif : english 이미지 -->
+				<li><a href="/search/search"><img src="/common/images/header/img_headNoti_search.gif" alt="search"></a></li>
+					<li><a href="javascript:ssoLogin();"><img src="/common/images/header/img_headNoti_login.gif" alt="login"></a></li>
+							</ul>
+			<!-- 메뉴 구성 -->
+            <nav class="nav_menu">
+                <ul class="nav_depth_1">
+                    <li menu-color="a66e79" menu_code="80" style="border-bottom-color: rgb(0, 0, 0);"><a href="/bbs/news" target="_self" navi="News" style="color: rgb(30, 30, 30);">News</a>
+                        <ul class="nav_depth_2" style="display: none;">
+                            <li menu_code="82"><a href="/bbs/notice" target="_self" navi="News > Announcements" style="line-height: 28px;">Announcements</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="151"><a href="/bbs/notice" target="_self" navi="News > Announcements > CS Announcements">CS Announcements</a>
+                                    </li>
+                                    <li menu_code="149"><a href="http://www.kaist.ac.kr/_prog/_board/?code=ed_notice&amp;site_dvs_cd=en&amp;menu_dvs_cd=0602" target="_blank" navi="News > Announcements > KAIST Notice">KAIST Notice</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="83"><a href="/bbs/news" target="_self" navi="News > News" style="line-height: 28px;">News</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="84"><a href="/bbs/news/news" target="_self" navi="News > News > School News">School News</a>
+                                    </li>
+                                    <li menu_code="85"><a href="/bbs/news/awards" target="_self" navi="News > News > Awards News">Awards News</a>
+                                    </li>
+                                    <li menu_code="104"><a href="/bbs/news/research" target="_self" navi="News > News > Research News">Research News</a>
+                                    </li>
+                                    <li menu_code="37"><a href="/spotlights/education" target="_self" navi="News > News > Education News">Education News</a>
+                                    </li>
+                                    <li menu_code="196"><a href="/bbs/news/soc" target="_self" navi="News > News > On Media">On Media</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="139"><a href="/spotlights/people" target="_self" navi="News > People News" style="line-height: 28px;">People News</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="159"><a href="/spotlights/faculty" target="_self" navi="News > People News > Faculty News">Faculty News</a>
+                                    </li>
+                                    <li menu_code="20"><a href="/spotlights/student" target="_self" navi="News > People News > Students News">Students News</a>
+                                    </li>
+                                    <li menu_code="105"><a href="/spotlights/alumni" target="_self" navi="News > People News > Alumni News">Alumni News</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="86"><a href="/bbs/events" target="_self" navi="News > Events" style="line-height: 28px;">Events</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="87"><a href="/bbs/events/seminars" target="_self" navi="News > Events > Seminars">Seminars</a>
+                                    </li>
+                                    <li menu_code="88"><a href="/bbs/events/colloquiums" target="_self" navi="News > Events > Colloquiums">Colloquiums</a>
+                                    </li>
+                                    <li menu_code="89"><a href="/bbs/events/ph_d_defenses" target="_self" navi="News > Events > Ph.D. Defenses">Ph.D. Defenses</a>
+                                    </li>
+                                    <li menu_code="147"><a href="/bbs/events/etc" target="_self" navi="News > Events > Others">Others</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="81"><a href="/news/calendar" target="_self" navi="News > Events Calendar" style="line-height: 28px;">Events Calendar</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="7e9600" menu_code="55" style="border-bottom-color: rgb(0, 0, 0);"><a href="/content?menu=57" target="_self" navi="Research" style="color: rgb(30, 30, 30);">Research</a>
+                        <ul class="nav_depth_2" style="display: none;">
+                            <li menu_code="57"><a href="/content?menu=57" target="_self" navi="Research > Research Areas" style="line-height: 28px;">Research Areas</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="64"><a href="/research/labs" target="_self" navi="Research > Research Areas > All Research Labs">All Research Labs</a>
+                                    </li>
+                                    <li menu_code="65"><a href="/research/foundation" target="_self" navi="Research > Research Areas > Foundations">Foundations</a>
+                                    </li>
+                                    <li menu_code="66"><a href="/research/design" target="_self" navi="Research > Research Areas > Design">Design</a>
+                                    </li>
+                                    <li menu_code="197"><a href="/research/securecom" target="_self" navi="Research > Research Areas > Secure Computing">Secure Computing</a>
+                                    </li>
+                                    <li menu_code="67"><a href="/research/visualcom" target="_self" navi="Research > Research Areas > Visual Computing">Visual Computing</a>
+                                    </li>
+                                    <li menu_code="68"><a href="/research/infoservice" target="_self" navi="Research > Research Areas > Information Service">Information Service</a>
+                                    </li>
+                                    <li menu_code="69"><a href="/research/socialcom" target="_self" navi="Research > Research Areas > Social Computing">Social Computing</a>
+                                    </li>
+                                    <li menu_code="70"><a href="/research/interaccom" target="_self" navi="Research > Research Areas > Interactive Computing">Interactive Computing</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="71"><a href="/research/rndCenter" target="_self" navi="Research > Research &amp;<br />Development">Research &amp;<br>Development</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="72"><a href="/research/rndCenter" target="_self" navi="Research > Research &amp;<br />Development > Research Centers">Research Centers</a>
+                                    </li>
+                                    <li menu_code="73"><a href="/research/partnership" target="_self" navi="Research > Research &amp;<br />Development > Research Partnership">Research Partnership</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="74"><a href="/content?menu=75" target="_self" navi="Research > Publications" style="line-height: 28px;">Publications</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="75"><a href="/research/paper" target="_self" navi="Research > Publications > Paper">Paper</a>
+                                    </li>
+                                    <li menu_code="76"><a href="/research/techReport" target="_self" navi="Research > Publications > Technical Report">Technical Report</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="c08d00" menu_code="36" style="border-bottom-color: rgb(0, 0, 0);"><a href="/content?menu=188" target="_self" navi="Education" style="color: rgb(30, 30, 30);">Education</a>
+                        <ul class="nav_depth_2" style="display: none;">
+                            <li menu_code="190"><a href="https://cs.kaist.ac.kr/content?menu=188" target="_self" navi="Education > Academics" style="line-height: 28px;">Academics</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="188"><a href="/content?menu=188" target="_self" navi="Education > Academics > Academic Programs">Academic Programs</a>
+                                    </li>
+                                    <li menu_code="145"><a href="/content?menu=145" target="_self" navi="Education > Academics > Additional Programs">Additional Programs</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="44"><a href="/education/undergraduate" target="_self" navi="Education > Courses" style="line-height: 28px;">Courses</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="45"><a href="/education/undergraduate" target="_self" navi="Education > Courses > Undergraduate">Undergraduate</a>
+                                    </li>
+                                    <li menu_code="46"><a href="/education/graduate" target="_self" navi="Education > Courses > Graduate">Graduate</a>
+                                    </li>
+                                    <li menu_code="47"><a href="/education/schedules" target="_self" navi="Education > Courses > Class Schedules">Class Schedules</a>
+                                    </li>
+                                    <li menu_code="48"><a href="/education/officehour" target="_self" navi="Education > Courses > Office Hour">Office Hour</a>
+                                    </li>
+                                    <li menu_code="156"><a href="http://bulletin.kaist.ac.kr/html/en/?year=2016&amp;id=en20161220&amp;file=C" target="_blank" navi="Education > Courses > Grad. Requirements">Grad. Requirements</a>
+                                        <ul class="nav_depth_4">
+                                            <li menu_code="192"><a href="/content?menu=192" target="_self" navi="Education > Courses > Grad. Requirements > Ph.D. QE">Ph.D. QE</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="173"><a href="https://cs.kaist.ac.kr/content?menu=174" target="_self" navi="Education > Information" style="line-height: 28px;">Information</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="174"><a href="/content?menu=174" target="_self" navi="Education > Information > Life &amp; Welfare">Life &amp; Welfare</a>
+                                    </li>
+                                    <li menu_code="183"><a href="/content?menu=183" target="_self" navi="Education > Information > Student Clubs">Student Clubs</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="43"><a href="/education/academiccalendar" target="_self" navi="Education > Academic<br />Calendar">Academic<br>Calendar</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="c36743" menu_code="200" style="border-bottom-color: rgb(0, 0, 0);"><a href="/content?menu=200" target="_self" navi="Admissions" style="color: rgb(30, 30, 30);">Admissions</a>
+                        <ul class="nav_depth_2" style="display: none;">
+                            <li menu_code="41"><a href="/content?menu=41" target="_self" navi="Admissions > Graduate" style="line-height: 28px;">Graduate</a>
+                            </li>
+                            <li menu_code="40"><a href="/content?menu=40" target="_self" navi="Admissions > Undergraduate" style="line-height: 28px;">Undergraduate</a>
+                            </li>
+                            <li menu_code="42"><a href="/content?menu=42" target="_self" navi="Admissions > Scholarship" style="line-height: 28px;">Scholarship</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="50967c" menu_code="7" style="border-bottom-color: rgb(80, 150, 124); background-color: rgb(30, 30, 30);"><a href="/people/faculty" target="_self" navi="People" style="color: rgb(255, 255, 255);">People</a>
+                        <ul class="nav_depth_2" style="display: block; padding-left: 325px;">
+                            <li menu_code="160"><a href="/people/faculty" target="_self" navi="People > Faculty" style="line-height: 28px;">Faculty</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="167"><a href="/people/facultyFoundations" target="_self" navi="People > Faculty > Foundations">Foundations</a>
+                                    </li>
+                                    <li menu_code="168"><a href="/people/facultyDesign" target="_self" navi="People > Faculty > Design">Design</a>
+                                    </li>
+                                    <li menu_code="199"><a href="/people/facultySecureComputing" target="_self" navi="People > Faculty > Secure Computing">Secure Computing</a>
+                                    </li>
+                                    <li menu_code="169"><a href="/people/facultyVisualComputing" target="_self" navi="People > Faculty > Visual Computing">Visual Computing</a>
+                                    </li>
+                                    <li menu_code="170"><a href="/people/facultyInformationService" target="_self" navi="People > Faculty > Information Service">Information Service</a>
+                                    </li>
+                                    <li menu_code="171"><a href="/people/facultySocialComputing" target="_self" navi="People > Faculty > Social Computing">Social Computing</a>
+                                    </li>
+                                    <li menu_code="172"><a href="/people/facultyInteractiveComputing" target="_self" navi="People > Faculty > Interactive Computing">Interactive Computing</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="25"><a href="/people/staff" target="_self" navi="People > Staff" style="line-height: 28px; color: rgb(130, 200, 174);">Staff</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="178"><a href="/people/staffresearch" target="_self" navi="People > Staff > Staff">Staff</a>
+                                        <ul class="nav_depth_4">
+                                            <li menu_code="26"><a href="/people/administration" target="_self" navi="People > Staff > Staff > Administration">Administration</a></li>
+                                            <li menu_code="27"><a href="/people/academic" target="_self" navi="People > Staff > Staff > Academic Affairs">Academic Affairs</a></li>
+                                            <li menu_code="28" style="color: rgb(130, 200, 174);"><a href="/people/admission" target="_self" navi="People > Staff > Staff > Admisson" style="color: rgb(130, 200, 174);">Admisson</a></li>
+                                            <li menu_code="30"><a href="/people/facilities" target="_self" navi="People > Staff > Staff > Facilities">Facilities</a></li>
+                                            <li menu_code="180"><a href="/people/funding" target="_self" navi="People > Staff > Staff > Funding">Funding</a></li>
+                                        </ul>
+                                    </li>
+                                    <li menu_code="18"><a href="/people/researchers" target="_self" navi="People > Staff > Researchers">Researchers</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="181"><a href="/people/students" target="_self" navi="People > Students" style="line-height: 28px;">Students</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="22"><a href="/people/phdstudents" target="_self" navi="People > Students > Ph.D. Students">Ph.D. Students</a>
+                                    </li>
+                                    <li menu_code="23"><a href="/people/msstudents" target="_self" navi="People > Students > M.S. Students">M.S. Students</a>
+                                    </li>
+                                    <li menu_code="24"><a href="/people/ugstudents" target="_self" navi="People > Students > Undergraduates">Undergraduates</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="8"><a href="/people/schPeople" target="_self" navi="People > Search People" style="line-height: 28px;">Search People</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="708fcf" menu_code="1" style="border-bottom-color: rgb(0, 0, 0);"><a href="/content?menu=133" target="_self" navi="About" style="color: rgb(30, 30, 30);">About</a>
+                        <ul class="nav_depth_2" style="display: none;">
+                            <li menu_code="133"><a href="/content?menu=133" target="_self" navi="About > Introduction" style="line-height: 28px;">Introduction</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="134"><a href="/content?menu=134" target="_self" navi="About > Introduction > Welcome Message">Welcome Message</a>
+                                    </li>
+                                    <li menu_code="3"><a href="/cstimeline" target="_self" navi="About > Introduction > Timeline">Timeline</a>
+                                    </li>
+                                    <li menu_code="50"><a href="/content?menu=50" target="_self" navi="About > Introduction > Environments">Environments</a>
+                                    </li>
+                                    <li menu_code="204"><a href="/bbs/annualreport" target="_self" navi="About > Introduction > Annual Report">Annual Report</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="138"><a href="/content?menu=138" target="_self" navi="About > Contact" style="line-height: 28px;">Contact</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="4"><a href="/content?menu=4" target="_self" navi="About > Contact > Directions">Directions</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="132"><a href="/content?menu=132" target="_self" navi="About > Donation" style="line-height: 28px;">Donation</a>
+                            </li>
+                            <li menu_code="9"><a href="/content?menu=9" target="_self" navi="About > Faculty Recruiting" style="line-height: 28px;">Faculty Recruiting</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="9075a0" menu_code="90" style="border-bottom-color: rgb(0, 0, 0);"><a href="/content?menu=108" target="_self" navi="Resources" style="color: rgb(30, 30, 30);">Resources</a>
+                        <ul class="nav_depth_2" style="display: none;">
+                            <li menu_code="215"><a href="/resources/server" target="_self" navi="Resources > Equipment" style="line-height: 28px;">Equipment</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="211"><a href="/resources/equipment" target="_self" navi="Resources > Equipment > Equipment">Equipment</a>
+                                    </li>
+                                    <li menu_code="212"><a href="/resources/server" target="_self" navi="Resources > Equipment > Server">Server</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="107"><a href="/content?menu=108" target="_self" navi="Resources > Facilities" style="line-height: 28px;">Facilities</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="108"><a href="/content?menu=108" target="_self" navi="Resources > Facilities > Overview">Overview</a>
+                                    </li>
+                                    <li menu_code="109"><a href="/content?menu=95" target="_self" navi="Resources > Facilities > Facility Reservation">Facility Reservation</a>
+                                        <ul class="nav_depth_4">
+                                            <li menu_code="94"><a href="/resources/currentreservation" target="_self" navi="Resources > Facilities > Facility Reservation > Reservation Status">Reservation Status</a></li>
+                                            <li menu_code="95"><a href="/resources/seminarroom" target="_self" navi="Resources > Facilities > Facility Reservation > Seminar Room">Seminar Room</a></li>
+                                            <li menu_code="123"><a href="/resources/lectureroom" target="_self" navi="Resources > Facilities > Facility Reservation > Lecture Room">Lecture Room</a></li>
+                                            <li menu_code="210"><a href="/resources/welfarefacility" target="_self" navi="Resources > Facilities > Facility Reservation > Welfare facility">Welfare facility</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="110"><a href="/content?menu=110" target="_self" navi="Resources > Administration" style="line-height: 28px;">Administration</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="112"><a href="http://form.kaist.ac.kr/index_eng.aspx" target="_blank" navi="Resources > Administration > KAIST Forms">KAIST Forms</a>
+                                    </li>
+                                    <li menu_code="186"><a href="/news/error" target="_self" navi="Resources > Administration > Error Report">Error Report</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="117"><a href="/bbs/related" target="_self" navi="Resources > Links" style="line-height: 28px;">Links</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="187"><a href="/bbs/related" target="_self" navi="Resources > Links > CS Related Sites">CS Related Sites</a>
+                                    </li>
+                                    <li menu_code="119"><a href="https://www.facebook.com/groups/kaistcomputerscience/" target="_blank" navi="Resources > Links > CS Facebook">CS Facebook</a>
+                                    </li>
+                                    <li menu_code="118"><a href="https://twitter.com/kaistcsdept" target="_blank" navi="Resources > Links > CS Twitter">CS Twitter</a>
+                                    </li>
+                                    <li menu_code="121"><a href="http://noah.kaist.ac.kr/" target="_blank" navi="Resources > Links > NOAH Board">NOAH Board</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="122"><a href="/bbs/stgallery" target="_self" navi="Resources > Photo Albums" style="line-height: 28px;">Photo Albums</a>
+                            </li>
+                            <li menu_code="184"><a href="/bbs/materials" target="_self" navi="Resources > Publicity" style="line-height: 28px;">Publicity</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="bg_group">
+                    <div class="menu_bg_group" style="">
+                        <div class="bg_depth_2"></div>
+                        <div class="top_depth_2" style="background-color: rgb(80, 150, 124); opacity: 0.25;"></div>
+                        <h2 class="menu_selector" menu_title="Admisson" style="background-color: rgb(80, 150, 124);">Admisson</h2>
+                    </div>
+                </div>
+            </nav>
+		</div><!-- header_w -->
+	</div><!-- header -->
+
+	<!-- mobile 버전 header 부분 -->
+	<div class="header" id="headMobile">
+		<div class="header_m fix">
+			<button type="button" class="menuBtn" id="menuBtn"><img src="/common/images/header/btn_menu.gif" alt="메뉴" style="height:45px; width:45px;"></button>
+			<div class="hlogo" onclick="location.href='/'"><img src="/common/images/header/h1_logo_m.gif" alt="KAIST - COMPUTER SCIENCE" style="height: 24px;"></div>
+			<div class="bnt">
+				<button type="button" onclick="setLanguage('en');"><img src="/common/images/header/img_headNoti_en_m.png" alt="en"></button>
+				<button type="button" onclick="location.href='/search/search'"><img src="/common/images/header/img_headNoti_search_m.gif" alt="search"></button>
+					<button type="button" onclick="ssoLogin();"><img src="/common/images/header/img_headNoti_login_m.gif" alt="login"></button>
+			</div>
+		</div><!-- header_m -->
+		<!-- mobile 버전 메뉴 펼침 시 나오는 부분 -->
+		<div class="menu">
+    		<div class="header_m fix">
+    			<button type="button" class="menuBtn" id="menuBtnOn"><img src="/common/images/header/btn_menu_on.gif" alt="메뉴" height="45"></button>
+    			<div class="hlogo" onclick="location.href='/'"><img src="/common/images/header/h1_logo_m_on.gif" alt="KAIST - COMPUTER SCIENCE" style="height:24px;"></div>
+    		</div><!-- header_m -->
+    		<ul class="menuList">
+    			<li><a href="/">Home</a></li>
+    			<li class="bg" menu_code="80"><a href="/bbs/news" navi="News">News</a>
+                    <ul class="subMenu">
+                        <li class="bg" menu_code="82"><a href="/bbs/notice" navi="News > Announcements">ㆍAnnouncements</a>
+                            <ul>
+                                <li menu_code="151"><a href="/bbs/notice" navi="News > Announcements > CS Announcements"> <span>ㆍㆍ</span> CS Announcements</a>
+                                </li>
+                                <li menu_code="149"><a href="http://www.kaist.ac.kr/_prog/_board/?code=ed_notice&amp;site_dvs_cd=en&amp;menu_dvs_cd=0602" navi="News > Announcements > KAIST Notice"> <span>ㆍㆍ</span> KAIST Notice</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="83"><a href="/bbs/news" navi="News > News">ㆍNews</a>
+                            <ul>
+                                <li menu_code="84"><a href="/bbs/news/news" navi="News > News > School News"> <span>ㆍㆍ</span> School News</a>
+                                </li>
+                                <li menu_code="85"><a href="/bbs/news/awards" navi="News > News > Awards News"> <span>ㆍㆍ</span> Awards News</a>
+                                </li>
+                                <li menu_code="104"><a href="/bbs/news/research" navi="News > News > Research News"> <span>ㆍㆍ</span> Research News</a>
+                                </li>
+                                <li menu_code="37"><a href="/spotlights/education" navi="News > News > Education News"> <span>ㆍㆍ</span> Education News</a>
+                                </li>
+                                <li menu_code="196"><a href="/bbs/news/soc" navi="News > News > On Media"> <span>ㆍㆍ</span> On Media</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="139"><a href="/spotlights/people" navi="News > People News">ㆍPeople News</a>
+                            <ul>
+                                <li menu_code="159"><a href="/spotlights/faculty" navi="News > People News > Faculty News"> <span>ㆍㆍ</span> Faculty News</a>
+                                </li>
+                                <li menu_code="20"><a href="/spotlights/student" navi="News > People News > Students News"> <span>ㆍㆍ</span> Students News</a>
+                                </li>
+                                <li menu_code="105"><a href="/spotlights/alumni" navi="News > People News > Alumni News"> <span>ㆍㆍ</span> Alumni News</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="86"><a href="/bbs/events" navi="News > Events">ㆍEvents</a>
+                            <ul>
+                                <li menu_code="87"><a href="/bbs/events/seminars" navi="News > Events > Seminars"> <span>ㆍㆍ</span> Seminars</a>
+                                </li>
+                                <li menu_code="88"><a href="/bbs/events/colloquiums" navi="News > Events > Colloquiums"> <span>ㆍㆍ</span> Colloquiums</a>
+                                </li>
+                                <li menu_code="89"><a href="/bbs/events/ph_d_defenses" navi="News > Events > Ph.D. Defenses"> <span>ㆍㆍ</span> Ph.D. Defenses</a>
+                                </li>
+                                <li menu_code="147"><a href="/bbs/events/etc" navi="News > Events > Others"> <span>ㆍㆍ</span> Others</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li menu_code="81"><a href="/news/calendar" navi="News > Events Calendar">ㆍEvents Calendar</a>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg" menu_code="55"><a href="/content?menu=57" navi="Research">Research</a>
+                    <ul class="subMenu">
+                        <li class="bg" menu_code="57"><a href="/content?menu=57" navi="Research > Research Areas">ㆍResearch Areas</a>
+                            <ul>
+                                <li menu_code="64"><a href="/research/labs" navi="Research > Research Areas > All Research Labs"> <span>ㆍㆍ</span> All Research Labs</a>
+                                </li>
+                                <li menu_code="65"><a href="/research/foundation" navi="Research > Research Areas > Foundations"> <span>ㆍㆍ</span> Foundations</a>
+                                </li>
+                                <li menu_code="66"><a href="/research/design" navi="Research > Research Areas > Design"> <span>ㆍㆍ</span> Design</a>
+                                </li>
+                                <li menu_code="197"><a href="/research/securecom" navi="Research > Research Areas > Secure Computing"> <span>ㆍㆍ</span> Secure Computing</a>
+                                </li>
+                                <li menu_code="67"><a href="/research/visualcom" navi="Research > Research Areas > Visual Computing"> <span>ㆍㆍ</span> Visual Computing</a>
+                                </li>
+                                <li menu_code="68"><a href="/research/infoservice" navi="Research > Research Areas > Information Service"> <span>ㆍㆍ</span> Information Service</a>
+                                </li>
+                                <li menu_code="69"><a href="/research/socialcom" navi="Research > Research Areas > Social Computing"> <span>ㆍㆍ</span> Social Computing</a>
+                                </li>
+                                <li menu_code="70"><a href="/research/interaccom" navi="Research > Research Areas > Interactive Computing"> <span>ㆍㆍ</span> Interactive Computing</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="71"><a href="/research/rndCenter" navi="Research > Research &amp;<br />Development">ㆍResearch &amp; Development</a>
+                            <ul>
+                                <li menu_code="72"><a href="/research/rndCenter" navi="Research > Research &amp;<br />Development > Research Centers"> <span>ㆍㆍ</span> Research Centers</a>
+                                </li>
+                                <li menu_code="73"><a href="/research/partnership" navi="Research > Research &amp;<br />Development > Research Partnership"> <span>ㆍㆍ</span> Research Partnership</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="74"><a href="/content?menu=75" navi="Research > Publications">ㆍPublications</a>
+                            <ul>
+                                <li menu_code="75"><a href="/research/paper" navi="Research > Publications > Paper"> <span>ㆍㆍ</span> Paper</a>
+                                </li>
+                                <li menu_code="76"><a href="/research/techReport" navi="Research > Publications > Technical Report"> <span>ㆍㆍ</span> Technical Report</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg" menu_code="36"><a href="/content?menu=188" navi="Education">Education</a>
+                    <ul class="subMenu">
+                        <li class="bg" menu_code="190"><a href="https://cs.kaist.ac.kr/content?menu=188" navi="Education > Academics">ㆍAcademics</a>
+                            <ul>
+                                <li menu_code="188"><a href="/content?menu=188" navi="Education > Academics > Academic Programs"> <span>ㆍㆍ</span> Academic Programs</a>
+                                </li>
+                                <li menu_code="145"><a href="/content?menu=145" navi="Education > Academics > Additional Programs"> <span>ㆍㆍ</span> Additional Programs</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="44"><a href="/education/undergraduate" navi="Education > Courses">ㆍCourses</a>
+                            <ul>
+                                <li menu_code="45"><a href="/education/undergraduate" navi="Education > Courses > Undergraduate"> <span>ㆍㆍ</span> Undergraduate</a>
+                                </li>
+                                <li menu_code="46"><a href="/education/graduate" navi="Education > Courses > Graduate"> <span>ㆍㆍ</span> Graduate</a>
+                                </li>
+                                <li menu_code="47"><a href="/education/schedules" navi="Education > Courses > Class Schedules"> <span>ㆍㆍ</span> Class Schedules</a>
+                                </li>
+                                <li menu_code="48"><a href="/education/officehour" navi="Education > Courses > Office Hour"> <span>ㆍㆍ</span> Office Hour</a>
+                                </li>
+                                <li menu_code="156"><a href="http://bulletin.kaist.ac.kr/html/en/?year=2016&amp;id=en20161220&amp;file=C" navi="Education > Courses > Grad. Requirements"> <span>ㆍㆍ</span> Grad. Requirements</a>
+                                    <ul>
+                                        <li menu_code="192"><a href="/content?menu=192" navi="Education > Courses > Grad. Requirements > Ph.D. QE"><span>ㆍㆍㆍ</span> Ph.D. QE</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="173"><a href="https://cs.kaist.ac.kr/content?menu=174" navi="Education > Information">ㆍInformation</a>
+                            <ul>
+                                <li menu_code="174"><a href="/content?menu=174" navi="Education > Information > Life &amp; Welfare"> <span>ㆍㆍ</span> Life &amp; Welfare</a>
+                                </li>
+                                <li menu_code="183"><a href="/content?menu=183" navi="Education > Information > Student Clubs"> <span>ㆍㆍ</span> Student Clubs</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li menu_code="43"><a href="/education/academiccalendar" navi="Education > Academic<br />Calendar">ㆍAcademic Calendar</a>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg" menu_code="200"><a href="/content?menu=200" navi="Admissions">Admissions</a>
+                    <ul class="subMenu">
+                        <li menu_code="41"><a href="/content?menu=41" navi="Admissions > Graduate">ㆍGraduate</a>
+                        </li>
+                        <li menu_code="40"><a href="/content?menu=40" navi="Admissions > Undergraduate">ㆍUndergraduate</a>
+                        </li>
+                        <li menu_code="42"><a href="/content?menu=42" navi="Admissions > Scholarship">ㆍScholarship</a>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg selected active" menu_code="7"><a href="/people/faculty" navi="People">People</a>
+                    <ul class="subMenu" style="display: block;">
+                        <li class="bg" menu_code="160"><a href="/people/faculty" navi="People > Faculty">ㆍFaculty</a>
+                            <ul>
+                                <li menu_code="167"><a href="/people/facultyFoundations" navi="People > Faculty > Foundations"> <span>ㆍㆍ</span> Foundations</a>
+                                </li>
+                                <li menu_code="168"><a href="/people/facultyDesign" navi="People > Faculty > Design"> <span>ㆍㆍ</span> Design</a>
+                                </li>
+                                <li menu_code="199"><a href="/people/facultySecureComputing" navi="People > Faculty > Secure Computing"> <span>ㆍㆍ</span> Secure Computing</a>
+                                </li>
+                                <li menu_code="169"><a href="/people/facultyVisualComputing" navi="People > Faculty > Visual Computing"> <span>ㆍㆍ</span> Visual Computing</a>
+                                </li>
+                                <li menu_code="170"><a href="/people/facultyInformationService" navi="People > Faculty > Information Service"> <span>ㆍㆍ</span> Information Service</a>
+                                </li>
+                                <li menu_code="171"><a href="/people/facultySocialComputing" navi="People > Faculty > Social Computing"> <span>ㆍㆍ</span> Social Computing</a>
+                                </li>
+                                <li menu_code="172"><a href="/people/facultyInteractiveComputing" navi="People > Faculty > Interactive Computing"> <span>ㆍㆍ</span> Interactive Computing</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg selected active" menu_code="25"><a href="/people/staff" navi="People > Staff">ㆍStaff</a>
+                            <ul style="display: block;">
+                                <li menu_code="178"><a href="/people/staffresearch" navi="People > Staff > Staff"> <span>ㆍㆍ</span> Staff</a>
+                                    <ul>
+                                        <li menu_code="26"><a href="/people/administration" navi="People > Staff > Staff > Administration"><span>ㆍㆍㆍ</span> Administration</a></li>
+                                        <li menu_code="27"><a href="/people/academic" navi="People > Staff > Staff > Academic Affairs"><span>ㆍㆍㆍ</span> Academic Affairs</a></li>
+                                        <li menu_code="28" class="selected"><a href="/people/admission" navi="People > Staff > Staff > Admisson"><span>ㆍㆍㆍ</span> Admisson</a></li>
+                                        <li menu_code="30"><a href="/people/facilities" navi="People > Staff > Staff > Facilities"><span>ㆍㆍㆍ</span> Facilities</a></li>
+                                        <li menu_code="180"><a href="/people/funding" navi="People > Staff > Staff > Funding"><span>ㆍㆍㆍ</span> Funding</a></li>
+                                    </ul>
+                                </li>
+                                <li menu_code="18"><a href="/people/researchers" navi="People > Staff > Researchers"> <span>ㆍㆍ</span> Researchers</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="181"><a href="/people/students" navi="People > Students">ㆍStudents</a>
+                            <ul>
+                                <li menu_code="22"><a href="/people/phdstudents" navi="People > Students > Ph.D. Students"> <span>ㆍㆍ</span> Ph.D. Students</a>
+                                </li>
+                                <li menu_code="23"><a href="/people/msstudents" navi="People > Students > M.S. Students"> <span>ㆍㆍ</span> M.S. Students</a>
+                                </li>
+                                <li menu_code="24"><a href="/people/ugstudents" navi="People > Students > Undergraduates"> <span>ㆍㆍ</span> Undergraduates</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li menu_code="8"><a href="/people/schPeople" navi="People > Search People">ㆍSearch People</a>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg" menu_code="1"><a href="/content?menu=133" navi="About">About</a>
+                    <ul class="subMenu">
+                        <li class="bg" menu_code="133"><a href="/content?menu=133" navi="About > Introduction">ㆍIntroduction</a>
+                            <ul>
+                                <li menu_code="134"><a href="/content?menu=134" navi="About > Introduction > Welcome Message"> <span>ㆍㆍ</span> Welcome Message</a>
+                                </li>
+                                <li menu_code="3"><a href="/cstimeline" navi="About > Introduction > Timeline"> <span>ㆍㆍ</span> Timeline</a>
+                                </li>
+                                <li menu_code="50"><a href="/content?menu=50" navi="About > Introduction > Environments"> <span>ㆍㆍ</span> Environments</a>
+                                </li>
+                                <li menu_code="204"><a href="/bbs/annualreport" navi="About > Introduction > Annual Report"> <span>ㆍㆍ</span> Annual Report</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="138"><a href="/content?menu=138" navi="About > Contact">ㆍContact</a>
+                            <ul>
+                                <li menu_code="4"><a href="/content?menu=4" navi="About > Contact > Directions"> <span>ㆍㆍ</span> Directions</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li menu_code="132"><a href="/content?menu=132" navi="About > Donation">ㆍDonation</a>
+                        </li>
+                        <li menu_code="9"><a href="/content?menu=9" navi="About > Faculty Recruiting">ㆍFaculty Recruiting</a>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg" menu_code="90"><a href="/content?menu=108" navi="Resources">Resources</a>
+                    <ul class="subMenu">
+                        <li class="bg" menu_code="215"><a href="/resources/server" navi="Resources > Equipment">ㆍEquipment</a>
+                            <ul>
+                                <li menu_code="211"><a href="/resources/equipment" navi="Resources > Equipment > Equipment"> <span>ㆍㆍ</span> Equipment</a>
+                                </li>
+                                <li menu_code="212"><a href="/resources/server" navi="Resources > Equipment > Server"> <span>ㆍㆍ</span> Server</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="107"><a href="/content?menu=108" navi="Resources > Facilities">ㆍFacilities</a>
+                            <ul>
+                                <li menu_code="108"><a href="/content?menu=108" navi="Resources > Facilities > Overview"> <span>ㆍㆍ</span> Overview</a>
+                                </li>
+                                <li menu_code="109"><a href="/content?menu=95" navi="Resources > Facilities > Facility Reservation"> <span>ㆍㆍ</span> Facility Reservation</a>
+                                    <ul>
+                                        <li menu_code="94"><a href="/resources/currentreservation" navi="Resources > Facilities > Facility Reservation > Reservation Status"><span>ㆍㆍㆍ</span> Reservation Status</a></li>
+                                        <li menu_code="95"><a href="/resources/seminarroom" navi="Resources > Facilities > Facility Reservation > Seminar Room"><span>ㆍㆍㆍ</span> Seminar Room</a></li>
+                                        <li menu_code="123"><a href="/resources/lectureroom" navi="Resources > Facilities > Facility Reservation > Lecture Room"><span>ㆍㆍㆍ</span> Lecture Room</a></li>
+                                        <li menu_code="210"><a href="/resources/welfarefacility" navi="Resources > Facilities > Facility Reservation > Welfare facility"><span>ㆍㆍㆍ</span> Welfare facility</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="110"><a href="/content?menu=110" navi="Resources > Administration">ㆍAdministration</a>
+                            <ul>
+                                <li menu_code="112"><a href="http://form.kaist.ac.kr/index_eng.aspx" navi="Resources > Administration > KAIST Forms"> <span>ㆍㆍ</span> KAIST Forms</a>
+                                </li>
+                                <li menu_code="186"><a href="/news/error" navi="Resources > Administration > Error Report"> <span>ㆍㆍ</span> Error Report</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="117"><a href="/bbs/related" navi="Resources > Links">ㆍLinks</a>
+                            <ul>
+                                <li menu_code="187"><a href="/bbs/related" navi="Resources > Links > CS Related Sites"> <span>ㆍㆍ</span> CS Related Sites</a>
+                                </li>
+                                <li menu_code="119"><a href="https://www.facebook.com/groups/kaistcomputerscience/" navi="Resources > Links > CS Facebook"> <span>ㆍㆍ</span> CS Facebook</a>
+                                </li>
+                                <li menu_code="118"><a href="https://twitter.com/kaistcsdept" navi="Resources > Links > CS Twitter"> <span>ㆍㆍ</span> CS Twitter</a>
+                                </li>
+                                <li menu_code="121"><a href="http://noah.kaist.ac.kr/" navi="Resources > Links > NOAH Board"> <span>ㆍㆍ</span> NOAH Board</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li menu_code="122"><a href="/bbs/stgallery" navi="Resources > Photo Albums">ㆍPhoto Albums</a>
+                        </li>
+                        <li menu_code="184"><a href="/bbs/materials" navi="Resources > Publicity">ㆍPublicity</a>
+                        </li>
+                    </ul>
+                </li>
+    		</ul>
+		</div>
+	</div><!-- header headMobile -->
+		
+        <div id="div_container" style="background:#d2d2d2 url(/common/images/header/main_bg_pattern.jpg) center top repeat-x;">
+            
+            <div id="container" class="people" style="background:url(/upload_files/main/20141003_542e216f31afb.jpg) center top no-repeat;">
+				<div class="local">
+					<p class="mark">Admisson</p>
+				</div>
+				<div class="inner">
+				
+<script>
+    $(document).ready(function() {  
+    });
+
+    $(function(){
+        $(".searchSort").find("button").click(function(){
+            $("#gubun").val( $(this).val() ) ;
+            $("#frm").submit() ;
+        })
+    });
+    
+    function jumpShow(lang){
+    	if(lang == "en"){
+    		$("#jump_ko").hide();
+            $("#jump_en").show();
+    	}else if(lang == "ko"){
+    		$("#jump_en").hide();
+            $("#jump_ko").show();
+    	}
+        
+        $("#radio_"+lang).attr("checked", true);
+        $("#gubun_lang").val(lang);
+    }
+    
+    function staffView(idx, top_num){
+        document.location.href="/people/view?idx="+idx+"&kind=staff&menu="+top_num;
+    }
+    
+</script>
+
+<p class="navi"><a href="/people/faculty">People</a> &gt; <a href="/people/staff">Staff</a> &gt; <a href="/people/admission">Admisson</a></p>
+
+<form name="frm" id="frm" method="post">
+<input id="kind" name="kind" value="" maxlength="10" type="hidden">
+<input id="gubun" name="gubun" value="" maxlength="2" type="hidden">
+<input id="gubun_lang" name="gubun_lang" value="en" maxlength="2" type="hidden">
+<input id="research_area" name="research_area" value="" maxlength="2" type="hidden">
+
+<fieldset class="searchBox">
+<legend>검색</legend>
+	<div class="selectBox2">
+	<p class="default">Admisson</p>
+	<button type="button" class="btn_selectList"></button>
+	<ul class="selectList" style="display: none;">
+		<li onclick="location.href='/people/staff'"><button type="button">All</button></li>
+		<li onclick="location.href='/people/administration'"><button type="button">Administration</button></li>
+		<li onclick="location.href='/people/academic'"><button type="button">Academic Affairs</button></li>
+		<li onclick="location.href='/people/admission'"><button type="button">Admisson</button></li>
+		<li onclick="location.href='/people/funding'"><button type="button">Funding</button></li>
+		<li onclick="location.href='/people/facilities'"><button type="button">Facilities</button></li>
+		<li onclick="location.href='/people/researchers'"><button type="button">Researchers</button></li>
+	</ul>
+	</div>
+	
+    <span class="searchArea">
+        <input id="keyword" name="keyword" value="" placeholder="Search" type="text">
+        <a href="javascript:document.frm.submit();"></a>
+    </span>
+    <!--
+    <p class="txtSort">Results 1–8 of about 8.  Sort by subject. </p>
+    <button type="button" class="btnTxt">Advanced Search</button>-->
+</fieldset>
+<div class="searchSort">
+    <div style="float:left; width: 50px; -webkit-box-sizing: border-box; height: 30px; margin: 2px 28px 0px 9px">
+    	<input checked="checked" name="radio_lang" id="radio_en" style="margin-top: 5px" value="en" onclick="jumpShow('en');" type="radio"> &nbsp;Eng
+    </div>
+    <div style="float:left; width: 50px; -webkit-box-sizing: border-box; height: 30px; margin: 2px 28px 0px 0px">
+    	<input name="radio_lang" id="radio_ko" style="margin-top: 5px" value="ko" onclick="jumpShow('ko');" type="radio"> &nbsp;Kor
+    </div>
+    
+    <div id="jump_en" style="">
+		<button type="button" name="jump_en" value="A">A</button>
+		<button type="button" name="jump_en" value="B">B</button>
+		<button type="button" name="jump_en" value="C">C</button>
+		<button type="button" name="jump_en" value="D">D</button>
+		<button type="button" name="jump_en" value="E">E</button>
+		<button type="button" name="jump_en" value="F">F</button>
+		<button type="button" name="jump_en" value="G">G</button>
+		<button type="button" name="jump_en" value="H">H</button>
+		<button type="button" name="jump_en" value="I">I</button>
+		<button type="button" name="jump_en" value="J">J</button>
+		<button type="button" name="jump_en" value="K">K</button>
+		<button type="button" name="jump_en" value="L">L</button>
+		<button type="button" name="jump_en" value="M">M</button>
+		<button type="button" name="jump_en" value="N">N</button>
+		<button type="button" name="jump_en" value="O">O</button>
+		<button type="button" name="jump_en" value="P">P</button>
+		<button type="button" name="jump_en" value="Q">Q</button>
+		<button type="button" name="jump_en" value="R">R</button>
+		<button type="button" name="jump_en" value="S">S</button>
+		<button type="button" name="jump_en" value="T">T</button>
+		<button type="button" name="jump_en" value="U">U</button>
+		<button type="button" name="jump_en" value="V">V</button>
+		<button type="button" name="jump_en" value="W">W</button>
+		<button type="button" name="jump_en" value="X">X</button>
+		<button type="button" name="jump_en" value="Y">Y</button>
+		<button type="button" name="jump_en" value="Z">Z</button>
+	</div>
+	<div id="jump_ko" style="display:none;">
+		<button type="button" name="jump_ko" value="1">가</button>
+		<button type="button" name="jump_ko" value="2">나</button>	
+		<button type="button" name="jump_ko" value="3">다</button>	
+		<button type="button" name="jump_ko" value="4">라</button>
+		<button type="button" name="jump_ko" value="5">마</button>
+		<button type="button" name="jump_ko" value="6">바</button>
+		<button type="button" name="jump_ko" value="7">사</button>
+		<button type="button" name="jump_ko" value="8">아</button>
+		<button type="button" name="jump_ko" value="9">자</button>
+		<button type="button" name="jump_ko" value="10">차</button>
+		<button type="button" name="jump_ko" value="11">카</button>
+		<button type="button" name="jump_ko" value="12">타</button>
+		<button type="button" name="jump_ko" value="13">파</button>
+		<button type="button" name="jump_ko" value="14">하</button>
+	</div>
+</div>
+            
+</form>
+
+<div class="list_warp"><!-- list wrap layout -->    
+
+	        <p class="line"><span>Staff</span></p>
+	        <ul class="item_box line2 fix" style="margin-top: 20px; margin-bottom: 50px;">
+ 
+	            <li class="horiz_item"> <!-- .horiz_item : 사진 , 텍스트가 수평나열 -->
+	                <div class="item fix" style="cursor: pointer; " onclick="staffView(343, 28);"> 
+	                    	<div class="photo"><img src="/upload_files/member//56fdd78cd9c79.jpg" alt="" style="vertical-align: middle; width: 100%;"></div>
+	                    <div class="infoTxt">
+	                        <p class="name">Oeunbeul Oh</p>
+	                        <p class="depart">Coordinator</p>
+	                        <p class="part">Int＇l Affairs</p>
+	                        <p class="text">
+042-350-3508<br>	                            <a href="javascript:emailSend('oeunbeul^*cs.kaist.ac.kr');"><script>emailWrite('oeunbeul^*cs.kaist.ac.kr');</script>oeunbeul (at) cs.kaist.ac.kr</a>
+	                        </p>
+	                    </div>
+	                </div>
+	            </li> <!-- //horiz_item -->
+	        </ul>
+  
+</div><!-- // list_warp -->
+		            
+		            
+				</div>
+			</div>
+			
+        </div>
+
+<script>
+    function btnShareFacebook(){
+        var u = location.href;
+        var t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+    }
+    
+    function btnShareTwitter(){
+        var u = location.href;
+        window.open("https://twitter.com/home?status=" + encodeURIComponent("Admisson") + " - " + encodeURIComponent(u), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+    }
+    
+    function btnShareGooglePlus(){
+        var u = location.href;
+        window.open("https://plus.google.com/share?url="+u, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes');
+    }
+    
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    	  ga('create', 'UA-45570408-1', 'auto');
+    	  ga('send', 'pageview');
+
+</script>
+
+<div id="footer">
+    <div class="address fix">
+        <div class="inner">
+            <p><span>KAIST School of Computing</span> 291 Daehak-ro, Yuseong-gu, Daejeon, Korea 34141</p>
+            <ul class="fix">
+            	<li><a target="_blank" href="http://www.kaist.ac.kr/">KAIST</a></li>
+                <li><a target="_blank" href="http://www.kaist.ac.kr/html/kr/edu/edu_030103.html">College of Engineering</a></li>
+                <li><a href="/content?menu=138">Contact</a></li>
+                <li><a href="/content?menu=4">Directions</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="copy">
+        <div class="inner2">
+            <p>ⓒ KAIST School of Computing. All Rights Reserved.</p>
+            <p class="sns">
+                <a href="javascript:btnShareFacebook();"><img src="/common/images/common/btn_fb.png"></a>
+                <a href="javascript:btnShareTwitter();"><img src="/common/images/common/btn_tw.png" alt="twitter"></a>
+                <a href="javascript:btnShareGooglePlus();"><img src="/common/images/common/btn_gp.png" alt="rss"></a>
+            </p>
+        </div>
+    </div>
+</div><!-- footer -->
+	
+	</div><!-- //wrap -->
+
+
+</body></html>

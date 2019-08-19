@@ -1,0 +1,205 @@
+Turn on more accessible mode
+Skip Ribbon Commands
+Skip to main content
+Education
+Research
+Areas of Advance
+About Chalmers
+På svenska
+Start
+Staff
+Saqib Javed
+Staff
+Libraries
+Saqib Javed
+Project leader, Architecture and Civil Engineering, Building Services Engineering
+ saqib.javed@chalmers.se  +46 31 772 11 55  Find me
+http://orcid.org/0000-0001-9629-9382
+Publications Collaboration and projects
+Major publications
+
+Thermal Response Testing of a Multiple Borehole Ground Heat Exchanger
+Author: Javed, Saqib; Fahlén, Per
+Published: 2011
+Published in: International Journal of Low-Carbon Technologies
+Publication type: Scientific journal article - peer reviewed
+
+An Experimental Investigation of the Accuracy of Thermal Response Tests Used to Measure Ground Thermal Properties
+Author: Javed, Saqib; Spitler, J. D.; Fahlén, Per
+Published: 2011
+Published in: ASHRAE Transactions
+Publication type: Scientific journal article - peer reviewed
+
+Floating Thermal Piles in Soft Sensitive Clays
+Author: Bergström, Anders; Javed, Saqib; Dijkstra, Jelke
+Published: 2017
+Published in: Grundläggningsdagen 2017 (GD 2017), March 16, 2017, Stockholm, Sweden
+Publication type: Conference paper - non peer reviewed
+
+Second-order Multipole Formulas for Thermal Resistance of Single U-tube Borehole Heat Exchangers
+Author: Javed, Saqib; Claesson, Johan
+Published: 2017
+Published in: Proceedings of the IGSHPA Technical/Research Conference and Expo 2017, March 14-16, Denver
+Publication type: Conference paper - peer reviewed
+
+Accuracy of borehole thermal resistance calculation methods for grouted single U-tube ground heat exchangers
+Author: Javed, Saqib; Spitler, Jeffrey
+Published: 2017
+Published in: Applied Energy
+Publication type: Scientific journal article - peer reviewed
+
+The Dutch approach for assessing and reducing environmental impacts of building materials
+Author: de Klijn-Chevalerias, M.; Javed, Saqib
+Published: 2017
+Published in: Building and Environment
+Publication type: Scientific journal article - peer reviewed
+
+Development of Modelling and Simulation tools for Geothermal Basements and Deep Foundations in Soft Clays
+Author: Javed, Saqib
+Published: 2016
+Published in:
+Publication type: Report
+
+Analysis and design methods for energy geostructures
+Author: Bourne-Webb, Peter; Burlon, Sebastien; Javed, Saqib; Kürten, Sylvia; Loveridge, Fleur
+Published: 2016
+Published in: Renewable & Sustainable Energy Reviews
+Publication type: Scientific journal article - peer reviewed
+
+Energy renovation of an office building using a holistic design approach
+Author: Bournas, I.; Abugabbara, M.; Balcerzak, A.; Dubois, M.C.; Javed, Saqib
+Published: 2016
+Published in: Journal of Building Engineering
+Publication type: Scientific journal article - peer reviewed
+
+Calculation of Borehole Thermal Resistance
+Author: Javed, Saqib; Spitler, Jeff
+Published: 2016
+Published in: Advances in Ground-Source Heat Pump Systems
+Publication type: Chapter in monograph, book
+
+Life-Cycle Cost-Optimized Cooling Systems for European Office Buildings
+Author: Lechner, Roman; Javed, Saqib
+Published: 2016
+Published in: Proceedings of the 12th REHVA World Congress (Clima 2016), Aalborg, Denmark, May 22 – 25
+Publication type: Conference paper - peer reviewed
+
+Testing and Validation of TEKNOsim: A Building Energy Simulation Program
+Author: Javed, Saqib; Lechner, Roman; Behrens, Jan
+Published: 2016
+Published in: Proceedings of the 12th REHVA World Congress (Clima 2016), Aalborg, Denmark, May 22 – 25
+Publication type: Conference paper - peer reviewed
+
+Calculation Tool for Effective Borehole Thermal Resistance
+Author: Spitler, Jeffrey; Javed, Saqib; Grundmann, Rachel
+Published: 2016
+Published in: Proceedings of the 12th REHVA World Congress (Clima 2016), May 22-25, Aalborg, Denmark
+Publication type: Conference paper - peer reviewed
+
+Natural convection in groundwater-filled boreholes used as ground heat exchangers
+Author: Spitler, Jeff; Javed, Saqib; Ramstad, R. K.
+Published: 2016
+Published in: Applied Energy
+Publication type: Scientific journal article - peer reviewed
+
+Optimization of Ground-Storage Heat Pump Systems for Space Conditioning of Buildings
+Author: Javed, Saqib; Fahlén, Per; Claesson, Johan
+Published: 2014
+Published in:
+Publication type: Report
+
+Heat transfer in a borehole heat exchanger: Frequency domain modeling
+Author: Monteyne, Griet; Javed, Saqib; Vandersteen, Gerd
+Published: 2014
+Published in: International Journal of Heat and Mass Transfer
+Publication type: Scientific journal article - peer reviewed
+
+Thermal Response Testing: Results and Experiences from a Ground Source Heat Pump Test Facility with Multiple Boreholes
+Author: Javed, Saqib
+Published: 2013
+Published in: Proceedings of 11th REHVA World Congress (Clima 2013), June 16–19, Prague, Czech Republic.
+Publication type: Conference paper - peer reviewed
+
+Multi-injection rate thermal response test with forced convection in a groundwater-filled borehole in hard rock
+Author: Liebel, H. T.; Javed, Saqib; Vistnes, G.
+Published: 2012
+Published in: Renewable Energy
+Publication type: Scientific journal article - peer reviewed
+
+A load-aggregation method to calculate extraction temperatures of borehole heat exchangers
+Author: Claesson, Johan; Javed, Saqib
+Published: 2012
+Published in: ASHRAE Transactions
+Publication type: Scientific journal article - peer reviewed
+
+A method to evaluate thermal response tests on groundwater-filled boreholes
+Author: Javed, Saqib; Nakos, Helena; Claesson, Johan
+Published: 2012
+Published in: ASHRAE Transactions
+Publication type: Scientific journal article - peer reviewed
+
+Thermal modelling and evaluation of borehole heat transfer.
+Author: Javed, Saqib
+Published: 2012
+Published in:
+Publication type: Doctoral thesis
+
+An experimental investigation of the accuracy of thermal response tests used to measure ground thermal properties
+Author: Javed, Saqib; Fahlén, Per; Spitler, Jeffrey D
+Published: 2011
+Published in: ASHRAE Transactions
+Publication type: Scientific journal article - peer reviewed
+
+Termisk modellering och utvärdering av borrhålssystem.
+Author: Javed, Saqib; Fahlén, Per
+Published: 2011
+Published in: Energi & Miljö
+Publication type: Journal/newspaper article
+
+RECOVERY TIMES AFTER THERMAL RESPONSE TESTS ON VERTICAL BOREHOLE HEAT EXCHANGERS
+Author: Javed, Saqib; Claesson, Johan; Beier, Richard
+Published: 2011
+Published in: Proceedings of 23rd IIR International Congress of Refrigeration (ICR2011), Prague, Czech Republic.
+Publication type: Conference paper - peer reviewed
+
+An Analytical Method to Calculate Borehole Fluid Temperatures for Time-scales from Minutes to Decades
+Author: Claesson, Johan; Javed, Saqib
+Published: 2011
+Published in: ASHRAE Transactions.
+Publication type: Scientific journal article - peer reviewed
+Go to Chalmers publication library
+Page manager Published: Fri 25 May 2012. Modified: Mon 08 May 2017
+Start
+Staff
+Saqib Javed
+Areas of Advance
+Building Futures
+Energy
+Information and Communication Technology
+Life Science Engineering
+Nanoscience and Nanotechnology
+Materials Science
+Production
+Transport
+Study at Chalmers
+Master's Degree Programmes
+Study guidance and Admissions
+Student Portal
+Student Union
+Organisation
+Departments
+Centres
+Library
+Onsala Space Observatory
+Shortcuts
+Contact
+Press contacts
+Alumni
+Support Chalmers
+Find us
+Working at Chalmers
+Vacancies
+Insidan - Chalmers’ intranet
+About chalmers.se / Cookies
+CHALMERS UNIVERSITY OF TECHNOLOGY - SE-412 96 GOTHENBURG, SWEDEN - PHONE: +46 (0)31-772 10 00 - WWW.CHALMERS.SE
+LOADING...

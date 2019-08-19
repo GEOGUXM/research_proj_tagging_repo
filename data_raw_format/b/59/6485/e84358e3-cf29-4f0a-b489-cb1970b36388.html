@@ -1,0 +1,704 @@
+<html prefix="og: http://ogp.me/ns#" lang="en-US"><head>
+    <meta charset="UTF-8"><script type="text/javascript" src="https://bam.nr-data.net/1/ab0374a39e?a=45262348&amp;v=1026.7a27a3e&amp;to=Z1QGZBZQVkNYU0YNWV4eJVMQWFdeFkNbClFcVElWBVJNXE1JbRREX1cNXAE%3D&amp;rst=8566&amp;ref=http://imes.mit.edu/people/faculty/shalek-alex-k/&amp;ap=2342&amp;be=1824&amp;fe=8512&amp;dc=6849&amp;perf=%7B%22timing%22:%7B%22of%22:1498023511496,%22n%22:0,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22ce%22:0,%22rq%22:0,%22rp%22:0,%22rpe%22:0,%22dl%22:1819,%22di%22:6846,%22ds%22:6848,%22de%22:6881,%22dc%22:8511,%22l%22:8511,%22le%22:8513%7D,%22navigation%22:%7B%7D%7D&amp;at=SxMFEl5KRU0%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>    
+	<link href="//fonts.googleapis.com/css?family=Asap:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+    <link rel="pingback" href="http://imes.mit.edu/xmlrpc.php">
+    <title>Alex K. Shalek - Institute for Medical Engineering &amp; Science</title>
+    
+<!-- This site is optimized with the Yoast SEO plugin v4.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://imes.mit.edu/people/faculty/shalek-alex-k/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Alex K. Shalek - Institute for Medical Engineering &amp; Science">
+<meta property="og:description" content="title(s) Hermann L.F. von Helmholtz Career Development Assistant&nbsp;Professor of Health Sciences and Technology (HST), MIT Core Member, Institute for Medical Engineering and Science, MIT Assistant …">
+<meta property="og:url" content="http://imes.mit.edu/people/faculty/shalek-alex-k/">
+<meta property="og:site_name" content="Institute for Medical Engineering &amp; Science">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="title(s) Hermann L.F. von Helmholtz Career Development Assistant&nbsp;Professor of Health Sciences and Technology (HST), MIT Core Member, Institute for Medical Engineering and Science, MIT Assistant …">
+<meta name="twitter:title" content="Alex K. Shalek - Institute for Medical Engineering &amp; Science">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Institute for Medical Engineering &amp; Science » Feed" href="http://imes.mit.edu/feed/">
+<link rel="alternate" type="application/rss+xml" title="Institute for Medical Engineering &amp; Science » Comments Feed" href="http://imes.mit.edu/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/imes.mit.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://imes.mit.edu/wp-includes/js/wp-emoji-release.min.js?ver=4.7.3" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="validate-engine-css-css" href="http://imes.mit.edu/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.7.8" type="text/css" media="all">
+<link rel="stylesheet" id="advpsStyleSheet-css" href="http://imes.mit.edu/wp-content/plugins/advanced-post-slider/advps-style.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="cptch_stylesheet-css" href="http://imes.mit.edu/wp-content/plugins/captcha/css/front_end_style.css?ver=4.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://imes.mit.edu/wp-includes/css/dashicons.min.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="cptch_desktop_style-css" href="http://imes.mit.edu/wp-content/plugins/captcha/css/desktop_style.css?ver=4.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="taxonomy-image-plugin-public-css" href="http://imes.mit.edu/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6" type="text/css" media="screen">
+<link rel="stylesheet" id="bootstrap-css-css" href="http://imes.mit.edu/wp-content/themes/intuition/bootstrap/css/bootstrap.min.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="http://imes.mit.edu/wp-includes/js/thickbox/thickbox.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="cpotheme-shortcodes-css" href="http://imes.mit.edu/wp-content/themes/intuition/core/css/base.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="cpotheme-colorpicker-css" href="http://imes.mit.edu/wp-content/themes/intuition/core/css/prettyphoto.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="cpotheme-fontawesome-css" href="http://imes.mit.edu/wp-content/themes/intuition/core/css/fontawesome.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="cpotheme-main-css" href="http://imes.mit.edu/wp-content/themes/intuition-child/style.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="cpotheme-responsive-css" href="http://imes.mit.edu/wp-content/themes/intuition/style-responsive.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="easy_table_style-css" href="http://imes.mit.edu/wp-content/plugins/easy-table/themes/default/style.css?ver=1.6" type="text/css" media="all">
+<link rel="stylesheet" id="video-js-css" href="http://imes.mit.edu/wp-content/plugins/video-embed-thumbnail-generator/video-js/video-js.css?ver=5.18.4" type="text/css" media="all">
+<link rel="stylesheet" id="video-js-kg-skin-css" href="http://imes.mit.edu/wp-content/plugins/video-embed-thumbnail-generator/video-js/kg-video-js-skin.css?ver=4.6.16" type="text/css" media="all">
+<link rel="stylesheet" id="kgvid_video_styles-css" href="http://imes.mit.edu/wp-content/plugins/video-embed-thumbnail-generator/css/kgvid_styles.css?ver=4.6.16" type="text/css" media="all">
+<link rel="stylesheet" id="childtheme-responsive-css" href="http://imes.mit.edu/wp-content/themes/intuition-child/responsive.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="childtheme-responsive-table-css" href="http://imes.mit.edu/wp-content/themes/intuition-child/responsive-tables.css?ver=4.7.3" type="text/css" media="all">
+<script type="text/javascript" src="http://imes.mit.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-content/plugins/advanced-post-slider/js/advps.frnt.script.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-content/plugins/advanced-post-slider/bxslider/jquery.bxslider.min.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-content/themes/intuition/core/scripts/core.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-content/themes/intuition/scripts/general.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-content/themes/intuition/core/scripts/jquery-cycle.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-content/themes/intuition/core/scripts/jquery-prettyphoto.js?ver=4.7.3"></script>
+<link rel="https://api.w.org/" href="http://imes.mit.edu/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://imes.mit.edu/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://imes.mit.edu/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.7.3">
+<link rel="shortlink" href="http://imes.mit.edu/?p=413">
+<link rel="alternate" type="application/json+oembed" href="http://imes.mit.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fimes.mit.edu%2Fpeople%2Ffaculty%2Fshalek-alex-k%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://imes.mit.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fimes.mit.edu%2Fpeople%2Ffaculty%2Fshalek-alex-k%2F&amp;format=xml">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!-- Dynamic Widgets by QURL - http://www.qurl.nl //-->
+    
+    <!--
+	<style type="text/css">
+		
+
+				
+    </style>
+	-->
+	<link href="//fonts.googleapis.com/css?family=Average+Sans" rel="stylesheet" type="text/css"><link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"></head>
+
+<body class="faculty_profile-template-default single single-faculty_profile postid-413">
+	<div class="outer" id="top">
+	
+		<div class="wrapper wrapper-fixed">
+			<div id="topbar" class="topbar">
+				<div class="container">
+					<div id="mit-logo" class="mit-logo"></div>
+					<div id="social" class="social"><a class="social-profile" target="_blank" href="https://www.youtube.com/channel/UCWZT2ChXte_kz8F02vnHMtA" title="YouTube"><span class="social_icon social-icon icon-youtube"></span><span class="social_title social-title">YouTube</span></a><a class="social-profile" target="_blank" href="https://twitter.com/MIT_IMES" title="Twitter"><span class="social_icon social-icon icon-twitter"></span><span class="social_title social-title">Twitter</span></a><a class="social-profile" target="_blank" href="https://www.facebook.com/imesmit" title="Facebook"><span class="social_icon social-icon icon-facebook"></span><span class="social_title social-title">Facebook</span></a><a class="social-profile" target="_blank" href="https://www.flickr.com/photos/129455592@N05/albums" title="Flickr"><span class="social_icon social-icon icon-flickr"></span><span class="social_title social-title">Flickr</span></a><form id="searchSlide" action="http://imes.mit.edu" method="get" class="search-form">
+                    <input class="search-field" name="s" value="" maxlength="150" type="search">
+		    <input class="search-submit" value="Search" type="submit">
+		</form></div>					
+					<div id="topmenu" class="topmenu">
+						<div class="menu-utilitymenu-container"><ul id="menu-utilitymenu" class="menu-top"><li id="menu-item-627" class="menu-item-news-events menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-627"><a href="http://imes.mit.edu/news/">News &amp; Events</a></li>
+<li id="menu-item-628" class="menu-item-people menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-628 current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent"><a href="http://imes.mit.edu/people/faculty/">People</a></li>
+<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98"><a href="http://imes.mit.edu/about/vision/">About</a></li>
+<li id="menu-item-8058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8058"><a href="https://giving.mit.edu/taxonomy/term/138#3881890">Give</a></li>
+</ul></div>					</div>
+										<div class="clear"></div>
+				</div>
+			</div>
+			<header id="header" class="header">
+				<div class="container">
+					<nav class="phone-main-navbar navbar navbar-default navbar-inverse" role="navigation">
+  						<div class="container-fluid">
+    						<!-- Brand and toggle get grouped for better mobile display -->
+    						<div class="navbar-header">
+      							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#phone-main-navbar-collapse">
+        							<span class="sr-only">Toggle navigation</span>
+        							<span class="icon-bar"></span>
+        							<span class="icon-bar"></span>
+        							<span class="icon-bar"></span>
+      							</button>
+      							
+      							<a class="navbar-brand" href="/">
+      								<img src="http://imes.mit.edu/wp-content/themes/intuition-child/images/mobile/logo2.png" alt="Institute for Medical Engineering &amp; Science">
+      							</a>
+      							
+      							<div id="social" class="social"><a class="social-profile" target="_blank" href="https://www.youtube.com/channel/UCWZT2ChXte_kz8F02vnHMtA" title="YouTube"><span class="social_icon social-icon icon-youtube"></span><span class="social_title social-title">YouTube</span></a><a class="social-profile" target="_blank" href="https://twitter.com/MIT_IMES" title="Twitter"><span class="social_icon social-icon icon-twitter"></span><span class="social_title social-title">Twitter</span></a><a class="social-profile" target="_blank" href="https://www.facebook.com/imesmit" title="Facebook"><span class="social_icon social-icon icon-facebook"></span><span class="social_title social-title">Facebook</span></a><a class="social-profile" target="_blank" href="https://www.flickr.com/photos/129455592@N05/albums" title="Flickr"><span class="social_icon social-icon icon-flickr"></span><span class="social_title social-title">Flickr</span></a><form id="searchSlide" action="http://imes.mit.edu" method="get" class="search-form">
+                    <input class="search-field" name="s" value="" maxlength="150" type="search">
+		    <input class="search-submit" value="Search" type="submit">
+		</form></div>	
+    						</div>
+
+    						<!-- Collect the nav links, forms, and other content for toggling -->
+    						<div class="collapse navbar-collapse" id="phone-main-navbar-collapse">
+      
+      							<ul id="phone-menu-main" class="phone-menu-main nav navbar-nav"><li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/research/">Research</a></li>
+<li id="menu-item-787" class="menu-item-initiatives menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/initiatives/medrc/">Initiatives<span class="opener"></span></a>
+<ul class="sub-menu" style="display: none;">
+	<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/initiatives/medrc/">MEDRC<span class="opener"></span></a>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-943" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+	<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/initiatives/mit-mgh/">MIT MGH Partnership<span class="opener"></span></a>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-944" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+	<li id="menu-item-788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/initiatives/microbiome/">Microbiome Center<span class="opener"></span></a>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-955" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+	<li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/initiatives/clinical-research/">Clinical Research Center<span class="opener"></span></a>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-956" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/academics/hst/">Academics<span class="opener"></span></a>
+<ul class="sub-menu" style="display: none;">
+	<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/academics/hst/">HST</a></li>
+	<li id="menu-item-664" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://hst.mit.edu/academics/courses">HST Courses</a></li>
+</ul>
+</li>
+</ul><ul id="phone-menu-main" class="phone-menu-main nav navbar-nav"><li id="menu-item-627" class="menu-item-news-events menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/news/">News &amp; Events<span class="opener"></span></a>
+<ul class="sub-menu" style="display: none;">
+	<li id="menu-item-264" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://imes.mit.edu/news/">News</a></li>
+	<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/news-events/calendar/">Calendar</a></li>
+	<li id="menu-item-265" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://imes.mit.edu/events/">Events</a></li>
+	<li id="menu-item-7057" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/about/contact/join-our-mailing-list/">Join Our Mailing List</a></li>
+</ul>
+</li>
+<li id="menu-item-628" class="menu-item-people menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent opened"><a href="http://imes.mit.edu/people/faculty/">People<span class="opener"></span></a>
+<ul class="sub-menu" style="display: block;">
+	<li id="menu-item-92" class="menu-item-faculty menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent opened"><a href="http://imes.mit.edu/people/faculty/">Faculty<span class="opener"></span></a>
+	<ul class="sub-menu" style="display: block;">
+		<li id="menu-item-1000000022" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/adalsteinsson-elfar/">Elfar Adalsteinsson</a></li>
+		<li id="menu-item-1000000023" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/anderson-daniel/">Daniel Anderson</a></li>
+		<li id="menu-item-1000000024" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/bhatia-sangeeta/">Sangeeta Bhatia</a></li>
+		<li id="menu-item-1000000025" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/brett-bouma/">Brett Bouma</a></li>
+		<li id="menu-item-1000000026" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/bourouiba-lydia/">Lydia Bourouiba</a></li>
+		<li id="menu-item-1000000027" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/brown-emery/">Emery Brown</a></li>
+		<li id="menu-item-1000000028" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/chakraborty-arup-k/">Arup K. Chakraborty</a></li>
+		<li id="menu-item-1000000029" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/chung-kwanghun/">Kwanghun Chung</a></li>
+		<li id="menu-item-1000000030" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/cohen-richard/">Richard J. Cohen</a></li>
+		<li id="menu-item-1000000031" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/collins-james-j/">James J. Collins</a></li>
+		<li id="menu-item-1000000032" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/edelman-elazer/">Elazer Edelman</a></li>
+		<li id="menu-item-1000000033" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/joseph-frassica/">Joseph J. Frassica</a></li>
+		<li id="menu-item-1000000034" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/gabrieli-john/">John Gabrieli</a></li>
+		<li id="menu-item-1000000035" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/gehrke-lee/">Lee Gehrke</a></li>
+		<li id="menu-item-1000000036" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/golland-polina/">Polina Golland</a></li>
+		<li id="menu-item-1000000037" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/gray-martha/">Martha Gray</a></li>
+		<li id="menu-item-1000000038" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/greenberg-julie/">Julie Greenberg</a></li>
+		<li id="menu-item-1000000039" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/heldt-thomas/">Thomas Heldt</a></li>
+		<li id="menu-item-1000000040" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/langer-robert/">Robert S. Langer</a></li>
+		<li id="menu-item-1000000041" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/tami-lieberman/">Tami Lieberman</a></li>
+		<li id="menu-item-1000000042" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/mark-roger/">Roger Mark</a></li>
+		<li id="menu-item-1000000043" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/mirny-leonid/">Leonid Mirny</a></li>
+		<li id="menu-item-1000000044" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/ellen-roche/">Ellen Roche</a></li>
+		<li id="menu-item-1000000045" class="menu-item menu-item-type- menu-item-object- current-menu-item current_page_item"><a href="http://imes.mit.edu/shalek-alex-k/">Alex K. Shalek</a></li>
+		<li id="menu-item-1000000046" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/sharp-phillip/">Phillip Sharp</a></li>
+		<li id="menu-item-1000000047" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/sodini-charles/">Charles Sodini</a></li>
+		<li id="menu-item-1000000048" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/david-sontag/">David Sontag</a></li>
+		<li id="menu-item-1000000049" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/stirling-leia/">Leia Stirling</a></li>
+		<li id="menu-item-1000000050" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/stultz-collin/">Collin Stultz</a></li>
+		<li id="menu-item-1000000051" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/szolovits-peter/">Peter Szolovits</a></li>
+		<li id="menu-item-1000000052" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/bruce-walker/">Bruce Walker</a></li>
+		<li id="menu-item-1000000053" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/young-laurence/">Laurence Young</a></li>
+	</ul>
+</li>
+	<li id="menu-item-774" class="menu-item-research-staff menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/people/research-staff/">Research Staff<span class="opener"></span></a>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-1000000093" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/brian-anthony/">Brian Anthony</a></li>
+		<li id="menu-item-1000000094" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/mercedes-balcells/">Mercedes Balcells</a></li>
+		<li id="menu-item-1000000095" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/jane-jane-chen/">Jane-Jane Chen</a></li>
+		<li id="menu-item-1000000096" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/chi-sang-poon/">Chi-Sang Poon</a></li>
+		<li id="menu-item-1000000097" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/james-c-weaver/">James C. Weaver</a></li>
+	</ul>
+</li>
+	<li id="menu-item-93" class="menu-item-staff menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/people/staff/">Staff<span class="opener"></span></a>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-1000000054" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/dominique-altarejos/">Dominique Altarejos</a></li>
+		<li id="menu-item-1000000055" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/karrol-altarejos/">Karrol Altarejos</a></li>
+		<li id="menu-item-1000000056" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/traci-anderson/">Traci Anderson</a></li>
+		<li id="menu-item-1000000057" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/karen-baird/">Karen Baird</a></li>
+		<li id="menu-item-1000000058" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/phoebe-biagiotti/">Phoebe Biagiotti</a></li>
+		<li id="menu-item-1000000059" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/lian-ee-chng/">Lian-Ee Ch’ng</a></li>
+		<li id="menu-item-1000000060" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/sally-chapman/">Sally Chapman</a></li>
+		<li id="menu-item-1000000061" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/patricia-cunningham/">Patricia Cunningham</a></li>
+		<li id="menu-item-1000000062" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/robert-fadel/">Robert Fadel</a></li>
+		<li id="menu-item-1000000063" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/tara-fawaz/">Tara Fawaz</a></li>
+		<li id="menu-item-1000000064" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/amanda-holley/">Amanda Holley</a></li>
+		<li id="menu-item-1000000065" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/irene-huang/">Irene Huang</a></li>
+		<li id="menu-item-1000000066" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/sue-kangiser/">Sue Kangiser</a></li>
+		<li id="menu-item-1000000067" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/fern-keniston/">Fern Keniston</a></li>
+		<li id="menu-item-1000000068" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/hunter-lamere/">Hunter Lamere</a></li>
+		<li id="menu-item-1000000069" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/gallina-lastovkina/">Galina Lastovkina</a></li>
+		<li id="menu-item-1000000070" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/sheri-leone/">Sheri Leone</a></li>
+		<li id="menu-item-1000000071" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/kim-lepage/">Kim LePage</a></li>
+		<li id="menu-item-1000000072" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/melinda-lyman-wright/">Melinda Lyman-Wright</a></li>
+		<li id="menu-item-1000000073" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/joanna-maciver/">Joanna MacIver</a></li>
+		<li id="menu-item-1000000074" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/michelle-morrison/">Michelle Morrison</a></li>
+		<li id="menu-item-1000000075" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/vicki-mountain/">Vicki Mountain</a></li>
+		<li id="menu-item-1000000076" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/alexandra-nano/">Alexandra Nano</a></li>
+		<li id="menu-item-1000000077" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/rhonda-obrien/">Rhonda O’Brien</a></li>
+		<li id="menu-item-1000000078" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/ken-pierce/">Ken Pierce</a></li>
+		<li id="menu-item-1000000079" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/tom-quinn/">Tom Quinn</a></li>
+		<li id="menu-item-1000000080" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/tuli-saha/">Tuli Saha</a></li>
+		<li id="menu-item-1000000081" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/renee-saindon/">Renée Saindon</a></li>
+		<li id="menu-item-1000000082" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/zara-smith/">Zara Smith</a></li>
+		<li id="menu-item-1000000083" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/joseph-stein/">Joseph Stein</a></li>
+		<li id="menu-item-1000000084" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/olga-vieira/">Olga Vieira</a></li>
+		<li id="menu-item-1000000085" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/caitlin-burke/">Caitlin Vinci</a></li>
+		<li id="menu-item-1000000086" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/laurie-ward/">Laurie Ward</a></li>
+		<li id="menu-item-1000000087" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/maggie-wesh/">Maggie Wesh</a></li>
+		<li id="menu-item-1000000088" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/arlene-wint/">Arlene Wint</a></li>
+		<li id="menu-item-1000000089" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/monica-wolf/">Monica Wolf</a></li>
+		<li id="menu-item-1000000090" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/ada-ziolkowski/">Ada Ziolkowski</a></li>
+		<li id="menu-item-1000000091" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/elizabeth-zotos/">Elizabeth Zotos</a></li>
+		<li id="menu-item-1000000092" class="menu-item menu-item-type- menu-item-object-"><a href="http://imes.mit.edu/ellie-zucker/">Ellie Zucker</a></li>
+	</ul>
+</li>
+	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/people/faculty-awards-honors/">Faculty Awards &amp; Honors</a></li>
+	<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/people/directory/">Directory</a></li>
+</ul>
+</li>
+<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/about/vision/">About<span class="opener"></span></a>
+<ul class="sub-menu" style="display: none;">
+	<li id="menu-item-662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/about/vision/">Vision<span class="opener"></span></a>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-8658" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/about/vision/imes-diversity-inclusion-statement/">IMES Diversity and Inclusion Statement</a></li>
+	</ul>
+</li>
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/about/career-opportunities/">Career Opportunities</a></li>
+	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/about/admin-resources/">Administrative Resources<span class="opener"></span></a>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-840" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/about/admin-resources/event-planning/">Event Planning</a></li>
+		<li id="menu-item-842" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/about/admin-resources/finance-and-research-administration/">Finance and Research Administration</a></li>
+	</ul>
+</li>
+	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/about/contact/">Contact<span class="opener"></span></a>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/about/contact/join-our-mailing-list/">Join Our Mailing List</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8058" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://giving.mit.edu/taxonomy/term/138#3881890">Give</a></li>
+</ul>      
+							</div><!-- /.navbar-collapse -->
+						</div><!-- /.container-fluid -->
+					</nav>					
+
+					<div id="logo" class="logo"><a class="site-logo" href="http://imes.mit.edu"><img src="http://imes.mit.edu/wp-content/themes/intuition/images/logo.png" alt="Institute for Medical Engineering &amp; Science" width="205" height="50"></a><span class="title site-title"><a href="http://imes.mit.edu">Institute for Medical Engineering &amp; Science</a></span></div>					
+					<ul id="menu-main" class="menu-main nav_main"><li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/research/">Research</a></li>
+<li id="menu-item-787" class="menu-item-initiatives menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/initiatives/medrc/">Initiatives</a>
+<ul class="sub-menu">
+	<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/initiatives/medrc/">MEDRC</a>
+	<ul class="sub-menu">
+		<li id="menu-item-943" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+	<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/initiatives/mit-mgh/">MIT MGH Partnership</a>
+	<ul class="sub-menu">
+		<li id="menu-item-944" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+	<li id="menu-item-788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/initiatives/microbiome/">Microbiome Center</a>
+	<ul class="sub-menu">
+		<li id="menu-item-955" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+	<li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/initiatives/clinical-research/">Clinical Research Center</a>
+	<ul class="sub-menu">
+		<li id="menu-item-956" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_children has-children"><a href="http://imes.mit.edu/academics/hst/">Academics</a>
+<ul class="sub-menu">
+	<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://imes.mit.edu/academics/hst/">HST</a></li>
+	<li id="menu-item-664" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://hst.mit.edu/academics/courses">HST Courses</a></li>
+</ul>
+</li>
+</ul><div class="clear"></div>					
+										
+					<div class="clear"></div>
+				</div>
+			</header>
+						
+						
+						
+				
+			
+
+
+<div id="main" class="main">
+	<div class="container">
+		<section id="content" class="content content-right">
+			<div id="post-413" class="page post-413 faculty_profile type-faculty_profile status-publish hentry">
+								
+				
+
+				<div class="page-title profile-title mobile-profile-title">
+					<h1>Alex K. Shalek</h1>
+				</div>
+				<div class="profile-position mobile-profile-position">
+					Core Faculty				</div>
+				
+				<div class="profile-info-block">
+					<img src="http://imes.mit.edu/wp-content/uploads/2015/05/Shalek-Lab-Large.png" alt="" class="profile-photo">					
+					<div class="profile-info-block-text">
+												<div>
+							<b>Phone:</b> (617) 324-5670						</div>
+												
+												<div>
+							<b>Email:</b> <a href="mailto:shalek@mit.edu">shalek@mit.edu</a>						</div>
+												
+												<div>
+							<b>Website:</b>
+							<a href="http://www.shaleklab.com/?#" target="_blank">Shalek Lab</a>						</div>
+						
+								
+							<div>
+								<b>Lab Phone:</b> (617) 324-5670							</div>
+								
+								
+												
+						<div><b>room:</b> E25-348A</div><div><b>
+MIT address:</b> 77 Massachusetts Ave., Cambridge, MA 02139</div><div><b>
+administrative assistant:</b> Michelle Morrison</div><div><b>
+assistant phone:</b> (617) 715-2247</div><div><b>
+assistant email:</b>  <a href="mailto: mmorri35@mit.edu">mmorri35@mit.edu</a></div>
+					</div>
+				</div>
+				
+				<div class="page-title profile-title">
+					<h1>Alex K. Shalek</h1>
+				</div>
+				<div class="profile-position">
+					Core Faculty				</div>
+				
+				<div class="page-content">
+					<h2>title(s)</h2>
+<ul>
+<li>Hermann L.F. von Helmholtz Career Development Assistant&nbsp;Professor of Health Sciences and Technology (HST), MIT</li>
+<li>Core Member, Institute for Medical Engineering and Science, MIT</li>
+<li>Assistant Professor, Chemistry, MIT</li>
+<li>Associate Member, Ragon Institute of MGH, MIT, and Harvard</li>
+<li>Associate Member, Broad Institute of MIT and Harvard</li>
+<li>Assistant in Immunology, MGH</li>
+<li>Instructor, Harvard Sciences and Technology</li>
+</ul>
+<h2>bio</h2>
+<p>Alex K. Shalek received his bachelor’s degree <em>summa cum laude</em> from Columbia University and his PhD from Harvard University in chemical physics under the guidance of <a href="http://people.fas.harvard.edu/~parklab/">Hongkun Park</a>. To date, his interdisciplinary research has focused on developing and utilizing nanoscale manipulation and measurement technologies to understand how small components (molecules, cells) drive systems of vast complexity (cellular responses, population behaviors). As a graduate student, Alex developed arrays of nanowires as cellular-scale syringes and electrochemical probes (<a href="http://www.shaleklab.com/portfolios/vertical-silicon-nanowires-as-a-universal-platform-for-delivering-biomolecules-into-living-cells/">Shalek et al, <em>PNAS</em>, 2010</a>; <a href="http://www.shaleklab.com/portfolios/vertical-nanowire-electrode-arrays-as-a-scalable-platform-for-intracellular-interfacing-to-neuronal-circuits/">Robinson et al, <em>Nature Nanotechology</em>, 2012</a>) and used them to study how biochemical perturbations alter cellular responses <em>en masse</em> (<a href="http://www.shaleklab.com/portfolios/systematic-discovery-of-tlr-signaling-components-delineates-viral-sensing-circuits/">Chevrier et al, <em>Cell</em>, 2011</a>; <a href="http://www.shaleklab.com/portfolios/nanowire-mediated-delivery-enables-functional-interrogation-of-primary-immune-cells-application-to-the-analysis-of-chronic-lymphocytic-leukemia/">Shalek et al, <em>Nano Letters</em>, 2012;</a> &nbsp;<a href="http://www.shaleklab.com/portfolios/dynamic-regulatory-network-controlling-th17-cell-differentiation/">Yosef et al, <em>Nature</em>, 2013</a>). While these studies yielded important insights, they also highlighted how population-level measurements can mask underlying differences between individual cells in these systems. As an alternative approach, as a postdoctoral fellow, he developed a strategy that uses single-cell RNA-Seq to identify distinct cell states and circuits from the natural variation that exists between seemingly identical cells (<a href="http://www.shaleklab.com/portfolios/single-cell-transcriptomics-reveals-bimodality-in-expression-and-splicing-in-immune-cells/">Shalek et al, <em>Nature</em>, 2013</a>). Since then, he has dramatically increased the throughput and control of his methods with microdevice cell preparation and isolation schemes. This has enabled him to uncover how responses to pathogens are structured within dendritic cell (DC) populations, and how cell-to-cell variability arises from intra- and inter-cellular regulatory circuits (<a href="http://www.shaleklab.com/portfolios/single-cell-rna-seq-reveals-dynamic-paracrine-control-of-cellular-variation/">Shalek et al, <em>Nature</em>, 2014</a>), as well as to explore the causes and consequences of cellular heterogeneity in additional systems of interest (<a href="http://www.shaleklab.com/portfolios/whole-exome-sequencing-of-circulating-tumor-cells-provides-a-window-into-metastatic-prostate-cancer/">Lohr et al, <em>Nature Biotechnology</em>, 2014</a>; <a href="http://www.shaleklab.com/portfolios/single-cell-rna-seq-highlights-intratumoral-heterogeneity-in-primary-glioblastoma/">Patel et al, <em>Science</em>, 2014</a>).</p>
+<h2>degrees</h2>
+<ul>
+<li>PhD in Chemical Physics, Harvard University, 2011</li>
+<li>AM in Chemical Physics, Harvard University, 2006</li>
+<li>BA in Chemical Physics, Columbia University, 2004</li>
+</ul>
+<h2>selected awards/societies</h2>
+<ul>
+<li>NIH New Innovator, 2015</li>
+<li>Beckman Young Investigator, 2015</li>
+<li>Searle Scholar, 2015</li>
+<li>“Follow That Cell” Competition First Place (Team Member), 2015</li>
+<li>Hermann L.F. Von Helmholtz Career Development Professor, MIT (2014–Present)</li>
+<li>Broad Institute-Israel Partnership for Cell Circuit Research Collaborative Grant, 2013</li>
+<li>Excellence Award, Broad Institute, 2013</li>
+<li>Dudley R. Herschbach Teaching Award, Harvard University, 2006</li>
+<li>Certificate of Distinction in Teaching, Harvard University, 2005</li>
+<li>National Science Foundation Graduate Research Fellowship, 2005-2008</li>
+<li>Phi Beta Kappa, Columbia University, 2004</li>
+<li>John Jay Scholar, Columbia University, 2000-2004</li>
+<li>Dean’s List, Columbia University, 2000-2004</li>
+</ul>
+<h2>research</h2>
+<p>Research in the Shalek Lab&nbsp;is directed towards the development and application of new technologies that will facilitate understanding of how cells collectively perform systems-level functions in healthy and diseased states. With respect to technology development, the group is leveraging recent advances in nanotechnology and chemical biology to establish a host of core, cross-disciplinary platforms that will collectively enable them to extensively profile and precisely control cells and their interactions within the context of complex systems. With respect to biological applications, the group is focusing on how cellular heterogeneity and cell-to-cell communication drive ensemble-level decision-making in the immune system, with an emphasis on “two-body” interactions (e.g., host cell-virus interactions, innate immune control of adaptive immunity, tumor infiltration by immune cells). The goal is to not only provide broadly applicable experimental tools but also help transform the way in which we think about single cells, cell-cell interactions, diseased cellular states and therapeutics so as to create a new paradigm for understanding and designing systems-level cellular behaviors in multicellular organisms.</p>
+<h2>selected publications</h2>
+<ul>
+<li>E. Z. Macosko, A. Basu, R. Satija, J. Nemesh, K. Shekhar,<br>
+M. Goldman, I. Tirosh, A. R. Bialas, N. Kamitaki,<br>
+E. M. Martersteck, J. J. Trombetta, D. A. Weitz, J. R. Sanes,<br>
+A. K. Shalek, A. Regev, and S. A. McCarroll. “Genome-wide expression profiling of thousands of individual cells using nanoliter droplets.” <em>Cell</em><strong>&nbsp;</strong>161 (2015):&nbsp;1202-14.</li>
+<li>A. P. Patel*, I. Tirosh*, J. J. Trombetta, A. K. Shalek,<br>
+S. M. Gillespie, H. Wakimoto, D. P. Cahill, B. V. Nahed, W. T. Curry, R. L. Martuza, D. N. Louis, O. Rosenblatt-Rosen, M. L. Suvà, A. Regev, and B. E. Bernstein. “Single Cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma.” <em>Science</em>&nbsp;344 (2014): 1396-1401.</li>
+<li>A. K. Shalek*, R. Satija*, J. Shuga*, J. J. Trombetta, D. Lu,<br>
+D. Gennert, P. Chen, R. S. Gertner, J. T. Gaublomme, N. Yosef,<br>
+S. Schwartz, B. Fowler, S. Weaver, J. Wang, X. Wang, R. Ding,<br>
+R. Raychowdhury, N. Friedman, N. Hacohen, H. Park, A. P. May, and A. Regev. “Large-Scale Single-Cell RNA-Seq Reveals Strategies for Regulating Cell-to-Cell Dynamic Variability through Paracrine Signaling.” <em>Nature</em>&nbsp;510 (2014): 363.</li>
+<li>A. K. Shalek*, R. Satija*, X. Adiconis, R. S. Gertner, J. T. Gaublomme, R. Raychowdhury, S. Schwartz, N. Yosef, C. Malboeuf, D. Lu, J. J. Trombetta, D. Gennert, A. Gnirke, A. Goren, N. Hacohen, J. Z. Levin, H. Park, and A. Regev. “Single-Cell Transcriptomics Reveals Bimodality in Expression and Splicing in Immune Cells.” <em>Nature&nbsp;</em>498 (2013): 236-40.</li>
+<li>N. Yosef*, A. K. Shalek*, J. T. Gaublomme*, H. Jin, Y. Lee,<br>
+A. Awasthi, C. Wu, K. Karwacz, S. Xiao, M. Jorgolli, D. Gennert,<br>
+R. Satija, A. Shakya, D. Y. Lu, J. J. Trombetta, M. Pillai, P. J. Ratcliffe, M. L. Coleman, M. Bix, D. Tantin, H. Park,<br>
+V. K. Kuchroo, and A. Regev. “Dynamic Regulatory Network Controlling Th17 Cell Differentiation.” <em>Nature</em> 496 (2013): 461-68.</li>
+</ul>
+<p>A full list of Professor Shalek’s publications can be found&nbsp;on his <a href="http://shalek.wpengine.com/publications/" target="_blank">website</a>.</p>
+<h2>courses taught</h2>
+<ul>
+<li><strong>5.60</strong> – <strong>Fall 2014</strong> – Thermodynamics &amp; Kinetics</li>
+<li><strong>5.60</strong> – <strong>Fall 2015</strong> – Thermodynamics &amp; Kinetics</li>
+</ul>
+				</div>
+			</div>
+		</section>
+		<aside id="sidebar" class="sidebar">
+    <div id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-mainmenu-container"><ul id="menu-mainmenu" class="menu"><li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://imes.mit.edu/research/">Research</a></li>
+<li id="menu-item-787" class="menu-item-initiatives menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-787"><a href="http://imes.mit.edu/initiatives/medrc/">Initiatives<span class="opener"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-75"><a href="http://imes.mit.edu/initiatives/medrc/">MEDRC<span class="opener"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-943" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-943"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+	<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-77"><a href="http://imes.mit.edu/initiatives/mit-mgh/">MIT MGH Partnership<span class="opener"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-944"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+	<li id="menu-item-788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-788"><a href="http://imes.mit.edu/initiatives/microbiome/">Microbiome Center<span class="opener"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-955" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-955"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+	<li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-757"><a href="http://imes.mit.edu/initiatives/clinical-research/">Clinical Research Center<span class="opener"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-956" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-956"><a href="/wp-login.php">Log in</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-667"><a href="http://imes.mit.edu/academics/hst/">Academics<span class="opener"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="http://imes.mit.edu/academics/hst/">HST</a></li>
+	<li id="menu-item-664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-664"><a target="_blank" href="http://hst.mit.edu/academics/courses">HST Courses</a></li>
+</ul>
+</li>
+</ul></div></div><div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-utilitymenu-container"><ul id="menu-utilitymenu-1" class="menu"><li class="menu-item-news-events menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-627"><a href="http://imes.mit.edu/news/">News &amp; Events<span class="opener"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-264"><a href="http://imes.mit.edu/news/">News</a></li>
+	<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://imes.mit.edu/news-events/calendar/">Calendar</a></li>
+	<li id="menu-item-265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-265"><a href="http://imes.mit.edu/events/">Events</a></li>
+	<li id="menu-item-7057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7057"><a href="http://imes.mit.edu/about/contact/join-our-mailing-list/">Join Our Mailing List</a></li>
+</ul>
+</li>
+<li class="menu-item-people menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-628 current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent opened"><a href="http://imes.mit.edu/people/faculty/">People<span class="opener"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-92" class="menu-item-faculty menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-92 current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent opened"><a href="http://imes.mit.edu/people/faculty/">Faculty<span class="opener"></span></a>
+	<ul class="sub-menu" style="display: block;">
+		<li id="menu-item-1000000022" class="menu-item menu-item-type- menu-item-object- menu-item-1000000022"><a href="http://imes.mit.edu/adalsteinsson-elfar/">Elfar Adalsteinsson</a></li>
+		<li id="menu-item-1000000023" class="menu-item menu-item-type- menu-item-object- menu-item-1000000023"><a href="http://imes.mit.edu/anderson-daniel/">Daniel Anderson</a></li>
+		<li id="menu-item-1000000024" class="menu-item menu-item-type- menu-item-object- menu-item-1000000024"><a href="http://imes.mit.edu/bhatia-sangeeta/">Sangeeta Bhatia</a></li>
+		<li id="menu-item-1000000025" class="menu-item menu-item-type- menu-item-object- menu-item-1000000025"><a href="http://imes.mit.edu/brett-bouma/">Brett Bouma</a></li>
+		<li id="menu-item-1000000026" class="menu-item menu-item-type- menu-item-object- menu-item-1000000026"><a href="http://imes.mit.edu/bourouiba-lydia/">Lydia Bourouiba</a></li>
+		<li id="menu-item-1000000027" class="menu-item menu-item-type- menu-item-object- menu-item-1000000027"><a href="http://imes.mit.edu/brown-emery/">Emery Brown</a></li>
+		<li id="menu-item-1000000028" class="menu-item menu-item-type- menu-item-object- menu-item-1000000028"><a href="http://imes.mit.edu/chakraborty-arup-k/">Arup K. Chakraborty</a></li>
+		<li id="menu-item-1000000029" class="menu-item menu-item-type- menu-item-object- menu-item-1000000029"><a href="http://imes.mit.edu/chung-kwanghun/">Kwanghun Chung</a></li>
+		<li id="menu-item-1000000030" class="menu-item menu-item-type- menu-item-object- menu-item-1000000030"><a href="http://imes.mit.edu/cohen-richard/">Richard J. Cohen</a></li>
+		<li id="menu-item-1000000031" class="menu-item menu-item-type- menu-item-object- menu-item-1000000031"><a href="http://imes.mit.edu/collins-james-j/">James J. Collins</a></li>
+		<li id="menu-item-1000000032" class="menu-item menu-item-type- menu-item-object- menu-item-1000000032"><a href="http://imes.mit.edu/edelman-elazer/">Elazer Edelman</a></li>
+		<li id="menu-item-1000000033" class="menu-item menu-item-type- menu-item-object- menu-item-1000000033"><a href="http://imes.mit.edu/joseph-frassica/">Joseph J. Frassica</a></li>
+		<li id="menu-item-1000000034" class="menu-item menu-item-type- menu-item-object- menu-item-1000000034"><a href="http://imes.mit.edu/gabrieli-john/">John Gabrieli</a></li>
+		<li id="menu-item-1000000035" class="menu-item menu-item-type- menu-item-object- menu-item-1000000035"><a href="http://imes.mit.edu/gehrke-lee/">Lee Gehrke</a></li>
+		<li id="menu-item-1000000036" class="menu-item menu-item-type- menu-item-object- menu-item-1000000036"><a href="http://imes.mit.edu/golland-polina/">Polina Golland</a></li>
+		<li id="menu-item-1000000037" class="menu-item menu-item-type- menu-item-object- menu-item-1000000037"><a href="http://imes.mit.edu/gray-martha/">Martha Gray</a></li>
+		<li id="menu-item-1000000038" class="menu-item menu-item-type- menu-item-object- menu-item-1000000038"><a href="http://imes.mit.edu/greenberg-julie/">Julie Greenberg</a></li>
+		<li id="menu-item-1000000039" class="menu-item menu-item-type- menu-item-object- menu-item-1000000039"><a href="http://imes.mit.edu/heldt-thomas/">Thomas Heldt</a></li>
+		<li id="menu-item-1000000040" class="menu-item menu-item-type- menu-item-object- menu-item-1000000040"><a href="http://imes.mit.edu/langer-robert/">Robert S. Langer</a></li>
+		<li id="menu-item-1000000041" class="menu-item menu-item-type- menu-item-object- menu-item-1000000041"><a href="http://imes.mit.edu/tami-lieberman/">Tami Lieberman</a></li>
+		<li id="menu-item-1000000042" class="menu-item menu-item-type- menu-item-object- menu-item-1000000042"><a href="http://imes.mit.edu/mark-roger/">Roger Mark</a></li>
+		<li id="menu-item-1000000043" class="menu-item menu-item-type- menu-item-object- menu-item-1000000043"><a href="http://imes.mit.edu/mirny-leonid/">Leonid Mirny</a></li>
+		<li id="menu-item-1000000044" class="menu-item menu-item-type- menu-item-object- menu-item-1000000044"><a href="http://imes.mit.edu/ellen-roche/">Ellen Roche</a></li>
+		<li id="menu-item-1000000045" class="menu-item menu-item-type- menu-item-object- menu-item-1000000045 current-menu-item current_page_item"><a href="http://imes.mit.edu/shalek-alex-k/">Alex K. Shalek</a></li>
+		<li id="menu-item-1000000046" class="menu-item menu-item-type- menu-item-object- menu-item-1000000046"><a href="http://imes.mit.edu/sharp-phillip/">Phillip Sharp</a></li>
+		<li id="menu-item-1000000047" class="menu-item menu-item-type- menu-item-object- menu-item-1000000047"><a href="http://imes.mit.edu/sodini-charles/">Charles Sodini</a></li>
+		<li id="menu-item-1000000048" class="menu-item menu-item-type- menu-item-object- menu-item-1000000048"><a href="http://imes.mit.edu/david-sontag/">David Sontag</a></li>
+		<li id="menu-item-1000000049" class="menu-item menu-item-type- menu-item-object- menu-item-1000000049"><a href="http://imes.mit.edu/stirling-leia/">Leia Stirling</a></li>
+		<li id="menu-item-1000000050" class="menu-item menu-item-type- menu-item-object- menu-item-1000000050"><a href="http://imes.mit.edu/stultz-collin/">Collin Stultz</a></li>
+		<li id="menu-item-1000000051" class="menu-item menu-item-type- menu-item-object- menu-item-1000000051"><a href="http://imes.mit.edu/szolovits-peter/">Peter Szolovits</a></li>
+		<li id="menu-item-1000000052" class="menu-item menu-item-type- menu-item-object- menu-item-1000000052"><a href="http://imes.mit.edu/bruce-walker/">Bruce Walker</a></li>
+		<li id="menu-item-1000000053" class="menu-item menu-item-type- menu-item-object- menu-item-1000000053"><a href="http://imes.mit.edu/young-laurence/">Laurence Young</a></li>
+	</ul>
+</li>
+	<li id="menu-item-774" class="menu-item-research-staff menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-774"><a href="http://imes.mit.edu/people/research-staff/">Research Staff<span class="opener"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1000000093" class="menu-item menu-item-type- menu-item-object- menu-item-1000000093"><a href="http://imes.mit.edu/brian-anthony/">Brian Anthony</a></li>
+		<li id="menu-item-1000000094" class="menu-item menu-item-type- menu-item-object- menu-item-1000000094"><a href="http://imes.mit.edu/mercedes-balcells/">Mercedes Balcells</a></li>
+		<li id="menu-item-1000000095" class="menu-item menu-item-type- menu-item-object- menu-item-1000000095"><a href="http://imes.mit.edu/jane-jane-chen/">Jane-Jane Chen</a></li>
+		<li id="menu-item-1000000096" class="menu-item menu-item-type- menu-item-object- menu-item-1000000096"><a href="http://imes.mit.edu/chi-sang-poon/">Chi-Sang Poon</a></li>
+		<li id="menu-item-1000000097" class="menu-item menu-item-type- menu-item-object- menu-item-1000000097"><a href="http://imes.mit.edu/james-c-weaver/">James C. Weaver</a></li>
+	</ul>
+</li>
+	<li id="menu-item-93" class="menu-item-staff menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-93"><a href="http://imes.mit.edu/people/staff/">Staff<span class="opener"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1000000054" class="menu-item menu-item-type- menu-item-object- menu-item-1000000054"><a href="http://imes.mit.edu/dominique-altarejos/">Dominique Altarejos</a></li>
+		<li id="menu-item-1000000055" class="menu-item menu-item-type- menu-item-object- menu-item-1000000055"><a href="http://imes.mit.edu/karrol-altarejos/">Karrol Altarejos</a></li>
+		<li id="menu-item-1000000056" class="menu-item menu-item-type- menu-item-object- menu-item-1000000056"><a href="http://imes.mit.edu/traci-anderson/">Traci Anderson</a></li>
+		<li id="menu-item-1000000057" class="menu-item menu-item-type- menu-item-object- menu-item-1000000057"><a href="http://imes.mit.edu/karen-baird/">Karen Baird</a></li>
+		<li id="menu-item-1000000058" class="menu-item menu-item-type- menu-item-object- menu-item-1000000058"><a href="http://imes.mit.edu/phoebe-biagiotti/">Phoebe Biagiotti</a></li>
+		<li id="menu-item-1000000059" class="menu-item menu-item-type- menu-item-object- menu-item-1000000059"><a href="http://imes.mit.edu/lian-ee-chng/">Lian-Ee Ch’ng</a></li>
+		<li id="menu-item-1000000060" class="menu-item menu-item-type- menu-item-object- menu-item-1000000060"><a href="http://imes.mit.edu/sally-chapman/">Sally Chapman</a></li>
+		<li id="menu-item-1000000061" class="menu-item menu-item-type- menu-item-object- menu-item-1000000061"><a href="http://imes.mit.edu/patricia-cunningham/">Patricia Cunningham</a></li>
+		<li id="menu-item-1000000062" class="menu-item menu-item-type- menu-item-object- menu-item-1000000062"><a href="http://imes.mit.edu/robert-fadel/">Robert Fadel</a></li>
+		<li id="menu-item-1000000063" class="menu-item menu-item-type- menu-item-object- menu-item-1000000063"><a href="http://imes.mit.edu/tara-fawaz/">Tara Fawaz</a></li>
+		<li id="menu-item-1000000064" class="menu-item menu-item-type- menu-item-object- menu-item-1000000064"><a href="http://imes.mit.edu/amanda-holley/">Amanda Holley</a></li>
+		<li id="menu-item-1000000065" class="menu-item menu-item-type- menu-item-object- menu-item-1000000065"><a href="http://imes.mit.edu/irene-huang/">Irene Huang</a></li>
+		<li id="menu-item-1000000066" class="menu-item menu-item-type- menu-item-object- menu-item-1000000066"><a href="http://imes.mit.edu/sue-kangiser/">Sue Kangiser</a></li>
+		<li id="menu-item-1000000067" class="menu-item menu-item-type- menu-item-object- menu-item-1000000067"><a href="http://imes.mit.edu/fern-keniston/">Fern Keniston</a></li>
+		<li id="menu-item-1000000068" class="menu-item menu-item-type- menu-item-object- menu-item-1000000068"><a href="http://imes.mit.edu/hunter-lamere/">Hunter Lamere</a></li>
+		<li id="menu-item-1000000069" class="menu-item menu-item-type- menu-item-object- menu-item-1000000069"><a href="http://imes.mit.edu/gallina-lastovkina/">Galina Lastovkina</a></li>
+		<li id="menu-item-1000000070" class="menu-item menu-item-type- menu-item-object- menu-item-1000000070"><a href="http://imes.mit.edu/sheri-leone/">Sheri Leone</a></li>
+		<li id="menu-item-1000000071" class="menu-item menu-item-type- menu-item-object- menu-item-1000000071"><a href="http://imes.mit.edu/kim-lepage/">Kim LePage</a></li>
+		<li id="menu-item-1000000072" class="menu-item menu-item-type- menu-item-object- menu-item-1000000072"><a href="http://imes.mit.edu/melinda-lyman-wright/">Melinda Lyman-Wright</a></li>
+		<li id="menu-item-1000000073" class="menu-item menu-item-type- menu-item-object- menu-item-1000000073"><a href="http://imes.mit.edu/joanna-maciver/">Joanna MacIver</a></li>
+		<li id="menu-item-1000000074" class="menu-item menu-item-type- menu-item-object- menu-item-1000000074"><a href="http://imes.mit.edu/michelle-morrison/">Michelle Morrison</a></li>
+		<li id="menu-item-1000000075" class="menu-item menu-item-type- menu-item-object- menu-item-1000000075"><a href="http://imes.mit.edu/vicki-mountain/">Vicki Mountain</a></li>
+		<li id="menu-item-1000000076" class="menu-item menu-item-type- menu-item-object- menu-item-1000000076"><a href="http://imes.mit.edu/alexandra-nano/">Alexandra Nano</a></li>
+		<li id="menu-item-1000000077" class="menu-item menu-item-type- menu-item-object- menu-item-1000000077"><a href="http://imes.mit.edu/rhonda-obrien/">Rhonda O’Brien</a></li>
+		<li id="menu-item-1000000078" class="menu-item menu-item-type- menu-item-object- menu-item-1000000078"><a href="http://imes.mit.edu/ken-pierce/">Ken Pierce</a></li>
+		<li id="menu-item-1000000079" class="menu-item menu-item-type- menu-item-object- menu-item-1000000079"><a href="http://imes.mit.edu/tom-quinn/">Tom Quinn</a></li>
+		<li id="menu-item-1000000080" class="menu-item menu-item-type- menu-item-object- menu-item-1000000080"><a href="http://imes.mit.edu/tuli-saha/">Tuli Saha</a></li>
+		<li id="menu-item-1000000081" class="menu-item menu-item-type- menu-item-object- menu-item-1000000081"><a href="http://imes.mit.edu/renee-saindon/">Renée Saindon</a></li>
+		<li id="menu-item-1000000082" class="menu-item menu-item-type- menu-item-object- menu-item-1000000082"><a href="http://imes.mit.edu/zara-smith/">Zara Smith</a></li>
+		<li id="menu-item-1000000083" class="menu-item menu-item-type- menu-item-object- menu-item-1000000083"><a href="http://imes.mit.edu/joseph-stein/">Joseph Stein</a></li>
+		<li id="menu-item-1000000084" class="menu-item menu-item-type- menu-item-object- menu-item-1000000084"><a href="http://imes.mit.edu/olga-vieira/">Olga Vieira</a></li>
+		<li id="menu-item-1000000085" class="menu-item menu-item-type- menu-item-object- menu-item-1000000085"><a href="http://imes.mit.edu/caitlin-burke/">Caitlin Vinci</a></li>
+		<li id="menu-item-1000000086" class="menu-item menu-item-type- menu-item-object- menu-item-1000000086"><a href="http://imes.mit.edu/laurie-ward/">Laurie Ward</a></li>
+		<li id="menu-item-1000000087" class="menu-item menu-item-type- menu-item-object- menu-item-1000000087"><a href="http://imes.mit.edu/maggie-wesh/">Maggie Wesh</a></li>
+		<li id="menu-item-1000000088" class="menu-item menu-item-type- menu-item-object- menu-item-1000000088"><a href="http://imes.mit.edu/arlene-wint/">Arlene Wint</a></li>
+		<li id="menu-item-1000000089" class="menu-item menu-item-type- menu-item-object- menu-item-1000000089"><a href="http://imes.mit.edu/monica-wolf/">Monica Wolf</a></li>
+		<li id="menu-item-1000000090" class="menu-item menu-item-type- menu-item-object- menu-item-1000000090"><a href="http://imes.mit.edu/ada-ziolkowski/">Ada Ziolkowski</a></li>
+		<li id="menu-item-1000000091" class="menu-item menu-item-type- menu-item-object- menu-item-1000000091"><a href="http://imes.mit.edu/elizabeth-zotos/">Elizabeth Zotos</a></li>
+		<li id="menu-item-1000000092" class="menu-item menu-item-type- menu-item-object- menu-item-1000000092"><a href="http://imes.mit.edu/ellie-zucker/">Ellie Zucker</a></li>
+	</ul>
+</li>
+	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://imes.mit.edu/people/faculty-awards-honors/">Faculty Awards &amp; Honors</a></li>
+	<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://imes.mit.edu/people/directory/">Directory</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-98"><a href="http://imes.mit.edu/about/vision/">About<span class="opener"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-662"><a href="http://imes.mit.edu/about/vision/">Vision<span class="opener"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-8658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8658"><a href="http://imes.mit.edu/about/vision/imes-diversity-inclusion-statement/">IMES Diversity and Inclusion Statement</a></li>
+	</ul>
+</li>
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://imes.mit.edu/about/career-opportunities/">Career Opportunities</a></li>
+	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-102"><a href="http://imes.mit.edu/about/admin-resources/">Administrative Resources<span class="opener"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-840"><a href="http://imes.mit.edu/about/admin-resources/event-planning/">Event Planning</a></li>
+		<li id="menu-item-842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-842"><a href="http://imes.mit.edu/about/admin-resources/finance-and-research-administration/">Finance and Research Administration</a></li>
+	</ul>
+</li>
+	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-100"><a href="http://imes.mit.edu/about/contact/">Contact<span class="opener"></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="http://imes.mit.edu/about/contact/join-our-mailing-list/">Join Our Mailing List</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8058"><a href="https://giving.mit.edu/taxonomy/term/138#3881890">Give</a></li>
+</ul></div></div></aside>	</div>
+</div>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-60805294-1']);
+_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+		
+			<div class="clear"></div>
+			
+			<section id="footersidebar" class="footersidebar">
+				<div class="container">
+				
+
+				</div>
+			</section>
+			
+			<footer id="footer" class="footer">
+				<div class="container">
+                                        <nav class="phone-main-navbar navbar navbar-default navbar-inverse" role="navigation">
+                                            <div id="footerSocWrap">
+                                                <div id="social" class="social"><a class="social-profile" target="_blank" href="https://www.youtube.com/channel/UCWZT2ChXte_kz8F02vnHMtA" title="YouTube"><span class="social_icon social-icon icon-youtube"></span><span class="social_title social-title">YouTube</span></a><a class="social-profile" target="_blank" href="https://twitter.com/MIT_IMES" title="Twitter"><span class="social_icon social-icon icon-twitter"></span><span class="social_title social-title">Twitter</span></a><a class="social-profile" target="_blank" href="https://www.facebook.com/imesmit" title="Facebook"><span class="social_icon social-icon icon-facebook"></span><span class="social_title social-title">Facebook</span></a><a class="social-profile" target="_blank" href="https://www.flickr.com/photos/129455592@N05/albums" title="Flickr"><span class="social_icon social-icon icon-flickr"></span><span class="social_title social-title">Flickr</span></a></div>                                                <a class="navbar-brand" href="/">
+                                                    <img src="http://imes.mit.edu/wp-content/themes/intuition-child/images/mobile/logo2.png" alt="Institute for Medical Engineering &amp; Science">
+                                                </a>
+                                            </div>
+                                        </nav>
+                                    
+                                        <div id="footerSearch">
+                                            <form action="http://imes.mit.edu" method="get" class="search-form">
+                                                <input class="search-field" name="s" value="" maxlength="150" placeholder="SEARCH" type="search">
+                                                <input class="search-submit" value="Search" type="submit">
+                                            </form>
+                                        </div>
+                                    
+                                    <div id="foterBlackLinks">
+					<div class="footer-item">
+						<a href="mailto:imes@mit.edu">IMES@MIT.EDU</a>
+					</div><br class="footermenu-spacer"><div id="footermenu" class="footermenu">
+						<div class="menu-footermenu-container"><ul id="menu-footermenu" class="menu-footer"><li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a target="_blank" href="https://giving.mit.edu/taxonomy/term/138#3881890">Give</a></li>
+<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="http://imes.mit.edu/about/contact/">Contact</a></li>
+<li><a rel="nofollow" href="http://imes.mit.edu/wp-login.php">Login</a></li></ul></div>					</div>
+                                    </div>
+				</div>
+                            
+				<div id="footerGrayLinks" class="container small">
+					<div class="footer-item">
+						© copyright IMES 2017					</div><br class="footermenu-spacer"><div class="footer-item">
+						design by <a href="http://opusdesign.us/?ref=mit-imes" target="_blank">OPUS</a>
+					</div><div class="footer-item">
+						development by <a href="http://desyde.ua/" target="_blank">DESYDE</a>
+					</div>					
+				</div>
+                            
+                            <div id="foterLinks">
+                                <div class="footer-item">
+                                    © COPYRIGHT IMES 2017                                </div>
+                                <div class="footer-item">
+                                    <a href="mailto:imes@mit.edu">IMES@MIT.EDU</a>
+				</div><br class="footermenu-spacer">
+                                
+                                <div id="footermenu" class="footermenu">
+                                    <div class="menu-footermenu-container"><ul id="menu-footermenu-1" class="menu-footer"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a target="_blank" href="https://giving.mit.edu/taxonomy/term/138#3881890">Give</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="http://imes.mit.edu/about/contact/">Contact</a></li>
+<li><a rel="nofollow" href="http://imes.mit.edu/wp-login.php">Login</a></li></ul></div>				</div>
+                                
+                                <div id="designBy" class="footer-item">
+                                    DESIGN BY <a href="http://opusdesign.us/?ref=mit-imes" target="_blank">OPUS</a>
+				</div>
+                                <div id="devBy" class="footer-item">
+                                    DEVELOPMENT BY <a href="http://desyde.ua/" target="_blank">DESYDE</a>
+				</div>					
+                            </div>
+			</footer>
+			<div class="clear"></div>
+		</div><!-- wrapper -->
+		<a id="toplink" class="toplink skip-to" href="#top"><div class="icon-chevron-up"></div></a>
+	</div><!-- outer -->
+	<script type="text/javascript" src="http://imes.mit.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.11.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/imes.mit.edu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-includes/js/comment-reply.min.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-content/themes/intuition/bootstrap/js/bootstrap.min.js?ver=3.3.4"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-content/themes/intuition-child/scripts/responsive-tables.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-content/themes/intuition-child/scripts/collapsible-menu.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://imes.mit.edu/wp-includes/js/wp-embed.min.js?ver=4.7.3"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ab0374a39e","applicationID":"45262348","transactionName":"Z1QGZBZQVkNYU0YNWV4eJVMQWFdeFkNbClFcVElWBVJNXE1JbRREX1cNXAE=","queueTime":0,"applicationTime":2342,"atts":"SxMFEl5KRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>

@@ -1,0 +1,57 @@
+Skip to main content
+ABOUT
+PEOPLE
+CONTACT
+life sciences
+culture & society
+planet & environment
+particles to cosmos
+data & computation
+Salman Habib
+Senior Fellow
+Senior Physicist
+High Energy Physics Division
+Biography
+Salman Habib is a member of the High Energy Physics and Mathematics and Computer Science Divisions at Argonne National Laboratory, a Senior Member of the Kavli Institute for Cosmological Physics at the University of Chicago, and a Senior Fellow in the Computation Institute, a joint collaboration between Argonne National Laboratory and the University of Chicago.
+His research interests cover the broad sweep of classical and quantum dynamical systems, from field theories to particles, and from the largest scales to the smallest. Moving from larger to smaller scales, he has worked on problems in cosmology, astrophysics, accelerator physics, condensed matter physics, atomic and quantum optics, and particle physics. Some of his more general interests include quantum dynamics of open systems, nonlinear dynamics and nonequilibrium statistical mechanics, and stochastic ODEs and PDEs. Although most of his work has been theoretical, he continues to be involved in experimental and observational projects.
+For the last two decades, Habib has been very interested in the intelligent application of parallel supercomputers to attacking physics problems. This has led to algorithm and code development in a variety of fields and on a variety of platforms, beginning with the Connection Machines in the early 1990′s and leading on to the current BG/Q system, Mira, now installed at Argonne, and on heterogeneous systems such as Titan at Oak Ridge.
+More recently he has become involved in efforts — with cosmology as the primary arena — to apply advanced statistical methods to complex inference problems where the datasets are very large (with small statistical uncertainties) and the forward model predictions involve supercomputer calculations. Habib is a member of the Dark Energy Survey (DES), the Dark Energy Spectroscopic Instrument (DESI), and the Large Synoptic Survey Telescope (LSST) projects.
+Habib received his Ph.D. from the University of Maryland and did his undergraduate work at the Indian Institute of Technology, Delhi, India. He was a postdoc at the University of British Columbia, and later, a postdoc and staff member in the Theoretical Division at Los Alamos National Laboratory before moving to Argonne in 2011.
+News
+Co-Design Centers Help Make Exascale Computing a Reality
+JANUARY 31, 2017
+BLOG
+FULL STORY ≫
+Exascale Computing Project Funds Three CI/Argonne Projects
+SEPTEMBER 08, 2016
+BLOG
+FULL STORY ≫
+Inside The Discovery Cloud: Katrin Heitmann
+MARCH 21, 2014
+BLOG
+FULL STORY ≫
+The Future of Scientific Data and Computation at AAAS 2014
+FEBRUARY 06, 2014
+PRESS RELEASE
+FULL STORY ≫
+A Toolbox to Simulate the Big Bang and Beyond
+SEPTEMBER 24, 2013
+BLOG
+FULL STORY ≫
+Contact Me
+(630) 252-1110
+habib at anl.gov
+Argonne National Laboratory
+9700 South Cass Avenue
+Argonne, IL 60439
+RESEARCH AREAS
+Life Sciences
+Culture & Society
+Planet & Environment
+Particles to Cosmos
+Data & Computation
+ABOUT
+PEOPLE
+NEWS
+SUPPORT
+© Copyright 2014 Computation Institute & The University of Chicago

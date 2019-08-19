@@ -1,0 +1,80 @@
+Skip to main content
+Login
+Main menu
+Main Menu
+Search form
+Search
+Text Resize
+-A
+A
++A
+You are here
+Home
+Hadrien Montanelli
+PhD Appl. Math., MSc. Appl. Math., MSc. Aero. Eng.
+Postgraduate Student
+I have just finished my PhD in Numerical Analysis at the University of Oxford, under the supervision of Prof. Nick Trefethen and fully funded by the European Research Council. 
+My PhD involved numerical algorithms for differential equations with periodicity, and led to the publication of several research articles in leading journals and presentations at conferences and seminars in Beijing, Rio de Janeiro, Paris, Lausanne, Glasgow, Nottingham and Oxford.
+Next year, I will be working with Prof. Qiang Du at Columbia.
+Contact Form
+CV (37.30K)
++44 1865 615321
+Address
+Mathematical Institute
+University of Oxford
+Andrew Wiles Building
+Radcliffe Observatory Quarter
+Woodstock Road
+Oxford
+OX2 6GG
+Research Group: 
+Numerical Analysis
+Research Interests: 
+My general research interests lie in nonlinear differential equations, and in particular my work so far has concerned the numerical computation of periodic solutions.
+
+1. Trigonometric Approximation Theory and Algorithms. I am working on fast algorithms for numerical computation with periodic functions via approximations to machine precision by trigonometric polynomials, including the solution of linear and nonlinear periodic ODEs. These algorithms are at the heart of the recent extension of Chebfun to periodic problems [5].
+2. Stiff PDEs with periodicity.  I am interested in the computation of solutions of periodic stiff PDEs in 1D, 2D, 3D and on the sphere to high accuracy.
+For periodic problems in 1D/2D/3D, I have compared 30 exponential integrators, focusing on fourth and higher order methods and periodic problems, and showed that is it hard to beat one of the simplest of these formulas, the ETDRK4 scheme of Cox and Matthews [2].
+On the sphere, I have revisited the double Fourier sphere method, made minor corrections to previous work, and compared different time-stepping schemes from a theoretical and practical viewpoint, to find that implicit-explicit schemes outperform exponential integrators [1]. The manuscript also contains theoretical contributions, most notably the realness of the eigenvalues of the Laplacian matrix.
+3. Choreographies. I have investigated the computation of choreographies, periodic solutions (in time) of the n-body problem, in which the bodies share a common orbit. Recently, I found new choreographies on the Poincaré disk [3] and on the sphere [4] using stereographic projection, trigonometric interpolation, and quasi-Newton and Newton optimization methods. 
+I believe that the techniques I have used for finding these solutions can be applied not only to particle dynamics but also to other types of dynamics. A possible extension of this work would therefore be the study of choreographies of the n-vortex problem, which describes the motion of n vortices, complex potentials associated with the two-dimensional, irrotational and incompressible Euler equations.
+Presentations at conferences and seminars:
+17th Biennial Oxford/Cambridge Applied Maths Meeting (June 2015, Oxford, England)
+26th Biennial Numerical Analysis Conference (June 2015, Glasgow, Scotland)
+8th International Congress on Industrial and Applied Mathematics (August 2015, Beijing, China)
+New Directions in Numerical Computation (August 2015, Oxford, England)
+British Applied Mathematics Colloquium (April 2016, Oxford, England)
+Nottingham University Applied Mathematics Seminar (February 2016, Nottingham, England)
+ICOSAHOM (June 2016, Rio, Brazil)
+EPFL Numerical Analysis Seminar (February 2017, Lausanne, Switzerland)
+PDEs on the Sphere 2017 (April 2017, Paris, France)
+Oxford SIAM Student Chapter 2017 (May 2017, Oxford, England)
+Teaching: 
+I have taught in multiple contexts at Oxford and have followed the Developing Learning and Teaching programme delivered by the Oxford Learning Institute.
+
+Numerical Linear Algebra (TA, MT 2013)
+Numerical Solution of Diff. Equations II (TA, HT 2014)
+Approximation of Functions (TA, MT 2014)
+Scientific Computing I (TA, MT 2015)
+Numerical Solution of Diff. Equations I (Tutor, MT 2015)
+Solving ODEs and PDEs in MATLAB (Lecturer, MT 2015)
+Scientific Computing II (TA, HT 2016)
+Numerical Solution of Diff. Equations II (Tutor, HT 2016)
+Approximation of Functions (TA, MT 2016)
+Introduction to MALTAB (Lecturer, MT 2016)
+Continuous Mathematics (Tutor, HT 2017)
+Numerical Solution of Diff. Equations II (Tutor, TT 2017)
+Prizes, Awards, and Scholarships: 
+PhD fully funded by the European Research Council (2013-2017)
+Best talk at the 26th Biennial Numerical Analysis Conference (2015)
+Best talk at the 9th Oxford University SIAM Student Chapter Conference (2017)
+    Major / Recent Publications: 
+[6] H. Montanelli, Y. Nakatsukasa, Fourth-order time-stepping for stiff PDEs on the sphere, submitted. pdf
+[5] H. Montanelli, N. Bootland, Solving periodic semilinear stiff PDEs in 1D, 2D and 3D with exponential integrators, submitted. pdf
+[4] H. Montanelli, Computing hyperbolic choreographies, Regul. Chaotic Dyn.,  21 (2016). pdf
+[3] H. Montanelli, N. I. Gushterov, Computing planar and spherical choreographies, SIAM J. Appl. Dyn. Syst., 15 (2016). pdf
+[2] G. B. Wright, M. Javed, H. Montanelli, L. N. Trefethen, Extension of Chebfun to periodic functions, SIAM J. Sci. Comp., 37 (2015). pdf
+[1] H. Montanelli, M. Montagnac, F. Gallard, Gradient Span Analysis: Application to the multipoint aerodynamic shape optimization of a turbine cascade, ASME J. Turbomach., 137 (2015). pdf
+© Mathematical Institute
+Website Accessibility Statement & Cookies Statement
+ 

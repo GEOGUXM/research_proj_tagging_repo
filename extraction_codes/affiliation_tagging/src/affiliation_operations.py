@@ -7,6 +7,10 @@ class affiliation_operations:
     file_paths = []
     all_refs = []
 
+    # def __init__(self, folder_path):
+    #     self.folder_path = folder_path
+    #     self.reference_path = None
+
     def __init__(self, folder_path, reference_path):
         self.folder_path = folder_path
         self.reference_path = reference_path
@@ -20,9 +24,9 @@ class affiliation_operations:
                 self.file_paths.append((self.folder_path + "\\" + file_name, file_name))
         # load reference file: mappings
         # print(self.reference_path)
+        self.all_refs = []
         if self.reference_path != None:
             fp = open(self.reference_path, "r")
-            self.all_refs = []
             for item in fp.read().split("\n"):
                 if item != "":
                     self.all_refs.append(item.split("###")[0])
@@ -49,9 +53,12 @@ class affiliation_operations:
         author_title = ""
         affiliation = ""
         position = ""
+        src_file_path = ""
         line_cnt = 0
         for line in all_content_segs:
-            if line.startswith("###AuthorName"):
+            if line.startswith("###OriginPath"):
+                src_file_path = line.split("=")[1]
+            elif line.startswith("###AuthorName"):
                 author_name = line.split("=")[1]
             elif line.startswith("###AuthorTitle"):
                 author_title = line.split("=")[1]
@@ -74,9 +81,11 @@ class affiliation_operations:
                 if position.strip() != "" and position in line.strip():
                     position = position + "%" + str(line_cnt)
         # parsing path
-        src_file_path = self.getFilePath(file_name)
+        if src_file_path == "" and self.all_refs != []:
+            src_file_path = self.getFilePath(file_name)
+
         # change file to json
-        json_file_path = src_file_path.split(".")[0] + ".tag.json"
+        json_file_path = src_file_path.split(".txt")[0] + ".tag.json"
         # print(json_file_path)
 
         try:

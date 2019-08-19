@@ -1,0 +1,56 @@
+Skip navigation
+EXPLORE ANU »
+
+
+
+
+
+
+
+
+
+
+A-Z INDEX »
+ANU College of
+Engineering & Computer Science
+» Home
+» About
+» Research
+» Study
+» Engage
+» News & events
+» Alumni & giving
+» Current students
+» Contact
+» Staff
+menu
+search
+
+You are here
+Home » About » People » Mr Yichen Hu
+Mr Yichen Hu
+PHD STUDENT
+Research Area:
+Data Mining & Matching
+CSIT (108), N323
+yichen.hu@anu.edu.au
++61 2 6125 7060
+Bio
+Publications
+Service
+Yichen Hu is currently working on temporal record linkage. Record linkage has been a research topic since 60s, it is about resolving records from different databases (such as databases from hostipitals, insurance companies, surveys etc.) to the real person to which the records refer. Record linkage techniques can also be used for the same type of databases but with records collected at different point of time, such as census and civil registry databases.
+Temporal record linkage addresses the record linkage problem for databases with temporal information and uses the temporal information to improve the quality of record linkage. 
+I am supervised by Peter Christen, Qing Wang, and Dinusha Vatsalan.
+Updated:  8 September 2015
+Responsible Officer:  Dean, CECS
+Page Contact:  CECS Marketing
+Contact ANU
+Campus Map
+Copyright
+Disclaimer
+Privacy
+Freedom of Information
++61 2 6125 5111
+The Australian National University, Canberra
+CRICOS Provider : 00120C
+ABN : 52 234 063 906

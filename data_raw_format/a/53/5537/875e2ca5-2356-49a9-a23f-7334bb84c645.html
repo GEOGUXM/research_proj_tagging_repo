@@ -1,0 +1,1103 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="X-UA-Compatible" content="IE=10">
+    <meta name="Keywords" content="">
+    <meta name="Description" content="">
+    <title>Activity Database on Education and Research, Kyoto University</title>
+    <link rel="Start" href="/">
+    <link rel="stylesheet" href="../view/common/css/import.css" type="text/css" media="all, screen, tv">
+    <link rel="shortcut icon" href="http://www.kyoto-u.ac.jp/favicon.ico">
+    <script type="text/javascript" src="../view/js/jquery-latest.js"></script>
+    <script type="text/javascript" src="../view/js/jquery.tablesorter.js"></script>
+    <script type="text/javascript" src="../view/js/jquery.tablesorter.pager.js"></script>
+<script type="text/javascript">
+$(function() {
+function pageHint(sorter) {
+  $(sorter).each(function() {
+    var c = this.config;
+    var total = c.totalRows;
+    var from = c.page * c.size + 1;
+    var to = (c.page + 1) * c.size;
+    if (to > total)
+      to = total;
+    $(c.cssPageHint, c.container)
+      .text([from, '-', to, ' / ', total, 'result(s)'].join(' '));
+  });  
+}
+function tsorter(tgt, sorter_options) {
+  if( $('#t_'+tgt).find("tr").length < 3 ) return false;
+  var pager = $('#p_'+tgt);
+  var sorter = $('#t_'+tgt).tablesorter(sorter_options);
+  if (pager.length > 0) {
+    var sorterpager = 
+     sorter.tablesorterPager({
+        container: pager,
+        cssPageHint: '.pagehint',
+        positionFixed: false,
+        size: 10
+      }); 
+    $('.next, .prev, .first, .last', pager)
+      .click(function() {
+          pageHint(sorterpager);
+        });
+    $('.pagesize', pager)
+      .change(function() {
+          pageHint(sorterpager);
+        });
+    pageHint(sorterpager);
+  }
+}
+
+var options = {headers: { 3: { sorter: 'text' } } };
+var sorting = [[3,1]];
+$.each([
+  'ajournal', 'misc', 'kinvite', 'bno',
+  'paper-ajournal', 'paper-ainternational', 'paper-adomestic', 'paper-apother',
+  'misc-aconference', 'misc-ainternational', 'misc-adomestic', 'misc-acother',
+  'conference-kinvite', 'conference-kkeynote', 'conference-kpanel', 'conference-kother',
+  'biblio-bno', 'biblio-byes', 'biblio-bother'
+], function(index, name) {
+  tsorter(name, options);
+  $("#t_" + name).trigger("sorton",[sorting]);
+});
+
+options = {headers: { 4: { sorter: 'text' } } };
+sorting = [[4,1]];
+tsorter('patent',options);
+$("#t_patent").trigger("sorton",[sorting]);
+
+$.each([
+  'SubPosition', 'SubPosition2', 'SubPosition3', 'OwnEMailAddr', 'BelongSociety',
+  'BelongSocietyAbr', 'Degree', 'FinalGrad', 'FinalCollege', 'StudyCareer',
+  'UseLang', 'HomePage', 'ClassKeyWord', 'ResearchFieldCd', 'ArtSciencePrize', 'MassMedia',
+  'ResearchMeeting', 'ArticleNum', 'BookNum', 'TransNum', 'InternationalNum',
+  'DomesticNum', 'Kaken', 'Capital', 'JointResearch', 'OtherBudget', 'OtherResult',
+  'Lecture', 'DegreeJudge', 'DegreeJudgeOutside', 'StudentAward', 'InternalDocent',
+  'Docent', 'Adviser', 'UnivRole', 'DeptRole', 'AcademicOfficial', 'Editor',
+  'JournalJudge', 'MeetingCommittee', 'Chair', 'OtherAcademic', 'GeneralLecture',
+  'Enlightenment', 'SocialAward', 'PrimaryEducation', 'NewsPaper', 'Council',
+  'NPO', 'OtherActivity', 'InternationalOrg', 'OverseasStay', 'VoyageNumber',
+  'AttendanceNumber', 'Stayer', 'Visitor', 'ResultPatent',
+], function(index, name) {
+  tsorter(name, null)
+})
+}); //jQuery
+</script>
+  </head>
+  <body>
+    <div id="container"> 
+      <!-- wrapper開始 -->
+      <div id="wrapper"> 
+	<!-- ヘッダ開始 -->
+	<div id="header">
+	  <div id="top">
+            <div class="menuModule clearfix">
+              <ul class="head_navi">
+		<li><a href="../view/index.html" class="home_btn"><img src="../view/common/images/home_btn.gif" alt="HOME" width="42" height="38">HOME</a></li>
+		<li><a href="../view/about.html" class="about_btn"><img src="../view/common/images/about_btn.gif" alt="About Activity Database on Education and Research, Kyoto University" width="165" height="38">About Activity Database on Education and Research, Kyoto University</a></li>
+		<li><a href="../view/help.html" class="guide_btn"><img src="../view/common/images/guide_btn.gif" alt="How to Use" width="96" height="38">How to Use</a></li>
+              </ul>
+              <ul class="language_navi">
+                <li><a href="https://kyouindb.iimc.kyoto-u.ac.jp/fp/login/index/en" target="_blank" class="edit_btn_en">Edit View</a></li>
+		<li><a href="../j/pC5pB" class="ja_btn">日本語</a></li>
+		<li><a href="../e/pC5pB" class="en_btn_o">English</a></li>
+              </ul>
+            </div>
+	  </div>
+          <p><img src="../view/common/images/logo_en.gif" alt="Activity Database on Education and Research, Kyoto University" width="880" height="55"></p>
+	</div>
+	<!-- ヘッダ終了 --> 
+	<!-- パンくず開始 -->
+	<div id="topicPath" class="naviModuleH clearfix">
+	  <ul>
+            <li><a href="../view/index.html">HOME</a></li>
+	  </ul>
+	</div>
+	<!-- パンくず終了 --> 
+	<!-- コンテンツ開始 -->
+	<div id="contents"> 
+	  <!-- メイン開始 -->
+	  <div id="main" class="clearfix">
+            <div class="moduleBody">
+              <div class="contents_box">
+		<div class="user_title">
+<h1>福井 清一</h1><p>Last Update: 2015/03/18 17:54:24</p><p><a href="#" class="print">Print</a></p></div><div class="user_contents"><div class="photo_box">
+    <img src="../view/common/images/dummy_photo.gif">
+  </div><dl>
+    <dt>Name<span class="small">(Kanji/Kana/Abecedarium Latinum)</span>
+    </dt>
+    <dd>福井 清一/フクイ セイイチ/Seiichi Fukui</dd>
+    <dt>Primary department<span class="small">(Org1/Org2/Org3/Job title)</span>
+    </dt>
+    <dd>農学研究科/生物資源経済学専攻国際農林経済学講座/教授</dd>
+    <dt>Faculty</dt>
+    <dd>
+      <table id="t_SubPosition2" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th>Org1</th>
+            <th>Org2</th>
+            <th>Org3</th>
+            <th>Job title</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>農学部</td>
+            <td>
+            </td><td>
+            </td><td>
+          </td></tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>Secondary departments to which you belong</dt>
+    <dd>
+      <table id="t_SubPosition3" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th>Org1</th>
+            <th>Org2</th>
+            <th>Org3</th>
+            <th>Job title</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>東南アジア研究所</td>
+            <td>東南アジア研究所</td>
+            <td>
+            </td><td>
+          </td></tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>Contact address</dt>
+    <dd>
+      <table id="t_Addr" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th>Type</th>
+            <th>Address(Japanese)</th>
+            <th>Address(English)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Office</td>
+            <td>
+            </td><td>
+          </td></tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>Phone</dt>
+    <dd>
+      <table id="t_TelNo" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th>Type</th>
+            <th>Number</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Office</td>
+            <td>
+          </td></tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>Affiliated academic organization(s) (Japanese)</dt>
+    <dd>
+      <table id="t_BelongSociety" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Organization name(Japanese)</th>
+            <th class="header">Organization name(English)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>国際開発学会</td>
+            <td>The Japan Society of International Development</td>
+          </tr>
+          <tr>
+            <td>日本農業経済学会</td>
+            <td>The Agricultural Economics Society of Japan</td>
+          </tr>
+          <tr>
+            <td>日本経済学会</td>
+            <td>Japanese Economic Association </td>
+          </tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>Academic degree</dt>
+    <dd>
+      <table id="t_Degree" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Field(Japanese)</th>
+            <th class="header">Field(English)</th>
+            <th class="header">University(Japanese)</th>
+            <th class="header">University(English)</th>
+            <th class="header">Method</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>修士（農学）</td>
+            <td>
+            </td><td>京都大学</td>
+            <td>
+            </td><td>
+          </td></tr>
+          <tr>
+            <td>博士（農学）</td>
+            <td>
+            </td><td>京都大学</td>
+            <td>
+            </td><td>
+          </td></tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>Work Experience</dt>
+    <dd>
+      <table id="t_StudyCareer" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th>Period</th>
+            <th>Organization(Japanese)</th>
+            <th>Organization(English)</th>
+            <th>Job title(Japanese)</th>
+            <th>Job title(English)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>-</td>
+            <td>
+            </td><td>
+            </td><td>
+            </td><td>
+          </td></tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>Personal Profile</dt>
+    <dd>
+      <table>
+        <tbody><tr>
+          <th>(Japanese)</th>
+        </tr>
+        <tr>
+          <td>1971年兵庫県立神戸高等学校卒業、1972年京都大学農学部農林経済学科入学、1976年同学科卒業、1976年京都大学大学院農林経済学専攻修士課程入学、1978年同修士課程修了。1978年同博士課程進学後、1979年より筑波大学助手、東京大学助手、岡山大学助教授、九州大学助教授教授、神戸大学教授を経て、2008年より京都大学農学部教授、農学研究科教授、現在に至る。研究は、開発経済学の領域で農業・農村開発に関連したテーマ。</td>
+        </tr>
+        <tr>
+          <th>(English)</th>
+        </tr>
+        <tr>
+          <td>
+        </td></tr>
+      </tbody></table>
+    </dd>
+  </dl><dl>
+    <dt>Research Topics</dt>
+    <dd>
+      <table>
+        <tbody><tr>
+          <th>(Japanese)</th>
+        </tr>
+        <tr>
+          <td>１）アジア地域農村におけるハイブリッド型貧困削減戦略に関する実験経済学的・行動経済学的研究 ２）フィールド実験の手法を用いた貧困層向小口金融・小口保険制度の研究</td>
+        </tr>
+        <tr>
+          <th>(English)</th>
+        </tr>
+        <tr>
+          <td>1)A Study on Hybrid Poverty Reduction Strategies in Rural Asia: Application of Experimental Economics and Behavioral Economics 2)A Study on Micro-finance insitutions and micro-insurance institutions: An Application of Field Experiments</td>
+        </tr>
+      </tbody></table>
+    </dd>
+    <dt>Overview of your research</dt>
+    <dd>
+      <table>
+        <tbody><tr>
+          <th>(Japanese)</th>
+        </tr>
+        <tr>
+          <td>南アジア、東南アジア地域の貧困農村における社会的ネットワークや相互扶助的伝統的慣行が、リスクをプールすることにより、貧困を緩和するメカニズムを解明し、新たな貧困削減政策の立案に応用すべく、家計調査、フィールド実験による調査研究を行っている。南アジア、東南アジア地域の農村における農業新技術の採用を決定する要因を分析するために、家計調査、フィールド実験の手法を用いてデータを収集し、調査研究を行っている。その結果、信用制約、農民のリスクに対する態度、時間選好、社会的学習などの要素が重要であることが明らかとなった。</td>
+        </tr>
+        <tr>
+          <th>(English)</th>
+        </tr>
+        <tr>
+          <td>
+        </td></tr>
+      </tbody></table>
+    </dd>
+    <dt>Fields of research (key words)</dt>
+    <dd>
+      <table id="t_ClassKeyWord" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Key words(Japanese)</th>
+            <th class="header">Key words(English)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>開発経済学</td>
+            <td>Development Economics</td>
+          </tr>
+          <tr>
+            <td>開発のミクロ経済学</td>
+            <td>Development Micro-economics</td>
+          </tr>
+          <tr>
+            <td>農村発展論</td>
+            <td>Rural Development</td>
+          </tr>
+          <tr>
+            <td>インフォーマル農村制度</td>
+            <td>Informal Agrarian Institutions</td>
+          </tr>
+          <tr>
+            <td>フィールド実験</td>
+            <td>Field Experiments</td>
+          </tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>Fields of research (kaken code)</dt>
+    <dd>
+      <table id="t_ResearchFieldCd" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th>Kaken code</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Agronomy</td>
+          </tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>論文</dt>
+    <dd>
+      <table id="t_ajournal" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Authors</th>
+            <th class="header">Title</th>
+            <th class="header">Bibliography</th>
+            <th class="header headerSortUp">Date</th>
+            <th class="header">Peer-Review</th>
+            <th class="header">Language</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td>三輪加奈、福井　清一</td>
+            <td>カンボジアにおける小口健康保険と健康との相互関係―リスク選好と時間選好を考慮に入れて</td>
+            <td>国際開発研究,24,1</td>
+            <td>2015/05</td>
+            <td>Refereed</td>
+            <td>Japanese</td>
+          </tr><tr>
+            <td>福井　清一、中尾文哉</td>
+            <td>カンボジアにおける稲作の国際競争力と米湯質拡大の可能性</td>
+            <td>生物資源経済研究,19,1-12</td>
+            <td>2014/03</td>
+            <td>
+            </td><td>Japanese</td>
+          </tr><tr>
+            <td>福井　清一、ルチ・リカナン</td>
+            <td>出稼ぎが医療費と子供の栄養状態におよぼす影響についてーCSES2009を用いた計量分析ー</td>
+            <td>生物資源経済研究,18,131-157</td>
+            <td>2013/03</td>
+            <td>
+            </td><td>Japanese</td>
+          </tr><tr>
+            <td>FUKUI SEIICHI, MIWA KANA</td>
+            <td>Child labor and cattle in rural Cambodia: Empirical evidence of an inverse U-shaped relationship</td>
+            <td>Journal of Development and Agricultural Economics,5,2,35-48</td>
+            <td>2013/02</td>
+            <td>Refereed</td>
+            <td>English</td>
+          </tr><tr>
+            <td>福井　清一、三輪加奈</td>
+            <td>カンボジア農村における家計のリスク対応ー社会的ネットワークと仕送りの保健機能に着目して</td>
+            <td>農林業問題研究,48,1,1-12</td>
+            <td>2012/06</td>
+            <td>Refereed</td>
+            <td>Japanese</td>
+          </tr><tr>
+            <td>福井　清一、高篠仁奈、アグン・ヘリアント</td>
+            <td>「信頼」の指標とリスク選好・社会選好の関係について：ジャワ農村におけるフィールド調査より</td>
+            <td>生物資源経済研究,17,77-88</td>
+            <td>2012/03</td>
+            <td>
+            </td><td>Japanese</td>
+          </tr><tr>
+            <td>福井清一、高篠仁奈、ジャンクン・ハンドヨ・ムリョ</td>
+            <td>貧困層のリスクプーリングと社会的ネットワークおよびArisanの役割--中部ジャワ農村における事例</td>
+            <td>生物資源経済研究,16,75-93</td>
+            <td>2011</td>
+            <td>
+            </td><td>Japanese</td>
+          </tr><tr>
+            <td>M. Kana; H. Phoumin; F. Seiichi</td>
+            <td>Does child labour have a negative impact on child education and health? A case study in rural Cambodia</td>
+            <td>Oxford Development Studies,38,3,357-382</td>
+            <td>2010</td>
+            <td>Refereed</td>
+            <td>English</td>
+          </tr><tr>
+            <td>永井俊介、福井清一、高篠仁奈</td>
+            <td>ジャワ農村における小作契約形態の決定因について　―内生性バイアスを考慮に入れた実証分析</td>
+            <td>国際協力論集,17,1,101-115</td>
+            <td>2009/07</td>
+            <td>
+            </td><td>Japanese</td>
+          </tr><tr>
+            <td>永井俊介、福井清一</td>
+            <td>分益小作の生産効率と地主・小作関係―中部ジャワ農村の事例より―</td>
+            <td>2009年度農業経済研究別冊、507－514頁。</td>
+            <td>2009</td>
+            <td>Refereed</td>
+            <td>Japanese</td>
+          </tr></tbody>
+        <tfoot>
+          <tr id="p_ajournal">
+            <td colspan="6">
+              <p class="pagehint">1 - 10  /  20 result(s)</p><ul class="pager">
+                <li class="first">
+                  <a href="#">&lt;&lt;</a>
+                </li>
+                <li class="prev">
+                  <a href="#">&lt;</a>
+                </li>
+                <li class="next">
+                  <a href="#">&gt;</a>
+                </li>
+                <li class="last">
+                  <a href="#">&gt;&gt;</a>
+                </li>
+                <li>
+                  <form>
+                    <select class="pagesize">
+                      <option selected="selected" value="10">10 results per page</option>
+                      <option value="20">20 results per page</option>
+                      <option value="50">50 results per page</option>
+                      <option value="100000">all result</option>
+                    </select></form>
+                </li>
+              </ul>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+    </dd>
+    <dt>学会発表等</dt>
+    <dd>
+      <table id="t_misc" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Authors</th>
+            <th class="header">Title</th>
+            <th class="header">Bibliography</th>
+            <th class="header headerSortUp">Date</th>
+            <th class="header">Peer-Review</th>
+            <th class="header">Language</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td>Pomtavong Sombounmy and Fukui Seiichi</td>
+            <td>Risk, Time Preference, and Technology Adoption: The Case of the Boloven Plateau, Lao PDR</td>
+            <td>２０１０年度日本農業経済学会大会</td>
+            <td>2011/06/11</td>
+            <td>
+            </td><td>English</td>
+          </tr><tr>
+            <td>福井清一、高篠仁奈、アグン・ヘリヤント</td>
+            <td>「信頼」の指標とリスク選好、社会的選好の関係について：ジャワ農村におけるフィールド実験より</td>
+            <td>2010年度日本農業経済学会大会</td>
+            <td>2011/06/11</td>
+            <td>
+            </td><td>Japanese</td>
+          </tr><tr>
+            <td>高篠仁奈、福井清一</td>
+            <td>借入行動とカースト制度、リスク選好、時間割引率：　西ベンガル州における実験結果より</td>
+            <td>2010年度日本農業経済学会大会</td>
+            <td>2011</td>
+            <td>
+            </td><td>Japanese</td>
+          </tr><tr>
+            <td>高篠仁奈、福井清一</td>
+            <td>貧困のネットワーク形成とリスク選好：中部ジャワ農村におけるフィールド実験</td>
+            <td>2009年度日本農業経済学会大会</td>
+            <td>2010</td>
+            <td>
+            </td><td>Japanese</td>
+          </tr></tbody>
+        <tfoot>
+          <tr id="p_misc">
+            <td colspan="6">
+              <p class="pagehint">1 - 4  /  4 result(s)</p><ul class="pager">
+                <li class="first">
+                  <a href="#">&lt;&lt;</a>
+                </li>
+                <li class="prev">
+                  <a href="#">&lt;</a>
+                </li>
+                <li class="next">
+                  <a href="#">&gt;</a>
+                </li>
+                <li class="last">
+                  <a href="#">&gt;&gt;</a>
+                </li>
+                <li>
+                  <form>
+                    <select class="pagesize">
+                      <option value="10" selected="selected">10 results per page</option>
+                      <option value="20">20 results per page</option>
+                      <option value="50">50 results per page</option>
+                      <option value="100000">all result</option>
+                    </select>
+				  </form>
+                </li>
+              </ul>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+    </dd>
+    <dt>講演等</dt>
+    <dd>
+      <table id="t_kinvite" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Title</th>
+            <th class="header">Conference name</th>
+            <th class="header">Organization name</th>
+            <th class="header headerSortUp">Date</th>
+            <th class="header">Language</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td>Share Tenancy and Prospect Theory: Experiments in Rural Java</td>
+            <td>第20回国際開発学会</td>
+            <td>
+            </td><td>2009</td>
+            <td>English</td>
+          </tr></tbody>
+        <tfoot>
+          <tr id="p_kinvite">
+            <td colspan="5">
+              <p class="pagehint">1 - 1  /  1 result(s)</p><ul class="pager">
+                <li class="first">
+                  <a href="#">&lt;&lt;</a>
+                </li>
+                <li class="prev">
+                  <a href="#">&lt;</a>
+                </li>
+                <li class="next">
+                  <a href="#">&gt;</a>
+                </li>
+                <li class="last">
+                  <a href="#">&gt;&gt;</a>
+                </li>
+                <li>
+                  <form>
+                    <select class="pagesize">
+                      <option value="10" selected="selected">10 results per page</option>
+                      <option value="20">20 results per page</option>
+                      <option value="50">50 results per page</option>
+                      <option value="100000">all result</option>
+                    </select>
+				  </form>
+                </li>
+              </ul>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+    </dd>
+    <dt>著書等</dt>
+    <dd>
+      <table id="t_bno" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Authors</th>
+            <th class="header">Title</th>
+            <th class="header">Publisher</th>
+            <th class="header headerSortUp">Date</th>
+            <th class="header">Language</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td>高篠仁奈、ケシャブ・マハラジャン、福井　清一</td>
+            <td>カースト、リスク選好、時間選好が借入行動におよぼす影響についてーインド・西ベンガル州の事例研究</td>
+            <td>スプリンガー</td>
+            <td>2014</td>
+            <td>Japanese</td>
+          </tr><tr>
+            <td>Fukui S.</td>
+            <td>Efficiency of Share Tenancy and Cost-sharing Rules</td>
+            <td>Iwamoto N. and Hartono(eds.), Economic Structure and Social Institutions in Rural Java: A Case Study in Yogyakarta, Gadjah Mada University Press, II-4.</td>
+            <td>2009</td>
+            <td>English</td>
+          </tr><tr>
+            <td>Fukui S.</td>
+            <td>Land Tenancy Market and Determinants of Contract Form</td>
+            <td>Iwamoto N. and Hartono(eds.), Economic Structure and Social Institutions in Rural Java: A Case Study in Yogyakarta, Gadjah Mada University Press, I-1-2.</td>
+            <td>2009</td>
+            <td>English</td>
+          </tr><tr>
+            <td>Fukui S.</td>
+            <td>Agriculture and Household Economy</td>
+            <td>Iwamoto N. and Hartono(eds.), Economic Structure and Social Institutions in Rural Java: A Case Study in Yogyakarta, Gadjah Mada University Press, I-1-5.</td>
+            <td>2009</td>
+            <td>English</td>
+          </tr></tbody>
+        <tfoot>
+          <tr id="p_bno">
+            <td colspan="5">
+              <p class="pagehint">1 - 4  /  4 result(s)</p><ul class="pager">
+                <li class="first">
+                  <a href="#">&lt;&lt;</a>
+                </li>
+                <li class="prev">
+                  <a href="#">&lt;</a>
+                </li>
+                <li class="next">
+                  <a href="#">&gt;</a>
+                </li>
+                <li class="last">
+                  <a href="#">&gt;&gt;</a>
+                </li>
+                <li>
+                  <form>
+                    <select class="pagesize">
+                      <option value="10" selected="selected">10 results per page</option>
+                      <option value="20">20 results per page</option>
+                      <option value="50">50 results per page</option>
+                      <option value="100000">all result</option>
+                    </select>
+				  </form>
+                </li>
+              </ul>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+    </dd>
+    <dt>Awards</dt>
+    <dd>
+      <table id="t_ArtSciencePrize" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Title(Japanese)</th>
+            <th class="header">Title(English)</th>
+            <th class="header">Organization name(Japanese)</th>
+            <th class="header">Organization name(English)</th>
+            <th class="header">Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>学会賞</td>
+            <td>
+            </td><td>日本農業経済学会</td>
+            <td>
+            </td><td>
+          </td></tr>
+          <tr>
+            <td>学会賞</td>
+            <td>
+            </td><td>日本農業経済学会</td>
+            <td>
+            </td><td>1988/03/28</td>
+          </tr>
+          <tr>
+            <td>学会誌賞</td>
+            <td>
+            </td><td>
+            </td><td>The Agricultural Economics Society of Japan</td>
+            <td>2003/03/28</td>
+          </tr>
+          <tr>
+            <td>学会誌賞</td>
+            <td>
+            </td><td>地域農林経済学会</td>
+            <td>
+            </td><td>2007/10/25</td>
+          </tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>特許</dt>
+    <dd>
+      <table id="t_patent" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th>権利者名</th>
+            <th>Patent number</th>
+            <th>Title</th>
+            <th>Stage</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody><tfoot>
+          <tr id="p_patent">
+            <td colspan="5">
+              <p class="pagehint">
+              </p><ul class="pager">
+                <li class="first">
+                  <a href="#">&lt;&lt;</a>
+                </li>
+                <li class="prev">
+                  <a href="#">&lt;</a>
+                </li>
+                <li class="next">
+                  <a href="#">&gt;</a>
+                </li>
+                <li class="last">
+                  <a href="#">&gt;&gt;</a>
+                </li>
+                <li>
+                  <form>
+                    <select class="pagesize">
+                      <option value="10" selected="selected">10 results per page</option>
+                      <option value="20">20 results per page</option>
+                      <option value="50">50 results per page</option>
+                      <option value="100000">all result</option>
+                    </select>
+				  </form>
+                </li>
+              </ul>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+    </dd>
+    <dt>External funds, competitive funds and Grants-in-Aid for Scientific Research(kaken)</dt>
+    <dd>
+      <table id="t_Kaken" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Type</th>
+            <th class="header">Position</th>
+            <th class="header">Title(Japanese)</th>
+            <th class="header">Title(English)</th>
+            <th class="header">Period</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>基盤研究（Ａ）</td>
+            <td>
+            </td><td>アジア地域農村におけるハイブリッド型貧困削減戦略に関する行動経済学的研究</td>
+            <td>
+            </td><td>2009-2011</td>
+          </tr>
+          <tr>
+            <td>挑戦的萌芽研究</td>
+            <td>Representative</td>
+            <td>カンボジアにおける貧困層向け小口健康保険制度の実証分析</td>
+            <td>
+            </td><td>2011-2013</td>
+          </tr>
+          <tr>
+            <td>萌芽的競争研究</td>
+            <td>Representative</td>
+            <td>カンボジアにおける小口健康保険制度の研究―フィールド実験の手法を用いて</td>
+            <td>
+            </td><td>2011/04/01-2014/03/31</td>
+          </tr>
+          <tr>
+            <td>基盤研究（Ｂ）</td>
+            <td>Representative</td>
+            <td>小口健康保険制度の導入と社会的ジレンマに関する研究―フィールド実験の手法を用いて</td>
+            <td>
+            </td><td>2013-2015</td>
+          </tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>Non-external, competitive funds or grants other than grants-in-aid for Scientific research (kaken)</dt>
+    <dd>
+      <table id="t_Capital" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th>System</th>
+            <th>Main person</th>
+            <th>Title(Japanese)</th>
+            <th>Title(English)</th>
+            <th>Period</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>平和中島財団アジア地域重点学術研究助成</td>
+            <td>福井清一</td>
+            <td>インドネシア・カンボジアにおけるインフォーマル保険制度に関する比較制度論的研究</td>
+            <td>
+            </td><td>2009/04/01-2010/03/31</td>
+          </tr>
+        </tbody>
+      </table>
+    </dd>
+  </dl><dl>
+    <dt>Teaching subject(s)</dt>
+    <dd>
+      <table id="t_Lecture" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Name(Japanese)</th>
+            <th class="header">Name(English)</th>
+            <th class="header">Term</th>
+            <th class="header">Department</th>
+            <th class="header">Period</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td>国際農村発展論</td>
+            <td>
+            </td><td>前期</td>
+            <td>地球環境学舎</td>
+            <td>2011/04-2012/03</td>
+          </tr><tr>
+            <td>食料・環境経済学概論II</td>
+            <td>
+            </td><td>前期</td>
+            <td>農学部</td>
+            <td>2011/04-2012/03</td>
+          </tr><tr>
+            <td>国際農村発展論</td>
+            <td>
+            </td><td>前期</td>
+            <td>農学部</td>
+            <td>2011/04-2012/03</td>
+          </tr><tr>
+            <td>国際農村発展論演習I</td>
+            <td>
+            </td><td>後期</td>
+            <td>農学部</td>
+            <td>2011/04-2012/03</td>
+          </tr><tr>
+            <td>国際農村発展論演習II</td>
+            <td>
+            </td><td>前期</td>
+            <td>農学部</td>
+            <td>2011/04-2012/03</td>
+          </tr><tr>
+            <td>国際農村発展論演習III</td>
+            <td>
+            </td><td>後期</td>
+            <td>農学部</td>
+            <td>2011/04-2012/03</td>
+          </tr><tr>
+            <td>国際農村発展論専攻演習Ⅰ</td>
+            <td>
+            </td><td>
+            </td><td>農学研究科</td>
+            <td>2011/04-2012/03</td>
+          </tr><tr>
+            <td>国際農村発展論Ⅰ</td>
+            <td>
+            </td><td>
+            </td><td>農学研究科</td>
+            <td>2011/04-2012/03</td>
+          </tr><tr>
+            <td>世界の食料・農業・環境</td>
+            <td>Food, Agriculture and Environment in the World; for the Sustainable World</td>
+            <td>後期</td>
+            <td>全学共通科目</td>
+            <td>2012/04-2013/03</td>
+          </tr><tr>
+            <td>国際農村発展論</td>
+            <td>International Rural Development</td>
+            <td>前期</td>
+            <td>地球環境学舎</td>
+            <td>2012/04-2013/03</td>
+          </tr></tbody>
+        <tfoot>
+          <tr id="p_Lecture">
+            <td colspan="6">
+              <p class="pagehint">1 - 10  /  47 result(s)</p><ul class="pager">
+                <li class="first">
+                  <a href="#">&lt;&lt;</a>
+                </li>
+                <li class="prev">
+                  <a href="#">&lt;</a>
+                </li>
+                <li class="next">
+                  <a href="#">&gt;</a>
+                </li>
+                <li class="last">
+                  <a href="#">&gt;&gt;</a>
+                </li>
+                <li>
+                  <form>
+                    <select class="pagesize">
+                      <option selected="selected" value="10">10 results per page</option>
+                      <option value="20">20 results per page</option>
+                      <option value="50">50 results per page</option>
+                      <option value="100000">all result</option>
+                    </select>
+                  </form>
+                </li>
+              </ul>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+    </dd>
+    <dt>Participation to Ph.D Defense</dt>
+    <dd>
+      <table id="t_DegreeJudge" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Acquirer</th>
+            <th class="header">Title</th>
+            <th class="header">Position</th>
+            <th class="header">Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>草処　基</td>
+            <td>不確実性下の生産技術とリスク回避的農家の最適生産行動－トルコ共和国アダナ県の小麦生産を事例として－</td>
+            <td>Chief</td>
+            <td>2011/01/24</td>
+          </tr>
+          <tr>
+            <td>藤野　正也</td>
+            <td>我が国林業に適合した計量分析手法に関する実証研究</td>
+            <td>Sub</td>
+            <td>2011/01/24</td>
+          </tr>
+          <tr>
+            <td>王　新艶</td>
+            <td>農業面源汚染の規定要因とその抑制政策に関する研究－中国太湖流域を事例として－</td>
+            <td>Sub</td>
+            <td>2011/11/24</td>
+          </tr>
+          <tr>
+            <td>Sombounmy Phomtavong</td>
+            <td>An Economic Analysis on the Effectiveness of Rural Development Policies in Lao PDR: Toward Rural Poverty Alleviation（ラオスにおける農村開発政策の効率性に関する経済分析―貧困削減に向けて）</td>
+            <td>Chief</td>
+            <td>2012/03/26</td>
+          </tr>
+          <tr>
+            <td>山口　道利</td>
+            <td>家畜疾病のコントロール・デザインにおける補償制度の研究―公的補償と民間レベルの損失軽減メカニズムの検討―</td>
+            <td>Sub</td>
+            <td>2012/03/26</td>
+          </tr>
+          <tr>
+            <td>Ｌｕｃｈ　Ｌｉｋａｎａｎ</td>
+            <td>The Economic Impacts of Migration and Remittances on Sources of Income, Variations in Income, and Children’s Education: Case Studies of Rural Cambodia(出稼ぎと仕送りが源泉所得、所得変動、および子供の教育に及ぼす経済的影響について—カンボジア農村を事例に—)</td>
+            <td>Chief</td>
+            <td>2012/09/24</td>
+          </tr>
+          <tr>
+            <td>丸　健</td>
+            <td>EU加盟がトルコ共和国アダナ県の農業・農家経済に及ぼす影響に関する経済学的研究―女性労働慣習制約を考慮に入れて―</td>
+            <td>Chief</td>
+            <td>2014/01/23</td>
+          </tr>
+          <tr>
+            <td>久保　雄広</td>
+            <td>Essays on wildlife management in protected areas using econometric approaches （計量経済学アプローチを用いた保護区における野生動物管理に関する研究）</td>
+            <td>Sub</td>
+            <td>2015/03/23</td>
+          </tr>
+          <tr>
+            <td>ERNOIZ ANTRIYANDARTI</td>
+            <td>An Economic Study of the Indonesian Rice Sector: Toward Harmonization of Structural Adjustment and Food Security(インドネシア稲作部門における国際競争力―構造調整と食料安全保障の調和に向けて)</td>
+            <td>Chief</td>
+            <td>2016/09/23</td>
+          </tr>
+        </tbody>
+      </table>
+    </dd>
+    <dt>Awards won by your students</dt>
+    <dd>
+      <table id="t_StudentAward" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th>Student name</th>
+            <th>Award title</th>
+            <th>Giver</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Phomtavong Sombounmy</td>
+            <td>学会誌賞</td>
+            <td>地域農林経済学会</td>
+            <td>2011/10/22</td>
+          </tr>
+        </tbody>
+      </table>
+    </dd>
+  </dl><dl><dl>
+    <dt>Other activities (public organizations)</dt>
+    <dd>
+      <table id="t_Council" width="0" cellspacing="0" cellpadding="0" border="0">
+        <thead>
+          <tr>
+            <th class="header">Committee(Japanese)</th>
+            <th class="header">Committee(English)</th>
+            <th class="header">Title</th>
+            <th class="header">Organization name</th>
+            <th class="header">Period</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>文部科学省大学設置審小委員会委員</td>
+            <td>
+            </td><td>
+            </td><td>
+            </td><td>2008/04-2011/03</td>
+          </tr>
+          <tr>
+            <td>日本学術振興会科学研究費補助金審査委員</td>
+            <td>
+            </td><td>
+            </td><td>
+            </td><td>2009/04-2011/03</td>
+          </tr>
+        </tbody>
+      </table>
+    </dd>
+  </dl><dl>		</dl></dl></div>
+	      </div>
+            </div>
+	  </div>
+	  <!-- メイン終了 --> 
+	</div>
+	<!-- コンテンツ終了 --> 
+	<!-- フッタ開始 -->
+	<div id="footer" class="clearboth"><a href="http://www.kyoto-u.ac.jp/" target="_blank"><img src="../view/common/images/footer_btn.gif" alt="Kyoto University" width="17" height="60"></a>Copyright © Kyoto University. All Rights Reserved.</div>
+	<div class="page_back">
+	  <p><a href="#" onclick="history.back(); return false;" class="back_page_e">Back to Previous Page</a></p>
+	  <p><a href="#wrapper" class="totop_e">Return to Page Top</a></p>
+	</div>
+      </div>
+      <!-- フッタ終了 -->
+      <!-- wrapper終了 --> 
+    </div>
+  
+
+</body></html>

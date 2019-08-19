@@ -1,0 +1,1742 @@
+<html class=" js js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style="transform: none;"><!--<![endif]--><head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="http://aap.cornell.edu/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" src="https://bam.nr-data.net/1/70db2ece8c?a=7066026&amp;v=1026.7a27a3e&amp;to=Nl1TMhcAWRFRW0BeCw8XcAURCFgMH2dGUhIIS1gJCwhZBW9OXVIT&amp;rst=3647&amp;ref=http://aap.cornell.edu/people/jennifer-minner&amp;ap=1848&amp;be=684&amp;fe=3559&amp;dc=1851&amp;perf=%7B%22timing%22:%7B%22of%22:1498092933565,%22n%22:0,%22f%22:15,%22dn%22:15,%22dne%22:15,%22c%22:15,%22ce%22:15,%22rq%22:15,%22rp%22:15,%22rpe%22:15,%22dl%22:669,%22di%22:1829,%22ds%22:1850,%22de%22:1968,%22dc%22:3558,%22l%22:3558,%22le%22:3636%7D,%22navigation%22:%7B%7D%7D&amp;at=GhpQRF8aSh8%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" async="" src="//siteimproveanalytics.com/js/siteanalyze_90781461.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="description" content="Faculty profile for Jennifer Minner, a member of the Department of City and Regional Planning in Cornell University's College of Architecture, Art, and Planning.">
+<meta name="abstract" content="Faculty profile for Jennifer Minner, a member of the Department of City and Regional Planning in Cornell University's College of Architecture, Art, and Planning.">
+<meta name="keywords" content="Jennifer Minner, CRP, Cornell">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="http://aap.cornell.edu/people/jennifer-minner">
+<link rel="shortlink" href="http://aap.cornell.edu/node/1382">
+  <title>Jennifer Minner | Cornell AAP</title>
+  <link type="text/css" rel="stylesheet" href="http://aap.cornell.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://aap.cornell.edu/sites/default/files/css/css_gK0celaAtc1FuXgSuzvIdnXmIrgxIDzZl1RtZ3sLREc.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://aap.cornell.edu/sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all">
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://aap.cornell.edu/sites/default/files/css/css_JvO7zRaEVlA3ED28TcgS5YHzb5VyrUi5U7_JJf0XCwc.css" media="all">
+  <script type="text/javascript" src="http://aap.cornell.edu/sites/default/files/js/js_2hoh0v0y6B2TInaEIHI3XwA7E31uiNqpq69BJ97pODY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.migrateMute=true;jQuery.migrateTrace=false;
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://aap.cornell.edu/sites/default/files/js/js_rcgklWToqxaTawJv7LdI95GC8NLf5ExTL7fLrYOttMU.js"></script>
+<script type="text/javascript" src="http://aap.cornell.edu/sites/default/files/js/js_aEhbQVi8z_tqXDytzxxrdGkG0XLRUEaKC1LGS8NlKUc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-6518342-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="//embanner.univcomm.cornell.edu/OWC-emergency-banner.js"></script>
+<script type="text/javascript" src="http://aap.cornell.edu/sites/default/files/js/js_mHvNkJk1xeRGYzDqp5-q7pjxPm8LobFpOwOm0ckFxh8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"aap5","theme_token":"Sxh0ZUmjDOW0MtMFIgZzAbcXv0McAiSRRM8rKMO5LXY","js":{"sites\/all\/themes\/aap5\/js\/vendor\/TweenMax.min.js":1,"sites\/all\/themes\/aap5\/js\/vendor\/handlebars.min-latest.js":1,"sites\/all\/themes\/aap5\/js\/vendor\/purl.js":1,"sites\/all\/themes\/aap5\/js\/plugins.js":1,"sites\/all\/themes\/aap5\/pano\/skin.js":1,"sites\/all\/themes\/aap5\/pano\/pano2vr_player.js":1,"sites\/all\/themes\/aap5\/js\/scripts.js":1,"sites\/all\/themes\/aap5\/js\/scripts-override.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.11\/jquery.min.js":1,"1":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"\/\/embanner.univcomm.cornell.edu\/OWC-emergency-banner.js":1,"sites\/all\/themes\/aap5\/js\/top.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/siteimprove\/css\/siteimprove.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/aap5\/style.css":1,"sites\/all\/themes\/aap5\/style-override.css":1,"sites\/all\/themes\/aap5\/microsite.css":1}},"urlIsAjaxTrusted":{"\/search\/node":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+<style>.theiaStickySidebar:after {content: ""; display: table; clear: both;}</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1382 node-type-person i18n-en wallpaper-inititalized" style="transform: none;">
+    
+
+<div id="panel" class=" slideout-panel" style="transform: none;">
+
+  
+<div id="search-box">
+    <div class="row">
+        <div class="small-16 medium-push-9 medium-7 medium-large-push-11 medium-large-5 large-push-12 large-4 columns end">
+            <div class="search-form-container">
+              <form class="auto-submit" action="/search/node" method="post" id="aap-general-search-form" accept-charset="UTF-8"><div><div class="searchbox-container"><label class="search-label">Search</label><div class="form-item form-type-textfield form-item-keyword" role="application">
+  <label for="edit-keyword">Keyword </label>
+ <input class="search-textbox form-text form-autocomplete" placeholder="Enter search terms" id="edit-keyword" name="keyword" value="" size="60" maxlength="128" autocomplete="OFF" aria-autocomplete="list" type="text"><input id="edit-keyword-autocomplete" value="http://aap.cornell.edu/index.php?q=ajax/search/suggestions" disabled="disabled" class="autocomplete autocomplete-processed" type="hidden">
+<span class="element-invisible" aria-live="assertive" id="edit-keyword-autocomplete-aria-live"></span></div>
+<input class="search-button form-submit" id="edit-submit" name="op" value="Search" type="submit"></div><div class="searchbox-options"><div id="edit-option" class="form-radios"><div class="form-item form-type-radio form-item-option">
+ <input id="edit-option-aap" name="option" value="aap" checked="checked" class="form-radio" type="radio">  <label class="option" for="edit-option-aap">Search AAP </label>
+
+</div>
+<div class="form-item form-type-radio form-item-option">
+ <input id="edit-option-cornell" name="option" value="cornell" class="form-radio" type="radio">  <label class="option" for="edit-option-cornell"> Cornell University </label>
+
+</div>
+</div></div><input name="form_build_id" value="form-5oQHo4IiEDMr5pH2EooFap-FeZCXG6K0_3-1iSSuTo4" type="hidden">
+<input name="form_id" value="aap_general_search_form" type="hidden">
+</div></form>                
+            </div>
+        </div>
+    </div>
+</div><header id="site-header">
+    <div class="cornell-header">
+        <div class="row">
+            <div class="small-8 columns">
+                <a class="cornell-logo" href="http://www.cornell.edu">
+                    <img src="/sites/all/themes/aap5/img/cornell-logo.png">
+                </a>
+            </div>
+
+            <div class="small-8 columns">
+                <nav>
+                    <ul>
+                        <li class="show-search-bar"><a href="#"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+                        <li class="show-mobile-nav"><a href="#"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="red-rule"></div>
+
+    <div class="aap-logo-container">
+        <div class="row">
+            <div class="small-16 columns">
+                <a class="logo-aap" href="/"><img src="/sites/all/themes/aap5/img/aap-hl_01.png"></a>
+                <a class="logo-arch" href="/academics/architecture"><img src="/sites/all/themes/aap5/img/aap-hl_02.png"></a>
+                <a class="logo-art" href="/academics/art"><img src="/sites/all/themes/aap5/img/aap-hl_03.png"></a>
+                <a class="logo-planning" href="/academics/crp"><img src="/sites/all/themes/aap5/img/aap-hl_04.png"></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="nav-container">
+        <div class="row">
+            <div class="small-12 medium-large-12 columns">
+                <nav class="main-nav">
+                    <ul>
+                            				<li class="desktop-link">
+        				  <a class="" data-menu="menu-about" href="#">About</a>
+        				</li>				
+        				        				<li class="desktop-link">
+        				  <a class=" current" data-menu="menu-academics" href="#">Academics</a>
+        				</li>				
+        				        				<li class="desktop-link">
+        				  <a class="" data-menu="menu-admissions" href="#">Admissions</a>
+        				</li>				
+        				        				<li class="desktop-link">
+        				  <a class="" data-menu="menu-events" href="#">News &amp; Events</a>
+        				</li>				
+        				        				<li class="desktop-link">
+        				  <a class="" data-menu="menu-resources" href="#">Resources</a>
+        				</li>				
+        				                    </ul>
+                </nav>
+            </div>
+
+            <div class="small-4 medium-large-4 columns">
+                <nav class="audience-nav">
+                    <ul>
+                        <li class="desktop-link">
+                            <a href="#" data-menu="menu-audience" class="">Information for …</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <div class="megamenus">
+		        	
+            <div class="megamenu" id="menu-about">
+                <div class="row">
+                    <div class="small-16 columns">
+                        <div class="menu-container">
+                            <div class="col col-left" style="height: 433px;">
+                              <ul>
+	<li class="has-sub-menu"><a href="/about/alumni">Alumni</a>
+
+		<ul>
+			<li><a href="/about/alumni/council">AAP Advisory Council</a></li>
+			<li><a href="/about/alumni/profiles">Alumni Profiles </a></li>
+			<li><a href="/about/alumni/giving">Support AAP </a></li>
+		</ul>
+	</li>
+</ul>
+
+<p><a class="cta" href="https://securelb.imodules.com/s/1717/alumni/index.aspx?sid=1717&amp;gid=2&amp;pgid=403&amp;cid=1031&amp;dids=9">Give Now</a></p>
+
+<ul>
+	<li class="has-sub-menu"><a href="/about/campuses-facilities">Campus and Facilities</a>
+
+		<ul>
+			<li><a href="/about/campuses-facilities/ithaca">Ithaca Campus</a></li>
+			<li><a href="/about/campuses-facilities/ithaca/milstein-hall">Milstein Hall</a></li>
+			<li><a href="/about/campuses-facilities/ithaca/mui-ho-fine-arts-library">Mui Ho Fine Arts Library</a></li>
+		</ul>
+	</li>
+</ul>
+
+<p><a class="cta" href="/about/campuses-facilities/Ithaca/visit">Visit Ithaca</a></p>
+                            </div>
+
+                            <div class="col col-center" style="height: 433px;">
+                              <ul>
+	<li><a href="/about/college-facts">College Facts</a></li>
+	<li><a href="/about/history">College History</a></li>
+	<li><a href="/about/mission">College Mission</a></li>
+	<li><a href="/about/contact">Contact</a></li>
+	<li><a href="/about/social-media">Cornell AAP on Social Media</a></li>
+	<li><a href="/about/dean">Office of the Dean</a></li>
+	<li><a href="/about/staff-directory">Staff Directory</a></li>
+</ul>
+                            </div>
+
+                            <div class="col col-right grey-box add-left-border" style="height: 433px;">
+                              <p><a href="http://aap.cornell.edu/about/campuses-facilities"><img alt="student sketching on a bench outside a brick building in the summer" src="/sites/default/files/2011_064_art_001_550x310.jpg"></a></p>
+
+<p class="fig caption"><a href="/about/campuses-facilities">Explore AAP's campuses and facilities in Ithaca, Rome, and New York City.</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    	
+            <div class="megamenu" id="menu-academics">
+                <div class="row">
+                    <div class="small-16 columns">
+                        <div class="menu-container">
+                            <div class="col col-left" style="height: 482px;">
+                              <ul>
+	<li class="has-sub-menu"><a href="/academics/architecture">Department of Architecture</a>
+
+		<ul>
+			<li><a href="/academics/architecture/graduate">Graduate Programs</a></li>
+			<li><a href="/academics/architecture/undergraduate">Undergraduate Program</a></li>
+		</ul>
+	</li>
+	<li class="has-sub-menu"><a href="/academics/art">Department of Art</a>
+		<ul>
+			<li><a href="/academics/art/graduate">M.F.A. Program Overview</a></li>
+			<li><a href="/academics/art/undergraduate">Undergraduate Program</a></li>
+		</ul>
+	</li>
+	<li class="has-sub-menu"><a href="/academics/crp">Department of City and Regional Planning</a>
+		<ul>
+			<li><a href="/academics/crp/graduate">Graduate Programs</a></li>
+			<li><a href="/academics/crp/undergraduate">Undergraduate Program</a></li>
+		</ul>
+	</li>
+</ul>
+                            </div>
+
+                            <div class="col col-center" style="height: 482px;">
+                              <ul>
+	<li><a href="/academics/nyc">AAP NYC</a></li>
+	<li><a href="/academics/rome">Cornell in Rome</a></li>
+	<li><a href="/academics/executive-education">Executive Education</a></li>
+	<li><a href="/academics/faculty">Faculty Directory</a></li>
+	<li><a href="/academics/faculty-employment-opportunities">Faculty Employment Opportunities</a></li>
+	<li><a href="/academics/student-work">Student Work</a></li>
+</ul>
+
+<p><a class="cta" href="/forms/program-information-request-form">Request Program Info</a></p>
+                            </div>
+
+                            <div class="col col-right grey-box add-left-border" style="height: 482px;">
+                              <p><a href="http://aap.cornell.edu/academics/architecture/undergraduate"><img alt="student presenting materials on a wall to a crowd" src="/sites/default/files/2017_061_arc_032_550x310.jpg"></a></p>
+
+<p class="fig caption"><a href="/academics/architecture/undergraduate">Helena Rong (B.Arch. '17) presents her thesis during the spring semester final reviews. Learn more about the Bachelor of Architecture program.</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    	
+            <div class="megamenu" id="menu-admissions">
+                <div class="row">
+                    <div class="small-16 columns">
+                        <div class="menu-container">
+                            <div class="col col-left" style="height: 464px;">
+                              <ul>
+	<li class="has-sub-menu"><a href="/graduate-admissions">Graduate Admissions</a>
+
+		<ul>
+			<li><a href="/admissions/graduate/architecture">Architecture</a></li>
+			<li><a href="/admissions/graduate/art">Art</a></li>
+			<li><a href="/admissions/graduate/city-and-regional-planning">City and Regional Planning</a></li>
+		</ul>
+
+		<ul class="no-heading">
+			<li><a class="cornell-link" href="http://www.gradschool.cornell.edu/costs-and-funding" target="_blank">Financial Aid</a></li>
+			<li><a href="/admissions/graduate/funding-opportunities">Funding Opportunities</a></li>
+			<li><a href="/admissions/graduate/tuition">Tuition</a></li>
+		</ul>
+	</li>
+</ul>
+
+<p><a class="cta" href="http://www.gradschool.cornell.edu/admissions/applying/apply-now" target="_blank">Apply Now</a></p>
+                            </div>
+
+                            <div class="col col-center" style="height: 464px;">
+                              <ul>
+	<li class="has-sub-menu"><a href="/undergraduate-admissions">Undergraduate Admissions</a> <a a="" href="#"> </a>
+
+		<ul>
+			<li><a href="/admissions/undergraduate/architecture">Architecture</a></li>
+			<li><a href="/admissions/undergraduate/art">Art</a></li>
+			<li><a href="/admissions/undergraduate/urban-regional-studies">Urban and Regional Studies</a></li>
+		</ul>
+
+		<ul class="no-heading">
+			<li><a href="/admissions/undergraduate/application-deadlines">Application Deadlines</a></li>
+			<li><a href="/admissions/undergraduate/concurrent-degree-option">Concurrent Degree Option</a></li>
+			<li><a class="cornell-link" href="http://www.finaid.cornell.edu/" target="_blank">Financial Aid</a></li>
+			<li><a href="/admissions/undergraduate/internal-transfer">Internal Transfer (within Cornell)</a></li>
+			<li><a class="cornell-link" href="http://admissions.cornell.edu/transfer-students" target="_blank">Transfer Student Information</a></li>
+			<li><a href="/admissions/undergraduate/tuition-costs">Tuition and Costs</a></li>
+		</ul>
+	</li>
+</ul>
+
+<p><a class="cta" href="http://admissions.cornell.edu/apply/first-year-applicants" target="_blank">Apply Now</a></p>
+                            </div>
+
+                            <div class="col col-right grey-box add-left-border" style="height: 464px;">
+                              <p>&nbsp;</p>
+
+<p class="fig caption"><a href="http://aap.cornell.edu/academics/architecture"><img alt="student and faculty discuss an architectural model " src="/sites/default/files/2017_016_arc_009_550x310.jpg"></a></p>
+
+<p class="fig caption"><a href="/academics/architecture">Architecture faculty members Vanessa Carlow (left) and Timur Dogan (right) meet with a student in the Building Better Cities option studio. Learn more about the Department of Architecture.</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    	
+            <div class="megamenu" id="menu-events">
+                <div class="row">
+                    <div class="small-16 columns">
+                        <div class="menu-container">
+                            <div class="col col-left" style="height: 329px;">
+                              <ul>
+	<li class="has-sub-menu"><a href="/news-events/events">Events</a>
+
+		<ul>
+			<li><a href="/news-events/events?types[]=17">Exhibitions</a></li>
+			<li><a href="/news-events/events?types[]=26">Functions</a></li>
+			<li><a href="/news-events/events?types[]=16">Lectures</a></li>
+			<li><a href="/news-events/events?types[]=18">Symposia</a></li>
+			<li><a href="/news-events/events?types[]=2091">Workshops</a></li>
+		</ul>
+	</li>
+</ul>
+
+<ul>
+	<li class="has-sub-menu"><a href="/news-events">News</a>
+
+		<ul>
+			<li><a href="/news-events?departments%5B%5D=8&amp;locations%5B%5D=0&amp;audiences%5B%5D=0">Architecture</a></li>
+			<li><a href="/news-events?departments%5B%5D=7&amp;locations%5B%5D=0&amp;audiences%5B%5D=0">Art</a></li>
+			<li><a href="/news-events?departments%5B%5D=15&amp;locations%5B%5D=0&amp;audiences%5B%5D=0">Planning</a></li>
+		</ul>
+	</li>
+</ul>
+                            </div>
+
+                            <div class="col col-center grey-box add-left-border" style="height: 329px;">
+                              <p><a href="https://aap.cornell.edu/news-events/crp-names-frantz-professor-practice"><img alt="professor and student discuss a book outside in the summer" src="/sites/default/files/2016_105_crp_004_550x310.jpg"></a></p>
+
+<p class="fig caption"><a href="/news-events/crp-names-frantz-professor-practice">The Department of City and Regional Planning has appointed George R. Frantz as associate professor of the practice, effective July 1.</a></p>
+                            </div>
+
+                            <div class="col col-right grey-box add-left-border" style="height: 329px;">
+                              <p><a href="http://aap.cornell.edu/news-events/weissmanfredi-lecture-bridges-academy-and-industry-cornell-tech-campus"><img alt="a woman and a man speaking into a microphone" src="/sites/default/files/2017_037_arc_014_550x310.jpg"></a></p>
+
+<p class="fig caption"><a href="/news-events/weissmanfredi-lecture-bridges-academy-and-industry-cornell-tech-campus">Michael Manfredi (B.Arch. '80) and Marion Weiss, designers of The Bridge at Cornell Tech, gave the 2017 L. Michael Goldsmith Lecture at AAP NYC in April.</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    	
+            <div class="megamenu" id="menu-resources">
+                <div class="row">
+                    <div class="small-16 columns">
+                        <div class="menu-container">
+                            <div class="col col-left" style="height: 730px;">
+                              <ul>
+	<li><a href="/resources/architecture-studios">Architecture Studio Spaces</a></li>
+	<li><a href="/resources/art-studios">Art Studios and Classrooms</a></li>
+	<li><a href="/resources/business-service-center">Business Service Center</a></li>
+	<li class="has-sub-menu"><a href="/resources/computer-support-services">Computer Support and Services</a>
+		<ul>
+			<li><a href="/resources/computer-support-services/digital-classrooms">Digital Classrooms</a></li>
+			<li><a href="/resources/computer-support-services/student-laptop">Student Laptop Recommendations</a></li>
+			<li><a href="/resources/computer-support-services/tutorials">Tutorials</a></li>
+		</ul>
+	</li>
+	<li><a href="/resources/darkrooms-and-print-media-facilities">Darkrooms and Print Media Facilities</a></li>
+	<li><a href="/resources/computer-support-services/equipment-loans">Equipment Loans</a></li>
+</ul>
+                            </div>
+
+                            <div class="col col-center" style="height: 730px;">
+                              <ul>
+	<li><a href="/resources/fabrication-shop">Fabrication Shops</a></li>
+	<li><a href="/resources/faculty-resources">Faculty Resources</a></li>
+	<li><a class="cornell-link" href="http://finearts.library.cornell.edu" target="_blank">Fine Arts Library</a></li>
+	<li class="has-sub-menu"><a href="/resources/galleries-exhibition-opportunities">Galleries and Exhibition Opportunities</a>
+		<ul>
+			<li><a href="/resources/galleries-exhibition-opportunities/aap-postering-guidelines">AAP Postering Guidelines</a></li>
+			<li><a href="/forms/postering-request-form">Postering Request Form</a></li>
+		</ul>
+	</li>
+	<li><a href="/resources/jobs-internships">Jobs and Internships</a></li>
+	<li><a href="/resources/new-students/graduate">New Graduate Students</a></li>
+	<li><a href="/resources/new-students/undergraduate">New Undergraduate Students</a></li>
+	<li><a href="/resources/student-services/student-activities-organizations">Student Activities and Organizations</a></li>
+</ul>
+                            </div>
+
+                            <div class="col col-right" style="height: 730px;">
+                              <ul>
+	<li class="has-sub-menu"><a href="/resources/student-services">Student Services</a>
+
+		<ul>
+			<li><a href="/resources/student-services/academic-forms">Academic Forms</a></li>
+			<li><a href="/resources/student-services/academic-support">Cornell Academic Support and Well-Being</a></li>
+			<li><a href="/resources/student-services/diversity">Diversity Programs and Services</a></li>
+			<li><a href="/resources/student-services/important-dates">Important Dates and Walk-in Hours</a></li>
+			<li><a href="/resources/student-services/supplies-fees-equipment">Supplies, Fees, and Equipment</a></li>
+		</ul>
+	</li>
+	<li><a href="/resources/aap-supply-store">Supply Store</a></li>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+            <div class="megamenu" id="menu-audience">
+                <div class="row">
+                    <div class="small-16 columns">
+                        <div class="menu-container">
+                            <div class="select-tab">
+                                                                <ul>
+                                    
+                                    
+                                                                    <li class="heading heading-with-link"><a href="#" data-open="tab-1919">Alumni <span class="pointer"></span></a></li>
+                                                                  </ul>
+                                                                <ul>
+                                    
+                                    
+                                                                    <li class="heading heading-with-link"><a href="#" data-open="tab-1920">Faculty <span class="pointer"></span></a></li>
+                                                                  </ul>
+                                                                <ul>
+                                    
+                                    
+                                                                    <li class="heading heading-with-link"><a href="#" data-open="tab-1921">Current Students <span class="pointer"></span></a></li>
+                                                                  </ul>
+                                                                <ul>
+                                    
+                                                                      <li class="heading">Prospective Students</li>
+                                  
+                                                                    <li><a href="#" data-open="tab-1922">Architecture <span class="pointer"></span></a></li>
+                                                                    <li><a href="#" data-open="tab-1923">Art <span class="pointer"></span></a></li>
+                                                                    <li><a href="#" data-open="tab-1924">Planning <span class="pointer"></span></a></li>
+                                                                  </ul>
+                                                                <ul>
+                                    
+                                    
+                                                                    <li class="heading heading-with-link"><a href="#" data-open="tab-15301">New Graduate Students <span class="pointer"></span></a></li>
+                                                                  </ul>
+                                                                <ul>
+                                    
+                                    
+                                                                    <li class="heading heading-with-link"><a href="#" data-open="tab-2235">New Undergraduate Students <span class="pointer"></span></a></li>
+                                                                  </ul>
+                                                            </div>
+
+                            <div class="tab-content">
+                                                                <div id="tab-1919" class="tab">
+                                                                        <div class="wrap">
+                                        <div class="box note">
+                                            <h3 style="line-height: 24.608px;">Plan your gift to AAP!</h3>
+
+<ul style="line-height: 24.608px;">
+	<li><a href="/about/alumni/giving">Learn more about giving opportunities</a>.</li>
+</ul>
+                                        </div>
+                                    </div>
+                                                                        <div class="wrap">
+                                        <div class="left-col">
+                                            <h3>Pages of Interest</h3>
+
+<ul>
+	<li><a href="/about/alumni/aapnews"><em>AAP News</em></a>, read the latest edition</li>
+	<li><a class="aap-link-red" href="/about/alumni/profiles">Alumni Profiles</a>, stay in touch</li>
+	<li><a class="external-link" href="http://www.flickr.com/photos/cornellaap/sets">Flickr Galleries</a>, connect with AAP through images</li>
+	<li><a class="aap-link-red" href="/about/campuses-facilities/ithaca/milstein-hall/milstein-halls-innovative-design">Milstein Hall's Innovative Design</a>, learn more</li>
+	<li><a href="/about/social-media">Social Media</a>, connect with the college</li>
+	<li><a class="aap-link-red" href="/academics/student-work">Student Work</a>, view recent projects</li>
+</ul>
+
+<h3>New for Alumni Networking</h3>
+
+<ul>
+	<li><a class="aap-link-red" href="/resources/jobs-internships">Connect with AAP Connect</a>, jobs and internships</li>
+</ul>
+                                        </div>
+
+                                        <div class="right-col">
+                                                                                        
+                                                                                        <h3>News &amp; Events</h3>
+                                                                                        <div class="gallery">
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/news-events/cl3-lim-lu-unveil-flexible-furniture-aap-nyc" title="CL3, Lim + Lu, Unveil Flexible Furniture at AAP NYC">
+                                                            <img alt="a row of furniture dollies" title="Flexible furniture by CL3, Lim + Lu" src="http://aap.cornell.edu/sites/default/files/styles/news-event-medium/public/news/DW2I1871_550x310.jpg?itok=sgePIYal">
+                                                            <div class="info">
+                                                                <span class="name">CL3, Lim + Lu, Unveil Flexible Furniture at AAP NYC</span>
+                                                                <span class="program">&nbsp;</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>                                                
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/news-events/crp-names-frantz-professor-practice" title="CRP Names Frantz Professor of the Practice">
+                                                            <img alt="college student and professor talking outside a grey brick building" title="Land Use, Environmental Planning, and Urban Design Workshop taught by George Frantz" src="http://aap.cornell.edu/sites/default/files/styles/news-event-medium/public/news/2016_105_crp_004_550x310.jpg?itok=_rj0Di0x">
+                                                            <div class="info">
+                                                                <span class="name">CRP Names Frantz Professor of the Practice</span>
+                                                                <span class="program">&nbsp;</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>                                                
+                                                                                                                                            </div>
+                                                                                      <div class="gallery">
+                                                                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                                <div id="tab-1920" class="tab">
+                                                                        <div class="wrap">
+                                        <div class="left-col">
+                                            <h3>Faculty Resources</h3>
+
+<ul>
+	<li><a class="cornell-link" href="http://activityinsight.cornell.edu/">Academic Reporting Tool: Activity Insight</a></li>
+	<li><a class="cornell-link" href="http://blackboard.cornell.edu/">Blackboard</a></li>
+	<li><a class="aap-link-red" href="/resources/business-service-center">Business Service Center</a></li>
+	<li><a class="aap-link-red" href="/resources/computer-support-services">Computer Support and Services</a></li>
+	<li><a class="aap-link-red" href="/academics/faculty">Faculty Directory</a></li>
+	<li><a class="aap-link-red" href="/academics/faculty-employment-opportunities">Faculty Employment Opportunities</a></li>
+	<li><a class="aap-link-red" href="/about/staff-directory">Staff Directory</a></li>
+</ul>
+                                        </div>
+
+                                        <div class="right-col">
+                                                                                        
+                                                                                        <h3>Faculty News</h3>
+                                                                                        <div class="gallery">
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/news-events/new-york-city-workshop-tackles-how-build-sustainable-cities" title="New York City Workshop Tackles How to Build Sustainable Cities">
+                                                            <img alt="people talking in front of a window with a view of New York City " title="AAP and Atkinson Center for a Sustainable Future Workshop" src="http://aap.cornell.edu/sites/default/files/styles/news-event-medium/public/news/2016-12-AAP-NYC-Atkinson-Center_003_550x310.jpg?itok=Ba_DCb7f">
+                                                            <div class="info">
+                                                                <span class="name">New York City Workshop Tackles How to Build Sustainable Cities</span>
+                                                                <span class="program">&nbsp;</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>                                                
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/news-events/page-receives-2017-watts-prize" title="Page Receives 2017 Watts Prize">
+                                                            <img alt="student left, instructor right, working together in the printmaking studio" title="Greg Page instructs a student in printmaking practices" src="http://aap.cornell.edu/sites/default/files/styles/news-event-medium/public/news/page%20watts_550x310.jpg?itok=cFlwzzLD">
+                                                            <div class="info">
+                                                                <span class="name">Page Receives 2017 Watts Prize</span>
+                                                                <span class="program">&nbsp;</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>                                                
+                                                                                                                                            </div>
+                                                                                      <div class="gallery">
+                                                                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                                <div id="tab-1921" class="tab">
+                                                                        <div class="wrap">
+                                        <div class="left-col">
+                                            <h3 class="has-link">Academic Resources</h3>
+
+<ul>
+	<li><a a="" class="aap-link-red" href="/resources/aap-supply-store">AAP Supply Store</a></li>
+	<li><a class="aap-link-red" href="/resources/computer-support-services">Computer Support and Services</a></li>
+	<li><a class="aap-link-red" href="/resources/computer-support-services/equipment-loans">Equipment Loans</a></li>
+	<li><a class="cornell-link" href="http://mpf.aap.cornell.edu">MPF schedule and sign-up</a></li>
+	<li><a class="aap-link-red" href="/resources/student-services/student-activities-organizations">Student Organizations</a></li>
+</ul>
+
+<h3>Academic Services</h3>
+
+<ul>
+	<li><a class="aap-link-red" href="/resources/student-services/academic-forms">Academic Policies and Forms</a></li>
+	<li><a class="aap-link-red" href="/resources/student-services/academic-support">Academic Support and Well-Being</a></li>
+	<li><a class="aap-link-red" href="/resources/jobs-internships">Jobs and Internships / AAP Connect</a></li>
+</ul>
+
+<h3>Contact Information</h3>
+
+<ul>
+	<li><a class="aap-link-red" href="/academics/faculty">Faculty Directory</a></li>
+	<li><a class="aap-link-red" href="/about/staff-directory">Staff Directory</a></li>
+</ul>
+
+<h3 class="has-link">&nbsp;</h3>
+                                        </div>
+
+                                        <div class="right-col">
+                                                                                        
+                                                                                        <div class="gallery">
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/news-events/accolades-and-honors-haud-phd-candidates" title="Accolades and Honors for HAUD Ph.D. Candidates ">
+                                                            <img alt="Two women seated at a table in front of a window with greenery in background" title="Anna Mascoralla and Sophie Hochhäusl " src="http://aap.cornell.edu/sites/default/files/styles/news-event-medium/public/news/Bruno_Zevi_550x310.jpg?itok=uxpeqX5C">
+                                                            <div class="info">
+                                                                <span class="name">Accolades and Honors for HAUD Ph.D. Candidates </span>
+                                                                <span class="program">&nbsp;</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>                                                
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/news-events/smiles-selfies-and-ice-cream-fill-graduation-weekend-2017" title="Smiles, Selfies, and Ice Cream Fill Graduation Weekend 2017">
+                                                            <img alt="students in caps and gowns " title="Graduation 2017" src="http://aap.cornell.edu/sites/default/files/styles/news-event-medium/public/news/color2_3_550x310.jpg?itok=HsvjRw-L">
+                                                            <div class="info">
+                                                                <span class="name">Smiles, Selfies, and Ice Cream Fill Graduation Weekend 2017</span>
+                                                                <span class="program">&nbsp;</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>                                                
+                                                                                                                                            </div>
+                                                                                      <div class="gallery">
+                                                                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                                <div id="tab-1922" class="tab">
+                                                                        <div class="wrap">
+                                        <div class="left-col">
+                                            <h3>Come Study Architecture</h3>
+<ul>
+	<li><a class="aap-link-red" href="/academics/architecture/graduate">Graduate Programs</a></li>
+	<li><a class="aap-link-red" href="/academics/architecture/undergraduate">Undergraduate Program</a></li>
+</ul>
+<h3>Student Resources</h3>
+<ul>
+	<li><a class="aap-link-red" href="/resources/architecture-studios">Architecture Studios</a></li>
+	<li><a class="aap-link-red" href="/resources/fabrication-shop">Fabrication Shops</a></li>
+	<li><a class="aap-link-red" href="/resources/student-services/student-activities-organizations">Student Organizations</a></li>
+</ul>
+<h3>Visit Campus</h3>
+<ul>
+	<li><a class="aap-link-red" href="/about/campuses-facilities/ithaca/milstein-hall">Learn About Milstein Hall</a></li>
+	<li><a class="cornell-link" href="http://www.cornell.edu/visit/">Sign Up for an Information Session</a></li>
+</ul>
+<h3>Off-Campus Learning</h3>
+<ul>
+	<li><a class="aap-link-red" href="/academics/nyc/academic-programs">AAP NYC</a></li>
+	<li><a class="aap-link-red" href="/academics/rome/academic-programs/barch">Cornell in Rome</a></li>
+</ul>
+<h3>Apply to the Program</h3>
+<ul>
+	<li><a class="cornell-link" href="http://www.finaid.cornell.edu" target="_blank">Financial Aid Information</a></li>
+	<li><a class="aap-link-red" href="/admissions/graduate/architecture">Graduate Application</a></li>
+	<li><a class="aap-link-red" href="/admissions/undergraduate/architecture">Undergraduate Application</a></li>
+</ul>
+                                        </div>
+
+                                        <div class="right-col">
+                                                                                        
+                                                                                        <h3>Architecture Student Work</h3>
+                                                                                        <div class="gallery">
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/student-work/building-city" title="Building-As-City">
+                                                            <img alt="Work by Petrea Sweeny" title="Work by Petrea Sweeny" src="http://aap.cornell.edu/sites/default/files/styles/student-work-thumbnail/public/work/sw-march-web_img4_328x185.jpg?itok=azO-5GZC">
+                                                            <div class="info">
+                                                                <span class="name">Petrea Sweeny</span>
+                                                                <span class="program">M.Arch. 2018</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>                                                
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/student-work/under-city" title="Under City">
+                                                            <img alt="Work by Hyemin Jang" title="Work by Hyemin Jang" src="http://aap.cornell.edu/sites/default/files/styles/student-work-thumbnail/public/work/JANG_thumbnail_328x186.jpg?itok=22VUxuIi">
+                                                            <div class="info">
+                                                                <span class="name">Hyemin Jang</span>
+                                                                <span class="program">B.Arch. 2016</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>                                                
+                                                                                                                                            </div>
+                                                                                      <div class="gallery">
+                                                                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="tab-1923" class="tab">
+                                                                        <div class="wrap">
+                                        <div class="left-col">
+                                            <h3>Study Graduate Art</h3>
+<ul>
+	<li><a class="aap-link-red" href="/academics/art/graduate">Master of Fine Arts</a></li>
+	<li><a class="aap-link-red" href="/academics/art/graduate/note-from-director">From the Director of Graduate Studies</a></li>
+</ul>
+<h3>Study Undergraduate Art</h3>
+<p><a class="aap-link-red" href="#"> </a></p>
+<ul>
+	<li><a class="aap-link-red" href="/academics/art/undergraduate">Bachelor of Fine Arts</a></li>
+	<li><a class="aap-link-red" href="/academics/nyc/academic-programs/bfa">B.F.A. Semester in NYC</a></li>
+	<li><a class="aap-link-red" href="/academics/rome/academic-programs/fine-arts">B.F.A. Semester in Rome</a></li>
+	<li><a class="aap-link-red" href="/admissions/undergraduate/concurrent-degree-option">Concurrent Degree Options</a></li>
+</ul>
+<h3>Student Resources</h3>
+<ul>
+	<li><a class="aap-link-red" href="/resources/art-studios">Art Studios and Classrooms</a></li>
+	<li><a class="aap-link-red" href="/resources/darkrooms-and-print-media-facilities">Darkroom and Print Media Facilities</a></li>
+</ul>
+<h3>Visit Campus</h3>
+<ul>
+	<li><a class="cornell-link" href="http://www.cornell.edu/visit/">Sign Up for an Information Session</a></li>
+</ul>
+<h3>Apply to the Program</h3>
+<ul>
+	<li><a class="cornell-link" href="http://www.finaid.cornell.edu" target="_blank">Financial Aid Information</a></li>
+	<li><a class="aap-link-red" href="/admissions/graduate/art">Graduate Application</a></li>
+	<li><a class="aap-link-red" href="/admissions/undergraduate/art">Undergraduate Application</a></li>
+</ul>
+                                        </div>
+
+                                        <div class="right-col">
+                                                                                        
+                                                                                        <h3>M.F.A. Student Work</h3>
+                                                                                        <div class="gallery">
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/student-work/work-annie-raccuglia" title="Work by Annie Raccuglia">
+                                                            <img alt="Work by Annie Raccuglia" title="Work by Annie Raccuglia" src="http://aap.cornell.edu/sites/default/files/styles/student-work-thumbnail/public/work/prov-Raccuglia_504x305_0.jpg?itok=tfaDDJSL">
+                                                            <div class="info">
+                                                                <span class="name">Annie Raccuglia</span>
+                                                                <span class="program">M.F.A. 2016</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>                                                
+                                                                                                                                            </div>
+                                                                                        <h3>&nbsp;</h3>
+                                          <h3>B.F.A. Student Work</h3>
+                                                                                    <div class="gallery">
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/student-work/work-jessica-chu" title="Work by Jessica Chu">
+                                                            <img alt="Work by Jessica Chu" title="Work by Jessica Chu" src="http://aap.cornell.edu/sites/default/files/styles/student-work-thumbnail/public/work/sw-art-bfa-greg_1_328x185.jpg?itok=9Q2OA2Im">
+                                                            <div class="info">
+                                                                <span class="name">Jessica Chu</span>
+                                                                <span class="program">B.F.A. 2016</span>
+                                                            </div>
+                                                        </a>
+                                                    </div> 
+                                                                                                                                        </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div id="tab-1924" class="tab">
+                                                                        <div class="wrap">
+                                        <div class="left-col">
+                                            <h3>Come Study City and Regional Planning</h3>
+<ul>
+	<li><a class="aap-link-red" href="/academics/crp/undergraduate/bs-urs-degree-details">B.S. in Urban and Regional Studies</a></li>
+	<li><a class="aap-link-red" href="/academics/crp/graduate/regional-planning">Graduate Degrees in Planning</a></li>
+	<li><a class="aap-link-red" href="/academics/crp/graduate/regional-science">Graduate Degrees in Regional Science</a></li>
+	<li><a class="aap-link-red" href="/academics/crp/graduate/hpp">Master's Degree in Historic Preservation</a></li>
+</ul>
+<h3>Visit Campus</h3>
+<ul>
+	<li><a class="cornell-link" href="http://www.cornell.edu/visit/">Sign Up for an Information Session</a></li>
+</ul>
+<h3>On and Beyond Campus</h3>
+<ul>
+	<li><a class="aap-link-red" href="/academics/rome/academic-programs/urban-studies">Urban Studies in Rome</a></li>
+	<li><a class="cornell-link" href="https://www.cuabroad.cornell.edu/" target="_blank">Cornell University Abroad</a></li>
+	<li><a class="aap-link-red" href="/academics/crp/public-engagement">CRP Public Engagement</a></li>
+	<li><a class="aap-link-red" href="/resources/student-services/student-activities-organizations">Student Organizations</a></li>
+</ul>
+<h3>Apply to the Program</h3>
+<ul>
+	<li><a class="cornell-link" href="http://www.finaid.cornell.edu" target="_blank">Financial Aid Information</a></li>
+	<li><a class="aap-link-red" href="/admissions/graduate/city-and-regional-planning">Graduate Application</a></li>
+	<li><a class="aap-link-red" href="/admissions/undergraduate/urban-regional-studies">Undergraduate Application</a></li>
+</ul>
+                                        </div>
+
+                                        <div class="right-col">
+                                                                                        
+                                                                                        <h3>CRP Student Work</h3>
+                                                                                        <div class="gallery">
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/student-work/splintering-urbanism-east-river-and-hudson-river-waterfronts" title="Splintering Urbanism: The East River and Hudson River Waterfronts">
+                                                            <img alt="Accessibility rendering from CRP group project, Splintering Urbanism" title="Accessibility rendering from CRP group project, Splintering Urbanism" src="http://aap.cornell.edu/sites/default/files/styles/student-work-thumbnail/public/work/sw-crp-page29-access_328x185.png?itok=oKuBbUkt">
+                                                            <div class="info">
+                                                                <span class="name">Group Project</span>
+                                                                <span class="program">Splintering Urbanism: The East River and Hudson River Waterfronts</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>                                                
+                                                                                                    <div class="gallery-item">
+                                                        <a href="/student-work/design-connect-reuse-proposals-camp-monterey" title="Design Connect: Reuse Proposals for Camp Monterey">
+                                                            <img alt="Design Connect students present ideas to Town of Orange residents." title="Design Connect students present ideas to Town of Orange residents." src="http://aap.cornell.edu/sites/default/files/styles/student-work-thumbnail/public/work/sw-crp-CommunityMeeting1_cc_328x185.jpg?itok=y_H8WbG3">
+                                                            <div class="info">
+                                                                <span class="name">Group Project</span>
+                                                                <span class="program">Design Connect: Reuse Proposals for Camp Monterey</span>
+                                                            </div>
+                                                        </a>
+                                                    </div>                                                
+                                                                                                                                            </div>
+                                                                                      <div class="gallery">
+                                                                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                                <div id="tab-15301" class="tab">
+                                                                        <div class="wrap">
+                                        <div class="box note">
+                                            <h3><a href="/resources/computer-support-services/student-laptop">Student Laptop Recommendations</a></h3>
+                                        </div>
+                                    </div>
+                                                                        <div class="wrap">
+                                        <div class="left-col">
+                                            <ul>
+	<li><a href="/resources/new-students/graduate">Information for New Graduate Students</a></li>
+	<li><a href="/resources/new-students/graduate/architecture">New M.Arch. Students</a></li>
+	<li><a href="/resources/new-students/graduate/art">New M.F.A. Students</a></li>
+	<li><a href="/resources/new-students/graduate/crp">New M.R.P. and M.A. Students</a></li>
+	<li><a class="aap-link-red" href="/forms/aap-new-student-t-shirt-request-form">T-shirt Request Form</a></li>
+	<li><a class="aap-link-red" href="/resources/student-services/student-activities-organizations">Student Activities and Organizations</a></li>
+</ul>
+                                        </div>
+
+                                        <div class="right-col">
+                                                                                                                <div class="box deadlines has-long-links add-bottom-margin">
+                                                                        <ul>
+                                                                            <li><h4>Contact AAP Admissions and Academic Services</h4>
+<p>235 Sibley Dome<br>
+	Phone: (607) 255-4376<br>
+	Fax: (607) 254-2848<br>
+	<a href="mailto:aapacademicservices@cornell.edu">aap-academicservices@cornell.edu</a><br>
+	Monday–Friday, 8 a.m.–4:30 p.m.</p>
+<p><strong>Graduate Admissions</strong><br>
+	Architecture: <a href="mailto:arch-grad-info@cornell.edu">arch-grad-info@cornell.edu</a><br>
+	Art: <a href="mailto:artinfo@cornell.edu">artinfo@cornell.edu</a><br>
+	City and Regional Planning: <a href="mailto:crp_admissions@cornell.edu">crp_admissions@cornell.edu</a></p>
+</li>
+                                                                        </ul>
+                                                                    </div>                                      
+                                                                                                    
+                                                                                        <div class="gallery">
+                                                                                            </div>
+                                                                                      <div class="gallery">
+                                                                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                                <div id="tab-2235" class="tab">
+                                                                        <div class="wrap">
+                                        <div class="box note">
+                                            <h3><a href="/resources/computer-support-services/student-laptop">Student Laptop Recommendations</a></h3>
+                                        </div>
+                                    </div>
+                                                                        <div class="wrap">
+                                        <div class="left-col">
+                                            <ul>
+	<li><a class="aap-link-red" href="/resources/new-students/undergraduate">Information for New Undergraduate Students</a></li>
+	<li><a class="aap-link-red" href="/resources/new-students/undergraduate/welcome-barch-students">New B.Arch. Students</a></li>
+	<li><a class="aap-link-red" href="/resources/new-students/undergraduate/welcome-bfa-students">New B.F.A. Students</a></li>
+	<li><a class="aap-link-red" href="/resources/new-students/undergraduate/welcome-urs-students">New URS Students</a></li>
+	<li><a class="aap-link-red" href="/resources/new-students/undergraduate/orientation-schedule">Orientation Schedule</a></li>
+	<li><a class="aap-link-red" href="/forms/aap-new-student-t-shirt-request-form">T-shirt Request Form</a></li>
+	<li><a class="aap-link-red" href="/advanced-placement-and-college-credits">Advanced Placement Credits</a></li>
+	<li><a class="aap-link-red" href="/resources/student-services/student-activities-organizations">Student Activities and Organizations</a></li>
+</ul>
+                                        </div>
+
+                                        <div class="right-col">
+                                                                                                                <div class="box deadlines has-long-links add-bottom-margin">
+                                                                        <ul>
+                                                                            <li><h4>Contact AAP Admissions and Academic Services</h4>
+<p>235 Sibley Dome<br>
+	Phone: (607) 255-4376<br>
+	Fax: (607) 254-2848<br>
+	<a href="mailto:aapacademicservices@cornell.edu">aap-academicservices@cornell.edu</a><br>
+	Monday–Friday, 8 a.m.–4:30 p.m.</p>
+<p><strong>Undergraduate Admissions</strong><br>
+	<a href="mailto:aap_admissions@cornell.edu">aap-admissions@cornell.edu</a></p>
+</li>
+                                                                        </ul>
+                                                                    </div>                                      
+                                                                                                    
+                                                                                        <div class="gallery">
+                                                                                            </div>
+                                                                                      <div class="gallery">
+                                                                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- menu-audience-->
+            
+        </div>
+    </div>
+</header>
+  
+  
+
+  <div id="stage" style="transform: none; min-height: 35px;">
+
+      
+      <div id="page" class="row" style="transform: none;">
+
+          <div id="sidebar-left" class="small-16 medium-large-3 columns" style="position: relative; overflow: visible; box-sizing: border-box; min-height: 1px;">
+                        <div class="theiaStickySidebar" style="padding-top: 0px; padding-bottom: 1px; position: static;"><nav class="sidebar-nav-interactive">
+
+<div class="dropdown-heading"><a href="/">AAP</a> › <a href="/">Academics</a> › <a href="/academics/crp">Department of City and Regional Planning</a> › Department Faculty </div>
+
+	<div class="dropdown">
+		<div class="previous">
+		  			<div class="level prev ">
+				<a href="/">AAP</a>
+			</div>
+						<div class="level prev ">
+				<a href="/academics">Academics</a>
+			</div>
+						<div class="level prev last department">
+				<a href="/academics/crp">Department of City and Regional Planning</a>
+			</div>
+					</div>
+
+		<div class="panes">
+		
+		
+		  		  <div class="pane siblings-top">
+		    				<div class="level next">
+					<a href="/academics/crp/about">About the Department</a>
+				</div>
+		    				<div class="level next">
+					<a href="/academics/crp/stein-institute">Clarence S. Stein Institute</a>
+				</div>
+		    				<div class="level next">
+					<a href="/academics/crp/class-syllabi">Class Syllabi</a>
+				</div>
+		    		  </div>
+		  		  
+			<div class="pane current">
+			
+			  				<div class="level heading ">
+					<a href="/academics/faculty?department=15" class="active">Department Faculty </a>
+				</div>
+								
+						  </div>
+		  
+		  		  <div class="pane siblings-top">
+		    				<div class="level next">
+					<a href="/academics/crp/graduate">Graduate Programs</a>
+				</div>
+		    				<div class="level next">
+					<a href="/academics/crp/public-engagement">Public Engagement</a>
+				</div>
+		    				<div class="level next">
+					<a href="/academics/student-work?discipline=281&amp;degree=0">Student Work</a>
+				</div>
+		    				<div class="level next">
+					<a href="/academics/crp/undergraduate">Undergraduate Program</a>
+				</div>
+		    		  </div>
+		  		  
+
+			<div class="persistent-content">
+      			</div>
+			
+			<div class="current-path"></div>
+			<div class="current-mlid hidden">1127</div>
+			
+		</div>
+	</div>
+
+	<div class="waiting"></div>
+</nav></div></div><!--end of #sidebar-left-->
+
+          <div id="main" class="small-16 medium-large-13 columns" style="transform: none;">
+              <div id="main-wrapper" class="row" style="transform: none;">
+
+                  <section id="content" class="small-16 medium-large-11 columns" style="position: relative; overflow: visible; box-sizing: border-box; min-height: 1px;">
+                                        
+
+
+                                      <div class="theiaStickySidebar" style="padding-top: 0px; padding-bottom: 1px; position: static;"><article id="node-1382" class="node node-person person-type-faculty">
+    <h1>Jennifer Minner</h1>
+
+    <div class="row">
+        <aside class="small-16 medium-large-4 columns">
+            <div class="person row">
+                                <div class="person-col person-photo small-6 medium-5 medium-large-16 columns" style="height: 237px;">
+                    <img alt="" title="" src="http://aap.cornell.edu/sites/default/files/styles/portrait-medium/public/person/prov_Minner_270X270.jpeg?itok=eY0Rzd3J">
+                </div>
+                
+                <div class="person-col person-info small-10 medium-11 medium-large-16 columns" style="height: 237px;">
+                    <ul>
+                        <li>
+                            <div class="title">Jennifer Minner</div>
+                                                                                    <div class="description">Assistant Professor</div>
+                                                      
+                                                    </li>
+                        <li>
+                                                    
+                        </li>
+
+                                                <li>
+                            <div class="title">Department</div>
+                            <div class="description">
+                                                            City &amp; Regional Planning<br>
+                                                          </div>
+                        </li>
+                          
+
+                                                <li>
+                          <div class="title">Contact</div>
+                          <div class="description">
+                                                        214 W. Sibley Hall<br>
+                                                                                    (607) 255-5561<br>
+                                                                                    <a href="mailto:j.minner@cornell.edu">j.minner@cornell.edu</a><br>
+                                                                                  </div>
+                        </li>
+                        
+                                                <li>
+                          <div class="title">Office Hours</div>
+                          <div class="description">
+                            By appointment                          </div>
+                        </li>
+                                            </ul>
+                </div>
+            </div>
+
+            <hr>
+        </aside>
+
+        <div class="small-16 medium-large-12 columns">
+            
+<p>Jennifer Minner's teaching and research is focused at the intersecting domains of land use, sustainability, historic preservation, and technology. She researches reinvestment in and repair of urban fabric; tensions and opportunities in land use planning and preservation; sustainable adaptation and conservation of the built environment; and participatory and analytical technologies used in planning.</p>
+
+<p>Minner's experience includes planning, research, and community mapping projects related to land use and sustainability, historic preservation, environmental education, institutional research and higher education assessment, and economic development.&nbsp;She served as chair and heritage commissioner on the City of Olympia, Washington Heritage Commission. She is a past president and a founding board member of the MidTexMod chapter of Docomomo U.S., a nonprofit dedicated to documentation and conservation of the Modern Movement in Central Texas. She presently serves on the Ithaca Landmarks Preservation Commission.</p>
+
+<p>She received a B.A. in anthropology from the University of Washington (1995), an M.U.R.P. from Portland State University (2000), and a Ph.D. from the University of Texas at Austin (2013).</p>
+                
+                        
+                        <h3>Related Pages</h3>
+            <ul>            
+                                <li>
+                  <a href="http://blogs.cornell.edu/3dgis/" class="cornell-link">A World's Fair Landscape In Time: A Study of Flushing Meadows Corona Park (class blog)</a>
+                </li>
+                                <li>
+                  <a href="http://blogs.cornell.edu/crp2000/" class="cornell-link">Promise and Pitfalls of Contemporary Planning (class blog)</a>
+                </li>
+                                <li>
+                  <a href="http://blogs.cornell.edu/modernfootprints/" class="cornell-link">Sustainable Adaptation of Modern Footprints (class blog)</a>
+                </li>
+                            </ul>
+            
+                        <h3>Related News</h3>
+            <ul>
+                        <li>
+              <a href="/news-events/crps-minner-guest-editor-japa-special-issue-historic-preservation">CRP's Minner is Guest Editor of JAPA Special Issue on Historic Preservation</a>
+            </li>
+                        <li>
+              <a href="/news-events/crp-receives-engaged-cornell-advancement-grant">CRP Receives Engaged Cornell Advancement Grant</a>
+            </li>
+                        <li>
+              <a href="http://www.nytimes.com/2015/05/04/arts/international/worlds-fairs-and-their-legacies.html?_r=0#" class="external-link">World’s Fairs and Their Legacies</a>
+            </li>
+                        <li>
+              <a href="/news-events/city-ithacas-comprehensive-plan-student-open-house">The City of Ithaca's Comprehensive Plan: Student Open House </a>
+            </li>
+                        <li>
+              <a href="/news-events/modern-footprints-sustainable-adaptation-and-collective-memory">Modern Footprints: Sustainable Adaptation and Collective Memory</a>
+            </li>
+                        </ul>
+            
+                        <h3>Classes (Selected)</h3>
+            
+<ul><li><a href="/sites/default/files/PromiseandPitfallssyllabus_August24_2015_0.pdf" target="_blank">CRP 2000 The Promise and Pitfalls of Contemporary Planning</a> (fall 2015 syllabus, PDF)</li>
+	<li><a href="/sites/default/files/SpecialTopicsSyllabus_August252014.pdf">CRP 3851/5851 Special Topics in Urban Design: Sustainable Adaptation of Large Modern Footprints</a> (fall 2014 syllabus, PDF)</li>
+	<li><span class="course" data-course="CRP 3900"><a href="/sites/default/files/ColloquiumSyllabus_Aug192015.pdf">CRP 3900/CRP 7850 City and Regional Futures: Planning Practice, Policy, and Design</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></li>
+	<li><a href="/sites/default/files/ConceptsandMethodsofLandUsePlanning_Minner_Jan202015.pdf">CRP 5530 Concepts and Methods of Land Use Planning</a> (spring 2015 syllabus, PDF)</li>
+	<li><a href="/sites/default/files/5850-Minner.pdf">CRP 5850 Cities, Place, Technology</a> (spring 2016 syllabus, PDF)</li>
+</ul>
+            
+                        <h3>Awards, Grants, and Fellowships (Selected)</h3>
+            
+<ul><li>Coprincipal investigator, Scenario Tools for Equitable Corridor Reinvestment and Affordable Housing Preservation, contract with Lincoln Institute of Land Policy (2015)</li>
+	<li>Coprincipal investigator, Strengthening Rural-Urban Linkages to Support Rural Economic Development: the Case of Re-localized Food Systems, USDA National Institute of Food and Agriculture program (2015)</li>
+	<li>Principal investigator, Visualizing the Past, Present, and Future of New York City's 1964–5 World's Fair Site Using 3D GIS and Procedural Modeling, National Center for Preservation Technology and Training grant (2014)</li>
+	<li>Support for engaged research at Flushing Meadows Corona Park, Cornell's Engaged Learning and Research (2014)</li>
+	<li>Project manager, Austin Historical Survey Wiki, grants from the U.S. Department of the Interior - Preserve America and National Center for Preservation Technology and Training, Texas Historical Commission, City of Austin, University of Texas at Austin (2008–13)</li>
+</ul>
+            
+                        <h3>Exhibitions and Presentations (Selected)</h3>
+            
+<ul><li>"Hot Topics at the Journal of the American Planning Association" with Jennifer Minner, Michael Holleran, Karl Kim, Robert Olshansky, Sandra Rosenbloom, Lisa Schweitzer at the National Conference of the American Planning Association, Phoenix&nbsp;(2016)</li>
+	<li>"Innovative Planning Apps for Planners," with James Castañeda at the National Conference of the American Planning Association, Seattle (2015)</li>
+	<li>"Plan-making Pedagogy and Technology: Forum to Share Curricular Experiments," with Nader Afzalan, Tom Hilde, and Robert Paterson at the Association of Collegiate Schools of Planning, Philadelphia (2014)</li>
+	<li>"Building on the Dynamic, Iconic, and Everyday," and "Multivocality in Tours of Texas Modernism and Urban Renewal Sites," at the 67th annual conference of the Society of Architectural Historians, Austin (April 2014)</li>
+</ul>
+            
+                        <h3>Publications (Selected)</h3>
+            
+<ul><li><a href="/sites/default/files/MinnerandShi_2017.pdf">"Churn and change along commercial strips: Spatial analysis of patterns in remodeling activity and landscapes of local business,"</a> <em>Urban Studies,</em> pages 1-25 with Xiao Shi (2017)</li>
+	<li><a href="/sites/default/files/TimeArchitectueandGeographyAPT.pdf">"Time, Architecture, and Geography: Modeling the Past and Future of Cultural Landscapes,"</a><em> APT Bulletin </em>47(2-3), pages 49-58, with Jeffrey Chusid (2016)</li>
+	<li><a href="/sites/default/files/Revealing%20Synergies%20Tensions%20and%20Silences%20Between%20Preservation%20and%20Planning.pdf">"Revealing Synergies, Tensions, and Silences Between Preservation and Planning,"</a>&nbsp;<em>Journal of the American Planning Association</em>, 82(2), pages 72–87 (2016)</li>
+	<li><a href="/sites/default/files/minner_IJEPR%204%281%29.pdf">"Capturing Volunteered Historical Information: Lessons from Development of a Local Government Crowdsourcing Tool,"</a> <em>International Journal of E-Planning Research 4</em>(1), pages 19–41, with Andrea Roberts, Michael Holleran, and Joshua Conrad (2015)</li>
+	<li><a href="/sites/default/files/J.%20Minner%20-Recoding%20Embedded%20Assumptions%20in%20the%20Adaptation_0.pdf">"Recoding Embedded Assumptions in the Adaptation of Tools for Sustainability Planning, Transparency, and Participatory Governance,"</a> <em>Planning Support Systems&nbsp;<em style="line-height: 24.6079998016357px;"><em style="line-height: 24.6079998016357px;">and&nbsp;</em>Smart Cities</em>,</em> (pages 409–425), editors&nbsp;S. Geertman, J. Ferreira, Jr., R. Goodspeed, J. Stillwell, Springer International Publishing (2015)</li>
+</ul>
+               
+
+            <nav class="local-nav">
+                <div class="row">
+                    <div class="small-10 columns">
+                        <a href="/academics/faculty?department=15"><i class="fa fa-th"></i> &nbsp;Faculty Index</a>
+                    </div>
+
+                    <div class="next-prev small-6 columns">
+                                                <a href="http://aap.cornell.edu/people/paul-mazzarella?department=15"><i class="fa fa-chevron-left"></i></a> 
+                                                                        &nbsp;<a href="http://aap.cornell.edu/people/porus-olpadwala?department=15"><i class="fa fa-chevron-right"></i></a>
+                                            </div>
+                </div>
+            </nav>
+
+        </div>
+    </div>
+</article></div></section><!--end of #content-->
+
+                  <aside id="sidebar-right" class="small-16 medium-large-5 columns" style="position: relative; overflow: visible; box-sizing: border-box; min-height: 1px;">
+                                      <div class="theiaStickySidebar" style="padding-top: 0px; padding-bottom: 1px; position: static;"></div></aside><!--end of #sidebar-right-->
+
+              </div><!--end of #main-wrapper-->
+          </div><!--end of #main-->
+
+      </div><!--end of #page-->
+  </div><!--end of #stage-->
+
+  
+<footer class="footer-container">
+    <div class="site-footer">
+        <div class="row">
+            <div class="footer-logo small-16 medium-3 medium-large-3 columns">
+                <p>
+                    <a href="/"><img src="/sites/all/themes/aap5/img/aap-footer-logo.png" alt="AAP" title="AAP"></a>
+                </p>
+            </div>
+
+            <div class="dept-links small-16 medium-7 medium-large-8 columns">
+                <ul>
+                    <li><a href="/academics/architecture">Architecture</a></li>
+                    <li><a href="/academics/art">Art</a></li>
+                    <li><a href="/academics/crp">Planning</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-links small-16 medium-6 medium-large-5 columns">
+                <ul>
+                    <li><a href="/about/contact">Contact Us</a></li>
+                    <li><a href="/sitemap" class="sitemap-link">Sitemap <i class="fa fa-caret-down"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <div class="footer-sitemap">
+        <div class="row">
+                        <div class="small-16 medium-8 columns">
+                <div class="row">
+                                        <div class="small-16 medium-5 medium-large-6 columns ">
+                        <ul>
+                            <li>
+                                <a class="heading" href="/about">About AAP</a>
+                            </li>
+
+                                                        <li class="has-children">
+                                <a href="/about/alumni">AAP Alumni</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/about/alumni/council">AAP Advisory Council</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/about/alumni/aapnews">AAP News: Current and Past Issues</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/about/alumni/profiles">Alumni Profiles</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/about/alumni/giving">Support AAP</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li class="has-children">
+                                <a href="/about/campuses-facilities">Campuses and Facilities</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/about/campuses-facilities/ithaca">Ithaca Campus</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/about/college-facts">College Facts</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/about/history">College History</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/about/mission">College Mission</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/about/contact">Contact</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/about/social-media">Cornell AAP on Social Media</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/about/dean">Office of the Dean</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/about/staff-directory">Staff Directory</a>
+                                                            </li>                              
+                            
+                        </ul>
+                    </div>
+                                        <div class="small-16 medium-5 medium-large-5 columns end">
+                        <ul>
+                            <li>
+                                <a class="heading" href="/academics">Academics</a>
+                            </li>
+
+                                                        <li class="has-children">
+                                <a href="/academics/nyc">AAP NYC</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/academics/nyc/academic-programs">Academic Programs</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/nyc/admissions-costs">Admissions and Costs</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/nyc/calendar">Calendar and Activities</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/nyc/facilities-resources">Facilities and Resources</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/nyc/faculty-staff">Faculty and Staff</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/academics/rome">Cornell in Rome</a>
+                                                            </li>                              
+                                                        <li class="has-children">
+                                <a href="/academics/architecture">Department of Architecture</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/academics/architecture/about">About the Department</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/architecture/undergraduate">Degree Program: Undergraduate</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/architecture/graduate">Degree Programs: Graduate</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/faculty">Department Faculty</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/architecture/elective-courses-option-studios">Elective Courses and Option Studios</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/architecture/summer-intro-to-architecture">Introduction to Architecture Summer</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/student-work">Student Work</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                            
+                        </ul>
+                    </div>
+                                        <div class="small-16 medium-5 medium-large-5 columns ">
+                        <ul>
+                            <li>
+                                <a class="heading" href="/academics"> </a>
+                            </li>
+
+                                                        <li class="has-children">
+                                <a href="/academics/art">Department of Art</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/academics/art/about">About the Department</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/node/1406/">Department Events</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/faculty">Department Faculty</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/node/1407/">Department News</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/art/graduate">M.F.A. Program Overview</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/student-work">Student Work</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/art/art-experience-summer-program">Summer Programs and Classes</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/art/teiger">Teiger Mentor in the Arts</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/art/undergraduate">Undergraduate Program</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li class="has-children">
+                                <a href="/academics/crp">Department of City and Regional Planning</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/academics/crp/about">About the Department</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/crp/stein-institute">Clarence S. Stein Institute</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/crp/class-syllabi">Class Syllabi</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/faculty">Department Faculty </a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/crp/graduate">Graduate Programs</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/crp/public-engagement">Public Engagement</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/student-work">Student Work</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/academics/crp/undergraduate">Undergraduate Program</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/academics/executive-education">Executive Education</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/academics/faculty">Faculty Directory</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/academics/student-work">Student Work</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/academics/undergraduate/learning-outcomes">What are AAP Undergraduate Students Learning?</a>
+                                                            </li>                              
+                            
+                        </ul>
+                    </div>
+                    
+                </div>    
+            </div>
+                        <div class="small-16 medium-8 columns">
+                <div class="row">
+                                        <div class="small-16 medium-5 medium-large-6 columns ">
+                        <ul>
+                            <li>
+                                <a class="heading" href="/admissions">Admissions</a>
+                            </li>
+
+                                                        <li class="has-children">
+                                <a href="/graduate-admissions">Graduate Admissions</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/admissions/graduate/architecture">Architecture</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/admissions/graduate/art">Art</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/admissions/graduate/city-and-regional-planning">City and Regional Planning</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/admissions/graduate/funding-opportunities">Funding Opportunities</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/admissions/graduate/tuition">Tuition</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/forms/program-information-request-form">Program Information Request Form</a>
+                                                            </li>                              
+                                                        <li class="has-children">
+                                <a href="/undergraduate-admissions">Undergraduate Admissions</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/admissions/undergraduate/architecture">Architecture</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/admissions/undergraduate/art">Art</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/admissions/undergraduate/application-deadlines">Application Deadlines</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/admissions/undergraduate/concurrent-degree-option">Concurrent Degree Option</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/admissions/undergraduate/internal-transfer">Internal Transfer</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/admissions/undergraduate/interview-request-form">Interview Request Form</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/admissions/undergraduate/tuition-costs">Tuition and Costs</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/admissions/undergraduate/urban-regional-studies">Urban and Regional Studies</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                            
+                        </ul>
+                    </div>
+                                        <div class="small-16 medium-5 medium-large-5 columns end">
+                        <ul>
+                            <li>
+                                <a class="heading" href="/news-events">News &amp; Events</a>
+                            </li>
+
+                                                        <li>
+                                <a href="/news-events/events">Events</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/news-events/events">Exhibitions</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/news-events/events">Functions</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/news-events/events">Lectures</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/news-events">News</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/news-events/events">Symposia</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/news-events/events">Workshops</a>
+                                                            </li>                              
+                            
+                        </ul>
+                    </div>
+                                        <div class="small-16 medium-5 medium-large-5 columns ">
+                        <ul>
+                            <li>
+                                <a class="heading" href="/resources">Resources</a>
+                            </li>
+
+                                                        <li>
+                                <a href="/resources/architecture-studios">Architecture Studio Spaces</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/resources/art-studios">Art Studios and Classrooms</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/resources/business-service-center">Business Service Center</a>
+                                                            </li>                              
+                                                        <li class="has-children">
+                                <a href="/resources/computer-support-services">Computer Support and Services</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/resources/computer-support-services/digital-classrooms">Digital Classrooms</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/computer-support-services/student-laptop">Student Laptop Recommendations</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/computer-support-services/tutorials">Tutorials</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/resources/darkrooms-and-print-media-facilities">Darkrooms and Print Media Facilities</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/resources/computer-support-services/equipment-loans">Equipment Loans</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/resources/fabrication-shop">Fabrication Shops</a>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/resources/faculty-resources">Faculty Resources </a>
+                                                            </li>                              
+                                                        <li class="has-children">
+                                <a href="/resources/galleries-exhibition-opportunities">Galleries and Exhibition Opportunities</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/resources/galleries-exhibition-opportunities/aap-postering-guidelines">AAP Postering Guidelines</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/forms/postering-request-form">Postering Request Form</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li class="has-children">
+                                <a href="/resources/jobs-internships">Jobs and Internships</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/resources/jobs-internships/employers-alumni">Employers and Alumni</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/jobs-internships/internships">Internships</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/jobs-internships/job-search-assistance">Job Search Assistance</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/jobs-internships/search-resources">Resources</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li class="has-children">
+                                <a href="/resources/new-students/graduate">New Graduate Students</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/resources/new-students/graduate/architecture">New M.Arch. Students</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/new-students/graduate/art">New M.F.A. Students</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/new-students/graduate/crp">New M.R.P. and M.A. HPP Students</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/forms/aap-new-student-t-shirt-request-form">T-Shirt Request Form</a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li class="has-children">
+                                <a href="/resources/new-students/undergraduate">New Undergraduate Students</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/advanced-placement-and-college-credits">Advanced Placement </a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/new-students/undergraduate/welcome-barch-students">New B.Arch. Students</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/new-students/undergraduate/welcome-bfa-students">New B.F.A. Students</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/new-students/undergraduate/welcome-urs-students">New URS Students</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/new-students/undergraduate/orientation-schedule">Orientation Schedule</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/forms/aap-new-student-t-shirt-request-form">T-shirt Request Form </a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/resources/student-services/student-activities-organizations">Student Activities and Organizations</a>
+                                                            </li>                              
+                                                        <li class="has-children">
+                                <a href="/resources/student-services">Student Services</a>
+                                                                <ul>
+                                                                        <li>
+                                        <a href="/resources/student-services/academic-forms">Academic Forms</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/student-services/academic-support">Academic Support and Well-Being</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/student-services/diversity">Diversity Programs and Services</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/student-services/important-dates">Important Dates and Walk-in Hours</a>                                        
+                                    </li>
+                                                                        <li>
+                                        <a href="/resources/student-services/supplies-fees-equipment">Supplies, Fees, and Equipment </a>                                        
+                                    </li>
+                                                                    </ul>
+                                                            </li>                              
+                                                        <li>
+                                <a href="/resources/aap-supply-store">Supply Store</a>
+                                                            </li>                              
+                            
+                        </ul>
+                    </div>
+                    
+                </div>    
+            </div>
+            
+        </div>
+    </div>
+    
+    <div class="footer-copyright">
+        <div class="row">
+            <div class="copyright-info small-16 medium-3 columns">
+                <p>© 2017 Cornell University<br>
+                <a href="mailto:web-accessibility@cornell.edu">Web Accessibility Help</a>
+                </p>
+            </div>
+
+            <div class="footer-address small-16 medium-8 medium-large-10 columns">
+                <p>
+                    <strong>Cornell University College of Architecture, Art, and&nbsp;Planning</strong><br>
+                    129 Sibley Dome, Cornell University, Ithaca, NY 14853
+                </p>
+            </div>
+
+            <div class="footer-social small-16 medium-5 medium-large-3 columns">
+                <ul>
+                    <li><a href="https://twitter.com/cornellaap">
+                        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a></li>
+
+                    <li><a href="https://www.facebook.com/cornellaap/">
+                        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a></li>
+
+                    <li><a href="https://www.linkedin.com/school/15099029">
+                        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a></li>
+
+                    <li><a href="https://www.instagram.com/cornellaap/">
+                        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a></li>
+
+                    <li><a href="https://www.flickr.com/photos/cornellaap/sets">
+                        <span class="fa-stack fa-lg">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-flickr fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div id="back-to-top" class="hide-btn"><i class="fa fa-caret-up"></i></div>
+
+<div class="dim-screen"></div>
+</div>
+
+<aside rel="nofollow" id="mobile-menu" class=" slideout-menu">
+  <div class="mobile-menu-container">
+
+	  		<ul>
+			<li><a class="heading" href="/about">About AAP</a></li>
+						<li><a href="/about/alumni">AAP Alumni</a>
+						</li><li><a href="/about/campuses-facilities">Campuses and Facilities</a>
+						</li><li><a href="/about/college-facts">College Facts</a>
+						</li><li><a href="/about/history">College History</a>
+						</li><li><a href="/about/mission">College Mission</a>
+						</li><li><a href="/about/contact">Contact</a>
+						</li><li><a href="/about/social-media">Cornell AAP on Social Media</a>
+						</li><li><a href="/about/dean">Office of the Dean</a>
+						</li><li><a href="/about/staff-directory">Staff Directory</a>
+						</li>
+					</ul>
+				<ul>
+			<li><a class="heading" href="/academics">Academics</a></li>
+						<li><a href="/academics/nyc">AAP NYC</a>
+						</li><li><a href="/academics/rome">Cornell in Rome</a>
+						</li><li><a href="/academics/architecture">Department of Architecture</a>
+						</li><li><a href="/academics/art">Department of Art</a>
+						</li><li><a href="/academics/crp">Department of City and Regional Planning</a>
+						</li><li><a href="/academics/executive-education">Executive Education</a>
+						</li><li><a href="/academics/faculty">Faculty Directory</a>
+						</li><li><a href="/academics/student-work">Student Work</a>
+						</li><li><a href="/academics/undergraduate/learning-outcomes">What are AAP Undergraduate Students Learning?</a>
+						</li>
+					</ul>
+				<ul>
+			<li><a class="heading" href="/admissions">Admissions</a></li>
+						<li><a href="/graduate-admissions">Graduate Admissions</a>
+						</li><li><a href="/forms/program-information-request-form">Program Information Request Form</a>
+						</li><li><a href="/undergraduate-admissions">Undergraduate Admissions</a>
+						</li>
+					</ul>
+				<ul>
+			<li><a class="heading" href="/news-events">News &amp; Events</a></li>
+						<li><a href="/news-events/events">Events</a>
+						</li><li><a href="/news-events/events?types%5B%5D=17">Exhibitions</a>
+						</li><li><a href="/news-events/events?types%5B%5D=26">Functions</a>
+						</li><li><a href="/news-events/events?types%5B%5D=16">Lectures</a>
+						</li><li><a href="/news-events">News</a>
+						</li><li><a href="/news-events/events?types%5B%5D=18">Symposia</a>
+						</li><li><a href="/news-events/events?types%5B%5D=2091">Workshops</a>
+						</li>
+					</ul>
+				<ul style="margin-bottom: 40px;">
+			<li><a class="heading" href="/resources">Resources</a></li>
+						<li><a href="/resources/architecture-studios">Architecture Studio Spaces</a>
+						</li><li><a href="/resources/art-studios">Art Studios and Classrooms</a>
+						</li><li><a href="/resources/business-service-center">Business Service Center</a>
+						</li><li><a href="/resources/computer-support-services">Computer Support and Services</a>
+						</li><li><a href="/resources/darkrooms-and-print-media-facilities">Darkrooms and Print Media Facilities</a>
+						</li><li><a href="/resources/computer-support-services/equipment-loans">Equipment Loans</a>
+						</li><li><a href="/resources/fabrication-shop">Fabrication Shops</a>
+						</li><li><a href="/resources/faculty-resources">Faculty Resources </a>
+						</li><li><a href="/resources/galleries-exhibition-opportunities">Galleries and Exhibition Opportunities</a>
+						</li><li><a href="/resources/jobs-internships">Jobs and Internships</a>
+						</li><li><a href="/resources/new-students/graduate">New Graduate Students</a>
+						</li><li><a href="/resources/new-students/undergraduate">New Undergraduate Students</a>
+						</li><li><a href="/resources/student-services/student-activities-organizations">Student Activities and Organizations</a>
+						</li><li><a href="/resources/student-services">Student Services</a>
+						</li><li><a href="/resources/aap-supply-store">Supply Store</a>
+						</li>
+					</ul>
+		
+  </div>
+</aside>  <script type="text/javascript" src="http://aap.cornell.edu/sites/default/files/js/js_JRM6l0QjIMcHRjvY3Ogm0S_MAIZxkGTxsYpdFeOwceU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() { var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true; sz.src = '//siteimproveanalytics.com/js/siteanalyze_90781461.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s); })();
+//--><!]]>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"70db2ece8c","applicationID":"7066026","transactionName":"Nl1TMhcAWRFRW0BeCw8XcAURCFgMH2dGUhIIS1gJCwhZBW9OXVIT","queueTime":0,"applicationTime":1848,"atts":"GhpQRF8aSh8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>

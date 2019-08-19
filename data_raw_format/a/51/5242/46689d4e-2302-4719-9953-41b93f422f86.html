@@ -1,0 +1,269 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Expires" content="-1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<title>CHENG, Bonnie Hayden | Poly management and marketing</title>
+	<link href="css/add_mm_style.css" rel="stylesheet" type="text/css">
+	<link href="css/thickbox90.css" rel="stylesheet" type="text/css">
+	<link href="css/selectbox.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="js/common.js"></script>
+	<script language="javascript" type="text/javascript" src="js/jquery.js"></script>
+	<script language="javascript" type="text/javascript" src="js/thickbox.js"></script>
+	<script language="javascript" type="text/javascript" src="js/swfobject.js"></script>
+	<script language="javascript" type="text/javascript" src="js/jquery.selectbox-0.4.js"></script>
+
+	<script language="javascript" type="text/javascript" src="js/jq_control.js"></script>
+	<script language="javascript" type="text/javascript" src="js/layer.js"></script>
+	<script>
+		var jump2ID = new Array(1,18,21,26,39);
+		var currentFlashInNum = 3;
+		var jump2obj = ['<a href="content.php?id=145&content=role&aid=1">Academic Advising</a>',
+			'<a href="content.php?id=19&content=role&aid=1">Student Profiles</a>',
+			'<a href="content.php?id=22&content=role&aid=1">Academic Staff</a>',
+			'<a href="content.php?id=27&content=role&aid=1">What\'s New</a>',
+			'<a target="_blank" href="http://www.fb.polyu.edu.hk/wie.aspx">Recruit our students</a>'];
+		
+		function rollOverMenu(inNum){
+			try{
+				thisMovie("topMenu").overMenu(inNum);
+			}catch(e){}
+		}
+		function rollOutMenu(inNum){
+			try{
+				thisMovie("topMenu").outMenu(inNum);
+			}catch(e){}
+		}
+		function thisMovie(movieName) {
+			if (navigator.appName.indexOf("Microsoft") != -1) {
+				return window[movieName]
+			}else {
+				return document[movieName]
+			}
+		}
+		function trim(str){
+			return str.replace(/^\s+|\s+$/g,"");
+		}
+		function jump(index){
+			if(jump2obj[index-1] == 'subSectionDefault'){
+				var theA = $('ul.layerMenu:eq('+(index-1)+')').find('li:eq(0) a');
+				if(theA.attr('target') == "_blank"){
+					newWin = window.open(theA.attr('href'), 'thewin')
+				}else{
+					location.href = (theA.attr('href'));
+				}
+			}else{
+				var href = jump2obj[index-1].match(/href=\"([^"]*)\"/);
+				var target = jump2obj[index-1].match(/target=\"([^"]*)\"/);
+				if(target){
+					if(target[1]=="_blank"){
+						newWin = window.open(href[1], 'thewin')
+					}else{
+						location.href = href[1];
+					}
+				}else{
+					location.href = href[1];
+				}
+			}
+		}
+	</script>
+</head>
+<body leftmargin="0" rightmargin="0" topmargin="0" style="background-color: rgb(231, 242, 214);" marginwidth="0" marginheight="0"><!-- top : Start -->
+<table width="1000" align="center" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+    <td class="column_1"><img src="images/spacer.gif" width="10" height="10"></td>
+    <td class="contentTable" width="100%">
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+	  <tbody><tr>
+	    <td class="column_2">&nbsp;</td>
+	    <td class="column_3"><a href="index.php"><img src="images/mm_logo.gif" alt="" width="174" height="101" border="0"></a></td>
+	    <td class="column_4">&nbsp;</td>
+	    <td class="column_5">
+		<table width="100%" cellspacing="0" cellpadding="0" border="0">
+		  <tbody><tr>
+		    <td><div id="flashcontent"></div>
+			<script type="text/javascript">		
+				var so = new SWFObject("images/topMenu.swf", "topMenu", "600", "79", "8","#FFFFFF");
+				so.addParam("allowScriptAccess", "always");
+				so.addParam("allowFullScreen", "false");
+				so.addParam("wmode", "transparent");
+				so.addVariable("sectionID", "3");
+				so.write("flashcontent");
+			</script>
+		    </td><td width="100%"><a href="http://www.polyu.edu.hk/fb" target="_blank"><img src="images/logo_business.gif" border="0"></a></td>
+		  </tr>
+		</tbody></table><img src="images/spacer.gif" width="2" height="2"><br>
+		<table width="100%" cellspacing="0" cellpadding="0" border="0">
+		 <tbody><tr><td class="headingbox"><img src="images/heading_staff.gif" alt="" height="20"></td>
+		 <td class="pathbox"><a href="./">Home</a> &gt; <a href="content.php?id=21&amp;content=role&amp;aid=1" class="subSectionDefault">Staff</a> &gt; <a href="content.php?id=22&amp;content=role&amp;aid=1">Academic Staff</a> &gt; </td>
+		 <td class="printbox" width="61" align="center"><a href="#"><img src="images/btnPrint.gif" id="btn_print" class="btn_over" width="38" height="15" border="0"></a></td>
+		</tr></tbody></table>
+		</td>
+    	<td class="column_6">&nbsp;</td>
+	  </tr>
+	</tbody></table>
+	</td>
+    <td class="column_7"><img src="images/spacer.gif" width="10" height="10"></td>
+  </tr>
+</tbody></table>
+<table width="1000" align="center" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+    <td class="column_1"><img src="images/spacer.gif" width="10" height="10"></td>
+    <td class="contentTable" width="100%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+        <td class="column_2">&nbsp;</td>
+        <td class="column_3">
+		<table width="174" cellspacing="0" cellpadding="0" border="0">
+	      <tbody><tr>
+	        <td><img src="images/menu2_title_3.gif" alt=""></td>
+	      </tr>
+	      <tr>
+	        <td class="menu2BtnTable">
+	<ul>
+		<li><div class="leftMenu2_HL"><a href="content.php?id=22&amp;content=role&amp;aid=1">Academic Staff</a></div></li>
+		<li><div class="leftMenu2"><a href="content.php?id=23&amp;content=role&amp;aid=1">Adjunct Professors and External Advisors</a></div></li>
+		<li><div class="leftMenu2"><a href="content.php?id=106&amp;content=role&amp;aid=1">Research Staff</a></div></li>
+		<li><div class="leftMenu2"><a href="content.php?id=158&amp;content=role&amp;aid=1">Department &amp; Programme Leadership</a></div></li>
+	</ul>
+			</td>
+	      </tr>
+	      <tr>
+	        <td><img src="images/menu2_bottom.gif" alt="" width="174" height="4"></td>
+	      </tr>
+	    </tbody></table>
+	
+	<!-- Left Bottom Menu -->
+	<!-- array (
+  6 => '<li><a href="content.php?id=22&content=area&aid=45" class="subSectionDefault"><img src="images/menu1_1_0.gif" class="btn_over"  border="0" /></a><ul class="layerMenu2"><li><a href="content.php?id=22&content=area&aid=46">Introduction</a></li><li><a href="content.php?id=22&content=area&aid=47">Mission</a></li><li><a href="content.php?id=22&content=area&aid=173">Location</a></li><li><a href="http://www.polyu.edu.hk/mm/mm_dev/content.php?id=22&content=role&aid=1">Academic Staff</a></li></ul></li>',
+  7 => '<li><a href="content.php?id=22&content=area&aid=49" class="subSectionDefault"><img src="images/menu1_2_0.gif" class="btn_over"  border="0" /></a><ul class="layerMenu2"><li><a href="content.php?id=22&content=area&aid=50" class="subSectionDefault">Programmes</a><ul class="btn_layer_2"><li><a href="content.php?id=22&content=area&aid=135">Bachelor\'s Degree</a></li><li><a href="content.php?id=22&content=area&aid=152">Master\'s Degree</a></li><li><a href="content.php?id=22&content=area&aid=53">PhD</a></li></ul></li><li><a href="content.php?id=22&content=area&aid=164" class="subSectionDefault">Subject Syllabi</a><ul class="btn_layer_2"><li><a href="content.php?id=22&content=area&aid=165">Undergraduate</a></li><li><a href="content.php?id=22&content=area&aid=168">Postgraduate</a></li></ul></li><li><a href="content.php?id=22&content=area&aid=55" class="subSectionDefault">Application information</a><ul class="btn_layer_2"><li><a target="_blank" href="http://www51.polyu.edu.hk/eprospectus/">BBA</a></li><li><a target="_blank" href="http://www38.polyu.edu.hk/aseprospectus/jsp/index.jsp?websiteId=4&schemeId=201110&langId=1">MSc</a></li><li><a href="content.php?id=2&content=area&aid=53">PhD</a></li></ul></li></ul></li>',
+  8 => '<li><a href="content.php?id=22&content=area&aid=59" class="subSectionDefault"><img src="images/menu1_3_0.gif" class="btn_over"  border="0" /></a><ul class="layerMenu2"><li><a href="content.php?id=22&content=area&aid=62" class="subSectionDefault">Publications</a><ul class="btn_layer_2"><li><a href="content.php?id=22&content=area&aid=76">Selected Recent Publications</a></li><li><a href="content.php?id=22&content=area&aid=83">Recent MIS Publication</a></li><li><a href="content.php?id=22&content=area&aid=84">Recent MKTG Publication</a></li><li><a href="content.php?id=22&content=area&aid=85">Recent OB/HRM Publication</a></li><li><a href="content.php?id=22&content=area&aid=86">Recent SM/PSM Publication</a></li></ul></li><li><a href="content.php?id=22&content=area&aid=61" class="subSectionDefault">Research Projects</a><ul class="btn_layer_2"><li><a href="content.php?id=22&content=area&aid=120">On-going Research Projects</a></li><li><a href="content.php?id=22&content=area&aid=119">RGC GRF Projects</a></li></ul></li><li><a href="content.php?id=22&content=area&aid=60" class="subSectionDefault">Research Seminars</a><ul class="btn_layer_2"><li><a href="content.php?id=22&content=area&aid=182">Year 2016-2017</a></li><li><a href="content.php?id=22&content=area&aid=177">Year 2015-2016</a></li><li><a href="content.php?id=22&content=area&aid=176">Year 2014-2015</a></li><li><a href="content.php?id=22&content=area&aid=171">Year 2013-2014</a></li><li><a href="content.php?id=22&content=area&aid=163">Year 2012-2013</a></li><li><a href="content.php?id=22&content=area&aid=132">Year 2011-2012</a></li><li><a href="content.php?id=22&content=area&aid=117">Year 2010-2011</a></li><li><a href="content.php?id=22&content=area&aid=111">Year 2009-2010</a></li><li><a href="content.php?id=22&content=area&aid=78">Year 2008-2009</a></li><li><a href="content.php?id=22&content=area&aid=79">Year 2007-2008</a></li><li><a href="content.php?id=22&content=area&aid=81">Year 2006-2007</a></li></ul></li><li><a href="content.php?id=22&content=area&aid=63">Related Websites</a></li></ul></li>',
+  9 => '<li><a href="content.php?id=22&content=area&aid=64" class="subSectionDefault"><img src="images/menu1_4_0.gif" class="btn_over"  border="0" /></a><ul class="layerMenu2"><li><a href="content.php?id=22&content=area&aid=89">Newsletter</a><ul class="btn_layer_2"><li><a href="content.php?id=22&content=area&aid=178">Nov 2015</a></li><li><a href="content.php?id=22&content=area&aid=175">May 2014</a></li><li><a href="content.php?id=22&content=area&aid=170">May 2013</a></li><li><a href="content.php?id=22&content=area&aid=169">September 2012</a></li><li><a href="content.php?id=22&content=area&aid=134">January 2012</a></li><li><a href="content.php?id=22&content=area&aid=131">July 2011</a></li><li><a href="content.php?id=22&content=area&aid=130">January 2011</a></li><li><a href="content.php?id=22&content=area&aid=116">2009/10 Semester 2</a></li><li><a href="content.php?id=22&content=area&aid=114">2009/10 Semester 1</a></li><li><a href="content.php?id=22&content=area&aid=109">2008/09 Semester 2</a></li><li><a href="content.php?id=22&content=area&aid=100">2008/09 Semester 1</a></li><li><a href="content.php?id=22&content=area&aid=104">2007/08 Semester 2</a></li><li><a href="content.php?id=22&content=area&aid=101">2007/08 Semester 1</a></li><li><a href="content.php?id=22&content=area&aid=91">2006/07 Semester 2</a></li><li><a href="content.php?id=22&content=area&aid=92">2006/07 Semester 1</a></li><li><a href="content.php?id=22&content=area&aid=93">2005/06</a></li></ul></li><li><a href="content.php?id=22&content=area&aid=66">Upcoming Events</a></li><li><a href="content.php?id=22&content=area&aid=68">Photo Gallery</a></li><li><a href="content.php?id=22&content=area&aid=72">Video Library</a></li></ul></li>',
+  10 => '<li><a target="_blank" href="http://www.polyu.edu.hk/mm/acbm/"><img src="images/menu1_5_0.gif" class="btn_over"  border="0" /></a></li>',
+  12 => '<li><a target="_blank" href="http://www.polyu.edu.hk/mm/cli"><img src="images/menu1_7_0.gif" class="btn_over"  border="0" /></a></li>',
+  13 => '<li><a target="_blank" href="http://www.polyu.edu.hk/mm/smrc"><img src="images/menu1_8_0.gif" class="btn_over"  border="0" /></a></li>',
+  14 => '<li><a href="content.php?id=22&content=area&aid=71"><img src="images/menu1_9_0.gif" class="btn_over"  border="0" /></a></li>',
+) -->
+	<table width="174" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+        <td><img src="images/menu1_top.gif" alt=""></td>
+      </tr>
+      <tr>
+        <td class="menu1BtnTable" valign="top"><ul>
+				<li><a href="content.php?id=22&amp;content=area&amp;aid=45" class="subSectionDefault"><img src="images/menu1_1_0.gif" class="btn_over" border="0"></a><ul class="layerMenu2" style="width: 178px; padding: 0px; margin: 0px;"><li><a href="content.php?id=22&amp;content=area&amp;aid=46">Introduction</a></li><li><a href="content.php?id=22&amp;content=area&amp;aid=47">Mission</a></li><li><a href="content.php?id=22&amp;content=area&amp;aid=173">Location</a></li><li><a href="http://www.polyu.edu.hk/mm/mm_dev/content.php?id=22&amp;content=role&amp;aid=1">Academic Staff</a></li></ul></li>
+				<li><a href="content.php?id=22&amp;content=area&amp;aid=49" class="subSectionDefault"><img src="images/menu1_2_0.gif" class="btn_over" border="0"></a><ul class="layerMenu2" style="width: 178px; padding: 0px; margin: 0px;"><li><a href="content.php?id=22&amp;content=area&amp;aid=50" class="subSectionDefault extra">Programmes</a><ul class="btn_layer_2 flashLayerUL2"><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=135" class="newSubmenu2">Bachelor's Degree</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=152" class="newSubmenu2">Master's Degree</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=53" class="newSubmenu2">PhD</a></li></ul></li><li><a href="content.php?id=22&amp;content=area&amp;aid=164" class="subSectionDefault extra">Subject Syllabi</a><ul class="btn_layer_2 flashLayerUL2"><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=165" class="newSubmenu2">Undergraduate</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=168" class="newSubmenu2">Postgraduate</a></li></ul></li><li><a href="http://www51.polyu.edu.hk/eprospectus/" class="subSectionDefault extra" target="_blank">Application information</a><ul class="btn_layer_2 flashLayerUL2"><li class="newSubmenu2"><a target="_blank" href="http://www51.polyu.edu.hk/eprospectus/" class="newSubmenu2">BBA</a></li><li class="newSubmenu2"><a target="_blank" href="http://www38.polyu.edu.hk/aseprospectus/jsp/index.jsp?websiteId=4&amp;schemeId=201110&amp;langId=1" class="newSubmenu2">MSc</a></li><li class="newSubmenu2"><a href="content.php?id=2&amp;content=area&amp;aid=53" class="newSubmenu2">PhD</a></li></ul></li></ul></li>
+				<li><a href="content.php?id=22&amp;content=area&amp;aid=59" class="subSectionDefault"><img src="images/menu1_3_0.gif" class="btn_over" border="0"></a><ul class="layerMenu2" style="width: 178px; padding: 0px; margin: 0px;"><li><a href="content.php?id=22&amp;content=area&amp;aid=62" class="subSectionDefault extra">Publications</a><ul class="btn_layer_2 flashLayerUL2"><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=76" class="newSubmenu2">Selected Recent Publications</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=83" class="newSubmenu2">Recent MIS Publication</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=84" class="newSubmenu2">Recent MKTG Publication</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=85" class="newSubmenu2">Recent OB/HRM Publication</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=86" class="newSubmenu2">Recent SM/PSM Publication</a></li></ul></li><li><a href="content.php?id=22&amp;content=area&amp;aid=61" class="subSectionDefault extra">Research Projects</a><ul class="btn_layer_2 flashLayerUL2"><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=120" class="newSubmenu2">On-going Research Projects</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=119" class="newSubmenu2">RGC GRF Projects</a></li></ul></li><li><a href="content.php?id=22&amp;content=area&amp;aid=60" class="subSectionDefault extra">Research Seminars</a><ul class="btn_layer_2 flashLayerUL2"><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=182" class="newSubmenu2">Year 2016-2017</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=177" class="newSubmenu2">Year 2015-2016</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=176" class="newSubmenu2">Year 2014-2015</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=171" class="newSubmenu2">Year 2013-2014</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=163" class="newSubmenu2">Year 2012-2013</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=132" class="newSubmenu2">Year 2011-2012</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=117" class="newSubmenu2">Year 2010-2011</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=111" class="newSubmenu2">Year 2009-2010</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=78" class="newSubmenu2">Year 2008-2009</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=79" class="newSubmenu2">Year 2007-2008</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=81" class="newSubmenu2">Year 2006-2007</a></li></ul></li><li><a href="content.php?id=22&amp;content=area&amp;aid=63">Related Websites</a></li></ul></li>
+				<li><a href="content.php?id=22&amp;content=area&amp;aid=64" class="subSectionDefault"><img src="images/menu1_4_0.gif" class="btn_over" border="0"></a><ul class="layerMenu2" style="width: 178px; padding: 0px; margin: 0px;"><li><a href="content.php?id=22&amp;content=area&amp;aid=89" class="extra">Newsletter</a><ul class="btn_layer_2 flashLayerUL2"><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=178" class="newSubmenu2">Nov 2015</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=175" class="newSubmenu2">May 2014</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=170" class="newSubmenu2">May 2013</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=169" class="newSubmenu2">September 2012</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=134" class="newSubmenu2">January 2012</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=131" class="newSubmenu2">July 2011</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=130" class="newSubmenu2">January 2011</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=116" class="newSubmenu2">2009/10 Semester 2</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=114" class="newSubmenu2">2009/10 Semester 1</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=109" class="newSubmenu2">2008/09 Semester 2</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=100" class="newSubmenu2">2008/09 Semester 1</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=104" class="newSubmenu2">2007/08 Semester 2</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=101" class="newSubmenu2">2007/08 Semester 1</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=91" class="newSubmenu2">2006/07 Semester 2</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=92" class="newSubmenu2">2006/07 Semester 1</a></li><li class="newSubmenu2"><a href="content.php?id=22&amp;content=area&amp;aid=93" class="newSubmenu2">2005/06</a></li></ul></li><li><a href="content.php?id=22&amp;content=area&amp;aid=66">Upcoming Events</a></li><li><a href="content.php?id=22&amp;content=area&amp;aid=68">Photo Gallery</a></li><li><a href="content.php?id=22&amp;content=area&amp;aid=72">Video Library</a></li></ul></li>
+				<li><a target="_blank" href="http://www.polyu.edu.hk/mm/acbm/"><img src="images/menu1_5_0.gif" class="btn_over" border="0"></a></li>
+				
+				<li><a target="_blank" href="http://www.polyu.edu.hk/mm/cli"><img src="images/menu1_7_0.gif" class="btn_over" border="0"></a></li>
+				<li><a target="_blank" href="http://www.polyu.edu.hk/mm/smrc"><img src="images/menu1_8_0.gif" class="btn_over" border="0"></a></li>
+				<li><a href="content.php?id=22&amp;content=area&amp;aid=71"><img src="images/menu1_9_0.gif" class="btn_over" border="0"></a></li>
+			</ul></td>
+      </tr>
+      <tr>
+        <td><img src="images/menu1_bottom.gif" alt=""></td>
+      </tr>
+    </tbody></table><ul class="layerMenu" style="z-index: 5000;"><li><a class="newSubmenu" href="content.php?id=145&amp;content=role&amp;aid=1">Academic Advising</a></li><li><a class="newSubmenu" href="content.php?id=146&amp;content=role&amp;aid=1">Awards and Scholarship </a></li><li><a class="newSubmenu" href="content.php?id=147&amp;content=role&amp;aid=1">Dean's List</a></li><li><a class="newSubmenu" target="_blank" href="http://www.fb.polyu.edu.hk/resources_for_students.aspx">FB Resources for Students</a></li><li><a class="newSubmenu" target="_blank" href="http://edc.polyu.edu.hk/sfq-collect-system-FBg.htm">Student Feedback Questionnaire (SFQ)</a></li><li><a class="newSubmenu" target="_blank" href="http://mms13invictus.wix.com/13invictus">Student Society</a></li><li><a class="newSubmenu" href="content.php?id=150&amp;content=role&amp;aid=1">Whole Person Development Programme (WPDP)</a></li><li><a class="newSubmenu" href="content.php?id=3&amp;content=role&amp;aid=1">Work Integrated Education (WIE)</a></li><li><a class="newSubmenu" href="content.php?id=151&amp;content=role&amp;aid=1">Useful links for students</a></li></ul>
+<ul class="layerMenu" style="z-index: 5000;"><li><a class="newSubmenu" href="content.php?id=19&amp;content=role&amp;aid=1">Student Profiles</a></li><li><a class="newSubmenu" href="content.php?id=20&amp;content=role&amp;aid=1">Area of research interests</a></li><li><a class="newSubmenu" href="content.php?id=133&amp;content=role&amp;aid=1">PhD Graduates Placement</a></li></ul>
+<ul class="layerMenu" style="z-index: 5000;"><li><a class="newSubmenu" href="content.php?id=22&amp;content=role&amp;aid=1">Academic Staff</a></li><li><a class="newSubmenu" href="content.php?id=23&amp;content=role&amp;aid=1">Adjunct Professors and External Advisors</a></li><li><a class="newSubmenu" href="content.php?id=106&amp;content=role&amp;aid=1">Research Staff</a></li><li><a class="newSubmenu" href="content.php?id=158&amp;content=role&amp;aid=1">Department &amp; Programme Leadership</a></li></ul>
+<ul class="layerMenu" style="z-index: 5000;"><li><a class="newSubmenu" href="content.php?id=27&amp;content=role&amp;aid=1">What's New</a></li><li><a class="newSubmenu" href="content.php?id=37&amp;content=role&amp;aid=1">Alumni Associations</a></li><li><a class="newSubmenu" href="content.php?id=38&amp;content=role&amp;aid=1">Contact</a></li></ul>
+<ul class="layerMenu" style="z-index: 5000;"><li><a class="newSubmenu extra" target="_blank" href="http://www.fb.polyu.edu.hk/wie.aspx">Recruit our students</a><ul class="flashLayerUL" style="display:none"><li class="newSubmenu2"><a class="newSubmenu2" target="_blank" href="http://www.fb.polyu.edu.hk/wie.aspx">Work Integrated Education (WIE)</a></li></ul></li><li><a class="newSubmenu" href="content.php?id=41&amp;content=role&amp;aid=1">Be our mentors</a></li><li><a class="newSubmenu" href="content.php?id=42&amp;content=role&amp;aid=1">Be our sponsors</a></li><li><a class="newSubmenu" href="content.php?id=174&amp;content=role&amp;aid=1">Departmental Advisory Committee</a></li></ul>
+</td> 
+        <td class="column_4">&nbsp;</td>
+<!-- top : End -->
+        <td class="column_5"><table cellspacing="0" cellpadding="0" border="0">
+          <tbody><tr>
+            <td class="titlebox"><span class="pagetitle">CHENG, Bonnie Hayden - Academic Staff</span>			</td>
+          </tr>
+          <tr>
+            <td><table cellspacing="0" cellpadding="0" border="0">
+              <tbody><tr>
+                <td class="contentArea"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td>
+<link href="staff_seo/layout.css" rel="stylesheet" type="text/css">
+<!--[if IE 6]>
+<link rel="stylesheet" href="staff_seo/IE.css" type="text/css" />
+<![endif]-->
+				<div class="poly-r-ino">
+			      <div class="borbg">
+			        <div class="corner">
+			          <div id="info">
+			            <p class="photo"><img alt="CHENG, Bonnie Hayden 陳浩然" title="CHENG, Bonnie Hayden 陳浩然" src="other/staff_photo/cheng_bonnie_hayden.jpg" width="105" height="141"></p>
+			            <h2>CHENG, Bonnie Hayden</h2>
+			            <p>陳浩然</p>
+			            <p><b>Assistant Professor</b></p>
+			            <p>助理教授</p>
+			          </div>
+			          <div class="poly-r-sub">
+			            <p>MA (University of Toronto); PhD (University of Toronto)</p>
+			          </div>
+			        </div>
+			        <div class="corner-bottom"></div>
+			        <div class="poly-r-contact">
+			          <p><span class="cv">CV:</span> <a href="attachment.php?code=c3RhZmY=&amp;type=Y3Y=&amp;staff_id=98" style="font-size: 1.2em">Please click</a></p>
+			          <p><span>Email:</span> <a href="mailto:bonnie.cheng@polyu.edu.hk">bonnie.cheng@polyu.edu.hk</a></p>
+			          <p class="top10"><span>Research Interests:</span> </p>
+			          <p>Emotional Well-being: Workplace Anxiety, Work-life Balance, Work Recovery </p>
+			        </div>
+			        <div class="poly-r-moreinfo">
+			          Bonnie received her MA degree in social/personality psychology, and her PhD degree in Organizational Behavior and Human Resource Management. Her research is dedicated to helping employees achieve and maintain emotional well-being in the workplace. This includes understanding and managing workplace anxiety, finding balance among work, family, and personal development roles, and coping and recovering from job demands. She has published in journals such as Academy of Management Journal, Journal of Personality and Social Psychology, and Journal of Occupational Health Psychology. In addition, her research has been featured in leading media sources such as Globe and Mail, Wall Street Journal, The Economist, and New York Times. Bonnie teaches Organizational Behavior.
+			        </div>
+			      </div>
+			      <p class="back"><a href="/mm/mm_dev/content.php?id=22&amp;content=role&amp;aid=1"><img src="http://www.polyu.edu.hk/mm/mm_dev/images/upload/en/images/button/btnback.gif"></a></p>
+			    </div>
+						  <!-- bottom : Start -->  </td></tr>
+                </tbody></table></td>
+                <td class="contentSide">&nbsp;</td>
+              </tr>
+              <tr style="height:0px;">
+                <td style="visibility:hidden;width:699px;height:0px;"></td>
+                <td style="visibility:hidden;height:0px;" valign="middle" align="center"><a href="#"><img src="images/btnTop.gif" class="btn_over" border="0"></a></td>
+              </tr>
+            </tbody></table></td>
+          </tr>         
+        </tbody></table></td>
+        <td class="column_6">&nbsp;</td>
+      </tr>
+    </tbody></table></td>
+    <td class="column_7"><img src="images/spacer.gif" width="10" height="10"></td>
+  </tr>
+  <tr>
+	<td colspan="1"></td>
+	<td bgcolor="#FFFFFF"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+			<td width="200px;"></td>
+			<td><img src="images/content_bottom.gif" height="66"></td>
+			<td valign="middle" align="center"><a href="#"><img src="images/btnTop.gif" class="btn_over" border="0"></a></td>
+			<td class="column_6"></td>
+		</tr>
+	</tbody></table></td>
+  </tr>
+</tbody></table><!-- bottom : End -->
+<table width="1000" align="center" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+    <td class="column_1"><img src="images/spacer.gif" width="10" height="10"></td>
+    <td class="footer" width="100%"><a href="content.php?id=96&amp;content=area&amp;aid=96">Privacy Policy Statement</a> <img src="images/spacer.gif" width="10" height="1">|<img src="images/spacer.gif" width="10" height="1"><a href="http://www.polyu.edu.hk" target="_blank">PolyU Home</a><img src="images/spacer.gif" width="10" height="1">|<img src="images/spacer.gif" width="10" height="1"><a href="special.php?sitemap">Site Map</a><img src="images/spacer.gif" width="10" height="1">|<img src="images/spacer.gif" width="10" height="1"><a href="content.php?id=33&amp;content=area&amp;aid=70">Job Vacancies</a> <br>
+    Copyright © 2017 Department of Management &amp; Marketing. All rights reserved.</td>
+<td class="footer" align="right"><img src="images/80A_Logo_RGB.png" border="0"></td>
+<td class="footer" align="left"><a href="http://www.polyu.edu.hk/" target="_blank"><img src="images/logo_polyu.png" border="0"></a></td>
+    <td class="column_7"><img src="images/spacer.gif" width="10" height="10"></td>
+  </tr>
+</tbody></table>
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26245804-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+
+</body></html>

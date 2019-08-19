@@ -1,0 +1,27 @@
+Robert Candler
+Robert Candler
+Associate Professor
+Primary Area: Physical and Wave Electronics
+Office: 6731H Boelter Hall
+Phone: (310) 825-4161
+E-mail: rcandler@ee.ucla.edu
+Research Lab: Sensors and Technology Laboratory
+  Research and Teaching Interests:
+MEMS and nanoscale devices, fundamental limitations of sensors, micromagnetic devices for advanced light sources, biological and chemical sensing
+  Awards and Recognitions
+2014 NSF Career Award for his research entitled, “Microscale Magnetic Devices for Next Generation Coherent X-Ray Sources”.
+2014 W.M. Keck Foundation Research Grant
+2012 Army Research Office Young Investigator Award for his research entitled, “Energy Dissipation in Nanomechanical Resonators”.
+2012 Northrop Grumman Excellence in Teaching Award
+  Selected Publications
+J. Harrison, Y. Hwang, O. Paydar, J. Wu, E. Threlkeld, J. Rosenzweig, P. Musumeci, R. N. Candler, “High-gradient MEMS quadrupole electromagnets for particle beam focusing and steering,” Physical Review Special Topics on Accelerators and Beams, In Press.
+J. Harrison, O. H. Paydar, Y. Hwang, J. Wu, E. Threlkeld, J. Rosenzweig, P. Musumeci, R. N. Candler, “Fabrication Process for micromachined multi-pole electromagnets”, JMEMS Letter, Vol. 23, No. 3, 2014.
+O.H. Paydar, C. N. Paredes, Y. Hwang, J. Paz, N. B. Shah, R. N. Candler, “Characterization of 3D-printed microﬂuidic chip interconnects with integrated O-rings,” Sensors and Actuators A, 205, 199–203, 2014.
+Y. Hwang, H. Sohn, A. Phan, O. M. Yaghi, R. N. Candler, “Dielectrophoresis-Assembled Zeolitic Imidazolate Framework Nanoparticle-Coupled Resonators for Highly Sensitive and Selective Gas Detection,” Nanoletters, 13 (11), pp. 5271-5276, 2013
+J. Lake, A. Duwel, R. N. Candler, “Particle Swarm Optimization for Design of Slotted MEMS Resonators with Low Thermoelastic Dissipation”, Journal of Microelectromechanical Systems, Vol. 23, Issue 2, pp. 364-371, 2013.
+S.S. Iyer, R. Vedad-Ghavami, H. Lee, M. Liger, H. P. Kavehpour, and R. N. Candler, “Nonlinear damping for vibration isolation of microsystems using shear thickening fluid”, Appl. Phys. Lett. 102, 251902 (2013).
+J. Harrison, A. Joshi, J. Lake, R. N. Candler, P. Musumeci, “Surface-micromachined magnetic undulator with period length between 10  μm and 1 mm for advanced light sources,” Physical Review Special Topics on Accelerators and Beams, vol. 15, issue 7, pp. 070703, 2012.
+R.N. Candler, “Etiquette for Engineers: Tips for Getting a Great Letter of Recommendation,” IEEE Potentials, Vol 30, no. 4, pp. 14-16, 2011.
+R.N. Candler, “Stuff Most Students Never Ask About Grad School,” IEEE Potentials, vol. 24, pp. 4-10, 2005.
+UCLA    HSSEAS    Terms of Use    Contact Us    Emergency/Lab Safety    Accessibility    Sitemap    
+© Copyright 2017 UCLA Engineering

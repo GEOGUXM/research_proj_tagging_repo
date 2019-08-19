@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="72e73cfb-425f-4dcc-9e9b-8a0aa71d030a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nn1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/nn1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +28,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/nn2.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../affiliation_file_produce_code" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -135,7 +134,8 @@
       <updated>1564549776602</updated>
       <workItem from="1564549778781" duration="944000" />
       <workItem from="1564634063484" duration="8908000" />
-      <workItem from="1564699142194" duration="4166000" />
+      <workItem from="1564699142194" duration="5700000" />
+      <workItem from="1565224832806" duration="17000" />
     </task>
     <servers />
   </component>

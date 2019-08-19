@@ -1,0 +1,30 @@
+Skip to Content
+Studies
+Life and housing
+Research
+About NTNU
+Search
+Employees
+Timo Matteo van Opstal
+Department of Mathematical Sciences
+timo.vanopstal@ntnu.no
+Scientific, academic and artistic work
+A selection of recent journal publications, artistic productions, books, including book and report excerpts. See all publications in the database
+Journal publications
+van Opstal, Timo Matteo. (2016) Finite-element/boundary-element coupling for inflatables: Effective contact resolution. Modeling and Simulation in Science, Engineering and Technology.
+van Opstal, Timo Matteo; Yan, Jinhui; Coley, Christopher; Evans, John Andrew; Kvamsdal, Trond; Bazilevs, Yuri. (2016) Isogeometric Divergence-Conforming Variational Multiscale Formulation of Incompressible Turbulent Flows. Computer Methods in Applied Mechanics and Engineering.
+van Opstal, Timo Matteo; Bauman, Paul; Prudhomme, Serge; van Brummelen, Harald. (2015) Goal-oriented model adaptivity for viscous incompressible flows. Computational Mechanics. vol. 55 (6).
+van Opstal, Timo Matteo; Fonn, Eivind; Holdahl, Runar; Kvamsdal, Trond; Kvarving, Arne Morten; Mathisen, Kjell Magne; Nordanger, Knut; Okstad, Knut Morten; Rasheed, Adil; Tabib, Mandar. (2015) Isogeometric methods for CFD and FSI-simulation of flow around turbine blades. Energy Procedia. vol. 80.
+van Opstal, Timo Matteo; van Brummelen, Harald; van Zwieten, Gertjan. (2015) A finite-element/boundary-element method for three-dimensional, large-displacement fluid–structure-interaction. Computer Methods in Applied Mechanics and Engineering. vol. 284.
+Norwegian University of Science and Technology
+Contact us
+Phone: +47 73595000
+Map of NTNU
+Sitemap
+Studies A to Z
+Courses A to Z
+Research A to Z
+Search for employees
+About cookies
+Editorial Responsibility
+Sign in

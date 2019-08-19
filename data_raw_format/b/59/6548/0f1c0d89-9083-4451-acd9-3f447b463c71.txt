@@ -1,0 +1,49 @@
+Skip to navigation
+Skip to content
+Search: 
+Lund University
+Automatic Control
+Navigation
+Home
+Education
+Research
+Publications
+Seminars and Events
+Staff
+Alumni
+Carolina Lidström
+Contact Information
+LCCC Linnaeus Center
+ELLIIT Excellence Center
+PICLU Process Industrial Center
+WASP Autonomous Systems and Software Program
+Vad är reglerteknik?
+Lund University Faculty of Engineering Automatic Control
+Carolina Lidström
+Ph.D. Student
+carolina.lidstrom@control.lth.se
+Phone: +46 46 222 15 70
+Fax: +46 46 13 81 18
+Ph. D student since June 2013. My research is on distributed control with applications for energy networks. 
+I defended my Licenciate thesis On Scalable H-infinity Control on the 16th of June, 2016. The work focuses on scalable methods for H-infinity state feedback control. 
+  CV
+  Teaching
+Fall 2013-16:  Physiological Models and Computations 
+Spring 2015-16: Network Dynamics
+  Courses
+Convex Optimization (7.5 ECTS)
+Matrix Theory (7.5 ECTS)
+Network Dynamics (9 ECTS)
+Introduction to Teaching and Learning in Higher Education (3 ECTS)
+Functional Analysis in System Theory (9 ECTS)
+Theory of Stochastic Processes (7.5 ECTS)
+Statistical Machine Learning (9 ECTS)
+Optimal Control (7.5 ECTS)
+Communicating Science (5 ECTS)
+Linear Systems (9 ECTS)
+Bioinformatics (5 ECTS)
+Integration Theory (7.5 ECTS)
+Electric Power Systems (7.5 ECTS)
+ 
+© Copyright 1995-2017 - Lund University
+This site is powered by CMS Made Simple version 1.12.2

@@ -1,0 +1,161 @@
+The University of Southampton
+Courses
+Undergraduate
+Postgraduate taught
+Postgraduate research
+Foundation Years
+How to apply
+Free online learning
+Continuing professional development
+Prospectuses
+Pre-sessional English language courses
+University life
+Choose Southampton
+Fees & funding
+Accommodation
+International students
+Study abroad & exchange
+Campus life
+City life
+Careers & employability
+Arts
+Learning & teaching
+Key dates
+Research
+Our impact
+Facilities
+Centres and institutes
+Funding
+Research & Innovation Services
+Partnerships
+Commercialising research
+Researcher support
+Research integrity
+Business
+Why work with us?
+Collaboration
+Consultancy
+Commercialisation
+Use our facilities
+Connect with our students
+How we operate
+Suppliers
+Make a business enquiry
+Global
+International Office
+Partnerships map
+Partnerships and initiatives
+Visiting fellowships
+Accessibility Tools
+About
+Visit
+Alumni
+Departments
+News
+Events
+Contact
+×
+Music
+Part of Humanities
+Who we are
+Our research
+Undergraduate study
+Postgraduate study
+Outreach
+Our news, events & seminars
+Blog
+Contact us
+Right
+Our staff
+What our students think
+Home
+>Music>Who we are>Our staff
+Phone:
+(023) 8059 3188
+Email:
+R.Polfreman@soton.ac.uk
+Dr Richard Polfreman MA (cantab), MSc, PhD
+Associate Professor in Music
+Related links
+My research explores the interface between musicians and technology, looking for novel ways in which to enhance the experience for performers, composers and musicologists.
+I'm an Associate Professor in Music at Southampton, and music technology is at the heart of my teaching, research and professional activities.
+A £20,000 synthesizer from the 1980s, is now a £40 app on my phone! Technology keeps redefining what is possible in music, and finding new ways to deploy it is incredibly exciting.
+Music technology is at the heart of my teaching, research and professional activity, and it has been a passionate interest of mine for over 30 years. I teach a number of technology-based modules on the BA Music and supervise postgraduate projects in this area, as well as managing the recording studios. Previously I have been MMus Coordinator and Director of Undergraduate Programmes for Music.
+I usually teach: Introduction to Music Technology, a second-year module that explores historical, technical and practical aspects of music technology; Studio Techniques I, a second-year module that applies practical and technical ideas to studio recording and production; and Studio Techniques II, a final-year project-based module in which students can pursue their own studio/technology interests. 
+After studying Natural Sciences at the University of Cambridge and Digital Music Technology at Keele, my doctorate at the University of Hertfordshire focused on the needs of composers in the design of computer software for sound synthesis and manipulation. After a number of years as a research fellow, I joined the Music Department at Southampton in 2004.
+I have collaborated with IRCAM (Paris) and INA-GRM (Paris) on a number of projects involving the design of innovative music software, and have taken part in various research council funded projects exploring applications of computing and music, such as Re:Wired (AHRC), musicSpace (AHRC-EPSRC-JISC), morefrommusic (AHRC) and Hands On Sound (AHRC). I have worked on a wide range of industry projects involving the use of music technology in live performance and installations, many of which were in collaboration with Sound Intermedia (London), including world premieres of works by Benedict Mason, Jonathan Harvey, Harrison Birtwistle and Simon Bainbridge, as well as a number of re-workings of compositions by Luigi Nono. My current research is focused on real-time interaction with sound synthesis using non-standard controllers.
+Research
+Publications
+Projects
+Contact
+Research interests
+My main research interests focus on music related Human-Computer Interaction and the ways in which musicians interact with computers in order to achieve creative goals. I have been involved in a number of projects in this and related areas, including:
+Hands-On Sound (ongoing)
+This AHRC-funded Collaborative Doctoral Award is in partnership with the London Sinfonietta, Sound Intermedia and Cheryl Metcalf in the Faculty of Health Sciences. The award is funding a PhD student to explore real-time musical applications of a variety of hand and arm scale motion tracking systems.
+Synthesizer Parameter Mapping for Sound Design (ongoing)
+This project involves PhD student Darrell Gibson, who is investigating interpolation systems for controlling sound synthesis in sound design applications.
+Multi-Modal Instrument (ongoing)
+In this project I am building a test-bed for exploring non-standard controllers in the context of real-time physical modelling synthesis. Physical modelling uses mathematical acoustic models to simulate the physical interactions between vibrating objects (such as strings, tubes, membranes) and drivers (such as plectrums, bows, reeds) in order to create sounds close to those of physical instruments.
+SEMANTICS (2008–12)
+In this project, which was co-supervised at the University of Hertfordshire with Aladdin Ariyaeeinia, PhD student Stratis Sofianos worked on the automatic extraction of singing voice from stereo recordings using Independent Component Analysis and other techniques. The aim was that this stage could then be used to pre-process audio for further analysis such as lyrics recognition.
+More from Music (2013)
+This AHRC-funded work followed on from the Compositions for Cochlear Implantees project, and involved the further development of the IMAP (Interactive Music Awareness Programme) – a rehabilitation software package to help cochlear implant users regain appreciation of music. The project was a collaboration between ISVR, the University of Southampton’s Music Department and the Auditory Implant Service, as well as members of the UK National Cochlear Implant Users Association, led by Rachel Van Besouw (ISVR) and Benjamin Oliver (University of Southampton).
+musicSpace (2007–10)
+This AHRC-EPSRC-JISC funded project involved using Web 2.0 and Semantic Web technologies to develop tools to integrate and enhance musicological metadata. This was a collaboration with m.c.schraefel in Electronics and Computer Science, and involved partner organisations including the British Library, Cecilia, Copac, Grove Music Online, Naxos and RISM (UK & IRL).
+FrameWorks 3D (2004–09)
+This project proposed a new 3D user-interface for sequencing audio data based on interconnected regions with dynamically updated transformations, providing a fluid environment for exploring compositional ideas. It is hoped to develop this idea further in the near future.
+Modalys-ER/MfOM (1997–2003)
+In collaboration with IRCAM (Paris), this project developed a graphical environment for the design of physical model instruments using IRCAM’s Modalys synthesis engine. At the time the synthesis was far from real-time, and the system was designed to support the generation of relatively short musical gestures with the instruments.
+Sound Spotter (1999–2002)
+In collaboration with INA-GRM (Paris), this project involved PhD student Christian Spevak working on the detection of perceptually similar sounds in audio documents (sound spotting). The idea was to select a target event and search for similar occurrences in the document using an auditory model, a self-organizing neural network and pattern matching. The aim was to aid transcription of non-notated music and audio retrieval from archives.
+Interpolator (1999–2001)
+In collaboration with INA-GRM (Paris), this project involved research student Martin Spain developing a graphical interpolation system for controlling GRM-Tools plugins using a light-based model. The aim of the system was to allow rapid exploration of a sound space via the simultaneous and intuitive interpolation of a number of DSP parameters.
+ Affiliate research group
+Composition and Music Technology
+Research project(s)
+musicSpace - Dormant
+This AHRC-EPSRC-JISC-funded project was an interdisciplinary collaboration between Music and Electronics and Computer Science that employed Semantic Web technologies to develop tools to integrate and enhance musicological metadata.
+
+
+
+
+
+
+
+Share this profile
+Facebook Google+ Twitter Weibo
+Information for
+Visitors
+Staff & students
+Schools & colleges
+Researchers
+Employers & recruiters
+Parents & guardians
+Students from outside UK/EU
+Contact us
++44(0)23 8059 5000
++44(0)23 8059 3131
+Address
+University of Southampton
+University Road
+Southampton
+SO17 1BJ
+United Kingdom
+Get directions ›
+Connect with us
+Facebook
+Twitter
+Instagram
+LinkedIn
+YouTube
+Download University of Southampton prospectus
+Download a PDF of our prospectus or order a printed copy to be delivered to your door.
+Download a prospectus
+© 2017 University of Southampton
+Site map
+Freedom of information
+Terms & conditions
+Contact
+Jobs
+We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we will assume that you are happy to receive cookies on the University of Southampton website.
+×

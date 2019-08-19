@@ -1,0 +1,77 @@
+PROSPECTIVE STUDENTS STUDENTS ALUMNI FACULTY / STAFF MEDIA PARTNERS/PEERS LOGIN
+Nanyang Technological University
+Lee Kong Chian School of Medicine
+HOME
+ABOUT US
+ADMISSIONS
+PROGRAMMES
+RESEARCH
+NEWS & EVENTS
+STUDENT LIFE
+
+           Professor Bernard Thorens
+                                                                                                                                                   Research
+Visiting Faculty
+Professor Bernard Thorens
+
+
+Professor Bernard Thorens
+PhD
+Visiting Professor
+Email: Bernnard.Thorens@ntu.edu.sg
+Principal Investigator, Immuno-Metabolism Laboratory
+ 
+
+  Introduction
+Professor Bernard Thorens is a Visiting Professor at Lee Kong Chian School of Medicine, Nanyang Technological University. Prof Thorens spent the last 23 years of his scientific career at the University of Lausanne, Switzerland. After obtaining his PhD in 1984 under the guidance of Prof Pierre Vassalli at the University of Geneva, he started a postdoctoral fellowship in 1989 at the Whitehead Institute for Biomedical Research at Massachusetts Institute of Technology, Cambridge, USA, with Prof Harvey F Lodish. In 1991, he received a Career Development Award to start an independent laboratory at the University of Lausanne. He is now full Professor of Physiology at the Center for Integrative Genomics at the University of Lausanne.
+Prof Thorens is internationally recognised for his contributions to the area of glucose and energy homeostasis, and type 2 diabetes. He has provided fundamental insights into the mechanisms of gluco-incretin hormone action, in particular by cloning and characterising the glucagon-like peptide-1 receptor, and into the molecular physiology of glucose transporters, initiated by the cloning of Glut2 and the identification of glucose sensing mechanisms,particularly in the brain, where it control feeding, thermoregulation and glucagon secretion. He has published over 220 papers in top-ranking journals, book chapters and editorials.
+He is a member of the research council at the Swiss National Science Foundation. He is also the chairman of the steering committee for the Swiss National Programme on Stem Cells and Regenerative Medicine. He is Vice-President of the European Association of the Study of Diabetes (EASD) and he sits on the Scientific Board of the International Group on Insulin Secretion. He has also received several awards, most recently, the Albert Renold Award for outstanding work on the study of pancreatic beta-cell biology from the EASD.
+Research Focus
+The Immuno-Metabolism Laboratory is interested in integrated glucose signaling and type 2 diabetes.
+Glucose homeostasis and glucose signalling
+Glucose homeostasis depends on the balance between glucose ingestion, glucose disposal in insulin target tissues (liver, muscle and fat), and endogenous glucose production. Many of these processes are regulated by the pancreatic islet hormones insulin and glucagon. Type 2 diabetes, a disease characterized by elevated blood glucose concentrations, develops when insulin secretion is no longer able to sufficiently stimulate glucose absorption by peripheral tissues and is also accompanied by excessive secretion of glucagon, which maintains elevated hepatic glucose production. We are interested in the mechanisms that control insulin and glucagon secretion in health and their deregulations in diabetes. We are approaching these questions by identifying novel mechanisms that control insulin secretion through the identification of beta-cell genes and gene pathways that preserve beta-cell function. We also identify glucose sensing cells in the central nervous system that control pancreatic islet cells function through regulation of the activity of the autonomic nervous.  We also investigate the role of these glucose sensing cells in the control of the rewarding system that determined the preference for sugar containing food.
+Brain glucose sensing and the control of beta-cell mass and function
+We have determined that glucose sensing cells expressing the glucose transporter Glut2 are involved in the control by glucose of parasympathetic activity. This glucose-dependent parasympathetic activity stimulates beta-cell proliferation in the postnatal period, controls development of normal adult beta-cell mass, and is required for first phase insulin secretion; these processes are required to preserve normal glucose homeostasis over a lifetime. We are now interested in investigating the role of nutrition and microbiota in the early postnatal period to establish the normal function of the parasympathetic activity and long-term maintenance of normal glycemic control.
+Brain glucose sensing and the control of glucagon secretion
+The brain critically depends on glucose as a source of metabolic energy. Thus, several hypoglycemia detection systems are located in the brain and, when activated by hypoglycemia, induce the secretion of several counterregulatory hormones, in particular glucagon, epinephrine and norepinephrine, and cortisol. A defect in the counterregulatory response is often present in insulin treated diabetic patients and may lead to life-threatening hypoglycemia episodes. We are identifying central glucose sensing cells involved in the counterregulatory response by identifying cells expressing Glut2 or glucokinase, two genes involved in gluco-detection and present in different sets of neurons. Using transgenic mice, electrophysiological analysis, and optogenetic tools, we are identifying different populations of neurons that express either glucose sensing gene; we identify the neuronal circuits in which they are integrated, and we identify their role in the control of sympathetic or parasympathetic activity and glucagon secretion.
+Brain glucose sensing and the control of reward value of sugar-containing food
+We are investigating the role of glucose sensing neurons and are identifying new neuronal circuits that regulate the reward system to control the drive for sugar-containing food. These approaches include the study of genetically-modified mice, behavior tests, electrophysiology, and optogenetics. They lead to the identification of a critical aspect of the control of food intake, i.e., the measurement of the hedonic value of food. Future studies will involve investigating the role of the perinatal environment, including specific nutrients, on the establishment of this food reward system.
+Key Publications
+1. Thorens B, HK Sarkar, HR Kaback, and HF Lodish. (1988). Cloning and functional expression in bacteria of a novel glucose transporter present in liver, intestine, kidney, and beta-pancreatic islet cells. Cell. 55, 281-290.
+2. Thorens B. (1992). Expression cloning of the pancreatic beta cell receptor for the gluco-incretin hormone glucagon-like peptide 1.  Proc Natl Acad Sci, USA. 89, 8641-8645.
+3. Guillam M-T, Hümmler E, Schaerer E, Yeh J-Y. Birnbaum MJ, Beermann F, Schmidt A, Dériaz N, and Thorens B. (1997). Early diabetes and abnormal postnatal pancreatic islets development in mice lacking GLUT2. Nature Genetics. 17:327-330.
+4. Preitner F, Ibberson M, Franklin I, Binnert C, Pende M, Gjinovici A, Hansotia T, Drucker DJ, Wollhein CB, Burcelin R, and Thorens B. (2004). Gluco-incretins control insulin secretion at multiple levels as revealed in mice lacking GLP-1 and GIP receptors. J Clin Invest. 113 : 635-645.
+5. Marty N, Dallaporta M, Foretz M, Emery M, Tarussio D, Binnert C, Beermann F, and Thorens B.  (2005). Regulation of glucagon secretion by GLUT2 and astrocyte-dependent glucose sensors. J Clin Invest. 115: 3545-3553.
+6. Jimenez-Preitner M, Berney X, Uldry M, Vitali A, Cinti S, Ledford JG, Thorens B. (2011). Plac8 is an inducer of C/EBPß required for brown fat differentiation, thermoregulation, and control of body weight. Cell Metab. 14: 658-670.
+7. Seyer P, Vallois D, Poitry-Yamate C, Schütz F, Metref S, Tarussio D, Maechler P, Staels B, Lanz B, Gruetter R, Decaris J, Turner S, da Costa A, Preitner F, Minehira K, Foretz M, and Thorens B. (2013). Hepatic glucose sensing is required to preserve beta-cell glucose competence. J Clin Invest. 123(4) :1662-1676.
+8. Ding J, Loizides-Mangold U, Rando G, Zoete V, Michielin O, Reddy JK, Wahli W, Riezman H, and Thorens B. (2013). The peroxisomal enzyme L-PBE is required to prevent the dietary toxicity of medium chain fatty acids. Cell Reports. 5 (1): 248-258.
+9. Tarussio D, Metref S, Seyer S, Mounien L, Vallois D, Magnan C, Foretz M, and Thorens B. (2014). Nervous glucose sensing controls postnatal beta-cell proliferation and glucose homeostasis. J Clin Invest. 124(1): 413-424.
+10. Lamy CM, Sanno H, Labouèbe G, Picard A, Magnan C, Chatton JY, and Thorens B. (2014). Hypoglycemia-activated Glut2 neurons of the nucleus tractus solitarius stimulate vagal activity and glucagon secretion. Cell Metab. 19 : 527-538.
+Please click here or here for Prof Bernard Thorens’s full list of publications.
+SHARE ARTICLE
+Share
+Research Themes
+Research Faculty
+Research Fellowships and Training Programmes
+Research Conferences and Seminars
+Publications
+PRINT-FRIENDLY VERSION
+MAIN CAMPUS
+50 NANYANG AVENUE
+SINGAPORE 639798
+TEL: (65) 67911744
+NOVENA CAMPUS
+11 MANDALAY ROAD
+SINGAPORE 308232
+TEL: (65) 65138572
+CONTACT
+GETTING TO NTU
+GETTING AROUND NTU
+A-Z DIRECTORY
+ASK NTU
+CAREER OPPORTUNITIES
+FOLLOW NTUsg
+COPYRIGHT • DISCLAIMER • DATA PROTECTION AND PRIVACY
+REG. NO. 200604393R
+© 2012 NANYANG TECHNOLOGICAL UNIVERSITY
+LAST MODIFIED ON 9-FEB-2015

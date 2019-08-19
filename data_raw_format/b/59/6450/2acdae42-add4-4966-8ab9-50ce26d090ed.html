@@ -1,0 +1,4141 @@
+<html lang="en-US"><!--<![endif]--><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta name="google-translate-customization" content="174c639f64d55a72-e6a1f200fe3765aa-g630a140a58bede11-d">
+  <title>Illinois Directory, University of Illinois</title>
+  <style type="text/css">
+/*
+Theme Name:		VetMed
+Description:	Custom theme for UofI College of Veterinary Medicine
+Author:			Pixo
+Author URI:		http://pixotech.com/
+Version:		1.0
+*/
+/*! normalize.css v2.1.3 | MIT License | git.io/normalize */
+/* ==========================================================================
+HTML5 display definitions
+========================================================================== */
+/**
+* Correct `block` display not defined in IE 8/9.
+*/
+/* line 22, sass/_normalize.scss */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block;
+}
+
+/**
+* Correct `inline-block` display not defined in IE 8/9.
+*/
+/* line 32, sass/_normalize.scss */
+audio,
+canvas,
+video {
+  display: inline-block;
+}
+
+/**
+* Prevent modern browsers from displaying `audio` without controls.
+* Remove excess height in iOS 5 devices.
+*/
+/* line 41, sass/_normalize.scss */
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+/**
+* Address `[hidden]` styling not present in IE 8/9.
+* Hide the `template` element in IE, Safari, and Firefox < 22.
+*/
+/* line 52, sass/_normalize.scss */
+[hidden],
+template {
+  display: none;
+}
+
+/* ==========================================================================
+Base
+========================================================================== */
+/**
+* 1. Set default font family to sans-serif.
+* 2. Prevent iOS text size adjust after orientation change, without disabling
+*    user zoom.
+*/
+/* line 66, sass/_normalize.scss */
+html {
+  font-family: sans-serif;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+}
+
+/**
+* Remove default margin.
+*/
+/* line 76, sass/_normalize.scss */
+body {
+  margin: 0;
+}
+
+/* ==========================================================================
+Links
+========================================================================== */
+/**
+* Remove the gray background color from active links in IE 10.
+*/
+/* line 88, sass/_normalize.scss */
+a {
+  background: transparent;
+}
+
+/**
+* Address `outline` inconsistency between Chrome and other browsers.
+*/
+/* line 96, sass/_normalize.scss */
+a:focus {
+  outline: thin dotted;
+}
+
+/**
+* Improve readability when focused and also mouse hovered in all browsers.
+*/
+/* line 105, sass/_normalize.scss */
+a:active,
+a:hover {
+  outline: 0;
+}
+
+/* ==========================================================================
+Typography
+========================================================================== */
+/**
+* Address variable `h1` font-size and margin within `section` and `article`
+* contexts in Firefox 4+, Safari 5, and Chrome.
+*/
+/* line 118, sass/_normalize.scss */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+/**
+* Address styling not present in IE 8/9, Safari 5, and Chrome.
+*/
+/* line 127, sass/_normalize.scss */
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+/**
+* Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+*/
+/* line 136, sass/_normalize.scss */
+b,
+strong {
+  font-weight: bold;
+}
+
+/**
+* Address styling not present in Safari 5 and Chrome.
+*/
+/* line 144, sass/_normalize.scss */
+dfn {
+  font-style: italic;
+}
+
+/**
+* Address differences between Firefox and other browsers.
+*/
+/* line 152, sass/_normalize.scss */
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+/**
+* Address styling not present in IE 8/9.
+*/
+/* line 162, sass/_normalize.scss */
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+/**
+* Correct font family set oddly in Safari 5 and Chrome.
+*/
+/* line 174, sass/_normalize.scss */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  font-size: 1em;
+}
+
+/**
+* Improve readability of pre-formatted text in all browsers.
+*/
+/* line 183, sass/_normalize.scss */
+pre {
+  white-space: pre-wrap;
+}
+
+/**
+* Set consistent quote types.
+*/
+/* line 191, sass/_normalize.scss */
+q {
+  quotes: "201C" "201D" "2018" "2019";
+}
+
+/**
+* Address inconsistent and variable font size in all browsers.
+*/
+/* line 199, sass/_normalize.scss */
+small {
+  font-size: 80%;
+}
+
+/**
+* Prevent `sub` and `sup` affecting `line-height` in all browsers.
+*/
+/* line 208, sass/_normalize.scss */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+/* line 215, sass/_normalize.scss */
+sup {
+  top: -0.5em;
+}
+
+/* line 219, sass/_normalize.scss */
+sub {
+  bottom: -0.25em;
+}
+
+/* ==========================================================================
+Embedded content
+========================================================================== */
+/**
+* Remove border when inside `a` element in IE 8/9.
+*/
+/* line 231, sass/_normalize.scss */
+img {
+  border: 0;
+}
+
+/**
+* Correct overflow displayed oddly in IE 9.
+*/
+/* line 239, sass/_normalize.scss */
+svg:not(:root) {
+  overflow: hidden;
+}
+
+/* ==========================================================================
+Figures
+========================================================================== */
+/**
+* Address margin not present in IE 8/9 and Safari 5.
+*/
+/* line 251, sass/_normalize.scss */
+figure {
+  margin: 0;
+}
+
+/* ==========================================================================
+Forms
+========================================================================== */
+/**
+* Define consistent border, margin, and padding.
+*/
+/* line 263, sass/_normalize.scss */
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+
+/**
+* 1. Correct `color` not being inherited in IE 8/9.
+* 2. Remove padding so people aren't caught out if they zero out fieldsets.
+*/
+/* line 274, sass/_normalize.scss */
+legend {
+  border: 0;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+
+/**
+* 1. Correct font family not being inherited in all browsers.
+* 2. Correct font size not being inherited in all browsers.
+* 3. Address margins set differently in Firefox 4+, Safari 5, and Chrome.
+*/
+/* line 288, sass/_normalize.scss */
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  /* 1 */
+  font-size: 100%;
+  /* 2 */
+  margin: 0;
+  /* 3 */
+}
+
+/**
+* Address Firefox 4+ setting `line-height` on `input` using `!important` in
+* the UA stylesheet.
+*/
+/* line 300, sass/_normalize.scss */
+button,
+input {
+  line-height: normal;
+}
+
+/**
+* Address inconsistent `text-transform` inheritance for `button` and `select`.
+* All other form control elements do not inherit `text-transform` values.
+* Correct `button` style inheritance in Chrome, Safari 5+, and IE 8+.
+* Correct `select` style inheritance in Firefox 4+ and Opera.
+*/
+/* line 312, sass/_normalize.scss */
+button,
+select {
+  text-transform: none;
+}
+
+/**
+* 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+*    and `video` controls.
+* 2. Correct inability to style clickable `input` types in iOS.
+* 3. Improve usability and consistency of cursor style between image-type
+*    `input` and others.
+*/
+/* line 327, sass/_normalize.scss */
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  /* 2 */
+  cursor: pointer;
+  /* 3 */
+}
+
+/**
+* Re-set default cursor for disabled elements.
+*/
+/* line 337, sass/_normalize.scss */
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+/**
+* 1. Address box sizing set to `content-box` in IE 8/9/10.
+* 2. Remove excess padding in IE 8/9/10.
+*/
+/* line 347, sass/_normalize.scss */
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+
+/**
+* 1. Address `appearance` set to `searchfield` in Safari 5 and Chrome.
+* 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome
+*    (include `-moz` to future-proof).
+*/
+/* line 358, sass/_normalize.scss */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  /* 2 */
+  box-sizing: content-box;
+}
+
+/**
+* Remove inner padding and search cancel button in Safari 5 and Chrome
+* on OS X.
+*/
+/* line 371, sass/_normalize.scss */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/**
+* Remove inner padding and border in Firefox 4+.
+*/
+/* line 380, sass/_normalize.scss */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+/**
+* 1. Remove default vertical scrollbar in IE 8/9.
+* 2. Improve readability and alignment in all browsers.
+*/
+/* line 390, sass/_normalize.scss */
+textarea {
+  overflow: auto;
+  /* 1 */
+  vertical-align: top;
+  /* 2 */
+}
+
+/* ==========================================================================
+Tables
+========================================================================== */
+/**
+* Remove most spacing between table cells.
+*/
+/* line 403, sass/_normalize.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*** Variables ***/
+/* Mixins */
+/* line 1, sass/_base.scss */
+html, body {
+  height: 100%;
+}
+
+/* line 5, sass/_base.scss */
+#vm_container {
+  min-height: 100%;
+  height: 100%;
+}
+
+/* line 10, sass/_base.scss */
+body {
+  color: #333;
+  font-size: 15px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.3;
+}
+/* line 16, sass/_base.scss */
+body hr {
+  display: block;
+  height: 2px;
+  border-top: 1px solid #bbbbbb;
+  border-bottom: 1px solid #bbbbbb;
+  clear: both;
+}
+
+/* line 25, sass/_base.scss */
+.wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+@media only screen and (min-width: 30em) {
+  /* line 25, sass/_base.scss */
+  .wrap {
+    padding: 0 1.5em;
+  }
+}
+
+/* line 35, sass/_base.scss */
+h1 {
+  font-size: 3.85em;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.15;
+  margin: 0.3em 0 0.5em;
+}
+
+/* line 44, sass/_base.scss */
+h2 {
+  font-size: 2.3em;
+  font-family: "Roboto Condensed", sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin: 0.5em 0;
+  line-height: 1.15;
+  color: #1a497e;
+}
+/* line 52, sass/_base.scss */
+h2 a {
+  color: #f74301;
+  text-decoration: none;
+}
+
+/* line 58, sass/_base.scss */
+h3, p.h3 {
+  font-size: 1.17em;
+  font-family: "Roboto Slab", serif;
+  color: #348282;
+  margin: 1em 0 -.5em;
+}
+
+/* line 66, sass/_base.scss */
+h4, p.h4 {
+  font-size: 1em;
+  font-family: "Roboto Slab", serif;
+  color: #f74301;
+}
+
+/* line 72, sass/_base.scss */
+a {
+  color: #fe551a;
+  text-decoration: none;
+}
+/* line 76, sass/_base.scss */
+a:hover {
+  text-decoration: underline;
+}
+
+/* line 81, sass/_base.scss */
+.button, .button-error, .button-important, .button-teal, .button-navy {
+  font-family: "Roboto Condensed", sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: .35em 1.5em;
+  display: inline-block;
+  text-decoration: none;
+}
+/* line 89, sass/_base.scss */
+.button:hover, .button-error:hover, .button-important:hover, .button-teal:hover, .button-navy:hover {
+  text-decoration: none;
+}
+
+/* line 94, sass/_base.scss */
+.button-teal, .button-navy {
+  text-align: left;
+  width: 50%;
+}
+
+/* line 110, sass/_base.scss */
+.button {
+  background-color: #969696;
+  color: #ffffff;
+}
+/* line 104, sass/_base.scss */
+.button:hover {
+  background-color: #409fa3;
+}
+/* line 112, sass/_base.scss */
+.widget .button {
+  display: block;
+  margin: 0 10px;
+  line-height: 2em;
+  letter-spacing: 0.1em;
+}
+
+/* line 121, sass/_base.scss */
+.button-error {
+  background-color: maroon;
+  color: #ffffff;
+}
+/* line 104, sass/_base.scss */
+.button-error:hover {
+  background-color: red;
+}
+
+/* line 125, sass/_base.scss */
+.button-important {
+  background-color: #409fa3;
+  color: #ffffff;
+}
+/* line 104, sass/_base.scss */
+.button-important:hover {
+  background-color: #f74301;
+}
+
+/* line 129, sass/_base.scss */
+.button-teal {
+  background-color: #409fa3;
+  color: #ffffff;
+}
+/* line 104, sass/_base.scss */
+.button-teal:hover {
+  background-color: #56b0b5;
+}
+
+/* line 134, sass/_base.scss */
+.button-navy {
+  background-color: #244b7e;
+  color: #ffffff;
+}
+/* line 104, sass/_base.scss */
+.button-navy:hover {
+  background-color: #2a5996;
+}
+
+/* line 139, sass/_base.scss */
+.toggle-item {
+  position: relative;
+}
+/* line 141, sass/_base.scss */
+.toggle-item .trigger {
+  cursor: pointer;
+  border-bottom: 1px solid #C9C9C9;
+  margin-bottom: .5em;
+}
+/* line 146, sass/_base.scss */
+.toggle-item .trigger:before {
+  content: "+";
+  font-size: 1.15em;
+  color: #a1a1a1;
+  font-weight: 300;
+  padding-right: .3em;
+}
+/* line 153, sass/_base.scss */
+.toggle-item .trigger.open:before {
+  content: "2013";
+  padding-right: .2em;
+}
+/* line 158, sass/_base.scss */
+.toggle-item h3.trigger {
+  margin: .25em 0;
+}
+/* line 160, sass/_base.scss */
+.toggle-item h3.trigger:before {
+  font-size: 1.4em;
+  position: relative;
+  top: 1px;
+  padding-right: .4em;
+}
+/* line 166, sass/_base.scss */
+.toggle-item h3.trigger.open:before {
+  padding-right: .25em;
+}
+/* line 170, sass/_base.scss */
+.toggle-item .panel {
+  display: none;
+  overflow: hidden;
+}
+/* line 174, sass/_base.scss */
+.toggle-item .panel > *:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* line 181, sass/_base.scss */
+.content {
+  line-height: 1.7;
+  *zoom: 1;
+}
+/* line 35, sass/style.scss */
+.content:before, .content:after {
+  content: " ";
+  display: table;
+}
+/* line 39, sass/style.scss */
+.content:after {
+  clear: both;
+}
+
+/* line 186, sass/_base.scss */
+.content-wrap {
+  margin-top: 2em;
+}
+
+/* line 190, sass/_base.scss */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* line 194, sass/_base.scss */
+.show {
+  display: block !important;
+}
+
+/* line 198, sass/_base.scss */
+table {
+  border: 1px solid #969696;
+  width: 100%;
+  font-size: 13px;
+}
+/* line 203, sass/_base.scss */
+table td {
+  padding: 14px;
+}
+/* line 207, sass/_base.scss */
+table th {
+  text-transform: uppercase;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: normal;
+  text-align: left;
+  padding: 5px 14px;
+}
+/* line 215, sass/_base.scss */
+table thead {
+  background: #244b7e;
+}
+/* line 218, sass/_base.scss */
+table thead tr {
+  height: 37px;
+}
+/* line 222, sass/_base.scss */
+table thead th {
+  color: white;
+  font-size: 15px;
+}
+/* line 229, sass/_base.scss */
+table tbody th {
+  color: #2a5996;
+  font-size: 14px;
+}
+/* line 233, sass/_base.scss */
+table tbody tr {
+  height: 70px;
+}
+/* line 236, sass/_base.scss */
+table tbody tr:nth-child(odd) {
+  background: #f4f4f4;
+}
+
+/* line 2, sass/_header.scss */
+.banner .top {
+  padding: 2em 1em 2.75em;
+}
+/* line 5, sass/_header.scss */
+.banner .top .logo {
+  float: left;
+}
+/* line 7, sass/_header.scss */
+.banner .top .logo img {
+  max-width: 100%;
+  height: auto;
+}
+@media only screen and (min-width: 30em) {
+  /* line 5, sass/_header.scss */
+  .banner .top .logo {
+    display: block;
+    background: url(https://illinois.edu/skinDesigner/files/10776/logo.png) no-repeat 0 0;
+    width: 382px;
+    height: 40px;
+  }
+  /* line 16, sass/_header.scss */
+  .banner .top .logo img {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  /* line 120, sass/style.scss */
+  .banner .top .logo img:active, .banner .top .logo img:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+  }
+}
+
+/* line 25, sass/_header.scss */
+.eyebrow {
+  display: none;
+}
+@media only screen and (min-width: 55em) {
+  /* line 25, sass/_header.scss */
+  .eyebrow {
+    display: block;
+    float: right;
+  }
+  /* line 31, sass/_header.scss */
+  .eyebrow ul {
+    margin: 0;
+    padding: 0;
+  }
+  /* line 34, sass/_header.scss */
+  .eyebrow ul li {
+    list-style: none;
+    list-style-image: none;
+    float: left;
+    margin-left: 1.85em;
+  }
+  /* line 39, sass/_header.scss */
+  .eyebrow ul li:first-child {
+    margin-left: 0;
+  }
+  /* line 42, sass/_header.scss */
+  .eyebrow ul li a {
+    font-size: .8em;
+    color: #1a497e;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+}
+
+/* Sticky Header  -- commented out for now */
+/*
+@include breakpoint(medium) {
+.banner {
+position: fixed;
+width: 100%;
+top: 0;
+z-index: 9999;
+background-color: white;
+.admin-bar & {
+margin-top: 2.15em;
+}
+}
+#content {
+margin-top: 10.65em;
+}
+}
+*/
+/* Class to enable mobile sticky Nav */
+/*
+.sticky {
+position: fixed;
+top: 0;
+z-index: 50;
+width: 100%;
+
+@include breakpoint(600px) {
+.admin-bar & {
+top: 3.05em;
+}
+}
+
+@include breakpoint(medium) {
+position: static;
+width: auto;
+}
+}
+*/
+/* line 2, sass/_navbar.scss */
+.oldie .navbar {
+  border-bottom: 5px solid #E4E4E4;
+}
+/* line 6, sass/_navbar.scss */
+.navbar .wrap {
+  padding: 0;
+}
+/* line 10, sass/_navbar.scss */
+.navbar ul.controls {
+  position: relative;
+  padding: .75em 0 0.7em;
+  margin: 0;
+  background-color: #244b7e;
+}
+/* line 15, sass/_navbar.scss */
+.navbar ul.controls li {
+  display: inline-block;
+}
+/* line 17, sass/_navbar.scss */
+.navbar ul.controls li a {
+  display: block;
+  background-color: transparent;
+  border: 0;
+  overflow: hidden;
+  *text-indent: -9999px;
+}
+/* line 49, sass/style.scss */
+.navbar ul.controls li a:before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 150%;
+}
+/* line 22, sass/_navbar.scss */
+.navbar ul.controls .home {
+  margin-left: 1em;
+  width: 26px;
+  height: 22px;
+  background: url(https://illinois.edu/skinDesigner/files/10776/home.png) no-repeat 50%;
+}
+/* line 28, sass/_navbar.scss */
+.navbar ul.controls .search {
+  width: 13px;
+  height: 14px;
+  background: url(https://illinois.edu/skinDesigner/files/10776/search.png) no-repeat 50%;
+  position: absolute;
+  right: 3.25em;
+  top: 1.2em;
+}
+/* line 36, sass/_navbar.scss */
+.navbar ul.controls .menu {
+  width: 24px;
+  height: 19px;
+  background: url(https://illinois.edu/skinDesigner/files/10776/menu.png) no-repeat 50%;
+  position: absolute;
+  right: 1em;
+  top: .9em;
+}
+/* line 47, sass/_navbar.scss */
+.navbar .dropdown {
+  display: none;
+  padding-top: 1em;
+  margin-top: -.5em;
+  background: url(https://illinois.edu/skinDesigner/files/10776/grn_triangle.png) no-repeat 98% 0;
+  position: relative;
+  z-index: 500;
+}
+/* line 54, sass/_navbar.scss */
+.navbar .dropdown .search {
+  background-color: #409fa3;
+  padding: 1em;
+  *zoom: 1;
+}
+/* line 57, sass/_navbar.scss */
+.navbar .dropdown .search input[type="text"] {
+  float: left;
+}
+/* line 60, sass/_navbar.scss */
+.navbar .dropdown .search input[type="button"] {
+  float: right;
+}
+/* line 35, sass/style.scss */
+.navbar .dropdown .search:before, .navbar .dropdown .search:after {
+  content: " ";
+  display: table;
+}
+/* line 39, sass/style.scss */
+.navbar .dropdown .search:after {
+  clear: both;
+}
+/* line 65, sass/_navbar.scss */
+.navbar .dropdown .menus {
+  padding: .75em 1em 1em;
+  background-color: #244b7e;
+}
+/* line 70, sass/_navbar.scss */
+.navbar .dropdown ul {
+  margin: 0;
+  padding: 0;
+}
+/* line 73, sass/_navbar.scss */
+.navbar .dropdown ul li {
+  list-style: none;
+  list-style-image: none;
+  border-top: 1px solid #4E6F94;
+}
+/* line 77, sass/_navbar.scss */
+.navbar .dropdown ul li a {
+  display: block;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  color: white;
+  text-transform: uppercase;
+  font-size: 1em;
+  padding: .25em 1.5em;
+  text-decoration: none;
+  text-align: left;
+}
+/* line 88, sass/_navbar.scss */
+.navbar .dropdown ul li:first-child {
+  border: none;
+}
+/* line 93, sass/_navbar.scss */
+.navbar .dropdown ul.main {
+  border-bottom: 1px solid #8194A9;
+  position: relative;
+  padding-bottom: 1em;
+  margin-bottom: 1.5em;
+}
+/* line 98, sass/_navbar.scss */
+.navbar .dropdown ul.main:after {
+  content: " ";
+  position: absolute;
+  border-bottom: 1px solid #8194a9;
+  z-index: 0;
+  width: 100%;
+  bottom: 2px;
+}
+/* line 101, sass/_navbar.scss */
+.navbar .dropdown ul.main li {
+  display: block;
+}
+/* line 103, sass/_navbar.scss */
+.navbar .dropdown ul.main li a {
+  padding: .55em 0 .55em 30px;
+  font-size: 1.05em;
+}
+/* line 107, sass/_navbar.scss */
+.navbar .dropdown ul.main li.heart a {
+  background: url(https://illinois.edu/skinDesigner/files/10776/heart.png) no-repeat 30px 50%;
+  padding-left: 51px;
+}
+/* line 112, sass/_navbar.scss */
+.navbar .dropdown ul.main li:hover, .navbar .dropdown ul.main li > a:hover, .navbar .dropdown ul.main li.current-menu-item > a, .navbar .dropdown ul.main li.current_page_ancestor > a, .navbar .dropdown ul.main li.heart > a:hover {
+  background-color: #3C6491;
+}
+/* line 117, sass/_navbar.scss */
+.navbar .dropdown ul.main .sub-menu {
+  display: none;
+}
+/* line 121, sass/_navbar.scss */
+.navbar .dropdown ul.main .sub-menu li {
+  float: none;
+  width: auto;
+}
+/* line 125, sass/_navbar.scss */
+.navbar .dropdown ul.main .sub-menu li a {
+  display: block;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: .95em;
+  text-align: left;
+  text-transform: none;
+}
+/* line 137, sass/_navbar.scss */
+.navbar .dropdown ul.secondary {
+  font-size: .85em;
+}
+/* line 141, sass/_navbar.scss */
+.navbar .dropdown ul.secondary li a {
+  padding: .65em 0 .65em 30px;
+}
+/* line 148, sass/_navbar.scss */
+.navbar h2 {
+  font-size: .8em;
+  text-transform: uppercase;
+  color: #bdc9dd;
+}
+/* line 155, sass/_navbar.scss */
+.navbar .show {
+  display: block;
+}
+@media only screen and (min-width: 55em) {
+  /* line 1, sass/_navbar.scss */
+  .navbar {
+    background-color: #244b7e;
+  }
+  /* line 162, sass/_navbar.scss */
+  .navbar .dropdown {
+    display: block;
+    padding: 0;
+    margin: 0;
+    background: none;
+  }
+  /* line 167, sass/_navbar.scss */
+  .navbar .dropdown .menus {
+    padding: 0;
+  }
+  /* line 170, sass/_navbar.scss */
+  .navbar .dropdown ul.main {
+    background-color: #244b7e;
+    border: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+  /* line 175, sass/_navbar.scss */
+  .navbar .dropdown ul.main:after {
+    position: static;
+    border: none;
+  }
+  /* line 179, sass/_navbar.scss */
+  .navbar .dropdown ul.main li {
+    border: none;
+    position: relative;
+    float: left;
+    margin-left: 1px;
+    background-color: #244b7e;
+  }
+  /* line 185, sass/_navbar.scss */
+  .navbar .dropdown ul.main li a {
+    padding: 1em 1.15em;
+  }
+  /* line 190, sass/_navbar.scss */
+  .navbar .dropdown ul.main li.heart a {
+    background-position: .75em 50%;
+    padding-left: 2em;
+  }
+  /* line 194, sass/_navbar.scss */
+  .navbar .dropdown ul.main li.heart > a:hover {
+    background-color: #3C6491;
+  }
+  /* line 199, sass/_navbar.scss */
+  .navbar .dropdown ul.main li:first-child, .navbar .dropdown ul.main li .sub-menu li {
+    margin-left: 0;
+  }
+  /* line 204, sass/_navbar.scss */
+  .navbar .dropdown ul.main .sub-menu {
+    position: absolute;
+    top: 3em;
+    left: 0;
+    padding-top: 1em;
+    background: url(https://illinois.edu/skinDesigner/files/10776/triangle.png) no-repeat 15px 0;
+    width: 18.6em;
+  }
+  /* line 212, sass/_navbar.scss */
+  .navbar .dropdown ul.main .sub-menu li {
+    float: none;
+    padding: 0 1em;
+    background-color: #244b7e;
+  }
+  /* line 217, sass/_navbar.scss */
+  .navbar .dropdown ul.main .sub-menu li a {
+    border-bottom: 1px solid #5F80A5;
+    padding: .75em .5em;
+  }
+  /* line 221, sass/_navbar.scss */
+  .navbar .dropdown ul.main .sub-menu li a .dsc {
+    display: inline-block;
+    color: #bbccde;
+    font-size: .9em;
+    line-height: 1.7;
+    margin-top: .5em;
+  }
+  /* line 229, sass/_navbar.scss */
+  .navbar .dropdown ul.main .sub-menu li.current_page_ancestor > a {
+    background-color: #244b7e;
+  }
+  /* line 232, sass/_navbar.scss */
+  .navbar .dropdown ul.main .sub-menu li > a:hover {
+    background-color: #3C6491;
+  }
+  /* line 235, sass/_navbar.scss */
+  .navbar .dropdown ul.main .sub-menu li:first-child {
+    padding-top: 1em;
+  }
+  /* line 238, sass/_navbar.scss */
+  .navbar .dropdown ul.main .sub-menu li:last-child {
+    padding-bottom: 1em;
+  }
+  /* line 242, sass/_navbar.scss */
+  .navbar .dropdown ul.main .sub-menu li ul.sub-menu {
+    position: static;
+    padding: 0;
+    width: auto;
+  }
+  /* line 246, sass/_navbar.scss */
+  .navbar .dropdown ul.main .sub-menu li ul.sub-menu li {
+    padding: 0;
+  }
+  /* line 248, sass/_navbar.scss */
+  .navbar .dropdown ul.main .sub-menu li ul.sub-menu li a {
+    padding-left: 2em;
+    color: #bbccde;
+  }
+  /* line 258, sass/_navbar.scss */
+  .navbar .dropdown ul.main li:hover .sub-menu {
+    display: block;
+  }
+  /* line 265, sass/_navbar.scss */
+  .navbar .m {
+    display: none;
+  }
+}
+@media only screen and (min-width: 60em) {
+  /* line 273, sass/_navbar.scss */
+  .navbar .dropdown ul.main li a {
+    padding: .9em 1.45em;
+  }
+  /* line 276, sass/_navbar.scss */
+  .navbar .dropdown ul.main li.heart a {
+    background-position: 1.25em 50%;
+    padding-left: 2.5em;
+  }
+}
+@media only screen and (min-width: 65em) {
+  /* line 285, sass/_navbar.scss */
+  .navbar .dropdown ul.main li a {
+    padding: .9em 1.75em;
+  }
+  /* line 288, sass/_navbar.scss */
+  .navbar .dropdown ul.main li.heart a {
+    background-position: 1.5em 50%;
+    padding-left: 2.75em;
+  }
+}
+@media only screen and (min-width: 70em) {
+  /* line 297, sass/_navbar.scss */
+  .navbar .dropdown ul.main li a {
+    padding: .9em 2.1em;
+  }
+  /* line 300, sass/_navbar.scss */
+  .navbar .dropdown ul.main li.heart a {
+    background-position: 1.75em 50%;
+    padding-left: 3em;
+  }
+}
+@media only screen and (min-width: 75em) {
+  /* line 309, sass/_navbar.scss */
+  .navbar .dropdown ul.main li a {
+    padding: .9em 2.4em;
+  }
+  /* line 312, sass/_navbar.scss */
+  .navbar .dropdown ul.main li.heart a {
+    background-position: 2em 50%;
+    padding-left: 3.25em;
+  }
+}
+
+/* line 322, sass/_navbar.scss */
+.transparent {
+  border-bottom: 5px solid rgba(245, 245, 245, 0.55);
+  margin-bottom: -5px;
+  position: relative;
+  z-index: 5;
+}
+/* line 327, sass/_navbar.scss */
+.oldie .transparent {
+  border: none;
+  margin-bottom: none;
+}
+
+/* line 1, sass/_page.scss */
+.top-page {
+  border-bottom: 1px solid #D7D7D7;
+  padding: .7em 0 .6em;
+}
+
+/* line 5, sass/_page.scss */
+.breadcrumbs {
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  font-size: .9em;
+  color: #8f8f8f;
+  margin: 0;
+}
+/* line 11, sass/_page.scss */
+.breadcrumbs a {
+  color: #8f8f8f;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  margin: 0 .5em;
+}
+/* line 18, sass/_page.scss */
+.breadcrumbs a:first-child {
+  margin-left: 0;
+}
+
+/* line 24, sass/_page.scss */
+.parent-label {
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 700;
+  margin: .8em 0 -1.15em;
+  font-size: 1.55em;
+  text-transform: uppercase;
+}
+/* line 31, sass/_page.scss */
+.parent-label a {
+  text-decoration: none;
+  color: #1a497e;
+}
+
+/* Page image */
+/* line 38, sass/_page.scss */
+.splash {
+  position: relative;
+  height: 343px;
+  overflow: hidden;
+}
+/* line 42, sass/_page.scss */
+.depth-2 .splash {
+  height: 153px;
+}
+/* line 45, sass/_page.scss */
+.splash img {
+  position: relative;
+  left: -30%;
+  max-width: none;
+}
+@media only screen and (min-width: 60em) {
+  /* line 51, sass/_page.scss */
+  .splash, .depth-2 .splash {
+    height: auto;
+  }
+  /* line 54, sass/_page.scss */
+  .splash img {
+    position: static;
+    width: 100%;
+    height: auto;
+    max-width: none;
+  }
+}
+
+/* line 63, sass/_page.scss */
+article.depth-1, article.depth-2 {
+  position: relative;
+}
+
+/* line 68, sass/_page.scss */
+article.depth-2 h1 {
+  margin-top: .25em;
+  margin-bottom: .1em;
+}
+@media only screen and (min-width: 75em) {
+  /* line 68, sass/_page.scss */
+  article.depth-2 h1 {
+    margin-top: .45em;
+  }
+}
+
+/* Content within page image */
+/* line 78, sass/_page.scss */
+.content .splash {
+  display: none;
+}
+@media only screen and (min-width: 50em) {
+  /* line 78, sass/_page.scss */
+  .content .splash {
+    display: block;
+  }
+}
+
+@media only screen and (min-width: 50em) {
+  /* line 85, sass/_page.scss */
+  header.page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+  /* line 91, sass/_page.scss */
+  header.page, header.page p.intro, header.page .breadcrumbs, header.page .breadcrumbs a {
+    color: white;
+  }
+  /* line 95, sass/_page.scss */
+  header.page h1, header.page .breadcrumbs, header.page .breadcrumbs a {
+    text-shadow: 1px 1px 1px #000;
+  }
+  /* line 98, sass/_page.scss */
+  header.page .caption {
+    padding: 1.25em;
+    max-width: 55em;
+    background-color: rgba(0, 0, 0, 0.65);
+  }
+  /* line 102, sass/_page.scss */
+  header.page .caption hr {
+    width: 9.5em;
+    border-top: 5px solid white;
+    margin: 0;
+  }
+  /* line 107, sass/_page.scss */
+  header.page .caption p.intro {
+    font-size: 1.25em;
+    margin: .25em 0;
+  }
+  /* line 112, sass/_page.scss */
+  .oldie header.page .caption {
+    background-color: #333;
+  }
+}
+@media only screen and (min-width: 1220px) {
+  /* line 117, sass/_page.scss */
+  header.page .caption p.intro {
+    font-size: 1.45em;
+  }
+}
+
+/* Sidebar layout */
+@media only screen and (min-width: 50em) {
+  /* line 125, sass/_page.scss */
+  .content-right {
+    position: relative;
+    width: 100%;
+    float: right;
+    margin-left: -270px;
+  }
+  /* line 131, sass/_page.scss */
+  .content-right .content-body {
+    margin-left: 330px;
+  }
+}
+@media only screen and (min-width: 50em) {
+  /* line 137, sass/_page.scss */
+  aside.sidebar {
+    float: left;
+    width: 270px;
+  }
+}
+/* line 143, sass/_page.scss */
+p.intro {
+  font-size: 1.45em;
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+  color: #505050;
+}
+
+/* line 150, sass/_page.scss */
+article.content {
+  margin-bottom: 2em;
+}
+
+/* line 154, sass/_page.scss */
+blockquote {
+  margin-left: 173px;
+  border-left: 5px solid #409fa3;
+  padding-left: 17px;
+  font-size: 18px;
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+}
+/* line 162, sass/_page.scss */
+blockquote p:first-child:before {
+  content: "201C";
+}
+/* line 165, sass/_page.scss */
+blockquote p:first-child:after {
+  content: "201D";
+}
+/* line 170, sass/_page.scss */
+blockquote cite {
+  color: #409fa3;
+  font-size: 15px;
+  font-style: normal;
+  margin: 25px 0 15px;
+  font-weight: 600;
+}
+/* line 178, sass/_page.scss */
+blockquote cite:before {
+  content: "201400a0";
+}
+
+/* line 183, sass/_page.scss */
+.scroll-link a {
+  display: block;
+  font-family: "Roboto Condensed", sans-serif;
+  color: #1a497e;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: .5em 1em;
+  background: url(https://illinois.edu/skinDesigner/files/10776/dwn_arrow_rg.png) no-repeat 95% center gainsboro;
+}
+@media only screen and (min-width: 50em) {
+  /* line 183, sass/_page.scss */
+  .scroll-link a {
+    display: none;
+  }
+}
+
+/* line 196, sass/_page.scss */
+.scroll-top a {
+  background: url(https://illinois.edu/skinDesigner/files/10776/up_arrow.png) no-repeat 95% center gainsboro;
+}
+
+/* line 200, sass/_page.scss */
+.pagination {
+  font-family: "Roboto Slab", serif;
+  font-size: 18px;
+  margin: 50px 0;
+}
+/* line 205, sass/_page.scss */
+.pagination .page-numbers {
+  display: inline-block;
+  height: 35px;
+  min-width: 24px;
+  color: dimgrey;
+  text-decoration: none;
+  line-height: 29px;
+  text-align: center;
+}
+/* line 215, sass/_page.scss */
+.pagination a:hover {
+  color: #fe551a;
+}
+/* line 219, sass/_page.scss */
+.pagination .current {
+  color: #56b0b5;
+}
+/* line 223, sass/_page.scss */
+.pagination .next, .pagination .prev {
+  background: #bbbbbb;
+  height: 29px;
+  min-width: 44px;
+  border: 3px solid #bbbbbb;
+  font-weight: 600;
+  color: white;
+  font-size: 21px;
+}
+/* line 233, sass/_page.scss */
+.pagination .next:hover, .pagination .prev:hover {
+  background: #409fa3;
+  border: 3px solid #409fa3;
+  color: white;
+}
+/* line 239, sass/_page.scss */
+.pagination .next {
+  margin-left: 15px;
+}
+/* line 243, sass/_page.scss */
+.pagination .prev {
+  margin-right: 15px;
+}
+
+/* line 249, sass/_page.scss */
+.callout {
+  background: #f4f4f4;
+  font-size: 13px;
+  border: 1px solid #bbbbbb;
+}
+/* line 254, sass/_page.scss */
+.callout h3 {
+  background: #409fa3;
+  color: white;
+  font-weight: 400;
+  font-family: "Roboto Slab", serif;
+  font-size: 18px;
+  margin: 0;
+  padding: 5px 13px;
+}
+/* line 264, sass/_page.scss */
+.callout p {
+  margin: 10px 13px;
+}
+
+/* line 1, sass/_sidebar.scss */
+.widget {
+  margin-bottom: 1.5em;
+}
+
+/* line 5, sass/_sidebar.scss */
+aside.sidebar {
+  position: relative;
+  padding-top: 1em;
+}
+/* line 9, sass/_sidebar.scss */
+aside.sidebar .menu h2 {
+  font-size: 1.35em;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: .5em 0;
+}
+/* line 14, sass/_sidebar.scss */
+aside.sidebar .menu h2 a {
+  color: #333;
+  text-decoration: none;
+}
+/* line 20, sass/_sidebar.scss */
+aside.sidebar .menu ul {
+  margin: 0;
+  padding: 0;
+}
+/* line 23, sass/_sidebar.scss */
+aside.sidebar .menu ul li {
+  list-style: none;
+  list-style-image: none;
+}
+/* line 26, sass/_sidebar.scss */
+aside.sidebar .menu ul li a {
+  display: block;
+  color: #1a497e;
+  text-decoration: none;
+  padding: .5em 1em;
+  border-bottom: 1px solid #D3D3D3;
+}
+/* line 33, sass/_sidebar.scss */
+aside.sidebar .menu ul li:first-child a {
+  border-top: 1px solid #d3d3d3;
+}
+/* line 36, sass/_sidebar.scss */
+aside.sidebar .menu ul li.current_page_item > a, aside.sidebar .menu ul li.current_page_ancestor > a, aside.sidebar .menu ul li a:hover {
+  background-color: #244b7e;
+  color: white;
+}
+/* line 43, sass/_sidebar.scss */
+aside.sidebar .menu ul li ul li a {
+  padding-left: 2.2em;
+  background-color: #F4F4F4;
+  color: #1a497e;
+}
+/* line 48, sass/_sidebar.scss */
+aside.sidebar .menu ul li ul li:first-child a {
+  border-top: none;
+}
+/* line 51, sass/_sidebar.scss */
+aside.sidebar .menu ul li ul li.page_item_has_children > a {
+  background: url(https://illinois.edu/skinDesigner/files/10776/left_arrow.png) no-repeat 1.15em 50% #f4f4f4;
+  color: #1a497e;
+}
+/* line 55, sass/_sidebar.scss */
+aside.sidebar .menu ul li ul li.current_page_item > a, aside.sidebar .menu ul li ul li a:hover {
+  background-color: #F4F4F4;
+  color: #fe551a;
+}
+/* line 59, sass/_sidebar.scss */
+aside.sidebar .menu ul li ul li.page_item_has_children.current_page_ancestor > a, aside.sidebar .menu ul li ul li.page_item_has_children.current_page_item > a {
+  background: url(https://illinois.edu/skinDesigner/files/10776/dwn_arrow_sm.png) no-repeat 0.95em 50% #f4f4f4;
+}
+/* line 63, sass/_sidebar.scss */
+aside.sidebar .menu ul li ul li ul {
+  display: none;
+  padding-left: 2.75em;
+  border-bottom: 1px solid #d3d3d3;
+}
+/* line 68, sass/_sidebar.scss */
+aside.sidebar .menu ul li ul li ul li a {
+  background-color: white;
+  padding: .25em 0;
+  border: none;
+}
+/* line 73, sass/_sidebar.scss */
+aside.sidebar .menu ul li ul li ul li.current_page_item > a, aside.sidebar .menu ul li ul li ul li a:hover {
+  background-color: white;
+  color: #fe551a;
+}
+/* line 85, sass/_sidebar.scss */
+aside.sidebar .menu ul li.current_page_item > ul, aside.sidebar .menu ul li.current_page_parent > ul, aside.sidebar .menu ul li.current_page_ancestor > ul {
+  display: block;
+}
+
+/* line 93, sass/_sidebar.scss */
+.cat-filter {
+  background-color: #1a497e;
+  padding: 1em;
+}
+/* line 96, sass/_sidebar.scss */
+.cat-filter h2 {
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  color: white;
+  font-size: 1.2em;
+  margin: 0 0 .65em;
+  text-transform: none;
+}
+/* line 105, sass/_sidebar.scss */
+.cat-filter ul {
+  margin: 0;
+  padding: 0;
+}
+/* line 109, sass/_sidebar.scss */
+.cat-filter ul li {
+  list-style: none;
+  border-bottom: 1px solid #7891B3;
+}
+/* line 113, sass/_sidebar.scss */
+.cat-filter ul li a {
+  display: block;
+  color: white;
+  font-size: .9em;
+  font-weight: 400;
+  text-decoration: none;
+  padding: .5em .75em;
+}
+/* line 121, sass/_sidebar.scss */
+.cat-filter ul li a:hover, .cat-filter ul li a.active {
+  background-color: #355A8C;
+}
+
+/* line 1, sass/_footer.scss */
+.footer {
+  background-color: #2A2A2A;
+  color: white;
+  font-size: 13px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  padding-top: 1px;
+}
+/* line 9, sass/_footer.scss */
+.footer .action {
+  background: url("https://illinois.edu/skinDesigner/files/10776/twitter-speak.png") 55px 10px no-repeat;
+  min-height: 50px;
+}
+/* line 14, sass/_footer.scss */
+.footer .footer-tweet {
+  background-color: #58585a;
+  font-family: "Roboto Slab", serif;
+  font-size: 16px;
+  padding: 1em 2em;
+  margin: 3em 3em 3em 138px;
+}
+/* line 22, sass/_footer.scss */
+.footer .footer-tweet-date {
+  display: none;
+}
+/* line 26, sass/_footer.scss */
+.footer a {
+  color: #409fa3;
+  text-decoration: none;
+  font-weight: normal;
+  font-weight: 400;
+}
+/* line 32, sass/_footer.scss */
+.footer a:hover {
+  text-decoration: underline;
+}
+/* line 37, sass/_footer.scss */
+.footer p {
+  margin: 2px 0;
+  line-height: 1.75em;
+  letter-spacing: 0.05em;
+}
+/* line 43, sass/_footer.scss */
+.footer .col1, .footer .col2 {
+  width: 33%;
+  display: inline-block;
+  vertical-align: top;
+}
+/* line 50, sass/_footer.scss */
+.footer .col1 .quick-links-title {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+/* line 56, sass/_footer.scss */
+.footer .col1 ul {
+  list-style-type: none;
+  padding: 0;
+}
+/* line 60, sass/_footer.scss */
+.footer .col1 ul li {
+  padding: 0.5em 0;
+}
+/* line 66, sass/_footer.scss */
+.footer .col2 {
+  text-align: center;
+}
+/* line 69, sass/_footer.scss */
+.footer .col2 img {
+  margin-bottom: 18px;
+}
+/* line 73, sass/_footer.scss */
+.footer .col2 .phone, .footer .col2 .fax {
+  margin: 0;
+}
+/* line 77, sass/_footer.scss */
+.footer .col2 .label {
+  color: #409fa3;
+  font-weight: 400;
+}
+/* line 82, sass/_footer.scss */
+.footer .col2 .newsletters {
+  display: inline-block;
+  color: white;
+  text-transform: uppercase;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 1.25em;
+  padding: 0.5em 1.5em 0.5em 3em;
+  margin: 18px 0;
+  background: #409fa3 url("https://illinois.edu/skinDesigner/files/10776/email-icon.png") 12px center no-repeat;
+}
+/* line 92, sass/_footer.scss */
+.footer .col2 .newsletters:hover {
+  text-decoration: none;
+  background-color: #f74301;
+}
+/* line 98, sass/_footer.scss */
+.footer .col2 .socialMediaIcons {
+  list-style-type: none;
+  padding: 0;
+  margin: 1em 0 1em 5px;
+}
+/* line 103, sass/_footer.scss */
+.footer .col2 .socialMediaIcons li {
+  display: inline-block;
+  overflow: hidden;
+  text-indent: -9999px;
+  margin-right: 5px;
+}
+/* line 109, sass/_footer.scss */
+.footer .col2 .socialMediaIcons li a {
+  display: block;
+  height: 40px;
+  width: 40px;
+  background: url("https://illinois.edu/skinDesigner/files/10776/social-media-icons.png") #58585a;
+}
+/* line 116, sass/_footer.scss */
+.footer .col2 .socialMediaIcons li .facebookFooterIcon {
+  background-position: 40px 0;
+}
+/* line 120, sass/_footer.scss */
+.footer .col2 .socialMediaIcons li .flickrFooterIcon {
+  background-position: 0 40px;
+}
+/* line 124, sass/_footer.scss */
+.footer .col2 .socialMediaIcons li .youtubeFooterIcon {
+  background-position: 40px 40px;
+}
+/* line 131, sass/_footer.scss */
+.footer .col3 {
+  width: 283px;
+  float: right;
+}
+/* line 136, sass/_footer.scss */
+.footer .copyright {
+  background-color: #313131;
+}
+/* line 138, sass/_footer.scss */
+.footer .copyright p {
+  font-size: .75em;
+  text-align: center;
+  padding: 1em 0;
+}
+
+/* line 2, sass/_news.scss */
+.news h2 a {
+  text-transform: none;
+  font-family: "Roboto Slab", serif;
+}
+
+/* line 8, sass/_news.scss */
+.meta {
+  font-size: .8em;
+  margin: 0 0 -.75em;
+}
+/* line 11, sass/_news.scss */
+.single .meta {
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+  font-size: 1.45em;
+  margin-top: -.85em;
+  margin-bottom: 0;
+}
+/* line 18, sass/_news.scss */
+.featured-news .meta {
+  font-size: .9em;
+}
+
+/* line 22, sass/_news.scss */
+.meta, .meta a {
+  font-style: italic;
+  color: #409fa3;
+  text-decoration: none;
+}
+/* line 27, sass/_news.scss */
+.single .meta, .single .meta a {
+  font-style: normal;
+}
+
+/* line 32, sass/_news.scss */
+.post {
+  *zoom: 1;
+  margin-bottom: 1.5em;
+}
+/* line 35, sass/style.scss */
+.post:before, .post:after {
+  content: " ";
+  display: table;
+}
+/* line 39, sass/style.scss */
+.post:after {
+  clear: both;
+}
+
+/* line 37, sass/_news.scss */
+.featured-news {
+  padding-bottom: 3.1em;
+  border-bottom: 4px double #C9C9C9;
+}
+/* line 41, sass/_news.scss */
+.featured-news .thumbnail {
+  float: left;
+  margin-right: 2.5em;
+}
+/* line 46, sass/_news.scss */
+.featured-news h2 {
+  margin-top: 0;
+}
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+/* line 3, sass/_wp_core.scss */
+.alignnone {
+  margin: 5px 20px 20px 0;
+}
+
+/* line 8, sass/_wp_core.scss */
+.aligncenter,
+div.aligncenter {
+  display: block;
+  margin: 5px auto 5px auto;
+}
+
+/* line 13, sass/_wp_core.scss */
+.alignright {
+  float: right;
+  margin: 5px 0 20px 20px;
+}
+
+/* line 18, sass/_wp_core.scss */
+.alignleft {
+  float: left;
+  margin: 5px 20px 20px 0;
+}
+
+/* line 23, sass/_wp_core.scss */
+.aligncenter {
+  display: block;
+  margin: 5px auto 5px auto;
+}
+
+/* line 28, sass/_wp_core.scss */
+a img.alignright {
+  float: right;
+  margin: 5px 0 20px 20px;
+}
+
+/* line 33, sass/_wp_core.scss */
+a img.alignnone {
+  margin: 5px 20px 20px 0;
+}
+
+/* line 37, sass/_wp_core.scss */
+a img.alignleft {
+  float: left;
+  margin: 5px 20px 20px 0;
+}
+
+/* line 42, sass/_wp_core.scss */
+a img.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 48, sass/_wp_core.scss */
+.wp-caption {
+  background: #fff;
+  border: 1px solid #f0f0f0;
+  max-width: 96%;
+  /* Image does not overflow the content area */
+  padding: 5px 3px 10px;
+  text-align: center;
+}
+
+/* line 56, sass/_wp_core.scss */
+.wp-caption.alignnone {
+  margin: 5px 20px 20px 0;
+}
+
+/* line 60, sass/_wp_core.scss */
+.wp-caption.alignleft {
+  margin: 5px 20px 20px 0;
+}
+
+/* line 64, sass/_wp_core.scss */
+.wp-caption.alignright {
+  margin: 5px 0 20px 20px;
+}
+
+/* line 68, sass/_wp_core.scss */
+.wp-caption img {
+  border: 0 none;
+  height: auto;
+  margin: 0;
+  max-width: 98.5%;
+  padding: 0;
+  width: auto;
+}
+
+/* line 77, sass/_wp_core.scss */
+.wp-caption p.wp-caption-text {
+  font-size: 11px;
+  line-height: 17px;
+  margin: 0;
+  padding: 0 4px 5px;
+}
+
+/*
+* A better looking default horizontal rule
+*/
+/* line 5, sass/_html5bp.scss */
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+/*
+* Remove the gap between images, videos, audio and canvas and the bottom of
+* their containers: h5bp.com/i/440
+*/
+/* line 22, sass/_html5bp.scss */
+audio,
+canvas,
+img,
+video {
+  vertical-align: middle;
+}
+
+/*
+* Remove default fieldset styles.
+*/
+/* line 30, sass/_html5bp.scss */
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+/*
+* Allow only vertical resizing of textareas.
+*/
+/* line 40, sass/_html5bp.scss */
+textarea {
+  resize: vertical;
+}
+
+/* ==========================================================================
+Helper classes
+========================================================================== */
+/*
+* Image replacement
+*/
+/* line 52, sass/_html5bp.scss */
+.ir {
+  background-color: transparent;
+  border: 0;
+  overflow: hidden;
+  /* IE 6/7 fallback */
+  *text-indent: -9999px;
+}
+
+/* line 60, sass/_html5bp.scss */
+.ir:before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 150%;
+}
+
+/*
+* Hide from both screenreaders and browsers: h5bp.com/u
+*/
+/* line 71, sass/_html5bp.scss */
+.hidden {
+  display: none !important;
+  visibility: hidden;
+}
+
+/*
+* Hide only visually, but have it available for screenreaders: h5bp.com/v
+*/
+/* line 80, sass/_html5bp.scss */
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+/*
+* Extends the .visuallyhidden class to allow the element to be focusable
+* when navigated to via the keyboard: h5bp.com/p
+*/
+/* line 97, sass/_html5bp.scss */
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}
+
+/*
+* Hide visually and from screenreaders, but maintain layout
+*/
+/* line 110, sass/_html5bp.scss */
+.invisible {
+  visibility: hidden;
+}
+
+/*
+* Clearfix: contain floats
+*
+* For modern browsers
+* 1. The space content is one way to avoid an Opera bug when the
+*    `contenteditable` attribute is included anywhere else in the document.
+*    Otherwise it causes space to appear at the top and bottom of elements
+*    that receive the `clearfix` class.
+* 2. The use of `table` rather than `block` is only necessary if using
+*    `:before` to contain the top-margins of child elements.
+*/
+/* line 127, sass/_html5bp.scss */
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */
+}
+
+/* line 132, sass/_html5bp.scss */
+.clearfix:after {
+  clear: both;
+}
+
+/*
+* For IE 6/7 only
+* Include this rule to trigger hasLayout and contain floats.
+*/
+/* line 141, sass/_html5bp.scss */
+.clearfix {
+  *zoom: 1;
+}
+
+/*!
+* Bootstrap v2.3.2
+*
+* Copyright 2013 Twitter, Inc
+* Licensed under the Apache License v2.0
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Designed and built with all the love in the world @twitter by @mdo and @fat.
+*/
+@media only screen and (min-width: 30em) {
+  /* line 12, sass/_scaffolding.scss */
+  .row {
+    margin-left: -20px;
+    *zoom: 1;
+  }
+
+  /* line 17, sass/_scaffolding.scss */
+  .row:before,
+  .row:after {
+    display: table;
+    content: "";
+    line-height: 0;
+  }
+
+  /* line 22, sass/_scaffolding.scss */
+  .row:after {
+    clear: both;
+  }
+
+  /* line 25, sass/_scaffolding.scss */
+  [class*="span"] {
+    float: left;
+    min-height: 1px;
+    margin-left: 20px;
+  }
+
+  /* line 33, sass/_scaffolding.scss */
+  .container,
+  .navbar-static-top .container,
+  .navbar-fixed-top .container,
+  .navbar-fixed-bottom .container {
+    width: 940px;
+  }
+
+  /* line 36, sass/_scaffolding.scss */
+  .span12 {
+    width: 940px;
+  }
+
+  /* line 39, sass/_scaffolding.scss */
+  .span11 {
+    width: 860px;
+  }
+
+  /* line 42, sass/_scaffolding.scss */
+  .span10 {
+    width: 780px;
+  }
+
+  /* line 45, sass/_scaffolding.scss */
+  .span9 {
+    width: 700px;
+  }
+
+  /* line 48, sass/_scaffolding.scss */
+  .span8 {
+    width: 620px;
+  }
+
+  /* line 51, sass/_scaffolding.scss */
+  .span7 {
+    width: 540px;
+  }
+
+  /* line 54, sass/_scaffolding.scss */
+  .span6 {
+    width: 460px;
+  }
+
+  /* line 57, sass/_scaffolding.scss */
+  .span5 {
+    width: 380px;
+  }
+
+  /* line 60, sass/_scaffolding.scss */
+  .span4 {
+    width: 300px;
+  }
+
+  /* line 63, sass/_scaffolding.scss */
+  .span3 {
+    width: 220px;
+  }
+
+  /* line 66, sass/_scaffolding.scss */
+  .span2 {
+    width: 140px;
+  }
+
+  /* line 69, sass/_scaffolding.scss */
+  .span1 {
+    width: 60px;
+  }
+
+  /* line 72, sass/_scaffolding.scss */
+  .offset12 {
+    margin-left: 980px;
+  }
+
+  /* line 75, sass/_scaffolding.scss */
+  .offset11 {
+    margin-left: 900px;
+  }
+
+  /* line 78, sass/_scaffolding.scss */
+  .offset10 {
+    margin-left: 820px;
+  }
+
+  /* line 81, sass/_scaffolding.scss */
+  .offset9 {
+    margin-left: 740px;
+  }
+
+  /* line 84, sass/_scaffolding.scss */
+  .offset8 {
+    margin-left: 660px;
+  }
+
+  /* line 87, sass/_scaffolding.scss */
+  .offset7 {
+    margin-left: 580px;
+  }
+
+  /* line 90, sass/_scaffolding.scss */
+  .offset6 {
+    margin-left: 500px;
+  }
+
+  /* line 93, sass/_scaffolding.scss */
+  .offset5 {
+    margin-left: 420px;
+  }
+
+  /* line 96, sass/_scaffolding.scss */
+  .offset4 {
+    margin-left: 340px;
+  }
+
+  /* line 99, sass/_scaffolding.scss */
+  .offset3 {
+    margin-left: 260px;
+  }
+
+  /* line 102, sass/_scaffolding.scss */
+  .offset2 {
+    margin-left: 180px;
+  }
+
+  /* line 105, sass/_scaffolding.scss */
+  .offset1 {
+    margin-left: 100px;
+  }
+
+  /* line 108, sass/_scaffolding.scss */
+  .row-fluid {
+    width: 100%;
+    *zoom: 1;
+  }
+
+  /* line 113, sass/_scaffolding.scss */
+  .row-fluid:before,
+  .row-fluid:after {
+    display: table;
+    content: "";
+    line-height: 0;
+  }
+
+  /* line 118, sass/_scaffolding.scss */
+  .row-fluid:after {
+    clear: both;
+  }
+
+  /* line 121, sass/_scaffolding.scss */
+  .row-fluid [class*="span"] {
+    display: block;
+    width: 100%;
+    min-height: 30px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 2.127659574468085%;
+    *margin-left: 2.074468085106383%;
+  }
+
+  /* line 132, sass/_scaffolding.scss */
+  .row-fluid [class*="span"]:first-child {
+    margin-left: 0;
+  }
+
+  /* line 135, sass/_scaffolding.scss */
+  .row-fluid .controls-row [class*="span"] + [class*="span"] {
+    margin-left: 2.127659574468085%;
+  }
+
+  /* line 138, sass/_scaffolding.scss */
+  .row-fluid .span12 {
+    width: 100%;
+    *width: 99.94680851063829%;
+  }
+
+  /* line 142, sass/_scaffolding.scss */
+  .row-fluid .span11 {
+    width: 91.48936170212765%;
+    *width: 91.43617021276594%;
+  }
+
+  /* line 146, sass/_scaffolding.scss */
+  .row-fluid .span10 {
+    width: 82.97872340425532%;
+    *width: 82.92553191489361%;
+  }
+
+  /* line 150, sass/_scaffolding.scss */
+  .row-fluid .span9 {
+    width: 74.46808510638297%;
+    *width: 74.41489361702126%;
+  }
+
+  /* line 154, sass/_scaffolding.scss */
+  .row-fluid .span8 {
+    width: 65.95744680851064%;
+    *width: 65.90425531914893%;
+  }
+
+  /* line 158, sass/_scaffolding.scss */
+  .row-fluid .span7 {
+    width: 57.44680851063829%;
+    *width: 57.39361702127659%;
+  }
+
+  /* line 162, sass/_scaffolding.scss */
+  .row-fluid .span6 {
+    width: 48.93617021276595%;
+    *width: 48.88297872340425%;
+  }
+
+  /* line 166, sass/_scaffolding.scss */
+  .row-fluid .span5 {
+    width: 40.42553191489362%;
+    *width: 40.37234042553192%;
+  }
+
+  /* line 170, sass/_scaffolding.scss */
+  .row-fluid .span4 {
+    width: 31.914893617021278%;
+    *width: 31.861702127659576%;
+  }
+
+  /* line 174, sass/_scaffolding.scss */
+  .row-fluid .span3 {
+    width: 23.404255319148934%;
+    *width: 23.351063829787233%;
+  }
+
+  /* line 178, sass/_scaffolding.scss */
+  .row-fluid .span2 {
+    width: 14.893617021276595%;
+    *width: 14.840425531914894%;
+  }
+
+  /* line 182, sass/_scaffolding.scss */
+  .row-fluid .span1 {
+    width: 6.382978723404255%;
+    *width: 6.329787234042553%;
+  }
+
+  /* line 186, sass/_scaffolding.scss */
+  .row-fluid .offset12 {
+    margin-left: 104.25531914893617%;
+    *margin-left: 104.14893617021275%;
+  }
+
+  /* line 190, sass/_scaffolding.scss */
+  .row-fluid .offset12:first-child {
+    margin-left: 102.12765957446808%;
+    *margin-left: 102.02127659574467%;
+  }
+
+  /* line 194, sass/_scaffolding.scss */
+  .row-fluid .offset11 {
+    margin-left: 95.74468085106382%;
+    *margin-left: 95.6382978723404%;
+  }
+
+  /* line 198, sass/_scaffolding.scss */
+  .row-fluid .offset11:first-child {
+    margin-left: 93.61702127659574%;
+    *margin-left: 93.51063829787232%;
+  }
+
+  /* line 202, sass/_scaffolding.scss */
+  .row-fluid .offset10 {
+    margin-left: 87.23404255319149%;
+    *margin-left: 87.12765957446807%;
+  }
+
+  /* line 206, sass/_scaffolding.scss */
+  .row-fluid .offset10:first-child {
+    margin-left: 85.1063829787234%;
+    *margin-left: 84.99999999999999%;
+  }
+
+  /* line 210, sass/_scaffolding.scss */
+  .row-fluid .offset9 {
+    margin-left: 78.72340425531914%;
+    *margin-left: 78.61702127659572%;
+  }
+
+  /* line 214, sass/_scaffolding.scss */
+  .row-fluid .offset9:first-child {
+    margin-left: 76.59574468085106%;
+    *margin-left: 76.48936170212764%;
+  }
+
+  /* line 218, sass/_scaffolding.scss */
+  .row-fluid .offset8 {
+    margin-left: 70.2127659574468%;
+    *margin-left: 70.10638297872339%;
+  }
+
+  /* line 222, sass/_scaffolding.scss */
+  .row-fluid .offset8:first-child {
+    margin-left: 68.08510638297872%;
+    *margin-left: 67.9787234042553%;
+  }
+
+  /* line 226, sass/_scaffolding.scss */
+  .row-fluid .offset7 {
+    margin-left: 61.70212765957446%;
+    *margin-left: 61.59574468085106%;
+  }
+
+  /* line 230, sass/_scaffolding.scss */
+  .row-fluid .offset7:first-child {
+    margin-left: 59.574468085106375%;
+    *margin-left: 59.46808510638297%;
+  }
+
+  /* line 234, sass/_scaffolding.scss */
+  .row-fluid .offset6 {
+    margin-left: 53.191489361702125%;
+    *margin-left: 53.085106382978715%;
+  }
+
+  /* line 238, sass/_scaffolding.scss */
+  .row-fluid .offset6:first-child {
+    margin-left: 51.063829787234035%;
+    *margin-left: 50.95744680851063%;
+  }
+
+  /* line 242, sass/_scaffolding.scss */
+  .row-fluid .offset5 {
+    margin-left: 44.68085106382979%;
+    *margin-left: 44.57446808510638%;
+  }
+
+  /* line 246, sass/_scaffolding.scss */
+  .row-fluid .offset5:first-child {
+    margin-left: 42.5531914893617%;
+    *margin-left: 42.4468085106383%;
+  }
+
+  /* line 250, sass/_scaffolding.scss */
+  .row-fluid .offset4 {
+    margin-left: 36.170212765957444%;
+    *margin-left: 36.06382978723405%;
+  }
+
+  /* line 254, sass/_scaffolding.scss */
+  .row-fluid .offset4:first-child {
+    margin-left: 34.04255319148936%;
+    *margin-left: 33.93617021276596%;
+  }
+
+  /* line 258, sass/_scaffolding.scss */
+  .row-fluid .offset3 {
+    margin-left: 27.659574468085104%;
+    *margin-left: 27.5531914893617%;
+  }
+
+  /* line 262, sass/_scaffolding.scss */
+  .row-fluid .offset3:first-child {
+    margin-left: 25.53191489361702%;
+    *margin-left: 25.425531914893618%;
+  }
+
+  /* line 266, sass/_scaffolding.scss */
+  .row-fluid .offset2 {
+    margin-left: 19.148936170212764%;
+    *margin-left: 19.04255319148936%;
+  }
+
+  /* line 270, sass/_scaffolding.scss */
+  .row-fluid .offset2:first-child {
+    margin-left: 17.02127659574468%;
+    *margin-left: 16.914893617021278%;
+  }
+
+  /* line 274, sass/_scaffolding.scss */
+  .row-fluid .offset1 {
+    margin-left: 10.638297872340425%;
+    *margin-left: 10.53191489361702%;
+  }
+
+  /* line 278, sass/_scaffolding.scss */
+  .row-fluid .offset1:first-child {
+    margin-left: 8.51063829787234%;
+    *margin-left: 8.404255319148938%;
+  }
+
+  /* line 283, sass/_scaffolding.scss */
+  [class*="span"].hide,
+  .row-fluid [class*="span"].hide {
+    display: none;
+  }
+
+  /* line 287, sass/_scaffolding.scss */
+  [class*="span"].pull-right,
+  .row-fluid [class*="span"].pull-right {
+    float: right;
+  }
+}
+/* ==========================================================================
+Print styles.
+Inlined to avoid required HTTP connection: h5bp.com/r
+========================================================================== */
+@media print {
+  /* line 7, sass/_print.scss */
+  * {
+    background: transparent !important;
+    color: #000 !important;
+    /* Black prints faster: h5bp.com/s */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  /* line 15, sass/_print.scss */
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  /* line 19, sass/_print.scss */
+  .content-body a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  /* line 23, sass/_print.scss */
+  .content-body abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+/*
+* Don't show links for images, or javascript/internal links
+*/
+/* line 33, sass/_print.scss */
+.ir a:after,
+a[href^="javascript:"]:after,
+a[href^="#"]:after {
+  content: "";
+}
+
+/* line 38, sass/_print.scss */
+pre,
+blockquote {
+  border: 1px solid #999;
+  page-break-inside: avoid;
+}
+
+/* line 43, sass/_print.scss */
+thead {
+  display: table-header-group;
+  /* h5bp.com/t */
+}
+
+/* line 48, sass/_print.scss */
+tr,
+img {
+  page-break-inside: avoid;
+}
+
+/* line 52, sass/_print.scss */
+img {
+  max-width: 100% !important;
+}
+
+@page {
+  margin: 0.5cm;
+}
+
+/* line 62, sass/_print.scss */
+p,
+h2,
+h3 {
+  orphans: 3;
+  widows: 3;
+}
+
+/* line 68, sass/_print.scss */
+h2,
+h3 {
+  page-break-after: avoid;
+}
+}
+/* line 1, sass/_widgets.scss */
+div.vetmed-gift {
+  position: relative;
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+/* line 7, sass/_widgets.scss */
+div.vetmed-gift img {
+  max-width: 90%;
+  height: auto;
+  margin: 0 auto;
+  display: inline-block;
+}
+/* line 14, sass/_widgets.scss */
+div.vetmed-gift .banner-text {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  color: #ffffff;
+  background-color: #fe551a;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 1.2em;
+  padding: 0.4em 2em;
+}
+/* line 28, sass/_widgets.scss */
+div.vetmed-gift:hover .banner-text {
+  background-color: #f74301;
+}
+
+/* line 33, sass/_widgets.scss */
+div.vetmed-refer {
+  width: 100%;
+  background-color: #409fa3;
+  padding: 5px 0;
+  margin: 20px 0;
+}
+/* line 39, sass/_widgets.scss */
+div.vetmed-refer a {
+  color: white;
+}
+/* line 42, sass/_widgets.scss */
+div.vetmed-refer a .title {
+  font-family: "Roboto Slab", serif;
+  color: #ffffff;
+  font-size: 18px;
+  width: 90%;
+  margin: 0 auto;
+}
+/* line 50, sass/_widgets.scss */
+div.vetmed-refer a .description {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  width: 90%;
+  margin: 0 auto;
+  padding-bottom: 1em;
+}
+/* line 58, sass/_widgets.scss */
+div.vetmed-refer a .button {
+  background-color: #56b0b5;
+  margin: 0 10px 10px;
+}
+/* line 63, sass/_widgets.scss */
+div.vetmed-refer a:hover {
+  text-decoration: none;
+}
+/* line 66, sass/_widgets.scss */
+div.vetmed-refer a:hover .button {
+  background-color: #606060;
+}
+
+/* line 73, sass/_widgets.scss */
+div.vetmed-promo {
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+/* line 78, sass/_widgets.scss */
+div.vetmed-promo a {
+  color: #000000;
+}
+/* line 81, sass/_widgets.scss */
+div.vetmed-promo a:hover {
+  text-decoration: none;
+}
+/* line 85, sass/_widgets.scss */
+div.vetmed-promo a img {
+  max-width: 90%;
+  height: auto;
+  margin: 0 auto;
+  display: inline-block;
+}
+/* line 92, sass/_widgets.scss */
+div.vetmed-promo a .banner-text {
+  font-family: "Roboto Slab", serif;
+  background-color: #1a497e;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 1.2em;
+  padding: 0.4em 2em;
+  position: absolute;
+  top: 110px;
+}
+/* line 104, sass/_widgets.scss */
+div.vetmed-promo a .description {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  width: 90%;
+  display: inline-block;
+  text-align: left;
+  margin: 8px 0;
+}
+/* line 113, sass/_widgets.scss */
+div.vetmed-promo a .button {
+  background-color: #969696;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+/* line 119, sass/_widgets.scss */
+div.vetmed-promo a:hover .button {
+  background-color: #56b0b5;
+}
+
+/* line 125, sass/_widgets.scss */
+div.vetmed-homepage-widget {
+  display: inline-block;
+  height: 225px;
+  width: 380px;
+  overflow: hidden;
+  position: relative;
+  margin-right: 30px;
+}
+/* line 133, sass/_widgets.scss */
+div.vetmed-homepage-widget img {
+  min-width: 380px;
+  min-height: 225px;
+}
+/* line 138, sass/_widgets.scss */
+div.vetmed-homepage-widget .promo-text {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  background: #244b7e;
+  color: white;
+  text-transform: uppercase;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 20px;
+  width: 298px;
+  font-weight: 300;
+  padding: 5px 12px;
+  margin: 0;
+}
+
+/* line 155, sass/_widgets.scss */
+div.vetmed-homepage-video-widget p {
+  margin: 0;
+  padding: 0;
+}
+/* line 160, sass/_widgets.scss */
+div.vetmed-homepage-video-widget iframe {
+  width: 380px;
+  height: 225px;
+}
+
+/* line 1, sass/_pullout.scss */
+.pullout {
+  background: #409fa3;
+  color: white;
+  display: inline-block;
+  float: right;
+  width: 214px;
+  padding: 7px 18px;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 1.5em;
+  letter-spacing: 0.05em;
+  margin: 0 0 15px 15px;
+}
+/* line 14, sass/_pullout.scss */
+.pullout h2 {
+  font-family: "Roboto Slab", serif;
+  text-transform: none;
+  border-bottom: 1px solid #56b0b5;
+  font-size: 18px;
+  color: white;
+  font-weight: 300;
+  padding-bottom: 3px;
+}
+/* line 24, sass/_pullout.scss */
+.pullout h3 {
+  font-size: 13px;
+  font-weight: 400;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  margin: 0 0 10px;
+}
+/* line 32, sass/_pullout.scss */
+.pullout strong {
+  font-weight: 400;
+}
+/* line 36, sass/_pullout.scss */
+.pullout a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 2px solid #56b0b5;
+}
+/* line 42, sass/_pullout.scss */
+.pullout a:hover {
+  color: #f74301;
+  border-bottom: 2px solid #f74301;
+}
+
+/* Directory Specific */
+.content-body #ws-ds {
+  font-size: inherit;
+  width: 100%;
+}
+.content-body #ws-ds .ws-ds-header-row {
+  display:none;
+}
+.content-body #ws-ds #ws-image-content {
+  width: 250px;
+  text-align: right;
+  float: left;
+  margin-top: 22px;
+}
+.content-body #ws-ds .ws-ds-img {
+  border: none;
+  padding: 0;
+}
+.content-body #ws-ds .ws-address-wrapper {
+  float: left;
+  clear: left;
+  background: #409fa3;
+  color: white;
+  display: inline-block;
+  width: 214px;
+  padding: 7px 18px;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 1.5em;
+  letter-spacing: 0.05em;
+  margin: 5px 0 0 0;
+}
+.content-body #ws-ds .ws-address-wrapper a, .content-body #ws-ds .ws-address-wrapper a {
+  color:white;
+  text-decoration: underline;
+}
+.content-body #ws-ds .ws-address-wrapper:before {
+  content: 'Contact Info';
+  font-family: "Roboto Slab", serif;
+  text-transform: none;
+  border-bottom: 2px solid #56b0b5;
+  font-size: 18px;
+  color: white;
+  font-weight: 600;
+  padding-bottom: 3px;
+  display: block;
+  margin: 10px 0;
+}
+.content-body #ws-ds h4 {
+  font-size: 2.3em;
+  font-family: "Roboto Condensed", sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin: 0.5em 0;
+  line-height: 1.15;
+  color: #1a497e;
+}
+.content-body #ws-ds .ws-ds-detail ul li {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.4em;
+  font-size: 15px;
+}
+.content-body #ws-ds .ws-ds-name {
+  font-size: 3.85em;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.15;
+  margin: 0.3em 0 0.5em;
+  color: black;
+  margin-left: 278px;
+}
+.content-body #ws-ds .role-and-dept {
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+  font-size: 1.35em;
+  line-height: 1.5em;
+  margin-top: -.85em;
+  margin-bottom: 0;
+  margin-left: 278px;
+}
+.content-body #ws-ds .ws-ds-clear {
+  clear:none;
+}
+.content-body #ws-ds .ws-ds-office {
+  display:none;
+}
+.content-body #ws-ds #ws-cat {
+  margin-left: 278px;
+}
+.content-body #ws-ds ul {
+  list-style-type: none;
+  padding: 0;
+}
+.content-body #ws-ds ul li {
+  padding-left: 30px;
+  background: url('https://illinois.edu/skinDesigner/files/10776/left_arrow_teal.png') no-repeat 10px 6px;
+}
+.content-body #edu-il #uc-ws #cal-wrapper ol.full-list li {
+  width: inherit;
+  float: none;
+}
+
+.content-body #edu-il #uc-ws #cal-wrapper #cal-content {
+  width: 100%;
+}
+
+.content-body #edu-il {
+  width: inherit;
+}
+
+.content-body #edu-il #uc-ws #cal-wrapper #cal-body {
+  width: inherit;
+}
+
+.content-body #mini-cal table tbody tr {
+  height: inherit;
+}
+.content-body #edu-il #uc-ws #cal-wrapper #cal-tabs > div:first-child {
+  position: relative;
+}
+.content-body #edu-il #uc-ws #cal-wrapper #cal-tabs ul#info-top {
+  xxxleft: 963px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.content-body #edu-il #uc-ws #cal-wrapper #cal-content {
+  border: none;
+  padding: 0;
+}
+
+.content-body #edu-il #uc-ws #cal-wrapper #cal-tabs {
+  margin-bottom: 10px;
+}
+
+.content-body #edu-il #uc-ws #cal-wrapper #cal-body h1 {
+  clear: left;
+  font-size: 3.85em;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.15;
+  margin: 0.3em 0 0.5em;
+}
+
+.content-body #edu-il #uc-ws #cal-wrapper #grid-table {
+  width: 100%;
+}
+/* Widths to edit */
+#ws-ds {
+width:640px;
+}
+#ws-ds .ws-ds-name-field {
+width:527px;
+}
+
+/* rest of css - customization not advised */
+#ws-ds {
+font-family:Verdana, arial, sans-serif;
+font-size:12px;
+min-height:420px;
+margin-top:0;
+}
+#ws-ds .ws-ds-login-info {
+margin-left:12px;
+border:0;
+position:relative;
+top:3px;
+}
+#ws-ds .ws-ds-footnote {
+color:gray;
+display:none;
+font-size:12px;
+font-style:italic;
+padding-left:7px;
+padding-top:18px;
+line-height:18px;
+}
+.ws-ds-note {
+font-style:italic;
+color:gray;
+font-size:11px;
+}
+#ws-ds-footer {
+color:gray;
+display:none;
+font-size:11px;
+margin-top:24px;
+font-style:italic;
+padding-left:7px;
+}
+#ws-ds .ws-ds-underline {
+border-bottom:1px dotted gray;
+font-style:italic;
+}
+#ws-ds .ws-ds-error {
+color:red;
+}
+#ws-ds h4 {
+border-bottom-color:#069;
+font-size:14px;
+font-weight: bold;
+line-height:15px;
+margin:0 0 8px;
+padding:10px 0 5px 0;
+}
+.ws-ds-no-display {
+position:absolute;
+left:-3000px;
+}
+.ws-ds-left {
+float:left;
+}
+#ws-ds .ws-ds-list-name {
+text-transform:capitalize;
+font-weight:bold;
+font-family:Verdana, Geneva, sans-serif;
+font-size:11px;
+}
+#ws-ds ul li {
+padding-bottom:4px;
+}
+#ws-ds li a {
+border-bottom:none;
+text-decoration:none;
+font-family:verdana;
+}
+#ws-ds li a:hover {
+border-bottom:none;
+text-decoration:underline;
+}
+#ws-ds .ws-ds-intro {
+width:460px;
+color:#202020;
+display:none;
+font-size:13px;
+line-height:18px;
+margin-bottom:12px;
+margin-top:12px;
+}
+#ws-ds .ws-ds-list-email {
+padding-left:8px;
+font-style:italic;
+font-family:Verdana, Geneva, sans-serif;
+font-size:11px;
+padding-right:12px;
+}
+#ws-ds .ws-ds-list-netid {
+font-size:12px;
+padding-left:8px;
+font-style:italic;
+color:#404040;
+}
+#ws-ds .ws-ds-list-title {
+color:#404040;
+font-family:Verdana, Geneva, sans-serif;
+font-size:10px;
+}
+#ws-ds .ws-ds-list-label {
+margin-left:18px;
+float:left;
+width:40px;
+}
+#ws-ds .ws-ds-list-value {
+float:right;
+width:374px;
+}
+#ws-ds .ws-ds-list-value a {
+font-weight:normal;
+}
+#ws-ds .ws-ds-list-label-left {
+margin-left:18px;
+float:left;
+width:68px;
+}
+#ws-ds .ws-ds-list-value-left {
+float:right;
+width:346px;
+}
+#ws-ds #ws-ds-details {
+background-color:#FCFCFA;
+border:1px solid #EEE;
+border-bottom:0;
+font-size:12px;
+width:460px;
+line-height:16px;
+-moz-border-radius:2px;
+border-radius:2px;
+}
+#ws-ds .ws-ds-details-row {
+border-bottom:1px solid #EEE;
+background-color:#FCFCFA;
+padding:6px;
+}
+#ws-ds .ws-ds-details-label {
+margin-right:12px;
+}
+#ws-ds .ws-ds-details-col-left {
+width:120px;
+float:left;
+}
+#ws-ds .ws-ds-details-col-right {
+width:310px;
+float:left;
+}
+#ws-ds .ws-ds-details-col-left-all {
+width:170px;
+float:left;
+}
+#ws-ds .ws-ds-details-col-right-all {
+width:260px;
+float:left;
+}
+#ws-ds .ws-ds-breadcrumbs {
+color:#A19D9D;
+font-size:11px;
+font-style:italic;
+margin-bottom:8px;
+float:left;
+width:236px;
+}
+#ws-ds .ws-ds-login {
+font-size:11px;
+font-style:italic;
+margin-bottom:8px;
+text-align:right;
+}
+#ws-ds .ws-ds-login a {
+color:gray;
+margin-left:0;
+}
+#ws-ds .ws-ds-login a#more-details {
+display:none!important;
+}
+#a-z-search-wrapper {
+background-color:#E5EBF0;
+border:1px solid #D6D6D6;
+border-radius:6px 6px 6px 6px;
+font-size:11px;
+width:484px;
+padding:12px;
+}
+#ws-a-z #search-text {
+width:398px;
+border:1px solid #FFF;
+background-color:#BBCDD9;
+font-weight:bold;
+color:#0F285C;
+padding:6px;
+}
+#ws-a-z #unitId {
+width:412px;
+border:1px solid #FFF;
+background-color:#BBCDD9;
+font-weight:bold;
+margin-bottom:12px;
+color:#0F285C;
+padding:6px 6px 2px 4px;
+}
+#a-z-search-wrapper input[type=submit] {
+border-radius:8px;
+border:1px solid gray;
+width:60px;
+margin-left:12px;
+padding-top:2px;
+padding-bottom:2px;
+}
+#ws-ds .ws-ds-search-wrapper {
+background-color:#E5EBF0;
+border:1px solid #D6D6D6;
+border-radius:6px 6px 6px 6px;
+font-size:11px;
+margin-top:18px;
+width:auto;
+padding:12px 12px 8px;
+}
+.ws-ds-search-row input[type=submit] {
+border-radius:8px;
+border:1px solid gray;
+padding-top:2px;
+padding-bottom:2px;
+}
+#ws-ds .ws-ds-name-field {
+border:1px solid #FFF;
+background-color:#BBCDD9;
+font-weight:bold;
+color:#0F285C;
+padding:6px;
+}
+#ws-ds .ws-ds-label {
+padding-right:12px;
+position:relative;
+color:#202020;
+top:-2px;
+left:0;
+}
+#ws-ds .ws-ds-label-right {
+padding-right:0;
+}
+#ws-ds .ws-ds-left-name {
+text-transform:capitalize;
+}
+#ws-ds .ws-ds-student-details-col-left {
+width:80px;
+float:left;
+}
+#ws-ds .ws-ds-student-details-col-right {
+width:354px;
+float:left;
+}
+#ws-ds .ws-ds-department-details-col-left {
+width:74px;
+float:left;
+}
+#ws-ds .ws-ds-department-details-col-right {
+width:350px;
+float:left;
+}
+#ws-ds .ws-ds-secure-field {
+font-weight:bold;
+}
+#ws-ds .ws-ds-map {
+padding-left:8px;
+}
+div#content #ws-ds .ws-ds-map a {
+font-size:11px;
+font-style:italic;
+color:gray;
+border:none;
+}
+#ws-a-z {
+font-family:arial;
+min-height:420px;
+width:600px;
+margin-top:12px;
+}
+#ws-a-z h2 {
+margin-top:12px;
+margin-left:3px;
+border:0;
+}
+#ws-a-z .ws-a-z-top {
+padding-left:18px;
+font-size:11px;
+color:gray;
+}
+#ws-a-z .ws-a-z-top a {
+color:gray;
+font-weight:normal;
+}
+#ws-a-z .ws-a-z-dot {
+color:gray;
+padding-left:1px;
+padding-right:1px;
+}
+#ws-a-z .ws-a-z-letter {
+font-size:14px;
+padding:4px 6px;
+}
+#ws-a-z .ws-a-z-letter:hover {
+background-color:#BBCDD9;
+color:#FFF;
+}
+#ws-a-z .ws-ds-search-box {
+width:384px;
+}
+#ws-a-z .ws-ds-letters {
+margin-top:18px;
+}
+#ws-a-z .ws-ds-breadcrumbs {
+color:#A19D9D;
+font-size:11px;
+font-style:italic;
+margin-bottom:12px;
+width:310px;
+float:left;
+}
+.ws-ds-disclaimer {
+background-color:#FFF1CB;
+border:1px solid #FEC81E;
+color:#202020;
+font-size:11px;
+margin-bottom:24px;
+text-align:left;
+padding:2px 6px;
+}
+#ws-ds .ws-ds-detail ol, #ws-ds .ws-ds-detail ul {
+line-height:normal;
+}
+#ws-ds .ws-ds-detail p {
+font-family:verdana;
+font-size:11px;
+line-height:1.3em;
+margin-top:0;
+padding-top:0;
+}
+#ws-ds .ws-ds-detail li {
+font-family:verdana;
+font-size:11px;
+padding:0 0 4px;
+}
+#ws-ds .ws-ds-detail h5 {
+font-size:13px;
+margin-bottom:0;
+padding-bottom:2px;
+}
+#ws-ds .ws-ds-img-wrapper {
+float:right;
+margin-left:18px;
+margin-bottom:11px;
+border:1px solid silver;
+padding:4px;
+}
+#ws-ds #ws-ds-sys-attribute {
+line-height:1.4em;
+letter-spacing:.03em;
+}
+#ws-ds #ws-ds-sys-attribute a {
+border:0;
+text-decoration:none;
+}
+#ws-ds .ws-ds-name {
+margin-top:0;
+font-size:16px;
+margin-bottom:2px;
+text-transform:capitalize;
+background-image:none;
+padding-left:0;
+border-bottom:none;
+}
+#ws-ds .ws-send-to-friend {
+position:relative;
+top:0;
+padding-left:0;
+border-bottom:0;
+}
+#ws-ds .ws-ds-img {
+width:170px;
+border:1px solid silver;
+margin-left:12px;
+margin-bottom:12px;
+padding:4px;
+}
+#ws-ds .ws-ds-detail-top {
+margin-top:0;
+}
+#ws-ds ul.ds-result-wrapper {
+list-style-type:none;
+font-family:Verdana, Geneva, sans-serif;
+margin:12px 0 0;
+padding:0;
+}
+#ws-ds ul.ds-result-wrapper li {
+border:1px solid silver;
+border-bottom:0;
+list-style-type:none;
+width:454px;
+margin:0;
+padding:0 4px;
+}
+#ws-a-z #ws-s-m .ws-ds-dept-details ul, #ws-a-z #ws-s-m .ws-ds-dept-details ol {
+margin:0;
+padding:0;
+}
+#ws-a-z #ws-s-m .ws-ds-dept-details li {
+list-style:none;
+margin:0 0 12px;
+padding:0;
+}
+#ws-a-z #ws-s-m .ws-ds-dept-details li a {
+border:0;
+background-color:transparent;
+}
+#ws-a-z #ws-s-m .ws-ds-dept-details li a:hover {
+border:0;
+color:#F60;
+background-color:transparent;
+}
+.ws-show-flag {
+display:none;
+width:66px;
+}
+.ws-ds-notes {
+color:gray;
+font-style:italic;
+font-size:11px;
+font-weight:normal;
+}
+#ws-a-z .ws-ds-dept-details td a:hover {
+border:0;
+background:none;
+color:#F60;
+}
+.ws-a-z-na {
+color:gray;
+font-size:11px;
+position:relative;
+top:1px;
+}
+#ws-a-z .ws-ds-dept-details td.ws-valid-col {
+text-align:center;
+}
+.#ws-ds .ws-send-to-friend {
+top:0;
+}
+#ws-ds .ws-ds-contact-unit {
+font-size:12px;
+font-weight:bold;
+}
+
+#ws-ds .ws-ds-contact-name {
+font-size:12px;
+padding-right:6px;
+}
+#ws-ds .ws-ds-contact-cco {
+font-size:10px;
+color:gray;
+}
+#ws-ds .ws-ds-contact-email {
+font-size:12px;
+font-style:italic;
+padding-right:6px;
+}
+#ws-ds .ws-ds-social {
+margin-top:16px;
+width:180px;
+}
+#ws-ds .ws-ds-social-space {
+padding-right:8px;
+}
+#ws-ds .ws-ds-address {
+margin-bottom:12px;
+}
+#ws-ds .ws-ds-social-list-name {
+position:relative;
+left:8px;
+top:-3px;
+font-size:11px;
+}
+#ws-ds .ws-ds-social-list-row {
+margin-bottom:6px;
+}
+#ws-ds .ws-ds-social-list a {
+border:0;
+padding-right:12px;
+}
+.ws-ds-dept-details {
+display:block;
+width:100%;
+float:none;
+}
+.ws-ds-dept-details table {
+border:0;
+background-color:#CCC;
+font-size:11px;
+border-spacing:0;
+margin:0 0 10px;
+}
+.ws-ds-dept-details td {
+background-color:#FFF;
+font-size:11px;
+vertical-align:top;
+border:0;
+color:#404040;
+padding:1px 4px 2px;
+}
+#ws-ds .ws-ds-dept-details table a {
+text-decoration:underline;
+font-size:11px;
+border:0;
+}
+.ws-ds-dept-details th.ws-ds-table-header {
+background-color:#FFF;
+text-align:left;
+vertical-align:top;
+font-size:11px;
+font-weight:bold;
+border:0;
+padding:0 4px 2px;
+}
+.ws-ds-dept-details .ws-ds-table-col1 {
+width:158px;
+text-align:left;
+padding-bottom:10px;
+}
+.ws-ds-dept-details .ws-ds-table-col2 {
+width:163px;
+text-align:left;
+}
+.ws-ds-dept-details .ws-ds-table-col3 {
+width:112px;
+text-align:left;
+}
+.ws-ds-dept-details .ws-ds-table-col1-az {
+width:392px;
+text-align:left;
+padding-top:4px;
+}
+.ws-ds-dept-details .ws-ds-table-col2-az {
+width:24px;
+text-align:left;
+padding-top:4px;
+}
+.ws-ds-dept-details .ws-ds-table-col3-az {
+width:84px;
+text-align:left;
+padding-top:4px;
+}
+.ws-ds-dept-details .ws-ds-table-col4-az {
+padding-top:4px;
+}
+.ws-ds-dept-details .ws-ds-table-col1-az-only {
+width:472px;
+text-align:left;
+border-bottom:1px dotted #E5EBF0;
+padding-top:4px;
+}
+.ws-ds-dept-details .ws-ds-table-col2-az-only {
+width:24px;
+text-align:left;
+border-bottom:1px dotted #E5EBF0;
+padding-top:4px;
+}
+.ws-ds-dept-details .ws-ds-table-col3-az-only {
+width:76px;
+text-align:right;
+border-bottom:1px dotted #E5EBF0;
+padding-top:4px;
+padding-right:0;
+}
+.ws-ds-dept-details .ws-ds-table-col4-az-only {
+border-bottom:1px dotted #E5EBF0;
+padding-top:4px;
+}
+#ws-ds #ws-ds-person th.ws-ds-table-header-person {
+background-color:#F0F0F0;
+text-align:left;
+vertical-align:top;
+font-size:11px;
+font-weight:bold;
+border-bottom:1px solid silver;
+padding:0 4px 2px;
+}
+.ws-ds-dept-details .ws-ds-row-spacer {
+height:2px;
+line-height:2px;
+border-top:1px dotted #BBCDD9;
+}
+#ws-ds #ws-ds-person .ws-ds-table-col1-name {
+width:128px;
+}
+#ws-ds #ws-ds-person .ws-ds-table-col1 {
+width:170px;
+}
+#ws-ds #ws-ds-person .ws-ds-table-col2 {
+width:410px;
+}
+#ws-ds #ws-ds-person .ws-ds-table-col3 {
+width:110px;
+}
+.ws-ds-search-role {
+font-style:normal;
+}
+ws-ds-dept-website {
+position:relative;
+top:2px;
+left:4px;
+}
+div#content #ws-ds .ws-ds-social-space a, a:link, a:hover {
+border:none;
+}
+#ws-ds #ws-ds-sys-attribute a:hover {
+border-bottom:1px solid #0F285C;
+text-decoration:none;
+}
+#ws-ds #ds-contact-info {
+border:1px solid silver;
+z-index:1000;
+color:gray;
+margin-top:8px;
+font-size:12px;
+padding:4px;
+}
+#ws-ds #ds-contact-info h4 {
+font-size:13px;
+font-style:italic;
+font-weight:normal;
+color:gray;
+text-align:left;
+margin:0 0 12px;
+padding:0;
+}
+#ws-ds #ds-contact-info h5 {
+font-size:12px;
+color:gray;
+margin:0;
+padding:0;
+}
+#ws-ds #ds-contact-info li {
+margin-top:0;
+margin-bottom:0;
+padding-top:0;
+padding-bottom:2px;
+}
+.ws-ds-clear-left {
+clear:left;
+}
+.expand-img {
+float:left;
+padding-right:4px;
+position:relative;
+top:2px;
+left:-4px;
+border:0;
+}
+.collapse-img {
+display:none;
+float:left;
+padding-right:4px;
+position:relative;
+top:2px;
+left:-4px;
+border:0;
+}
+#ws-a-z .ws-ds-dept-details li {
+list-style-image:url(https://illinois.edu/webservices/public/images/bulletSmall.gif);
+font-size:12px;
+font-family:verdana;
+padding-bottom:0;
+padding-top:1px;
+margin-left:22px;
+}
+.ws-ds-dept-name {
+font-size:13px;
+font-weight:normal;
+padding-top:0;
+padding-bottom:0;
+}
+.ws-ds-college-name {
+font-weight:normal;
+padding-top:0;
+padding-bottom:4px;
+}
+#ws-a-z #ws-ds-faculty-listing {
+font-weight:normal;
+font-size:16px;
+float:left;
+}
+.ws-a-z-notes {
+color:gray;
+font-style:italic;
+padding-left:6px;
+}
+#phone-label {
+padding-left:7px;
+}
+#ws-a-z #a-label {
+margin-left:6px;
+}
+#ws-ds ul {
+margin-bottom:18px;
+}
+#ws-name, #ws-ds .ws-ds-search-row {
+margin-bottom:8px;
+}
+#ws-name-dir, .ws-role, #ws-ds .more-details, #ws-ds .less-details, #ws-ds .ws-ds-login a#login-button, #ws-ds .ws-ds-login a#login-wrapper, #ws-ds .ws-ds-hide, .contact-information, .ws-content-block-title, .ws-notAvailable, .ws-system-show, .ws-search-bar-detail, #ws-ds .ws-ds-example-wrapper {
+display:none;
+}
+#ws-ds .marketing-info-on, #ws-ds .official-info-on {
+position:inherit;
+}
+#ws-ds .marketing-info-off, #ws-ds .official-info-off, #ws-ds .place-off-screen, .place-off-screen {
+position:absolute;
+top:-10000px;
+left:-10000px;
+}
+#ws-ds img, #ws-a-z #a-z-search-wrapper a, #ws-a-z #a-z-search-wrapper a:hover, #ws-a-z .ws-ds-dept-details td a, .ws-ds-no-border, #ws-a-z .ws-ds-dept-details a {
+border:0;
+}
+#ws-ds-footer a, #ws-ds .ws-ds-breadcrumbs a, #ws-a-z .ws-ds-breadcrumbs a {
+color:gray;
+}
+.ws-ds-clear, #ws-ds .ws-ds-clear {
+clear:both;
+}
+#ws-ds .ws-ds-text, #ws-a-z .ws-ds-text {
+font-size:13px;
+}
+#a-z-search-wrapper input[type=submit]:hover, .ws-ds-search-row input[type=submit]:hover {
+cursor:pointer;
+}
+#ws-a-z .ws-ds-a-z-phone, #ws-az-compliance, .ws-az-compliance {
+font-size:12px;
+}
+#ws-ds .ws-ds-office, #ws-ds .ws-ds-office a, #ws-ds .ws-ds-office a:hover {
+font-weight:bold;
+font-size:12px;
+}
+#ws-ds .ws-left, #ws-ds .ws-ds-dept-type, .ws-note {
+color:gray;
+font-style:italic;
+}
+#ws-ds .ws-ds-list-name a, #ws-ds .ws-ds-list-email a {
+font-family:Verdana, Geneva, sans-serif;
+font-size:11px;
+}
+.s-m-title, #ws-ds .ws-ds-social img {
+margin-bottom:4px;
+}
+#ws-a-z .ws-validation img, .ws-ds-dept-website-az {
+position:relative;
+top:2px;
+}
+#ws-ds .ws-ds-social a:hover, #ws-ds .ws-ds-social-list a:hover, #ws-a-z .ws-ds-dept-details table {
+background-color:transparent;
+}
+.ws-ds-dept-details a:hover, #ws-a-z .ws-ds-dept-details a:hover {
+text-decoration:underline;
+}
+.ws-ds-search-phone, .ws-ds-search-email, em {
+font-style:italic;
+}
+.ws-ds-dept-website a, .ws-ds-dept-website-az a {
+padding-top:2px;
+padding-left:8px;
+padding-right:8px;
+}
+#ws-ds .place-on-screen, .place-on-screen {
+position:relative;
+top:0;
+left:0;
+}
+</style>
+
+  <link rel="stylesheet" id="google-open-sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&amp;ver=1.0" type="text/css" media="all">
+  <link rel="stylesheet" id="google-roboto-slab-css" href="https://fonts.googleapis.com/css?family=Roboto+Slab%3A400%2C300&amp;ver=1.0" type="text/css" media="all">
+  <link rel="stylesheet" id="google-roboto-condensed-css" href="https://fonts.googleapis.com/css?family=Roboto+Condensed%3A400%2C700&amp;ver=1.0" type="text/css" media="all">
+  <!--[if lt IE 9]><script src="https://html5shiv-printshiv.googlecode.com/svn/trunk/html5shiv-printshiv.js"></script><![endif]-->	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script src="https://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A%221.0%22%2C%22callback%22%3A%22__gcse.scb%22%2C%22style%22%3A%22https%3A%2F%2Fwww.google.com%2Fcse%2Fstatic%2Fstyle%2Flook%2Fminimalist.css%22%2C%22language%22%3A%22en%22%7D%5D%7D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/uds/api/search/1.0/890e228675e68570fa203500d9572ad4/default+en.css" rel="stylesheet"><link type="text/css" href="https://www.google.com/cse/static/style/look/minimalist.css" rel="stylesheet"><script type="text/javascript" src="https://www.google.com/uds/api/search/1.0/890e228675e68570fa203500d9572ad4/default+en.I.js"></script><style type="text/css">
+</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-moz-user-select:none;white-space:nowrap}.gsst_e{opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gsq_a{padding:0}.gscsep_a{display:none}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gsfe_a{border:1px solid #b9b9b9;border-top-color:#a0a0a0;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);}.gsfe_b{border:1px solid #4d90fe;outline:none;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);}.gssb_a{padding:0 7px}.gssb_e{border:0}.gssb_l{margin:5px 0}#gsc-i-id1::-webkit-input-placeholder{font-size:14px}#gsc-i-id1:-moz-placeholder{font-size:14px}#gsc-i-id1::-moz-placeholder{font-size:14px}#gsc-i-id1:-ms-input-placeholder{font-size:14px}#gsc-i-id1:focus::-webkit-input-placeholder{color:transparent}#gsc-i-id1:focus:-moz-placeholder{color:transparent}#gsc-i-id1:focus::-moz-placeholder{color:transparent}#gsc-i-id1:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-moz-user-select:none;white-space:nowrap}.gsst_e{opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gsq_a{padding:0}.gscsep_a{display:none}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gsfe_a{border:1px solid #b9b9b9;border-top-color:#a0a0a0;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);}.gsfe_b{border:1px solid #4d90fe;outline:none;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);}.gssb_a{padding:0 7px}.gssb_e{border:0}.gssb_l{margin:5px 0}#gsc-i-id1::-webkit-input-placeholder{font-size:14px}#gsc-i-id1:-moz-placeholder{font-size:14px}#gsc-i-id1::-moz-placeholder{font-size:14px}#gsc-i-id1:-ms-input-placeholder{font-size:14px}#gsc-i-id1:focus::-webkit-input-placeholder{color:transparent}#gsc-i-id1:focus:-moz-placeholder{color:transparent}#gsc-i-id1:focus::-moz-placeholder{color:transparent}#gsc-i-id1:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+
+<body><div class="vm_container">
+  <header class="banner" role="banner">
+    <div class="contain">
+      <div class="top">
+        <div class="wrap clearfix">
+          <a href="http://vetmed.illinois.edu" class="logo">
+            <img alt="Illinois College of Veterinary Medicine" src="https://illinois.edu/skinDesigner/files/10776/logo_m.png">
+          </a>
+          <nav class="eyebrow" role="navigation" aria-label="Eyebrow Navigation">
+            <a class="visuallyhidden" href="#content" title="Skip to content">Skip to content</a>
+            <ul id="menu-eyebrow-menu" class="menu clearfix"><li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-33 current_page_item menu-item-45"><a href="http://vetmed.illinois.edu/news/">News</a></li>
+              <li id="menu-item-2431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2431"><a href="http://illinois.edu/calendar/list/705?skinId=10776">Calendar</a></li>
+              <li id="menu-item-474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-474"><a href="http://vetmed.illinois.edu/directory/">Directory</a></li>
+              <li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="http://vetmed.illinois.edu/about/contact-location/">Contact</a></li>
+              <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a target="_blank" href="http://vetmed.illinois.edu/intranet/">Intranet</a></li>
+              <li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a target="_blank" href="http://www.library.illinois.edu/vex/">Library</a></li>
+              <li id="menu-item-3524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3524"><a title="search" href="#/">Search</a></li>
+            </ul>
+            <!-- Google Search -->
+            <div class="search">
+              <div class="arrow-up"></div>
+              <div class="search-container">
+                <script type="text/javascript" async="" src="http://www.google.com/cse/cse.js?cx=014408684841946261688:mv15im4htho"></script><script>
+                  (function() {
+                    var cx = '014408684841946261688:mv15im4htho';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.google.com/cse/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
+                  })();
+                </script>
+                <div id="___gcse_0"><div class="gsc-control-searchbox-only gsc-control-searchbox-only-en" dir="ltr"><form class="gsc-search-box" accept-charset="utf-8"><table class="gsc-search-box" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-input"><input autocomplete="off" size="10" class=" gsc-input" name="search" title="search" id="gsc-i-id1" x-webkit-speech="" x-webkit-grammar="builtin:search" dir="ltr" spellcheck="false" style="outline: medium none; background: rgb(255, 255, 255) url(&quot;http://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png&quot;) no-repeat scroll left center; text-indent: 48px;" placeholder="Custom Search" type="text" lang="en"><input name="bgresponse" id="bgresponse" type="hidden"></td><td class="gsc-search-button"><input value="Search" class="gsc-search-button" title="search" type="button"></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table><table class="gsc-branding" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-branding-user-defined"></td><td class="gsc-branding-text"><div class="gsc-branding-text">powered by</div></td><td class="gsc-branding-img"><img src="https://www.google.com/cse/static/images/1x/googlelogo_grey_46x15dp.png" class="gsc-branding-img" srcset="https://www.google.com/cse/static/images/2x/googlelogo_grey_46x15dp.png 2x"></td></tr></tbody></table></form></div></div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+    <div class="transparent">
+      <div id="navbar" class="navbar">
+        <div class="wrap">
+          <nav role="navigation" aria-label="Primary Navigation">
+            <a class="visuallyhidden" href="#content" title="Skip to content">Skip to content</a>
+            <ul class="controls m">
+              <li><a class="home" href="http://vetmed.illinois.edu">Home</a></li>
+              <li><a class="search click" href="#">Search</a></li>
+              <li><a class="menu click" href="#">Menu</a></li>
+            </ul>
+            <div class="dropdown">
+              <div class="m search">
+                <div id="___gcse_1"><div class="gsc-control-searchbox-only gsc-control-searchbox-only-en" dir="ltr"><form class="gsc-search-box" accept-charset="utf-8"><table class="gsc-search-box" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-input"><input autocomplete="off" size="10" class=" gsc-input" name="search" title="search" id="gsc-i-id2" x-webkit-speech="" x-webkit-grammar="builtin:search" dir="ltr" spellcheck="false" style="outline: medium none; background: rgb(255, 255, 255) url(&quot;http://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png&quot;) no-repeat scroll left center; text-indent: 48px;" placeholder="Custom Search" type="text" lang="en"><input name="bgresponse" id="bgresponse" type="hidden"></td><td class="gsc-search-button"><input value="Search" class="gsc-search-button" title="search" type="button"></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table><table class="gsc-branding" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-branding-user-defined"></td><td class="gsc-branding-text"><div class="gsc-branding-text">powered by</div></td><td class="gsc-branding-img"><img src="https://www.google.com/cse/static/images/1x/googlelogo_grey_46x15dp.png" class="gsc-branding-img" srcset="https://www.google.com/cse/static/images/2x/googlelogo_grey_46x15dp.png 2x"></td></tr></tbody></table></form></div></div>
+              </div>
+              <div class="menus clearfix">
+                <h2 class="m">Navigation</h2>
+                <ul id="menu-main-menu" class="main clearfix">
+                  <li id="menu-item-1387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1387"><a href="http://vetmed.illinois.edu/college-organization/">Depts/Units</a>
+                    <ul class="sub-menu">
+                      <li id="menu-item-5555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5555"><a href="http://vetmed.illinois.edu/research/departments/comparative-biosciences/">Comparative Biosciences</a></li>
+                      <li id="menu-item-5556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5556"><a href="http://vetmed.illinois.edu/research/departments/pathobiology/">Pathobiology</a></li>
+                      <li id="menu-item-5557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5557"><a href="http://vetmed.illinois.edu/research/departments/veterinary-clinical-medicine/">Veterinary Clinical Medicine</a></li>
+                      <li id="menu-item-5558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5558"><a href="http://vetmed.illinois.edu/vet-resources/veterinary-diagnostic-laboratory/">Veterinary Diagnostic Laboratory</a>
+                        <ul class="sub-menu">
+                          <li id="menu-item-5553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5553"><a href="http://vetmed.illinois.edu/vet-resources/veterinary-diagnostic-laboratory/zoological-pathology-program/">Zoological Pathology Program</a></li>
+                        </ul>
+                      </li>
+                      <li id="menu-item-5554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5554"><a href="http://vetmed.illinois.edu/animal-care/veterinary-teaching-hospital/">Veterinary Teaching Hospital</a></li>
+                      <li id="menu-item-1386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1386"><a href="http://vetmed.illinois.edu/college-organization/deans-office/">Dean’s Office</a></li>
+                      <li id="menu-item-1664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1664"><a href="http://vetmed.illinois.edu/college-organization/chicago-center-for-veterinary-medicine/">Chicago Center for Veterinary Medicine</a>
+                        <ul class="sub-menu">
+                          <li id="menu-item-5567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5567"><a href="http://medicaldistrictvet.com/">Medical District Veterinary Clinic (Chicago)</a></li>
+                          <li id="menu-item-5568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5568"><a href="http://vscatillinois.com">VSC at Illinois (Chicago)</a></li>
+                        </ul>
+                      </li>
+                      <li id="menu-item-1663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1663"><a href="http://vetmed.illinois.edu/college-organization/center-for-one-health-illinois/">Center for One Health Illinois</a></li>
+                      <li id="menu-item-5566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5566"><a href="http://vetmed.illinois.edu/wmc/">Wildlife Medical Clinic</a></li>
+                    </ul>
+                  </li><!-- end Depts/Units -->
+
+                  <!-- === Research === -->
+                  <li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30"><a href="http://vetmed.illinois.edu/research/">Research</a>
+                    <ul class="sub-menu">
+                      <li id="menu-item-1393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1393"><a href="http://vetmed.illinois.edu/research/departments/">Departments</a>
+                        <ul class="sub-menu">
+                          <li id="menu-item-1394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1394"><a href="http://vetmed.illinois.edu/research/departments/comparative-biosciences/">Comparative Biosciences</a></li>
+                          <li id="menu-item-1395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1395"><a href="http://vetmed.illinois.edu/research/departments/pathobiology/">Pathobiology</a></li>
+                          <li id="menu-item-1396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1396"><a href="http://vetmed.illinois.edu/research/departments/veterinary-clinical-medicine/">Veterinary Clinical Medicine</a></li>
+                        </ul>
+                      </li>
+                      <li id="menu-item-3194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3194"><a href="http://vetmed.illinois.edu/research/centers-labs/">Centers and Labs</a></li>
+                      <li id="menu-item-4742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4742"><a href="http://vetmed.illinois.edu/education/doctor-veterinary-medicine-degree/research-opportunities-dvm-students/">Research Opportunities for DVM Students</a></li>
+                      <li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1392"><a href="http://vetmed.illinois.edu/research/resources/">Resources</a></li>
+                    </ul>
+                  </li>
+                  <li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-32"><a href="http://vetmed.illinois.edu/education/">Education</a>
+                    <ul class="sub-menu">
+                      <li id="menu-item-1656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1656"><a href="http://vetmed.illinois.edu/education/doctor-veterinary-medicine-degree/">Doctor of Veterinary Medicine Degree</a>
+                        <ul class="sub-menu">
+                          <li id="menu-item-3172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3172"><a href="http://vetmed.illinois.edu/education/doctor-veterinary-medicine-degree/admissions/">Admissions</a></li>
+                          <li id="menu-item-3171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3171"><a href="http://vetmed.illinois.edu/education/doctor-veterinary-medicine-degree/illinois-veterinary-curriculum/">Illinois Veterinary Curriculum</a></li>
+                          <li id="menu-item-1660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1660"><a href="http://vetmed.illinois.edu/education/doctor-veterinary-medicine-degree/admitted-student-info/">Admitted Student Information</a></li>
+                          <li id="menu-item-1661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1661"><a href="http://vetmed.illinois.edu/education/doctor-veterinary-medicine-degree/transfer-information/">Transfer Student Information</a></li>
+                          <li id="menu-item-1662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1662"><a href="http://vetmed.illinois.edu/education/doctor-veterinary-medicine-degree/tuition-fees/">Tuition and Fees</a></li>
+                          <li id="menu-item-5091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5091"><a href="http://vetmed.illinois.edu/education/doctor-veterinary-medicine-degree/research-opportunities-dvm-students/veterinary-medical-scholars-program/">DVM-PhD Program</a></li>
+                          <li id="menu-item-5083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5083"><a href="http://vetmed.illinois.edu/education/doctor-veterinary-medicine-degree/dvm-master-public-health-degree/">DVM-Master of Public Health Degree</a></li>
+                        </ul>
+                      </li>
+                      <li id="menu-item-1655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1655"><a href="http://vetmed.illinois.edu/education/graduate-programs/">Graduate Programs</a></li>
+                      <li id="menu-item-3469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3469"><a href="http://vetmed.illinois.edu/education/internships-residencies/">Residency and Internship Programs</a></li>
+                    </ul>
+                  </li>
+                  <li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-26"><a href="http://vetmed.illinois.edu/animal-care/">Animal Care</a>
+                    <ul class="sub-menu">
+                      <li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://vetmed.illinois.edu/animal-care/veterinary-teaching-hospital/">Veterinary Teaching Hospital<br><span class="dsc">Emergency, specialty, and primary care in Urbana-Champaign</span></a></li>
+                      <li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="http://vetmed.illinois.edu/animal-care/chicago-veterinary-services/">Chicago Veterinary Services<br><span class="dsc">Primary care services at Medical District Veterinary Clinic ______________________________ Emergency and specialty care at VSC at Illinois</span></a></li>
+                      <li id="menu-item-5397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5397"><a href="http://vetmed.illinois.edu/animal-care/shelter-medicine-program-illinois/">Shelter Medicine Program at Illinois</a></li>
+                      <li id="menu-item-2501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2501"><a href="http://vetmed.illinois.edu/animal-care/pet-health-columns/">Pet Health Columns</a></li>
+                      <li id="menu-item-3799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3799"><a href="http://vetmed.illinois.edu/wmc/">Wildlife Medical Clinic</a></li>
+                    </ul>
+                  </li>
+                  <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31"><a href="http://vetmed.illinois.edu/vet-resources/">DVM Resources</a>
+                    <ul class="sub-menu">
+                      <li id="menu-item-324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="http://vetmed.illinois.edu/vet-resources/referral-services/">Referral Services</a></li>
+                      <li id="menu-item-3471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471"><a href="http://vetmed.illinois.edu/vet-resources/veterinary-diagnostic-laboratory/">Veterinary Diagnostic Laboratory</a></li>
+                      <li id="menu-item-5498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5498"><a href="http://vetmed.illinois.edu/vet-resources/veterinary-diagnostic-laboratory/zoological-pathology-program/">Zoological Pathology Program</a></li>
+                      <li id="menu-item-3470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3470"><a href="http://vetmed.illinois.edu/vet-resources/continuing-education/">Continuing Education</a></li>
+                    </ul>
+                  </li><!-- End DVM Resources -->
+                  <!-- === Alumni === -->
+                  <li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://vetmed.illinois.edu/alumni/">Alumni</a></li><!-- End Alumni -->
+                  <!-- === Giving === -->
+                  <li id="menu-item-27" class="heart menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://vetmed.illinois.edu/giving/">Giving</a></li><!-- End Giving -->
+                  <!-- === About === -->
+                  <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-43"><a href="http://vetmed.illinois.edu/about/">About</a>
+                    <ul class="sub-menu">
+                      <li id="menu-item-1665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1665"><a href="http://vetmed.illinois.edu/about/college-strategic-plan/">College Strategic Plan</a></li>
+                      <li id="menu-item-1390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1390"><a href="http://vetmed.illinois.edu/about/contact-location/">Contact and Location</a></li>
+                      <li id="menu-item-1388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1388"><a href="http://vetmed.illinois.edu/about/work-at-the-college/">Work at the College</a></li>
+                      <li id="menu-item-4516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4516"><a href="http://vetmed.illinois.edu/about/open-house-demos-and-exhibits/">Open House</a></li>
+                      <li id="menu-item-1389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1389"><a href="http://vetmed.illinois.edu/about/history-of-the-college/">History of the College</a></li>
+                    </ul>
+                  </li><!-- End About -->
+                </ul>
+                <h2 class="m">Helpful Links</h2>
+                <ul id="menu-eyebrow-menu-1" class="m secondary clearfix">
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-33 current_page_item menu-item-45"><a href="http://vetmed.illinois.edu/news/">News</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2431"><a href="http://illinois.edu/calendar/list/705?skinId=10776">Calendar</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-474"><a href="http://vetmed.illinois.edu/directory/">Directory</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="http://vetmed.illinois.edu/about/contact-location/">Contact</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a target="_blank" href="http://vetmed.illinois.edu/intranet/">Intranet</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a target="_blank" href="http://www.library.illinois.edu/vex/">Library</a></li>
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3524"><a title="search" href="#/">Search</a></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="content" role="main">
+
+    <article class="content depth-1">
+
+      <div class="content-wrap wrap clearfix">
+
+        <div class="content-full">
+          <div class="content-body">
+            <script type="text/javascript" src="https://illinois.edu/webservices/js/hideShow.js"></script><script type="text/javascript">
+                    var secure = 'false';
+                </script><script type="text/javascript" src="https://illinois.edu/webservices/js/ds/mailto.js"></script><div id="ws-ds"><div class="ws-ds-header-row mobile-hide"><div class="ws-ds-breadcrumbs"><a href="http://illinois.edu/ds/search?skinId=10776&amp;sub=">search</a> &nbsp;&nbsp; &gt;&gt; &nbsp;&nbsp;  detail </div><div class="ws-ds-login"><a style="border:0;padding-left:6px;padding-right:6px;padding-top:5px;" href="https://illinois.edu/ds/secEdit/person/maobrien" title="edit"><img src="https://illinois.edu/webservices/images/ds/edit.gif" alt="edit"><span class="ws-ds-no-display">edit</span></a><a id="login-wrapper" style="border:0;padding-left:6px;padding-right:6px;padding-top:5px;" href="javascript:login()" title="login for additional info"><img src="https://illinois.edu/webservices/public/ds/lock.gif" alt="login" title="login"><span class="ws-ds-no-display">login</span></a><script type="text/javascript">
+                    var displayContactInfo = 'false';
+                    
+                    function hideShowContactInfo(){
+                    if(displayContactInfo == 'true'){
+                    document.getElementById('ds-contact-info').className='place-off-screen';
+                    displayContactInfo = 'false';
+                    }
+                    else
+                    {
+                    document.getElementById('ds-contact-info').className='place-on-screen';
+                    displayContactInfo = 'true';
+                    }
+                    }
+                </script><span class="ws-role"><a style="border:0;padding-left:6px;padding-right:6px;padding-top:5px;" href="#" onclick="hideShowContactInfo()"><img src="https://illinois.edu/webservices/public/ds/role.gif" alt="contacts for this profile" title="contacts for this profile" border="0"></a></span><span class="ws-outlook"><a id="outlook-wrapper" style="border:0;padding-left:6px;padding-right:6px;padding-top:5px;" href="https://illinois.edu/ds/vCard/person/maobrien"><img src="https://illinois.edu/webservices/public/ds/outlookDs.gif" alt="add to outlook" title="add to outlook" border="0"></a></span><div class="ws-ds-clear"></div></div><div id="ds-contact-info" class="place-off-screen"><h4><span style="color:#404040;">To edit this profile, click the pencil icon above. </span></h4> Unit CCO contacts for this profile are: <ul><li><a href="mailto:beuoy@illinois.edu">Beuoy, Christine</a></li><li><a href="mailto:moakley@illinois.edu">Oakley, Misty</a></li><li><a href="mailto:hrush@illinois.edu">Rushakoff, Holly</a></li><li><a href="mailto:ysergent@illinois.edu">Sergent, Yvonne</a></li></ul> For more information see <a href="http://illinois.edu/ds/about.html#editInfo">"where to edit information".</a><br></div></div><form name="portlet_form" method="get" action="search" onsubmit="setTimeout('sm()', delayTime)"><script src="https://illinois.edu/webservices/js/processingMessage.js" type="text/javascript"></script><input style="display:none" value="go" name="go" type="submit"><input id="skinId" name="skinId" value="10776" type="hidden"><input name="sub" value="" type="hidden"><div class="ws-ds-search-wrapper ws-search-bar-detail mobile-hide"><div class="ws-ds-search-row"><label for="search-text" class="ws-ds-no-display">Enter name, department, netid, or phone to search for</label><input id="search-text" class="ws-ds-name-field" name="search" value="maobrien" type="text"> &nbsp; <input class="" value="search" type="submit"></div><div class="ws-ds-search-row"><input name="search_type" value="all" id="all" type="radio"><span class="ws-ds-label"><label for="all">All</label></span><input name="search_type" value="staff" id="staff" type="radio"><span class="ws-ds-label"><label for="staff">Faculty/Staff</label></span><input name="search_type" value="student" id="student" disabled="" type="radio"><span class="ws-ds-label" style="color:gray;"><label for="student">Student</label></span><input name="search_type" value="userid" id="netid" checked="" type="radio"><span class="ws-ds-label"><label for="netid">Netid</label></span><input name="search_type" value="department" id="department" type="radio"><span class="ws-ds-label"><label for="department">Department</label></span><input name="search_type" value="phone" id="phone" type="radio"><span class="ws-ds-label"><label for="phone">Phone</label></span></div><script type="text/javascript">
+                function login(){
+                var url = window.location.href;
+                var matchUrl2 = "http://illinois.edu/ds/detail";
+                var matchUrl = "/ds/detail";
+                
+                var index = url.indexOf(matchUrl);
+                if(index > -1){
+                url = url.substring(index+matchUrl.length);
+                var newUrl = "https://illinois.edu/ds/secDetail" + url;
+                window.location.href=newUrl;
+                return;
+                }
+                //
+                matchUrl2 = "http://illinois.edu/ds/search";
+                matchUrl = "/ds/search";
+                
+                index = url.indexOf(matchUrl);
+                if(index > -1){
+                url = url.substring(index+matchUrl.length);
+                var newUrl = "https://illinois.edu/ds/secSearch" + url;
+                window.location.href=newUrl;
+                return;
+                }
+                }
+            </script><a id="login-wrapper" style="text-decoration:underline;" href="javascript:login()" title="login for additional info">Login</a> to search for students </div></form><div class="ws-detail-wrapper" id=""><div id="marketing-info" class="marketing-info-on"><script type="text/javascript">
+            //var title = "Illinois Directory, Clinical Professor, Veterinary Clinical Medicine, University of Illinois";
+            document.title = 'Illinois Directory, University of Illinois';
+            document.getElementById('more-details').style.display='inline';
+        </script><div class="ws-ds-detail"><div class="ws-ds-detail-top"><div id="ws-ds-sys-attribute"><div id="mobile-content" class="dir-detail"><div id="ws-image-content" class="image-content"><img class="ws-ds-img" src="https://illinois.edu/ds/person/maobrien.png" alt="image for Mauria A O'Brien" align="right"></div><h4 class="ws-ds-name detail-title">Mauria A O'Brien</h4><div class="role-and-dept">Clinical Professor, Veterinary Clinical Medicine<br><div class="ws-ds-office"><br><span class="ws-system-hide"><a href="http://illinois.edu/ds/detail?departmentId=illinois.eduLC598&amp;search_type=userid&amp;skinId=10776&amp;sub=">Vet Clinical Medicine</a></span></div></div><div class="ws-address-wrapper"><div class="ws-ds-address">1008 W. Hazelwood Drive<br>Small Animal Clinic<br>M/C 004<br>Urbana, IL&nbsp; 61802<br></div><div class="ws-ds-phone"></div><style>
+            body{
+            jrw: here;
+            }</style><div class="ws-ds-email"><span class="ws-system-hide"><script type="text/javascript">displayIllinois('maobrien')</script><a href="mailto:maobrien@illinois.edu">maobrien@illinois.edu</a></span></div><br></div></div><div class="ws-cat" id="ws-cat" style="display: block;"><h4><span class="ws-left-only">Education</span><div class="ws-ds-clear"></div></h4><div class="ws-ds-category-desc" id="cat_thing_1"><ul><li>DVM, University of Wisconsin-Madison</li><li>BA, University of Pennsylvania</li></ul></div><h4><span class="ws-left-only">Professional Certifications</span><div class="ws-ds-clear"></div></h4><div class="ws-ds-category-desc" id="cat_thing_2"><p>Diplomate, American College of Veterinary Emergency and Critical Care</p></div><h4><span class="ws-left-only">Research Interests</span><div class="ws-ds-clear"></div></h4><div class="ws-ds-category-desc" id="cat_thing_3"><p>Dr. O'Brien's research interests involve investigations into the role of Vitamin D as it pertains to immune health.</p></div><h4><span id="hide_show_image-wrapper"><a href="javascript:setCatHideShowImage('4')"><img alt="show list" class="img-mouseout-even" style="float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/expand.gif" id="cat_expand_image_4"><img alt="hide list" class="img-mouseout-even" style="display:none;float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/collapse.gif" id="cat_collapse_image_4">Biography</a></span><div class="ws-ds-clear"></div></h4><div class="ws-ds-category-desc place-off-screen" id="cat_thing_4"><p>Dr. O'Brien received her Doctor of Veterinary Medicine from the University of Wisconsin-Madison in 1996. She was in general practice until 2005. In 2008, she completed a residency in small animal Emergency and Critical Care at the Animal Emergency Center in Glendale, WI. Dr. O'Brien joined the University of Illinois after her residency. She completed her board certification in Emergency and Critical Care in 2008. Dr. O'Brien helps to oversee the Emergency Room and Intensive Care Unit. She is involved with student and house officer training in her specialty.</p></div><h4><span id="hide_show_image-wrapper"><a href="javascript:setCatHideShowImage('5')"><img alt="show list" class="img-mouseout-even" style="float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/expand.gif" id="cat_expand_image_5"><img alt="hide list" class="img-mouseout-even" style="display:none;float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/collapse.gif" id="cat_collapse_image_5">Teaching Statement</a></span><div class="ws-ds-clear"></div></h4><div class="ws-ds-category-desc place-off-screen" id="cat_thing_5"><p>Having been out in the private sector straight out of veterinary school, I understand the limitations of most veterinary programs. Everything cannot be learned in four, short years; the learning process does not stop after you graduate. My goal is to give the students practical advice and to help them hone their skills and instincts as a clinician so that they are better prepared when they start their careers.</p></div><h4><span id="hide_show_image-wrapper"><a href="javascript:setCatHideShowImage('6')"><img alt="show list" class="img-mouseout-even" style="float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/expand.gif" id="cat_expand_image_6"><img alt="hide list" class="img-mouseout-even" style="display:none;float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/collapse.gif" id="cat_collapse_image_6">Courses Taught</a></span><div class="ws-ds-clear"></div></h4><div class="ws-ds-category-desc place-off-screen" id="cat_thing_6"><ul>
+<li>Cardio and Critical Care Medicine</li>
+<li>Veterinary Anesthesiology &amp; Fluid Therapy</li>
+<li>Clinical Practice I and II</li>
+<li>Emergency and Critical Care Pathophysiology</li>
+<li>Current Concepts in Comparative Surgery</li>
+</ul></div><h4><span id="hide_show_image-wrapper"><a href="javascript:setCatHideShowImage('7')"><img alt="show list" class="img-mouseout-even" style="float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/expand.gif" id="cat_expand_image_7"><img alt="hide list" class="img-mouseout-even" style="display:none;float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/collapse.gif" id="cat_collapse_image_7">Selected Publications</a></span><div class="ws-ds-clear"></div></h4><div class="ws-ds-category-desc place-off-screen" id="cat_thing_7"><ul>
+<li>O'Brien, MA, Kirby, R. Apoptosis: A Review of Pro-apoptotic and Anti-apoptotic Pathways and Dysregulation in Disease. J Vet Emerg Crit Care, 2008;18(6):572-5852.</li>
+<li>Peterson, K, Beymer, J, Rudloff, E, O'Brien, M. Airway obstruction in a dog after Dieffenbachia ingestion. J Vet Emerg Crit Care, 2009;19(6):635-639.</li>
+<li>Oliveira CR, Ranallo FN, Pijanowski GJ, Mitchell MA, O'Brien MA, McMichael M, Hartman SK, Matheson JS, O'Brien RT. The Vetmousetrapä: A device for computed tomographic imaging of the thorax of awake cats. Vet Rad Ultrasound. Epub 12 Aug 2010.</li>
+<li>O'Brien, MA. Diabetic Emergencies in Small Animals. Veterinary Clinics of North America: Small Animal Practice. 2010; 40(2):317-334.</li>
+<li>O'Brien, MA. Canine Infectious Hepatitis. Clinical Veterinary Advisor, 2nd Ed. Submitted July 2009.</li>
+<li>O'Brien, MA. Sporotrichosis. Clinical Veterinary Advisor, 2nd Ed. Submitted July 2009</li>
+</ul></div><h4><span id="hide_show_image-wrapper"><a href="javascript:setCatHideShowImage('8')"><img alt="show list" class="img-mouseout-even" style="float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/expand.gif" id="cat_expand_image_8"><img alt="hide list" class="img-mouseout-even" style="display:none;float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/collapse.gif" id="cat_collapse_image_8">Current Projects</a></span><div class="ws-ds-clear"></div></h4><div class="ws-ds-category-desc place-off-screen" id="cat_thing_8"><ul>
+<li>Vitamin D levels in indoor only dogs.</li>
+<li>Vitamin D levels in client-owned dogs.</li>
+</ul></div><h4><span id="hide_show_image-wrapper"><a href="javascript:setCatHideShowImage('9')"><img alt="show list" class="img-mouseout-even" style="float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/expand.gif" id="cat_expand_image_9"><img alt="hide list" class="img-mouseout-even" style="display:none;float:left;padding-right:4px;position:relative;top:3px;left:-4px;" src="https://illinois.edu/webservices/images/application/list/collapse.gif" id="cat_collapse_image_9">Professional Affiliations</a></span><div class="ws-ds-clear"></div></h4><div class="ws-ds-category-desc place-off-screen" id="cat_thing_9"><ul>
+<li>American Veterinary Medical Association</li>
+<li>American College of Veterinary Emergency and Critical Care</li>
+<li>Veterinary Emergency and Critical Care Society</li>
+<li>Society of Critical Care Medicine</li>
+</ul></div></div><script>
+                        function setProfile(value)
+                        {
+                        var divs = document.getElementsByClassName('ws-cat');
+                        for( var i=0; i < divs.length; i++)
+                        {
+                        divs[i].style.display='none';
+                        }
+                        
+                        if(typeof(document.getElementById('ws-pos-tab-1')) != 'undefined' && document.getElementById('ws-pos-tab-1') != null)
+                        {
+                        document.getElementById('ws-pos-tab-1').style.background='#dddddd';
+                        document.getElementById('ws-pos-tab-1').style.borderWidth="0px 0px 1px 0px"
+                        document.getElementById('ws-pos-tab-1').style.borderStyle="solid"
+                        document.getElementById('ws-pos-tab-1').style.borderColor="#333"
+                        
+                        if(value == 'ws-pos-1')
+                        {
+                        document.getElementById('ws-pos-tab-1').style.background='#fff';
+                        document.getElementById('ws-pos-tab-1').style.borderWidth="1px 1px 0 1px"
+                        document.getElementById('ws-pos-tab-1').style.borderStyle="solid"
+                        document.getElementById('ws-pos-tab-1').style.borderColor="#333"
+                        }
+                        }
+                        if(typeof(document.getElementById('ws-pos-tab-2')) != 'undefined' && document.getElementById('ws-pos-tab-2') != null)
+                        {
+                        document.getElementById('ws-pos-tab-2').style.background='#dddddd';
+                        document.getElementById('ws-pos-tab-2').style.borderWidth='0px 0px 1px 0px'
+                        document.getElementById('ws-pos-tab-2').style.borderStyle="solid"
+                        document.getElementById('ws-pos-tab-2').style.borderColor="#333"
+                        if(value == 'ws-pos-2')
+                        {
+                        document.getElementById('ws-pos-tab-2').style.background='#fff';
+                        document.getElementById('ws-pos-tab-2').style.borderWidth='1px 1px 0 1px'
+                        document.getElementById('ws-pos-tab-2').style.borderStyle="solid"
+                        document.getElementById('ws-pos-tab-2').style.borderColor="#333"
+                        }
+                        }
+                        if(typeof(document.getElementById('ws-pos-tab-3')) != 'undefined' && document.getElementById('ws-pos-tab-3') != null)
+                        {
+                        document.getElementById('ws-pos-tab-3').style.background='#dddddd';
+                        document.getElementById('ws-pos-tab-3').style.borderWidth='0px 0px 1px 0px'
+                        document.getElementById('ws-pos-tab-3').style.borderStyle="solid"
+                        document.getElementById('ws-pos-tab-3').style.borderColor="#333"
+                        if(value == 'ws-pos-3')
+                        {
+                        document.getElementById('ws-pos-tab-3').style.background='#fff';
+                        document.getElementById('ws-pos-tab-3').style.borderWidth='1px 1px 0 1px'
+                        document.getElementById('ws-pos-tab-3').style.borderStyle="solid"
+                        document.getElementById('ws-pos-tab-3').style.borderColor="#333"                        }
+                        }
+                        if(typeof(document.getElementById('ws-cat-tab')) != 'undefined' && document.getElementById('ws-cat-tab') != null)
+                        {
+                        document.getElementById('ws-cat-tab').style.background='#dddddd';
+                        document.getElementById('ws-cat-tab').style.borderWidth='0px 0px 1px 0px'
+                        document.getElementById('ws-cat-tab').style.borderStyle="solid"
+                        document.getElementById('ws-cat-tab').style.borderColor="#333"
+                        if(value == 'ws-cat')
+                        {
+                        document.getElementById('ws-cat-tab').style.background='#fff';
+                        document.getElementById('ws-cat-tab').style.borderWidth='1px 1px 0 1px'
+                        document.getElementById('ws-cat-tab').style.borderStyle="solid"
+                        document.getElementById('ws-cat-tab').style.borderColor="#333"
+                        }
+                        }
+                        document.getElementById(value).style.display='block';
+                        }
+                    </script><script>
+                            setProfile("ws-cat");
+                        </script></div></div></div><div class="ws-ds-clear"></div></div></div><div id="official-info" class="official-info-off"></div></div><div class="ws-ds-clear"></div><div id="ws-ds-footer" class="mobile-hide"> Illinois Directory is provided by Web Services at Public Affairs. <a href="https://illinois.edu/fb/sec/8932797" target="_blank">(contact us)</a></div><iframe style="height:1px;position:absolute;top:-4000px;left:-4000px;" src="https://illinois.edu/ga_ds.html"></iframe>
+          </div>
+        </div>
+
+
+      </div>
+    </article>
+  </main>
+
+  <footer class="footer" role="contentinfo" style="padding-top:30px;">
+    <div class="wrap">
+      <div class="col1">
+        <p class="quick-links-title">Quick Links</p><div class="menu-quicklinks-container"><ul id="menu-quicklinks" class="menu"><li id="menu-item-2779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2779"><a href="http://vetmed.illinois.edu/education/doctor-veterinary-medicine-degree/admissions/">DVM Admissions</a></li>
+        <li id="menu-item-203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203"><a href="http://vetmed.illinois.edu/research/departments/comparative-biosciences/">Comparative Biosciences</a></li>
+        <li id="menu-item-2780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2780"><a href="http://vetmed.illinois.edu/research/departments/pathobiology/">Pathobiology</a></li>
+        <li id="menu-item-2781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2781"><a href="http://vetmed.illinois.edu/research/departments/veterinary-clinical-medicine/">Veterinary Clinical Medicine</a></li>
+        <li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="http://vetmed.illinois.edu/animal-care/veterinary-teaching-hospital/">Veterinary Teaching Hospital</a></li>
+        <li id="menu-item-2782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2782"><a href="http://vetmed.illinois.edu/vet-resources/veterinary-diagnostic-laboratory/">Veterinary Diagnostic Laboratory</a></li>
+        <li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="http://vetmed.illinois.edu/animal-care/chicago-veterinary-services/">Veterinary Services in Chicago</a></li>
+        <li id="menu-item-3798" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3798"><a href="http://vetmed.illinois.edu/wmc/">Wildlife Medical Clinic</a></li>
+      </ul></div>		</div>
+
+      <div class="col2">
+        <img alt="College of Veterinary Medicine - University of Illinois at Urbana-Champaign" src="https://illinois.edu/skinDesigner/files/10776/logo_footer.png"><p class="address">3505 Veterinary Medicine Basic Sciences Building<br>
+        2001 S Lincoln Ave. | Urbana, IL 61802</p><p class="contact-link"><a href="http://vetmed.illinois.edu/about/contact-location/">Contact Us</a></p><p class="phone"><span class="label">P</span> 217-333-2760</p><p class="fax"><span class="label">F</span> 217-333-4628</p><p><a href="http://vetmed.illinois.edu/news/newsletters/" class="newsletters">Get our newsletters</a></p><ul class="socialMediaIcons">
+        <li><a href="https://twitter.com/ILLINOISVetMed" class="twitterFooterIcon">Twitter</a></li>
+        <li><a href="https://www.facebook.com/VetMed.Illinois" class="facebookFooterIcon">Facebook</a></li>
+        <li><a href="http://www.flickr.com/photos/illinoisvetmed" class="flickrFooterIcon">Flickr</a></li>
+        <li><a href="http://www.youtube.com/user/IllinoisVetMed" class="youtubeFooterIcon">YouTube</a></li>
+      </ul>		</div>
+
+      <div class="col3">
+        <div id="vetmed_footer_widget-2" class="widget footer-widget vetmed_footer_widget">        <div class="vetmed-footer-widget">
+          <a href="http://vetmed.illinois.edu/giving/giving-opportunities/give-now/">
+            <img src="https://illinois.edu/skinDesigner/files/10776/givenow-owl.jpg" alt="">
+          </a>
+          <p class="description">Your gifts support scholarships and animals in need</p>
+        </div>
+      </div>		</div>
+
+    </div>
+    <div class="copyright">
+      <div class="wrap">
+        <p>©2014 University of Illinois College of Veterinary Medicine</p>
+      </div>
+    </div>
+  </footer>
+</div>
+
+
+<table style="width: 377px; display: none; top: 108px; left: 717px; position: absolute;" class="gstl_50 gssb_c" cellspacing="0" cellpadding="0"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table><table style="width: 100%; display: none; top: -1px; left: 0px; position: absolute;" class="gstl_51 gssb_c" cellspacing="0" cellpadding="0"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table></body></html>

@@ -1,0 +1,191 @@
+Staff | Current Students
+Home
+Courses
+Future students
+New students
+Research capabilities
+News
+Services
+Business and Industry
+Alumni
+Supporting our Uni About us Our schools Contact us
+Home > My Profile
+Give feedback
+Contact me
+Phone
+93606475
+Email
+p.koutsakis@murdoch.edu.au
+Fellow researchers
+Useful links
+Latest news
+Research
+School
+Parkinson’s is partly an autoimmune disease, study finds
+Using technology to find sea eagles
+International learning at Murdoch
+What's lurking in our inland waterways?
+Federal recognition for health network
+Dr. Polychronis Koutsakis
+PhD, Electrical and Computer Engineering
+Senior Lecturer Information Technology
+About me
+I arrived in Perth and started work at Murdoch in mid-January, 2016. I am actively looking for strong PhD students to supervise. Please check my research areas and publications and if you are interested to collaborate with me, contact me at p.koutsakis@murdoch.edu.au
+A few words about me: I received my 5-year Diploma in Electrical Engineering in 1997 from the University of Patras, Greece and my Ph.D. degree in Electronic and Computer Engineering in 2002 from the Technical University of Crete, Greece. I was a Visiting Lecturer at the Electronic and Computer Engineering Department of the same University for three years (2003-2006).
+From July 2006 till December 2008 I was an Assistant Professor (tenure-track) at the Electrical and Computer Engineering Department of McMaster University, Canada. In January 2009 I joined the School of Electronic and Computer Engineering of the Technical University of Crete, as an Assistant Professor, and in April 2014 I received tenure as an Associate Professor in the School.
+I am a Senior Member of the IEEE. I have been honoured three times (2012, 2013, 2015) as Exemplary Editor of the IEEE Communications Society, for my work as an Editor of the IEEE Communication Surveys and Tutorials Journal.
+I have served as Primary Investigator and as Deputy Coordinator for a number of Canadian, European and Greek research projects.
+  Teaching area
+Research areas
+
+Current projects
+Awards and grants
+Events and speaking engagements
+Professional and community service
+
+
+
+
+
+
+
+
+
+
+
+
+
+Doctoral and masters supervisions
+Publications
+Patents
+A. M. Kholaif, M. N. Smadi, P. Koutsakis and T. D. Todd, “Wireless Access Point Methods And Apparatus Using Dynamically-Activated Service Intervals”, U.S patent No: 8,194,576, published June 05, 2012, assigned to Blackberry Ltd (formerly Research in Motion).
+Refereed Journal Papers
+P. Koutsakis and M. Paterakis, “On Multiple Traffic Type Integration over Wireless TDMA Channels with Adjustable Request Bandwidth”, International Journal of Wireless Information Networks, Springer Publ., Vol. 7, No.2, pp.55-68, 2000.
+P. Koutsakis and M. Paterakis, “Highly Efficient Voice-Data Integration over Medium and High Capacity Wireless TDMA Channels”, ACM/Springer Wireless Networks Journal, Vol. 7, No.1, pp. 43-54, 2001.
+P. Koutsakis and M. Paterakis, “Integrating Voice, Video and E-mail Data Packet Traffic over Wireless TDMA Channels with Errors”, International Journal of Wireless Information Networks, Springer Publ., Vol. 8, No.4, pp.217-227, 2001.
+P. Koutsakis and M. Paterakis, “Call Admission Control and Traffic Policing Mechanisms for the Transmission of Videoconference Traffic from MPEG-4 and H.263 Video Coders in Wireless ATM Networks”, IEEE Transactions on Vehicular Technology, Vol. 53, No. 5, pp. 1525-1530, 2004.
+P. Koutsakis, “A Unified Mechanism for Multimedia Downlink Scheduling and Call Admission Control for Future Error-Prone Wireless Networks”, Wireless Personal Communications Journal, Springer Publ., Vol. 34, No. 4, 2005, pp. 395-409.
+P. Koutsakis, S. Psychis and M. Paterakis, “Integrated Wireless Access for Videoconference from MPEG-4 and H.263 Video Coders with Voice, E-mail and Web Traffic over Wireless Networks”, IEEE Transactions on Vehicular Technology, Vol. 54, No. 5, 2005, pp. 1863-1874.
+ P. Koutsakis and M. Paterakis, “A Bandwidth Reservation Mechanism for Prioritized Multimedia Integrated Access with Very High Channel Throughput in Beyond 3G TDMA-based Wireless Networks”, Performance Evaluation Journal, Elsevier Publ., Vol. 63, No. 2, 2006, pp. 61-78.
+P. Koutsakis, “Scheduling and Traffic Policing for Variably Demanding Video Traffic Integrated with Voice and Data Traffic in 4th Generation Wireless Networks”, Wireless Personal Communications Journal, Springer Publ., Vol. 36, No. 1, 2006, pp. 69-77.
+S. Psychis, P. Koutsakis and M. Paterakis, “A Flexible MAC Protocol for the Integration of High and Low Quality Video Streams, Voice and Data Traffic over High Speed Packet Switched Wireless Networks”, International Journal of Electronics and Communications, Elsevier Publ., Vol. 60, No. 4, 2006, pp. 306-315.
+P. Koutsakis and M. Vafiadis, “A Fully Dynamic Scheduling Mechanism for Multimedia Integration in Next Generation Wireless Networks”, Computer Communications Journal, Elsevier Publ., Vol. 29, No. 10, 2006, pp. 1823-1832.
+P. Koutsakis, M. Vafiadis and H. Papadakis, “Prediction-Based Resource Allocation for Multimedia Traffic over High-Speed Wireless Networks”, International Journal of Electronics and Communications, Elsevier Publ., Vol. 60, No. 10, 2006, pp. 681-689.
+P. Koutsakis and M. Vafiadis, “Medium Access Control for Integrated Multimedia Wireless Access with the use of a Video Packet Discard Scheme”, Wireless Personal Communications Journal, Springer Publ., Vol. 39, No. 3, 2006, pp. 343-359.
+P. Koutsakis, “On Providing Dynamic Resource Allocation Based on Multimedia Traffic Prediction in Satellite Systems”, Computer Communications Journal, Elsevier Publ., Vol. 30, No. 2, 2007, pp. 404-415.
+T. Chiras, P. Koutsakis and M. Paterakis, “Efficient Scheduling for PLC Networks”, IEE Electronics Letters, Vol. 43, No. 3, 2007, pp. 193-194.
+P. Koutsakis, “Satellite Bandwidth Allocation Based on MPEG-4 Videoconference Traffic Prediction”, Wireless Personal Communications Journal, Springer Publ., Vol. 43, No. 4, 2007, pp. 1195-1200.
+P.  Koutsakis, “Integrating High Quality Video Streams with FTP Traffic over a Noisy High Capacity Wireless Cellular Channel”, Wireless Personal Communications Journal, Springer Publ., Vol. 43, No. 4, 2007, pp. 1409-1417.
+A. Lazaris, P. Koutsakis and M. Paterakis, “A New Model for Video Traffic Originating from Multiplexed MPEG-4 Videoconference Streams”, Performance Evaluation Journal, Elsevier Publ, Vol. 65, No. 1, 2008, pp. 51-70.
+P. Koutsakis, “On Improving Channel Throughput by Restricting Data Traffic Access in Multimedia Integration over Wireless Channels”, International Journal of Electronics and Communications, Elsevier Publ., Vol. 62, No. 1, 2008, pp. 1-10.
+S. Chatziperis, P. Koutsakis and M. Paterakis, “A New Call Admission Control Mechanism for Multimedia Traffic over Next Generation Wireless Cellular Networks”, ΙΕΕΕ Transactions on Mobile Computing, Vol. 7, No. 1, 2008, pp. 95-112.
+P. Koutsakis, “On Modeling VBR Videoconferencing Traffic from H.263 Video Coders”, Computer Communications Journal, Elsevier Publ., Vol. 31, No. 1, 2008, pp. 1-4.
+P. Koutsakis, “A New Framework for Multiple Access and Call Admission Control in Wireless Cellular Networks”, Computer Communications Journal, Elsevier Publ., Vol. 31, No. 17, 2008, pp. 3978-3983.
+T. Drivas, P. Koutsakis and M. Paterakis, “Performance Evaluation of the Enhanced MI-MAC Protocol for Multimedia Integration over Wireless Cellular Networks”, Wireless Personal Communications Journal, Springer Publ., Vol. 50, No. 3, 2009, pp. 291-303.
+P. Koutsakis, “Dynamic vs. Static Traffic Policing: A New Approach for Videoconference Traffic over Wireless Cellular Networks”, ΙΕΕΕ Transactions on Mobile Computing, Vol. 8, No. 9, 2009, pp. 1153-1166.
+A. Lazaris and P. Koutsakis, “Pricing-Based Call Admission Control for Wireless MPEG-4 Traffic”, Computer Communications Journal, Elsevier Publ., Vol. 32, No. 17, 2009, pp. 1781-1789.
+P. Koutsakis, M. Vafiadis and A. Lazaris, “A New Bandwidth Allocation Mechanism for Next Generation Wireless Cellular Networks”, ACM/Springer Wireless Networks Journal, Vol. 16, No. 2, 2010, pp. 331-353.
+A. M. Kholaif, T. D. Todd, P. Koutsakis and A. Lazaris, “Energy Efficient H.263 Video Transmission in Power Saving Wireless LAN Infrastructure”, IEEE Transactions on Multimedia, Vol. 12, No. 2, 2010, pp. 142-153.
+A. Lazaris and P. Koutsakis, “Modeling Multiplexed Traffic from H.264/AVC Videoconference Streams”, Computer Communications (Elsevier Publ.), Vol. 33, No. 10, 2010, pp. 1235-1242.
+L. Qiao and P. Koutsakis, “Adaptive Bandwidth Reservation and Scheduling for Efficient Wireless Telemedicine Traffic Transmission”, IEEE Transactions on Vehicular Technology, Vol. 60, No. 2, 2011, pp. 632-643.
+P. Koutsakis, “Using Traffic Prediction and Estimation of Provider Revenue for a Joint GEO Satellite MAC/CAC Scheme”, ACM/Springer Wireless Networks Journal, Vol. 17, No. 3, 2011, pp. 797-815.
+P. Koutsakis, D. Vasileiadou and C. Stamos, “Performance Evaluation of the FPRRA Framework for GEO Satellites in the Absence of Accurate Multimedia Traffic Prediction”, invited paper to the inaugural issue of the International Journal on Communications, Antenna and Propagation (Praise Worthy Prize Publishing), February 2011.
+P. Koutsakis, “Token and Self Policing-Based Scheduling for Multimedia Traffic Transmission over WLANs”, IEEE Transactions on Vehicular Technology, Vol. 60, No. 9, 2011, pp. 4520-4527.
+O.-S. Loizides and P. Koutsakis, “Not So Snap a Judgement: Discussing the PR metric”, ACM SIGMOBILE Mobile Computing and Communications Review, Vol. 17, No. 2, 2013, pp. 19-26.
+G.-A. Liagouras, A. A. Sayegh and P. Koutsakis, “A New Location-Aware Calendar-Based Application for Dynamic Minimum Path Trip Planning”, Wireless Personal Communications (Springer Publ.), Vol. 78, No. 1, 2014, pp. 29-44.
+E. Maratsolas, P. Koutsakis and A. Lazaris, “Activity-Based Video Traffic Policing: A New Paradigm”, IEEE Transactions on Multimedia, Vol. 16, No. 5, 2014, pp. 1446-1459.
+G. Athanasopoulou and P. Koutsakis, “eMatch: An Android Application for Finding Friends in your Location”, Mobile Information Systems Journal (Hindawi Publ.), Vol. 2015, Article ID 463791.
+G. Koutsandria, M. Skevakis, A. A. Sayegh and P. Koutsakis, “Can Everybody be Happy in the Cloud? Delay, Profit and Energy-Efficient Scheduling for Cloud Services”, Journal of Parallel and Distributed Computing (Elsevier), Vol. 96, 2016, pp. 202-217.
+O.-S. Loizides and P. Koutsakis, “On Evaluating the Quality of a Computer Science/Computer Engineering Conference”,Journal of Informetrics, Vol. 11, No. 2, 2017, pp. 541-552.
+P. Koutsakis, I. Spanou and A. Lazaris, “Video Scene Identification and Classification for Improved User QoE in GEO Satellites”, Human-centric Computing and Information Sciences Journal (Springer), Vol. 7:15, 2017.
+P. Koutsakis,“Scheduling for Telemedicine Traffic Transmission over WLANs”, Computer Communications, Vol. 108, 2017, pp. 17-26.
+M. Kastrinakis, G. Badawy, M. N. Smadi and P. Koutsakis, “Video Frame Size Modeling for User-Generated Traffic in an Enterprise-Like Environment”, Computer Communications, Vol. 109, 2017, pp. 24-37.
+Book Chapter
+T. Kouskouli and P. Koutsakis, “Scheduling for Efficient Telemedicine Traffic Transmission over Next Generation Cellular Networks”, in “Resource Management in Mobile Computing Environments” handbook, 2014, pp. 399-418, Springer-Verlag Publ., C. X. Mavromoustakis, E. Pallis, G. Mastorakis (eds).
+Conference Publications and Presentations
+P. Koutsakis and M. Paterakis, “On the Efficient Voice-Data Integration over Medium Capacity Wireless TDMA Channels”, in Proc. of the 3rd IMACS/IEEE International Multiconference on Circuits, Systems, Communications and Computers (CSCC ’99), Athens, Greece.
+P. Koutsakis and M. Paterakis, “Near-Optimal Voice-Data Integration over Third Generation Wireless TDMA Channels”, in Proc. of the IEEE Information Theory Workshop (ITW’ 99), Metsovo, Greece, June ’99, p.67.
+P. Koutsakis and M. Paterakis, “Near-Optimal Voice-Data Integration over Medium and High Capacity Wireless TDMA Channels”, in Proc. of the IEEE Wireless Communications and Networking Conference 1999 (WCNC ’99), New Orleans, USA, pp. 1382-1386.
+P. Koutsakis and M. Paterakis, “Efficient Voice-Video Integration over Wireless Channels with Adjustable Request Bandwidth”, in Proc. of the Multiaccess, Mobility and Teletraffic for Wireless Communications Workshop 1999 (ΜΜΤ ’99), Venice, Italy, published by Kluwer Academic Publishers.
+P. Koutsakis and M. Paterakis, “Diverse Traffic Type Integration in High Capacity Wireless Channels”, presented in the IFIP WG6.3 Workshop on the Performance of Communication Systems, Rethymnon, Greece, 1999.
+P. Koutsakis and M. Paterakis, “On Multiple Traffic Type Integration over Wireless TDMA Channels”, in Proc. of the 5th IEEE Symposium on Computers and Communications (ISCC 2000), Adibes, France, pp. 621-627 (Acceptance Ratio: 54.5%).
+P. Koutsakis and M. Paterakis, “Integrated Voice, Video and Bursty Data Wireless Access in TDMA-Based Mobile Networks”, in Proc. of the International Symposium on 3G Infrastructure and Services (3GIS), Athens, Greece, July 2001, pp. 313-317.
+P. Koutsakis and M. Paterakis, “Packetized Voice, Video and Email Integrated Transmission over Wireless TDMA Networks with Bursty Channel Errors”,  in Proc. of the International Symposium on 3G Infrastructure and Services (3GIS), Athens, Greece, July 2001, pp.318-323.
+P. Koutsakis, M. Paterakis and S. Psychis, “Integrating Voice, Video and Bursty Data Packet Traffic Over Burst-Error Wireless TDMA Channels with Adjustable Request Bandwidth”, in Proc. of the 12th IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2001), October 2001, San Diego, California, pp. G-55 – G-59.
+P. Koutsakis, S. Psychis and M. Paterakis, “On the Integration of MPEG-4 Video Streams with Voice and E-mail Data Packet Traffic over Wireless Picocellular Networks”, in Proc. of the 12th IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2001), October 2001, San Diego, California, pp. G-60 – G-64.
+P. Koutsakis, A. Parathyras and M. Paterakis, “Dynamic Bandwidth Reservation Scheduling for the Integrated Wireless Access of H-263 Videoconference Traffic with Voice and E-mail Packet Traffic”, in Proc. of the 13th IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2002), Lisbon, Portugal, pp. 2367-2371 (Acceptance Ratio: 58%).
+P. Koutsakis, M. Paterakis and S. Psychis, “Call Admission Control and Traffic Policing Mechanisms for the Wireless Transmission of Layered Videoconference Traffic from MPEG-4 and H.263 Video Coders”, in Proc. of the 13th IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2002), Lisbon, Portugal, pp. 2155 – 2159 (Acceptance Ratio: 58%).
+S. Psychis, P. Koutsakis and M. Paterakis, “On the Integration of MPEG-4 streams Pulled Out of High Performance Mobile Devices and Data Traffic over a Wireless Network”, in Proc. of the 8th IFIP International Conference on Personal Wireless Communications (PWC 2003), Venice, Italy, published in Lecture Notes in Computer Science, Springer-Verlag, Vol. 2775, 2003, pp.568-577 (Full Paper Acceptance Ratio: 29.6%).
+S. Psychis, P. Koutsakis and M. Paterakis, “Multiplexing Live Video Streams & Voice with Data over a High Capacity Packet Switched Wireless Network”, in Proc. of the 5th European Wireless Conference, February 2004, Barcelona, Spain.
+P. Koutsakis, H. Papadakis and M. Paterakis, “Restricted Data Traffic Access in Dynamic Packet Reservation Voice-Data Integration for High Capacity Wireless TDMA Channels”, in Proc. of the IEEE Vehicular Technology Conference -fall 2004, September 2004, Los Angeles, California, pp. 1118-1122 (Acceptance Ratio: 30%).
+P. Koutsakis and S. Psychis, “On the Efficient Resource Allocation for High Quality Video Streams and FTP Traffic over Next Generation Wireless Networks”, in Proc. of the 4th IFIP International Networking Conference (NETWORKING 2005), May 2005, Waterloo, Canada, published in Lecture Notes in Computer Science, Springer-Verlag, Vol. 3462, 2005, pp. 1362-1365 (Acceptance Ratio: 24.7%).
+P. Koutsakis, “Multiplexing Voice and SMS Traffic with Bursty Video over Next Generation Wireless Networks with Capture”, in Proc. of the International Workshop on Wireless and Sensor Networks (ICPP 2005 WSNET Workshop), June 2005, Oslo, Norway, pp. 444-451 (IEEE Computer Society Conference, Acceptance Ratio: 50%).
+P. Koutsakis, “Scheduling and Call Admission Control for Burst-Error Wireless Channels”, in Proc. of the 10th IEEE Symposium on Computers and Communications (ISCC), June 2005, Cartagena, Spain, pp. 767-772 (Acceptance Ratio: 36.8%).
+P. Koutsakis, “Improving Channel Utilization by Restricting Data Traffic Access in Voice-Video-Data Integration for High Capacity Wireless Channels”, in Proc. of the IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), August 2005, Montreal, Canada, pp. 212-219 (Acceptance Ratio: 40%).
+H. Papadakis and P. Koutsakis, “Reducing Energy Consumption in Medium Access Control for Wireless Sensor Networks”, in Proc. of the International Conference on Software, Telecommunications and Computer Networks (SoftCOM 2005), September 2005, Split, Croatia, p. P1-5147-1509 ((IEEE Communications Society Conference).
+P. Koutsakis, H. Papadakis, M. Paterakis and S. Psychis, “On the Efficiency of the MI-MAC protocol for Multimedia Traffic Integrated Access over Wireless Networks”, in Proc. of the 1st IEEE/IFIP International Conference in Central Asia on Internet (ICI 2005), September 2005, Bishkek, Kyrgyzstan.
+T. Chiras, M. Paterakis and P. Koutsakis, “Improved Medium Access Control for Wireless Sensor Networks -A Study on the S-MAC Protocol”, in Proc. of the 14th IEEE Workshop on Local and Metropolitan Area Networks (LANMAN 2005), September 2005, Chania, Greece (Acceptance Ratio: 36.6%).
+H. Papadakis and P. Koutsakis, “Resource Allocation for High-Speed Uplink Wireless Channels with no Reservation Guarantees”, in Proc. of the 30th IEEE Conference on Local Computer Networks (LCN 2005), November 2005, Sydney, Australia, pp. 530-537.
+H. Papadakis, P. Koutsakis and M. Vafiadis, “On the Performance Evaluation of a Dynamic Bandwidth Reservation Mechanism for Integrated H.263 Video, IP and MP3 Traffic over Wireless Networks”, in Proc. of the 7th IEEE International Symposium on Multimedia (ISM 2005), December 2005, Irvine, California, USA.
+P. Koutsakis and H. Papadakis, “On the Development of a Combined Scheduling/Traffic Policing Mechanism for 4th Generation Wireless Networks”, in Proc. of the 4th Asian International Mobile Computing Conference (AMOC 2006), January 2006, Kolkata, India.
+P. Koutsakis, H. Papadakis and M. Vafiadis, “Downlink Scheduling and Call Admission Control for Voice, Video, WAP and SMS Traffic over High Capacity Wireless Picocellular Networks”, in Proc. of the IEEE Consumer Communications and Networking Conference (CCNC 2006), January 2006, Vol.2, pp. 918-922, Las Vegas, USA.
+P. Koutsakis and H. Papadakis, “Efficient Medium Access Control for Wireless Sensor Networks”, in Proc. of the 1st IEEE International Symposium on Wireless Pervasive Computing (ISWPC 2006), January 2006, Phuket, Thailand (Full Paper Acceptance Ratio: 37.5%).
+P. Koutsakis, “On the Use of Videoconference Traffic Prediction for an Efficient Satellite Bandwidth Allocation Scheme”, in Proc. of the 3rd IEEE/IFIP International Conference on Wireless and Optical Communications Networks   (WOCN 2006), April 2006, Bangalore, India.
+P. Koutsakis, “Efficient Wireless Bandwidth Allocation for MPEG-4 Videos Integrated with Web Traffic”, in Proc. of the 5th International Conference on Networking (ICN’06), April 2006, Mauritius (IEEE Computer Society Conference, Acceptance Ratio: 39%).
+A. Lazaris, P. Koutsakis and M. Paterakis, “On Modeling Video Traffic from Multiplexed MPEG-4 Videoconference Streams”, in Proc. of the 6th International Conference on Next Generation Teletraffic and Wired/Wireless Advanced Networking (NEW2AN), May 2006, St. Petersburg, Russia, published in Lecture Notes in Computer Science, Springer-Verlag, Vol. 4003, 2006, pp.46-57 (Acceptance Ratio: 35.6%).
+P. Koutsakis and A. Lazaris, “A New MAC Protocol Based on Multimedia Traffic Prediction in Satellite Systems”, in Proc. of the 6th International Conference on Next Generation Teletraffic and Wired/Wireless Advanced Networking (NEW2AN), May 2006, St. Petersburg, Russia, published in Lecture Notes in Computer Science, Springer-Verlag, Vol. 4003, 2006, pp.58-69 (Acceptance Ratio: 35.6%).
+P. Koutsakis, “On Increasing Energy Conservation for Wireless Sensor Networks”, in Proc. of the International Conference on Wireless and Mobile Communications (ICWMC 2006), July 2006, Bucharest, Romania (IEEE Computer Society Conference, Acceptance Ratio: 41%).
+P. Koutsakis, “A New Efficient Scheme for the Allocation of Satellite Bandwidth Based on Videoconference Traffic Estimation”, in Proc. of the International Conference on Wireless and Mobile Communications (ICWMC 2006), July 2006, Bucharest, Romania (IEEE Computer Society Conference, Acceptance Ratio: 41%).
+P. Koutsakis, “A New Model for Multiplexed VBR H.263 Videoconference Traffic”, in Proc. of the 49th IEEE GLOBECOM 2006, November 2006, San Francisco, USA (Acceptance Ratio: 40%).
+T. Chiras, P. Koutsakis and M. Paterakis, “A New MAC Protocol for Broadband Powerline Communications Networks”, in Proc. of the 49th IEEE GLOBECOM 2006, November 2006, San Francisco, USA (Acceptance Ratio: 40%).
+P. Koutsakis, “Predictive Resource Reservation Access for Multimedia Integration over GEO Satellite Networks”, in Proc. of the 3rd International Conference on Wireless and Mobile Communications (ICWMC) 2007, March 2007, Guadeloupe (IEEE Computer Society Conference, Acceptance Ratio 31%).
+T. Drivas, P. Koutsakis and M. Paterakis, “On Improving the Performance of MI-MAC over Next Generation Wireless Cellular Networks”, in Proc. of the 3rd International Conference on Wireless and Mobile Communications (ICWMC) 2007, March 2007, Guadeloupe (IEEE Computer Society Conference, Acceptance Ratio: 31%).
+S. Chatziperis, P. Koutsakis and M. Paterakis, “On Achieving Accurate Call Admission Control for Videoconference Traffic Transmission over Wireless Cellular Networks”, in Proc. of the IEEE WCNC 2007, March 2007, Hong Kong, China, pp. 3221-3226 (Acceptance Ratio: 47.4%).
+T. Chiras, P. Koutsakis and M. Paterakis, “Efficient Medium Access Control for Broadband Powerline Communication Networks”, in Proc. of the 20th IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), April 2007, Vancouver, Canada, pp. 625-630.
+P. Koutsakis, “Satellite Bandwidth Allocation Based on MPEG-4
+Videoconference Traffic Prediction”, in Proc. of the 3rd International Conference on Networking and Services (ICNS), June 2007, Athens, Greece (IEEE Computer Society Conference, Acceptance Ratio: 32%).
+T. Chiras, P. Koutsakis and M. Paterakis, “On Improving the Extended Aloha Protocol for Broadband Powerline Communications Networks with Light and Heavy Disturbances”, in Proc. of the 3rd International Conference on Networking and Services (ICNS), June 2007, Athens, Greece (IEEE Computer Society Conference, Acceptance Ratio: 32%).
+P. Koutsakis, “Bandwidth Allocation for Integrated MPEG-4 Video, WAP and MP3 Traffic over Next Generation Wireless Cellular Networks”, in Proc. of the 3rd International Conference on Networking and Services (ICNS), June 2007, Athens, Greece (IEEE Computer Society Conference, Acceptance Ratio: 32%).
+P. Koutsakis, “Efficient Call Admission Control for MPEG-4 Wireless Videoconference Traffic”, in Proc. of the 16th IEEE International Conference on Computer Communications and Networks (ICCCN), August 2007, Honolulu, Hawaii, USA (Acceptance Ratio: 29%).
+P. Koutsakis, “Resource Allocation for High Quality H.264 Streams Integrated with Web and MP3 Traffic over High-Speed Cellular Networks with Capture”, in Proc. of the IEEE International Workshop on Performance Modeling and Evaluation in Computer and Telecommunication Networks (PMECT, in conjunction with IEEE ICCCN), August 2007, Honolulu, Hawaii, USA (Acceptance Ratio: < 40%).
+P. Koutsakis, “Performance Evaluation of the MI-MAC Protocol for the Integration of H.264 Video, Voice and WAP Traffic over Wireless Cellular Networks”, in Proc. of the ACM International Wireless Communications and Mobile Computing Conference (IWCMC 2007), August 2007, Honolulu, Hawaii, USA (Acceptance Ratio: 39.7%).
+P. Koutsakis, “Integrating Latest Technology Multimedia Traffic over High-Speed Cellular Networks”, in Proc. of the ACM International Wireless Communications and Mobile Computing Conference (IWCMC 2007), August 2007, Honolulu, Hawaii, USA (Acceptance Ratio: 39.7%).
+P. Koutsakis, “Performance Evaluation of the PRRA MAC Protocol for GEO Satellite Networks”, in Proc. of  the 3rd IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob) 2007, October 2007, New York, USA (Acceptance Ratio: 45%).
+P. Koutsakis, “Transmission Scheduling for Multimedia Traffic over Wireless Cellular Networks with Capture”, in Proc. of the 3rd IEEE International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob) 2007, October 2007, New York, USA (Acceptance Ratio: 45%).
+P. Koutsakis, M. Giannotta, A. Ianos and A. Lazaris, “Scheduling for H.264 Video Traffic over GEO Satellite Networks”, in Proc. of  the 5th ACM International Workshop on Mobility Management and Wireless Access (MobiWAC), October 2007, Chania, Greece, pp. 130-136 (Acceptance Ratio: 40%).
+A. M. Kholaif, T. D. Todd, P. Koutsakis and M. N. Smadi, “QoS-Enabled Power Saving Access Points for IEEE 802.11 Networks”, in Proc. of the IEEE WCNC 2008, April 2008, Las Vegas, USA (Acceptance Ratio: 44.7%).
+S. Chatziperis, P. Koutsakis and M. Paterakis, “Highly Efficient Call Admission Control for Wireless Multimedia Traffic”, in Proc. of the 7th International Conference on Networking (ICN) 2008, April 2008, Cancun, Mexico (IEEE Computer Society Conference, Acceptance Ratio: 31%).
+L. Qiao and P. Koutsakis, “Guaranteed Bandwidth Allocation and QoS support for Mobile Telemedicine Traffic”, in Proc. of the IEEE Sarnoff Symposium 2008, April 2008, Princeton, New Jersey, USA (Acceptance Ratio: < 40%).
+A. Lazaris and P. Koutsakis, “Revenue-Based Call Admission Control for MPEG-4 Wireless Videoconference Traffic”, in Proc. of the 9th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), Newport Beach, USA, 2008.
+P. Koutsakis, “Efficient Traffic Policing for Videoconference Traffic over Wireless Cellular Networks”, in Proc. of the 13th IEEE International Symposium on Computers and Communications (ISCC 2008), July 2008, Marrakech, Morocco (Acceptance Ratio: 48%).
+P. Koutsakis, “Call Admission Control for H.264 Traffic Transmission over Wireless Cellular Networks”, in Proc. of the 13th IEEE International Symposium on Computers and Communications (ISCC 2008), July 2008, Marrakech, Morocco (Acceptance Ratio: 48%).
+P. Koutsakis and A. Lazaris, “Integrating Multimedia Traffic with Strict QoS in Wireless Cellular Networks” (Invited Paper), in Proc. of the IEEE International Wireless Communications and Mobile Computing Conference (IWCMC 2008), August 2008, Limin Hersonissou, Crete, Greece.
+L. Gadbois and P. Koutsakis, “Using Efficient Backlog Estimation to Achieve Near-Optimal Throughput for Integrated Multimedia Wireless Cellular Access”, in Proc. of the 5th IEEE International Symposium on Wireless Communication Systems (ISWCS) 2008, Reykjavik, Iceland, October 2008.
+P.  Koutsakis, “A New Call Admission and Medium Access Control Framework for Multimedia Traffic over GEO Satellite Networks”, in Proc. of the 11th IEEE International Conference on Communication Systems (ICCS), November 2008, Guangzhou, China (Acceptance Ratio: 40%).
+A. Lazaris and P. Koutsakis, “Modeling Video Traffic from Multiplexed H.264 Videoconference Streams”, in Proc. of the IEEE GLOBECOM 2008, December 2008, New Orleans, USA (Acceptance Ratio: 36%).
+L. Qiao and P. Koutsakis, “Fair and Efficient Scheduling for Telemedicine Traffic Transmission over Wireless Cellular Networks”, in Proc. of the 69th IEEE Vehicular Technology Conference – spring, 2009, Barcelona, Spain (Acceptance Ratio: 53%).
+P. Koutsakis, “Call Admission Control for Wireless Videoconference Traffic Based on the Users’ Willingness to Pay”, in Proc. of the European Wireless 2010 Conference, Lucca, Italy, April 2010, pp. 34-41 (IEEE Communications Society Conference, Acceptance Ratio: 50%).
+J. Sotiropoulos, A. Delimargas and P. Koutsakis, “Exploiting GoP Patterns for Video Traffic Control over Wireless Networks”, in Proc. of the IEEE WCNC 2012, Paris, France (Acceptance Ratio: 44%).
+C. Stamos, D. Vasileiadou, G. Koutsandria, I. Spanou, A. Vlachaki, A. Lazaris and P. Koutsakis, “User-Satisfaction Based Resource Allocation for GEO Satellites”, in Proc. of the IEEE WoWMoM 2012, San Francisco, USA (Work-in-Progress Paper Acceptance Ratio: 33.3%).
+I. Spanou, A. Lazaris and P. Koutsakis, “Scene Change Detection-Based Discrete Autoregressive Modeling for MPEG-4 Video Traffic”, in Proc. of the IEEE ICC 2013, Budapest, Hungary (Acceptance Ratio: 39%).
+Ε. Palogiannidi, E. Iosif, P. Koutsakis and A. Potamianos, “Valence, Arousal, Dominance Estimation for English, German, Greek, Portuguese and Spanish Lexica using Semantic Models”, in Proc. of Interspeech 2015, Dresden, Germany (Acceptance Ratio: 51%).
+S. Boukoros, A. Kalampogia and P. Koutsakis, “A New Highly Accurate Workload Model for Campus Email Traffic”, accepted for presentation in the IEEE International Conference on Computing, Networking and Communications (ICNC) 2016, Kauai, Hawaii, USA (Acceptance Ratio:< 30%).
+Ε. Palogiannidi, P. Koutsakis, E. Iosif and A. Potamianos, “Affective Lexicon Creation for the Greek Language”, in Proc. of the 10th Language Resources and Evaluation Conference (LREC 2016), Portoroz, Slovenia.
+Ε. Palogiannidi, E. Iosif, P. Koutsakis and A. Potamianos, “A Semantic-Affective Compositional Approach for the Affective Labelling of Adjective-Noun and Noun-Noun Pairs”, in Proc. of the 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2016), San Diego, USA.
+A. Chorianopoulou, P. Koutsakis and A. Potamianos, “Speech Emotion Recognition Using Affective Saliency”,  in Proc. of Interspeech 2016, San Francisco, USA, 2016 (Acceptance Ratio: 50%).
+A. Kalampogia and P. Koutsakis, “Using Simulated Annealing for Improved Video Bandwidth Prediction”, accepted for presentation in the IEEE INFOCOM 2017 Workshop on Communication and Networking Techniques for Contemporary Video.
+© 2017 Murdoch University
+Copyright & Disclaimer
+CRICOS Code: 00125J
+Contact us
+Privacy
+Home
+Courses
+Future students
+Research capabilities
+News
+Services
+Business and Industry
+Alumni
+You are currently located on the main Murdoch site
++ Find another Murdoch website

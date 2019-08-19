@@ -1,0 +1,39 @@
+  Home > Faculty > Peter Howley, M.D.
+  Peter Howley, M.D.
+Contact Information:
+Dept. of Microbiology and Immunobiology
+Harvard Medical School
+77 Avenue Louis Pasteur
+NRB-950A
+Boston, MA 02115
+
+phone: 617-432-2889
+fax: 617-432-2882
+email:peter_howley@hms.harvard.edu
+Division of Immunology
+      Research Summary
+Research in the Howley laboratory is focused on the molecular biology of the papillomaviruses and the role of these viruses in carcinogenesis. Several specific types of the human papillomaviruses (HPVs) are associated with human cervical cancer. The "high risk" HPVs encode two oncoproteins, E6 and E7, which target the tumor suppressor gene proteins p53 and pRB, respectively. We have previously shown that E6 promotes the ubiquitylation and degradation of p53, and are now interested in the general question of how proteins are recognized within cell by the ubiquitin proteolytic machinery. The E6 promoted ubiquitylation of p53 is mediated by the cellular protein E6AP (also known as UBE3A) that complexes with E6 to directly target p53 for ubiquitylation. We are interested in identifying the genes that regulate E6 mediated proteolysis of p53 and in screening for small molecule inhibitors of this process.
+UBE3A is also the gene responsible for Angelman Syndrome and has also been implicated in some cases of Autism Spectrum Disorders (ASD). We are interested in the identification the cellular proteins that E6AP targets that contribute to the pathogenesis of cervical cancer as well as the neuronal cell targets that are responsible for Angelman Syndrome. Through our studies with UBE3A we have also extended our studies to defining the proteomic and pathway networks in Angelman Syndrome and ASD.
+One major area of research in the laboratory has focused on the E2 regulatory proteins encoded by the papillomaviruses. The full length and spliced versions of E2 protein regulate expression of the viral E6 and E7 oncoproteins, have auxiliary roles in viral DNA replication and play a role in viral genome maintenance for establishing persistent infections.  We identified the bromodomain protein Brd4 as a key cellular binding partner of E2 that mediates a number of these important functions. Projects in the laboratory involving the viral E2 protein employ proteomic and genome wide siRNA approaches to identify cellular proteins and pathways involved in HPV virus host cell interactions.
+Our interests extend to other aspects of papillomavirus-host cell interactions, including how these viruses evade innate and adaptive host cell immune recognition. Another area of study in the laboratory involves the characterization of the human papillomavirus protein network using mass spectrometry to generate a high quality network interaction map encompassing proteins encoded by the oncogenic as well as non-oncogenic HPV types. Rotation projects for graduate students are available in each of these areas.
+
+Selected Publications
+You, J. Croyle, J.L., Nishimura, A., Ozato, K., and Howley, P.M. Interaction of the bovine papillomavirus E2 protein with Brd4 tethers the viral DNA to host mitotic chromosomes. Cell, 117:349-360, 2004.
+
+Schweiger, M.-R., Ottinger, M., You, J., and Howley, P.M. Brd4 independent transcriptional repression function of the papillomavirus E2 proteins. J. Virol. 81:9612-9622, 2007.
+
+Zheng, G., Schweiger, M.-R., Martinez-Noel, G., Zhang, L., Smith, J.A., Harper, J.W. and Howley, P.M. Brd4 regulation of papillomavirus E2 stability. J. Virol. 83:8683-8692, 2009.
+
+You, J., Li, Q., Wu, C., Kim, J., Ottinger, M. and Howley, P.M. Regulation of Aurora B expression by the bromodomain protein Brd4. Mol. Cell. Biol. 29:5094-5103, 2009.
+
+Ottinger, M., Smith, J.A., Schweiger, M.-R., Robbins, D., Powell, M.L.C., You, J. and Howley, P.M. Cell type specific activities among different papillomavirus E6/E7 promoters and their regulation by E2. Virology, 395: 161-171, 2009.
+
+Smith, J.A., White, E.A., Sowa, M.E., Powell, M.L.C., Ottinger, M., Harper, J.W., and Howley, P.M. A genome-wide siRNA screen identifies SMCX, EP400 and Brd4 as E2-dependent regulators of human papillomavirus oncogene expression. Proc. Nat. Acad. Sci. USA, 107:3752-3757, 2010.
+
+Powell, M.L.C., Smith, J.A., Sowa, M.E., Harper, J.W., Iftner, T., Stubenrauch, F. and Howley, P.M. NCoR1 mediates papillomavirus E8^E2C transcriptional repression. J. Virol. 84:4451-4460, 2010.
+
+Rahman, S., Sowa, M.E., Ottinger, M., Smith, J.A., Shi, Y., Harper, J.W., and Howley, P.M. The Brd4 Extraterminal (ET) Domain confers transcription activation independent of pTEFb by recruiting multiple proteins including NSD3. Mol. Cell. Biol. 31:2641-2652, 2011.
+Department of Microbiology and Immunobiology, Harvard Medical School
+77 Ave Louis Pasteur, Boston, MA 02115 | Phone: (617) 432-1932
+Main Page | Introduction | Faculty | Education | Events | Contact Us | Webmaster
+Copyright © 2017 by the President and Fellows of Harvard College

@@ -1,0 +1,94 @@
+Skip to main content
+The University of Pittsburgh
+PITT HOME
+FIND PEOPLE
+DIETRICH SCHOOL
+Department of Chemistry
+Search
+Facebook
+FourSquare
+Toggle navigation
+Lillian Chong
+Associate Professor
+Contact
+331 Eberly Hall
+Chevron Science Center
+219 Parkman Avenue
+
+Pittsburgh, PA 15260
+412-624-6026
+ltchong@pitt.edu
+My Website >
+Research Overview
+Computational Biophysics; Biomolecular simulations
+Research in the Chong lab involves the development and application of molecular simulation approaches to model a variety of biophysical processes. A summary of some of our research directions is provided below.
+Weighted ensemble approaches for sampling rare events
+To enable the efficient simulation of rare events (e.g. protein folding and binding processes), we have been developing approaches based on “weighted ensemble” path sampling, which introduces no bias into the dynamics. Using our high-performance implementation of this approach (WESTPA), we and others have demonstrated that this approach can enhance the efficiency of generating pathways and rate constants for rare events by orders of magnitude
+Simulation of protein binding pathways and kinetics
+Obtaining atomically detailed views of protein binding (and unbinding) processes has been a grand challenge in the field of biomolecular simulation due to the long timescales required. To tackle this difficult problem, we have been using weighted ensemble algorithms to generate pathways and rate constants for various protein binding processes, including those that involve intrinsically disordered peptides that fold only upon binding their intended partner proteins.
+Design of protein conformational switches
+The process of designing protein conformational switches involves a significant amount of educated guesswork in the laboratory. To aid in the rational design of protein switches, we have been developing simulation approaches with various levels of coarse-graining to efficiently predict the dynamics of these protein switches. We have been focusing on a particular class of protein-based switches that are engineered using a "mutually exclusive folding" strategy in which two formerly independent protein domains are fused together in such a way that at any moment in time, only one or the other protein can be folded, but not both.
+Awards
+National Science Foundation CAREER Award, 2009-2014
+Carnegie Science Emerging Female Scientist Award, 2012
+Hewlett-Packard Outstanding Junior Faculty Award, 2008
+Frank M. Goyan Graduate Research Award in Physical Chemistry at UCSF, 2002
+Burroughs Wellcome Graduate Research Fellowship, 2001-2002
+National Science Foundation Graduate Research Fellowship, 1998-2001
+Publications
+“Evaluating the strength of salt bridges - a comparison of current biomolecular force fields,” Debiec, K. T.; Gronenborn, A. M.; and Chong, L. T., J. Phys. Chem. B, Vol. 118, 2014, Pages 6561-6569
+“Simultaneous computation of dynamical and equilibrium information using a weighted ensemble of trajectories,” Suarez, E.; Lettieri, S.; Zwier, M. C.; Stringer, C. A.; Subramanian, S. R.; Chong, L. T.; and Zuckerman, D. M., J. Chem. Theory Comput., Vol. 10, 2014, Pages 2658-2667
+“Effects of high temperature on desolvation costs of salt bridges across protein binding interfaces: Similarities and differences between implicit and explicit solvent models.,” R Salari and LT Chong, J. Phys. Chem. B, Vol. 116, 2012, Pages 2561-2567
+“Direct observations of conformational distributions of intrinsically disordered p53 peptides using UV raman and explicit solvent simulations.,” Xiong K, Zwier MC, Myshakina NS, Burger VM, Asher SA, and Chong LT., J. Phys. Chem. A, Vol. 115, 2011, Pages 9520-9527
+“Simulations of the alternating access mechanism of the sodium symporter Mhp1,” Adelman JL, Scarbrough A, Zwier MC, Bhatt D, Chong LT, Zuckerman DM, and Grabe M, Biophys. J., Vol. 101, 2011, Pages 2399-2407
+“Direct observations of shifts in the beta-sheet register of a protein-peptide complex using explicit solvent simulations.,” Panteva MT,* Salari R,*Bhattacharjee M, and Chong LT.*equal authorship, Biophysical Journal, Vol. 100, 2011, Pages L50-L52
+“Efficient explicit-solvent molecular dynamics simulations of molecular associations: Methane/methane, Na+/Cl-, methane/benzene, and K+/18-crown-6 ether,” Zwier MC, Kaus JW, and Chong LT., J. Chem. Theory and Computation, Vol. 7, 2011, Pages 1189-1197
+“Molecular simulations of mutually exclusive folding in a two-domain protein switch.,” Mills, B. M. and Chong L. T., Biophys. J., Vol. 100, 2011, Pages 756-764
+“Reaching biological timescales with all-atom molecular dynamics simulations,” Zwier, M. C. and Chong L. T., Curr. Opin. Pharmacol., Vol. 10, 2010, Pages 745-752
+“Desolvation Costs of Salt Bridges across Protein Binding Interfaces: Similarities and Differences between Implicit and Explicit Solvent Models,” Salari R. and Chong L. T., J. Phys. Chem. Lett., Vol. 1, 2010, Pages 2844-2848
+“Effect of Interdomain Linker Length on an Antagonistic Folding-Unfolding Equilibrium between Two Protein Domains,” Cutler, T. A.; Mills B. M.; Lubin D. J.; Chong, L.T.; and Loh S. N., J. Mol. Biol., Vol. 386, 2009, Pages 854-868
+PEOPLE
+Faculty
+Adjunct Faculty
+Emeritus Faculty
+Part-Time Faculty
+Facility Directors
+Lab Instructors
+Lecturers
+Post Doc Associates
+Research Faculty
+Research Associates
+Visiting Scholars
+Grad Students
+Staff
+Central Support Staff
+FourSquare
+Facebook
+MAILING ADDRESS
+University of Pittsburgh
+Dietrich School of Arts and Sciences
+Department of Chemistry
+Chevron Science Center
+219 Parkman Avenue
+Pittsburgh, PA 15260
+412-624-8200
+F: 412-624-8611
+EMAIL CONTACTS
+Department Chair: Kay Brummond
+Administrative Officer: Evon Nigro
+Director of Graduate Studies: Stephen Weber
+Graduate Administrator: Christie Hay
+Director of Undergraduate Studies: Joe Grabowski
+Undergraduate Administrator: Regina Mahouski
+Building Issues: Mary Beth Conroy
+DIRECTIONS
+Chevron Science Center
+Eberly Hall
+Thaw Hall
+DONATE
+Support the Department of Chemistry
+INTRANET
+NEWSLETTER
+Name
+Email
+SUBSCRIBE

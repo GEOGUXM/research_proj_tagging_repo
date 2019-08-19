@@ -1,0 +1,3748 @@
+<html lang="en"><!--<![endif]--><head>
+<script type="text/javascript" src="https://bam.nr-data.net/1/5900ffea16?a=2180695&amp;sa=1&amp;v=998.365d633&amp;t=Unnamed%20Transaction&amp;rst=3207&amp;ref=http://vivo.med.cornell.edu/display/cwid-sckiang&amp;be=1391&amp;fe=1805&amp;dc=337&amp;af=err,xhr,stn,ins,spa&amp;perf=%7B%22timing%22:%7B%22of%22:1498007150100,%22n%22:0,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22ce%22:0,%22rq%22:0,%22rp%22:0,%22rpe%22:0,%22dl%22:1128,%22di%22:1688,%22ds%22:1727,%22de%22:1767,%22dc%22:3194,%22l%22:3194,%22le%22:3197%7D,%22navigation%22:%7B%7D%7D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-spa-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(19),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{h?h-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(20),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(p){"stack"in p&&(t(12),t(11),"addEventListener"in window&&t(6),s.xhrWrappable&&t(13),u=!0)}c.on("fn-start",function(t,e,n){u&&(h+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){j++,S=y.hash,this[u]=Date.now()}function o(){j--,y.hash!==S&&i(0,!0);var t=Date.now();this[l]=~~this[l]+t-this[u],this[h]=t}function i(t,e){x.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=Date.now()})}var c="-start",s="-end",f="-body",u="fn"+c,h="fn"+s,p="cb"+c,d="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location;if(w[v]){var g=t(9),b=t(10),x=t(8),E=t(6),T=t(12),O=t(7),R=t(13),P=t("ee"),D=P.get("tracer");t(14),t("loader").features.spa=!0;var S,N=w[v],j=0;P.on(u,r),P.on(p,r),P.on(h,o),P.on(d,o),P.buffer([u,h,"xhr-done","xhr-resolved"]),E.buffer([u]),T.buffer(["setTimeout"+s,"clearTimeout"+c,u]),R.buffer([u,"new-xhr","send-xhr"+c]),O.buffer([m+c,m+"-done",m+f+c,m+f+s]),x.buffer(["newURL"]),g.buffer([u]),b.buffer(["propagate",p,d,"executor-err","resolve"+c]),D.buffer([u,"no-"+u]),a(R,"send-xhr"+c),a(P,"xhr-resolved"),a(P,"xhr-done"),a(O,m+c),a(O,m+"-done"),x.on("pushState-end",i),x.on("replaceState-end",i),N("hashchange",i,!0),N("load",i,!0),N("popstate",function(){i(0,j>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(12),c=t(11),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",h="bstResource",p="resource",d="-start",l="-end",m="fn"+d,v="fn"+l,w="bstTimer",y="pushState";t("loader").features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+d,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(h,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(h,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,h],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(21)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",h="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(h+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(19);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,h=a.Response,p=a.fetch,d="prototype";u&&h&&p&&(i(f,function(t,e){r(u[d],e,s),r(h[d],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(21)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){var r=t("ee").get("mutation"),o=t(21)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],10:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(21),a=t("ee").get("promise"),c=i(a),s=t(19),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],11:[function(t,e,n){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],12:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(21)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",h="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+h),a.inPlace(window,[s],s+h),a.inPlace(window,[f,"clearImmediate"],f+h),i.on(s+u,r),i.on(c+u,o)},{}],13:[function(t,e,n){function r(t,e){h.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),h.inPlace(t,v,"fn-",c)}function i(t){w.push(t),l&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),h=t(21)(u),p=NREUM.o,d=p.XHR,l=p.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new d(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(d,y),y.prototype=d.prototype,h.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var g=1,b=document.createTextNode(g);new l(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],14:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<h;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(15),f=t("ee"),u=["load","error","abort","timeout"],h=u.length,p=t("id"),d=t(18),l=t(17),m=window.XMLHttpRequest;a.features.xhr=!0,t(13),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,d&&(d>34||d<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<h;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],15:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],16:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(19),c=t(20),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],h="api-",p=h+"ixn-";a(u,function(t,e){f[e]=o(h+e,!0,"api")}),f.addPageAction=o(h+"addPageAction",!0),f.setCurrentRouteName=o(h+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],17:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],18:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],19:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],20:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],21:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(20),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(h){throw u(e+"err",[r,a,h],c),h}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,h(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){p([a,n,r,o])}s=i}}function h(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!p.aborted){t&&t(n,r,o);for(var i=e(o),a=l(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function d(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return h[t]=h[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},g={on:d,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(19),u={},h={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=h.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(w,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=h.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===h.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(19),f=t("ee"),u=window,h=u.document,p="addEventListener",d="attachEvent",l=u.XMLHttpRequest,m=l&&l.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:l,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(16);var v=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-998.min.js"},y=l&&m&&m[p]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:v,features:{},xhrWrappable:y};h[p]?(h[p]("DOMContentLoaded",i,!1),u[p]("load",r,!1)):(h[d]("onreadystatechange",o),u[d]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,14,5,3,4]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"5900ffea16",applicationID:"2180695",sa:1}
+</script>
+
+<meta charset="utf-8">
+<!-- Google Chrome Frame open source plug-in brings Google Chrome's open web technologies and speedy JavaScript engine to Internet Explorer-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>Chen-Kiang, Selina </title>
+
+
+
+<!-- vitro base styles (application-wide) -->
+<link rel="stylesheet" href="/css/vitro.css">
+
+<link rel="stylesheet" href="/css/individual/individual.css">
+<link rel="stylesheet" href="/css/individual/individual-vivo.css">
+<link rel="stylesheet" href="/css/individual/individual-2column-view.css">
+<link rel="stylesheet" href="/js/jquery-ui/css/smoothness/jquery-ui-1.8.9.custom.css">
+
+<link rel="stylesheet" href="/css/edit.css"><link rel="stylesheet" href="/themes/wcmc/css/screen.css">
+<!--
+<link rel="stylesheet" href="/themes/wcmc/webfonts/ss-standard.css">
+-->
+<script>
+var i18nStrings = {
+    allCapitalized: 'All',
+};
+</script>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/vitroUtils.js"></script>
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/js/html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="/js/tiny_mce/tiny_mce.js"></script>
+<script type="text/javascript" src="/js/jquery_plugins/qtip/jquery.qtip-1.0.0-rc3.min.js"></script>
+<script type="text/javascript" src="/js/json2.js"></script>
+<script type="text/javascript" src="/themes/wcmc/js/plugins/jquery.truncator.js"></script> 
+    
+<script type="text/javascript" src="/themes/wcmc/js/wcscript.js"></script>
+
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="/themes/wcmc/css/ie6.css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="/themes/wcmc/css/ie7.css" />
+<![endif]-->
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="/js/selectivizr.js"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rdf+xml" href="/individual/cwid-sckiang/cwid-sckiang.rdf"> 
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<!-- For third-generation iPad with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
+
+<!-- For iPhone with high-resolution Retina display: -->
+
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+
+<!-- For first- and second-generation iPad: -->
+
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+
+<link rel="apple-touch-icon-precomposed" href="apple-touch- icon-precomposed.png">
+    <script id="altmetric-embed-js" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/altmetric_badges-371ee1d310707290b26c075361d4d83e.js"></script></head>
+    
+    <body class="display" onload="">
+
+<header id="branding" role="banner">
+    <h1 class="vivo-logo"><a title="VIVO | enabling national networking of scientists" href="/" class="vivo-logo"><span class="displace">VIVO</span></a><a title="Weill Cornell Medical College" href="http://med.cornell.edu" class="wcmc-logo"><span class="displace">Weill Cornell Medical College</span></a></h1>
+
+    <nav role="navigation">
+        <ul id="header-nav" role="list">
+            <li role="listitem"><a href="/browse" title="index">Index</a></li>
+                <li role="listitem"><a class="log-out" title="log in to manage this site" href="/loginExternalAuth">Log in</a></li>
+        </ul>
+        
+    </nav>
+    
+    <section id="search" role="region">
+        <fieldset>
+            <legend>Search form</legend>
+            
+            <form id="search-form" action="/search" name="search" role="search" accept-charset="UTF-8" method="POST"> 
+                <div id="search-field">
+                    <input name="querytext" class="search-vivo" value="" autocapitalize="off" type="text">
+                    <input value="Search" class="search" type="submit">
+                </div>
+            <input name="as_sfid" value="AAAAAAU4Tzg_--CtLU4LXVxqIT_R2x_itoTlugZxLo9o7r5IQHSDb7gWThKtfCiebBhX6lpg6I47BkU-wTBr4WMrafmBhabxJWEbaODbzkaTjJ8jzrk-fdIBC79h5FBC9NmaANI=" type="hidden"><input name="as_fid" value="9859ce2868b6ecce2f08a8425cd854c59e4294d1" type="hidden"></form>
+        </fieldset>
+    </section>
+</header>        
+
+<nav role="navigation">
+    <ul id="main-nav" role="list">
+            <li role="listitem"><a href="/" title="menu item">Home</a></li>
+            <li role="listitem"><a href="/people" title="menu item">People</a></li>
+            <li role="listitem"><a href="/organizations" title="menu item">Organizations</a></li>
+            <li role="listitem"><a href="/research" title="menu item">Research</a></li>
+            <li role="listitem"><a href="/support" title="menu item">Support</a></li>
+    </ul>
+</nav>
+
+<div id="wrapper-content" role="main">        
+    
+    <!--[if lte IE 8]>
+    <noscript>
+        <p class="ie-alert">This site uses HTML elements that are not recognized by Internet Explorer 8 and below in the absence of JavaScript. As a result, the site will not be rendered appropriately. To correct this, please either enable JavaScript, upgrade to Internet Explorer 9, or use another browser. Here are the <a href="http://www.enable-javascript.com"  title="java script instructions">instructions for enabling JavaScript in your web browser</a>.</p>
+    </noscript>
+    <![endif]-->
+        
+        
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="/css/individual/ie7-standard-view.css" />
+<![endif]-->
+
+
+    
+    
+  
+<section id="individual-intro" class="vcard person" role="region">
+
+
+    <header>
+                <h1 class="vcard foaf-person">
+			                    <span class="fn">Selina Chen-Kiang&nbsp;&nbsp;</span>
+                    
+                    
+                     
+                        
+                                                
+	                            <span class="display-title">Professor of Pathology and Laboratory Medicine</span>
+                        
+                        
+                </h1>
+
+
+    </header> 
+        
+        
+        
+
+    
+            <nav id="property-group-menu" role="navigation">
+                <ul role="list">
+                            <li role="listitem" style="display: none;"><a href="#overview" title="group name">Overview</a></li>
+                            <li role="listitem" style="display: none;"><a href="#affiliation" title="group name">Affiliation</a></li>
+                            <li role="listitem"><a href="#publications" title="group name">Publications</a></li>
+                            <li role="listitem"><a href="#research" title="group name">Research</a></li>
+                            <li role="listitem"><a href="#background" title="group name">Background</a></li>
+                            <li role="listitem"><a href="#contact" title="group name">Contact</a></li>
+                            <li role="listitem"><a href="#other" title="group name">Other</a></li>
+                </ul>
+            </nav>
+    <section id="share-contact" role="region">
+
+
+
+
+        <div id="photo-wrapper">	 <a href="https://directory.weill.cornell.edu/api/v1/person/profile/sckiang.png?returnGenericOn404=true" title="Individual photo">
+         <img class="individual-photo" src="https://directory.weill.cornell.edu/api/v1/person/profile/sckiang.png?returnGenericOn404=true" title="click to view larger image" alt="Chen-Kiang, Selina " onerror="this.onerror=null;this.src='/vivo/images/DirectoryGenericPhoto.png';this.title='no image';this.alt='no image';" width="160">
+         </a>
+</div>
+
+
+    
+    
+
+        <h6>Phone</h6>
+        
+        
+	         
+	             
+	                <ul id="individual-phone" role="list">
+	                        <li role="listitem">
+	                           +1 212 746 6440
+	                        </li>
+	                </ul>
+	
+	        	        
+	        	    
+
+
+
+
+            <nav role="navigation">
+            <ul id="individual-tools-people" role="list">
+                <li role="listitem" class="rdfBtn"><a class="uriIcon ss-link right" href="http://vivo.med.cornell.edu/individual/cwid-sckiang" src="/images/../themes/wcmc/images/rdfBtn.png" alt="uri icon" style="display:inline-block; width: 10px; height:10px; overflow:hidden; color: white;"></a></li>
+            </ul>
+        </nav>
+
+        <div id="individual-tools-people">
+            <span id="iconControlsLeftSide">
+            </span>
+        </div>
+
+    </section>        
+        
+        
+    <section id="individual-info" class="withThumb" role="region">
+    
+             
+    <ul id="individual-relatedBy" role="list">
+         
+    
+    <!-- use wcmc feature -->
+    
+			    
+    	<!-- otherwise, use default -->
+	    <li role="listitem">    
+
+    
+    
+    <span itemprop="jobTitle">Professor of Pathology and Laboratory Medicine</span>,
+<span itemprop="worksFor" itemscope="" itemtype="http://schema.org/Organization">
+<a itemprop="name" href="/display/org-u94629" title="organization name">Pathology and Laboratory Medicine</a>
+</span>,
+<span itemprop="worksFor" itemscope="" itemtype="http://schema.org/Organization">
+<a itemprop="name" href="/display/org-568" title="middle organization">Weill Cornell Medical College</a>
+</span>              <span class="listDateTime">1996 -</span>
+
+
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+    	<!-- otherwise, use default -->
+	    <li role="listitem">    
+
+    
+    
+    <span itemprop="jobTitle">Professor of Microbiology and Immunology</span>,
+<span itemprop="worksFor" itemscope="" itemtype="http://schema.org/Organization">
+<a itemprop="name" href="/display/org-u770" title="organization name">Microbiology and Immunology</a>
+</span>,
+<span itemprop="worksFor" itemscope="" itemtype="http://schema.org/Organization">
+<a itemprop="name" href="/display/org-568" title="middle organization">Weill Cornell Medical College</a>
+</span>              <span class="listDateTime">1997&nbsp;-&nbsp;2017</span>
+
+
+
+
+	    </li>
+    
+    <!-- wcmc feature -->
+    
+
+    </ul>  
+            
+            
+        <!-- Overview -->
+            <p></p>
+ 
+        <div class="individual-overview">
+            <div class="overview-value">
+                <p>CELL CYCLE CONTROL OF B CELL IMMUNITY and CANCER</p><p>Cell cycle control and apoptosis are two major determinants of homeostasis in physiologic response and cancer.  Our goal is to combine genetic, molecular and biochemical approaches to defining the mechanism that underlies cell cycle control of B cell immunity and tumorigenesis.  Specifically, we want to understand how the cell cycle integrates antigen and cytokine signals to control B cell activation, expansion, and terminal differentiation to non-cycling, antibody-secreting plasma cells; and how the cell cycle is coupled to apoptotic control in B cell immunity.  In parallel, we want to determine how the loss of cell cycle checkpoints contributes to the development of multiple myeloma, an incurable cancer of plasma cells, in order to facilitate rational design of therapeutic intervention. 
+
+<i>Cell cycle control of B cell activation and terminal differentiation.</i> 
+The mammalian cell cycle is regulated mainly at the G1 to S phase transition by the balance between positive and negative cell cycle regulators.  Through gene targeting and analysis of the antibody response, we have identified p18INK4c, a G1 cyclin-dependent kinase (CDK) inhibitor, to be specifically required for the generation of antibody-secreting plasma cells, and for the survival of plasma cell precursors. This was the first demonstration of cell cycle control of B cell immunity.  We are now investigating the mechanisms by which the cell cycle is coupled to apoptosis and cellular differentiation, and regulates germinal center formation and memory B cell generation.
+
+<i>Regulation of the cell cycle by antigen and cytokine signaling.</i> 
+The timing and magnitude of an antibody response is tightly modulated by antigen and cytokines, in particular BLyS, CD40 ligand, IL-4 and IL-6.  We are now studying these signaling pathways that lead to cell cycle control of B cell activation and terminal differentiation. 
+
+<i>Cell cycle dysregulation in multiple myeloma. </i>
+Loss of cell cycle control contributes to monoclonal expansion of malignant plasma cells and their accumulation in the bone marrow.  In collaboration with clinical scientists in the Tri-Institutional Specialized Center of Research (SCOR) for Multiple Myeloma, we are identifying the cell cycle checkpoints that are lost in primary multiple myeloma cells, and the molecular interactions between myeloma cells and bone marrow stroma, and the self-renewing myeloma stem cells that are critical for disease progression. 
+</p>
+            </div>
+        </div>
+
+                    
+        <!-- Geographic Focus -->
+					
+
+	</section>
+        
+ </section>       
+        
+
+
+<script src="/js/jquery-1.9.1.js"></script>
+<script src="/js/jquery_plugins/jquery.tinysort-1.5.6.min.js"></script>
+
+
+    
+    <section class="property-group" role="region">
+        <nav class="scroll-up" role="navigation">
+            <a href="#branding" title="scroll up">
+                <img src="/images/individual/scroll-up.gif" alt="scroll to property group menus">
+            </a>
+        </nav>
+        
+            <h2 id="publications">Publications</h2>
+
+            	<div class="group-controls">
+            		<span>Sort by</span>
+                    <select id="dropdown_options" class="button" title="Sort by">
+                        <option value="newest" selected="">Newest</option>
+                        <option value="oldest">Oldest</option>
+                        <option value="citation">Times Cited</option>
+                        <option value="pubtype">Publication Type</option>
+                        <option value="pubname">Journal Name</option>
+                    </select>   
+
+					<div id="coauthorship_link_container" class="collaboratorship-link-container">
+						<div class="collaboratorship-icon">
+							<a href="/vis/author-network/cwid-sckiang" class="button ss-globe right" title="co-author">Co-Author Network</a>
+							<!-- Add edit article link to feedback form -->
+						</div>
+					</div>
+				
+				</div>
+				       
+            
+
+
+        
+        		<a name="Authorship">
+        		</a><article class="property" role="article"><a name="Authorship">
+
+            	<!-- For wcmc publications, change to Publications authored from the Admin UI -->
+                <h3 id="relatedBy">Selected publications   </h3>
+                
+            <!-- wcmc feature -->
+    
+
+				<script type="text/javascript">
+
+					$('#dropdown_options').on('change', function (e) {
+						var len = $('ul#relatedByAuthorshipList>li').size();
+						if (len > 5) {
+							$('ul#relatedByAuthorshipList li:gt(5)').show();
+						}
+					    var optionSelected = $("option:selected", this);
+					    var valueSelected = this.value;
+					    if (valueSelected == 'oldest') {
+							$('ul#relatedByAuthorshipList>li').tsort({attr:'datetime'});
+					    } else if (valueSelected == 'newest') {
+							$('ul#relatedByAuthorshipList>li').tsort({order:'desc',attr:'datetime'});
+					    } else if (valueSelected == 'citation') {
+							$('ul#relatedByAuthorshipList>li').tsort({order:'desc',attr:'citation'});
+					    } else if (valueSelected == 'pubtype') {
+							$('ul#relatedByAuthorshipList>li').tsort({attr:'pubname'}).tsort({attr:'pubtype'});
+					    } else if (valueSelected == 'pubname') {
+							$('ul#relatedByAuthorshipList>li').tsort({attr:'pubtype'}).tsort({attr:'pubname'});
+					    }
+					    if (len > 5) {
+							$('ul#relatedByAuthorshipList li:gt(5)').hide();
+							$("#lessLongListAuthorship").hide();
+							$("#moreLongListAuthorship").show();
+						}
+					});
+				</script>
+        	
+                </a><ul class="property-list" role="list" id="relatedByAuthorshipList"><a name="Authorship">
+         
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    </a><li role="listitem" pubtype="InProcess" pubname="Blood" citation="0" datetime="2016-12-15T00:00:00"><a name="Authorship">    
+
+
+
+    
+
+    
+
+
+                     </a><a href="/display/pubid85014947397" title="resource name">Rational targeted therapies to overcome microenvironment-dependent expansion of mantle cell lymphoma.</a>&nbsp;
+ 
+                    <i>Blood</i>.
+            
+             <span class="listDateTime">2016</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">In&nbsp;Process</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:27697772">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Blood" citation="0" datetime="2016-03-24T00:00:00">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84962325088" title="resource name">Postibrutinib outcomes in patients with mantle cell lymphoma.</a>&nbsp;
+ 
+                    <i>Blood</i>.&nbsp;
+            
+             <span class="listDateTime">2016</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:26764355">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="FASEB journal : official publication of the Federation of American Societies for Experimental Biology" citation="0" datetime="2015-12-01T00:00:00">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84973570957" title="resource name">A novel effect of thalidomide and its analogs: suppression of cereblon ubiquitination enhances ubiquitin ligase function.</a>&nbsp;
+ 
+                    <i>FASEB journal : official publication of the Federation of American Societies for Experimental Biology</i>.&nbsp;
+            
+             <span class="listDateTime">2015</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:26231201">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Cancer research" citation="0" datetime="2015-05-01T00:00:00">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84937925218" title="resource name">CDK4/6 Inhibitor PD 0332991 Sensitizes Acute Myeloid Leukemia to Cytarabine-Mediated Cytotoxicity.</a>&nbsp;
+ 
+                    <i>Cancer research</i>.&nbsp;
+            
+             <span class="listDateTime">2015</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:25744718">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Blood" citation="0" datetime="2015-04-23T00:00:00">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84928481958" title="resource name">To the editor: CCMCL1: A new model of aggressive mantle cell lymphoma</a>.&nbsp;
+ 
+                    <i>Blood</i>.&nbsp;
+            
+             <span class="listDateTime">2015</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+  
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Blood" citation="0" datetime="2015-04-16T00:00:00">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84927747737" title="resource name">Selective inhibition of protein arginine methyltransferase 5 blocks initiation and maintenance of B-cell transformation.</a>&nbsp;
+ 
+                    <i>Blood</i>.&nbsp;
+            
+             <span class="listDateTime">2015</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:25742700">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Leukemia &amp; lymphoma" citation="0" datetime="2015-01-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84948704253" title="resource name">Phase 1/2 study of cyclin-dependent kinase (CDK)4/6 inhibitor palbociclib (PD-0332991) with bortezomib and dexamethasone in relapsed/refractory multiple myeloma.</a>&nbsp;
+ 
+                    <i>Leukemia &amp; lymphoma</i>.&nbsp;
+            
+             <span class="listDateTime">2015</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:25813205">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Leukemia &amp; lymphoma" citation="0" datetime="2014-12-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84919421278" title="resource name">Thalidomide, clarithromycin, lenalidomide and dexamethasone therapy in newly diagnosed, symptomatic multiple myeloma.</a>&nbsp;
+ 
+                    <i>Leukemia &amp; lymphoma</i>.&nbsp;
+            
+             <span class="listDateTime">2014</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:24576165">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Cancer discovery" citation="0" datetime="2014-09-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84906903473" title="resource name">Cell-cycle reprogramming for PI3K inhibition overrides a relapse-specific C481S BTK mutation revealed by longitudinal functional genomics in mantle cell lymphoma.</a>&nbsp;
+ 
+                    <i>Cancer discovery</i>.&nbsp;
+            
+             <span class="listDateTime">2014</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:25082755">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Leukemia" citation="0" datetime="2013-12-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84890430327" title="resource name">Disruption of the MYC-miRNA-EZH2 loop to suppress aggressive B-cell lymphoma survival and clonogenicity.</a>&nbsp;
+ 
+                    <i>Leukemia</i>.&nbsp;
+            
+             <span class="listDateTime">2013</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:23538750">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="InformationResource" pubname="Critical Reviews in Oncology/Hematology" citation="0" datetime="2013-10-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84882651432" title="resource name">Immunomodulation as a therapeutic strategy in the treatment of multiple myeloma.</a>&nbsp;
+ 
+                    <i>Critical Reviews in Oncology/Hematology</i>.
+            
+             <span class="listDateTime">2013</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Information&nbsp;Resource</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:23806982">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Cell cycle (Georgetown, Tex.)" citation="0" datetime="2013-06-15T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84879395969" title="resource name">Induction of prolonged early G1 arrest by CDK4/CDK6 inhibition reprograms lymphoma cells for durable PI3Kδ inhibition through PIK3IP1.</a>&nbsp;
+ 
+                    <i>Cell cycle (Georgetown, Tex.)</i>.&nbsp;
+            
+             <span class="listDateTime">2013</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:23676220">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Clinical cancer research : an official journal of the American Association for Cancer Research" citation="0" datetime="2013-03-15T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84875179750" title="resource name">Overcoming the response plateau in multiple myeloma: a novel bortezomib-based strategy for secondary induction and high-yield CD34+ stem cell mobilization.</a>&nbsp;
+ 
+                    <i>Clinical cancer research : an official journal of the American Association for Cancer Research</i>.&nbsp;
+            
+             <span class="listDateTime">2013</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:23357980">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Blood" citation="0" datetime="2013-03-14T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84877620340" title="resource name">BiRd (clarithromycin, lenalidomide, dexamethasone): an update on long-term lenalidomide therapy in previously untreated patients with multiple myeloma.</a>&nbsp;
+ 
+                    <i>Blood</i>.&nbsp;
+            
+             <span class="listDateTime">2013</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:23299315">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="InformationResource" pubname="RNA biology" citation="0" datetime="2013-03-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84874958804" title="resource name">Novel RNA regulatory mechanisms revealed in the epitranscriptome.</a>&nbsp;
+ 
+                    <i>RNA biology</i>.
+            
+             <span class="listDateTime">2013</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Information&nbsp;Resource</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:23434792">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Cancer cell" citation="0" datetime="2012-10-16T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84867606040" title="resource name">Coordinated silencing of MYC-mediated miR-29 by HDAC3 and EZH2 as a therapeutic target of histone modification in aggressive B-Cell lymphomas.</a>&nbsp;
+ 
+                    <i>Cancer cell</i>.&nbsp;
+            
+             <span class="listDateTime">2012</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:23079660">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Cancer cell" citation="0" datetime="2012-10-16T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84867602759" title="resource name">Therapeutic targeting of the cyclin D3:CDK4/6 complex in T cell leukemia.</a>&nbsp;
+ 
+                    <i>Cancer cell</i>.&nbsp;
+            
+             <span class="listDateTime">2012</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:23079656">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Blood" citation="0" datetime="2012-08-02T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84864551707" title="resource name">Prolonged early G(1) arrest by selective CDK4/CDK6 inhibition sensitizes myeloma cells to cytotoxic killing through cell cycle-coupled loss of IRF4.</a>&nbsp;
+ 
+                    <i>Blood</i>.&nbsp;
+            
+             <span class="listDateTime">2012</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:22718837">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Blood" citation="0" datetime="2012-05-17T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84861210266" title="resource name">Selective CDK4/6 inhibition with tumor responses by PD0332991 in patients with mantle cell lymphoma.</a>&nbsp;
+ 
+                    <i>Blood</i>.&nbsp;
+            
+             <span class="listDateTime">2012</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:22383795">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Clinical cancer research : an official journal of the American Association for Cancer Research" citation="0" datetime="2011-07-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid79960329490" title="resource name">MAGE-A inhibits apoptosis in proliferating myeloma cells through repression of Bax and maintenance of survivin.</a>&nbsp;
+ 
+                    <i>Clinical cancer research : an official journal of the American Association for Cancer Research</i>.&nbsp;
+            
+             <span class="listDateTime">2011</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:21565982">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Blood" citation="0" datetime="2011-02-17T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid79951843773" title="resource name">Noxa mediates p18INK4c cell-cycle control of homeostasis in B cells and plasma cell precursors.</a>&nbsp;
+ 
+                    <i>Blood</i>.&nbsp;
+            
+             <span class="listDateTime">2011</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:21163929">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Cancer" citation="0" datetime="2011-01-15T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid78650992102" title="resource name">Phase 2 trial of the histone deacetylase inhibitor romidepsin for the treatment of refractory multiple myeloma.</a>&nbsp;
+ 
+                    <i>Cancer</i>.&nbsp;
+            
+             <span class="listDateTime">2011</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:20862746">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="American journal of hematology" citation="0" datetime="2010-09-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid77956457402" title="resource name">Clarithromycin (Biaxin)-lenalidomide-low-dose dexamethasone (BiRd) versus lenalidomide-low-dose dexamethasone (Rd) for newly diagnosed myeloma.</a>&nbsp;
+ 
+                    <i>American journal of hematology</i>.&nbsp;
+            
+             <span class="listDateTime">2010</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:20645430">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Cancer Immunity" citation="0" datetime="2010-01-29T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid77449152119" title="resource name">Cellular immune responses against CT7 (MAGE-C1) and humoral responses against other cancer-testis antigens in multiple myeloma patients.</a>&nbsp;
+ 
+                    <i>Cancer Immunity</i>.&nbsp;
+            
+             <span class="listDateTime">2010</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:20108890">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="InformationResource" pubname="Leukemia" citation="0" datetime="2009-12-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid74049162897" title="resource name">International Myeloma Working Group molecular classification of multiple myeloma: spotlight review.</a>&nbsp;
+ 
+                    <i>Leukemia</i>.
+            
+             <span class="listDateTime">2009</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Information&nbsp;Resource</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:19798094">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Journal of immunology (Baltimore, Md. : 1950)" citation="0" datetime="2009-05-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid66949138190" title="resource name">Luteinizing hormone-releasing hormone enhances T cell recovery following allogeneic bone marrow transplantation.</a>&nbsp;
+ 
+                    <i>Journal of immunology (Baltimore, Md. : 1950)</i>.&nbsp;
+            
+             <span class="listDateTime">2009</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:19380833">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Journal of clinical oncology : official journal of the American Society of Clinical Oncology" citation="0" datetime="2009-03-10T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid84862194194" title="resource name">Outcome of deferred initial therapy in mantle-cell lymphoma.</a>&nbsp;
+ 
+                    <i>Journal of clinical oncology : official journal of the American Society of Clinical Oncology</i>.&nbsp;
+            
+             <span class="listDateTime">2009</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:19188674">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Journal of immunology (Baltimore, Md. : 1950)" citation="0" datetime="2009-02-15T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid61449197711" title="resource name">CDK2 phosphorylation of Smad2 disrupts TGF-beta transcriptional regulation in resistant primary bone marrow myeloma cells.</a>&nbsp;
+ 
+                    <i>Journal of immunology (Baltimore, Md. : 1950)</i>.&nbsp;
+            
+             <span class="listDateTime">2009</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:19201832">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="British journal of haematology" citation="0" datetime="2008-12-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid55949090299" title="resource name">Atypical serum immunofixation patterns frequently emerge in immunomodulatory therapy and are associated with a high degree of response in multiple myeloma.</a>&nbsp;
+ 
+                    <i>British journal of haematology</i>.&nbsp;
+            
+             <span class="listDateTime">2008</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:18950461">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Clinical cancer research : an official journal of the American Association for Cancer Research" citation="0" datetime="2008-10-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid58149166787" title="resource name">Deletions of CDKN2C in multiple myeloma: biological and clinical implications.</a>&nbsp;
+ 
+                    <i>Clinical cancer research : an official journal of the American Association for Cancer Research</i>.&nbsp;
+            
+             <span class="listDateTime">2008</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:18829482">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Cancer research" citation="0" datetime="2008-07-15T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid48649105786" title="resource name">A novel therapeutic combination using PD 0332991 and bortezomib: study in the 5T33MM myeloma model.</a>&nbsp;
+ 
+                    <i>Cancer research</i>.&nbsp;
+            
+             <span class="listDateTime">2008</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:18632601">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Annals of oncology : official journal of the European Society for Medical Oncology" citation="0" datetime="2008-07-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid46249131868" title="resource name">Intensive treatment strategies may not provide superior outcomes in mantle cell lymphoma: overall survival exceeding 7 years with standard therapies.</a>&nbsp;
+ 
+                    <i>Annals of oncology : official journal of the European Society for Medical Oncology</i>.&nbsp;
+            
+             <span class="listDateTime">2008</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:18349031">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Blood" citation="0" datetime="2008-02-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid38949216066" title="resource name">BiRD (Biaxin [clarithromycin]/Revlimid [lenalidomide]/dexamethasone) combination therapy results in high complete- and overall-response rates in treatment-naive symptomatic multiple myeloma.</a>&nbsp;
+ 
+                    <i>Blood</i>.&nbsp;
+            
+             <span class="listDateTime">2008</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:17989313">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="British journal of haematology" citation="0" datetime="2007-09-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid34547615365" title="resource name">Lenalidomide-induced myelosuppression is associated with renal dysfunction: adverse events evaluation of treatment-naïve patients undergoing front-line lenalidomide and dexamethasone therapy.</a>&nbsp;
+ 
+                    <i>British journal of haematology</i>.&nbsp;
+            
+             <span class="listDateTime">2007</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:17686058">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Cancer research" citation="0" datetime="2006-08-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid33747872306" title="resource name">A novel orally active small molecule potently induces G1 arrest in primary myeloma cells and prevents tumor growth by specific inhibition of cyclin-dependent kinase 4/6.</a>&nbsp;
+ 
+                    <i>Cancer research</i>.&nbsp;
+            
+             <span class="listDateTime">2006</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:16885367">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Cancer research" citation="0" datetime="2005-12-15T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid29244477228" title="resource name">Mutually exclusive cyclin-dependent kinase 4/cyclin D1 and cyclin-dependent kinase 6/cyclin D2 pairing inactivates retinoblastoma protein and promotes cell cycle dysregulation in multiple myeloma.</a>&nbsp;
+ 
+                    <i>Cancer research</i>.&nbsp;
+            
+             <span class="listDateTime">2005</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:16357141">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Proceedings of the National Academy of Sciences of the United States of America" citation="0" datetime="2005-07-26T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid23044482259" title="resource name">Investigation of antitumor effects of synthetic epothilone analogs in human myeloma models in vitro and in vivo.</a>&nbsp;
+ 
+                    <i>Proceedings of the National Academy of Sciences of the United States of America</i>.&nbsp;
+            
+             <span class="listDateTime">2005</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:16030145">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Blood" citation="0" datetime="2005-07-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid22044451852" title="resource name">The cancer-testis antigens CT7 (MAGE-C1) and MAGE-A3/6 are commonly expressed in multiple myeloma and correlate with plasma-cell proliferation.</a>&nbsp;
+ 
+                    <i>Blood</i>.&nbsp;
+            
+             <span class="listDateTime">2005</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:15761016">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="InformationResource" pubname="Best Practice and Research: Clinical Haematology" citation="0" datetime="2005-01-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid22144462112" title="resource name">Biology of plasma cells.</a>&nbsp;
+ 
+                    <i>Best Practice and Research: Clinical Haematology</i>.
+            
+             <span class="listDateTime">2005</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Information&nbsp;Resource</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:16026733">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Proceedings of the National Academy of Sciences of the United States of America" citation="0" datetime="2004-12-21T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid11144234116" title="resource name">Homeostatic cell-cycle control by BLyS: Induction of cell-cycle entry but not G1/S transition in opposition to p18INK4c and p27Kip1.</a>&nbsp;
+ 
+                    <i>Proceedings of the National Academy of Sciences of the United States of America</i>.&nbsp;
+            
+             <span class="listDateTime">2004</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:15591344">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Cell" citation="0" datetime="2004-08-20T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid4644257592" title="resource name">AID is required for c-myc/IgH chromosome translocations in vivo.</a>&nbsp;
+ 
+                    <i>Cell</i>.&nbsp;
+            
+             <span class="listDateTime">2004</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:15315756">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Blood" citation="0" datetime="2004-01-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0346336773" title="resource name">Telomerase inhibition with an oligonucleotide telomerase template antagonist: in vitro and in vivo studies in multiple myeloma and lymphoma.</a>&nbsp;
+ 
+                    <i>Blood</i>.&nbsp;
+            
+             <span class="listDateTime">2004</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:12969977">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Journal of immunology (Baltimore, Md. : 1950)" citation="0" datetime="2002-11-15T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0037111476" title="resource name">TRAIL/Apo-2 ligand induces primary plasma cell apoptosis.</a>&nbsp;
+ 
+                    <i>Journal of immunology (Baltimore, Md. : 1950)</i>.&nbsp;
+            
+             <span class="listDateTime">2002</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:12421926">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Genes &amp; development" citation="0" datetime="1998-09-15T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0032530112" title="resource name">CDK inhibitors p18(INK4c) and p27(Kip1) mediate two separate pathways to collaboratively suppress pituitary tumorigenesis.</a>&nbsp;
+ 
+                    <i>Genes &amp; development</i>.&nbsp;
+            
+             <span class="listDateTime">1998</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:9744866">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Science (New York, N.Y.)" citation="0" datetime="1995-03-31T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0028942656" title="resource name">Requirement of serine phosphorylation for formation of STAT-promoter complexes.</a>&nbsp;
+ 
+                    <i>Science (New York, N.Y.)</i>.&nbsp;
+            
+             <span class="listDateTime">1995</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:7701321">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="Article" pubname="Current topics in microbiology and immunology" citation="0" datetime="1995-01-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0028080099" title="resource name">Regulation of terminal differentiation of human B-cells by IL-6.</a>&nbsp;
+ 
+                    <i>Current topics in microbiology and immunology</i>.&nbsp;
+            
+             <span class="listDateTime">1995</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:7895492">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Journal of immunology (Baltimore, Md. : 1950)" citation="0" datetime="1994-10-15T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0027938203" title="resource name">Simultaneous activation of Ig and Oct-2 synthesis and reduction of surface MHC class II expression by IL-6.</a>&nbsp;
+ 
+                    <i>Journal of immunology (Baltimore, Md. : 1950)</i>.&nbsp;
+            
+             <span class="listDateTime">1994</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:7930570">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Molecular and cellular biology" citation="0" datetime="1994-10-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0028088168" title="resource name">NF-IL6 and AP-1 cooperatively modulate the activation of the TSG-6 gene by tumor necrosis factor alpha and interleukin-1.</a>&nbsp;
+ 
+                    <i>Molecular and cellular biology</i>.&nbsp;
+            
+             <span class="listDateTime">1994</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:7935377">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Molecular and cellular biology" citation="0" datetime="1994-01-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0028009237" title="resource name">Fos and Jun repress transcription activation by NF-IL6 through association at the basic zipper region.</a>&nbsp;
+ 
+                    <i>Molecular and cellular biology</i>.&nbsp;
+            
+             <span class="listDateTime">1994</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:8264594">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Molecular and cellular biology" citation="0" datetime="1993-04-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0027474913" title="resource name">Convergent regulation of NF-IL6 and Oct-1 synthesis by interleukin-6 and retinoic acid signaling in embryonal carcinoma cells.</a>&nbsp;
+ 
+                    <i>Molecular and cellular biology</i>.&nbsp;
+            
+             <span class="listDateTime">1993</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:8455626">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Journal of virology" citation="0" datetime="1992-02-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0026501127" title="resource name">NF-IL6, a member of the C/EBP family, regulates E1A-responsive promoters in the absence of E1A.</a>&nbsp;
+ 
+                    <i>Journal of virology</i>.&nbsp;
+            
+             <span class="listDateTime">1992</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:1309887">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Proceedings of the National Academy of Sciences of the United States of America" citation="0" datetime="1991-08-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0026053032" title="resource name">Interleukin 6 enhances a cellular activity that functionally substitutes for E1A protein in transactivation.</a>&nbsp;
+ 
+                    <i>Proceedings of the National Academy of Sciences of the United States of America</i>.&nbsp;
+            
+             <span class="listDateTime">1991</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:1830663">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Journal of virology" citation="0" datetime="1990-11-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0025123370" title="resource name">Adenovirus E1A and E1B genes are regulated posttranscriptionally in human lymphoid cells.</a>&nbsp;
+ 
+                    <i>Journal of virology</i>.&nbsp;
+            
+             <span class="listDateTime">1990</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:2145444">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Proceedings of the National Academy of Sciences of the United States of America" citation="0" datetime="1989-10-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0024325359" title="resource name">Interleukin 6 induces secretion of IgG1 by coordinated transcriptional activation and differential mRNA accumulation.</a>&nbsp;
+ 
+                    <i>Proceedings of the National Academy of Sciences of the United States of America</i>.&nbsp;
+            
+             <span class="listDateTime">1989</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:2813375">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Journal of virology" citation="0" datetime="1987-05-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0023177627" title="resource name">Productive infection of cultured human lymphoid cells by adenovirus.</a>&nbsp;
+ 
+                    <i>Journal of virology</i>.&nbsp;
+            
+             <span class="listDateTime">1987</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:3573145">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Proceedings of the National Academy of Sciences of the United States of America" citation="0" datetime="1984-10-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0021709472" title="resource name">Pausing and premature termination of human RNA polymerase II during transcription of adenovirus in vivo and in vitro.</a>&nbsp;
+ 
+                    <i>Proceedings of the National Academy of Sciences of the United States of America</i>.&nbsp;
+            
+             <span class="listDateTime">1984</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:6091120">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Molecular and cellular biology" citation="0" datetime="1984-10-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0021676706" title="resource name">Premature termination by human RNA polymerase II occurs temporally in the adenovirus major late transcriptional unit.</a>&nbsp;
+ 
+                    <i>Molecular and cellular biology</i>.&nbsp;
+            
+             <span class="listDateTime">1984</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:6209554">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Proceedings of the National Academy of Sciences of the United States of America" citation="0" datetime="1978-03-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0018097152" title="resource name">Expression of collagen biosynthetic activities in lymphocytic cells.</a>&nbsp;
+ 
+                    <i>Proceedings of the National Academy of Sciences of the United States of America</i>.&nbsp;
+            
+             <span class="listDateTime">1978</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:206896">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+		
+			
+	    	<!-- bibo type -->
+	
+	    	<!-- wcmc type -->
+			
+			<!-- core type -->
+		
+		
+		
+		
+	    <li role="listitem" pubtype="AcademicArticle" pubname="Proceedings of the National Academy of Sciences of the United States of America" citation="0" datetime="1977-10-01T00:00:00" style="display: none;">    
+
+
+
+    
+
+    
+
+
+                     <a href="/display/pubid0017757333" title="resource name">Homology between a prolyl hydroxylase subunit and a tissue protein that crossreacts immunologically with the enzyme.</a>&nbsp;
+ 
+                    <i>Proceedings of the National Academy of Sciences of the United States of America</i>.&nbsp;
+            
+             <span class="listDateTime">1977</span>
+
+             
+			
+			<!-- default: assign to bibo type -->
+
+			<!-- if it does not have the bibo namespace, assign to core namespace -->
+			
+			<!-- if it does not have the core namespace, assign to wcmc namespace -->
+
+			<span class="publication-type">Academic&nbsp;Article</span>
+ 			<a class="getit-type" target="PMIDWindow" href="http://sfxhosted.exlibrisgroup.com/cmc?sid=Entrez:PubMed&amp;id=pmid:200917">GET&nbsp;IT</a>
+ 
+
+
+	    </li>
+    
+    <!-- wcmc feature -->
+    
+
+    
+	    <script type="text/javascript">
+	    	$(document).ready(function(){
+				var len = $('ul#relatedByAuthorshipList>li').size();
+				if (len > 5) {
+		    		$('ul#relatedByAuthorshipList li:gt(5)').hide();
+					$("#lessLongListAuthorship").hide();
+				} else {
+					$("#moreLongListAuthorship").hide();
+					$("#lessLongListAuthorship").hide();
+				}
+	
+		     	$('#moreLongListAuthorship').click(function(){
+					$('ul#relatedByAuthorshipList li:gt(5)').show();
+					$("#lessLongListAuthorship").show();
+					$("#moreLongListAuthorship").hide();
+				});
+				
+				$('#lessLongListAuthorship').click(function(){
+					$('ul#relatedByAuthorshipList li:gt(5)').hide();
+					$("#lessLongListAuthorship").hide();
+					$("#moreLongListAuthorship").show();
+				});
+				
+			});
+	    </script>
+	    
+                </ul>
+
+	            </article> <!-- end property -->
+ 
+
+    			<p>
+					</p><div id="moreLongListAuthorship"><a class="moreless-type" href="#Authorship">more ...</a></div>
+					<div id="lessLongListAuthorship" style="display: none;"><a class="moreless-type" href="#Authorship">less ...</a></div>
+				<p></p>
+        
+
+
+
+        
+        </section> <!-- end property-group -->
+
+    
+    <section class="property-group" role="region">
+        <nav class="scroll-up" role="navigation">
+            <a href="#branding" title="scroll up">
+                <img src="/images/individual/scroll-up.gif" alt="scroll to property group menus">
+            </a>
+        </nav>
+        
+            <h2 id="research">Research</h2>
+
+            
+
+
+        
+        		
+	            	<div class="group-controls">
+			            <span>Sort by</span>
+			            <select id="research_dropdown_options" class="button" title="Sort by">
+			                <option value="newest" selected="">Newest</option>
+			                <option value="oldest">Oldest</option>
+			                <option value="researchrole">Researcher Role</option>
+			            </select> 
+	
+			            <div id="coinvestigator_link_container" class="collaboratorship-link-container">
+			                <div class="collaboratorship-icon">
+			                    <a class="button ss-globe right" href="/vis/investigator-network/cwid-sckiang" title="co-investigator network">Co-investigator Network</a>
+			                </div>
+	            		</div>
+		            </div>   
+	            
+					<script type="text/javascript">
+						$(document).ready(function(){
+							$('ul#researchRoleList>li').tsort({order:'desc',attr:'sdate'});
+						});
+						
+						$('#research_dropdown_options').on('change', function (e) {
+							var len = $('ul#researchRoleList>li').size();
+							if (len > 5) {
+								$('ul#researchRoleList li:gt(5)').show();
+							}
+						    var optionSelected = $("option:selected", this);
+						    var valueSelected = this.value;
+						    if (valueSelected == 'oldest') {
+								$('ul#researchRoleList>li').tsort({attr:'sdate'});
+						    } else if (valueSelected == 'newest') {
+								$('ul#researchRoleList>li').tsort({order:'desc',attr:'sdate'});
+						    } else if (valueSelected == 'researchrole') {
+								$('ul#researchRoleList>li').tsort({order:'desc',attr:'researchrole'});
+						    }
+						    if (len > 5) {
+								$('ul#researchRoleList li:gt(5)').hide();
+								$("#lessLongListResearchRole").hide();
+								$("#moreLongListResearchRole").show();
+							}
+						});
+					</script>
+        		
+        			<a name="research">
+        			</a><article class="property" role="article"><a name="research">
+        			<h3 id="authorInAuthorship">Grants awarded</h3>
+        			</a><ul class="property-list" role="list" id="researchRoleList"><a name="research">
+
+                
+            <!-- wcmc feature -->
+    
+        	
+         
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+			
+
+
+
+		</a>
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+			
+
+
+
+		
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+			
+
+
+
+		
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+			
+
+
+
+		
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+			
+
+
+
+		
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+			
+
+
+
+		
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+			
+
+
+
+		
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+			
+
+
+
+		
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+			
+
+
+
+		
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+			
+
+
+
+		
+    
+    <!-- wcmc feature -->
+    
+
+	    <script type="text/javascript">
+	    	$(document).ready(function(){
+				var len = $('ul#researchRoleList>li').size();
+				if (len > 5) {
+		    		$('ul#researchRoleList li:gt(5)').hide();
+					$("#lessLongListResearchRole").hide();
+				} else {
+					$("#moreLongListResearchRole").hide();
+					$("#lessLongListResearchRole").hide();
+				}
+	
+		     	$('#moreLongListResearchRole').click(function(){
+					$('ul#researchRoleList li:gt(5)').show();
+					$("#lessLongListResearchRole").show();
+					$("#moreLongListResearchRole").hide();
+				});
+				
+				$('#lessLongListResearchRole').click(function(){
+					$('ul#researchRoleList li:gt(5)').hide();
+					$("#lessLongListResearchRole").hide();
+					$("#moreLongListResearchRole").show();
+				});
+				
+			});
+	    </script>
+
+ 
+
+
+        
+
+                
+            <!-- wcmc feature -->
+    
+        	
+         
+    
+    <!-- use wcmc feature -->
+    
+			    
+		
+			
+
+
+
+		
+    
+    <!-- wcmc feature -->
+    
+
+	    <script type="text/javascript">
+	    	$(document).ready(function(){
+				var len = $('ul#researchRoleList>li').size();
+				if (len > 5) {
+		    		$('ul#researchRoleList li:gt(5)').hide();
+					$("#lessLongListResearchRole").hide();
+				} else {
+					$("#moreLongListResearchRole").hide();
+					$("#lessLongListResearchRole").hide();
+				}
+	
+		     	$('#moreLongListResearchRole').click(function(){
+					$('ul#researchRoleList li:gt(5)').show();
+					$("#lessLongListResearchRole").show();
+					$("#moreLongListResearchRole").hide();
+				});
+				
+				$('#lessLongListResearchRole').click(function(){
+					$('ul#researchRoleList li:gt(5)').hide();
+					$("#lessLongListResearchRole").hide();
+					$("#moreLongListResearchRole").show();
+				});
+				
+			});
+	    </script>
+
+ 
+
+        
+
+
+        		<li role="listitem" researchrole="d" sdate="2016" edate="2017">    
+
+    
+        
+    
+
+        	
+            <a href="/display/grant-008304-001" title="activity name">Chromatin''s Role in Repair of Radiation-Induced Damage</a>
+             &nbsp;awarded by&nbsp;<a href="/display/org-f100010" title="awarded by">National Cancer Institute</a>
+ 	    	<span class="publication-type">Key&nbsp;Personnel</span>
+             <span class="listDateTime">2016&nbsp;-&nbsp;2017</span>
+
+
+
+	    </li><li role="listitem" researchrole="a" sdate="2014" edate="2019"><a name="research">    
+
+    
+        
+    
+
+        	
+            </a><a href="/display/grant-007279-001" title="activity name">Cell Cycle Reprogramming for Therapeutic Targeting of BTK in Lymphoma</a>
+             &nbsp;awarded by&nbsp;<a href="/display/org-f100010" title="awarded by">National Cancer Institute</a>
+ 	    	<span class="publication-type">Principal&nbsp;Investigator</span>
+             <span class="listDateTime">2014&nbsp;-&nbsp;2019</span>
+
+
+
+	    </li><li role="listitem" researchrole="a" sdate="2014" edate="2017">    
+
+    
+        
+    
+
+        	
+            <a href="/display/grant-007448-001" title="activity name">Cell Cycle Sensitization to PI3K Therapy in Lymphoma</a>
+             &nbsp;awarded by&nbsp;<a href="/display/org-f007700" title="awarded by">V Foundation</a>
+ 	    	<span class="publication-type">Principal&nbsp;Investigator</span>
+             <span class="listDateTime">2014&nbsp;-&nbsp;2017</span>
+
+
+
+	    </li><li role="listitem" researchrole="a" sdate="2013" edate="2015">    
+
+    
+        
+    
+
+        	
+            <a href="/display/grant-006522-001" title="activity name">Reprogramming MCL for BTK Inhibition by Targeting CDK4/CDK6</a>
+             &nbsp;awarded by&nbsp;<a href="/display/org-f101025" title="awarded by">Lymphoma Research Foundation</a>
+ 	    	<span class="publication-type">Principal&nbsp;Investigator</span>
+             <span class="listDateTime">2013&nbsp;-&nbsp;2015</span>
+
+
+
+	    </li><li role="listitem" researchrole="a" sdate="2013" edate="2100">    
+
+    
+        
+    
+
+        	
+            <a href="/display/grant-006226-001" title="activity name">Defining Molecular Biomarkers for CDK4/6-Based Cancer Therapy by RNA Sequencing</a>
+             &nbsp;awarded by&nbsp;<a href="/display/org-f100010" title="awarded by">National Cancer Institute</a>
+ 	    	<span class="publication-type">Principal&nbsp;Investigator</span>
+             <span class="listDateTime">2013 -</span>
+
+
+
+	    </li><li role="listitem" researchrole="a" sdate="2011" edate="2013">    
+
+    
+        
+    
+
+        	
+            <a href="/display/grant-006035-001" title="activity name">Multistage Vector-siRNA Targeting of Lymphoma and Multiple Myeloma</a>
+             &nbsp;awarded by&nbsp;<a href="/display/org-f005521" title="awarded by">Weill Cornell Medical College/The Methodist Hospital</a>
+ 	    	<span class="publication-type">Principal&nbsp;Investigator</span>
+             <span class="listDateTime">2011&nbsp;-&nbsp;2013</span>
+
+
+
+	    </li><li role="listitem" researchrole="a" sdate="2011" edate="2013" style="display: none;">    
+
+    
+        
+    
+
+        	
+            <a href="/display/grant-005346-001" title="activity name">Targeting CDK4/CDK6 in Sequential Combination with Bortezomib and Dexamethasone in MCL</a>
+             &nbsp;awarded by&nbsp;<a href="/display/org-f101025" title="awarded by">Lymphoma Research Foundation</a>
+ 	    	<span class="publication-type">Principal&nbsp;Investigator</span>
+             <span class="listDateTime">2011&nbsp;-&nbsp;2013</span>
+
+
+
+	    </li><li role="listitem" researchrole="a" sdate="2010" edate="2013" style="display: none;">    
+
+    
+        
+    
+
+        	
+            <a href="/display/grant-004811-001" title="activity name">Mechanism-Based Targeting of CDK4/CDK6 in Mantle Cell Lymphoma Therapy</a>
+             &nbsp;awarded by&nbsp;<a href="/display/org-f006475" title="awarded by">Leukemia &amp; Lymphoma Society</a>
+ 	    	<span class="publication-type">Principal&nbsp;Investigator</span>
+             <span class="listDateTime">2010&nbsp;-&nbsp;2013</span>
+
+
+
+	    </li><li role="listitem" researchrole="a" sdate="2010" edate="2012" style="display: none;">    
+
+    
+        
+    
+
+        	
+            <a href="/display/grant-004789-001" title="activity name">Mechanism-Based Targeting of Mantle Cell Lymphoma</a>
+             &nbsp;awarded by&nbsp;<a href="/display/org-f101025" title="awarded by">Lymphoma Research Foundation</a>
+ 	    	<span class="publication-type">Principal&nbsp;Investigator</span>
+             <span class="listDateTime">2010&nbsp;-&nbsp;2012</span>
+
+
+
+	    </li><li role="listitem" researchrole="a" sdate="2009" edate="2012" style="display: none;">    
+
+    
+        
+    
+
+        	
+            <a href="/display/grant-004107-001" title="activity name">Sensitizing shRNA Screen for Molecular Targets in CDK4/CDK6-Based Cancer Therapy</a>
+             &nbsp;awarded by&nbsp;<a href="/display/org-fA00601" title="awarded by">Starr Cancer Consortium</a>
+ 	    	<span class="publication-type">Principal&nbsp;Investigator</span>
+             <span class="listDateTime">2009&nbsp;-&nbsp;2012</span>
+
+
+
+	    </li><li role="listitem" researchrole="a" sdate="2007" edate="2100" style="display: none;">    
+
+    
+        
+    
+
+        	
+            <a href="/display/grant-002991-001" title="activity name">CDK Control of Myeloma Pathogenesis</a>
+             &nbsp;awarded by&nbsp;<a href="/display/org-f100010" title="awarded by">National Cancer Institute</a>
+ 	    	<span class="publication-type">Principal&nbsp;Investigator</span>
+             <span class="listDateTime">2007 -</span>
+
+
+
+	    </li></ul>
+        		</article> <!-- end property -->
+    			<p>
+					</p><div id="moreLongListResearchRole"><a class="moreless-type" href="#research">more ...</a></div>
+					<div id="lessLongListResearchRole" style="display: none;"><a class="moreless-type" href="#research">less ...</a></div>
+				<p></p>
+
+        
+        </section> <!-- end property-group -->
+
+    
+    <section class="property-group" role="region">
+        <nav class="scroll-up" role="navigation">
+            <a href="#branding" title="scroll up">
+                <img src="/images/individual/scroll-up.gif" alt="scroll to property group menus">
+            </a>
+        </nav>
+        
+            <h2 id="background">Background</h2>
+
+            
+
+
+        
+        		<a name="EducationalProcess">
+        		</a><article class="property" role="article"><a name="EducationalProcess">
+
+            	<!-- For wcmc publications, change to Publications authored from the Admin UI -->
+                <h3 id="RO_0000056">Education and Training   </h3>
+                
+            <!-- wcmc feature -->
+    
+        	
+                </a><ul class="property-list" role="list" id="RO_0000056EducationalProcessList"><a name="EducationalProcess">
+         
+    
+    <!-- use wcmc feature -->
+    
+			    
+    	<!-- otherwise, use default -->
+	    </a><li role="listitem"><a name="EducationalProcess">    
+
+    
+
+    Ph.D.,
+<span itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
+</span></a><a itemprop="name" href="/display/org-3502707" title="organization name">Columbia University</a>
+             <span class="listDateTime">1977</span>
+
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+    	<!-- otherwise, use default -->
+	    <li role="listitem">    
+
+    
+
+    B.S.,
+<span itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
+<a itemprop="name" href="/display/org-8657010" title="organization name">National Taiwan University (Taiwan)</a>
+</span>             <span class="listDateTime">1967</span>
+
+ 
+
+
+	    </li>
+    
+    <!-- use wcmc feature -->
+    
+			    
+    	<!-- otherwise, use default -->
+	    <li role="listitem">    
+
+    
+
+    M.S.,
+<span itemscope="" itemtype="http://schema.org/CollegeOrUniversity">
+<a itemprop="name" href="/display/org-3502711" title="organization name">Cornell University</a>
+</span>             <span class="listDateTime">1967</span>
+
+ 
+
+
+	    </li>
+    
+    <!-- wcmc feature -->
+    
+
+                </ul>
+
+	            </article> <!-- end property -->
+ 
+
+        
+
+
+
+        
+        </section> <!-- end property-group -->
+
+    
+    <section class="property-group" role="region">
+        <nav class="scroll-up" role="navigation">
+            <a href="#branding" title="scroll up">
+                <img src="/images/individual/scroll-up.gif" alt="scroll to property group menus">
+            </a>
+        </nav>
+        
+            <h2 id="contact">Contact</h2>
+
+            
+
+
+        
+        		<a name="Work">
+        		<article class="property" role="article">
+
+            	<!-- For wcmc publications, change to Publications authored from the Admin UI -->
+                <h3 id="ARG_2000028">Primary Email   </h3>
+                
+            <!-- wcmc feature -->
+    
+        	
+                <ul class="property-list" role="list" id="ARG_2000028WorkList">
+         
+    
+    <!-- use wcmc feature -->
+    
+			    
+    	<!-- otherwise, use default -->
+	    <li role="listitem">    
+ 
+            sckiang@med.cornell.edu
+          
+
+	    </li>
+    
+    <!-- wcmc feature -->
+    
+
+                </ul>
+
+	            </article> <!-- end property -->
+ 
+
+        
+
+
+
+        
+        </a></section><a name="Work"> <!-- end property-group -->
+
+
+    <script>
+        var individualRdfUrl = '/individual/cwid-sckiang/cwid-sckiang.rdf';
+    </script>
+        
+<!-- Below was taken from default individual--foaf-person-2column.ftl -->        
+
+<script>
+    var title = $('div#titleContainer').width();
+    var name = $('h1.vcard').width();
+    var total = parseInt(title,10) + parseInt(name,10);
+    if ( name < 280 && total > 600 ) {
+        var diff = total - 600;
+        $('div#titleContainer').width(title - diff);
+    }
+    else if ( name > 279 && name + title > 600 ) {
+        $('div#titleContainer').width('620');
+    }
+</script>
+<script>
+    var imagesPath = '/images';
+</script>
+
+    <script>
+        var individualRdfUrl = '/individual/cwid-sckiang/cwid-sckiang.rdf';
+    </script>
+<script type="text/javascript">
+var profileTypeData = {
+    processingUrl: '/edit/primitiveRdfEdit',
+    individualUri: 'http://vivo.med.cornell.edu/individual/cwid-sckiang',
+    defaultProfileType: 'none'
+};
+var i18nStrings = {
+    errorProcessingTypeChange: 'Error processing request: the unchecked labels could not be deleted.',
+    displayLess: 'less',
+    displayMoreEllipsis: '... more',
+    showMoreContent: 'show more content',
+    verboseTurnOff: 'Turn off',
+    standardviewTooltipOne: 'Click to display the',
+    standardviewTooltipTwo: 'profile quick view.',
+    researchAreaTooltipOne: 'Click an area to view others',
+    researchAreaTooltipTwo: 'with the same interest.'
+};
+var i18nStringsUriRdf = {
+    shareProfileUri: 'share the URI for this profile',
+    viewRDFProfile: 'view profile in RDF format',
+    closeString: 'close'
+};
+</script>
+
+
+
+
+
+
+
+        
+
+</a></div><a name="Work"> <!-- #wrapper-content -->
+
+</a><footer role="contentinfo"><a name="Work">
+    </a><p class="copyright"><a name="Work">
+            <small>©2017
+                VIVO Project
+             | </small></a><small><a class="terms" href="/termsOfUse" title="terms of use">Terms of Use</a></small> | 
+        Powered by <a class="powered-by-vivo" href="http://vivoweb.org" target="_blank" title="powered by VIVO"><strong>VIVO</strong></a>
+    </p>
+    
+    <nav role="navigation">
+        <ul id="footer-nav" role="list">
+            <li role="listitem"><a href="/about" title="about">About</a></li>
+                <li role="listitem"><a href="/contact" title="contact us">Contact Us</a></li>
+            
+            <!-- 
+            Removed urls.faq because it's not in the 1.6 codebase
+            --> 
+            <li role="listitem"><a href="http://www.vivoweb.org/support" target="blank" title="support">Support</a></li>
+        </ul>
+    </nav>
+    <!-- Alan Mooiman -->
+    <div id="footer_logos">
+    <!--<a title="Clinical and Translational Science Center " href="http://med.cornell.edu/ctsc" class="ctsc-logo" target="_blank"><span class="displace">Clinical and Translational Science Center</span></a>-->
+</div>
+</footer>
+
+
+<script type="text/javascript" src="/js/individual/individualUriRdf.js"></script>
+<script type="text/javascript" src="/js/individual/individualQtipBubble.js"></script>
+<script type="text/javascript" src="/js/jquery-ui/js/jquery-ui-1.8.9.custom.min.js"></script>
+<script type="text/javascript" src="/themes/wcmc/js/individualUtils.js"></script>
+<script type="text/javascript" src="/js/individual/individualProfilePageType.js"></script>
+<script type="text/javascript" src="/js/imageUpload/imageUploadUtils.js"></script>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+
+<script type="text/javascript">  
+    try { 
+    
+    	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12610811-1', 'auto');
+  ga('send', 'pageview');
+    
+} 
+
+catch(err) {}  
+</script>
+
+    
+	
+
+</body></html>

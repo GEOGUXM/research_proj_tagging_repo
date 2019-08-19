@@ -1,0 +1,37 @@
+SEARCH
+|    College of Engineering and Applied Sciences
+Home
+About Us
+Admissions
+People
+Research
+Programs
+Home ► People ► Faculty ► Wei Xu
+Wei Xu
+Back to Faculty Directory
+Wei Xu
+Research Assistant Professor
+Department of Computer Science
+Stony Brook University
+Stony Brook, NY 11794-2424
+Phone: 
+(631) 344-8155
+Website (URL): 
+http://www.cs.stonybrook.edu/~wxu
+Email: 
+wxu@cs.stonybrook.edu
+INTERESTS
+Big Data, Visual Analytics, Visualization, Machine Learning, High Performance Computing, X-ray imaging.
+BIOGRAPHY
+Wei Xu received her Ph.D. degree from Department of Computer Science at Stony Brook University in 2012 and M.S. and B.S. in Computer Science from Zhejiang University. She is also a staff scientist at Computational Science Initiative of Brookhaven National Laboratory since 2013.
+RESEARCH
+Wei Xu’s current research is on visual analytics, visualization and deep structured learning for extreme-scale data analysis. She is also working on high performance computing on GPUs and Intel Xeon Phi coprocessors for multi-modal X-ray imaging problems.
+AWARDS
+Wei Xu was selected as Women@Energy showcase representing female scientists of STEM fields in 2014. She received the Best Paper Award in Fully3D associated High Performance Image Reconstruction workshop in 2009.
+Faculty
+Graduate Students
+Staff
+Alumni
+Awards
+Department of Computer Science, Stony Brook University, Stony Brook, NY 11794-2424     631-632-8470 or 631-632-8471 
+Stony Brook University Home Page     |     SOLAR              

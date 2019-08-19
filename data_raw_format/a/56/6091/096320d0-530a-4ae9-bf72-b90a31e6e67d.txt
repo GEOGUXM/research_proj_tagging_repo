@@ -1,0 +1,83 @@
+Accessibility navigation
+0 - Access key details
+5 - Frequently Asked questions (FAQ)
+9 - Main University of Reading contacts
+University Of Reading
+Pharmacy
+Staff Profile:Dr Patrick Lewis
+Name:
+Dr Patrick Lewis
+Job Title:
+Associate Professor
+Responsibilities:
+Academic editor, PLoS One. STEM ambassador.
+Sits on the scientific advisory board of Ataxia UK
+Areas of Interest:
+My research is focused on understanding the molecular pathways that lead to inherited Parkinson's disease linked to mutations in Leucine rich repeat kinase 2 (LRRK2). Mutations in this gene are the single most common genetic cause of Parkinson's disease, affecting 5-10,000 people in the UK alone. LRRK2 itself is a multidomain enzyme, possessing both kinase and GTPase activities, and much of my work over the past 8 years has been directed at dissecting how mutations impact on these activities, and how they regulate one another. To do this, my group uses a combination of cellular and biochemical approaches, including cellular models for LRRK2 function and in vitro enzymatic assays. We have a particular interest in investigating proteins closely related to LRRK2 as a means to achieving a greater understanding of how LRRK2 itself functions. Our research has highlighted a putative role for LRRK2 in the regulation of autophagy.
+Publications:
+Jump to: 2017 | 2016 | 2015 | 2014 | 2013 | 2012 | 2011 | 2009 | 2008
+Number of items: 20.
+2017
+Manzoni, C. and Lewis, P. A. (2017) LRRK2 and autophagy. In: Rideout, H. J. (ed.) Leucine-Rich Repeat Kinase 2 (LRRK2). Advances in Neurobiology (ISSN:2190-5215), 14. Springer International Publishing, Cham, Switzerland, pp. 89-105. ISBN 9783319499673 doi: 10.1007/978-3-319-49969-7_5
+Ferrari, R., Lovering, R. C., Hardy, J., Lewis, P. A. and Manzoni, C. (2017) Weighted protein interaction network analysis of frontotemporal dementia. Journal of Proteome Research, 16 (2). pp. 999-1013. ISSN 1535-3907 doi: 10.1021/acs.jproteome.6b00934
+2016
+Lubbe, S. J., Escott-Price, V., Gibbs, J. R., Nalls, M. A., Bras, J., Price, T. R., Nicolas, A., Jansen, I. E., Mok, K. Y., Pittman, A. M., Tomkins, J. E., Lewis, P. A., Noyce, A. J., Lesage, S., Sharma, M., Schiff, E. R., Levine, A. P., Brice, A., Gasser, T., Hardy, J., Heutink, P., Wood, N. W., Singleton, A. B., Williams, N. M. and Morris, H. R. (2016) Additional rare variant analysis in Parkinson's Disease cases with and without known pathogenic mutations: evidence for oligogenic inheritance. Human Molecular Genetics, 25 (24). pp. 5483-5489. ISSN 1460-2083 doi: 10.1093/hmg/ddw348
+Manzoni, C., Kia, D. A., Vandrovcova, J., Hardy, J., Wood, N. W., Lewis, P. A. and Ferrari , R. (2016) Genome, transcriptome and proteome: the rise of omics data and their integration in biomedical sciences. Briefings In Bioinformatics. ISSN 1467-5463 doi: 10.1093/bib/bbw114
+Kara, E., Tucci, A., Manzoni, C., Lynch, D. S., Elpidorou, M., Bettencourt, C., Chelban, V., Manole, A., Hamed, S., Haridy, N., Federoff, M., Preza, E., Hughes, D., Pittman, A., Jaunmuktane, Z., Brandner, S., Xiromerisiou, G., Wiethoff, S., Schottlaender, L., Proukakis, C. , Morris, H. , Warner, T., Bhatia, K., Korlipara, P., Singleton, A., Hardy, J., Wood, N. , Lewis, P. and Houlden, H. (2016) Genetic and phenotypic characterization of complex hereditary spastic paraplegia. Brain : A Journal of Neurology, 139 (7). pp. 1904-1918. ISSN 1460-2156 doi: 10.1093/brain/aww111
+Lewis, P. (2016) Measuring lactase enzymatic activity in the teaching lab. Journal of Visualized Experiments. ISSN 1940-087X (In Press)
+2015
+Civiero, L., Cirnaru, M. D., Beilina, A., Rodella, U., Russo, I., Belluzzi, E., Lobbestael, E., Reyniers, L., Hondhamuni, G., Lewis, P. A., Van den Haute, C., Baekelandt, V., Bandopadhyay, R., Bubacco, L., Piccoli, G., Cookson, M. R., Taymans, J.-M. and Greggio, E. (2015) Leucine-rich repeat kinase 2 interacts with p21-activated kinase 6 to control neurite complexity in mammalian brain. Journal of Neurochemistry, 135 (6). pp. 1242-1256. ISSN 0022-3042 doi: 10.1111/jnc.13369
+Kiely, A., Ling, H., Asi, Y., Kara, E., Proukakis, C., Schapira, A., Morris, H., Roberts , H., Lubbe, S., Limousin, P., Lewis, P., Lees, A., Quinn, N., Hardy, J., Love, S., Revesz , T., Houlden, H. and Holton, J. (2015) Distinct clinical and neuropathological features of G51D SNCA mutation cases compared with SNCA duplication and H50Q mutation. Molecular Neurodegeneration, 10 (1). 41. ISSN 1750-1326 doi: 10.1186/s13024-015-0038-3
+Manzoni, C., Denny, P., Lovering, R. C. and Lewis, P. A. (2015) Computational analysis of the LRRK2 interactome. PeerJ, 3. 778. ISSN 2167-8359 doi: 10.7717/peerj.778
+2014
+Civiero, L., Dihanich, S., Lewis, P. A. and Greggio, E. (2014) Genetic, structural, and molecular insights into the function of ras of complex proteins domains. Chemistry and Biology, 21 (7). pp. 809-818. ISSN 1074-5521 doi: 10.1016/j.chembiol.2014.05.010
+Dihanich, S., Civiero, L., Manzoni, C., Mamais, A., Bandopadhyay, R., Greggio, E. and Lewis, P. A. (2014) GTP binding controls complex formation by the human ROCO protein MASL1. FEBS Journal, 281 (1). pp. 261-274. ISSN 1742-464X doi: 10.1111/febs.12593
+Schulte, E. C., Ellwanger, D. C., Dihanich, S., Manzoni, C., Stangl, K., Schormair, B., Graf, E., Eck, S., Mollenhauer, B., Haubenberger, D., Pirker, W., Zimprich, A., Brücke, T., Lichtner, P., Peters, A., Gieger, C., Trenkwalder, C., Mewes, H.-W., Meitinger, T., Lewis, P. A., Klünemann, H. H. and Winkelmann, J. (2014) Rare variants in LRRK1 and Parkinson's disease. Neurogenetics, 15 (1). pp. 49-57. ISSN 1364-6745 doi: 10.1007/s10048-013-0383-8
+2013
+Manzoni, C., Mamais, A., Dihanich, S., McGoldrick, P., Devine, M. J., Zerle, J., Kara, E., Taanman, J.-W., Healy, D. G., Marti-Masso, J.-F., Schapira, A. H., Plun-Favreau, H., Tooze, S., Hardy, J., Bandopadhyay, R. and Lewis, P. A. (2013) Pathogenic Parkinson’s disease mutations across the functional domains of LRRK2 alter the autophagic/lysosomal response to starvation. Biochemical and Biophysical Research Communications, 441 (4). pp. 862-866. ISSN 0006-291X doi: 10.1016/j.bbrc.2013.10.159
+Manzoni, C., Mamais, A., Dihanich, S., Abeti, R., Soutar, M. P. M., Plun-Favreau, H., Giunti, P., Tooze, S. A., Bandopadhyay, R. and Lewis, P. A. (2013) Inhibition of LRRK2 kinase activity stimulates macroautophagy. Biochimica Et Biophysica Acta-Molecular Cell Research, 1833 (12). pp. 2900-2910. ISSN 0167-4889 doi: 10.1016/j.bbamcr.2013.07.020
+2012
+Jebelli, J. D., Dihanich, S., Civiero, L., Manzoni, C., Greggio, E. and Lewis, P. A. (2012) GTP binding and intramolecular regulation by the ROC domain of Death Associated Protein Kinase 1. Scientific Reports, 2. 695. ISSN 2045-2322 doi: 10.1038/srep00695
+Patani, R., Lewis, P. A., Trabzuni, D., Puddifoot, C. A., Wyllie, D. J. A., Walker, R., Smith, C., Hardingham, G. E., Weale, M., Hardy, J., Chandran, S. and Ryten, M. (2012) Investigating the utility of human embryonic stem cell-derived neurons to model ageing and neurodegenerative disease using whole-genome gene expression and splicing analysis. Journal of Neurochemistry, 122 (4). pp. 738-751. ISSN 0022-3042 doi: 10.1111/j.1471-4159.2012.07825.x
+Lewis, P. A. and Cookson, M. R. (2012) Gene expression in the Parkinson's disease brain. Brain Research Bulletin, 88 (4). pp. 302-312. ISSN 0361-9230 doi: 10.1016/j.brainresbull.2011.11.016
+2011
+Devine, M. J., Kaganovich, A., Ryten, M., Mamais, A., Trabzuni, D., Manzoni, C., McGoldrick, P., Chan, D., Dillman, A., Zerle, J., Horan, S., Taanman, J.-W., Hardy, J., Marti-Masso, J.-F., Healy, D., Schapira, A. H., Wolozin, B., Bandopadhyay, R., Cookson, M. R., van der Brug, M. P. and Lewis, P. A. (2011) Pathogenic LRRK2 mutations do not alter gene expression in cell model systems or human brain tissue. PLoS ONE, 6 (7). e22489. ISSN 1932-6203 doi: 10.1371/journal.pone.0022489
+2009
+Li, Y., Dunn, L., Greggio, E., Krumm, B., Jackson, G. S., Cookson, M. R., Lewis, P. A. and Deng, J. (2009) The R1441C mutation alters the folding properties of the ROC domain of LRRK2. Biochimica Et Biophysica Acta-Molecular Basis of Disease, 1792 (12). pp. 1194-1197. ISSN 0925-4439 doi: 10.1016/j.bbadis.2009.09.010
+2008
+Deng, J., Lewis, P. A., Greggio, E., Sluch, E., Beilina, A. and Cookson, M. A. (2008) Structure of the ROC domain from the Parkinson's disease-associated leucine-rich repeat kinase 2 reveals a dimeric GTPase. Proceedings of the National Academy of Sciences, 105 (5). pp. 1499-1504. ISSN 1091-6490 doi: 10.1073/pnas.0709098105
+This list was generated on Wed Jun 21 11:00:47 2017 BST.
+www.lewislaboratory.com
+www.degeneratingneurons.wordpress.com
+Funded by: Parkinson's UK, the Michael J. Fox Foundation, the Wellcome trust, the Medical Research Council.
+For current students
+and staff
+Contact Details
+Email:
+p.a.lewis@reading.ac.uk
+Telephone:
++44 (0) 118 378 4561
+Page navigation
+UoR Home
+Pharmacy Home
+About us
+Undergraduate
+Postgraduate
+CIPPET
+Research
+Research Impact and Working with Industry
+Athena SWAN
+See also
+  Footer navigation
+Accessibility Privacy policy Cookies Disclaimer Site map Contact us Find us
+© University of Reading
+Study & Life
+Research
+Business
+About
+News & Events
+Search Form
+A-Z lists Search
+University site
+This section
+Our website uses cookies. For details about these cookies and how to disable them, see our cookie policy.

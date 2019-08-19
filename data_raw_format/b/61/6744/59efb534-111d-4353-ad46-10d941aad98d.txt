@@ -1,0 +1,180 @@
+John R. Kender
+Welcome to my home page.
+(Like much of life itself, continually under construction)
+I am:
+Professor, Department of Computer Science
+Great Teacher, Society of Columbia Graduates
+Distinguished Faculty Teacher, Columbia Engineering School Alumni Association
+former Vice Dean, Fu Foundation School of Engineering and Applied Science
+at Columbia University in New York City
+Some of my research, supported at various times by: DARPA, IARPA/DTO/ARDA, NSF, ONR; NYState Sci&Tech Foundation; AT&T, D/ADA, DEC, Ford Motor, IBM, Intel, Matrix, Microsoft, Philips, Unimation
+Michele Merler, John R. Kender
+  "Selecting the best faces to index presentation videos"
+  ACM Multimedia 2011: 1461-1464
+Lexing Xie, Apostol Natsev, John R. Kender, Matthew L. Hill, John R. Smith
+  "Visual memes in social media: tracking real-world news in YouTube videos"
+  ACM Multimedia 2011: 53-62
+Mitchell J. Morris, John R. Kender
+  "VastMM-Tag: a semantic tagging browser for unstructured videos"
+  ACM Multimedia 2011: 957-960
+Sheena Xin Liu, John R. Kender, Celina Imielinska, Andrew Laine
+  "Employing symmetry features for automatic misalignment correction in neuroimages"
+  J Neuroimaging 2011;21:e15-e33.
+John R. Zhang, John R. Kender
+  "Identifying salient poses in lecture videos"
+  ICIP 2011: 2353-2356
+Lexing Xie, Apostol Natsev, John R. Kender, Matthew L. Hill, John R. Smith
+  "Tracking Visual Memes in Rich-Media Social Communities"
+  ICWSM 2011
+Sheena Xin Liu, John R. Kender, Celina Imielinska, Andrew Laine
+  "Automatic Misalignment Correction in Neuroimages Using Surface Symmetry Priors"
+  J Neuroimaging 2011;21:383.
+John R. Kender, Matthew L. Hill, Apostol Natsev, John R. Smith, Lexing Xie
+  "Video genetics: a case study from YouTube"
+  ACM Multimedia 2010: 1253-1258
+Hassan H. Malik, John R. Kender, Dmitriy Fradkin, Fabian Mörchen
+  "Hierarchical document clustering using local patterns"
+  Data Min. Knowl. Discov. 21(1): 153-185 (2010)
+Michele Merler, John R. Kender
+  "Semantic keyword extraction via adaptive text binarization of unstructured unsourced video"
+  ICIP 2009: 261-264
+Mitchell J. Morris, John R. Kender
+  "Sort-Merge feature selection and fusion methods for classification of unstructured video"
+  ICME 2009: 578-581
+Jesus Caban, Noah Lee, Shahram Ebadollahi, Andrew Laine, John R. Kender
+  "Concept Detection in Longitudinal Brain MR Images Using Multi-Modal Cues"
+  ISBI 2009: 418-421
+Alexander Haubold, Promiti Dutta, John R. Kender
+  "Evaluation of video browser features and user interaction with VAST MM"
+  ACM Multimedia 2008: 449-458
+Hassan H. Malik, John R. Kender
+  "Classifying High-Dimensional Text and Web Data Using Very Short Patterns"
+  ICDM 2008: 923-928
+Alexander Haubold, John R. Kender
+  "Accommodating sample size effect on similarity measures in speaker clustering"
+  ICME 2008: 1525-1528
+John R. Kender
+  "Separability and refinement of hierarchical semantic video labels and their ground truth"
+  ICME 2008: 673-676
+Ramon Lluis Felip, Lluis Barceló, Xavier Binefa, John R. Kender
+  "Robust Dominant Motion Estimation Using MPEG Information in Sport Sequences"
+  IEEE Trans. Circuits Syst. Video Techn. 18(1): 12-22 (2008)
+Alexander Haubold, John R. Kender
+  "VAST MM: multimedia browser for presentation video"
+  CIVR 2007: 41-48
+Hassan H. Malik, John R. Kender
+  "Optimizing Frequency Queries for Data Mining Applications"
+  ICDM 2007: 595-600
+Alexander Haubold, John R. Kender
+  "Alignment of Speech to Highly Imperfect Text Transcriptions"
+  ICME 2007: 224-227
+John R. Kender
+  "A Large Scale Concept Ontology for News Stories: Empirical Methods, Analysis, and Improvements"
+  ICME 2007: 544-547
+Alexander Haubold, John R. Kender
+  "Analysis, User Interface, and their Evaluation for Student Presentation Videos"
+  ICME 2007: 863-866
+Yan Liu, John R. Kender
+  "Statistical Validation for Automatic Feature Selection Algorithms in Video Applications"
+  MLMTA 2007: 170-176
+Dan B. Phung, Giuseppe Valetto, Gail E. Kaiser, Tiecheng Liu, John R. Kender
+  "Adaptive Synchronization of Semantically Compressed Instructional Videos for Collaborative Distance Learning"
+  IJDET 5(2): 56-73 (2007)
+Tiecheng Liu, John R. Kender
+  "Computational approaches to temporal sampling of video sequences"
+  TOMCCAP 3(2): (2007)
+Hassan H. Malik, John R. Kender
+  "High Quality, Efficient Hierarchical Document Clustering Using Closed Interesting Itemsets"
+  ICDM 2006: 991-996
+John R. Kender, Milind R. Naphade
+  "Video News Shot Labeling Refinement via Shot Rhythm Models"
+  ICME 2006: 37-40
+Hassan H. Malik, John R. Kender
+  "Clustering web images using association rules, interestingness measures, and hypergraph partitions"
+  ICWE 2006: 48-55
+Lijun Tang, John R. Kender
+  "Designing an intelligent user interface for instructional video indexing and browsing"
+  IUI 2006: 318-320
+Alexander Haubold, John R. Kender
+  "Accommodating Sample Size Effect on Similarity Measures in Speaker Clustering"
+   CoRR abs/cs/0612138: (2006)
+Alexander Haubold, John R.
+  "Kender: Alignment of Speech to Highly Imperfect Text Transcriptions"
+  CoRR abs/cs/0612139: (2006)
+Alexander Haubold, John R. Kender
+  "Augmented segmentation and visualization for presentation videos"
+  ACM Multimedia 2005: 51-60
+Lluis Barceló, Xavier Binefa, John R. Kender
+  "Robust Methods and Representations for Soccer Player Tracking and Collision Resolution"
+  CIVR 2005: 237-246
+John R. Kender, Milind R. Naphade
+  "Visual Concepts for News Story Tracking: Analyzing and Exploiting the NIST TRECVID Video Annotation Experiment"
+  CVPR (1) 2005: 1174-1181
+Lijun Tang, John R. Kender
+  "Educational Video Understanding: Mapping Handwritten Text to Textbook Chapters"
+  ICDAR 2005: 919-923
+Lijun Tang, John R. Kender
+  "A unified text extraction method for instructional videos"
+  ICIP (3) 2005: 1216-1219
+Lalitha Agnihotri, John R. Kender, Nevenka Dimitrova, John Zimmerman
+  "User Study for Generating Personalized Summary Profiles"
+  ICME 2005: 1094-1097
+John R. Kender, Milind R. Naphade
+  "Ontology Design for Video Semantic Threads"
+  ICME 2005: 1302-1305
+Lijun Tang, John R. Kender
+  "Semantic Indexing for Instructional Video Via Combination of Handwriting Recognition and Information Retrieval"
+  ICME 2005: 920-923
+Lalitha Agnihotri, John R. Kender, Nevenka Dimitrova, John Zimmerman
+  "Framework for personalized multimedia summarization"
+  Multimedia Information Retrieval 2005: 81-88
+Alexander Haubold, John R. Kender
+  "Augmented Segmentation and Visualization for Presentation Videos"
+  CoRR abs/cs/0501044: (2005)
+Information about the NSF IIS-Sponsored Project on Unstructured Videos
+Current PhD students:
+Dainis Kiusals
+Emad Barsoum
+David Chisholm
+Chun-Yu (Claire) Tsai
+Graduated PhD students:
+John R. Zhang, 2013
+Michelle Merler, 2012
+Mitchell Morris, 2011
+Alex Haubold, 2008
+Hassan Malik, 2007
+Ramon Lluis Felip, 2007
+Lijun Tang, 2006
+Yan Liu, 2005
+Lalitha Agnihotri, 2005
+Juan-Maria Sanchez-Secades, 2003
+Tiecheng Liu, 2003
+Aya Aner, 2002
+Samuel Fenster, 1999
+Frederik Kjeldsen, 1996
+David Yang, 1996
+Alicia Abella, 1995
+Il-Pyung Park, 1993
+Thomas Ellman, 1989
+Mark Moerdler, 1989
+Michalis Hatzitheodorou, 1989
+Dong Jae Choi, 1988
+Terrance Boult, 1986
+David Lee, 1985
+Hussein Ibrahim, 1984
+Steven Shafer, 1983
+Past, present, and future teaching:
+Fall (all years):
+COMS W1007x: Honors Introduction to Computer Science
+Spring (odd years):
+COMS W4735y: Visual Interfaces to Computers
+Spring (even years):
+COMS E6735y: Visual Databases
+Fall, Spring, and Summer (all years):
+COMS W3998/W4901/E6901: Directed Research
+On demand:
+A lecture on Teaching
+jrk atsign cs dot columbia dot edu
+
+Finger plan and contact information
+Be careful of what you ask for

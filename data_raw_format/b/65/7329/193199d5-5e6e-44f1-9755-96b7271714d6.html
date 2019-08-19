@@ -1,0 +1,423 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="js" style="" lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://static.ucalgary.ca/current/global/images/identity/favicon.ico">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" src="https://bam.nr-data.net/1/2f1f7a5441?a=8224422&amp;v=1026.7a27a3e&amp;to=ZFQHZhNQDEoDUUdZDF0eJFEVWA1XTUddWRdaQjpbD0UHXhBTR1kMXW4VQA5XC1UHbUNRBFY%3D&amp;rst=4296&amp;ref=http://commfilm.ucalgary.ca/profiles/shane-halasz&amp;ap=148&amp;be=692&amp;fe=4289&amp;dc=3199&amp;perf=%7B%22timing%22:%7B%22of%22:1498024687926,%22n%22:0,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22ce%22:0,%22rq%22:0,%22rp%22:0,%22rpe%22:0,%22dl%22:683,%22di%22:3198,%22ds%22:3199,%22de%22:3259,%22dc%22:4288,%22l%22:4288,%22le%22:4288%7D,%22navigation%22:%7B%7D%7D&amp;at=SBMEEFtKH0Q%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta http-equiv="ImageToolbar" content="no">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="http://commfilm.ucalgary.ca/profiles/shane-halasz">
+<link rel="shortlink" href="http://commfilm.ucalgary.ca/profiles/shane-halasz">
+  <title>Shane Halasz | Department of CMF | University of Calgary</title>
+  <style type="text/css" media="all">
+@import url("http://commfilm.ucalgary.ca/modules/system/system.base.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/modules/system/system.menus.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/modules/system/system.messages.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/modules/system/system.theme.css?oopux3");
+</style>
+<style type="text/css" media="all">
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/wcm/banner_uofc/banner_uofc.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/calendar/css/calendar_multiday.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/collapsiblock/collapsiblock.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/date/date_api/date.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/modules/field/theme/field.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/arts/news_uofc_arts/news.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/modules/node/node.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/modules/search/search.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/modules/user/user.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/extlink/extlink.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/views/css/views.css?oopux3");
+</style>
+<style type="text/css" media="all">
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/colorbox/styles/default/colorbox_style.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/ctools/css/ctools.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/wcm/event_uofc/event_uofc.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/wcm/files_uofc/resources/css/files_uofc.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/wcm/links_uofc/links_uofc.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/wcm/news_uofc/news_uofc.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/panels/css/panels.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/wcm/panels_layouts_uofc/css/panels_layouts_uofc.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/wcm/panels_uofc/resources/css/panels_uofc.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/modules/wcm/wysiwyg_uofc/resources/css/wysiwyg_uofc.css?oopux3");
+</style>
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/uofc/uofc.css" media="all">
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/unitis/features/people/styles/people.css" media="all">
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/unitis/unitis.css" media="all">
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/jquery_uofc/jquery_uofc.css" media="all">
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/jquery_uofc/plugins/jquery.expandall.css" media="all">
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/unitis/features/profile/styles/profile.css" media="all">
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/unitis/features/officehours/styles/officehours.css" media="all">
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/unitis/features/cv/styles/cv.css" media="all">
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/unitis/features/contactinformation/styles/contactinformation.css" media="all">
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/unitis/features/courses/styles/courses.css" media="all">
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/uofc/plugins/jquery.tabledetails.css" media="all">
+<link type="text/css" rel="stylesheet" href="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/uofc/plugins/jquery.backtotop.css" media="all">
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#uc-navigation div.primary li{background-color:#ff7f00;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://static.ucalgary.ca/current/drupal/styles/level-c.css" media="all">
+<style type="text/css" media="all">
+@import url("http://commfilm.ucalgary.ca/sites/all/themes/ucalgary/styles/adminmenu.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/all/themes/ucalgary/styles/mediabrowser.css?oopux3");
+@import url("http://commfilm.ucalgary.ca/sites/commfilm.ucalgary.ca/files/color/ucalgary-5d976669/custom_colors.css?oopux3");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://static.ucalgary.ca/current//global/styles/ie/ie6.css" media="all" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="http://static.ucalgary.ca/current//global/styles/ie/ie7.css" media="all" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="http://static.ucalgary.ca/current//global/styles/ie/ie8.css" media="all" />
+<![endif]-->
+<style type="text/css" media="all">
+@import url("http://commfilm.ucalgary.ca/sites/commfilm.ucalgary.ca/files/css_injector/css_injector_1.css?oopux3");
+</style>
+  
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-173139-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+  <script type="text/javascript" src="http://commfilm.ucalgary.ca/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/misc/drupal.js?oopux3"></script>
+<script type="text/javascript" src="http://static.ucalgary.ca/current//global/libraries/modernizr/modernizr.svg.touch.js?v=2.8.3"></script>
+<script type="text/javascript" src="http://static.ucalgary.ca/current//global/libraries/svg-png-polyfill/svgpng.js?v=1.0.0"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/misc/form.js?v=7.52"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/sites/all/modules/collapsiblock/collapsiblock.js?oopux3"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/sites/all/modules/spamspan/spamspan.js?oopux3"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/sites/all/modules/extlink/extlink.js?oopux3"></script>
+<script type="text/javascript" src="http://static.ucalgary.ca/current/global/scripts/banner_uofc_random.js?oopux3"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/sites/all/modules/wcm/collapsing_field_page_uofc/collapsing_field_page_uofc.js?oopux3"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/sites/all/libraries/colorbox/jquery.colorbox-min.js?oopux3"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/sites/all/modules/colorbox/js/colorbox.js?oopux3"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/sites/all/modules/colorbox/styles/default/colorbox_style.js?oopux3"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/sites/all/modules/wcm/files_uofc/resources/js/files_uofc.js?oopux3"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/sites/all/modules/wcm/wysiwyg_uofc/resources/js/wysiwyg_uofc.js?oopux3"></script>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/unitis/unitis.js"></script>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/jquery_uofc/plugins/jquery.jqueryhacks.js"></script>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/jquery_uofc/plugins/jquery.oninit.js"></script>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/jquery_uofc/plugins/jquery.scrollTo.js"></script>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/jquery_uofc/plugins/jquery.clickHandler.js"></script>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/jquery_uofc/jquery_uofc.js"></script>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/jquery_uofc/plugins/jquery.expandall.js"></script>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/jquery_uofc/plugins/jquery.accordion.js"></script>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/unitis/features/profile/scripts/profile.js"></script><style type="text/css">div.breadcrumbs { visibility: hidden; }</style>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/unitis/features/courses/scripts/courses.js"></script>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/jquery_uofc/plugins/jquery.tableanimate.js"></script>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/uofc/plugins/jquery.tabledetails.js"></script><style type="text/css">tr.collapsed-details-row{display:none}</style>
+<script type="text/javascript" src="//commfilm.ucalgary.ca/manageprofile/sites/all/modules/unitissvn/uofc/plugins/jquery.backtotop.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {$(document).ready(function(){$().accordion();});}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {$().oninit("#thicklink_1",$().attr,["href","http:\/\/ucalgary.ca\/map\/interactive\/?Building=SS&Room=301&thickbox=1&TB_iframe=true&height=600&width=980"]);}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {$().oninit("#thicklink_2",$().attr,["href","http:\/\/ucalgary.ca\/map\/interactive\/?Building=TRB&Room=101&thickbox=1&TB_iframe=true&height=600&width=980"]);}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {$().oninit("#thicklink_3",$().attr,["href","http:\/\/ucalgary.ca\/map\/interactive\/?Building=TRB&Room=101&thickbox=1&TB_iframe=true&height=600&width=980"]);}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {$().oninit("#uofc-table-1",$().tabledetails,[false,false]);}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {$().oninit("#thicklink_4",$().attr,["href","http:\/\/ucalgary.ca\/map\/interactive\/?Building=TRB&Room=101&thickbox=1&TB_iframe=true&height=600&width=980"]);}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {$().oninit("#uofc-table-2",$().tabledetails,[false,false]);}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {$().oninit("#uofc-table-3",$().tabledetails,[false,false]);}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function ($) {$().oninit(".uofc-back-to-top",$().backtotop,[]);}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/misc/collapse.js?v=7.52"></script>
+<script type="text/javascript" src="http://commfilm.ucalgary.ca/sites/all/modules/wcm/system_uofc/js/system_uofc_counter.js?oopux3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ucalgary","theme_token":"xJ1fwP1jaxrQiflgVg50XrYykhcPuRVRWvstcYsdN7I","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"http:\/\/static.ucalgary.ca\/current\/\/global\/libraries\/modernizr\/modernizr.svg.touch.js":1,"http:\/\/static.ucalgary.ca\/current\/\/global\/libraries\/svg-png-polyfill\/svgpng.js":1,"misc\/form.js":1,"sites\/all\/modules\/collapsiblock\/collapsiblock.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"http:\/\/static.ucalgary.ca\/current\/global\/scripts\/banner_uofc_random.js":1,"sites\/all\/modules\/wcm\/collapsing_field_page_uofc\/collapsing_field_page_uofc.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/wcm\/files_uofc\/resources\/js\/files_uofc.js":1,"sites\/all\/modules\/wcm\/wysiwyg_uofc\/resources\/js\/wysiwyg_uofc.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/unitis\/unitis.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/jquery_uofc\/plugins\/jquery.jqueryhacks.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/jquery_uofc\/plugins\/jquery.oninit.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/jquery_uofc\/plugins\/jquery.scrollTo.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/jquery_uofc\/plugins\/jquery.clickHandler.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/jquery_uofc\/jquery_uofc.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/jquery_uofc\/plugins\/jquery.expandall.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/jquery_uofc\/plugins\/jquery.accordion.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/unitis\/features\/profile\/scripts\/profile.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/unitis\/features\/courses\/scripts\/courses.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/jquery_uofc\/plugins\/jquery.tableanimate.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/uofc\/plugins\/jquery.tabledetails.js":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/uofc\/plugins\/jquery.backtotop.js":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"misc\/collapse.js":1,"sites\/all\/modules\/wcm\/system_uofc\/js\/system_uofc_counter.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/wcm\/banner_uofc\/banner_uofc.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/collapsiblock\/collapsiblock.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/arts\/news_uofc_arts\/news.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/wcm\/event_uofc\/event_uofc.css":1,"sites\/all\/modules\/wcm\/files_uofc\/resources\/css\/files_uofc.css":1,"sites\/all\/modules\/wcm\/links_uofc\/links_uofc.css":1,"sites\/all\/modules\/wcm\/news_uofc\/news_uofc.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/wcm\/panels_layouts_uofc\/css\/panels_layouts_uofc.css":1,"sites\/all\/modules\/wcm\/panels_uofc\/resources\/css\/panels_uofc.css":1,"sites\/all\/modules\/wcm\/wysiwyg_uofc\/resources\/css\/wysiwyg_uofc.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/uofc\/uofc.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/unitis\/features\/people\/styles\/people.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/unitis\/unitis.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/jquery_uofc\/jquery_uofc.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/jquery_uofc\/plugins\/jquery.expandall.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/unitis\/features\/profile\/styles\/profile.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/unitis\/features\/officehours\/styles\/officehours.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/unitis\/features\/cv\/styles\/cv.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/unitis\/features\/contactinformation\/styles\/contactinformation.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/unitis\/features\/courses\/styles\/courses.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/uofc\/plugins\/jquery.tabledetails.css":1,"\/\/commfilm.ucalgary.ca\/manageprofile\/sites\/all\/modules\/unitissvn\/uofc\/plugins\/jquery.backtotop.css":1,"0":1,"http:\/\/static.ucalgary.ca\/current\/drupal\/styles\/level-c.css":1,"sites\/all\/themes\/ucalgary\/styles\/adminmenu.css":1,"sites\/all\/themes\/ucalgary\/styles\/mediabrowser.css":1,"http:\/\/static.ucalgary.ca\/current\/\/global\/styles\/ie\/ie6.css":1,"http:\/\/static.ucalgary.ca\/current\/\/global\/styles\/ie\/ie7.css":1,"http:\/\/static.ucalgary.ca\/current\/\/global\/styles\/ie\/ie8.css":1,"public:\/\/css_injector\/css_injector_1.css":1}},"collapsiblock":{"blocks":{"block-block-3":"1","block-menu-menu-quick-links":"1","block-block-9":"1","block-block-8":"1","block-block-10":"1","block-block-1":"1"},"default_state":1,"slide_type":1,"slide_speed":200,"block_title":":header:first","block":"div.block","block_content":"div.content"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"color":{"logo":""},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"(.*\\.pdf)|(iac01\\.*)|(homepages\\.*)|(www2\\.*)|(people\\.ucalgary\\.ca\\~*)|(webapps2\\.ucalgary\\.ca\\~*)|(webapps3\\.ucalgary\\.ca\\~*)|(webapp6\\.ucalgary\\.ca\\~*)|(csh\\.ucalgary\\.ca\\~*)|(d2l\\.ucalgary\\.ca\\~*)","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"system_uofc":{"url":"\/sites\/all\/modules\/wcm\/system_uofc\/php\/system_uofc_counter.php","data":{"path":"profiles\/shane-halasz","drupal":"\/mnt\/web\/drupal-7.52"}}});
+//--><!]]>
+</script>
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-profiles page-profiles-shane-halasz">
+    
+<div class="uc-page uc-980 uofc_c uc-level-2 uc-aside uc-aside-1">
+
+  
+<div id="uc-header" class="uc-section header">
+  <div class="identity">University of Calgary</div>
+
+  <ul class="social-media">
+    <li class="first rss"><a href="http://contacts.ucalgary.ca/directory/socialmedia/rss" title="RSS">RSS</a></li>
+    <li class="facebook"><a href="http://contacts.ucalgary.ca/directory/socialmedia/facebook" title="Facebook">Facebook</a></li>
+    <li class="twitter"><a href="http://contacts.ucalgary.ca/directory/socialmedia/twitter" title="Twitter">Twitter</a></li>
+  </ul>
+
+  <ul class="access">
+    <li><a href="#uc-splash">Jump to Headline</a></li>
+    <li><a href="#uc-navigation">Jump to Navigation</a></li>
+    <li><a href="#uc-content">Jump to Content</a></li>
+  </ul>
+  
+  <div class="access">UofC Navigation</div>
+
+  <ul id="uc-global-navigation">
+    <li class="first"><a href="http://www.ucalgary.ca/">Home</a></li>
+    <li><a href="http://www.ucalgary.ca/prospectivestudents/">Prospective Students</a></li>
+    <li><a href="http://www.ucalgary.ca/currentstudents/">Current Students</a></li>
+    <li><a href="http://www.ucalgary.ca/alumni/">Alumni</a></li>
+    <li><a href="http://www.ucalgary.ca/community/">Community</a></li>
+          <li><a href="http://www.ucalgary.ca/facultyandstaff/">Faculty &amp; Staff</a></li>
+     
+  </ul>
+
+  <form id="uc-global-search" action="https://www.ucalgary.ca/search.html">
+    <div>
+      <label for="uc-global-search-field">Search UofC:</label>
+    	<input name="cx" value="012951140265856679432:ng6igooyyai" type="hidden">
+    	<input name="cof" value="FORID:10" type="hidden">
+    	<input name="ie" value="UTF-8" type="hidden">
+      <input id="uc-global-search-field" name="q" type="text">
+      <input name="sa" id="uc-global-search-submit" value="Search" type="submit">
+    </div>
+  </form>
+
+  <ul id="uc-global-references">
+    <li class="first"><a href="http://www.ucalgary.ca/it/" title="Information Technologies">IT</a></li>
+    <li><a href="http://www.ucalgary.ca/hr/" title="HR">HR</a></li>
+    <li><a href="http://my.ucalgary.ca/" title="My UofC Portal"> My U of C</a></li>
+    <li><a href="http://www.ucalgary.ca/directory/" title="Contact Information and Personnel Directory">Contacts</a></li>
+  </ul>
+</div>
+
+  <div id="uc-splash" class="uc-section splash">
+  
+    <div class="logo">
+     <a href="http://www.ucalgary.ca/"><img src="http://static.ucalgary.ca/current/global/images/identity/vertical-crest.svg"></a> 
+       </div>
+   
+  
+    <div class="banner">
+      <div class="region region-banner-image">
+    <div id="block-banner-uofc-banner-uofc" class="block block-banner-uofc collapsiblock-processed">
+
+
+  <div class="content">
+    <div class="banners"><div class="banner active" style="height: 178px; display: block;"><div class="headline"><div class="title">Department of Communication, Media &amp; Film</div></div><img usemap="#banner-uofc-map" typeof="foaf:Image" src="http://commfilm.ucalgary.ca/sites/commfilm.ucalgary.ca/files/styles/banner_uofc_banner/public/banners/cmf_banner.jpg?itok=L1hWoOYG&amp;1717051305" alt="Department of Communication, Media &amp; Film - " title="Department of Communication, Media &amp; Film"></div></div></div>
+  
+</div>
+  </div>
+    <div class="headline">
+                </div>
+  </div>
+  </div>
+
+  
+<div id="uc-navigation" class="uc-section navigation">
+  <div class="access">Navigation</div>
+
+  <div class="primary">
+        <div id="block-menu-block-menu-uofc-top" class="block block-menu-block collapsiblock-processed">
+
+    <h2 class="title">Main menu</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-menu_uofc-top menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-221"><a href="/">Home</a></li>
+<li class="leaf has-children menu-mlid-3107"><a href="/undergraduate">Undergraduate</a></li>
+<li class="leaf has-children menu-mlid-3098"><a href="/graduate">Graduate</a></li>
+<li class="leaf has-children menu-mlid-2938"><a href="/events">Events</a></li>
+<li class="leaf menu-mlid-3099"><a href="/research/facultyexpertise" title="">Research</a></li>
+<li class="leaf menu-mlid-3225"><a href="/courses" title="">Courses</a></li>
+<li class="leaf menu-mlid-3199"><a href="http://commfilm.ucalgary.ca/contact-us" title="">People</a></li>
+<li class="last leaf menu-mlid-3200"><a href="/contact">Contact</a></li>
+</ul></div>
+</div>
+  
+</div>
+  </div>
+
+  <div class="secondary">
+    <div id="block-menu-block-menu-uofc-home" class="block block-menu-block collapsiblock-processed">
+
+    <h2 class="title">Home</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-menu_uofc-home menu-name-main-menu parent-mlid-221 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-3036"><a href="/about">About</a></li>
+<li class="leaf menu-mlid-3158"><a href="/home/helpful-links">Helpful Links</a></li>
+<li class="leaf menu-mlid-3038"><a href="http://arts.careers.ucalgary.ca/" title="">Employment Opportunities</a></li>
+<li class="collapsed menu-mlid-3120"><a href="/home/alumni">Alumni</a></li>
+<li class="leaf menu-mlid-3211"><a href="http://commfilm.ucalgary.ca/facultycentre/" title="">Faculty Only</a></li>
+<li class="leaf menu-mlid-3165"><a href="/home/giving">Giving</a></li>
+<li class="last leaf menu-mlid-3164"><a href="http://arts.ucalgary.ca" title="">Faculty of Arts</a></li>
+</ul></div>
+</div>
+  
+</div>
+  
+    </div>
+</div>
+
+  <div id="uc-content" class="uc-section content">
+  <div class="secondary"><div class="wrapper">
+      </div></div>
+  <div class="primary"><div class="wrapper">
+    <div class="breadcrumbs"></div>
+    <h1><a name="top"></a>Shane Halasz</h1>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system collapsiblock-processed">
+
+  
+  <div class="content">
+    
+<div id="uofc-module-page" class="unitis-profile-page"><div class="unitis-profile-region-1"><div class="unitis-profile-block" id="unitis-profile-block-roles"><div class="content"><div id="unitis-profile-block-roles-positions-list" class="unitis-profile-block-list"><div class="item-list"><ul><li>Sessional Instructor</li></ul></div></div></div></div><div class="unitis-profile-block" id="unitis-profile-block-contact"><div class="content"><div class="unitis-rooms-list"><div class="item-list"><ul><li><a href="http://ucalgary.ca/map/interactive/?Building=SS&amp;Room=301&amp;thickbox=1&amp;TB_iframe=true&amp;height=600&amp;width=980" id="thicklink_1" class="thickbox">Social Sciences 301</a></li></ul></div></div><div class="unitis-email-list"><div class="item-list"><ul><li><a title="" href="mailto:sdhalasz@ucalgary.ca">sdhalasz@ucalgary.ca</a></li></ul></div></div></div></div><div class="unitis-profile-block" id="unitis-profile-block-courses"><h2 class="title">Currently Teaching</h2><div class="content"><table id="uofc-table-3" class="uofc-table has-details"><tbody><tr class="unitis unitis-courses unitis-courses-course-listings expanded odd primary-row expanded-primary-row"><td class="uofc-row-expander-button uofc-row-expander"><a class="uofc-row-expander-link">&nbsp;</a></td><td style="width:535px;"><a href="" class="uofc-row-expander">P2017 - CMCL 301 - Cultural Foundations</a></td><td style="width:70px;text-align:right"><div class="item-list"><ul class="uofc-actions uofc-inline-list"><li class="uofc-action uofc-inline-list-nowrap"><a href="/courses/p17/CMCL301?destination=profiles%2F120-108103%2Fjson">Details</a></li></ul></div></td><td style="width:70px;"></td></tr><tr class="unitis unitis-courses unitis-courses-course-listings expanded odd attached-row details-row expanded-details-row"><td></td><td class="details-row-cell" colspan="3"><table id="uofc-table-1" class="uofc-table has-details"><tbody><tr class=" collapsed primary-row collapsed-primary-row" style="background-color: #ffdddd"><td class="uofc-row-expander-button uofc-row-expander"><a class="uofc-row-expander-link">&nbsp;</a></td><td style="width:5em;padding-left:3px"><a class="target" name="CMCL301LEC1"></a><a href="#CMCL301LEC1" class="uofc-row-expander">LEC 1</a></td><td style="width:11em">TR 09:00&nbsp;-&nbsp;10:50<br></td><td style="width:6em"><a href="http://ucalgary.ca/map/interactive/?Building=TRB&amp;Room=101&amp;thickbox=1&amp;TB_iframe=true&amp;height=600&amp;width=980" id="thicklink_2" class="thickbox">TRB&nbsp;101</a><br></td><td style="width:16em"></td><td style="width:100px;text-align:right;"></td><td style="width:70px"><a href="/manageprofile//sites/comcul.ucalgary.ca.manageprofile/files/unitis/courses/CMCL301/P2017/LEC1/CMCL301-P2017-LEC1-outline.pdf" class="course-outline" target="_blank">Outline</a></td></tr><tr class=" collapsed attached-row details-row collapsed-details-row" style="background-color: #ffdddd"><td></td><td class="details-row-cell" colspan="6"><div style="width:462px;padding:6px 18px;clear:left;">Notes: Credit for both Communication and Culture 301 and General Studies 300 will not be allowed.</div></td></tr><tr class=" collapsed primary-row collapsed-primary-row" style="background-color: #ffdddd"><td style="width:1em;padding:1px 0 1px 9px"></td><td style="width:5em;padding-left:3px">TUT 1</td><td style="width:11em">TR 11:00&nbsp;-&nbsp;11:50<br></td><td style="width:6em"><a href="http://ucalgary.ca/map/interactive/?Building=TRB&amp;Room=101&amp;thickbox=1&amp;TB_iframe=true&amp;height=600&amp;width=980" id="thicklink_3" class="thickbox">TRB&nbsp;101</a><br></td><td style="width:16em"></td><td style="width:100px;text-align:right;"></td><td style="width:70px"></td></tr></tbody></table></td></tr><tr class="unitis unitis-courses unitis-courses-course-listings expanded even primary-row expanded-primary-row"><td class="uofc-row-expander-button uofc-row-expander"><a class="uofc-row-expander-link">&nbsp;</a></td><td style="width:535px;"><a href="" class="uofc-row-expander">S2017 - COMS 401.13 - Special Topics in Communication and Media Studies (Drugs in Popular Culture)</a></td><td style="width:70px;text-align:right"><div class="item-list"><ul class="uofc-actions uofc-inline-list"><li class="uofc-action uofc-inline-list-nowrap"><a href="/courses/s17/COMS401.13?destination=profiles%2F120-108103%2Fjson">Details</a></li></ul></div></td><td style="width:70px;"></td></tr><tr class="unitis unitis-courses unitis-courses-course-listings expanded even attached-row details-row expanded-details-row"><td></td><td class="details-row-cell" colspan="3"><table id="uofc-table-2" class="uofc-table"><tbody><tr class="" style="background-color: #ffdddd"><td style="width:1em;padding:1px 0 1px 9px"></td><td style="width:5em;padding-left:3px">LEC 1</td><td style="width:11em">TR 09:00&nbsp;-&nbsp;11:45<br></td><td style="width:6em"><a href="http://ucalgary.ca/map/interactive/?Building=TRB&amp;Room=101&amp;thickbox=1&amp;TB_iframe=true&amp;height=600&amp;width=980" id="thicklink_4" class="thickbox">TRB&nbsp;101</a><br></td><td style="width:16em"></td><td style="width:100px;text-align:right;"></td><td style="width:70px"></td></tr></tbody></table></td></tr></tbody></table><div class="profile-block-more"><a href="/profiles/120-108103/courses" class="profile-block-more">view past courses</a></div></div></div></div><div class="unitis-profile-region-2"><div class="unitis-profile-block" id="unitis-profile-block-profile"><div class="content"><img src="/manageprofile//sites/all/modules/unitissvn/unitis/images/silhouette.png" class="person-photo-large" alt="Photograph of Shane Halasz"><ul class="menu"><li class="leaf"><a href="/profiles/120-108103/courses">Courses</a></li></ul></div></div></div></div><div class="uofc-back-to-top" style="visibility: hidden;"><a href="#top">top</a></div><div class="uofc-back-to-top floating" style="width: 774px; display: none;"><a href="#top">top</a></div><div class="unitis-page-credit-clear"></div><div class="unitis-page-credit">Powered by <a href="http://unitis.ucalgary.ca">UNITIS</a>. <a href="http://unitis.ucalgary.ca/features">More features</a>.</div>
+</div>
+  
+</div>
+  </div>
+    
+        
+        
+    
+    
+      </div></div>
+
+  <div class="secondary"><div class="wrapper">
+      <div class="region region-auxiliary-content">
+    <div id="block-menu-menu-quick-links" class="block block-menu collapsiblock-processed">
+
+    <h2 class="title">Quick Links</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/undergraduate/overload-pre-requisite-waiver-request-form" title="">Overload/Pre-requisite waiver request form</a></li>
+<li class="last leaf"><a href="http://library.ucalgary.ca" title="">Library</a></li>
+</ul></div>
+  
+</div>
+<div id="block-block-10" class="block block-block collapsiblock-processed">
+
+  
+  <div class="content">
+    <img src="https://commfilm.ucalgary.ca/sites/commfilm.ucalgary.ca/files/socialmediaicons.png" usemap="#Map">
+<map name="Map">
+  <area shape="circle" coords="37,59,19" href="https://twitter.com/CMFCalgary" target="_blank">
+  <area shape="circle" coords="83,58,18" href="https://www.facebook.com/CommUndergradUcalgary/?ref=aymt_homepage_panel" target="_blank">
+  <area shape="circle" coords="129,59,18" href="https://www.linkedin.com/edu/school?id=10793&amp;trk=tyah&amp;trkInfo=clickedVertical%3Aschool%2Cidx%3A2-1-4%2CtarId%3A1437684346507%2Ctas%3AUniversity%20of%20Calgary" target="_blank">
+</map></div>
+  
+</div>
+  </div>
+  </div></div>
+</div>
+
+
+
+  <div id="uc-footer" class="uc-section uc-superfooter">
+  <div class="wrapper">
+    <div id="uc-footer-info">
+      <div class="block collapsiblock-processed">
+                <p>University of Calgary<br>
+          2500 University Dr. NW<br>
+          Calgary, Alberta, Canada<br>
+          T2N 1N4
+       </p>
+       <p>
+       	  Copyright © 2017       	  <br>
+       	  <a href="http://www.ucalgary.ca/policies/files/policies/Privacy%20Policy.pdf" target="_blank">Privacy Policy</a>
+       </p>
+      </div>
+    </div>
+    <div id="uc-footer-links">
+      <div class="block collapsiblock-processed">
+      <h2>About the University</h2>
+      <ul>
+        <li><a href="http://www.ucalgary.ca/about/">At a Glance</a></li>
+        <li><a href="http://www.ucalgary.ca/identity/">Identity &amp; Standards</a></li>
+        <li><a href="http://www.ucalgary.ca/map/">Campus Maps</a></li>
+        <li><a href="http://www.hotelalma.ca" target="_blank">Hotel Alma</a></li>
+        <li><a href="http://www.ucalgary.ca/hr/careers">Careers at the University</a></li>
+        <li><a href="http://www.ucalgary.ca/events/">Events at the University</a></li>
+      </ul>
+      </div>
+      <div class="block collapsiblock-processed">
+      <h2>Academics</h2>
+      <ul>
+        <li><a href="http://contacts.ucalgary.ca/directory/departments">Departments &amp; Programs</a></li>
+        <li><a href="http://www.ucalgary.ca/admissions/">Undergraduate Studies</a></li>
+        <li><a href="http://www.grad.ucalgary.ca/">Graduate Studies</a></li>
+        <li><a href="http://www.ucalgary.ca/international/">International Studies</a></li>
+        <li><a href="http://conted.ucalgary.ca/">Continuing Studies</a></li>
+        <li><a href="http://library.ucalgary.ca/">Libraries at the University</a></li>
+      </ul>
+      </div>
+      <div class="block collapsiblock-processed">
+      <h2>Campus Life</h2>
+      <ul>
+        <li><a href="http://www.godinos.com/" target="_blank">Go Dinos!</a></li>
+        <li><a href="http://www.ucalgary.ca/residence/">Residence</a></li>
+        <li><a href="http://www.ucalgaryrecreation.ca/" target="_blank">Active Living</a></li>
+        <li><a href="http://calgarybookstore.ca/" target="_blank">Bookstore</a></li>
+        <li><a href="http://gsa.ucalgary.ca/">Graduate Students' Association</a></li>
+        <li><a href="http://www.su.ucalgary.ca/">Students' Union</a></li>
+        
+      </ul>
+      </div>
+      <div class="block collapsiblock-processed">
+      <h2>Media &amp; Publications</h2>
+      <ul>
+        <li><a href="http://ucalgary.ca/news/">News</a></li>
+        <li><a href="http://ucalgary.ca/news/media">Media Centre</a></li>
+        <li><a href="http://ucalgary.ca/utoday">U Today</a></li>
+        <li><a href="http://www.ucalgary.ca/currentstudents/uthisweek">U This Week</a></li>
+        <li><a href="http://www.umag.ca/" target="_blank">U Magazine</a></li>
+        <li><a href="http://www.ucalgary.ca/pubs/calendar/">University Calendar</a></li>
+      </ul>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+</div>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2f1f7a5441","applicationID":"8224422","transactionName":"ZFQHZhNQDEoDUUdZDF0eJFEVWA1XTUddWRdaQjpbD0UHXhBTR1kMXW4VQA5XC1UHbUNRBFY=","queueTime":0,"applicationTime":148,"atts":"SBMEEFtKH0Q=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button type="button" id="cboxClose"></button></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>

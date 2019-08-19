@@ -1,0 +1,581 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="yui3-js-enabled gecko vers_53" lang="en"><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important"></div><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" src="https://bam.nr-data.net/1/fdb7f95f47?a=9281355&amp;v=1026.7a27a3e&amp;to=bwFaMBZSXUoCUEEIDFZLbRYNHFpXB1ZNTxNQFA%3D%3D&amp;rst=6295&amp;ref=https://www.hks.harvard.edu/about/faculty-staff-directory/malcolm-sparrow/(page)/faculty&amp;ap=526&amp;be=2390&amp;fe=6285&amp;dc=4847&amp;perf=%7B%22timing%22:%7B%22of%22:1498008022279,%22n%22:0,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22ce%22:0,%22rq%22:0,%22rp%22:0,%22rpe%22:0,%22dl%22:2382,%22di%22:4844,%22ds%22:4846,%22de%22:4873,%22dc%22:6284,%22l%22:6284,%22le%22:6285%7D,%22navigation%22:%7B%7D%7D&amp;at=Q0ZZRl5ITkQ%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MZZKCB"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<!--[if lte IE 8]><meta name="ie-detect" content="ie-legacy" /><![endif]-->
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, width=device-width">
+<meta name="apple-mobile-web-app-capable" content="yes">
+			  				<meta name="author" content="Harvard Kennedy School">
+					<meta name="copyright" content="Harvard Kennedy School">
+					<meta name="description" content="">
+					<meta name="keywords" content="">
+					<meta name="robots" content="">
+	
+
+		<meta property="og:title" content="Malcolm Sparrow">
+	<meta property="og:url" content="https://www.hks.harvard.edu/about/faculty-staff-directory/malcolm-sparrow">
+ 
+			
+	
+			
+	
+<title>Harvard Kennedy School - Malcolm Sparrow</title>
+	<link rel="stylesheet" href="/extension/ksgmain/design/ksgmain/stylesheets/ez.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/extension/ksgmain/design/ksgmain/stylesheets/basic.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/extension/ksgmain/design/ksgmain/stylesheets/common.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/extension/ksgmain/design/ksgmain/stylesheets/layout.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/extension/ksgmain/design/ksgmain/stylesheets/sections.css" type="text/css" media="all">	
+
+	<link rel="stylesheet" href="/extension/ksgmain/design/ksgmain/stylesheets/print.css" type="text/css" media="print">
+	<!--[if lte IE 8]><link rel="stylesheet" href="/extension/ksgmain/design/ksgmain/stylesheets/ie-legacy.css" type="text/css" media="all" /><![endif]-->
+	<link rel="Shortcut icon" href="/extension/ksgmain/design/ksgmain/images/favicon.ico" type="image/x-icon">
+
+
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> 
+	
+
+	<script type="text/javascript" src="/extension/ksgmain/design/ksgmain/javascript/bf-navigation-hks.js"></script>
+	
+
+
+    	 
+	<link rel="stylesheet" href="/extension/ksgmain/design/ksgmain/stylesheets/responsive-load.css" type="text/css" media="all">
+	<script type="text/javascript" src="/extension/ksgmain/design/ksgmain/javascript/responsive.js"></script>
+		<link rel="stylesheet" type="text/css" href="/extension/ezwt/design/standard/stylesheets/websitetoolbar.css">
+<link rel="stylesheet" type="text/css" href="/extension/ksgmain/design/ksgmain/stylesheets/ez_edit.css">
+
+
+<script type="text/javascript" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/yui/yui-min.js" charset="utf-8"></script>
+<script type="text/javascript">
+var YUI3_config = {"base":"\/extension\/ezjscore\/design\/standard\/lib\/yui\/3.17.2\/build\/","combine":false,"modules":{}};
+</script>
+<script type="text/javascript" src="/extension/ezdemo/design/ezdemo/javascript/init_ua.js" charset="utf-8"></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_2" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/oop/oop-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_3" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-custom-base/event-custom-base-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_4" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-base/event-base-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_5" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/dom-core/dom-core-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_6" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/dom-base/dom-base-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_7" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/selector-native/selector-native-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_8" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/selector/selector-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_9" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/node-core/node-core-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_10" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/dom-style/dom-style-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_11" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/node-base/node-base-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_12" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-delegate/event-delegate-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_13" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-custom-complex/event-custom-complex-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_14" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-synthetic/event-synthetic-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_15" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-mousewheel/event-mousewheel-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_16" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-mouseenter/event-mouseenter-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_17" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-key/event-key-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_18" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-focus/event-focus-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_19" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-resize/event-resize-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_20" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-hover/event-hover-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_21" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-outside/event-outside-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_22" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-touch/event-touch-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_23" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-move/event-move-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_24" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-flick/event-flick-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_25" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-valuechange/event-valuechange-min.js" async=""></script><script charset="utf-8" id="yui_3_17_2_1_1498008027057_26" src="/extension/ezjscore/design/standard/lib/yui/3.17.2/build/event-tap/event-tap-min.js" async=""></script>
+<script type="text/javascript" src="/extension/ezdemo/design/ezdemo/javascript/handle_transition.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/ezdemo/design/ezdemo/javascript/toggle_class.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/ezdemo/design/ezdemo/javascript/ezflyout.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/ezdemo/design/ezdemo/javascript/ezsimplegallery.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/ezdemo/design/ezdemo/javascript/ezgallerynavigator.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/ezdemo/design/ezdemo/javascript/ezgallery.js" charset="utf-8"></script>
+
+
+		<!-- use: jQuery('.migration-toolbar').show(); -->
+	</head><body class="ui-navigation node-12815 object-8335 class-ksg_people_detail"><div class="migration-toolbar" style="display:none;">
+		<link rel="stylesheet" href="/extension/ksgmain/design/ksgmain/stylesheets/debug.css" type="text/css" media="all">
+		<script type="text/javascript" src="/extension/ksgmain/design/ksgmain/javascript/bf_testing.js"></script>
+		<a href="https://www.hks.harvard.edu/about/faculty-staff-directory/malcolm-sparrow" target="original">View on HKS</a> <br>		
+				<div class="responsive-on" style="">Responsive On</div>
+		<div class="responsive-off" style="display:none;">Responsive Off</div>
+		(<a href="#debug" onclick="showPageDebug();">debug</a>)<br>
+		<div class="server-info">CMS-WFE-2</div>
+	</div>
+<!-- Chartbeat (top) -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+<!-- Google Analytics (transitional) -->
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3579735-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<!-- Google Universal Analytics -->
+<script>
+var _gaq = [['_setAccount', 'UA-3579735-1'], ['_trackPageview']];
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+{ (i[r].q=i[r].q||[]).push(arguments)}
+,i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', _gaq, 'auto');
+ga('send', 'pageview');
+
+</script>
+
+<!-- Google Tag Manager ( dataLayer ) -->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MZZKCB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZZKCB');</script>
+<!-- End Google Tag Manager -->
+	
+
+
+
+
+
+
+
+<div id="AccessibilityLinks">
+	<a name="PageTop" id="PageTop"></a>
+	<p><strong>Jump to:</strong><a href="#ContentTop" title="Skip to this page's main content">Page Content</a></p>
+</div>
+
+  
+<div id="PageWrapper" class="staff-detail">
+	<div id="LayoutWrapper" class="">
+
+                		<!-- BEGIN: header -->
+		<div id="HeaderWrapper">
+
+			<div id="SiteLogo"><a href="/"><img src="/extension/ksgmain/design/ksgmain/images/logo.ksg.gif" alt="Kennedy School Logo" title="Harvard Kennedy School - John F. Kennedy School of Government"></a></div>
+
+			<!-- BEGIN: aux nav -->
+			
+			<!-- END: aux nav -->
+			
+			<!-- BEGIN: site search -->
+  
+  <!-- END: site search -->                        <!-- BEGIN: main nav -->
+
+		<form name="site_search_form" id="site_search_form" action="/content/search" method="get">
+    <fieldset>
+      <legend>Search this site</legend>
+
+      <div class="Field">
+        <label for="search_terms" class="Invisible">Search Terms</label>
+        <input name="SearchText" id="search_terms" value="" class="TextInput" type="text">
+      </div>
+
+      <div class="FormAction">
+        <input src="/extension/ksgmain/design/ksgmain/images/button.search.gif" value="Search" type="image">
+      </div>
+    </fieldset>    
+
+      </form><ul id="MainNav" class="DHTMLMenu">
+							        			    									        			    									        			    									        			    									        			    									        			    		<li id="mainnav_about-us" class="Selected">
+		      		<a href="/about"><span>About Us</span></a>
+    										<div class="SubNav">
+				<ul>
+					        					                  						<li><a href="/about/history">History</a></li>
+          						                  						<li><a href="/about/faculty">Faculty</a></li>
+          						        					                  						<li><a href="/about/alumni">Alumni Relations</a></li>
+          						                  						<li><a href="/about/why-hks">Why Harvard Kennedy School?</a></li>
+          						                  						<li><a href="/about/admin">Administrative Offices</a></li>
+          						                  						<li><a href="/about/faculty-staff-directory">Faculty &amp; Staff Directory</a></li>
+          						                              <li><a href="http://employment.harvard.edu/">Employment</a></li>
+          						                  						<li><a href="/about/title-ix">Title IX Policies and Procedures</a></li>
+          						                  						<li><a href="/about/tour">Campus Virtual Tour</a></li>
+          						                  						<li><a href="/about/contact">Contact Us</a></li>
+          										</ul>
+			</div>
+		 </li>
+		    									        			    		<li id="mainnav_news-events">
+		      		<a href="/news-events"><span>News &amp; Events</span></a>
+    										<div class="SubNav">
+				<ul>
+					        					        					                  						<li><a href="/news-events/news">News</a></li>
+          						                  						<li><a href="/news-events/events-calendar">Events Calendar</a></li>
+          						                  						<li><a href="/news-events/media-experts">Media Experts Guide</a></li>
+          						        					                  						<li><a href="/news-events/publications">News Publications</a></li>
+          						                  						<li><a href="/news-events/multimedia">Video and Multimedia</a></li>
+          						                  						<li><a href="/news-events/social-media">Social Media, Blogs and RSS </a></li>
+          						                  						<li><a href="/news-events/contact">Contact</a></li>
+          						        									</ul>
+			</div>
+		 </li>
+		    									        			    		<li id="mainnav_degree-programs">
+		      		<a href="/degrees"><span>Degree Programs</span></a>
+    										<div class="SubNav">
+				<ul>
+					                  						<li><a href="/degrees/admissions">Admissions</a></li>
+          						                  						<li><a href="/degrees/masters">Master's Degrees</a></li>
+          						                  						<li><a href="/degrees/phd">Doctoral Programs</a></li>
+          						                  						<li><a href="/degrees/sfs">Student Financial Services</a></li>
+          						                  						<li><a href="/degrees/registrar">Registrar</a></li>
+          						                  						<li><a href="/degrees/teaching-courses">Teaching &amp; Courses</a></li>
+          						                  						<li><a href="/degrees/office-of-career-advancement">Office of Career Advancement</a></li>
+          						                  						<li><a href="/degrees/life">Student Life</a></li>
+          						                  						<li><a href="/degrees/diversity">Office for Student Diversity and Inclusion</a></li>
+          										</ul>
+			</div>
+		 </li>
+		    									        			    		<li id="mainnav_executive">
+		  		    <a href="http://exed.hks.harvard.edu/"><span>Executive Education</span></a>
+		  									<div class="SubNav">
+				<ul>
+					                              <li><a href="http://exed.hks.harvard.edu/Programs/By_Date.aspx">Programs</a></li>
+          						                              <li><a href="http://exed.hks.harvard.edu/HKS_Advantage/Curriculum.aspx">Advantage of Executive Education</a></li>
+          						                              <li><a href="http://exed.hks.harvard.edu/Admissions/Process.aspx">Admissions</a></li>
+          						                              <li><a href="http://exed.hks.harvard.edu/FAQ/Housing.aspx">FAQs</a></li>
+          						                              <li><a href="http://exed.hks.harvard.edu/Alumni/Alumni_Spotlight.aspx">Alumni</a></li>
+          						                              <li><a href="http://exed.hks.harvard.edu/HKS_Advantage/Faculty.aspx">Faculty</a></li>
+          										</ul>
+			</div>
+		 </li>
+		    									        			    		<li id="mainnav_research">
+		      		<a href="/research-publications"><span>Research &amp; Publications</span></a>
+    										<div class="SubNav">
+				<ul>
+					        					                              <li><a href="https://research.hks.harvard.edu/publications/workingpapers/By_Number.aspx">Faculty Research Working Paper Series</a></li>
+          						                              <li><a href="https://research.hks.harvard.edu/publications/index.aspx">Faculty Research Connection</a></li>
+          						                              <li><a href="http://www.case.hks.harvard.edu/">The Case Program</a></li>
+          						                  						<li><a href="/research-publications/publications">Publications</a></li>
+          						                              <li><a href="/degrees/life/studentpubs">Student Publications</a></li>
+          						                              <li><a href="https://www.hks.harvard.edu/library/">Harvard Kennedy School Library</a></li>
+          						                  						<li><a href="/research-publications/vbt">HKS Library Virtual Book Tour</a></li>
+          						                  						<li><a href="/research-publications/research-central">Research Central</a></li>
+          										</ul>
+			</div>
+		 </li>
+		    									        			    		<li id="mainnav_centers">
+		      		<a href="/centers-programs"><span>Centers &amp; Programs</span></a>
+    										<div class="SubNav">
+				<ul>
+					                  						<li><a href="/centers-programs/centers">Centers</a></li>
+          						                  						<li><a href="/centers-programs/programs">Programs</a></li>
+          						                  						<li><a href="/centers-programs/by-topic">By Topic</a></li>
+          										</ul>
+			</div>
+		 </li>
+		    									        			    									        			    									        			    									        			    									        			    									        			    									        			    			</ul><p id="AuxNav">
+				<a href="/about/faculty-staff-directory" class="directory">
+					<span>Directory</span>
+				</a> <span>&nbsp;|&nbsp;</span>
+				<a href="/about/contact" class="contact-us">
+					<span>Contact Us</span>
+				</a> <span>&nbsp;|&nbsp;</span> 
+				<a href="https://knet.hks.harvard.edu" class="intranet">
+					<span>Intranet</span>
+				</a> <span>&nbsp;|&nbsp;</span> 
+				<a href="http://www.harvard.edu/" class="harvard-univ">
+					<span>Harvard University</span>
+				</a>
+        			</p></div>
+		<!-- END: header -->
+
+		<hr>
+
+		<!-- BEGIN: body -->
+		<div id="BodyWrapper">
+
+						<!-- END: nav column -->
+				<div id="NavColumn"><div id="SideNav">
+ <div id="SideNavHeader">About Us</div>
+  <ul>
+                                    <li><a href="/about/history"><span>History</span></a></li>
+                                      <li><a href="/about/faculty"><span>Faculty</span></a></li>
+                                            <li><a href="/about/alumni"><span>Alumni Relations</span></a></li>
+                                      <li><a href="/about/why-hks"><span>Why Harvard Kennedy School?</span></a></li>
+                                      <li><a href="/about/admin"><span>Administrative Offices</span></a></li>
+                                      <li class="Selected"><a href="/about/faculty-staff-directory"><span>Faculty &amp; Staff Directory</span></a></li>
+                       
+                <li><a href="http://employment.harvard.edu/"><span>Employment</span></a></li>
+                                      <li><a href="/about/title-ix"><span>Title IX Policies and Procedures</span></a></li>
+                                      <li><a href="/about/tour"><span>Campus Virtual Tour</span></a></li>
+                                      <li><a href="/about/contact"><span>Contact Us</span></a></li>
+                </ul>
+</div>
+											
+
+
+                  
+   	
+
+<!-- BEGIN: side nav -->
+
+<!-- END: side nav -->					            
+						                            
+  
+
+            <!-- BEGIN: feature -->
+<div class="Feature ">	<h3>
+Social Media, Blogs and RSS</h3>
+	
+
+
+
+
+    
+        
+    
+                <img src="/var/ezp_site/storage/images/all-promos/social-media,-blogs-and-rss/992554-4-eng-US/social-media,-blogs-and-rss_ksgpromo.jpg" class="Thumbnail" alt="smart phone image" title="smart phone image" width="84" height="56">    
+    
+    
+    	<p>HKS social media presence</p>
+	<div class="LinkMore">
+		<a href="https://www.hks.harvard.edu/news-events/social-media"><img src="/extension/ksgmain/design/ksgmain/images/link.more.gif" alt="HKS social media presence"></a>
+	</div></div>
+<!-- END: feature -->          <!-- BEGIN: feature -->
+<div class="Feature ">	<h3>
+HKS PolicyCast</h3>
+	
+
+
+
+
+    
+        
+    
+                <img src="/var/ezp_site/storage/images/all-promos/hks-policycast/997129-1-eng-US/hks-policycast_ksgpromo.jpg" class="Thumbnail" alt="policy cast image" title="policy cast image" width="84" height="56">    
+    
+    
+    	<p>A weekly podcast featuring voices from HKS and beyond.</p>
+	<div class="LinkMore">
+		<a href="http://ken.sc/plcycst"><img src="/extension/ksgmain/design/ksgmain/images/link.more.gif" alt="HKS PolicyCast"></a>
+	</div></div>
+<!-- END: feature -->  				</div><div id="MainColumn">
+				<a id="ContentTop" name="ContentTop"><!-- link target --></a>
+																																			            			              			                <p id="Breadcrumb">
+			              			            						<!-- START: Path Breadcrumb -->			<a href="/">Home</a>
+		 &gt; 			<a href="/about">About Us</a>
+		 &gt; 			<a href="/about/faculty-staff-directory">Faculty &amp; Staff Directory</a>
+		 &gt; 			Malcolm Sparrow		<!-- END: Path Breadcrumb -->
+						</p>
+													
+				
+				 
+
+<!-- BEGIN: content -->
+<div id="ContentBody">
+  
+  <div id="staff-details">
+    
+    <div class="Header">
+
+	<h1>Malcolm Sparrow</h1>
+	
+
+	<div id="staff-title">Professor of Practice of Public Management<br>
+Program in Criminal Justice Policy and Management,<br>
+Malcolm Wiener Center for Social Policy</div>
+    </div>
+    
+    <div class="ColumnWrapper">
+      <div class="Column">
+        <dl>
+          <dt>Office Address</dt>
+                    <dd>Littauer-206</dd>
+					        </dl>
+        <dl>
+          <dt>Mailing Address</dt>
+          <dd>
+                          John F. Kennedy School of Government<br>
+            			 
+			   Mailbox 10<br>
+			                          79 JFK Street<br>
+                        Cambridge, MA 02138          </dd>
+        </dl>
+      </div>
+      <div class="Column">
+        <dl>
+          <dt>Contact</dt>
+			<dd>
+            				Phone: 617-495-8359<br>
+			            				Fax: 617-496-6372<br>
+			            				Email: <a href="mailto:malcolm_sparrow@Harvard.Edu">
+					malcolm_sparrow@Harvard.Edu</a>
+					   	</dd>
+        </dl>
+		 
+        <dl>
+          <dt>Assistant</dt>
+                      <dd>
+                              <a href="/about/faculty-staff-directory/jennifer-valois">Jennifer Valois</a>
+                                            (617-495-1339)
+                          </dd>
+           
+        </dl>
+		      </div>
+	  <div class="ClearFix"></div>
+	  <div id="staff-other-links">
+	      				<span class="First">
+				<a href="https://www.hks.harvard.edu/fs/msparrow/">Personal web site</a>
+			</span>
+				
+					<span>
+				<a href="https://www.hks.harvard.edu/fs/msparrow/documentsin%20use/cv-malcolm%20sparrow.pdf">CV</a>
+			</span>
+		
+	      		  </div>
+    </div>
+    <!-- END: ColumnWrapper -->
+    
+  </div>
+  <!-- END: staff-details -->
+      <img src="http://apps.hks.harvard.edu/faculty/images/bio/1090.jpg" alt="Malcolm Sparrow">
+    
+  <div class="ClearFix"></div>
+  
+      <h2>Profile</h2>
+    <p></p><p>
+  </p><p>Malcolm K.
+Sparrow is Professor of the Practice of Public Management at
+Harvard’s John F. Kennedy School of Government.&nbsp; He is Faculty
+Chair of the school’s executive program “Strategic Management of
+Regulatory and Enforcement Agencies.”&nbsp; Professor Sparrow’s
+recent publications include:</p>
+  <p>•<em>The Character of Harms: Operational
+Challenges in Control</em>(Cambridge University Press, 2008)</p>
+  <p>•<em>The Regulatory Craft: Controlling Risks,
+Solving Problems, and Managing Compliance</em> (Brookings Press,
+2000)</p>
+  <p>•<em>License to Steal: How Fraud Bleeds America's
+Health Care System</em> (Westview Press, 2000)</p>
+  <p>He served 10
+years with the British Police Service, rising to the rank of
+Detective Chief Inspector. He has conducted internal affairs
+investigations, commanded a tactical firearms unit, and has
+extensive experience with criminal investigation. His research
+interests include regulatory and enforcement strategy, fraud
+control, corruption control, and operational risk management. He is
+also a patent-holding inventor in the area of computerized
+fingerprint analysis and is dead serious at tennis. He holds an MA
+in mathematics from Cambridge University, an MPA from the Kennedy
+School, and a PhD in Applied Mathematics from Kent University at
+Canterbury.</p><p></p>
+  
+            
+  
+    
+    <div class="ClearFix"></div>
+      
+          <h2>Media Expertise</h2>
+      <p>Malcolm Sparrow welcomes media inquiries on the following subjects:</p>
+      <ul id="staff-media-subjects">
+		        						<li>
+							<a href="/news-events/media-experts/social-policy/justice/criminal-justice/fraud-fraud-controls">Fraud/Fraud Controls</a>
+						</li>
+          
+        						<li>
+							<a href="/news-events/media-experts/social-policy/justice/criminal-justice/police">Police</a>
+						</li>
+          
+        						<li>
+							<a href="/news-events/media-experts/law-regulation/regulation">Regulation</a>
+						</li>
+          
+        						<li>
+							<a href="/news-events/media-experts/law-regulation/regulation/regulatory-process">Regulatory Process</a>
+						</li>
+          
+        						<li>
+							<a href="/news-events/media-experts/economy-business/finance/risk-management">Risk Management</a>
+						</li>
+          
+              </ul>
+      <p>Additional experts may be found by clicking on each subject listed. You may contact faculty directly or if you need assistance contact the Communications Office at 617-495-1115.</p>
+      
+          <h2>Research</h2>
+      <p>For a complete list of faculty citations from 2001 - present, please visit the <a href="https://research.hks.harvard.edu/publications/index.aspx">HKS Faculty Research Connection</a>.</p>
+      
+      <h3>Selected Publication Citations:</h3>
+        
+      <ul id="staff-publications-list">
+                  <li>Magazine and Newspaper Articles
+            <ul>
+            			<li>
+				Sparrow, Malcolm K. "Moving Beyond Bratton." <i>New York Times.</i>
+August 8, 2016.
+			</li>
+                        </ul>
+          </li>
+              </ul>
+      
+</div>
+<!-- END: content -->
+
+<div id="SideColumn">
+  <p>
+  					    <a href="/about/faculty">&lt; return to faculty</a>
+	    </p>
+</div>
+
+
+				
+				
+<!-- START: object_js --><!-- STOP: object_js -->
+
+
+				<!-- Object Modified: 2015-03-27 -->
+				<div class="ClearFix"><!--DO NOT REMOVE--></div>
+			</div>
+			<!-- END: nav column -->
+			
+			<!-- BEGIN: main column -->
+
+			
+			<!-- section_styles START: -->
+
+		
+	
+					
+									
+									
+									
+									
+							
+	 
+			<!-- No styles found -->
+		<!-- section_styles END: -->
+			
+			
+<!-- START: object_css --><!-- STOP: object_css -->
+
+			
+			<!-- END: main column -->
+			<div class="ClearFix"><!--DO NOT REMOVE--></div>
+		</div>
+		<!-- END: body -->
+
+		<hr>
+
+                <!-- BEGIN: footer -->
+<div id="FooterWrapper">
+
+<ul id="FooterNav">
+<li id="footernav_privacy"><a href="/privacy">Privacy Statement</a></li>
+<!--<li id="footernav_copyright"><a href="/copyright">Copyright</a></li>--><li id="footernav_sitemap"><a href="/content/view/sitemap/2">Site Map</a></li>
+</ul>
+
+<div id="copyright">Copyright © 2017 The President and Fellows of Harvard College</div><!-- required for responsive -->
+</div>
+<!-- END: footer -->
+	</div>
+</div>
+
+<address id="contact-info" class="vcard"> <!-- http://microformats.org/wiki/hcard -->
+
+	<span class="address-wrapper">
+		<a class="fn org url" title="John F. Kennedy School of Government" href="/">John F. Kennedy School of Government</a>
+		<span class="adr">
+			<span class="street-address">79 John F. Kennedy Street</span><br>
+			<span class="locality">Cambridge</span>, <span class="country-name"><abbr title="Massachusetts">MA</abbr></span> <span class="postal-code">02138</span>
+		</span> <!-- end .adr -->
+		<a href="mailto:" class="email"></a>
+		<a href="tel:6174951100" tel="+6174951100" class="tel">617-495-1100</a>
+		<img class="map" src="/extension/ksgmain/design/ksgmain/images/map.png">
+		<a href="https://www.hks.harvard.edu/about/contact#heading_03" class="directions">Get Directions</a>
+		<a href="https://www.hks.harvard.edu/about/contact" class="full-contanct-info">Visit Contact Page</a>
+	</span> <!-- end .address-wrapper -->
+</address><!-- Footer Scripts -->
+<!-- Chartbeat (bottom) -->
+<script type="text/javascript">
+var _sf_async_config=
+{uid:7701,domain:"hks.harvard.edu",useCanonical:true}
+;
+(function(){
+function loadChartbeat()
+{ window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); }
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function()
+{ oldonload(); loadChartbeat(); }
+;
+})();
+</script>
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fdb7f95f47","applicationID":"9281355","transactionName":"bwFaMBZSXUoCUEEIDFZLbRYNHFpXB1ZNTxNQFA==","queueTime":0,"applicationTime":526,"atts":"Q0ZZRl5ITkQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>

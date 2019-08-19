@@ -1,0 +1,528 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Comparative Biomechanics at Friday Harbor Laboratories</title>
+<meta name="viewport" content="width = 960, minimum-scale = 0.25, maximum-scale = 1.60">
+<meta name="generator" content="Freeway 5 Pro 5.4.2">
+<meta name="description" content="The comparative biomechanics lab at Friday Harbor applies principles from engineering and physics to living systems to better understand mechanics, materials and structure as well as evolutionary processes. We mostly work on cartilaginous fish, amphibians and reptiles.">
+<meta name="keywords" content="comparative biomechanics, adam summers, fish biomechanics, shark biomechanics, marine biomechanics, shark anatomy, shark biomaterials, marine biomaterials, marine smart materials, fish smart materials, Friday Harbor Labs">
+<style type="text/css">
+<!-- 
+body { margin:0px; height:100% }
+html { height:100% }
+img { margin:0px; border-style:none }
+button { margin:0px; border-style:none; padding:0px; background-color:transparent; vertical-align:top }
+p:first-child { margin-top:0px }
+table { empty-cells:hide }
+.f-sp { font-size:1px; visibility:hidden }
+.f-lp { margin-bottom:0px }
+.f-fp { margin-top:0px }
+.f-x1 {  }
+.f-x2 {  }
+.f-x3 {  }
+a:link { color:#000; text-decoration:underline }
+a:visited { color:#aaa; text-decoration:underline }
+a:hover { color:#000; text-decoration:underline }
+a:active { text-decoration:none }
+#LeftNav a:link { color:#39275b; font-family:Arial,Helvetica,sans-serif; text-decoration:none; font-size:14px }
+#LeftNav a:visited { color:#39275b; font-family:Arial,Helvetica,sans-serif; text-decoration:none; font-size:14px }
+#LeftNav a:hover { color:#d7a900; font-family:Arial,Helvetica,sans-serif; font-weight:bold; text-decoration:none; font-size:14px }
+#LeftNav a:active { color:#d7a900; font-family:Arial,Helvetica,sans-serif; font-weight:bold; text-decoration:none; font-size:14px }
+a:link { color:#000; font-weight:bold; text-decoration:underline }
+a:visited { color:#aaa; font-weight:bold; text-decoration:underline }
+a:hover { color:#d7a900; font-weight:bold }
+a:active { color:#000; font-weight:bold }
+em { font-style:italic }
+h1 { color:#d7a900; font-weight:bold; font-size:18px }
+h1:first-child { margin-top:0px }
+h1 { color:#d7a900; font-weight:bold; font-size:18px }
+h1:first-child { margin-top:0px }
+h1 { color:#d7a900; font-weight:bold; font-size:18px }
+h1:first-child { margin-top:0px }
+h1 { color:#d7a900; font-weight:bold; font-size:18px }
+h1:first-child { margin-top:0px }
+h1 { color:#d7a900; font-weight:bold; font-size:18px }
+h1:first-child { margin-top:0px }
+h2 { color:#000; font-weight:bold; font-size:16px }
+h2:first-child { margin-top:0px }
+h3 { color:#d7a900; font-weight:bold; font-size:14px }
+h3:first-child { margin-top:0px }
+h4 { color:#000; font-weight:bold }
+h4:first-child { margin-top:0px }
+strong { font-weight:bold }
+.BodyText { color:#333; font-family:Arial,Helvetica,sans-serif; font-size:12px; text-indent:0px }
+.style4 { font-family:Arial,Helvetica,sans-serif; font-size:xx-small; text-align:center }
+.style3 { color:#fff }
+.style15 { font-size:x-small }
+.style16 { color:#000; font-family:Arial,Helvetica,sans-serif; font-size:xx-small; text-align:center }
+.LeftNavTxt { font-family:Arial,Helvetica,sans-serif; font-size:14px; margin-left:10px; margin-bottom:0.1px }
+.style33 { font-size:14px }
+.style12 { color:#d7a900 }
+-->
+</style>
+<!--[if lt IE 7]>
+<link rel=stylesheet type="text/css" href="css/ie6.css">
+<![endif]-->
+
+<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script type="text/javascript">//<![CDATA[
+var usingIEFix = false;
+//]]></script>
+
+<!--[if lt IE 7]>
+<script type="text/javascript">//<![CDATA[
+usingIEFix = true;
+//]]></script>
+<![endif]-->
+
+
+<script type="text/javascript">//<![CDATA[
+
+function FWStripFileFromFilterString(filterString)
+{
+	var start,end;
+	var strSrc = "src='";
+	var strRes = "";
+
+	start = filterString.indexOf(strSrc);
+
+	if(start != -1)
+	{
+		start += strSrc.length;
+		
+		end = filterString.indexOf("',",start);
+		if(end != -1)
+		{
+			strRes = filterString.substring(start,end);
+		}
+	}
+
+	return strRes;
+}
+
+
+var fwIsNetscape = navigator.appName == 'Netscape';
+
+
+fwLoad = new Object;
+function FWLoad(image)
+{
+	if (!document.images)
+		return null;
+	if (!fwLoad[image])
+	{
+		fwLoad[image]=new Image;
+		fwLoad[image].src=image;
+	}
+	return fwLoad[image].src;
+}
+
+
+fwRestore = new Object;
+function FWRestore(msg,chain) 
+{
+	if (document.images) 
+		for (var i in fwRestore)
+		{
+			var r = fwRestore[i];
+			if (r && (!chain || r.chain==chain) && r.msg==msg)
+			{
+				r.src = FWLoad(r.old);
+				fwRestore[i]=null;
+			}
+		}
+}
+
+
+function FWLSwap(name,msg,newImg,layer,chain,trigger) 
+{
+	var r = fwRestore[name];
+	if (document.images && (!r || r.msg < msg)) 
+	{
+		var uselayers = fwIsNetscape && document.layers && layer != '';
+		var hld;
+		if (uselayers)
+			hld = document.layers[layer].document;
+		else
+			hld = document;
+		var im = hld.getElementById(name);
+		if (!im.old)
+		{
+			if(usingIEFix && im.runtimeStyle.filter)
+				im.old = FWStripFileFromFilterString(im.runtimeStyle.filter);
+			else
+				im.old = im.src;
+		}
+		
+		im.msg = msg;
+		im.chain = chain;
+		im.trigger = trigger;
+		if (newImg) im.src = FWLoad(newImg);
+		fwRestore[name] = im;
+	}
+}
+
+
+function FWCallHit(func,targNum,msg)
+{
+	if(func)
+		for (var i in func)
+			func[i](targNum,msg);
+}
+function FW_Hit(frameset,chain,targNum,msg)
+{
+	if (frameset && frameset.length)
+		for (var i=0 ; i <frameset.length ; i++)
+		{
+			try
+			{
+				FW_Hit(frameset[i].frames,chain,targNum,msg);
+				FWCallHit(top["FT_"+chain],targNum,msg);
+				FWCallHit(frameset[i].window["FT_"+chain],targNum,msg);
+			}
+			catch(err)
+			{
+			}
+		}
+	else
+		FWCallHit(window["FT_"+chain],targNum,msg);
+}
+
+
+fwHit = new Object;
+function FWSlave(frameset,chain,targNum,msg)
+{
+	if (msg==1) fwHit[chain]=targNum;
+	FW_Hit(frameset,chain,targNum,1);
+}
+
+function FWSRestore(frameset,chain)
+{
+	var hit=fwHit[chain];
+	if (hit)
+		FW_Hit(frameset,chain,hit,0);
+	fwHit[chain]=null;
+}
+
+function FWPreload()
+{
+	FWLoad("Resources/navlabe.gif");
+	FWLoad("Resources/navlabd.gif");
+	FWLoad("Resources/navpple.gif");
+	FWLoad("Resources/navppld.gif");
+	FWLoad("Resources/navresrche.gif");
+	FWLoad("Resources/navresrchd.gif");
+	FWLoad("Resources/navpube.gif");
+	FWLoad("Resources/navpubd.gif");
+	FWLoad("Resources/navpopscie.gif");
+	FWLoad("Resources/navpopscid.gif");
+	FWLoad("Resources/navnewse.gif");
+	FWLoad("Resources/navnewsd.gif");
+}
+//]]></script><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-moz-user-select:none;white-space:nowrap}.gsst_e{opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gscsep_a{display:none}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gsfe_a{border:1px solid #b9b9b9;border-top-color:#a0a0a0;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.1);}.gsfe_b{border:1px solid #4d90fe;outline:none;box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-moz-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);-webkit-box-shadow:inset 0px 1px 2px rgba(0,0,0,0.3);}.gssb_a{padding:0 7px}.gssb_e{border:0}.gssb_l{margin:5px 0}#gsc-i-id1::-webkit-input-placeholder{font-size:14px}#gsc-i-id1:-moz-placeholder{font-size:14px}#gsc-i-id1::-moz-placeholder{font-size:14px}#gsc-i-id1:-ms-input-placeholder{font-size:14px}#gsc-i-id1:focus::-webkit-input-placeholder{color:transparent}#gsc-i-id1:focus:-moz-placeholder{color:transparent}#gsc-i-id1:focus::-moz-placeholder{color:transparent}#gsc-i-id1:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style></head>
+<body class="BodyText" onload="FWPreload()">
+<div id="PageDiv" style="position:relative; min-height:100%; margin:auto; width:960px">
+	<table width="953" cellspacing="0" cellpadding="0" border="0">
+		<colgroup>
+			<col width="10">
+			<col width="160">
+			<col width="80">
+			<col width="100">
+			<col width="20">
+			<col width="100">
+			<col width="20">
+			<col width="100">
+			<col width="20">
+			<col width="100">
+			<col width="1">
+			<col width="19">
+			<col width="100">
+			<col width="20">
+			<col width="100">
+			<col width="2">
+			<col width="1">
+		</colgroup>
+		<tbody><tr valign="top">
+			<td colspan="3" height="9"></td>
+			<td colspan="8" rowspan="2" height="60"><img src="Resources/uwsignatureleftwb.jpeg" alt="University of Washington" style="float:left" width="461" height="60" border="0"></td>
+			<td colspan="5" rowspan="2" height="60"></td>
+			<td height="9"></td>
+		</tr>
+		<tr valign="top">
+			<td rowspan="8" height="209"></td>
+			<td rowspan="5" height="114"><a href="index.html" title="Comparative biomechanics lab home page"><img src="Resources/stingray1ab.gif" alt="Comparative biomechanics lab home" style="float:left" width="160" height="114" border="0"></a></td>
+			<td height="51"></td>
+			<td height="51"></td>
+		</tr>
+		<tr valign="top">
+			<td colspan="14" height="1"></td>
+			<td height="1"></td>
+		</tr>
+		<tr valign="top">
+			<td height="54"></td>
+			<td colspan="13" height="54"><img src="Resources/head-txt2b.gif" alt="Comparative biomechanics lab" style="position:relative; left:2px; top:1px; float:left" width="698" height="53" border="0"></td>
+			<td height="54"></td>
+		</tr>
+		<tr valign="top">
+			<td colspan="14" height="3"></td>
+			<td height="3"></td>
+		</tr>
+		<tr valign="top">
+			<td height="5"></td>
+			<td rowspan="2" height="79"><a href="biomechanics-lab-info.html" title="Comparative Vertebrate Biomechanics Lab at Friday Harbor"><img src="Resources/hammerheadb.jpeg" alt="Comparative biomechanics lab" style="float:left" width="100" height="79" border="0"></a></td>
+			<td rowspan="2" height="79"></td>
+			<td rowspan="2" height="79"><a href="biomechanics-lab-members.html" title="Comparative biomechanics researchers and students"><img src="Resources/adamb.jpeg" alt="Adam Summers" style="float:left" width="100" height="79" border="0"></a></td>
+			<td rowspan="2" height="79"></td>
+			<td rowspan="2" height="79"><a href="comparative-biomechanics-research.html" title="Comparative biomechanics research"><img src="Resources/researchscanb.jpeg" alt="Biomechanics Research" style="float:left" width="100" height="79" border="0"></a></td>
+			<td rowspan="2" height="79"></td>
+			<td rowspan="2" height="79"><a href="biomechanics-papers.html" title="Comparative biomechanics publications"><img src="Resources/morphologycoversb.jpeg" alt="comparative biomechanics peer reviewed papers" style="float:left" width="100" height="79" border="0"></a></td>
+			<td colspan="2" rowspan="2" height="79"></td>
+			<td rowspan="2" height="79"><a href="biomechanics-articles.html" title="Adam Summers biomechanics writing"><img src="Resources/naturalhistorymab.jpeg" alt="Adam Summers writing for popular press" style="float:left" width="100" height="79" border="0"></a></td>
+			<td rowspan="2" height="79"></td>
+			<td rowspan="2" height="79"><a href="comparative-biomechanics-news.html" title="Comparative biomechanics in the news"><img src="Resources/cbsb.jpeg" alt="comparative biomechanics in the news" style="float:left" width="100" height="79" border="0"></a></td>
+			<td rowspan="2" height="79"></td>
+			<td height="5"></td>
+		</tr>
+		<tr valign="top">
+			<td colspan="2" rowspan="3" height="95"><a href="index.html" title="Comparative biomechanics lab home page"><img src="Resources/stingray2ab.gif" alt="Comparative biomechanics lab home" style="float:left" width="240" height="95" border="0"></a></td>
+			<td height="74"></td>
+		</tr>
+		<tr valign="top">
+			<td colspan="13" height="1"></td>
+			<td height="1"></td>
+		</tr>
+		<tr valign="top">
+			<td height="20"><a href="biomechanics-lab-info.html" title="Comparative Biomechanics Lab" onmouseover="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo');FWLSwap('img1',1,'Resources/navlabd.gif','','Indigo')" onmouseout="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo')"><img src="Resources/navlabe.gif" alt="NavLab" style="float:left" id="img1" width="100" height="20" border="0"></a></td>
+			<td height="20"></td>
+			<td height="20"><a href="biomechanics-lab-members.html" title="Comparative biomechanics scientists" onmouseover="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo');FWLSwap('img2',1,'Resources/navppld.gif','','Indigo')" onmouseout="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo')"><img src="Resources/navpple.gif" alt="NavPpl" style="float:left" id="img2" width="100" height="20" border="0"></a></td>
+			<td height="20"></td>
+			<td height="20"><a href="comparative-biomechanics-research.html" title="Comparative biomechanics research" onmouseover="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo');FWLSwap('img3',1,'Resources/navresrchd.gif','','Indigo')" onmouseout="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo')"><img src="Resources/navresrche.gif" alt="NavResrch" style="float:left" id="img3" width="100" height="20" border="0"></a></td>
+			<td height="20"></td>
+			<td height="20"><a href="biomechanics-papers.html" title="Comparative biomechanics research" onmouseover="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo');FWLSwap('img4',1,'Resources/navpubd.gif','','Indigo')" onmouseout="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo')"><img src="Resources/navpube.gif" alt="NavPub" style="float:left" id="img4" width="100" height="20" border="0"></a></td>
+			<td colspan="2" height="20"></td>
+			<td height="20"><a href="biomechanics-articles.html" title="Comparative biomechanics articles" onmouseover="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo');FWLSwap('img5',1,'Resources/navpopscid.gif','','Indigo')" onmouseout="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo')"><img src="Resources/navpopscie.gif" alt="NavPopSci" style="float:left" id="img5" width="100" height="20" border="0"></a></td>
+			<td height="20"></td>
+			<td height="20"><a href="comparative-biomechanics-news.html" title="Comparative biomechanics in the news" onmouseover="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo');FWLSwap('img6',1,'Resources/navnewsd.gif','','Indigo')" onmouseout="FWRestore(1,'Indigo');FWSRestore(top.frames,'Indigo')"><img src="Resources/navnewse.gif" alt="NavNews" style="float:left" id="img6" width="100" height="20" border="0"></a></td>
+			<td height="20"></td>
+			<td height="20"></td>
+		</tr>
+		<tr class="f-sp">
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="10" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="160" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="80" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="100" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="20" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="100" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="20" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="100" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="20" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="100" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="1" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="19" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="100" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="20" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="100" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="2" height="1" border="0"></td>
+			<td height="657"><img src="Resources/_clear.gif" alt="" style="float:left" width="1" height="1" border="0"></td>
+		</tr>
+	</tbody></table>
+	<table width="951" cellspacing="0" cellpadding="0" border="0">
+		<colgroup>
+			<col width="10">
+			<col width="940">
+			<col width="1">
+		</colgroup>
+		<tbody><tr valign="top">
+			<td height="386"></td>
+			<td height="386">
+				<table width="940" cellspacing="0" cellpadding="0" border="0">
+					<colgroup>
+						<col width="220">
+						<col width="20">
+						<col width="700">
+					</colgroup>
+					<tbody><tr valign="top">
+						<td colspan="3" height="10"></td>
+					</tr>
+					<tr valign="top">
+						<td height="100"><a href="http://www.washington.edu/" title="University of Washington"><img src="Resources/uwwordmarkstacked.jpeg" alt="University of Washinton Home" style="float:left" width="220" height="100" border="0"></a></td>
+						<td height="100"></td>
+						<td height="100" bgcolor="#39275b"><p class="style4 f-lp"><br><br><span class="style3"><a href="http://depts.washington.edu/fhl/" title="Friday Harbor Laboratories"><span class="style3" style="text-decoration:underline"><br><span class="style15">Friday Harbor Laboratories<br></span></span></a><span class="style15">Integrated Center for Marine Biomaterials and Ecomechanics</span></span></p>
+						</td>
+					</tr>
+					<tr class="f-sp">
+						<td><img src="Resources/_clear.gif" alt="" style="float:left" width="220" height="1" border="0"></td>
+						<td><img src="Resources/_clear.gif" alt="" style="float:left" width="20" height="1" border="0"></td>
+						<td><img src="Resources/_clear.gif" alt="" style="float:left" width="700" height="1" border="0"></td>
+					</tr>
+				</tbody></table>
+			</td>
+			<td height="386"></td>
+		</tr>
+		<tr class="f-sp">
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="10" height="1" border="0"></td>
+			<td><img src="Resources/_clear.gif" alt="" style="float:left" width="940" height="1" border="0"></td>
+			<td height="1"><img src="Resources/_clear.gif" alt="" style="float:left" width="1" height="1" border="0"></td>
+		</tr>
+	</tbody></table>
+	<div id="LeftNavHolder" style="position:absolute; left:10px; top:238px; width:220px; height:627px; z-index:1; background-color:#eee; font-size:1px">
+	</div>
+	<div id="LeftNav" class="LeftNavTxt" style="position:absolute; left:20px; top:248px; width:210px; height:408px; z-index:2; overflow:visible">
+		<p><a href="index.html"><span class="style33"><strong><span class="style12">Home</span></strong></span></a></p>
+		<p><a href="People/Adam-Summers-Bio.html">About Adam</a></p>
+		<p><a href="People/Adam-Summers-Consulting.html">Consulting</a></p>
+		<p><a href="People/Adam-Summers-CV.html">CV</a></p>
+		<p><a href="biomechanics-lab-members.html">Lab Personnel</a></p>
+		<p><a href="Research/fundingsupport.html">Funding Support</a></p>
+		<p class="f-lp"><a href="biomechanics-lab-info.html">Contact Info</a></p>
+	</div>
+	<div id="item1" class="f-x2" style="position:absolute; left:250px; top:238px; width:340px; z-index:3; overflow:visible">
+		<h1>Welcome to the Comparative Vertebrate Biomechanics Lab at Friday Harbor Laboratories</h1>
+		<p>In this lab we apply principles from engineering and physics to living systems to better understand mechanics, materials and structure as well as evolutionary processes. A good deal of work that goes on here is on cartilaginous fishes, though there is also a strong interest in amphibians and reptiles. </p>
+		<h1>Principal Investigator</h1>
+		<p>Adam Summers is a professor at the University of Washington’s Friday Harbor Laboratories appointed in the department of Biology and in the School of Aquatic and Fisheries Sciences. </p>
+		<p class="f-lp"> His research is heavily collections based and he holds research associate positions at the Museum of Vertebrate Zoology at UC Berkeley and the Los Angeles County Museum. Current research topics include the evolution and mechanical properties of cartilage and tendon, swimming mechanics of sharks, respiratory patterns of sharks and rays and solid-solid interactions in aquatic organisms. </p>
+	</div>
+	<div id="item2" class="f-x2" style="position:absolute; left:610px; top:238px; width:340px; z-index:4; overflow:visible">
+		<p class="f-lp"><!--
+// Created with FeedSweep Widget feed control v5.0.1.0
+// http://www.FeedSweep.com
+ -->
+<script type="text/javascript" src="http://www.feedsweep.com/Products/FeedSweep/Producer.aspx?feeds=http%3a%2f%2ffhlbiomechanicsnews.blogspot.com%2ffeeds%2fposts%2fdefault&amp;title=Lab+News&amp;datesort=descending&amp;displaydates=false&amp;linktitle=web&amp;cat=4&amp;width=340&amp;includexmlbutton=false&amp;backgroundcolor=%23FFFFFF&amp;linecolor=%23CCCCCC&amp;headercolor=%23000000&amp;titlecolor=%23000000&amp;textcolor=%23444444&amp;datecolor=%23666666&amp;headerfontsize=10&amp;titlefontsize=10&amp;fontsize=8&amp;titlefontstyle=italic&amp;datefontweight=none&amp;datefontstyle=none&amp;key=m8oxtoI9-k-KDu1c748oRg&amp;ver=5.0.1.0"></script><!-- FeedSweep.com v5.0.1.0 --></p><table style="background-color: #FFFFFF; border: 1px solid #CCCCCC;" width="340" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td colspan="2" style="background-color: #CCCCCC; text-align: left; color: #000000; font-family: sans-serif; font-size: 10pt; font-weight: bold; font-style: normal; padding-left: 3px; padding-right: 3px; padding-bottom: 3px; padding-top: 3px; border-color: #CCCCCC;"><a href="http://fhlbiomechanicsnews.blogspot.com/" target="_blank" style="color: #000000">Lab News</a></td></tr><tr><td colspan="2" style="text-align: left; color: #000000; font-family: sans-serif; font-size: 10pt; font-weight: bold; font-style: italic; padding-left: 3px; padding-right: 3px;"><a style="color: #000000;" href="http://fhlbiomechanicsnews.blogspot.com/2010/09/new-material-testing-machine.html" target="_blank">A new material testing machine!</a></td></tr><tr><td colspan="2" style="text-align: left; color: #444444; font-family: sans-serif; font-size: 8pt; font-weight: normal; font-style: normal; padding-left: 3px; padding-right: 3px; padding-bottom: 3px;">The newest testing device has arrived and has been installed. We bought the MUST Biotester by the German test equipment manufacturer Tetra. This tester can measure friction and adhesion in the microne</td></tr><tr><td colspan="2" style="text-align: left; color: #000000; font-family: sans-serif; font-size: 10pt; font-weight: bold; font-style: italic; padding-left: 3px; padding-right: 3px; padding-top: 3px; border-top: 1px solid #CCCCCC;"><a style="color: #000000;" href="http://fhlbiomechanicsnews.blogspot.com/2010/08/ocean-acidifcation-and-biomaterials.html" target="_blank">Ocean Acidifcation and Biomaterials</a></td></tr><tr><td colspan="2" style="text-align: left; color: #444444; font-family: sans-serif; font-size: 8pt; font-weight: normal; font-style: normal; padding-left: 3px; padding-right: 3px; padding-bottom: 3px;">The National Science Foundation has awarded "Effects of ocean acidification on coastal organisms: an ecomaterials perspective" to Emily Carrington (PI) and Adam Summers (Co-PI). The work will support</td></tr><tr><td colspan="2" style="text-align: left; color: #000000; font-family: sans-serif; font-size: 10pt; font-weight: bold; font-style: italic; padding-left: 3px; padding-right: 3px; padding-top: 3px; border-top: 1px solid #CCCCCC;"><a style="color: #000000;" href="http://fhlbiomechanicsnews.blogspot.com/2010/07/nsf-reu-site-grant.html" target="_blank">NSF REU Site Grant!!</a></td></tr><tr><td colspan="2" style="text-align: left; color: #444444; font-family: sans-serif; font-size: 8pt; font-weight: normal; font-style: normal; padding-left: 3px; padding-right: 3px; padding-bottom: 3px;">The National Science Foundation has awarded Friday Harbor Labs a three year grant to bring undergraduate researchers to the labs for the summer. The program will start in in the summer of 2010 and wil...</td></tr><tr><td colspan="2" style="text-align: left; color: #000000; font-family: sans-serif; font-size: 10pt; font-weight: bold; font-style: italic; padding-left: 3px; padding-right: 3px; padding-top: 3px; border-top: 1px solid #CCCCCC;"><a style="color: #000000;" href="http://fhlbiomechanicsnews.blogspot.com/2010/07/new-flume-for-fhl.html" target="_blank">New Flume for FHL</a></td></tr><tr><td colspan="2" style="text-align: left; color: #444444; font-family: sans-serif; font-size: 8pt; font-weight: normal; font-style: normal; padding-left: 3px; padding-right: 3px; padding-bottom: 3px;">The National Science Foundation's Field Station and Marine Labs program has awarded Friday Harbor Labs a grant to purchase a new large working section flume. This water tunnel will be capable of measu...</td></tr><tr><td colspan="2" style="text-align: left; color: #000000; font-family: sans-serif; font-size: 10pt; font-weight: bold; font-style: italic; padding-left: 3px; padding-right: 3px; padding-top: 3px; border-top: 1px solid #CCCCCC;"><a style="color: #000000;" href="http://fhlbiomechanicsnews.blogspot.com/2010/07/aesasih-meeting-providence-ri.html" target="_blank">AES/ASIH Meeting - Providence , RI</a></td></tr><tr><td colspan="2" style="text-align: left; color: #444444; font-family: sans-serif; font-size: 8pt; font-weight: normal; font-style: normal; padding-left: 3px; padding-right: 3px; padding-bottom: 3px;">Some members of the lab went to the American Society of Ichthyologists and Herpetologists meeting. The American Elasmobranch Society met with the Ichs and Herps and both Misty and Joe gave presentatio</td></tr></tbody></table>
+<!-- FeedSweep end --><p></p>
+	</div>
+	<div id="AdamSummersInterview" style="position:absolute; left:250px; top:731px; width:340px; height:120px; z-index:5">
+		<img src="Resources/adamsummersintervb.gif" alt="Adam Summers interview about comparative biomechanics" usemap="#map1" style="position:relative; left:-8px; top:-8px; float:left" width="356" height="136" border="0">
+	</div>
+	<div id="item1a" style="position:absolute; left:710px; top:0px; width:240px; height:60px; z-index:6">
+		<img src="Resources/item1ac.gif" alt="item1a" style="float:left" width="240" height="60" border="0">
+	</div>
+	<div id="Searchthecomparativebiomechanicslabwebsite" style="position:absolute; left:610px; top:0px; width:260px; height:25px; z-index:7">
+		<div id="cse" style="width: 100%;"><div class="gsc-control-cse gsc-control-cse-en"><div class="gsc-control-wrapper-cse" dir="ltr"><form class="gsc-search-box" accept-charset="utf-8"><table class="gsc-search-box" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-input"><input autocomplete="off" size="10" class=" gsc-input" name="search" title="search" id="gsc-i-id1" dir="ltr" spellcheck="false" style="outline: medium none; background: rgb(255, 255, 255) url(&quot;http://www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png&quot;) no-repeat scroll left center; text-indent: 48px;" placeholder="Custom Search" type="text"><input name="bgresponse" id="bgresponse" type="hidden"></td><td class="gsc-search-button"><input value="Search" class="gsc-search-button" title="search" type="button"></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table><table class="gsc-branding" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-branding-user-defined"></td><td class="gsc-branding-text"><div class="gsc-branding-text">powered by</div></td><td class="gsc-branding-img"><img src="https://www.google.com/cse/static/images/1x/googlelogo_grey_46x15dp.png" class="gsc-branding-img" srcset="https://www.google.com/cse/static/images/2x/googlelogo_grey_46x15dp.png 2x"></td></tr></tbody></table></form><div class="gsc-results-wrapper-nooverlay"><div class="gsc-tabsAreaInvisible"><div class="gsc-tabHeader gsc-inline-block gsc-tabhActive">Custom Search</div><span class="gs-spacer"> </span></div><div class="gsc-tabsAreaInvisible"></div><div class="gsc-above-wrapper-area-invisible"><table class="gsc-above-wrapper-area-container" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-result-info-container"><div class="gsc-result-info-invisible"></div></td></tr></tbody></table></div><div class="gsc-adBlockInvisible"></div><div class="gsc-wrapper"><div class="gsc-adBlockInvisible"></div><div class="gsc-resultsbox-invisible"><div class="gsc-resultsRoot gsc-tabData gsc-tabdActive"><table class="gsc-resultsHeader" cellspacing="0" cellpadding="0"><tbody><tr><td class="gsc-twiddleRegionCell"><div class="gsc-twiddle"><div class="gsc-title">Web</div></div><div class="gsc-stats"></div><div class="gsc-results-selector gsc-all-results-active"><div class="gsc-result-selector gsc-one-result" title="show one result">&nbsp;</div><div class="gsc-result-selector gsc-more-results" title="show more results">&nbsp;</div><div class="gsc-result-selector gsc-all-results" title="show all results">&nbsp;</div></div></td><td class="gsc-configLabelCell"></td></tr></tbody></table><div><div class="gsc-expansionArea"></div></div></div></div></div></div></div></div></div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('016496550407273950228:w_oh8tjt6qi');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script><script src="http://www.google.com/uds/?file=search&amp;v=1&amp;hl=en" type="text/javascript"></script><link href="http://www.google.com/uds/api/search/1.0/890e228675e68570fa203500d9572ad4/default+en.css" type="text/css" rel="stylesheet"><script src="http://www.google.com/uds/api/search/1.0/890e228675e68570fa203500d9572ad4/default+en.I.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/minimalist.css" type="text/css">
+<style type="text/css">
+  .gsc-control-cse {
+    font-family: Helvetica, sans-serif;
+    border-color: #573896;
+    background-color: #573896;
+  }
+  input.gsc-input {
+    border-color: #777777;
+  }
+  input.gsc-search-button {
+    border-color: #333333;
+    background-color: #333333;
+  }
+  .gsc-tabHeader.gsc-tabhInactive {
+    border-color: #777777;
+    background-color: #777777;
+  }
+  .gsc-tabHeader.gsc-tabhActive {
+    border-color: #333333;
+    background-color: #333333;
+  }
+  .gsc-tabsArea {
+    border-color: #333333;
+  }
+  .gsc-webResult.gsc-result {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gsc-webResult.gsc-result:hover {
+    border-color: #000000;
+    background-color: #FFFFFF;
+  }
+  .gs-webResult.gs-result a.gs-title:link,
+  .gs-webResult.gs-result a.gs-title:link b {
+    color: #444444;
+  }
+  .gs-webResult.gs-result a.gs-title:visited,
+  .gs-webResult.gs-result a.gs-title:visited b {
+    color: #444444;
+  }
+  .gs-webResult.gs-result a.gs-title:hover,
+  .gs-webResult.gs-result a.gs-title:hover b {
+    color: #444444;
+  }
+  .gs-webResult.gs-result a.gs-title:active,
+  .gs-webResult.gs-result a.gs-title:active b {
+    color: #777777;
+  }
+  .gsc-cursor-page {
+    color: #444444;
+  }
+  a.gsc-trailing-more-results:link {
+    color: #444444;
+  }
+  .gs-webResult.gs-result .gs-snippet {
+    color: #333333;
+  }
+  .gs-webResult.gs-result .gs-visibleUrl {
+    color: #000000;
+  }
+  .gs-webResult.gs-result .gs-visibleUrl-short {
+    color: #000000;
+  }
+  .gsc-cursor-box {
+    border-color: #FFFFFF;
+  }
+  .gsc-results .gsc-cursor-page {
+    border-color: #777777;
+    background-color: #FFFFFF;
+  }
+  .gsc-results .gsc-cursor-page.gsc-cursor-current-page {
+    border-color: #333333;
+    background-color: #333333;
+  }
+  .gs-promotion.gs-result {
+    border-color: #CCCCCC;
+    background-color: #E6E6E6;
+  }
+  .gs-promotion.gs-result a.gs-title:link {
+    color: #0000CC;
+  }
+  .gs-promotion.gs-result a.gs-title:visited {
+    color: #0000CC;
+  }
+  .gs-promotion.gs-result a.gs-title:hover {
+    color: #444444;
+  }
+  .gs-promotion.gs-result a.gs-title:active {
+    color: #00CC00;
+  }
+  .gs-promotion.gs-result .gs-snippet {
+    color: #333333;
+  }
+  .gs-promotion.gs-result .gs-visibleUrl,
+  .gs-promotion.gs-result .gs-visibleUrl-short {
+    color: #00CC00;
+  }
+</style>
+</div>
+	<div id="hairline" style="position:absolute; left:10px; top:228px; width:940px; height:1px; z-index:8">
+		<img src="Resources/hairlinea.gif" alt="" style="float:left" width="940" height="1" border="0">
+	</div>
+	<map name="map1">
+	<area shape="poly" alt="Adam Summers interview about comparative biomechanics" coords="16,28,19,19,28,16,344,16,353,19,356,28,356,124,353,133,344,136,28,136,19,133,16,124" href="http://elementsofhumanity.com/#/video/entry/17/" title="Adam Summers interview ">
+	</map>
+</div>
+
+<script type="text/javascript"> 
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
+</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+	var pageTracker = _gat._getTracker("UA-17540668-1"); 
+	pageTracker._initData(); 
+	pageTracker._trackPageview(); 
+</script>
+
+
+<table style="width: 222px; display: none; top: 34px; left: 769px; position: absolute;" class="gstl_50 gssb_c" cellspacing="0" cellpadding="0"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table></body></html>

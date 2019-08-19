@@ -1,0 +1,104 @@
+HOME | DEUTSCH  | LEGALS | SITEMAP | KIT
+Institute of Engineering Mechanics
+Navigation ↓
+
+
+
+
+
+
+
+
+
+
+M.Sc. Simon Kapelke
+Research Assistant
+Office Hours: 
+by arrangement
+
+Room: 205.1
+Phone: +49 721 608-42660
+Fax: +49 721 608-46070
+simon kapelke∂kit edu
+
+Postanschrift:
+Karlsruher Institut für Technologie
+Institut für Technische Mechanik
+Teilinstitut Dynamik/Mechatronik
+Postfach 6980
+76049 Karlsruhe
+Haus- und Lieferanschrift:
+KIT-Campus Süd
+Institut für Technische Mechanik
+Teilinstitut Dynamik/Mechatronik
+Geb. 10.23, R 205.1
+Kaiserstraße 10
+76131 Karlsruhe 
+
+
+Research
+Influence of fast motions on systems with dry friction
+Dynamics of systems with friction
+  Smoothing of dry friction
+
+Dynamic friction models
+     Angebotene studentische Arbeiten
+Title Type Date
+
+
+Abgeschlossene oder vergebene studentische Arbeiten
+Title Type Graduand
+Selbsterregte Schwingungen in Mehrfreiheitsgradsystemen mit trockener Reibung Masterarbeit
+Lukas Oestringer
+Modellierung von Haft- und Losbrecheffekten in Systemen mit trockener Reibung Bachelorarbeit
+Simon Keller
+Experimentelle Untersuchung des Reibmoments in ungeschmierten Lagerbuchsen Bachelorarbeit
+Bastian Fesser
+Untersuchung des Zwangsschwingungsverhaltens von Mehrfreiheitsgradsystemen mit trockener Reibung Bachelorarbeit
+Manuel Putz
+Untersuchung der Reibwertglättung an einem Drehgelenk mit piezoelektrischer Schwingungsanregung Bachelorarbeit
+Matthias Fischer
+Untersuchung des Schwingungsverhaltens eines Pin-on-Disk-Aufbaus Bachelorarbeit
+Jonas Wagner
+Experimentelle Untersuchung ausgewählter reibungsinduzierter Phänomene Bachelorarbeit
+Alexander Michael Dyck
+Untersuchung und Vergleich ausgewählter Reibmodelle für ebene Bewegungen Bachelorarbeit
+Markus Ullenbruch
+Untersuchung und Vergleich ausgewählter Reibmodelle bei harmonischer Anregung Bachelorarbeit Christoph Straub
+
+
+Publications
+Kapelke, S. and Seemann, W. (2016),
+A Pin-on-Disk Experimental Set-up for Vibrational Smoothing of Dry Friction.
+Proc. Appl. Math. Mech., 16: 275–276. doi:10.1002/pamm.201610126
+Kapelke, S. and Seemann, W. (2015),
+On the Effect of Contact Compliance on Vibrational Smoothing of Dry Friction.
+Proc. Appl. Math. Mech., 15: 253–254. doi:10.1002/pamm.201510117
+S. Kapelke, W. Seemann, 2015.
+On vibrational smoothing of dry friction and its application to revolute joints
+Proceedings of ICoEV 2015, International Conference on Engineering Vibration, Ljubljana, 7-10 September 2015, p. 794-801
+Kapelke, S., Hetzler, H. and Seemann, W. (2014),
+On the Influence of High-Frequency Excitation on Systems with Dynamic Friction.
+Proc. Appl. Math. Mech., 14: 281–282. doi:10.1002/pamm.201410128
+Teaching
+Please refer to the German version!
+Chair for Dynamics/Mechatronics
+Prof. Wolfgang Seemann
+Prof. Carsten Proppe
+Prof. Alexander Fidlin
+  Karlsruher Institut für Technologie (KIT)
+Kaiserstraße 10
+Gebäude: 10.23, 2. OG
+76131 Karlsruhe
+Sekretariat:
+Tel:  +49 721 608-42397
+Tel:  +49 721 608-42659
+Fax: +49 721 608-46070
+dm-sekretariat∂itm kit edu
+Quick guide Dynamics/Mechatronics
+ILIAS 
+Courses
+Consultation Hours
+
+last change: 2016-11-08
+KIT – The Research University in the Helmholtz Association

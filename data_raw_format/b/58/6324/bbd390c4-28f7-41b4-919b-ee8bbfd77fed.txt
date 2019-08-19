@@ -1,0 +1,33 @@
+Gustavo Alonso
+Systems Group
+Department of Computer Science
+ETH Zentrum, CAB F 77
+CH-8092 Zurich
+ETH Zurich
+Switzerland
+Tel.:     +41-(0)44-632 7306
+Fax:     +41-(0)44-632 1425
+E-mail: alonso@inf (add ".ethz.ch")
+          I am a professor at the Department of Computer Science of ETH Zurich (ETHZ) in Switzerland.
+I am from Madrid, Spain, where I studied telecommunications -electrical engineering- at the Madrid Technical University (ETSIT, Politecnica de Madrid). As a Fulbright scholar, I completed an M.S. and Ph.D. in Computer Science at UC Santa Barbara. After graduating from Santa Barbara, I worked at the IBM Almaden Research Center for a year before joining ETHZ. At ETHZ, I am part of the Systems Group. I am a Fellow of the ACM and of the IEEE.
+My research interests encompass almost all aspects of systems, from design to run time. I work in distributed systems, databases, middleware, and system aspects of programming languages. Most of my research these days is related to multi-core architectures, large clusters, FPGAs, and big data, mainly working on adapting traditional system software (OS, database, middleware) to modern hardware platforms.
+Recent awards include: the FCCM 2013 Best Paper Award for work on implementing skyline operators on FPGAs, the AOSD 2012 Most Influential Paper Award for work on dynamic aspect oriented programming, the VLDB 2010 Ten Year Best Paper Award for work on database replication,  and the 2009 ICDCS Best Paper Award for work on Remote Direct Memory Access. I have served as chair or vice-chair in several conferences, among others: Middleware (2004), VLDB (2006), ICDE (2008), Business Process Management  (2007), the VLDB Experimental and Analisys Track (2012), ICDCS (2014), EDBT (2015), VLDB Industrial Track (2016), and EuroSys (2016).  
+EXTERNAL ACTIVITIES
+PC Chair, EuroSys 2017, Belgrade, Serbia
+PC Chair, VLDB Industrial Track, 2016, India
+PC Member, PhD Workshop, EuroSys 2016, UK
+New Publications Committee, ACM
+PUBLICATIONS / TALKS
+List of publications
+Bibliography Server DBLP
+Google Scholar
+Talks and presentations
+System Group Links
+Research
+Teaching
+PhD students
+Alumni
+Open Positions
+News
+                      ©Gustavo Alonso, ETH Zurich, 2016
+ 

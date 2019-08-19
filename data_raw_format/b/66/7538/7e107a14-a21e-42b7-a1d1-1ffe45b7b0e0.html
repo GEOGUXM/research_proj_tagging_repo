@@ -1,0 +1,950 @@
+<html class="js urlparser cssall no-pointerevents adownload mediaqueries no-touchevents backgroundblendmode objectfit object-fit no-backdropfilter flexbox flexwrap video videoautoplay" style="" lang="en"><!-- InstanceBegin template="/Templates/fixed.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="author" content="University of Nebraska-Lincoln | Web Developer Network">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/apple-touch-icon-57x57.png?v=m223gpjb0w">
+<link rel="apple-touch-icon" sizes="60x60" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/apple-touch-icon-60x60.png?v=m223gpjb0w">
+<link rel="apple-touch-icon" sizes="72x72" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/apple-touch-icon-72x72.png?v=m223gpjb0w">
+<link rel="apple-touch-icon" sizes="76x76" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/apple-touch-icon-76x76.png?v=m223gpjb0w">
+<link rel="apple-touch-icon" sizes="114x114" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/apple-touch-icon-114x114.png?v=m223gpjb0w">
+<link rel="apple-touch-icon" sizes="120x120" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/apple-touch-icon-120x120.png?v=m223gpjb0w">
+<link rel="apple-touch-icon" sizes="144x144" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/apple-touch-icon-144x144.png?v=m223gpjb0w">
+<link rel="apple-touch-icon" sizes="152x152" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/apple-touch-icon-152x152.png?v=m223gpjb0w">
+<link rel="apple-touch-icon" sizes="180x180" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/apple-touch-icon-180x180.png?v=m223gpjb0w">
+<link rel="icon" type="image/png" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/favicon-32x32.png?v=m223gpjb0w" sizes="32x32">
+<link rel="icon" type="image/png" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/favicon-194x194.png?v=m223gpjb0w" sizes="194x194">
+<link rel="icon" type="image/png" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/favicon-96x96.png?v=m223gpjb0w" sizes="96x96">
+<link rel="icon" type="image/png" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/android-chrome-192x192.png?v=m223gpjb0w" sizes="192x192">
+<link rel="icon" type="image/png" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/favicon-16x16.png?v=m223gpjb0w" sizes="16x16">
+<link rel="manifest" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/manifest.json?v=m223gpjb0w">
+<link rel="mask-icon" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/safari-pinned-tab.svg?v=m223gpjb0w" color="#d00000">
+<link rel="shortcut icon" href="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/favicon.ico?v=m223gpjb0w">
+<meta name="msapplication-TileColor" content="#fefdfa">
+<meta name="msapplication-TileImage" content="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/mstile-144x144.png?v=m223gpjb0w">
+<meta name="msapplication-config" content="https://unlcms.unl.edu/wdn/templates_4.1/includes/icons/browserconfig.xml?v=m223gpjb0w">
+<meta name="theme-color" content="#fefdfa">
+
+<!--
+    Membership and regular participation in the UNL Web Developer Network is required to use the UNLedu Web Framework. Visit the WDN site at http://wdn.unl.edu/. Register for our mailing list and add your site or server to UNLwebaudit.
+    All framework code is the property of the UNL Web Developer Network. The code seen in a source code view is not, and may not be used as, a template. You may not use this code, a reverse-engineered version of this code, or its associated visual presentation in whole or in part to create a derivative work.
+    This message may not be removed from any pages based on the UNLedu Web Framework.
+
+    $Id: fixed.dwt | 6edb0e1ee94038935f3821c6ce15dfd5c217b2e2 | Tue Dec 1 17:08:56 2015 -0600 | Kevin Abel  $
+-->
+<link rel="stylesheet" href="https://cloud.typography.com/7717652/616662/css/fonts.css">
+<link rel="stylesheet" href="https://unlcms.unl.edu/wdn/templates_4.1/css/all.css?dep=4.1.22">
+<script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://unlcms.unl.edu/wdn/templates_4.1/scripts/compressed/all.js?dep=4.1.22" id="wdn_dependents"></script><style type="text/css">#unlalert{position:relative!important;top:auto!important;z-index:2;padding:.8em 0;background-color:#d4440b}#unlalert:after{content:'';display:table;clear:both}#unlalert a{color:#fff;border-bottom:1px dotted currentcolor}#unlalert.show{padding-top:1.777em;padding-bottom:1.777em}#unlalert .unlalert-info{max-width:38em}#unlalert .unlalert-heading{margin-bottom:.317rem;font-size:.75rem}#unlalert .unlalert-headline{font-size:2.369rem;line-height:1;letter-spacing:.01em}#unlalert .unlalert-desc{margin-top:.563rem;margin-bottom:0}#unlalert .unlalert-meta{display:flex}#unlalert_toggle{white-space:nowrap;padding:0;border:none;line-height:1.333;color:#fff;background-color:transparent}#unlalert.show #unlalert_toggle{position:absolute;top:.75em;right:1em;z-index:1}#unlalert_content{display:none;position:relative;color:#fff}#unlalert.show #unlalert_content{display:flex;flex-flow:row wrap}@media (max-width:29.99em){#unlalert{font-size:.9353rem}}@media (max-width:39.99em){#unlalert .unlalert-meta{flex-direction:column}#unlalert .unlalert-link{margin-top:1em}}@media (min-width:40em) and (max-width:59.99em){#unlalert .unlalert-meta{flex-direction:row}#unlalert .unlalert-link{flex:1;margin-left:1.777rem}}@media (max-width:47.99em){#unlalert_content{margin-top:1em}}@media (min-width:48em){#unlalert{font-size:.8rem}}@media (max-width:59.99em){#unlalert_content .unlalert-meta{margin-top:1em}}@media (min-width:60em){#unlalert .unlalert-info{flex:2;margin-right:1.777rem}#unlalert .unlalert-meta{flex:1;flex-direction:column}#unlalert .unlalert-link{margin-top:1em}}ul.validation-advice{margin:0 0 1em;list-style:none;color:#d00000;font-weight:700;font-size:.8em}ul.validation-advice li:before{font-family:wdn-icon;font-style:normal;font-weight:400;speak:none;display:inline-block;text-decoration:inherit;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;content:'\e80f'}form input[type=email].validation-failed,form input[type=file].validation-failed,form input[type=number].validation-failed,form input[type=password].validation-failed,form input[type=text].validation-failed,form input[type=url].validation-failed,form select.validation-failed,form textarea.validation-failed{border:1px solid #d00000;-webkit-animation:wdn-error 1.2s infinite alternate;-moz-animation:wdn-error 1.2s infinite alternate;animation:wdn-error 1.2s infinite alternate}</style>
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>John Gamon | School of Natural Resources | University of Nebraska–Lincoln
+
+</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<!-- Place optional header elements here -->
+<link rel="stylesheet" type="text/css" href="/sharedcode/css/SNRv6.css" media="all">
+<link rel="stylesheet" type="text/css" href="/sharedcode/css/SNRscript.css">
+<link rel="stylesheet" type="text/css" href="/sharedcode/css/SNRmobile.css">
+<!--[if IE]>
+    <link rel="stylesheet" type="text/css" media="screen" href="/sharedcode/css/SNRie.css" />
+<![endif]-->
+<!--[if IE8]>
+ <link rel="stylesheet" type="text/css" media="screen" href="/sharedcode/css/SNRie.css" />
+<![endif]-->
+<script type="text/javascript">
+WDN.initializePlugin('modal', [function() {
+	//Examples of how to assign the ColorBox event to elements
+    WDN.jQuery(".group2").colorbox({rel:'group2', transition:"fade"});
+}]);
+
+WDN.jQuery(document).ready(function(){
+   WDN.jQuery(".zebratable tbody tr:even").addClass("even");
+   WDN.jQuery(".zebratable tbody tr:odd").addClass("odd");
+   WDN.jQuery(".zebratable tbody th").addClass("nofade");
+   WDN.jQuery("ul.zebralist li:even").addClass("even");
+   WDN.jQuery("ul.zebralist li:odd").addClass("odd");
+});
+</script>
+
+<!-- Google web fonts -->
+<link href="http://fonts.googleapis.com/css?family=Lato:400,900,900italic,400italic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Rokkitt:400,700" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Archivo+Narrow:400,700italic,700,400italic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Scada:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Carrois+Gothic+SC" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Share:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Oswald:300" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Rock+Salt" rel="stylesheet" type="text/css">
+
+
+<link rel="home" href="index.asp" title="About SNR">
+<script type="text/javascript" src="/wdn/templates_3.1/scripts/jquery.js"></script><script async="async" defer="defer" type="text/javascript" id="lastLoadedCmds" src="https://alert.unl.edu/json/unlcap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modal" src="https://unlcms.unl.edu/wdn/templates_4.1/scripts/compressed/modal.js"></script><style type="text/css">#colorbox{position:absolute}#cboxOverlay,#cboxWrapper,#colorbox{top:0;left:0;z-index:9999;overflow:hidden}#cboxWrapper{position:absolute;max-width:none}#cboxOverlay{position:fixed;width:100%;height:100%}#cboxBottomLeft,#cboxMiddleLeft{clear:left}#cboxContent{position:relative}#cboxLoadedContent{overflow:auto;-webkit-overflow-scrolling:touch}#cboxTitle{margin:0}#cboxLoadingGraphic,#cboxLoadingOverlay{position:absolute;top:0;left:0;width:100%;height:100%}#cboxClose,#cboxNext,#cboxPrevious,#cboxSlideshow{cursor:pointer}.cboxPhoto{float:left;margin:auto;border:0;display:block;max-width:none;-ms-interpolation-mode:bicubic}.cboxIframe{width:100%;height:100%;display:block;border:0;padding:0;margin:0;background:#fff}#cboxContent,#cboxLoadedContent,#colorbox{box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box}#cboxOverlay{background:#fff;opacity:.9;filter:alpha(opacity=90)}#cboxClose:active,#cboxNext:active,#cboxPrevious:active,#cboxSlideshow:active,#colorbox{outline:0}#cboxContent{margin-top:32px;overflow:visible;background:#000}#cboxError{padding:50px;border:1px solid #ccc}#cboxLoadedContent{background:#000;padding:1px}#cboxLoadingGraphic{background:url(https://unlcms.unl.edu/wdn/templates_4.1/scripts/compressed/plugins/colorbox/css/images/loading.gif) no-repeat center center}#cboxLoadingOverlay{background:#000}#cboxCurrent,#cboxTitle{position:absolute;top:-22px}#cboxTitle{left:0;color:#000}#cboxCurrent{right:205px;text-indent:-9999px}#cboxClose,#cboxNext,#cboxPrevious,#cboxSlideshow{border:0;padding:0;margin:0;overflow:visible;text-indent:-9999px;width:20px;height:20px;position:absolute;top:-20px;background:url(https://unlcms.unl.edu/wdn/templates_4.1/scripts/compressed/plugins/colorbox/css/images/controls.png) no-repeat 0 0}#cboxPrevious{background-position:0 0;right:44px}#cboxPrevious:hover{background-position:0 -25px}#cboxNext{background-position:-25px 0;right:22px}#cboxNext:hover{background-position:-25px -25px}#cboxClose{background-position:-50px 0;right:0}#cboxClose:hover{background-position:-50px -25px}.cboxSlideshow_off #cboxPrevious,.cboxSlideshow_on #cboxPrevious{right:66px}.cboxSlideshow_on #cboxSlideshow{background-position:-75px -25px;right:44px}.cboxSlideshow_on #cboxSlideshow:hover{background-position:-100px -25px}.cboxSlideshow_off #cboxSlideshow{background-position:-100px 0;right:44px}.cboxSlideshow_off #cboxSlideshow:hover{background-position:-75px -25px}</style>
+<script type="text/javascript" src="/wdn/templates_3.1/scripts/plugins/ui/jQuery.ui.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/wdn/templates_3.1/scripts/plugins/ui/jQuery-ui.css">
+<script type="text/javascript">
+WDN.jQuery(document).ready(function($){
+	
+    $('#data-area > div').css('display','none');
+	$('#data-area div#contact-info').css('display','block');
+	$('ul.sidetabs li#contact').addClass('ui-state-active');
+	$('ul.sidetabs li').addClass('ui-corner-left');
+	$('ul.sidetabs li').addClass('ui-state-default');
+	
+	$('ul.sidetabs li').each(function() {
+		var sectitle = $(this).text();
+		var id = $(this).attr('id');
+		$('#data-area div#' + id + '-info h2').append(sectitle);
+	});
+	
+	$('ul.sidetabs li').mouseover(function () {
+            $(this).removeClass('ui-state-default');
+            $(this).addClass('ui-state-hover');
+    });
+    $('ul.sidetabs li').mouseout(function () {
+            $(this).removeClass('ui-state-hover');
+            $(this).addClass('ui-state-default');
+    });
+	
+	$('ul.sidetabs li').click(function(){		
+		var id = $(this).attr('id');		
+		$('#data-area > div').css('display','none');
+		$('ul.sidetabs li').removeClass('ui-state-active');
+		$(this).toggleClass('ui-state-active');
+		$('#data-area div#' + id + '-info').css('display','block');
+		
+				
+	});
+	
+	//Replace AAGeneral in expertise and interest lists
+	$('#expertise-info ul li').each(function(){
+		$(this).html($(this).html().replace(' - AAGeneral',''));
+	});
+
+	
+});
+</script>
+<style type="text/css">
+ul.sidetabs{list-style:none!important;padding:0px!important;/*border-right:1px solid #AAA;*/}
+ul.sidetabs li{background:rgba(74, 59, 19, 0.1)!important;border-width:1px 1px 1px 1px!important;border-color:#000000;border-style:solid;margin:0 0 2px 0;padding:3px;cursor:pointer;}
+ul.sidetabs li.ui-state-active{border-right:1px solid #FFFFFF!important;background:none!important}
+#profile-update{position: relative;float:right;top: -50px;}
+
+
+#advising{display:block;}
+#profile{display:none;}
+#pubs{display:block;}
+#outreach{display:none;}
+#expertise{display:block;}
+#courses{display:block;}
+#grants{display:none;}
+#contact-info tr td:first-of-type{width:25%;}
+
+.message a{color:White!important;text-decoration:underline!important;}
+</style>
+
+
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="class" type="text" value="fixed" -->
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="plugins/hoverIntent/jquery.hoverIntent" src="https://unlcms.unl.edu/wdn/templates_4.1/scripts/compressed/plugins/hoverIntent/jquery.hoverIntent.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://ucommchat.unl.edu/assets/js?for=client&amp;version=4.1" src="https://ucommchat.unl.edu/assets/js?for=client&amp;version=4.1"></script><link rel="stylesheet" href="https://ucommchat.unl.edu/assets/css?for=client&amp;v=4" type="text/css" media="screen, print"></head>
+<body class="fixed" data-version="4.1">
+    <nav class="skipnav" role="navigation">
+    <a href="#maincontent">Skip Header and Navigation</a>
+</nav>
+
+    <div id="wdn_wrapper" class="nav_collapsed nav_ready">
+        <input id="wdn_menu_toggle" value="Show navigation menu" class="wdn-content-slide wdn-input-driver" type="checkbox">
+        <noscript>
+    <div id="wdn_noscript_padding"></div>
+</noscript>
+
+        <header id="header" role="banner" class="wdn-content-slide wdn-band">
+            <div id="wdn_header_top">
+                <span id="wdn_institution_title"><a href="http://www.unl.edu/">University of Nebraska–Lincoln</a></span>
+                <div id="wdn_resources">
+                    <div class="wdn-resource-label wdn-resource-login-trigger" id="wdn_identity_management" role="navigation" aria-labelledby="wdn_idm_username">
+    <a class="wdn-idm-login" href="https://login.unl.edu/cas/login?service=http%3A%2F%2Fsnr.unl.edu%2Faboutus%2Fwho%2Fpeople%2Ffaculty-member.asp%3Fpid%3D1893" id="wdn_idm_username" accesskey="l"><span class="wdn-icon-user" aria-hidden="true"></span>Login</a>
+    <div id="wdn_idm_notice_container" class="wdn-dropdown-widget-content hidden">
+        <button id="wdn_idm_toggle_label" class="wdn-dropdown-widget-button" aria-haspopup="true" aria-pressed="false" aria-controls="wdn_idm_options">Show user profile options</button>
+        <nav id="wdn_idm_options" class="wdn-idm-options wdn-dropdown-widget-no-outline" aria-hidden="true">
+            <ul>
+                <li><a href="https://planetred.unl.edu/" id="wdn_idm_profile">View Profile</a></li>
+                <li><a href="https://login.unl.edu/cas/logout?url=http%3A//www.unl.edu/" id="wdn_idm_logout">Logout</a></li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<div id="wdn_search" class="wdn-dropdown-widget-content" role="search">
+    <button class="wdn-dropdown-widget-button visible-at-full-nav" id="wdn_search_toggle_label" aria-pressed="false" aria-controls="wdn_search_form" aria-haspopup="true"><span class="wdn-icon-search" aria-hidden="true"></span><span class="wdn-text-hidden">Show search form</span></button>
+    <form id="wdn_search_form" action="https://search.unl.edu/" method="get" class="wdn-dropdown-widget-no-outline" aria-hidden="false">
+        <label for="wdn_search_query">Search</label>
+        <input required="" accesskey="f" id="wdn_search_query" name="q" type="search">
+        <button type="submit"><span class="wdn-icon-search" aria-hidden="true"></span><span class="wdn-text-hidden">Search</span></button>
+    <input name="u" value="http://snr.unl.edu/aboutus/who/people/index.asp" type="hidden"><input name="embed" value="1" type="hidden"></form>
+</div>
+
+                </div>
+            </div>
+            <div id="wdn_logo_lockup">
+                <div class="wdn-inner-wrapper">
+                    <a href="http://www.unl.edu/" id="logo"><span class="wdn-text-hidden">UNL</span></a>
+
+                    <span id="wdn_site_affiliation"><!-- InstanceBeginEditable name="affiliation" -->
+					<a href="http://ianr.unl.edu" title="Institute of Agriculture and Natural Resources" target="_blank">Institute of Agriculture and Natural Resources</a> ·   <a href="http://cas.unl.edu" title="College of Arts and Sciences" target="_blank">College of Arts and Sciences</a>
+					<!-- InstanceEndEditable --></span>
+                    <span id="wdn_site_title"><!-- InstanceBeginEditable name="titlegraphic" --><a href="http://snr.unl.edu/aboutus/who/people/index.asp">School of Natural Resources</a>
+<!-- InstanceEndEditable --></span>
+                </div>
+            </div>
+        </header>
+        <div class="wdn-menu-trigger wdn-content-slide">
+            <button class="wdn-nav-toggle" style="padding-top: 22px; padding-bottom: 22px;"><span class="wdn-icon-menu" aria-hidden="true"></span><span class="wdn-text-hidden">Menu</span></button>
+            <div class="wdn-share-this-page wdn-dropdown-widget-content" id="wdn-main-share-button"><button class="wdn-dropdown-widget-button" aria-pressed="false" aria-haspopup="true" aria-controls="wdn_share_wdn-main-share-button-wdn-share-toggle" style="padding-top: 23px; padding-bottom: 23px;"><span class="wdn-icon-share" aria-hidden="true"></span><span class="wdn-text-hidden">Share This Page</span></button><ul id="wdn_share_wdn-main-share-button-wdn-share-toggle" class="wdn-share-options wdn-hang-left wdn-dropdown-widget-content wdn-dropdown-widget-no-outline" aria-hidden="true"><li><a href="http://snr.unl.edu/aboutus/who/people/faculty-member.asp?pid=1893" class="wdn_createGoURL" rel="nofollow"><span class="wdn-icon-link" aria-hidden="true"></span> Get a Go URL</a></li><li class="outpost wdn_emailthis"><a href="mailto:?body=Check%20out%20this%20page%20from%20%23UNL%20http%3A%2F%2Fsnr.unl.edu%2Faboutus%2Fwho%2Fpeople%2Ffaculty-member.asp%3Fpid%3D1893%26utm_campaign%3Dwdn_social%26utm_medium%3Dshare_this%26utm_source%3Dwdn_emailthis&amp;subject=John%20Gamon" rel="nofollow"><span class="wdn-icon-mail" aria-hidden="true"></span>Email this page</a></li><li class="outpost wdn_facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsnr.unl.edu%2Faboutus%2Fwho%2Fpeople%2Ffaculty-member.asp%3Fpid%3D1893%26utm_campaign%3Dwdn_social%26utm_medium%3Dshare_this%26utm_source%3Dwdn_facebook" rel="nofollow"><span class="wdn-icon-facebook" aria-hidden="true"></span>Share on Facebook</a></li><li class="outpost wdn_twitter"><a href="https://twitter.com/share?text=Check%20out%20this%20page%20from%20%23UNL%20&amp;via=UNLincoln&amp;url=http%3A%2F%2Fsnr.unl.edu%2Faboutus%2Fwho%2Fpeople%2Ffaculty-member.asp%3Fpid%3D1893%26utm_campaign%3Dwdn_social%26utm_medium%3Dshare_this%26utm_source%3Dwdn_twitter" rel="nofollow"><span class="wdn-icon-twitter" aria-hidden="true"></span>Share on Twitter</a></li><li class="outpost wdn_linkedin"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;amp;summary=Check%20out%20this%20page%20from%20%23UNL%20&amp;amp;source=University%20of%20Nebraska%20-%20Lincoln&amp;url=http%3A%2F%2Fsnr.unl.edu%2Faboutus%2Fwho%2Fpeople%2Ffaculty-member.asp%3Fpid%3D1893%26utm_campaign%3Dwdn_social%26utm_medium%3Dshare_this%26utm_source%3Dwdn_linkedin&amp;subject=John%20Gamon" rel="nofollow" target="_blank" title="Share on LinkedIn"><span class="wdn-icon-linkedin-squared" aria-hidden="true"></span>Share on LinkedIn</a></li></ul></div>
+
+        </div><div id="wdn_navigation_bar" class="wdn-band">
+            <nav id="breadcrumbs" class="wdn-inner-wrapper" role="navigation" aria-label="breadcrumbs">
+                <!-- InstanceBeginEditable name="breadcrumbs" -->
+                <ul>
+                <li><a href="http://www.unl.edu/" title="University of Nebraska–Lincoln">Nebraska</a></li>
+                <li><a href="/index.asp" title="School of Natural Resources">SNR</a></li>
+                    <li class="selected last-link"><a href="http://snr.unl.edu/aboutus/who/people/index.asp">John Gamon</a></li>
+                </ul>
+                <!-- InstanceEndEditable -->
+            </nav>
+            <div id="wdn_navigation_wrapper">
+                <nav id="navigation" role="navigation" aria-label="main navigation" tabindex="-1" class="wdn-dropdown-widget-no-outline">
+                    <!-- InstanceBeginEditable name="navlinks" -->
+                    <ul>
+  <li><a href="/aboutus/" style="padding-bottom: 20px; padding-top: 19px;">About Us</a>
+    <ul style="height: 264px;">
+      <li><a href="/aboutus/who/people/directory.asp" title="directories">Directories</a></li>
+      <li><a href="/aboutus/where/facilitieslocation.asp" title="Location &amp; Facilities">Location &amp; Facilities</a></li>
+      <li><a href="/aboutus/why/visionorganization.asp" title="Vision &amp; Organization">Vision &amp; Organization</a></li>
+      <li><a href="/missionarea/index.asp" title="Mission Areas">Mission Areas</a></li>
+      <li><a href="/aboutus/what/whatsnewatsnr.asp" title="What's New at SNR">News</a></li>
+      <li><a href="/aboutus/what/archives.asp" title="Archives">Archives</a></li>
+      <li><a href="/aboutus/what/snrhistory.asp" title="SNR History">History</a></li>
+    </ul>
+  </li>
+  <li><a href="/undergrad/" title="Undergraduate Homepage" style="padding-bottom: 20px; padding-top: 19px;">Undergraduate </a>
+    <ul style="height: 264px;">
+      <li><a href="/undergrad/majors/" title="Majors">Majors</a></li>
+      <li><a href="/undergrad/funding.asp" title="Funding">Funding</a></li>
+      <li><a href="/students/courses.asp?undergrad=True" title="Undergraduate Courses at SNR">Courses</a></li>
+      <li><a href="/undergrad/beyondclassroom.asp" title="Beyond the Classroom">Beyond the Classroom</a></li>
+      <li><a href="/undergrad/meetourstudents.asp" title="Meet our Students">Meet our Students</a></li>
+      <li><a href="/undergrad/careers.asp" title="Careers">Careers</a></li>
+      <li><a href="/undergrad/advising.asp" title="Advising">Advising</a></li>
+      <li><a href="/undergrad/undergradawards.asp" title="Awards and Honors">Awards and Honors</a></li>
+      <li><a href="/undergrad/undergraduatehandbook.asp" title="Undergraduate Handbook">Current Undergraduate Student Information</a></li>
+    </ul>
+  </li>
+  <li><a href="/gradstudent/" title="Graduate Student Homepage" style="padding-bottom: 20px; padding-top: 19px;">Graduate</a>
+    <ul style="height: 264px;">
+      <li><a href="/gradstudent/index.asp" title="Graduate Program">Programs</a></li>    
+      <li><a href="/gradstudent/howtoapply-graduate.asp" title="Application Process and Entrance Requirements">How to Apply</a></li>
+      <li><a href="/gradstudent/entrancedegreerequirements.asp" title="Entrance and Degree Requirements">Entrance &amp; Degree Requirements</a></li>
+      <li><a href="/gradstudent/meetourstudents-graduate.asp" title="Meet our Students">Meet Our Students</a></li>
+      <li><a href="/gradstudent/funding.asp" title="Funding">Funding</a></li>
+      <li><a href="/gradstudent/deadlines.asp" title="Deadlines">Deadlines</a></li>
+      <li><a href="/gradstudent/currentstudentinformation.asp" title="Current Graduate Student Information">For Current Graduate Students</a></li>
+    </ul>
+  </li>
+  <li><a href="/research/" title="Research Homepage">Research &amp; Extension</a>
+    <ul style="height: 264px;">
+      <li><a href="/research/projects.asp" title="Research Projects">Research Projects</a></li>
+      <li><a href="/extension/index.asp" title="SNR Extension">Extension</a></li>
+      <li><a href="/aboutus/what/centerunit.asp" title="Centers and Units">Centers &amp; Units</a></li>
+      <li><a href="/aboutus/what/affiliations.asp" title="Affiliations">Affiliations</a></li>
+      <li><a href="/aboutus/who/people/expertise/expertisekeyword.asp" title="Expert Guide">Expertise Listing</a></li>
+      <li><a href="/aboutus/what/grantsawarded.asp" title="Grants">Grants</a></li>
+    </ul>
+  </li>
+  <li><a href="/communityengagement/" title="Community Engagement">Community Engagement</a>
+    <ul style="height: 264px;">
+      <li><a href="/aboutus/when/calendar.asp" title="SNR Calendar">Calendar</a></li>
+      <li><a href="/communityengagement/ceactivityspeaker.asp" title="Activities and Public Speakers">Activities &amp; Speakers</a></li>
+      <li><a href="/aboutus/when/seminars.asp" title="Seminars">Seminars</a></li>
+      <li><a href="https://nufoundation.org/unl/institute-of-agriculture-and-natural-resources/colleges-and-areas/college-of-agricultural-sciences-and-natural-resources/casnr-academic-units/school-of-natural-resources" title="UN Foundation - School of Natural Resources Support Site" target="_blank">Support SNR</a></li>
+      <li><a href="/alumni/index.asp" title="Alumni &amp; Friends">Alumni &amp; Friends</a></li>
+      <li><a href="/communityengagement/nebraskaknowledge.asp" title="Nebraska Knowledge">Nebraska Knowledge</a></li>
+    </ul>
+  </li>
+  <li><a href="/data/" style="padding-bottom: 20px; padding-top: 19px;">Data</a>
+    <ul style="height: 264px;">
+      <li><a href="/data/appliedecology/index.aspx">Applied Ecology</a></li>
+      <li><a href="/data/climate/index.aspx">Climate Data</a></li>
+      <li><a href="/data/geologysoils/index.aspx">Geology &amp; Soils Data</a></li>
+      <li><a href="/data/geographygis/index.aspx">GIS Data</a></li>
+      <li><a href="/data/water/index.aspx">Water Data</a></li>
+      <li><a href="http://nebraskamaps.unl.edu/" target="_blank" class="external">Maps &amp; More Store</a></li>
+     
+    </ul>
+  </li>
+  </ul>
+
+                    <!-- InstanceEndEditable -->
+                    
+                </nav>
+            </div>
+        </div>
+        
+        <main id="wdn_content_wrapper" role="main" class="wdn-content-slide" tabindex="-1" style="padding-top: 61.2833px;">
+            <div id="maincontent" class="wdn-main" tabindex="-1">
+                <div id="pagetitle">
+                    <!-- InstanceBeginEditable name="pagetitle" -->
+                <h1>John Gamon</h1>
+                <!-- InstanceEndEditable -->
+                </div>
+                <!-- InstanceBeginEditable name="maincontentarea" -->
+                
+                <div id="profile-update"><a href="profileupdatemenu.asp" title=" Update Profile Menu">Update your profile<img src="../../../images/miscellaneous/pencil.png" alt="Profile Update Icon" width="20" height="20"></a></div>
+                <section class="wdn-grid-set">
+<div class="bp2-wdn-col-one-fourth">
+<figure class="snrframe"><img src="/images/portrait-large/faculty/gamon-john-portrait.jpg" alt="John Gamon"></figure>
+<br>
+<ul class="sidetabs">
+	<li id="contact" class="ui-state-active ui-corner-left ui-state-default">Contact Information</li>
+    <li id="profile" class="ui-corner-left ui-state-default">My Story</li>
+    <li id="pubs" class="ui-corner-left ui-state-default">Publications &amp; Presentations</li>
+    <li id="background" class="ui-corner-left ui-state-default">Background</li>
+    <li id="expertise" class="ui-corner-left ui-state-default">Interests</li>
+    <li id="grants" class="ui-corner-left ui-state-default">Grants</li>
+    <li id="advising" class="ui-corner-left ui-state-default">Advising</li>
+    <li id="courses" class="ui-corner-left ui-state-default">Courses Taught</li> 
+    <li id="outreach" class="ui-corner-left ui-state-default">Outreach</li>  
+</ul>
+</div>
+<div id="data-area" class="bp2-wdn-col-three-fourths">
+<!--
+
+ Contact Information Tab
+ 
+ -->
+<div id="contact-info" style="display: block;">
+<header class="heading Maroon"><h2>Contact Information</h2></header>
+
+
+
+<table class="zebratable vborder">
+   <tbody>
+   
+      <tr class="even">
+          <td><strong>Title</strong></td>
+          <td>Quantitative Remote Sensing Scientist</td>
+      </tr>
+
+     
+      <tr class="odd">
+          <td><strong>Address</strong></td>
+          <td>
+          
+307 Hardin Hall<br>3310  Holdrege St <br>Lincoln Nebraska<br>68583-0988
+          </td>
+      </tr>
+      
+      <tr class="even">
+          <td><strong>Phone</strong></td>
+          <td>402-472-7529</td>
+      </tr>
+      
+      <tr class="odd">
+          <td><strong>FAX</strong></td>
+          <td>402-472.2946</td>
+      </tr>
+
+      <tr class="even">
+          <td><strong>E-mail</strong></td>
+          <td><a href="mailto:jgamon@unl.edu">jgamon@unl.edu</a></td>
+      </tr>
+      
+      <tr class="odd">
+          <td><strong>Vitae</strong></td>
+          <td><a href="/vitae/faculty/2017/Gamon-John-CV-04262017.pdf">Download file</a></td>
+      </tr>
+      
+  </tbody>
+</table>
+
+
+</div>
+
+<!--
+
+ My Story Tab 
+ 
+ -->
+<div id="profile-info" style="display: none;">
+<header class="heading Maroon"><h2>My Story</h2></header>
+n/a
+</div>
+<!--
+
+Publications & Presentations Tab 
+
+-->
+<div id="pubs-info" style="display: none;">
+<header class="heading Maroon"><h2>Publications &amp; Presentations</h2></header>
+
+<header class="sub-heading Maroon"><h3>Selected Publications</h3></header>   
+     <table class="zebratable">
+  
+  
+   <tbody>
+
+      <tr class="even">
+       <td>Gamon JA, Huemmrich KF, Wong CY, Ensminger I, Garrity S, Hollinger DY, Noormets A, Penuelas J. 2016. A remotely sensed pigment index reveals photosynthetic phenology in evergreen conifers. Proceedings of the National Academy of Sciences. University of Nebraska.
+           
+       </td>
+      </tr>
+
+      <tr class="odd">
+       <td>Wang, R., Gamon, J., Montgomery, R. A., Townsend, P. A., Zygielbaum, A., Bitan, K., Tilman, D., Cavender-Bares, J. 2016. Seasonal variation in the NDVI�species richness relationship in a prairie grassland experiment (Cedar Creek). Remote Sensing, 8(128):15. <a href="http://www.mdpi.com/2072-4292/8/2/128" target="_blank">Online</a>
+           
+       </td>
+      </tr>
+
+      <tr class="even">
+       <td>Wehlage DC, Gamon JA, Thayer D, Hildebrand DV. 2016. Interannual Variability in Dry Mixed-Grass Prairie Yield: A Comparison of MODIS, SPOT, and Field Measurements. Remote Sensing. 2016 Oct 22;8(10):872. <a href="http://www.mdpi.com/2072-4292/8/10/872" target="_blank">Online</a>
+           
+       </td>
+      </tr>
+
+      <tr class="odd">
+       <td>Gamon JA, Kovalchuk O, Wong CYS, Harris A, Garrity SR (2015). Monitoring seasonal and diurnal changes in photosynthetic pigments with automated PRI and NDVI sensors. Biogeosciences 12: 4149-4159. doi:10.5194/bg-12-4149-2015
+           
+       </td>
+      </tr>
+
+      <tr class="even">
+       <td>Gitelson A, Gamon JA (2015) The need for a common basis for defining light-use efficiency: implications for productivity estimation. Remote Sensing of Environment 156:196-201. <a href="http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1488&amp;context=natrespapers" target="_blank">Online</a>
+           
+       </td>
+      </tr>
+
+      <tr class="odd">
+       <td>Williamson SN, Hik DS, Gamon JA, Kavanaugh JL, Flowers GE (2014) Estimating mean surface air temperature from MODIS Land Surface Temperature observations in a sub-Arctic alpine environment. Remote Sensing 6(2):946-963. 
+DOI: 10.3390/rs6020946.
+           
+       </td>
+      </tr>
+      
+</tbody></table>
+     
+ 
+</div>
+<!--
+
+ Background Information Tab 
+ 
+ -->
+<div id="background-info" style="display: none;">
+<header class="heading Maroon"><h2>Background</h2></header>
+       
+
+
+<header class="sub-heading Maroon"><h3>SNR Mission Area(s)</h3></header>
+<ul>
+
+         <li>Applied Climate and Spatial Science</li>
+
+</ul>
+       
+<header class="sub-heading Maroon"><h3>Affiliations (<a href="/aboutus/what/affiliations.asp">index</a>)</h3></header>
+     
+         <ul>
+           
+            <li><a href="http://agecon.unl.edu/" target="_blank">Agricultural Economics, UNL</a></li>
+            
+         </ul>
+     
+
+<header class="sub-heading Maroon"><h3>Notable Websites</h3></header>
+<ul>
+
+<li><a href="http://gamonlab.org/" title="Gamon Lab">Gamon Lab</a></li>
+
+     </ul>
+
+</div>
+<!--
+
+ Expertise Tab 
+ 
+ -->
+<div id="expertise-info" style="display: none;">
+
+
+
+        
+     <header class="sub-heading Maroon">
+        <h3>Areas of Interest</h3>
+        </header>
+       <p></p><ul><li>Remote Sensing</li></ul><p></p>
+       
+
+
+</div>
+
+<!--
+
+ Grants Tab 
+ 
+-->
+<div id="grants-info" style="display: none;">
+<header class="heading Maroon"><h2>Grants</h2></header>
+<p>Currently this page only displays grants that were <strong>awarded</strong> on 1/1/2009 to the present.  If a grant was awarded prior to 1/1/2009 and is still active, it will not be displayed on this page.</p>
+
+ There no Grants found for this selection.
+ </div>
+<!--
+
+ Advising Tab 
+ 
+ -->
+<div id="advising-info" style="display: none;">
+<header class="heading Maroon"><h2>Advising</h2></header>
+<table style="width:100%;" class="zebratable">
+<tbody>
+     
+      <tr class="even">
+        <td class="snrtable"><em>Graduate Program(s)</em></td>
+        <td class="snrtable">
+        
+         <p><strong>Master of Arts in Geography</strong></p>
+       
+         
+         
+           <p><strong>Master of Science in Natural Resource Sciences </strong></p>
+        
+            <br>including specializations in 
+          <ul>
+          <li>Bio-Atmospheric Interactions</li><li>Geographic Information Systems</li>  <li>Remote Sensing</li>  
+          </ul>
+          
+            <p><strong>Doctor of Philosophy in Geography</strong></p>
+             
+          
+             <p><strong>Doctor of Philosophy in Natural Resource Sciences</strong> </p>
+         
+               <br>including specializations in 
+          <ul>
+          <li>Bio-Atmospheric Interactions</li>
+          </ul>
+                    </td>
+      </tr>
+     
+     </tbody>
+  </table>
+</div>
+<!--
+
+ Courses Tab 
+ 
+ -->
+<div id="courses-info" style="display: none;">
+<header class="heading Maroon"><h2>Courses Taught</h2></header>
+
+     
+     <table class="zebratable Maroon">
+   <thead>
+      <tr>
+          <th colspan="8">Courses Taught</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr class="odd">
+          <td><strong>Course Number</strong></td>
+          <td><strong>Course Title</strong></td>
+          <td><strong>Fall Even Years</strong></td>
+          <td><strong>Fall Odd Years</strong></td>
+          <td><strong>Spring Even Years</strong></td>
+          <td><strong>Spring Odd Years</strong></td>
+          <td><strong>Summer Session</strong></td>
+          <td><strong>Cross Listing</strong></td>
+      </tr>
+       
+      <tr class="even">
+          <td>GEOG 421</td>
+          <td>Field Techniques in Remote Sensing</td>
+          <td style="text-align:center;"></td>
+          <td style="text-align:center;"></td>
+          <td style="text-align:center;">X</td>
+          <td style="text-align:center;">X</td>
+          <td style="text-align:center;"></td>
+          <td>GEOG/NRES 421/821</td>
+      </tr>
+        
+      <tr class="odd">
+          <td>GEOG 821</td>
+          <td>Field Techniques in Remote Sensing</td>
+          <td style="text-align:center;"></td>
+          <td style="text-align:center;"></td>
+          <td style="text-align:center;">X</td>
+          <td style="text-align:center;">X</td>
+          <td style="text-align:center;"></td>
+          <td>GEOG/NRES 421/821</td>
+      </tr>
+        
+      <tr class="even">
+          <td>NRES 421</td>
+          <td>Field Techniques in Remote Sensing</td>
+          <td style="text-align:center;"></td>
+          <td style="text-align:center;"></td>
+          <td style="text-align:center;">X</td>
+          <td style="text-align:center;">X</td>
+          <td style="text-align:center;"></td>
+          <td>GEOG/NRES 421/821</td>
+      </tr>
+        
+      <tr class="odd">
+          <td>NRES 821</td>
+          <td>Field Techniques in Remote Sensing</td>
+          <td style="text-align:center;"></td>
+          <td style="text-align:center;"></td>
+          <td style="text-align:center;">X</td>
+          <td style="text-align:center;">X</td>
+          <td style="text-align:center;"></td>
+          <td>GEOG/NRES 421/821</td>
+      </tr>
+        
+  </tbody>
+</table>
+
+</div>
+<!-- 
+
+Outreach Tab 
+
+-->
+<div id="outreach-info" style="display: none;">
+<header class="heading Maroon"><h2>Outreach</h2></header>
+ 
+<p>&nbsp;</p>
+<p>&nbsp;</p>      
+     </div>
+     
+</div>
+<!--</div>-->
+</section>
+
+                <!-- InstanceEndEditable -->
+            </div>
+        </main>
+        <footer id="footer" role="contentinfo" class="wdn-content-slide">
+            <div id="wdn_optional_footer" class="wdn-band wdn-footer-optional">
+                <div class="wdn-inner-wrapper">
+                    <!-- InstanceBeginEditable name="optionalfooter" -->
+            <!-- InstanceEndEditable -->
+                </div>
+            </div>
+            <div id="wdn_local_footer" class="wdn-band wdn-footer-local">
+                <div class="wdn-inner-wrapper">
+                    <!-- InstanceBeginEditable name="contactinfo" -->
+                <!-- Unit with one address, social, releated links (short) -->
+<div class="wdn-grid-set wdn-footer-links-local">
+	<div class="wdn-col-full bp640-wdn-col-two-thirds bp960-wdn-col-one-half">
+		<div class="wdn-footer-module">
+			<span role="heading" class="wdn-footer-heading">School of Natural Resources<span class="wdn-text-hidden"> Contact Information</span></span>
+			<div class="wdn-grid-set-halves bp960-wdn-grid-set-halves">
+				<div class="wdn-col">
+					<p class="wdn-icon-location">School of Natural Resources<br>
+                      University of Nebraska-Lincoln <br>
+                      101 Hardin Hal<a href="/tools/index.asp">l</a><br>
+                      3310 Holdrege Street<br>
+                      Lincoln NE 68583-0961 </p>
+					<p class="wdn-icon-phone"><a href="tel:4024723471">402-472-3471</a></p>
+					<p class="wdn-icon-print">402-472-2946</p>		
+                  <p> &nbsp;<br><a href="/sharedcode/privacypolicyextension.asp">SNR Privacy Policy Extension</a></p>			
+				</div>
+				<div class="wdn-col">
+					<ul>
+						<li><a href="http://www.facebook.com/UNLSNR" class="wdn-icon-facebook">SNR<span class="wdn-text-hidden"> on Facebook</span></a></li>
+						<li><a href="https://twitter.com/UNLSNR" class="wdn-icon-twitter">SNR<span class="wdn-text-hidden"> on Twitter</span></a></li>
+						<li><a href="https://www.youtube.com/user/snrwebmaster" class="wdn-icon-youtube-play">SNR<span class="wdn-text-hidden"> on YouTube</span></a></li>
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="wdn-col-full bp640-wdn-col-one-third bp960-wdn-col-one-half">
+		<div class="wdn-footer-module">
+			<span role="heading" class="wdn-footer-heading">Related Links</span>
+			<ul class="wdn-related-links-v1">
+              <li><a href="http://nebraskamaps.unl.edu/" title="Nebraska Maps &amp; More">Nebraska Maps &amp; More</a></li>
+              <li><a href="https://canvas.unl.edu/" title="Canvas">Canvas</a></li>
+              <li><a href="http://ianrbc.unl.edu/natural-resources-business-center-nrbc" title="NRBC">NRBC</a></li>
+              <li><a href="http://ianr.unl.edu" title="Institute of Agriculture and Natural Resources">IANR</a></li>
+              <li><a href="http://casnr.unl.edu/" title="College of Agrictulture and Natural Resources">CASNR</a></li>
+              <li><a href="http://cas.unl.edu" title="College of Arts and Science">CAS</a></li>
+              <li><a href="https://my.unl.edu/" title="Blackboard">Blackboard</a></li>
+           </ul>
+            
+            <span role="heading" class="wdn-footer-heading">SNR Employees</span>
+			<ul class="wdn-related-links-v1">
+                <li><a href="/employeeinfo/index.asp" title="SNR Employee Information Portal">Employee Information</a></li>
+                <li><a href="https://uofnelincoln.sharepoint.com/sites/ianr/snr/_layouts/15/start.aspx#/SitePages/Home.aspx" title="SNR SharePoint Collaboration Portal">SharePoint Collaboration</a></li>
+
+            </ul>
+            
+            
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-8155875-1']); //replace with your unique tracker id
+_gaq.push(['_setDomainName', '.unl.edu']);
+_gaq.push(['_setAllowLinker', true]);
+//_gaq.push(['_setAllowHash', false]);  //removed on 11/14/2012 per Seth Meranda
+_gaq.push(['_trackPageview']);
+</script>
+<script type="text/javascript">
+  WDN.jQuery('#pagetitle a[href]').each(function(){      
+    var gahref = WDN.jQuery(this).attr('href');    
+	if ((gahref.match(/^https?\:/i)) && (!gahref.match(document.domain))){  //deal with the outbound links 
+	     WDN.jQuery(this).click(function() {
+		         WDN.analytics.callTrackEvent('Outgoing Link', gahref, WDN.analytics.thisURL);            
+				 WDN.analytics.callTrackPageview(gahref);       
+		 });
+    }
+ });
+</script>
+
+<!-- Unit with one address, social, releated links (long) -->
+<!--
+<div class="wdn-grid-set wdn-footer-links-local">
+	<div class="wdn-col-full bp640-wdn-col-two-thirds bp960-wdn-col-one-half">
+		<div class="wdn-footer-module">
+			<span role="heading" class="wdn-footer-heading">Hixson-Lied College of Fine and Performing Arts<span class="wdn-text-hidden"> Contact Information</span></span>
+			<div class="wdn-grid-set-halves bp960-wdn-grid-set-halves">
+				<div class="wdn-col">
+					<p class="wdn-icon-location">102 Woods Art Building<br />
+					Lincoln, NE 68588-0144</p>
+					<p class="wdn-icon-phone"><a href="tel:4024729339">402-472-9339</a></p>
+					<p class="wdn-icon-print">402-472-9353</p>
+					<p class="wdn-icon-mail"><a href="mailto:unlarts@unl.edu">unlarts@unl.edu</a></p>
+				</div>
+				<div class="wdn-col">
+					<ul>
+						<li><a href="http://www.facebook.com/HLCFPA" class="wdn-icon-facebook">HLCFPA<span class="wdn-text-hidden"> on Facebook</span></a></li>
+						<li><a href="https://twitter.com/UNLArts" class="wdn-icon-twitter">@UNLArts<span class="wdn-text-hidden"> on Twitter</span></a></li>
+						<li><a href="https://www.youtube.com/playlist?list=PLF73450E01A25D4CD" class="wdn-icon-youtube-play">Hixson-Lied College of Fine and Performing Arts<span class="wdn-text-hidden"> on YouTube</span></a></li>
+						<li><a href="http://instagram.com/UNLArts" class="wdn-icon-instagram">UNLArts<span class="wdn-text-hidden"> on Instagram</span></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="wdn-col-full bp960-wdn-col-one-half">
+		<div class="wdn-footer-module">
+			<span role="heading" class="wdn-footer-heading">Related Links</span>
+			<ul class="wdn-related-links-v2">
+                <li><a href="http://www.huskeralum.org/">Alumni &amp; Friends</a></li>
+                <li><a href="http://emeriti.unl.edu/">Emeriti Association</a></li>
+                <li><a href="http://www.huskers.com/">Husker Athletics</a></li>
+                <li><a href="http://www.liedcenter.org/">Lied Center for Performing Arts</a></li>
+                <li><a href="http://www.quiltstudy.org/">International Quilt Study Center&nbsp;&amp;&nbsp;Museum</a></li>
+                <li><a href="http://innovate.unl.edu/">Nebraska Innovation Campus</a></li>
+                <li><a href="http://www.netnebraska.org/television/">NET</a></li>
+                <li><a href="http://parentsassoc.unl.edu/">Parents Association</a></li>
+                <li><a href="http://theross.org/">Mary Riepma Ross Media Arts Center</a></li>
+                <li><a href="http://www.sheldonartgallery.org/">Sheldon Museum of Art</a></li>
+                <li><a href="http://museum.unl.edu/">State Museum</a></li>
+                <li><a href="http://nebraskapress.unl.edu/">University of Nebraska Press</a></li>
+                <li><a href="http://www.nufoundation.org/">University of Nebraska Foundation</a></li>
+                <li><a href="http://www.nebraska.edu/">University of Nebraska System</a></li>
+                <li><a href="http://www.bkstr.com/Home/10001-10287-1?demoKey=d">UNL Bookstore</a></li>
+            </ul>
+		</div>
+	</div>
+</div>
+-->
+
+<!-- Unit with two addresses, social, releated links -->
+<!--
+<div class="wdn-grid-set wdn-footer-links-local">
+	<div class="wdn-col-full bp960-wdn-col-three-fourths">
+		<div class="wdn-footer-module">
+			<span role="heading" class="wdn-footer-heading">College of Engineering<span class="wdn-text-hidden"> Contact Information</span></span>
+			<div class="wdn-grid-set-halves bp640-wdn-grid-set-thirds bp960-wdn-grid-set-thirds">
+				<div class="wdn-col">
+					<p class="wdn-icon-location">114 Othmer Hall/820 N 16th St.<br />
+					P.O. Box 880642<br />
+					Lincoln, NE 68588-0642</p>
+					<p class="wdn-icon-phone"><a href="tel:4024723181">402-472-3181</a></p>
+					<p class="wdn-icon-print">402-472-7792</p>
+					<p class="wdn-icon-mail"><a href="mailto:engfrontdesk2@unl.edu">engfrontdesk2@unl.edu</a></p>
+				</div>
+				<div class="wdn-col">
+					<p class="wdn-icon-location">100 Peter Kiewit Institute<br />
+					1110 South 67th Street<br />
+					Omaha, NE 68182-0176</p>
+					<p class="wdn-icon-phone"><a href="tel:4025546009">402-554-6009</a></p>
+					<p class="wdn-icon-print">402-554-3850</p>
+				</div>
+				<div class="wdn-col">
+					<ul>
+						<li><a href="https://www.facebook.com/NebraskaEngineering" class="wdn-icon-facebook">NebraskaEngineering<span class="wdn-text-hidden"> on Facebook</span></a></li>
+						<li><a href="https://twitter.com/NebEngineering" class="wdn-icon-twitter">@NebEngineering<span class="wdn-text-hidden"> on Twitter</span></a></li>
+						<li><a href="http://www.youtube.com/user/NebraskaEngineering" class="wdn-icon-youtube-play">NebraskaEngineering<span class="wdn-text-hidden"> on YouTube</span></a></li>
+						<li><a href="https://www.flickr.com/photos/nebraskaengineering/" class="wdn-icon-flickr">nebraskaengineering<span class="wdn-text-hidden"> on Flickr</span></a></li>
+						<li><a href="https://www.linkedin.com/groups/University-NebraskaLincoln-College-Engineering-Alumni-3413949?home=&gid=3413949&trk=anet_ug_hm" class="wdn-icon-linkedin-squared">College of Engineering Alumni<span class="wdn-text-hidden"> on LinkedIn</span></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="wdn-col-full bp960-wdn-col-one-fourth">
+		<div class="wdn-footer-module">
+			<span role="heading" class="wdn-footer-heading">Related Links</span>
+			<ul class="wdn-related-links-v3">
+                <li><a href="http://www.huskeralum.org/">Alumni &amp; Friends</a></li>
+                <li><a href="http://emeriti.unl.edu/">Emeriti Association</a></li>
+                <li><a href="http://www.huskers.com/">Husker Athletics</a></li>
+                <li><a href="http://www.liedcenter.org/">Lied Center for Performing Arts</a></li>
+                <li><a href="http://www.quiltstudy.org/">International Quilt Study Center&nbsp;&amp;&nbsp;Museum</a></li>
+                <li><a href="http://innovate.unl.edu/">Nebraska Innovation Campus</a></li>
+                <li><a href="http://www.netnebraska.org/television/">NET</a></li>
+                <li><a href="http://parentsassoc.unl.edu/">Parents Association</a></li>
+            </ul>
+		</div>
+	</div>
+</div>
+-->
+
+
+<!-- Top Level -->
+<!--
+<div class="wdn-grid-set wdn-footer-links-local">
+	<div class="wdn-col-full bp960-wdn-col-one-half">
+		<div class="wdn-footer-module">
+			<span role="heading" class="wdn-footer-heading">University of Nebraska&ndash;Lincoln<span class="wdn-text-hidden"> Contact Information</span></span>
+			<p class="wdn-icon-location">1400 'R' Street<br />
+			Lincoln, NE 68588</p>
+			<p class="wdn-icon-phone"><a href="tel:4024727211">402-472-7211</a></p>
+		</div>
+	</div>
+	<div class="wdn-col-full bp960-wdn-col-one-half">
+		<div class="wdn-footer-module">
+			<span role="heading" class="wdn-footer-heading">Related Links</span>
+			<ul class="wdn-related-links-v4">
+                <li><a href="http://www.huskeralum.org/">Alumni &amp; Friends</a></li>
+                <li><a href="http://emeriti.unl.edu/">Emeriti Association</a></li>
+                <li><a href="http://www.huskers.com/">Husker Athletics</a></li>
+                <li><a href="http://www.liedcenter.org/">Lied Center for Performing Arts</a></li>
+                <li><a href="http://www.quiltstudy.org/">International Quilt Study Center&nbsp;&amp;&nbsp;Museum</a></li>
+                <li><a href="http://innovate.unl.edu/">Nebraska Innovation Campus</a></li>
+                <li><a href="http://www.netnebraska.org/television/">NET</a></li>
+                <li><a href="http://parentsassoc.unl.edu/">Parents Association</a></li>
+                <li><a href="http://theross.org/">Mary Riepma Ross Media Arts Center</a></li>
+                <li><a href="http://www.sheldonartgallery.org/">Sheldon Museum of Art</a></li>
+                <li><a href="http://museum.unl.edu/">State Museum</a></li>
+                <li><a href="http://nebraskapress.unl.edu/">University of Nebraska Press</a></li>
+                <li><a href="http://www.nufoundation.org/">University of Nebraska Foundation</a></li>
+                <li><a href="http://www.nebraska.edu/">University of Nebraska System</a></li>
+                <li><a href="http://www.bkstr.com/Home/10001-10287-1?demoKey=d">UNL Bookstore</a></li>
+            </ul>
+		</div>
+	</div>
+</div>
+-->
+
+                <!-- InstanceEndEditable -->
+                    <!-- InstanceBeginEditable name="leftcollinks" -->
+                
+                <!-- InstanceEndEditable -->
+                </div>
+            </div>
+            <div id="wdn_global_footer" class="wdn-band wdn-footer-global">
+                <div class="wdn-inner-wrapper">
+                   <div class="wdn-grid-set bp480-wdn-grid-set-thirds bp960-wdn-grid-set-fourths">
+	<div class="wdn-col">
+		<div class="wdn-footer-module wdn-footer-social">
+			<span role="heading">Connect with #UNL</span>
+			<ul class="wdn-footer-list">
+				<li><a href="https://www.facebook.com/UNLincoln" class="wdn-footer-list-item"><span class="wdn-icon-facebook" aria-hidden="true"></span>UNLincoln <span class="wdn-text-hidden"> on Facebook</span></a></li>
+				<li><a href="https://twitter.com/UNLincoln" class="wdn-footer-list-item"><span class="wdn-icon-twitter" aria-hidden="true"></span>@UNLincoln<span class="wdn-text-hidden"> on Twitter</span></a></li>
+				<li><a href="https://www.youtube.com/user/unl" class="wdn-footer-list-item"><span class="wdn-icon-youtube-play" aria-hidden="true"></span>UNL<span class="wdn-text-hidden"> on YouTube</span></a></li>
+				<li><a href="https://www.instagram.com/unlincoln/" class="wdn-footer-list-item"><span class="wdn-icon-instagram" aria-hidden="true"></span>@unlincoln<span class="wdn-text-hidden"> on Instagram</span></a></li>
+				<li><a href="https://www.linkedin.com/edu/school?id=18836" class="wdn-footer-list-item"><span class="wdn-icon-linkedin-squared" aria-hidden="true"></span>University of Nebraska–Lincoln<span class="wdn-text-hidden"> on LinkedIn</span></a></li>
+				<li><a href="https://www.pinterest.com/unlincoln/boards/" class="wdn-footer-list-item"><span class="wdn-icon-pinterest" aria-hidden="true"></span>unlincoln<span class="wdn-text-hidden"> on Pinterest</span></a></li>
+				<li><a href="snapchat://?u=unlincoln" class="wdn-footer-list-item"><span class="wdn-icon-snapchat" aria-hidden="true"></span> UNLincoln <span class="wdn-text-hidden"> on Snapchat</span></a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="wdn-col">
+		<div class="wdn-footer-module wdn-footer-campus">
+			<span role="heading">Campus <span class="wdn-text-hidden">Links</span></span>
+			<ul class="wdn-footer-list">
+				<li><a href="https://directory.unl.edu/" class="wdn-footer-list-item">Directory</a></li>
+				<li><a href="https://employment.unl.edu/" class="wdn-footer-list-item">Employment</a></li>
+				<li><a href="https://events.unl.edu/" class="wdn-footer-list-item">Events</a></li>
+				<li><a href="http://libraries.unl.edu/" class="wdn-footer-list-item">Libraries</a></li>
+				<li><a href="https://maps.unl.edu/" class="wdn-footer-list-item">Maps</a></li>
+				<li><a href="http://www.unl.edu/chancellor/" class="wdn-footer-list-item">Office of the Chancellor</a></li>
+				<li><a href="http://news.unl.edu/newsrooms/today/" class="wdn-footer-list-item">Nebraska Today</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="wdn-col">
+		<div class="wdn-footer-module wdn-footer-policies">
+			<span role="heading">Policies</span>
+			<ul class="wdn-footer-list">
+				<li><a href="http://emergency.unl.edu/" class="wdn-footer-list-item">Emergency Planning and Preparedness</a></li>
+				<li><a href="http://www.unl.edu/equity/" class="wdn-footer-list-item">Institutional Equity and Compliance</a></li>
+				<li><a href="http://www.unl.edu/equity/notice-nondiscrimination" class="wdn-footer-list-item">Notice of Nondiscrimination</a></li>
+				<li><a href="http://its.unl.edu/unlprivacypolicy" class="wdn-footer-list-item">Privacy Policy</a></li>
+				<li><a href="http://heoa.unl.edu/" class="wdn-footer-list-item">Student Information Disclosures</a></li>
+			</ul>
+			<a href="http://www.unl.edu/tips-incident-reporting-system/" id="tips_wordmark" class="wdn-footer-logo"><span class="wdn-text-hidden">TIPS Incident Reporting</span></a>
+		</div>
+	</div>
+</div>
+<div class="wdn-grid-set">
+	<div class="bp960-wdn-col-three-fourths">
+		<div class="wdn-footer-end">
+			<div class="wdn-grid-set">
+				<div class="bp640-wdn-col-one-third">
+    				<div id="nebraska-b1g-lockup">
+                        <a href="http://www.unl.edu/" id="footer_n_logo" class="wdn-footer-logo"><span class="wdn-text-hidden">University of Nebraska–Lincoln</span></a>
+                        <a href="http://www.unl.edu/about/academic-partnerships/" id="b1g_wordmark" class="wdn-footer-logo"><span class="wdn-text-hidden">About the Big Ten Conference</span></a>
+                    </div>
+				</div>
+				<div class="bp640-wdn-col-two-thirds">
+        			<div class="wdn-footer-text">
+            			<div>
+        					<span class="wdn-wdn-qa">UNL web framework and quality assurance provided by the <a href="http://wdn.unl.edu/">Web&nbsp;Developer&nbsp;Network</a>&nbsp;·&nbsp;<a href="https://webaudit.unl.edu/qa-test/">QA&nbsp;Test</a></span>
+        					<span class="wdn-copyright-phone">© 2017 <a href="http://www.unl.edu/about/">University of Nebraska–Lincoln</a> · <a href="tel:+14024727211">402-472-7211</a></span>
+                        </div>
+                        <a href="https://nebraska.edu/" id="unl_wordmark" class="wdn-footer-logo"><span class="wdn-text-hidden">University of Nebraska System</span></a>
+        			</div>
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+
+                </div>
+            </div>
+        <div id="visitorChat" class="offline"><div id="visitorChat_header" tabindex="0" role="button" aria-label="Open the Email Us widget"><span id="visitorChat_header_text" style="margin-right: 0px;">Email Us</span></div><div id="visitor-chat-header-options"><button id="visitorChat_logout" aria-label="close and log out of chat" style="display: none;"><span class="wdn-icon-cancel"></span></button></div><div id="visitorChat_sound_container"></div></div></footer>
+        <noscript>
+    <div id="wdn_noscript">
+        <p class="wdn-content-slide">
+            Some parts of this site work best with JavaScript enabled.
+        </p>
+    </div>
+</noscript>
+
+    </div>
+    
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious" title="Previous"></button><button type="button" id="cboxNext" title="Next"></button><button id="cboxSlideshow" title="Slideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body><!-- InstanceEnd --></html>

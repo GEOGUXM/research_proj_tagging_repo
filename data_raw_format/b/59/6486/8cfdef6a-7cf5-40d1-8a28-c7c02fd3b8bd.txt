@@ -1,0 +1,147 @@
+HOME | ENGLISH | IMPRESSUM | SITEMAP | KIT
+Institut für Mikro- und Nanoelektronische Systeme (IMS)
+  Unser Profil
+Mitarbeiter
+Forschung
+Studium und Lehre
+Prüfungen
+Studentische Arbeiten
+So finden sie uns!
+Veröffentlichungen
+Impressum
+Links
+Fakultät ETIT
+
+Dipl.-Ing. Erich Crocoll
+Wissenschaftlicher Mitarbeiter im Ruhestand
+Institut für Mikro- und Nanoelektronische Systeme (IMS)
+Hertzstraße 16
+Gebäude: 06.41 
+D - 76187 Karlsruhe
+
+
+
+
+Lehrveranstaltungen
+
+
+Publikationen
+  I. Veröffentlichungen in referierten Zeitschriften
+2009
+Wuensch, S., Ortlepp, T., Schubert, M., Crocoll, E., Wende, G., Meyer, H.–G., Uhlmann, F.H., Siegel, M.,
+Design and implementation of cryogenic semiconductor amplifiers as interface between RSFQ circuits,
+Cryogenics (2009), doi: 10.1016/j.cryogenics.2008.12.021
+Ortlepp T., Wuensch S.; Schubert M., Febvre P., Ebert B., Kunert J., Crocoll E., Meyer H.-G., Siegel M. and Uhlmann F.H.
+"Superconductor-to-Semiconductor Interface Circuit for High Data Rates"
+IEEE Transactions on Applied Superconductivity, Volume 19, No. 1, February 2009.
+2008
+G. Hammer, S. Wuensch, M. Roesch, E. Crocoll, K. Ilin, and M. Siegel,
+„Coupling of microwave resonators to feed lines",
+IEEE Transactions on Applied Superconductivity; Special Issue from the Applied Superconductivity Conference, (4pp), (2008), accepted for publication.
+A. Semenov, P. Haas, B. Günther, H.-W. Huebers, K. Il’in, M. Siegel,
+Energy Resolution of a Superconducting Nanowire Single-Photon Detector,
+Journal of Low Temperature Physics 151, 564-569, 2008. DOI 10.1007/s10909-007-9693-2
+K. Il’in, M. Siegel, A. Engel, H. Bartolf, A. Schilling, A. Semenov, H.-W. Huebers,
+Current-Induced Critical State in NbN Thin-Film Structures,
+Journal of Low Temperature Physics 151, 585-590, 2008. DOI 10.1007/s10909-007-9690-5
+<zurück zum Anfang>
+2007
+G. Hammer, S. Wuensch, M. Roesch, K. Ilin, E. Crocoll, M. Siegel,
+Superconducitng coplanar waveguide resonators for detector applications,
+Supercond. Sci. Technol. 20 (2007) S408-412.
+Hammer G., Wuensch S., Roesch M., Ilin K., Crocoll E., Siegel M.,
+“Superconducting coplanar waveguide resonators for detector applications”,
+Superconductor Science and Technology, Vol. 20, 356-361 (2007).
+Wuensch S., Crocoll E., Schubert M., Wende G., Meyer H.-G., Siegel M.,
+"Design and development of a cryogenic semiconductor amplifier for interfacing RSFQ circuits at 4.2 K",
+Superconductor Science and Technology, Vol. 20, 408-412 (2007).
+<zurück zum Anfang>
+  II. Vorträge auf nationalen und internationalen Tagungen
+2007
+R. Koenig, A. Thomas, M. Kuehnle, J. Becker, E. Crocoll, M. Siegel
+A Mixed-Signal System-on-Chip Audio Decoder Design for Education
+In RCEducation 2007, Porto Alegre, Brasil, 2007
+2004
+S. Wünsch, J. Flamm, R. Schwemlein, E. Crocoll und M. Siegel, H. Töpfer, Th. Ortlepp, F.H. Uhlmann, Superconductor-to-semiconductor communication interface module for system integration of very high-speed superconductor digital electronics, "Processing of Quantum Information in RSFQ Circuits and Qubits". 336. Wilhelm und Else Heraeus-Seminar. 29. November - 1. December 2004 (Invited)
+
+Th. Ortlepp, R. Schwemlein, J. Flamm, S. Wuensch, E. Crocoll, H.Toepfer, F.H. Uhlmann and M. Siegel, Design of a superconductor-to-semiconductor interface circuit for high data rates, "Processing of Quantum Information in RSFQ Circuits and Qubits". 336. Wilhelm und Else Heraeus-Seminar. 29. November - 1. December 2004
+
+S. Wünsch, J. Flamm, R. Schwemlein, E. Crocoll und M. Siegel, Gekühlter extrem breit-bandiger Impulsverstärkers mit p-HEMT für die Kopplung von SFQ-Impulsen, Kryoelektro-nische Bauelemente 2004, 12-14 September 2004 Goslar, Germany.
+<zurück zum Anfang>
+
+Veröffentlichungen vor 2004
+2002
+ 
+W. Jutzi, S. Wuensch, E. Crocoll, M. Neuhaus, T. A. Scherer, T. Weimann and J. Niemeyer, "Microwave and dc Properties of  Niobium Coplanar Nanolines with 50 nm Linewidth on Silicon Substrates", ASC 2002, Houston, August 2002
+
+S. Wuensch, E. Crocoll, M. Neuhaus, T.A. Scherer, A. Stassen, H.-J. Wermund, W. Jutzi, O. Lochner, "Nine Pole Bandpass Filters at 2.7 GHz with Y1Ba2Cu3O(7-d) Coplanar Wave Guides on Sapphire Substrate", ASC 2002, Houston, August 2002
+2001
+
+S. Wünsch, G. Benz, E. Crocoll, M. Fitsilis, M. Neuhaus, T. A. Scherer, W. Jutzi, "Normal and superconductor coplanar waveguides with 100 nm line width", IEEE Trans. on. Applied Superconductivity, vol. 11, no. 1, March 2001, pp. 115-118.
+S. Wünsch,E. Crocoll, M. Neuhaus, A. Stassen, H.-J. Wermund, W. Jutzi, J. Geerk, F. Ratzel, O. Lochner, "Coplanar Microwave filters with Y1 Ba2 Cu3 O7-? thin films on sapphire substrates", EUCAS Copenhagen, August 2001.
+
+I. Danilov, S. Wünsch, E. Crocoll, M. Neuhaus, T. A. Scherer, W. Jutzi, M. Götz, A. B. Zorin, J. Niemeyer, "Verstimmung eines  koplanaren l/2-Resonators hoher Güte aus Niob durch Ankopplung einer Schleife",  Kryoelektronische Bauelemente 2001, 30. Sept. 2. Okt. 2001, Congresscentrum Rolduc, NL-Kerkrade, P37. (*.pdf)
+S. Wünsch, T. A. Scherer, E. Crocoll, M. Neuhaus, A. Stassen, H. J. Wermund, W. Jutzi, J. Geerk, F. Ratzel, O. Lochner, "Reproduzierbarkeit von koplanaren Mikrowellenfiltern aus Y1Ba2Cu3O7-d-Schichten auf einem Saphir-Substrat", Kryoelektronische Bauelemente 2001, 30. Sept. – 2. Okt. 2001, Congresscentrum Rolduc, NL-Kerkrade, P42.
+
+<zurück zum Anfang>
+
+
+2000
+  S. Wünsch, E. Crocoll, M. Neuhaus, T. A. Scherer, A. Stassen, H.  J. Wermund, W. Jutzi, J. Geerk, F. Ratzel, "Ein koplanares Mikrowellenfilter aus Y1Ba2Cu3O7-d - Schichten auf einem Saphir-Substrat", Tagung KRYO '2000, PMW1, p. 27.
+  S. Wünsch, G. Benz, E. Crocoll, M. Fitsilis, M. Neuhaus, T. A. Scherer, W. Jutzi, "Elektrische Nanoverbindungen aus normal- und supraleitenden Materialien", Tagung KRYO '2000, PMW3, p. 58.
+  G. Benz, S. Wünsch, T. A. Scherer, M. Neuhaus, W. Jutzi, "Temperaturabhängigkeit der Güte und des Intermodulationsproduktes von koplanaren Mikrowellenresonatoren  aus Niob und YBCO", Tagung KRYO '2000, PMW 4, p. 59.
+  S. Wünsch, G. Benz, E. Crocoll, M. Fitsilis, M. Neuhaus, T. A. Scherer, W. Jutzi, "Normal and superconductor coplanar waveguides with 100 nm line width", Appl. Supercond. Conf. (ASC) 2000, 17. – 22. Sept., Virginia Beach, VA, USA, 1EB06, 2000. 
+
+<zurück zum Anfang>
+    1999
+  R. Koch, E. Crocoll, M. Neuhaus, T. Scherer, M. Winter, A. Stassen, H. - J. Wermund, W. Jutzi, "Input and output interfaces between RSFQ and semiconductor circuits", 5th Twente Workshop on Superconductivity, Digital Applications, Josephson Junctions and Sensors, 25. - 28. April 1999; Twente, p. 15.
+  R. Koch, P. Ostertag, E. Crocoll, M. Götz, M. Neuhaus, T. Scherer,M. Winter and W. Jutzi, "A NRZ - Output Amplifier for RSFQ Circuits", IEEE Trans. Appl. Supercond., vol. 9, no. 2, June 1999, pp. 3549-3552.
+  S. Wünsch, G. Benz, E. Crocoll, M. Neuhaus, T. Scherer, W. Jutzi, Dämpfung elektrischer Signale auf miniaturisierten Koplanarleitungen mit 50 W Wellenwiderstand bei 4,2 K, Kryoelektronische Bauelemente, Köln, PMW3, p. 43, 1999.
+    1998
+  S. Wünsch, E. Crocoll, M. Neuhaus, T. Scherer, W. Jutzi, "Integration einer koplanaren Filterbank auf einem Substrat", Kryoelektronische Bauelemente, Braunschweig, 1998, p. 43.
+  R. Koch, E. Crocoll, M. Götz, M. Neuhaus, T. Scherer, M. Winter, W. Jutzi, "Messungen an einer Schnittstelle mit NRZ-Ausgang für RSFQ-Schaltungen der Nb-Technologie", Kryoelektronische Bauelemente, Braunschweig, 1998, p. 49.
+  R. Koch, P. Ostertag, E. Crocoll, M. Götz, M. Neuhaus, T. Scherer,M. Winter and W. Jutzi, "A NRZ - Output Amplifier for RSFQ Circuits" , ASC '98, Palm Desert, CA, Sept. 13-18, 1998, EID-05.
+  M. Biehl, E. Crocoll, M. Neuhaus, T. Scherer, W. Jutzi, A Superconducting 4 Bit nstantaneous Frequency Meter at 10 GHz with Integrated Resistors and Air- Bridges, Appl. Supercond. vol. 6, no. 10-12, pp. 547-551, 1998.
+  W. Benzing, M. Biehl, E. Crocoll, R. Koch, M. Neuhaus, T. Scherer, W. Jutzi, Real-Time Measurements on a four Stage RSFQ-Counter with Nb-Al2O3-Nb Josephson Junctions, Appl. Supercond., vol. 6, no. 10-12, pp. 553-557, 1998.
+
+<zurück zum Anfang>
+
+  1997
+  M. Biehl, E. Crocoll, M. Neuhaus, T. Scherer, W. Jutzi, "A Superconducting 4 bit Instantaneous Frequency Meter at 10 GHz with Integrated Resistors and Air-Bridges", ISEC '97, Berlin, vol. 2, pp. 281-283.
+  W. Benzing, M. Biehl, E. Crocoll, R. Koch, M. Neuhaus, T. Scherer, W. Jutzi, "Real-time measurements on a four stage RSFQ-counter", ISEC '97, Berlin, vol. 2, pp. 311-313.
+    1995
+  M. Biehl, A. Vogt, R. Herwig, M. Neuhaus, E. Crocoll, T.Scherer, K. Schönemann, W. Jutzi (Univ. Karlsruhe); H. Kratz (Daimler-Benz AG, Ulm); P. Berberich, H. Kinder (Univ. München),       "Ein Echtzeit-Frequenzmeßsystem um 10 GHz mit Hochtemperatur-Supraleitern auf dem Kaltkopf eines Kleinkühlers", 40. Internationales Wissenschaftliches Kolloquium, TU Ilmenau, 18. - 21. Sept. 1995.
+  M. Biehl, A. Vogt, R. Herwig, M. Neuhaus, E. Crocoll, T.Scherer, K. Schönemann, W. Jutzi (Univ. Karlsruhe); H. Kratz (Daimler-Benz AG, Ulm); P. Berberich, H. Kinder (Univ. München), "Ein Echtzeit-Frequenzmeßsystem um 10 GHz mit Hochtemperatur-Supraleitern auf dem Kaltkopf eines Kleinkühlers", 40. Internationales Wissenschaftliches Kolloquium, TU Ilmenau, 18. - 21. Sept. 1995.
+    1994
+  W. Benzing, R. Lochschmied, E. Crocoll, R. Dolata, R. Herwig, M. Neuhaus, S. Wege, A. Stassen, H.-J. Wermund, W. Jutzi, "Ein Flußquantenzähler mit Taktfrequenzen im 40 GHz - Bereich", VDI-TZ, Statusseminar des BMFT, Weimar, "Supraleitung und Tieftemperaturtechnik", VDI-Verlag, Düsseldorf, pp. 94-97, 1994. 
+  M. Biehl, A. Vogt, R. Herwig, M. Neuhaus, E. Crocoll, R. Lochschmied, T. Scherer, A. Stassen, H.-J. Wermund, W. Jutzi (Universität Karlsruhe); H. Kratz, G. Höfer (Dornier GmbH, Friedrichshafen); P. Berberich, H. Kinder (TU München, Physik-DEP.), "Entwicklung eines 4 Bit - Echtzeitfrequenzmessers im 10 GHz - Bereich mit supraleitenden Verzögerungsleitungen", VDI-TZ, Statusseminar des BMFT, Weimar,  "Supraleitung und Tieftemperaturtechnik", VDI-Verlag, Düsseldorf, pp. 141-144, 1994. 
+  M. Biehl, A. Vogt, R. Herwig, M. Neuhaus, E. Crocoll, R. Lochschmied, T. Scherer, W. Jutzi, Universität Karlsruhe; H. Kratz, Dornier GmbH, Friedrichshafen; P. Berberich, H. Kinder, Universität München, "A 4 bit Instantaneous Frequency Meter at 10 GHz with Coplanar YBCO Delay Lines", ASC '94, Boston, 1994.
+  <zurück zum Anfang>
+    1991
+  H. Matz, D. Drung, E. Crocoll, R. Herwig, G. Krämer, M. Neuhaus and W. Jutzi, "Integrated Magnetometer with Digital Output", IEEE Trans. on Magnetics, Vol. 27, No. 2, pp. 2979-2982, March 1991.
+<zurück zum Anfang>
+   
+
+1990
+  H. Matz, D. Drung, E. Crocoll, R. Herwig, G. Krämer, M. Neuhaus and W. Jutzi, "High Slew Rate Gradiometer Prototype with Digital Feedback Loop of Variable Stepsize", Cryogenics, Vol. 30, No. 4, pp. 330-334, April 1990. 
+
+H. Matz, D. Drung, E. Crocoll, R. Herwig, E. Krämer, M. Neuhaus and W.Jutzi, "Integrated Magnetometer with Digital Output", Applied Superconductivity Conference 1990, Snowmass.
+  W. Jutzi, E. Crocoll, D. Drung, G. Krämer, "Quasi-particle and Pair Current Steps of Josephson Junctions with Radiation Noise in a DC Magnetic Field", Applied Superconductivity Conference in San Francisco, USA, 1988, IEEE Trans. on Magnetics, Vol.25, No.2, pp.1046-1049, March 1989.
+
+
+  1987
+  W.Jutzi, E.Crocoll, J.Marz "Microscopic Simulation of Shapiro Steps near the Gap Voltage of very high Current Density Josephson Junctions", Proc. of the 18th Int. Conf. on Low Temperature Physics in Kyoto, Jap. J. of Applied Physics, Vol. 26, Supp. 26-3, pp. 1589-1590, August 1987. 
+  D.Drung, E.Crocoll, R.Herwig, A.Knuettel, M.Neuhaus, and W.Jutzi, "Experimental Gradiometer with a Digital Feedback Loop", Proc. of the Int. Superconductivity Electronics Conf. in Tokyo, Japan, pp. 21-24, August 1987.
+    1983
+
+W.Jutzi, E.Crocoll, R. Herwig, H.Kratz, M.Neuhaus, H. Sadorf and J. Wunsch, "Experimental SFQ interferometer shift register prototype with Josephson junctions", Electron Device Letters, Vol. EDL-4, No. 3, pp. 49-50, March 1983.
+
+1982
+
+W.Jutzi, E.Crocoll, R.Herwig, H.Kratz, G.Mischke, M.Neuhaus, J.Wunsch, A.Scheidel, H.J.Wermund, "An Experimental Josephson Interferometer Memory Cell for Nondestructive Read Out", Cryogenics, Vol. 22, No. 3,  pp. 127-130, March 1982.
+  J.Wunsch, W.Jutzi, E.Crocoll, "Parameter Evaluation of Asymmetric Interferometers with Two Josephson Junctions", IEEE Transactions on Magnetics, Vol. MAG-18, No. 2, pp. 735-737, March 1982.
+
+<zurück zum Anfang>
+
+letzte Änderung: 31.07.2015
+KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft

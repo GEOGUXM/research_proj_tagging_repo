@@ -1,0 +1,547 @@
+<html class="js" lang="en-US"><!--<![endif]--><head>
+		<meta charset="UTF-8">
+		<!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+		<![endif]-->
+				<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=no">
+				<title></title>
+				<link rel="apple-touch-icon" sizes="144x144" href="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/images/apple-touch-icon.png">
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/images/apple-touch-icon-precomposed.png">
+				<!-- Feeds and Pingback -->
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="alternate" type="application/rss+xml" title="School of Computing, Informatics, and Decision Systems Engineering RSS2 Feed" href="http://cidse.engineering.asu.edu/feed/">
+		<link rel="pingback" href="http://cidse.engineering.asu.edu/xmlrpc.php">
+		<title>Wu, Teresa | School of Computing, Informatics, and Decision Systems Engineering</title>
+<script type="text/javascript" id="www-widgetapi-script" src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vflPSGdpW/www-widgetapi.js" async=""></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-56HQWBT&amp;l=SI_dataLayer&amp;t=gtm4&amp;cid=923258630.1498088787"></script><script src="//www.youtube.com/iframe_api"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KDWN8Z&amp;l=SI_dataLayer"></script><script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/js/cufon-yui.js?ver=1.09i"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/fonts/0?ver=4.7.2"></script>
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s.gravatar.com">
+<link rel="dns-prefetch" href="//cidse.engineering.asu.edu">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="School of Computing, Informatics, and Decision Systems Engineering » Feed" href="http://cidse.engineering.asu.edu/feed/">
+<link rel="alternate" type="application/rss+xml" title="School of Computing, Informatics, and Decision Systems Engineering » Comments Feed" href="http://cidse.engineering.asu.edu/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="School of Computing, Informatics, and Decision Systems Engineering » Wu, Teresa Comments Feed" href="http://cidse.engineering.asu.edu/directory/teresa-wu/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cidse.engineering.asu.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://cidse.engineering.asu.edu/wp-includes/js/wp-emoji-release.min.js?ver=4.7.2" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="dashicons-css" href="http://cidse.engineering.asu.edu/wp-includes/css/dashicons.min.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="my-calendar-reset-css" href="http://cidse.engineering.asu.edu/wp-content/plugins/my-calendar/css/reset.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="my-calendar-style-css" href="http://cidse.engineering.asu.edu/wp-content/plugins/my-calendar/styles/refresh.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="tab-shortcode-css" href="http://cidse.engineering.asu.edu/wp-content/plugins/tabs-shortcode/tab.min.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="asu-header-css-css" href="http://cidse.engineering.asu.edu/wp-content/themes/striking_r_child/assets/asu-header/css/asu-nav.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://cidse.engineering.asu.edu/wp-content/plugins/jetpack/css/jetpack.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="theme-style-css" href="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/css/screen.min.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="theme-icons-awesome-css" href="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/icons/awesome/css/font-awesome.min.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="theme-responsive-css" href="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/css/responsive.min.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="theme-skin-css" href="http://cidse.engineering.asu.edu/wp-content/uploads/strikingr/skin.css?ver=1498089092" type="text/css" media="all">
+<link rel="stylesheet" id="theme-child-style-css" href="http://cidse.engineering.asu.edu/wp-content/themes/striking_r_child/style.css?ver=4.7.2" type="text/css" media="all">
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/js/jquery.fancybox.min.js?ver=2.1.5"></script>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/js/custom.combine.js?ver=4.7.2"></script>
+<link rel="https://api.w.org/" href="http://cidse.engineering.asu.edu/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cidse.engineering.asu.edu/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cidse.engineering.asu.edu/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Runger, George" href="http://cidse.engineering.asu.edu/directory/george-runger/">
+<link rel="next" title="Farin, Gerald" href="http://cidse.engineering.asu.edu/directory/gerald-farin/">
+<meta name="generator" content="WordPress 4.7.2">
+<link rel="alternate" type="application/json+oembed" href="http://cidse.engineering.asu.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcidse.engineering.asu.edu%2Fdirectory%2Fteresa-wu%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://cidse.engineering.asu.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcidse.engineering.asu.edu%2Fdirectory%2Fteresa-wu%2F&amp;format=xml">
+
+<style type="text/css">
+<!--
+/* Styles by My Calendar - Joseph C Dolson http://www.joedolson.com/ */
+
+.mc-event-visible {
+display: block!important;
+}
+-->
+</style>
+<script type="text/javascript">
+	jQuery('html').addClass('mcjs');
+	jQuery(document).ready( function($) { $('html').removeClass('mcjs') } );
+</script>
+<!-- Stream WordPress user activity plugin v3.0.7 -->
+
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<script type="text/javascript">
+
+
+</script><script type="text/javascript">
+var image_url='http://cidse.engineering.asu.edu/wp-content/themes/striking_r/images';
+var theme_url='http://cidse.engineering.asu.edu/wp-content/themes/striking_r';
+var responsve_image_resize=true;
+var fancybox_options = {
+	skin : 'theme',
+	title_type : 'float',
+	width : 800,
+	height : 600,
+	autoSize: true,
+	autoWidth: false,
+	autoHeight: false,
+	fitToView : true,
+	aspectRatio: false,
+	arrows: true,
+	closeBtn: true,
+	closeClick: false,
+	nextClick: false,
+	autoPlay: false,
+	playSpeed: 3000,
+	preload: 3,
+	loop: true,
+	thumbnail : true,
+	thumbnail_width : 50,
+	thumbnail_height : 50,
+	thumbnail_position: 'bottom'
+};
+var pie_progress_bar_color = "#3cabce",
+	pie_progress_track_color = "#e5e5e5";
+var nav2select_indentString = "–";
+var nav2select_defaultText = "Navigate to...";
+</script>
+<link rel="canonical" href="http://cidse.engineering.asu.edu/directory/teresa-wu/">
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Wu, Teresa">
+<meta property="og:url" content="http://cidse.engineering.asu.edu/directory/teresa-wu/">
+<meta property="og:description" content="Information systems, supply chain management, multi-agent systems, data mining, Petri nets, Kalman filtering">
+<meta property="article:published_time" content="2011-11-18T22:24:41+00:00">
+<meta property="article:modified_time" content="2017-01-26T21:30:24+00:00">
+<meta property="og:site_name" content="School of Computing, Informatics, and Decision Systems Engineering">
+<meta property="og:image" content="http://cidse.engineering.asu.edu/wp-content/uploads/2011/11/Wu_Theresa_9523b.jpg">
+<meta property="og:image:width" content="2801">
+<meta property="og:image:height" content="1867">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:image" content="http://cidse.engineering.asu.edu/wp-content/uploads/2011/11/Wu_Theresa_9523b.jpg?w=640">
+<meta name="twitter:card" content="summary_large_image">
+		<!--[if IE 6 ]>
+		<link href="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/css/ie6.css" media="screen" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/js/dd_belatedpng-min.js"></script>
+		<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/js/ie6.js"></script>
+		<![endif]-->
+		<!--[if IE 7 ]>
+		<link href="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/css/ie7.css" media="screen" rel="stylesheet" type="text/css">
+		<![endif]-->
+		<!--[if IE 8 ]>
+		<link href="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/css/ie8.css" media="screen" rel="stylesheet" type="text/css">
+		<![endif]-->
+		<!--[if IE]>
+		<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/themes/striking_r/js/html5shiv.js"></script>
+		<![endif]-->
+		<!-- Make IE8 and below responsive by adding CSS3 MediaQuery support -->
+		<!--[if lt IE 9]>
+		<script type='text/javascript' src='http://cidse.engineering.asu.edu/wp-content/themes/striking_r/js/css3-mediaqueries.js'></script>
+		<![endif]-->
+	<style type="text/css">.fancybox-margin{margin-right:14px;}</style><link rel="stylesheet" type="text/css" id="gravatar-card-css" href="http://s.gravatar.com/css/hovercard.css?ver=2017Junaa"><link rel="stylesheet" type="text/css" id="gravatar-card-services-css" href="http://s.gravatar.com/css/services.css?ver=2017Junaa"><script src="//gateway.foresee.com/sites/asu-edu/production/gateway.min.js" type="text/javascript" async="true" data-vendor="fs" data-role="gateway"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//gateway.foresee.com/code/19.3.3-v.2/fs.utils.js" src="//gateway.foresee.com/code/19.3.3-v.2/fs.utils.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="//gateway.foresee.com/code/19.3.3-v.2/fs.trigger.js" src="//gateway.foresee.com/code/19.3.3-v.2/fs.trigger.js"></script></head>
+
+	<body class="portfolio-template-default single single-portfolio postid-1027 responsive has-shadow has-gradient">
+		<!-- Google Tag Manager ASU Universal-->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KDWN8Z"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','SI_dataLayer','GTM-KDWN8Z');</script>
+		<!-- End Google Tag Manager ASU Universal -->
+
+		<div id="asu-header">
+			<div class="inner">
+		    	<header class="" id="masthead">
+  <div class="container">
+    <div class="region region-header">
+      <div id="block-asu-brand-asu-brand-header" class="block block-asu-brand">
+        <div class="content">
+          <!-- START /asuthemes/4.0-rsp-up.0/headers/default_white.shtml -->
+          <div id="asu_hdr" class=" asu_hdr_white chrome">
+            <div id="asu_mobile_menu" class="toggle_off">
+              <div id="asu_nav_wrapper">
+                <h2 class="hidden">Sign In / Sign Out</h2>
+                <ul id="asu_login_module">
+                  <li id="asu_hdr_ssi" class="end">
+                    <a target="_top" href="https://weblogin.asu.edu/cgi-bin/login" onmouseover="this.href = ASUHeader.alterLoginHref(this.href);" onfocus="this.href = ASUHeader.alterLoginHref(this.href);" onclick="this.href = ASUHeader.alterLoginHref(this.href);">Sign In</a>
+                  </li>
+                </ul>
+                <div id="asu_nav_menu">
+                  <h2 class="hidden">Menu</h2>
+                  <div id="asu_universal_nav">
+                    <ul>
+                      <li class="home"><a target="_top" href="http://www.asu.edu/" id="asu-home-link-asu-header">ASU Home</a></li>
+                      <li class="myasu"><a target="_top" href="https://my.asu.edu/" id="my-asu-link-asu-header">My ASU</a></li>
+                      <li class="parent colleges">
+                        <a target="_top" href="http://www.asu.edu/colleges/" id="colleges-and-schools-link-asu-header">Colleges &amp; Schools</a>
+                        <ul>
+                          <li><a target="_top" class="first" href="http://artsandsciences.asu.edu/" title="Arts and Sciences website" id="arts-and-sciences-link-asu-header">Arts and Sciences</a></li>
+                          <li><a target="_top" href="//wpcarey.asu.edu/" title="W. P. Carey School of Business Web  and Morrison School of Agribusiness website" id="business-link-asu-header">Business</a></li>
+                          <li><a target="_top" href="//herbergerinstitute.asu.edu" title="Herberger Institute for Design and the Arts website" id="design-and-the-arts-link-asu-header">Design and the Arts</a></li>
+                          <li><a target="_top" href="//education.asu.edu/" title="Mary Lou Fulton Teachers College website" id="education-link-asu-header">Education</a></li>
+                          <li><a target="_top" href="//engineering.asu.edu/" title="Engineering website" id="engineering-link-asu-header">Engineering</a></li>
+                          <li><a target="_top" href="//sfis.asu.edu/" title="Future of Innovation in Society website" id="future-of-innovation-in-society">Future of Innovation in Society</a></li>
+                          <li><a target="_top" href="//graduate.asu.edu" title="Graduate College website" id="graduate-link-asu-header">Graduate</a></li>
+                          <li><a target="_top" href="//healthsolutions.asu.edu/" title="Health Solutions website" id="health-solutions-link-asu-header">Health Solutions</a></li>
+                          <li><a target="_top" href="//honors.asu.edu/" title="Barrett, The Honors College website" id="honors-link-asu-header">Honors</a></li>
+                          <li><a target="_top" href="//cronkite.asu.edu" title="Walter Cronkite School of Journalism and Mass Communication website" id="journalism-link-asu-header">Journalism</a></li>
+                          <li><a target="_top" href="//www.law.asu.edu/" title="Sandra Day O' Connor College of Law website" id="law-link-asu-header">Law</a></li>
+                          <li><a target="_top" href="//nursingandhealth.asu.edu/" title="College of Nursing and Health Innovation website" id="nursing-and-health-link-asu-header">Nursing and Health</a></li>
+                          <li><a target="_top" href="//copp.asu.edu" title="College of Public Programs website" id="public-programs-link-asu-header">Public Service and Community Solutions</a></li>
+                          <li><a target="_top" href="//schoolofsustainability.asu.edu" title="School of Sustainability website" id="sustainability-link-asu-header">Sustainability</a></li>
+                          <li><a target="_top" href="//uc.asu.edu/" title="University College website" id="university-college-link-asu-header">University College</a></li>
+                          <li><a target="_top" href="http://www.thunderbird.edu/" title="Thunderbird School of Global Management website" id="thunderbird-school-link-asu-header">Thunderbird School of Global Management</a></li>
+                        </ul>
+                      </li>
+                      <li class="parent map">
+                        <a target="_top" href="http://www.asu.edu/map/" id="map-and-locations-link-asu-header">Map &amp; Locations</a>
+                        <ul>
+                          <li><a target="_top" class="border first" href="http://www.asu.edu/map/" id="map-link-asu-header">Map</a></li>
+                          <li><a target="_top" href="//campus.asu.edu/tempe/" title="Tempe campus" id="tempe-link-asu-header">Tempe</a></li>
+                          <li><a target="_top" href="//campus.asu.edu/west/" title="West campus" id="west-link-asu-header">West</a></li>
+                          <li><a target="_top" href="//campus.asu.edu/polytechnic/" title="Polytechnic campus" id="polytechnic-link-asu-header">Polytechnic</a></li>
+                          <li><a target="_top" href="//campus.asu.edu/downtown/" title="Downtown Phoenix campus" id="downtown-phoenix-link-asu-header">Downtown Phoenix</a></li>
+                          <li><a target="_top" href="//asuonline.asu.edu/" title="Online and Extended campus" id="online-and-extended-link-asu-header">Online and Extended</a></li>
+                          <li><a target="_top" class="border" href="//havasu.asu.edu/" id="lake-havasu-link-asu-header">Lake Havasu</a></li>
+                          <li><a target="_top" href="//skysong.asu.edu/" id="skysong-link-asu-header">Skysong</a></li>
+                          <li><a target="_top" href="//asuresearchpark.com/" id="research-park-link-asu-header">Research Park</a></li>
+                          <li><a target="_top" href="//washingtoncenter.asu.edu/" id="washington-dc-link-asu-header">Washington D.C.</a></li>
+                          <li><a target="_top" href="//wpcarey.asu.edu/mba/china-program/english/" id="china-link-asu-header">China</a></li>
+                        </ul>
+                      </li>
+                      <li class="contact"><a target="_top" href="http://www.asu.edu/contactasu/" title="Directory, Index and other info" id="directory-link-asu-header">Directory</a></li>
+                    </ul>
+                    <img class="asu_touch" src="//www.asu.edu/asuthemes/4.0-rsp-up.0/images/ipad_close.gif" alt="">
+                  </div>
+                  <!-- /#asu_universal_nav -->
+                </div>
+                <!-- /#asu_nav_menu -->    
+              </div>
+              <!-- /#asu_nav_wrapper -->
+              <div id="asu_search">
+                <h2 class="hidden">Search</h2>
+                <div id="asu_search_module">
+                  <form target="_top" action="https://search.asu.edu/search" method="get" name="gs">
+                    <label class="hidden" for="asu_search_box">Search</label>
+                    <input name="site" value="default_collection" type="hidden">
+                    <input name="q" size="32" placeholder="Search ASU" id="asu_search_box" class="asu_search_box" onfocus="ASUHeader.searchFocus(this)" onblur="ASUHeader.searchBlur(this)" type="text"> 
+                    <input value="Search" title="Search" class="asu_search_button" type="submit">
+                    <input name="sort" value="date:D:L:d1" type="hidden"> 
+                    <input name="output" value="xml_no_dtd" type="hidden"> 
+                    <input name="ie" value="UTF-8" type="hidden"> 
+                    <input name="oe" value="UTF-8" type="hidden"> 
+                    <input name="client" value="asu_frontend" type="hidden"> 
+                    <input name="proxystylesheet" value="asu_frontend" type="hidden">
+                  </form>
+                </div>
+                <!-- /#asu_search_module -->
+              </div>
+              <!-- /#asu_search -->    
+            </div>
+            <!-- /#asu_mobile_menu -->
+            <div id="asu_mobile_hdr">
+              <div id="asu_logo">
+                                <a target="_top" href="http://www.asu.edu/" title="Arizona State University" id="asu-logo-in-header">
+                  <img src="//www.asu.edu/asuthemes/4.0-rsp-up.0/images/logos/asu_logo_white.png" alt="Arizona State University" style="margin-top:14px" title="Arizona State University" width="203" height="32">
+                </a>
+                              </div>
+              <!-- /#asu_logo  -->
+              <img src="//www.asu.edu/asuthemes/4.0-rsp-up.0/images/logos/asu_logo_white.png" id="asu_print_logo" alt="ASU Logo" width="203" height="32">
+              <div id="asu_mobile_button" class="asushow"><a href="javascript:toggleASU();" data-target=".navbar-collapse" data-toggle="collapse">Menu</a></div>
+            </div>
+            <!-- /#asu_mobile_header  -->
+          </div>
+          <!-- /#asu_hdr -->
+          <div style="clear:both;"></div>
+          <!-- END /asuthemes/4.0-rsp-up.0/headers/default_white.shtml -->
+        </div>
+      </div>
+    </div>
+  </div>
+</header>	    	</div>
+	    </div>
+
+		<div class="body-warp">
+			<header id="header">
+				<div class="inner">
+										<div id="logo">
+						<a href="http://cidse.engineering.asu.edu/">
+							<img class="site-logo ie_png" src="http://cidse.engineering.asu.edu/wp-content/uploads/2012/06/cidse-2.png" alt="School of Computing, Informatics, and Decision Systems Engineering">
+													</a>
+											</div>
+															<nav id="navigation" class="jqueryslidemenu"><ul id="menu-alt-main" class="menu"><li id="menu-item-4732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-4732"><a href="https://cidse.engineering.asu.edu">Home</a></li>
+<li id="menu-item-3360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3360 has-children"><a href="http://cidse.engineering.asu.edu/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-3362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3362"><a href="http://cidse.engineering.asu.edu/about/directors-welcome/">Director’s Welcome</a></li>
+	<li id="menu-item-3361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3361"><a href="http://cidse.engineering.asu.edu/about/our-vision/">Our Vision and Mission</a></li>
+	<li id="menu-item-3363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3363"><a href="http://cidse.engineering.asu.edu/about/annual-reports-and-newsletters/">Annual Reports</a></li>
+	<li id="menu-item-8892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8892"><a href="http://engineering.asu.edu/factbook/data/">Enrollment and Degrees Awarded</a></li>
+</ul>
+</li>
+<li id="menu-item-4736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4736 has-children"><a href="http://cidse.engineering.asu.edu/forstudent/">For Students</a>
+<ul class="sub-menu">
+	<li id="menu-item-4768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4768 has-children"><a href="http://cidse.engineering.asu.edu/forstudent/prospective-students/">Prospective Students</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4742"><a href="http://cidse.engineering.asu.edu/forstudent/prospective-students/preparing-for-college/">Preparing for College</a></li>
+		<li id="menu-item-3323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3323"><a href="http://cidse.engineering.asu.edu/forstudent/prospective-students/undergraduate-admissions/">Undergraduate Admissions</a></li>
+		<li id="menu-item-3802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3802"><a href="http://cidse.engineering.asu.edu/forstudent/prospective-students/graduate-admissions/">Graduate Admissions</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3326 has-children"><a href="http://cidse.engineering.asu.edu/forstudent/undergraduate/">Undergraduate Programs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3327"><a href="http://cidse.engineering.asu.edu/forstudent/undergraduate/majors/">Majors</a></li>
+		<li id="menu-item-3331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3331"><a href="http://cidse.engineering.asu.edu/forstudent/academic-advising/undergraduate-advising/ug-student-resource/">Student Resources</a></li>
+		<li id="menu-item-3328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3328"><a href="http://cidse.engineering.asu.edu/forstudent/undergraduate/accelerateddegreeprograms/">Accelerated Degree Programs (4+1)</a></li>
+		<li id="menu-item-3329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3329"><a href="http://cidse.engineering.asu.edu/forstudent/undergraduate/certificates/">Certificate Programs</a></li>
+		<li id="menu-item-4709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4709"><a href="http://cidse.engineering.asu.edu/forstudent/undergraduate/minor/">Minor</a></li>
+		<li id="menu-item-8610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8610"><a href="https://cidse.engineering.asu.edu/forstudent/academic-advising/undergraduate-advising/ugforms/">Undergraduate Forms</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3332 has-children"><a href="http://cidse.engineering.asu.edu/forstudent/graduate/">Graduate Programs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3785"><a href="http://cidse.engineering.asu.edu/forstudent/graduate/computer-engineering/">Computer Engineering</a></li>
+		<li id="menu-item-3783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3783"><a href="http://cidse.engineering.asu.edu/forstudent/graduate/computer-science/">Computer Science</a></li>
+		<li id="menu-item-3782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3782"><a href="http://cidse.engineering.asu.edu/forstudent/graduate/industrial-engineering/">Industrial Engineering</a></li>
+		<li id="menu-item-7770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7770"><a href="http://cidse.engineering.asu.edu/forstudent/graduate/software-engineering/">Software Engineering</a></li>
+		<li id="menu-item-5809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5809"><a href="http://cidse.engineering.asu.edu/forstudent/graduate/lean-six-sigma-black-belt/">Graduate Certificate: Lean Six Sigma Black Belt</a></li>
+		<li id="menu-item-5860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5860"><a href="http://cidse.engineering.asu.edu/forstudent/graduate/newly-admitted-student-information/">Newly Admitted Student Information</a></li>
+		<li id="menu-item-3404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3404"><a href="http://cidse.engineering.asu.edu/forstudent/graduate/handbooks/">Handbooks</a></li>
+		<li id="menu-item-3335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3335 has-children"><a href="http://cidse.engineering.asu.edu/forstudent/graduate/gradforms/">Forms and Procedures</a>
+		<ul class="sub-menu">
+			<li id="menu-item-8982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8982"><a href="http://cidse.engineering.asu.edu/course-permission-requests/">Course Permission Requests</a></li>
+		</ul>
+</li>
+		<li id="menu-item-3336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3336"><a href="http://cidse.engineering.asu.edu/forstudent/graduate/teachingresearch-assistantships/">Teaching/Research Assistantships &amp; Other Funding Opportunities</a></li>
+		<li id="menu-item-6207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6207"><a href="http://cidse.engineering.asu.edu/forstudent/graduate/alumni/">Alumni</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4735 has-children"><a href="http://cidse.engineering.asu.edu/forstudent/academic-advising/">Advising</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3330"><a href="http://cidse.engineering.asu.edu/forstudent/academic-advising/undergraduate-advising/">Undergraduate Advising</a></li>
+		<li id="menu-item-3334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3334"><a href="http://cidse.engineering.asu.edu/forstudent/academic-advising/graduate-advising/">Graduate Advising</a></li>
+		<li id="menu-item-3392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3392"><a href="http://cidse.engineering.asu.edu/forstudent/academic-advising/undergraduate-advising/advising-appointments/">Schedule an Advising Appointment</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5070 has-children"><a href="http://cidse.engineering.asu.edu/forstudent/current-course-catalogs/">Current Course Catalogs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5072"><a href="https://webapp4.asu.edu/catalog/courselist?s=CEN">CEN courses</a></li>
+		<li id="menu-item-5073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5073"><a href="https://webapp4.asu.edu/catalog/courselist?s=CPI">CPI courses</a></li>
+		<li id="menu-item-5071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5071"><a href="https://webapp4.asu.edu/catalog/courselist?s=CSE">CSE courses</a></li>
+		<li id="menu-item-8612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8612"><a href="https://webapp4.asu.edu/catalog/courselist?s=CST">CST courses</a></li>
+		<li id="menu-item-5074" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5074"><a href="https://webapp4.asu.edu/catalog/courselist?s=IEE">IEE courses</a></li>
+		<li id="menu-item-8611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8611"><a href="https://webapp4.asu.edu/catalog/courselist?s=SER">SER courses</a></li>
+	</ul>
+</li>
+	<li id="menu-item-8502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8502"><a href="http://cidse.engineering.asu.edu/forstudent/labs/">CIDSE Virtual Lab</a></li>
+	<li id="menu-item-8609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8609"><a href="https://cidse.engineering.asu.edu/forstudent/academic-advising/cidse-override-policy/">Prerequisite Override Requests</a></li>
+</ul>
+</li>
+<li id="menu-item-3350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3350 has-children"><a href="http://cidse.engineering.asu.edu/facultyandresearch/directory/">Directory</a>
+<ul class="sub-menu">
+	<li id="menu-item-4788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4788"><a href="http://cidse.engineering.asu.edu/facultyandresearch/directory/faculty/">Faculty</a></li>
+	<li id="menu-item-3346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3346"><a href="http://cidse.engineering.asu.edu/facultyandresearch/directory/faculty-by-research-area/">Faculty by Research Area</a></li>
+	<li id="menu-item-8897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8897"><a href="http://cidse.engineering.asu.edu/facultyandresearch/directory/lecturers-and-research-faculty/">Lecturers and Research Faculty</a></li>
+	<li id="menu-item-4784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4784"><a href="http://cidse.engineering.asu.edu/facultyandresearch/directory/phd-students/">Ph.D. Students</a></li>
+	<li id="menu-item-4785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4785"><a href="http://cidse.engineering.asu.edu/facultyandresearch/directory/emeritus/">Emeritus</a></li>
+	<li id="menu-item-4786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4786"><a href="http://cidse.engineering.asu.edu/facultyandresearch/directory/academic-leadership-team/">CIDSE Academic Leadership Team</a></li>
+	<li id="menu-item-4787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4787"><a href="http://cidse.engineering.asu.edu/facultyandresearch/directory/staff/">Staff</a></li>
+</ul>
+</li>
+<li id="menu-item-3341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3341 has-children"><a href="http://cidse.engineering.asu.edu/facultyandresearch/">Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-4215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4215"><a href="http://cidse.engineering.asu.edu/facultyandresearch/faculty-publications/">Faculty Publications</a></li>
+	<li id="menu-item-3345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3345"><a href="http://cidse.engineering.asu.edu/facultyandresearch/research-centers/">Research Centers</a></li>
+	<li id="menu-item-3349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3349"><a href="http://cidse.engineering.asu.edu/facultyandresearch/research-advancement/">Research Advancement</a></li>
+	<li id="menu-item-4814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4814"><a href="http://cidse.engineering.asu.edu/facultyandresearch/researchbriefs/">Research Briefs</a></li>
+	<li id="menu-item-7790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7790"><a href="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/labs-and-research-information/">Research Labs</a></li>
+	<li id="menu-item-4825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4825 has-children"><a href="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/">Major Research Areas</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3348"><a href="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/computational-intelligence-and-algorithms/">Computational Intelligence and Algorithms</a></li>
+		<li id="menu-item-3342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3342"><a href="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/data-management-and-information-assurance/">Data Management and Information Assurance</a></li>
+		<li id="menu-item-3343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3343"><a href="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/network-science-and-systems/">Network Science and Systems</a></li>
+		<li id="menu-item-3344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3344"><a href="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/software-and-systems-engineering/">Software and Systems Engineering</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-10210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10210 has-children"><a href="#">News and Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-7920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7920"><a href="http://fullcircle.asu.edu/tag/cidse/">Full Circle News</a></li>
+	<li id="menu-item-9890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9890"><a href="http://innercircle.engineering.asu.edu/tag/cidse/">Inner Circle News</a></li>
+</ul>
+</li>
+<li id="menu-item-9888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9888"><a href="https://engineering.asu.edu/hiring/">Hiring</a></li>
+<li id="menu-item-9773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9773 has-children"><a href="https://cidse.engineering.asu.edu/outreach">Outreach</a>
+<ul class="sub-menu">
+	<li id="menu-item-3357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3357"><a href="http://cidse.engineering.asu.edu/outreach/intel-at-asu/">Intel at ASU</a></li>
+	<li id="menu-item-9911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9911"><a href="https://cidse.engineering.asu.edu/outreach/camps/">Summer Camps 2017</a></li>
+	<li id="menu-item-9912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9912"><a href="https://cidse.engineering.asu.edu/outreach/internships-jobs/cse-484-major-internship-program/">Internships</a></li>
+</ul>
+</li>
+<li id="menu-item-9913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9913"><a href="http://cidse.engineering.asu.edu/contact-us-about/">Contact</a></li>
+</ul><select class="nav2select"><option value="#" data-linkable="false">Navigate to...</option><option value="https://cidse.engineering.asu.edu">Home</option><option value="http://cidse.engineering.asu.edu/about/">About</option><option value="http://cidse.engineering.asu.edu/about/directors-welcome/">–&nbsp;Director’s Welcome</option><option value="http://cidse.engineering.asu.edu/about/our-vision/">–&nbsp;Our Vision and Mission</option><option value="http://cidse.engineering.asu.edu/about/annual-reports-and-newsletters/">–&nbsp;Annual Reports</option><option value="http://engineering.asu.edu/factbook/data/">–&nbsp;Enrollment and Degrees Awarded</option><option value="http://cidse.engineering.asu.edu/forstudent/">For Students</option><option value="http://cidse.engineering.asu.edu/forstudent/prospective-students/">–&nbsp;Prospective Students</option><option value="http://cidse.engineering.asu.edu/forstudent/prospective-students/preparing-for-college/">––&nbsp;Preparing for College</option><option value="http://cidse.engineering.asu.edu/forstudent/prospective-students/undergraduate-admissions/">––&nbsp;Undergraduate Admissions</option><option value="http://cidse.engineering.asu.edu/forstudent/prospective-students/graduate-admissions/">––&nbsp;Graduate Admissions</option><option value="http://cidse.engineering.asu.edu/forstudent/undergraduate/">–&nbsp;Undergraduate Programs</option><option value="http://cidse.engineering.asu.edu/forstudent/undergraduate/majors/">––&nbsp;Majors</option><option value="http://cidse.engineering.asu.edu/forstudent/academic-advising/undergraduate-advising/ug-student-resource/">––&nbsp;Student Resources</option><option value="http://cidse.engineering.asu.edu/forstudent/undergraduate/accelerateddegreeprograms/">––&nbsp;Accelerated Degree Programs (4+1)</option><option value="http://cidse.engineering.asu.edu/forstudent/undergraduate/certificates/">––&nbsp;Certificate Programs</option><option value="http://cidse.engineering.asu.edu/forstudent/undergraduate/minor/">––&nbsp;Minor</option><option value="https://cidse.engineering.asu.edu/forstudent/academic-advising/undergraduate-advising/ugforms/">––&nbsp;Undergraduate Forms</option><option value="http://cidse.engineering.asu.edu/forstudent/graduate/">–&nbsp;Graduate Programs</option><option value="http://cidse.engineering.asu.edu/forstudent/graduate/computer-engineering/">––&nbsp;Computer Engineering</option><option value="http://cidse.engineering.asu.edu/forstudent/graduate/computer-science/">––&nbsp;Computer Science</option><option value="http://cidse.engineering.asu.edu/forstudent/graduate/industrial-engineering/">––&nbsp;Industrial Engineering</option><option value="http://cidse.engineering.asu.edu/forstudent/graduate/software-engineering/">––&nbsp;Software Engineering</option><option value="http://cidse.engineering.asu.edu/forstudent/graduate/lean-six-sigma-black-belt/">––&nbsp;Graduate Certificate: Lean Six Sigma Black Belt</option><option value="http://cidse.engineering.asu.edu/forstudent/graduate/newly-admitted-student-information/">––&nbsp;Newly Admitted Student Information</option><option value="http://cidse.engineering.asu.edu/forstudent/graduate/handbooks/">––&nbsp;Handbooks</option><option value="http://cidse.engineering.asu.edu/forstudent/graduate/gradforms/">––&nbsp;Forms and Procedures</option><option value="http://cidse.engineering.asu.edu/course-permission-requests/">–––&nbsp;Course Permission Requests</option><option value="http://cidse.engineering.asu.edu/forstudent/graduate/teachingresearch-assistantships/">––&nbsp;Teaching/Research Assistantships &amp; Other Funding Opportunities</option><option value="http://cidse.engineering.asu.edu/forstudent/graduate/alumni/">––&nbsp;Alumni</option><option value="http://cidse.engineering.asu.edu/forstudent/academic-advising/">–&nbsp;Advising</option><option value="http://cidse.engineering.asu.edu/forstudent/academic-advising/undergraduate-advising/">––&nbsp;Undergraduate Advising</option><option value="http://cidse.engineering.asu.edu/forstudent/academic-advising/graduate-advising/">––&nbsp;Graduate Advising</option><option value="http://cidse.engineering.asu.edu/forstudent/academic-advising/undergraduate-advising/advising-appointments/">––&nbsp;Schedule an Advising Appointment</option><option value="http://cidse.engineering.asu.edu/forstudent/current-course-catalogs/">–&nbsp;Current Course Catalogs</option><option value="https://webapp4.asu.edu/catalog/courselist?s=CEN">––&nbsp;CEN courses</option><option value="https://webapp4.asu.edu/catalog/courselist?s=CPI">––&nbsp;CPI courses</option><option value="https://webapp4.asu.edu/catalog/courselist?s=CSE">––&nbsp;CSE courses</option><option value="https://webapp4.asu.edu/catalog/courselist?s=CST">––&nbsp;CST courses</option><option value="https://webapp4.asu.edu/catalog/courselist?s=IEE">––&nbsp;IEE courses</option><option value="https://webapp4.asu.edu/catalog/courselist?s=SER">––&nbsp;SER courses</option><option value="http://cidse.engineering.asu.edu/forstudent/labs/">–&nbsp;CIDSE Virtual Lab</option><option value="https://cidse.engineering.asu.edu/forstudent/academic-advising/cidse-override-policy/">–&nbsp;Prerequisite Override Requests</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/directory/">Directory</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/directory/faculty/">–&nbsp;Faculty</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/directory/faculty-by-research-area/">–&nbsp;Faculty by Research Area</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/directory/lecturers-and-research-faculty/">–&nbsp;Lecturers and Research Faculty</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/directory/phd-students/">–&nbsp;Ph.D. Students</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/directory/emeritus/">–&nbsp;Emeritus</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/directory/academic-leadership-team/">–&nbsp;CIDSE Academic Leadership Team</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/directory/staff/">–&nbsp;Staff</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/">Research</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/faculty-publications/">–&nbsp;Faculty Publications</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/research-centers/">–&nbsp;Research Centers</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/research-advancement/">–&nbsp;Research Advancement</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/researchbriefs/">–&nbsp;Research Briefs</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/labs-and-research-information/">–&nbsp;Research Labs</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/">–&nbsp;Major Research Areas</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/computational-intelligence-and-algorithms/">––&nbsp;Computational Intelligence and Algorithms</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/data-management-and-information-assurance/">––&nbsp;Data Management and Information Assurance</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/network-science-and-systems/">––&nbsp;Network Science and Systems</option><option value="http://cidse.engineering.asu.edu/facultyandresearch/4-major-research-areas/software-and-systems-engineering/">––&nbsp;Software and Systems Engineering</option><option value="#" data-linkable="false">News and Events</option><option value="http://fullcircle.asu.edu/tag/cidse/">–&nbsp;Full Circle News</option><option value="http://innercircle.engineering.asu.edu/tag/cidse/">–&nbsp;Inner Circle News</option><option value="https://engineering.asu.edu/hiring/">Hiring</option><option value="https://cidse.engineering.asu.edu/outreach">Outreach</option><option value="http://cidse.engineering.asu.edu/outreach/intel-at-asu/">–&nbsp;Intel at ASU</option><option value="https://cidse.engineering.asu.edu/outreach/camps/">–&nbsp;Summer Camps 2017</option><option value="https://cidse.engineering.asu.edu/outreach/internships-jobs/cse-484-major-internship-program/">–&nbsp;Internships</option><option value="http://cidse.engineering.asu.edu/contact-us-about/">Contact</option></select></nav>				</div>
+			</header><article class="post-1027 portfolio type-portfolio status-publish has-post-thumbnail hentry">
+<div id="feature"><div class="top_shadow"></div><div class="inner"><h1 class="entry-title">Teresa Wu</h1></div><div class="bottom_shadow"></div></div><div id="page">
+	<div class="inner ">
+		<section id="breadcrumbs"><div class="breadcrumb breadcrumbs"><div class="breadcrumbs-plus"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://cidse.engineering.asu.edu/" class="home" itemprop="url"><span itemprop="title">Home</span></a></span> <span class="separator">»</span> <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://cidse.engineering.asu.edu/facultyandresearch/" title="Directory and Research" itemprop="url"><span itemprop="title">Directory and Research</span></a></span> <span class="separator">»</span> <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://cidse.engineering.asu.edu/facultyandresearch/directory/" title="Directory" itemprop="url"><span itemprop="title">Directory</span></a></span> <span class="separator">»</span> <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://cidse.engineering.asu.edu/facultyandresearch/directory/faculty/" title="Faculty" itemprop="url"><span itemprop="title">Faculty</span></a></span> <span class="separator">»</span> <span itemprop="text">Wu, Teresa</span></div></div></section>		<div id="main">
+	<div id="post-1027" class="entry content entry-content type-portfolio">
+	<p><a href="http://cidse.engineering.asu.edu/wp-content/uploads/2011/11/Wu_Theresa_9523b1.jpg"><img class="alignleft size-medium wp-image-7491" src="http://cidse.engineering.asu.edu/wp-content/uploads/2011/11/Wu_Theresa_9523b1-224x300.jpg" alt="Wu_Theresa_9523b1" width="224" height="300"></a>Teresa Wu is a Professor of Industrial Engineering in the School of Computing, Informatics, and Decision Systems Engineering at Arizona State University. She received a BS and a MS in Mechanical and Automation Engineering from Beihang University, P. R. China and a Ph.D. in Industrial Engineering from University of Iowa. Dr. Wu is also appointed as an associate professor of Radiology at Mayo Clinic Arizona. She currently serves as Editor-in-Chief of <em>IIE Transactions on Healthcare Systems Engineering</em>. Dr. Wu has co-authored over 80 journal publications focusing on the application of informatics and distributed decision methods to energy systems, medical decisions and product design. Her awards include an NSF CAREER, AFOSR Summer Faculty Fellow, ASU Tenure and Promotion Exemplar and ASU Fulton Exemplar.</p>
+<p><a href="mailto:teresa.wu@asu.edu" target="_blank">teresa.wu@asu.edu</a><br>
+480-965-4157<br>
+BYENG 308<br>
+<a href="http://faculty.engineering.asu.edu/twu/">faculty.engineering.asu.edu/twu</a></p>
+<h2>Education</h2>
+<p>Ph.D., Industrial Engineering, University of Iowa, 2001<br>
+M.S., Mechanical and Automation Engineering, Beihang University, 1995<br>
+B.S., Mechanical and Automation Engineering, Beihang University, 1992</p>
+<h2>Research interests</h2>
+<p>Health information system, Imaging informatics, Distributed Decision Support</p>
+<h2>Key activities</h2>
+<ul>
+<li>Councilor of Institute of Complex Medical Engineering (2013 – present)</li>
+<li>Associate Editor: Neuroscience and Biomedical Engineering (2013 – present)</li>
+<li>Executive Editor: Journal of Health and Medical Informatics (2011 – present)</li>
+<li>Editorial Board: International Journal of Production Research (2007 – present)</li>
+<li>Editorial Board: Computer and Standard Interface (2006 – present)</li>
+<li>Editorial Board: International Journal of Electronic Business Management (2005 – present)</li>
+<li>Editorial Board: IEEE Transactions on Engineering Management (2009 – 2012)</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+		<footer>
+		<time class="published updated hidden" datetime="2017-01-26"><a href="http://cidse.engineering.asu.edu/directory/teresa-wu/">January 26, 2017</a></time>
+<span class="author vcard hidden"><span class="fn">CIDSE</span></span>
+	</footer>
+	<div class="clearboth"></div>
+</div>		</div>
+				<div class="clearboth"></div>
+	</div>
+</div>
+</article>
+<footer id="footer">
+	<div id="footer_shadow"></div>
+	<div class="inner">
+			<div class="one_third"><section id="rss-2" class="widget widget_rss"><h3 class="widgettitle"><a class="rsswidget" href="http://fullcircle.asu.edu/tag/cidse/feed/"><img class="rss-widget-icon" style="border:0" src="http://cidse.engineering.asu.edu/wp-includes/images/rss.png" alt="RSS" width="14" height="14"></a> <a class="rsswidget" href="https://fullcircle.asu.edu/">CIDSE in the News</a></h3><ul><li><a class="rsswidget" href="https://fullcircle.asu.edu/faculty/industrial-engineering-society-awards-ron-askin-with-distinguished-educator-award/">Industrial engineering society awards Ron Askin with distinguished educator award</a></li><li><a class="rsswidget" href="https://fullcircle.asu.edu/watchlisten/ted-pavlic-urges-scholars-undisciplined-tedxasu-talk/">Ted Pavlic urges scholars to be undisciplined in TEDxASU talk</a></li><li><a class="rsswidget" href="https://fullcircle.asu.edu/faculty/potential-world-changing-impacts-of-artificial-intelligence-raise-promising-possibilities-and-societal-challenges/">Potential world-changing impacts of artificial intelligence raise promising possibilities and societal challenges</a></li><li><a class="rsswidget" href="https://fullcircle.asu.edu/fulton-schools/fulton-schools-graduates-17-more-grand-scholars-to-tackle-global-challenges/">Fulton Schools graduates 17 more Grand Challenge Scholars to tackle global challenges</a></li><li><a class="rsswidget" href="https://fullcircle.asu.edu/fulton-schools/meet-spring-2017s-outstanding-undergraduates-and-impact-award-recipients/">Meet Spring 2017’s Outstanding Undergraduates and IMPACT Award recipients</a></li></ul></section></div>
+			<div class="one_third"><section id="text-2" class="widget widget_text">			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FASU.CIDSE&amp;width=300&amp;height=405&amp;colorscheme=dark&amp;show_faces=false&amp;border_color=%23ffffff&amp;stream=true&amp;header=false" scrolling="yes" style="border:none; overflow:hidden; height:405px;" allowtransparency="true" frameborder="0"></iframe></div>
+		</section></div>
+			<div class="one_third last"><section id="contact_info-2" class="widget widget_contact_info"><h3 class="widgettitle">CIDSE Main Office</h3>			<div class="contact_info_wrap">
+						
+			<p><span class="icon_text icon_phone default">480-965-3190</span></p>															<p><span class="icon_text icon_home default">Brickyard Engineering (BYENG) 553</span></p>			<p class="contact_address">
+				<span>699 S Mill Ave, Tempe,&nbsp;AZ</span>				<span class="contact_zip">85281</span>			</p>						</div>
+		</section><section id="contact_info-3" class="widget widget_contact_info"><h3 class="widgettitle">Academic Advising Center – Tempe</h3>			<div class="contact_info_wrap">
+						
+			<p><span class="icon_text icon_phone default">480-965-3199</span></p>															<p><span class="icon_text icon_home default">Centerpoint (CTRPT) 105</span></p>			<p class="contact_address">
+				<span>660 S Mill Ave, Tempe,&nbsp;AZ</span>				<span class="contact_zip">85281</span>			</p>						</div>
+		</section><section id="contact_info-5" class="widget widget_contact_info"><h3 class="widgettitle">Academic Advising Center – Polytechnic</h3>			<div class="contact_info_wrap">
+						
+			<p><span class="icon_text icon_phone default">480-727-3520</span></p>															<p><span class="icon_text icon_home default">Picacho Hall (PICHO) 245</span></p>			<p class="contact_address">
+				<span>7151 E. Sonoran Arroyo Mall, Mesa,&nbsp;AZ</span>				<span class="contact_zip">85212</span>			</p>						</div>
+		</section><section id="contact_info-4" class="widget widget_contact_info"><h3 class="widgettitle">CIDSE IT Services</h3>			<div class="contact_info_wrap">
+						
+															<p><a href="http://links.asu.edu/cidseit/" target="_blank" class="icon_text icon_link default">http://links.asu.edu/cidseit/</a></p>												</div>
+		</section></div>
+		<div class="clearboth"></div>
+	</div>
+	<div id="footer_bottom">
+		<div class="inner">			
+			<div id="copyright"></div>
+			<div class="clearboth"></div>
+		</div>
+	</div>
+	<!-- Start Global ASU Footer -->
+	<div id="innovation-footer">
+		<div id="innovation-bar">
+			<div class="container">
+				<div class="innovation-status">
+					<a href="https://yourfuture.asu.edu/rankings"><span>ASU is #1 in the U.S. for Innovation</span></a>
+				</div>
+				<div class="innovation-hidden">
+					<a href="https://yourfuture.asu.edu/rankings"><img src="data:image/png;base64,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" alt="Best Colleges U.S. News Most Innovative 2016"></a>
+				</div>
+			</div><!-- end .container -->
+		</div>
+		<div class="footer-menu">
+			<div class="container">
+				<ul class="default">
+					<li><a href="http://www.asu.edu/copyright/">Copyright &amp; Trademark</a></li>
+					<li><a href="http://www.asu.edu/accessibility/">Accessibility</a></li>
+					<li><a href="http://www.asu.edu/privacy/">Privacy</a></li>
+					<li><a href="http://www.asu.edu/asujobs">Jobs</a></li>
+					<li><a href="http://www.asu.edu/emergency/">Emergency</a></li>
+					<li class="no-border"><a href="http://www.asu.edu/contactasu/">Contact ASU</a></li>
+				</ul>
+			</div><!-- end .container -->
+		</div>
+	</div>
+
+</footer>
+	<div style="display:none">
+	</div>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201725"></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2017Junaa"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/themes/striking_r_child/assets/asu-header/js/asu-header.min.js?ver=4.0"></script>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/themes/striking_r_child/assets/asu-header/js/asu-header-config.js?ver=4.0"></script>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-includes/js/comment-reply.min.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-includes/js/wp-embed.min.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/plugins/my-calendar/js/mc-grid.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/plugins/my-calendar/js/mc-list.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://cidse.engineering.asu.edu/wp-content/plugins/my-calendar/js/mc-mini.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://stats.wp.com/e-201725.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.1.1',blog:'67166177',post:'1027',tz:'-7',srv:'cidse.engineering.asu.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '67166177', '1027' ]);
+</script>
+</div>
+<script type="text/javascript">Cufon.now();if(typeof jQuery != 'undefined'){
+if(jQuery.browser.msie && parseInt(jQuery.browser.version, 10)==8){
+	jQuery(".jqueryslidemenu ul li ul").css({display:'block', visibility:'hidden'});
+}
+}
+</script><script type="text/javascript"> 
+var _gaq = _gaq || [];  
+_gaq.push(['_setAccount', 'UA-11403802-4']); 
+_gaq.push(['_trackPageview']); 
+_gaq.push(['t2._setAccount', 'UA-2392647-1']); 
+_gaq.push(['t2._setDomainName', '.asu.edu']);
+_gaq.push(['t2._trackPageview']); 
+ 
+(function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
+        + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+  
+</script>  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"580193e52f","applicationID":"26524087","transactionName":"ZVwDMEtSX0BTAREICVwWIAdNWl5dHREMDwFeXEwUVkFFVV0ODA4=","queueTime":0,"applicationTime":618,"atts":"SRsARgNITE4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<img src="http://pixel.wp.com/g.gif?v=ext&amp;j=1%3A4.1.1&amp;blog=67166177&amp;post=1027&amp;tz=-7&amp;srv=cidse.engineering.asu.edu&amp;host=cidse.engineering.asu.edu&amp;ref=&amp;rand=0.011509364192829108" alt=":)" id="wpstats" width="6" height="5"><script type="text/javascript" id="">function trackScroll(a){function f(b,a,c){b.addEventListener?b.addEventListener(a,c):b.attachEvent&&b.attachEvent("on"+a,c)}function e(){for(var b=0,e=a.length;b<e;b++){var c=document.documentElement;c=self.pageYOffset||c&&c.scrollTop||document.body.scrollTop;var d=document.documentElement;d=self.innerHeight||d&&d.clientHeight||document.body.clientHeight;c=(c+d)/document.body.scrollHeight*100;d=a[b]+"%";0>g.indexOf(d)&&c>a[b]&&(g.push(d),dataLayer.push({event:"analyticsEvent",eventCategory:"interaction",
+eventAction:"page-scroll",eventLabel:d}))}}var g=[];f(window,"scroll",e)}function stringToArray(a){a=a.split(",");for(var f=[],e=0;e<a.length;e++)f.push(a[e].trim().toLowerCase());return f}var inputValues=stringToArray(google_tag_manager["GTM-KDWN8Z"].macro('gtm2'));trackScroll(inputValues);</script><div style="display: none; visibility: hidden;"><script type="text/javascript">(function(b){var a=document,d=a.createElement("script"),a=a.head||a.getElementsByTagName("head")[0],e="fsReady",f={src:"//gateway.foresee.com/sites/asu-edu/production/gateway.min.js",type:"text/javascript",async:"true","data-vendor":"fs","data-role":"gateway"},c;for(c in f)d.setAttribute(c,f[c]);a.appendChild(d);b[e]=function(){var a="__"+e+"_stk__";b[a]=b[a]||[];b[a].push(arguments)}})(window);</script></div><script type="text/javascript" id="" src="https://extend.vimeocdn.com/ga/3347134.js"></script><script type="text/javascript" id="gtm-youtube-tracking">(function(h,f,k){function m(){var b=[].slice.call(h.getElementsByTagName("iframe")).concat([].slice.call(h.getElementsByTagName("embed"))),a;for(a=0;a<b.length;a++){var d=n(b[a]);if(d){var d=b[a],e=f.location,c=h.createElement("a");c.href=d.src;c.hostname="www.youtube.com";c.protocol=e.protocol;var g="/"===c.pathname.charAt(0)?c.pathname:"/"+c.pathname;-1<c.search.indexOf("enablejsapi")||(c.search=(0<c.search.length?c.search+"\x26":"")+"enablejsapi\x3d1");if(!(-1<c.search.indexOf("origin"))&&-1===
+e.hostname.indexOf("localhost")){var w=e.port?":"+e.port:"",e=e.protocol+"%2F%2F"+e.hostname+w;c.search=c.search+"\x26origin\x3d"+e}"application/x-shockwave-flash"===d.type&&(e=h.createElement("iframe"),e.height=d.height,e.width=d.width,g=g.replace("/v/","/embed/"),d.parentNode.parentNode.replaceChild(e,d.parentNode),d=e);c.pathname=g;d.src!==c.href+c.hash&&(d.src=c.href+c.hash);p(d)}}"addEventListener"in h&&h.addEventListener("load",x,!0)}function n(b){b=b.src||"";return-1<b.indexOf("youtube.com/embed/")||
+-1<b.indexOf("youtube.com/v/")?!0:!1}function p(b){var a=YT.get(b.id);a||(a=new YT.Player(b,{}));"undefined"===typeof b.pauseFlag&&(b.pauseFlag=!1,a.addEventListener("onStateChange",function(a){y(a,b)}))}function z(b){var a={};g.events["Watch to End"]&&(a["Watch to End"]=Math.min(b-3,Math.floor(.99*b)));if(g.percentageTracking){var d=[],e;g.percentageTracking.each&&(d=d.concat(g.percentageTracking.each));if(g.percentageTracking.every){var c=parseInt(g.percentageTracking.every,10),f=100/c;for(e=1;e<
+f;e++)d.push(e*c)}for(e=0;e<d.length;e++)f=d[e],c=f+"%",f=b*f/100,a[c]=Math.floor(f)}return a}function y(b,a){var d=b.data,e=b.target,c=e.getVideoUrl(),c=c.match(/[?&]v=([^&#]*)/)[1],f=e.getPlayerState(),g=Math.floor(e.getDuration()),h=z(g),g={1:"Play",2:"Pause"},g=g[d];a.playTracker=a.playTracker||{};1!==f||a.timer?(clearInterval(a.timer),a.timer=!1):(clearInterval(a.timer),a.timer=setInterval(function(){var b=e,d=h,c=a.videoId,g=b.getCurrentTime(),f;b[c]=b[c]||{};for(f in d)d[f]<=g&&!b[c][f]&&(b[c][f]=
+!0,q(c,f))},1E3));1===d&&(a.playTracker[c]=!0,a.videoId=c,a.pauseFlag=!1);if(!a.playTracker[a.videoId])return!1;if(2===d){if(a.pauseFlag)return!1;a.pauseFlag=!0}r[g]&&q(a.videoId,g)}function q(b,a){var d="https://www.youtube.com/watch?v\x3d"+b,e=f.GoogleAnalyticsObject;if("undefined"===typeof f[t]||g.forceSyntax)if("function"===typeof f[e]&&"function"===typeof f[e].getAll&&2!==g.forceSyntax)f[e]("send","event","Videos",a,d);else"undefined"!==typeof f._gaq&&1!==A&&f._gaq.push(["_trackEvent","Videos",
+a,d]);else f[t].push({event:"youTubeTrack",attributes:{videoUrl:d,videoAction:a}})}function u(b,a,d){if(b.addEventListener)b.addEventListener(a,d);else if(b.attachEvent)b.attachEvent("on"+a,function(a){a.target=a.target||a.srcElement;d.call(b,a)});else if("undefined"===typeof b["on"+a]||null===b["on"+a])b["on"+a]=function(a){a.target=a.target||a.srcElement;d.call(b,a)}}function x(b){b=b.target||b.srcElement;var a=n(b);"IFRAME"===b.tagName&&a&&-1<b.src.indexOf("enablejsapi")&&-1<b.src.indexOf("origin")&&
+p(b)}var g=k||{},A=g.forceSyntax||0,t=g.dataLayerName||"dataLayer",r={Play:!0,Pause:!0,"Watch to End":!0},l;k=h.createElement("script");k.src="//www.youtube.com/iframe_api";var v=h.getElementsByTagName("script")[0];v.parentNode.insertBefore(k,v);for(l in g.events)g.events.hasOwnProperty(l)&&(r[l]=g.events[l]);f.onYouTubeIframeAPIReady=function(){var b=f.onYouTubeIframeAPIReady;return function(){b&&b.apply(this,arguments);navigator.userAgent.match(/MSIE [67]\./gi)||("loading"!==h.readyState?m():h.addEventListener?
+u(h,"DOMContentLoaded",m):u(f,"load",m))}}()})(document,window,{events:{Play:!0,Pause:!0,"Watch to End":!0},percentageTracking:{every:25,each:[10,90]}});</script>
+<iframe src="https://gateway.foresee.com/code/19.3.3-v.2/fs.frame.html?d=cidse.engineering.asu.edu&amp;_cv_=19.3.3-v.2&amp;_vt_=gavmyq2&amp;uid=923258630.1498088787" id="_fsCtrlFr" class="_FSFRAME_" style="display: none;" title="ForeSee Control Frame" _fsrb="true"></iframe><script type="text/javascript" id="">(function(){if(window.dataLayer){var c=window.dataLayer=window.dataLayer||[],a=window.SI_dataLayer=window.SI_dataLayer||[];a.push=function(){for(var a=0;a<arguments.length;a++)c.push(arguments[a]);return Array.prototype.push.apply(this,arguments)};for(var b=0;b<a.length;b++)c.push(a[b])}})();</script></body></html>

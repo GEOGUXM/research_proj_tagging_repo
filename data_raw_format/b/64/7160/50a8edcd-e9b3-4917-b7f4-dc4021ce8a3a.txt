@@ -1,0 +1,74 @@
+Search
+Duis autem vel eum iriure dolor in hendrerit.
+Links
+Support Us
+Contact Us
+Home
+About
+Hay Professorship
+People
+Faculty
+Staff
+Lab Members
+Education
+Courses
+Resources
+News
+Research
+Research Themes
+Publications
+Recent Publications
+Event Calendar
+Upcoming Events
+Carolyn Machamer, Ph.D.
+Carolyn Machamer, Ph.D.
+machamer@jhmi.edu
+Academic Titles: 
+Professor
+Position Title: 
+Principal Investigator
+Appointments/Affiliations: 
+Director, BCMB Graduate Program
+410-955-1809 (Office)
+410-955-9650 (Lab)
+410-955-4129 (Fax)
+Department of Cell Biology
+Johns Hopkins University School of Medicine
+725 N. Wolfe Street, 105 WBSB
+Baltimore, MD 21205
+Research Topic: Golgi complex structure/function; intracellular protein trafficking; intracellular virus assembly; coronaviruses; exocytosis of large cargo
+We are interested in the structure and function of the Golgi complex, a ubiquitous eukaryotic organelle that plays a central role in post-translational processing and sorting of newly synthesized proteins and lipids in the secretory pathway. The Golgi complex has an unusual structure, particularly in vertebrates, where stacks of cisternal membranes are clustered into a ribbon structure near the nucleus. One goal of our research is to understand the role of this structure in Golgi function. Towards this goal, we are studying the targeting and function of resident Golgi proteins. We are interested in the contribution of the lipid bilayer to targeting of transmembrane Golgi proteins, and in the function of a group of peripheral Golgi membrane proteins called golgins. Several golgins, including golgin-160, are substrates for caspase cleavage during programmed cell death (apoptosis). Our hypothesis is that specific stress signals are transduced at Golgi membranes, and that cleavage of golgin-160 may be critical for downstream signaling events. In non-apoptotic cells, golgin-160 is involved in trafficking of specific cargo molecules, including the beta-1-adrenergic receptor, and the insulin-regulated glucose transporter, GLUT4.  
+  The other research interest in the lab is the assembly mechanism of coronaviruses, enveloped viruses that bud into Golgi compartments. Coronaviruses are vertebrate pathogens that usually cause mild respiratory or gastrointestinal disease. However, the emergence of severe acute respiratory syndrome (SARS), which is caused by a novel coronavirus, has sparked much interest in this group of viruses. We are addressing how coronaviruses target their envelope proteins to Golgi membranes, and how they interact with each other at the virus assembly site. We are also exploring how coronaviruses are exocytosed after they bud into the Golgi lumen. Our long-term goal is to understand the advantages of intracellular assembly for coronaviruses. A better understanding of intracellular assembly and the mechanism of exocytosis should lead to novel strategies for antiviral therapeutics. In addition, we are using coronavirus egress as a model for secretion of large cargo, since the size of the virions results in modification of Golgi structure to allow accommodation of these particles. We hope to learn how other large cargo is trafficked through the Golgi (e.g. chylomicrons in the intestine). 
+                                             Research Interest: 
+Intracellular protein trafficking; enveloped virus assembly
+Lab Members:
+Name Classification Email Phone
+Catherine Gilbert Student cgilbe15@jhmi.edu 410-955-9650
+Jason Westerbeck Student jwester4@jhmi.edu 410-955-9650
+Jeanne Sisk, Ph.D. Postdoctoral Fellow jsisk2@jhmi.edu 410-955-9650
+Complete List of Published Work in MyBibliography
+Selected Publications:
+Shao W, Machamer CE, Espenshade PJ. 2016. Fatostatin blocks ER exit of SCAP but inhibits cell growth in a SCAP-independent manner. J Lipid Res. 2016 Jun 20. pii: jlr.M069583. [Epub ahead of print]
+Machamer, C.E. 2015. The Golgi complex in stress and death. Front. Neurosci. 9:421. PMCID: PMC4635215    
+Westerbeck, J.W. and C.E. Machamer. 2015. A coronavirus E protein is present in two distinct pools with different effects on assembly and the secretory pathway. J. Virol. 2015 Sep;89(18):9313-23.
+Damarla, M., Parniari, A.R., Johnston, L., Maredia, H. Serebreni, L., Hamdan, O., Sidhaye, V.K., Shimoda, L.A., Myers, A.C., Crow, M.T., Schmidt, E.P., Machamer, C.E., Gaestei, M. Rane, M.J., Kolb, T.M., Kim, B.S., Damico, R.L., and Hassoun, P.M. (2014) MK2 mediates apoptosis during lung vascular permeability by regulating movement of cleaved caspase 3. Am. J. Respir. Cell Mol. Biol. 50:932-41.
+Gilbert, C.E., D.M. Zuckerman, P.L. Currier, and C. E. Machamer. 2014. Three basic residues of intracellular loop 3 of the beta-1 adrenergic receptor are required for golgin-160-dependent trafficking. Int. J. Mol. Sci.15:2929-45.  
+Taylor, M.S., T.R. Ruch, P.Y. Hsiao, Y. Hwang, P. Zhang, L. Dai, C.R. Huang, C.E. Berndsen, M.S. Kim, A. Pandey, C. Wolberger, R. Marmorstein, C. Machamer, J.D. Boeke, and P.A. Cole. 2013. Architectural organization of the metabolic regulatory enzyme ghrelin-O-acyltransferease. J. Biol. Chem.288:32212-28. PMCID: PMC3820860.
+Sbodio, J.I., B.D. Paul, C.E. Machamer, and S.H. Snyder. 2013. Golgi protein ACBD3 mediates neurotoxicity associated with Huntington’s disease. Cell Reports 4:890-897. PMCID: PMC3801179
+Machamer, C.E. 2013. Accommodation of large cargo within Golgi cisternae. Histochem. Cell Biol., 140:261-269.
+Chandran, S. and C.E. Machamer. 2012. Inactivation of ceramide transfer protein during proapoptotic stress by Golgi disassembly and caspase cleavage. Biochem. J., 442:391-402.
+Ruch, T.R. and C. E. Machamer. 2012. The coronavirus E protein: assembly and beyond.  Viruses 4:363-382. 
+Ruch, T.R. and C.E. Machamer. 2012. A single polar residue and distinct membrane topologies impact the function of the infectious bronchitis coronavirus E protein. PLoS Pathogens 8(5):e1002674.
+Ruch, T.R. and C.E. Machamer.  2011. The hydrophobic domain of the infectious bronchitis virus E protein alters the host secretory pathway and is important for release of infectious virus.  J. Virol. 85:675-685.
+Zuckerman, D.M. S.W. Hicks, G. Charron, H.C. Hang, and C.E. Machamer.  2011.  Differential regulation of two palmitoylation sites in the cytoplasmic tail of the beta-1 adrendergic receptor. J. Biol. Chem. 286:19014-23.
+Cohen, J.R., L.D. Lin and C.E. Machamer. 2011.  Identification of a Golgi targeting signal in the cytoplasmic tail of the severe acute respiratory syndrome coronavirus envelope protein.  J. Virol. 85:5794-5803.
+Chandran, S. and C.E. Machamer. 2010. Golgi organization and stress sensing.  The Golgi apparatus: Structure, Functions and Mechanisms.  (Nova Science, Inc, Hauppauge NY). 
+McBride, C.E. and C.E. Machamer.  2010. Palmitoylation of SARS-CoV S protein is necessary for partitioning into detergent-resistant membranes and cell-cell fusion but not interaction with M protein.  Virology 405:139-148.
+McBride, C.E. and C.E. Machamer.  2009. A single tyrosine in the SARS coronavirus membrane protein is important for interaction with the spike protein.  J. Virol. 84:1891-1901.
+Chandran, S. and C.E. Machamer.  2008.  Acute perturbations in Golgi organization impact de novo sphingomyelin synthesis.  Traffic 9:1894-1904.
+Hogue, B.G., and C.E. Machamer. 2008. Coronavirus structural proteins and virus assembly. Nidoviruses. Edited by S. Perlman, T. Gallagher, and E. Snijder. (ASM), pp. 179-200.
+Sbodio, J.I. and C.E. Machamer.  2007.  Identification of a redox sensitive cysteine residue in GCP60 that regulates its interaction with golgin-160.  J. Biol. Chem 282:29874-29881.
+McBride, C.E., J. Li, and C.E. Machamer. 2007. The cytoplasmic tail of the spike protein of the severe acute respiratory syndrome coronavirus contains a novel endoplasmic reticulum retrieval signal that binds COPI and promotes interaction with membrane protein. J. Virol., 81:2418-2428.
+Hicks, S.W., T.A. Horn, J.M. McCaffery, D.M. Zuckerman,and C.E. Machamer. 2006. Golgin-160 promotes cell surface expression of the beta-1-adrenergic receptor. Traffic 7:1666-1677.
+Copyright © 2017 Johns Hopkins University Department of Cell Biology. All Rights Reserved. login
+site by Pendari

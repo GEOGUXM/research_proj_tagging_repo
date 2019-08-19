@@ -1,0 +1,31 @@
+HOME | LEGALS | SITEMAP | KIT
+Chair of Dependable Nano Computing (CDNC)
+  Research
+Education
+Staff
+Publications
+CDNC Software
+Jobs and Thesis Offers
+Events
+Contact
+Intern
+
+M.Sc. Nour Sayed
+PhD Student
+Dependable Computing
+room: A.3.16.a
+phone: +49 721 608 45137
+fax: +49 721 608 43962
+nour sayed∂kit edu
+
+
+Short Bio
+Nour Sayed received her B.Sc. Eng. degree in Informatics Engineering from Aleppo University, Syria in 2007 with a very good note and First Rank. In 2015, she received her M.Sc. in Computer Science from Karlsruhe Institute of Technology (KIT), Germany. Since 2015, Mrs. Sayed is a PhD student at the CDNC group of Prof. Mehdi Tahoori. Her main research lies in architectures for reliable computing based on emerging non-volatile memories.
+Publications:
+5. N. Sayed, F. Oboril, A. Shirvanian, R. Bishnoi, and M.B. and Tahoori, "Exploiting STT-MRAM for Approximate Computing", in proceedings of European Test Symposium (ETS), 2017, Cyprus.
+4. M. S. Golanbari, N. Sayed, M. Ebrahimi, M. H. Moshrefpour Esfahany, S. Kiamehr, and M.B. Tahoori, "Aging-Aware Coding Scheme for Memory Arrays", in proceedings of European Test Symposium (ETS), 2017, Cyprus.
+3. N. Sayed, F. Oboril, R. Bishnoi, and M. B. Tahoori, "Leveraging Systematic Unidirectional Error-Detecting Codes for Fast STT-MRAM Cache", in proceedings of VLSI Test Symposium (VTS), 2017, USA.
+2. N. Sayed, M. Ebrahimi, R. Bishnoi, and M. B. Tahoori, "Opportunistic Write for Fast and Reliable STT-MRAM", in Proceedings of Design, Automation & Test in Europe (DATE), 2017, Switzerland (Invited Paper).
+1. M. Ebrahimi, N. Sayed, M. Rashvand, M.B. Tahoori, "Fault Injection Acceleration by Architectural Importance Sampling", in proceedings of International Conference on Hardware-Software Codesign and System Synthesis (CODES+ISSS), 2015, Netherlands.
+
+KIT – The Research University in the Helmholtz Association

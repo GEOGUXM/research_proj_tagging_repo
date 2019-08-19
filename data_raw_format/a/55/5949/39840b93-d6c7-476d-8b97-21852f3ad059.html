@@ -1,0 +1,419 @@
+<html dir="ltr" class="js" lang="en"><!--<![endif]--><head>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta charset="utf-8"><script type="text/javascript" src="https://bam.nr-data.net/1/bcb968c2dc?a=55444559&amp;v=1039.bef6007&amp;to=ZwRXN0YCCEUAVk1eXl5OdABACglYTkVYUFRvDFQNVQQDRD5FWFBUbwRNBlcWElM%3D&amp;rst=3158&amp;ref=http://spo.princeton.edu/people/display_person.xml&amp;ap=664&amp;be=1790&amp;fe=3146&amp;dc=2781&amp;perf=%7B%22timing%22:%7B%22of%22:1498024056771,%22n%22:0,%22f%22:451,%22dn%22:452,%22dne%22:648,%22c%22:648,%22ce%22:871,%22rq%22:871,%22rp%22:1780,%22rpe%22:1781,%22dl%22:1782,%22di%22:2753,%22ds%22:2780,%22de%22:2810,%22dc%22:3145,%22l%22:3145,%22le%22:3146%7D,%22navigation%22:%7B%7D%7D&amp;at=S0NUQQ4YG0s%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+<link rel="shortcut icon" href="http://spo.princeton.edu/sites/all/themes/custom/hepcat/favicon.ico" type="image/vnd.microsoft.icon">
+  <title>Home | Spanish and Portuguese</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://spo.princeton.edu/sites/spo/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://spo.princeton.edu/sites/spo/files/css/css_ZO5M4O96m6B1ThKa5uXd81cO7k3rRocL-pVNip9vboo.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://spo.princeton.edu/sites/spo/files/css/css_9cvtX7F2G1qV1Iecvt2buN7G-J4pWLIDgTGecF_9bkM.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://spo.princeton.edu/sites/spo/files/css/css_xLFDRTFqZTZeUg7Pab0gP4cpz5TWo3PCH-KBo_HKQ6A.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://spo.princeton.edu/sites/spo/files/css/css_NYpUsE-XHcP6W6yLFvdUBIjJw98XzAI5Jy_0hOCcwPE.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://spo.princeton.edu/sites/spo/files/css/css_wwG5S1ZJpExr4MHWrvcOkMwCo233nuEkNfDd7dCe1gI.css" media="all">
+  <script src="http://spo.princeton.edu/sites/spo/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
+<script src="http://spo.princeton.edu/sites/spo/files/js/js_IWbbVVgRTuj5qFXg0nuDwJTcH7-1n-_LYPC1WoM2MHE.js"></script>
+<script src="http://spo.princeton.edu/sites/spo/files/js/js_FVndY9gA5WODl-0fg-p2J8eBs5rOJV0QklkKw61G-jo.js"></script>
+<script src="http://spo.princeton.edu/sites/spo/files/js/js_J3zg9f3adbNfUv13vXc4Lxwa20sCnQMWD9m5OVnheaQ.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-64201741-2", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga('create', 'UA-53634508-1', {'name': 'puwdsTracker'});ga("send", "pageview");ga('puwdsTracker.send', 'pageview');</script>
+<script src="http://spo.princeton.edu/sites/spo/files/js/js_JFci1-c0eRagObgBTRHHmP_u52i5KviyXQGA9HxeUMI.js"></script>
+<script src="http://spo.princeton.edu/sites/spo/files/js/js_Q2BXAIPt3lEsNFl5BPrs_mn3y4UhZnPuTDkRlDpHs7s.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hepcat","theme_token":"1-y32jDWmTfDBHR5P5toO2dNfMoN_awjxphWKHM1HRo","js":{"sites\/all\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"sites\/all\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1,"sites\/all\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"sites\/all\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"sites\/all\/modules\/panopoly\/panopoly_magic\/panopoly-magic.js":1,"sites\/all\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/contrib\/saveguard\/saveguard.js":1,"sites\/all\/modules\/contrib\/chosen\/chosen.js":1,"sites\/all\/themes\/custom\/hepcat\/js\/script.js":1,"sites\/all\/themes\/custom\/pwds_base\/js\/jquery.meanmenu.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"sites\/all\/modules\/contrib\/chosen\/css\/chosen-drupal.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/office_hours\/office_hours.css":1,"sites\/all\/modules\/panopoly\/panopoly_admin\/panopoly-admin.css":1,"sites\/all\/modules\/panopoly\/panopoly_admin\/panopoly-admin-navbar.css":1,"sites\/all\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"sites\/all\/modules\/panopoly\/panopoly_magic\/css\/panopoly-magic.css":1,"sites\/all\/modules\/panopoly\/panopoly_magic\/css\/panopoly-modal.css":1,"sites\/all\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"sites\/all\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"sites\/all\/modules\/panopoly\/panopoly_theme\/css\/panopoly-layouts.css":1,"sites\/all\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"sites\/all\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"sites\/all\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/custom\/hepcat\/system.menus.css":1,"sites\/all\/themes\/custom\/hepcat\/system.messages.css":1,"sites\/all\/themes\/custom\/hepcat\/system.theme.css":1,"sites\/all\/themes\/custom\/pwds_base\/css\/pwds_base_styles.css":1,"sites\/all\/themes\/custom\/hepcat\/css\/styles.css":1,"sites\/all\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1,"public:\/\/css_injector\/css_injector_6.css":1}},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"panopoly_magic":{"pane_add_preview_mode":"automatic"},"saveguard":{"msg":null},"chosen":{"selector":"select:not(.office-hours-block select,[name*=\u0027day\u0027],[name*=\u0027year\u0027],[name*=\u0027month\u0027],.name-generational,[name*=\u0027submit_limit\u0027],[name*=\u0027submit_interval\u0027])","minimum_single":0,"minimum_multiple":0,"minimum_width":200,"options":{"allow_single_deselect":false,"disable_search":false,"disable_search_threshold":10,"search_contains":true,"placeholder_text_multiple":"Choose options\u2026","placeholder_text_single":"Select option\u2026","no_results_text":"No results match","inherit_select_classes":true}},"urlIsAjaxTrusted":{"\/people\/display_person.xml":true,"\/search\/node":true},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":0,"extExclude":"","extInclude":"","extCssExclude":"#social-links-menu,.pager,.page-admin,.twitter-status","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});</script>
+  </head>
+<body class="html not-front not-logged-in page-people page-people-display-personxml region-content section-people page-panels flavor1">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Jump to main content</a>
+    <a href="#main-search-form" class="element-invisible element-focusable">Jump to site search</a>
+    <a href="#main-navigation-menu" class="element-invisible element-focusable">Jump to the navigation</a>
+  </div>
+    
+<div id="page" class="horizontal-main-menu no-sidebars">
+  <div id="mobile"></div>
+  <header class="header" id="header" role="banner">
+    <div class="header__user-zone clearfix" id="user-zone">
+      <div class="content_container">
+        <a href="http://www.princeton.edu/" title="Princeton University" rel="home" class="princeton_logo" id="logo">
+          <img src="/sites/all/themes/custom/hepcat/images/pu_logo.png" alt="Princeton University" class="header__logo-image">
+        </a>
+
+        
+                  <nav class="footer__social-links-menu" id="social-links-menu" role="navigation">
+            <h2 class="element-invisible">Social media menu</h2><ul class="links inline clearfix">
+
+<li class="menu-8631 first"><a href="https://www.facebook.com/PrincetonSPO" class="facebook">Facebook</a></li><li class="menu-8646 last"><a href="https://www.youtube.com/playlist?list=PLIndH34c4h_o0geP9z0AFC1RF3aN9Fcoj" class="youtube">YouTube</a></li></ul>          </nav>
+        
+                  <nav class="header__secondary-menu" id="secondary-menu" role="navigation">
+            <h2 class="element-invisible">User menu</h2><ul class="links inline clearfix">
+
+
+
+<li class="menu-8956 first"><a href="/about">About</a></li><li class="menu-8961"><a href="/events/calendar">Calendar</a></li><li class="menu-8971"><a href="/about/contact">Contact</a></li><li class="menu-13266 last"><a href="https://sp.princeton.edu/spo-share/default.aspx" class="ext">SharePoint<span class="ext"><span class="element-invisible"> (link is external)</span></span></a></li></ul>          </nav>
+        
+      </div>
+          </div>
+
+    <div class="content_container">
+              <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="http://spo.princeton.edu/sites/spo/files/logo_spo.png" alt="Home" class="header__logo-image"></a>
+      
+            <a class="element-invisible" id="main-search-form" name="main-search-form" tabindex="-1"></a>
+      <h2 class="element-invisible">Search form</h2>
+      <form class="search-form" action="/search/node" method="post" id="search-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
+  <label class="element-invisible" for="edit-keys">Search </label>
+ <input placeholder="Search…" id="edit-keys" name="keys" value="" size="" maxlength="255" class="form-text" type="text">
+</div>
+<input id="edit-submit" name="op" value="Search" class="form-submit" type="submit"></div><input name="form_build_id" value="form-XF7jxI_wldXFLmIdlCWzwO6pGHHD1u1i7H7qcw2qgOk" type="hidden">
+<input name="form_id" value="search_form" type="hidden">
+</div></form>          </div>
+  </header>
+  <div id="main">
+
+    
+      <div id="navigation">
+        <nav id="main-menu" role="navigation">
+          <a class="element-invisible" id="main-navigation-menu" name="main-navigation-menu" tabindex="-1"></a>
+          <h2 class="element-invisible">Main menu</h2>
+          <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/" class="menu__link">Home</a></li>
+<li class="menu__item is-expanded expanded"><a href="/people/faculty" class="menu__link">People</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/people/faculty" class="menu__link">Faculty</a></li>
+<li class="menu__item is-leaf leaf"><a href="/people/lecturers" class="menu__link">Lecturers</a></li>
+<li class="menu__item is-leaf leaf"><a href="/people/faculty/associated-faculty" class="menu__link">Associated Faculty</a></li>
+<li class="menu__item is-leaf leaf"><a href="/people/visiting-faculty" class="menu__link">Visiting Faculty</a></li>
+<li class="menu__item is-leaf leaf"><a href="/people/emeritus-faculty" class="menu__link">Emeritus Faculty</a></li>
+<li class="menu__item is-leaf leaf"><a href="/people/graduate-students" class="menu__link">Graduate Students</a></li>
+<li class="menu__item is-leaf leaf"><a href="/people/concentrators" class="menu__link">Concentrators</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/people/staff" class="menu__link">Staff</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/graduate" class="menu__link">Graduate</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/graduate/rules-procedures" class="menu__link">Rules &amp; Procedures</a></li>
+<li class="menu__item is-leaf leaf"><a href="/graduate/courses" class="menu__link">Courses</a></li>
+<li class="menu__item is-leaf leaf"><a href="/graduate/funding" class="menu__link">Funding</a></li>
+<li class="menu__item is-leaf leaf"><a href="/graduate/phd-dissertations" class="menu__link">Ph.D. Dissertations</a></li>
+<li class="menu__item is-leaf leaf"><a href="/graduate/faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/graduate/spanish-reading-proficiency-exam" class="menu__link">Spanish Reading Proficiency Exam</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/undergraduate" class="menu__link">Undergraduate</a><ul class="menu"><li class="menu__item is-expanded first expanded"><a href="/undergraduate/concentration-new" class="menu__link">Concentration</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/undergraduate/concentration/junior-calendar" class="menu__link">Junior Calendar</a></li>
+<li class="menu__item is-leaf leaf"><a href="/undergraduate/concentration/senior-calendar" class="menu__link">Senior Calendar</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://spo.princeton.edu/sites/spo/files/spo_senior_thesis_handbook_revised_feb_2016.pdf" class="menu__link">Senior Thesis Handbook (PDF)</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/undergraduate/concentration/senior-thesis-database" class="menu__link">Senior Thesis Database</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf"><a href="/undergraduate/certificate" class="menu__link">Certificate</a></li>
+<li class="menu__item is-expanded expanded"><a href="/undergradute/language-program" class="menu__link">Language</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/undergraduate/language/placement-test" class="menu__link">Placement Test</a></li>
+<li class="menu__item is-leaf leaf"><a href="/undergraduate/language/spanish-course-sequence" class="menu__link">Spanish Course Sequence</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/undergradate/language-tables" class="menu__link">Language Tables</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf"><a href="/undergraduate/courses" class="menu__link">Courses</a></li>
+<li class="menu__item is-leaf leaf"><a href="/undergraduate/funding" class="menu__link">Funding</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/undergraduate/prizes" class="menu__link">Prizes</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/study-abroad" class="menu__link">Study Abroad</a><ul class="menu"><li class="menu__item is-expanded first expanded"><a href="/study-abroad/princeton-argentina" class="menu__link">Princeton in Argentina</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/study-abroad/princeton-argentina/program-schedule" class="menu__link">Program Schedule</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-argentina/class-schedule" class="menu__link">Class Schedule</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-argentina/about-buenos-aires" class="menu__link">About Buenos Aires</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-argentina/faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-argentina/info-admitted-students" class="menu__link">Info for Admitted Students</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-argentina/highlights" class="menu__link">Highlights</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/study-abroad/princeton-argentina/slideshow-gallery" class="menu__link">Slideshow Gallery</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/study-abroad/princeton-portugal" class="menu__link">Princeton in Portugal</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/study-abroad/princeton-portugal/program-schedule" class="menu__link">Program Schedule</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-portugal/faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-portugal/about-lisbon" class="menu__link">About Lisbon</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/study-abroad/princeton-portugal/info-admitted-students" class="menu__link">Info for Admitted Students</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/study-abroad/princeton-spain" class="menu__link">Princeton in Spain</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/study-abroad/princeton-spain/financial-assistance" class="menu__link">Financial Assistance</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-spain/program-schedule" class="menu__link">Program Schedule</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-spain/class-schedule" class="menu__link">Class Schedule</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-spain/about-toledo" class="menu__link">About Toledo</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-spain/faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-spain/info-admitted-students" class="menu__link">Info for Admitted Students</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-spain/highlights" class="menu__link">Highlights</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/study-abroad/princeton-spain/slideshow-gallery" class="menu__link">Slideshow Gallery</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded"><a href="/study-abroad/princeton-brazil" class="menu__link">Princeton in Brazil</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/study-abroad/princeton-brazil/program-schedule" class="menu__link">Program Schedule</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-brazil/class-schedule" class="menu__link">Class Schedule</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-brazil/about-rio-de-janeiro" class="menu__link">About Rio de Janeiro</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-brazil/highlights" class="menu__link">Highlights</a></li>
+<li class="menu__item is-leaf leaf"><a href="/study-abroad/princeton-brazil/faqs" class="menu__link">FAQs</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/study-abroad/princeton-brazil/slideshow-gallery" class="menu__link">Slideshow Gallery</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-leaf leaf"><a href="/news" class="menu__link">News</a></li>
+<li class="menu__item is-expanded last expanded"><a href="/events" class="menu__link">Events</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/events-archive" class="menu__link">Events Archive</a></li>
+<li class="menu__item is-expanded last expanded"><a href="/events/documentary-festival-archives" class="menu__link">Documentary Festival Archives</a><ul class="menu"><li class="menu__item is-expanded first expanded"><a href="/events/documentary-festival-archives/2011-pictures-and-words" class="menu__link">2011: Pictures and Words</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/events/documentary-festival-archives/2011-pictures-and-words/2011-films" class="menu__link">2011: The Films</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/events/documentary-festival-archives/2011-pictures-and-words/2011-filmmakers" class="menu__link">2011: Filmmakers</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/events/documentary-festival-archives/2009-other-same" class="menu__link">2009: The Other the Same</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/events/documentary-festival-archives/2009-other-same/2009-films" class="menu__link">2009: The Films</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/events/documentary-festival-archives/2009-other-same/2009-filmmakers" class="menu__link">2009: Filmmakers</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/events/documentary-festival-archives/2008-real-stories" class="menu__link">2008: Real Stories</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/events/documentary-festival-archives/2008-real-stories/2008-films" class="menu__link">2008: The Films</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/events/documentary-festival-archives/2008-real-stories/2008-filmmakers" class="menu__link">2008: Filmmakers</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/events/documentary-festival-archives/2007-family-photo-album" class="menu__link">2007: Family Photo Album</a><ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="/events/documentary-festival-archives/2007-family-photo-album/2007-films" class="menu__link">2007: The Films</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/events/documentary-festival-archives/2006-i-was-there" class="menu__link">2006: I Was There</a><ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="/events/documentary-festival-archives/2006-i-was-there/2006-films" class="menu__link">2006: The Films</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/events/documentary-festival-archives/2005-private-movies" class="menu__link">2005: Private Movies</a><ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="/events/documentary-festival-archives/2005-private-movies/2005-films" class="menu__link">2005: The Films</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/events/documentary-festival-archives/2003-work-progress" class="menu__link">2003: Work In Progress</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/events/documentary-festival-archives/2003-work-progress/2003-films" class="menu__link">2003: The Films</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/events/documentary-festival-archives/2003-work-progress/2003-filmmakers" class="menu__link">2003: Filmmakers</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded"><a href="/events/documentary-festival-archives/2002-crossing-borders" class="menu__link">2002: Crossing Borders</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/events/documentary-festival-archives/2002-crossing-borders/2002-films" class="menu__link">2002: The Films</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/events/documentary-festival-archives/2002-crossing-borders/2002-filmmakers" class="menu__link">2002 Filmmakers</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>        </nav>
+
+      </div>
+
+    
+    <div class="content_container">
+      
+
+            
+
+      <div id="content" class="column" role="main">
+        
+        <a id="main-content" name="main-content" tabindex="-1"></a>
+                          <h1 class="page__title title" id="page-title">Home</h1>
+                                                        
+<div class="panel-display bryant-flipped clearfix radix-bryant-flipped">
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-9 radix-layouts-content panel-panel">
+        <div class="panel-panel-inner">
+          <div class="panel-pane pane-views-panes pane-people-people-full-listing">
+  
+      
+  
+  <div class="view view-people view-id-people view-display-id-people_full_listing view-dom-id-1949d32de503713aa1c0ee5de52005cd">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first people-page-person-container">
+    
+  <h2 class="element-invisible">Mya Abousy</h2>
+<div class="people-page-name-position-teaser-container">
+      <div class="people-page-name"><a href="/node/6576">Mya Abousy</a></div>
+          <div class="people-page-position"><div class="item-list"><ul><li class="first last">Concentrator (Junior)</li>
+</ul></div></div>
+    </div>
+<div class="people-page-phone-fax-email-office-container clearfix">
+          <div class="people-page-email"><strong>Email:</strong> mabousy@princeton.edu</div>
+    </div>
+  </div>
+  <div class="views-row-even people-page-person-container">
+    
+  <h2 class="element-invisible">Mauricio  Acuña</h2>
+<div class="people-page-name-position-teaser-container">
+      <div class="people-page-name"><a href="/node/6207">Mauricio  Acuña</a></div>
+          <div class="people-page-position"><div class="item-list"><ul><li class="first last">Graduate Student</li>
+</ul></div></div>
+    </div>
+<div class="people-page-phone-fax-email-office-container clearfix">
+      <div class="people-page-phone"><strong>Phone:</strong> 609-258-1953</div>
+          <div class="people-page-email"><strong>Email:</strong> jacuna@princeton.edu</div>
+        <div class="people-page-office"><strong>Office:</strong> 021 East Pyne</div>
+  </div>
+  </div>
+  <div class="views-row-odd people-page-person-container">
+    
+  <h2 class="element-invisible">Jeremy Adelman</h2>
+<div class="people-page-name-position-teaser-container">
+      <div class="people-page-name"><a href="/node/6230">Jeremy Adelman</a></div>
+          <div class="people-page-position"><div class="item-list"><ul><li class="first">Associated Faculty</li>
+<li class="last">Henry Charles Lea Professor of History</li>
+</ul></div></div>
+    </div>
+<div class="people-page-phone-fax-email-office-container clearfix">
+      <div class="people-page-phone"><strong>Phone:</strong> 609-258-7550</div>
+          <div class="people-page-email"><strong>Email:</strong> adelman@Princeton.EDU</div>
+        <div class="people-page-office"><strong>Office:</strong> G32 Dickinson Hall</div>
+  </div>
+  </div>
+  <div class="views-row-even people-page-person-container">
+    
+  <h2 class="element-invisible">Paloma Aguas</h2>
+<div class="people-page-name-position-teaser-container">
+      <div class="people-page-name"><a href="/node/6581">Paloma Aguas</a></div>
+          <div class="people-page-position"><div class="item-list"><ul><li class="first last">Concentrator (Junior)</li>
+</ul></div></div>
+    </div>
+<div class="people-page-phone-fax-email-office-container clearfix">
+          <div class="people-page-email"><strong>Email:</strong> paguas@princeton.edu</div>
+    </div>
+  </div>
+  <div class="views-row-odd people-page-person-container">
+    
+  <h2 class="element-invisible">Jonathan Aguirre</h2>
+<div class="people-page-name-position-teaser-container">
+      <div class="people-page-name"><a href="/node/6223">Jonathan Aguirre</a></div>
+          <div class="people-page-position"><div class="item-list"><ul><li class="first last">Graduate Student</li>
+</ul></div></div>
+    </div>
+<div class="people-page-phone-fax-email-office-container clearfix">
+          <div class="people-page-email"><strong>Email:</strong> jca2@princeton.edu</div>
+    </div>
+  </div>
+  <div class="views-row-even people-page-person-container">
+    
+  <h2 class="element-invisible">Yasmina Aidi</h2>
+<div class="people-page-name-position-teaser-container">
+      <div class="people-page-name"><a href="/node/6233">Yasmina Aidi</a></div>
+          <div class="people-page-position"><div class="item-list"><ul><li class="first last">Graduate Student</li>
+</ul></div></div>
+    </div>
+<div class="people-page-phone-fax-email-office-container clearfix">
+          <div class="people-page-email"><strong>Email:</strong> yaidi@princeton.edu</div>
+    </div>
+  </div>
+  <div class="views-row-odd people-page-person-container">
+    
+  <h2 class="element-invisible">Andy Alfonso</h2>
+<div class="people-page-name-position-teaser-container">
+      <div class="people-page-name"><a href="/node/6691">Andy Alfonso</a></div>
+          <div class="people-page-position"><div class="item-list"><ul><li class="first last">Graduate student</li>
+</ul></div></div>
+    </div>
+<div class="people-page-phone-fax-email-office-container clearfix">
+          <div class="people-page-email"><strong>Email:</strong> andya@princeton.edu</div>
+    </div>
+  </div>
+  <div class="views-row-even people-page-person-container">
+    
+  <h2 class="element-invisible">Anna Alsina Naudi</h2>
+  <div class="people-page-image-container"><a href="/people/anna-alsina-naudi"><img class="pwds-people-thumbnail" src="http://spo.princeton.edu/sites/spo/files/styles/pwds_people_thumbnail/public/people/placeholder.png?itok=KLQeqWcl" alt="Placeholder" width="120" height="160"></a></div>
+<div class="people-page-name-position-teaser-container">
+      <div class="people-page-name"><a href="/node/6227">Anna Alsina Naudi</a></div>
+          <div class="people-page-position"><div class="item-list"><ul><li class="first last">Lecturer</li>
+</ul></div></div>
+    </div>
+<div class="people-page-phone-fax-email-office-container clearfix">
+      <div class="people-page-phone"><strong>Phone:</strong> 609-258-7314</div>
+          <div class="people-page-email"><strong>Email:</strong> aalsina@Princeton.EDU</div>
+        <div class="people-page-office"><strong>Office:</strong> 401 East Pyne </div>
+  </div>
+  </div>
+  <div class="views-row-odd people-page-person-container">
+    
+  <h2 class="element-invisible">Diego Baena</h2>
+<div class="people-page-name-position-teaser-container">
+      <div class="people-page-name"><a href="/node/6200">Diego Baena</a></div>
+          <div class="people-page-position"><div class="item-list"><ul><li class="first last">Graduate Student</li>
+</ul></div></div>
+    </div>
+<div class="people-page-phone-fax-email-office-container clearfix">
+          <div class="people-page-email"><strong>Email:</strong> dbaena@princeton.edu</div>
+    </div>
+  </div>
+  <div class="views-row-even views-row-last people-page-person-container">
+    
+  <h2 class="element-invisible">Luisa Barraza Caballero</h2>
+<div class="people-page-name-position-teaser-container">
+      <div class="people-page-name"><a href="/node/6696">Luisa Barraza Caballero</a></div>
+          <div class="people-page-position"><div class="item-list"><ul><li class="first last">Graduate student</li>
+</ul></div></div>
+    </div>
+<div class="people-page-phone-fax-email-office-container clearfix">
+          <div class="people-page-email"><strong>Email:</strong> lbc2@princeton.edu</div>
+    </div>
+  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/people/display_person.xml?&amp;&amp;&amp;sort_by=field_people_name_family&amp;sort_order=ASC&amp;page=1&amp;netid=yaidi&amp;display=All">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/people/display_person.xml?&amp;&amp;&amp;sort_by=field_people_name_family&amp;sort_order=ASC&amp;page=2&amp;netid=yaidi&amp;display=All">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/people/display_person.xml?&amp;&amp;&amp;sort_by=field_people_name_family&amp;sort_order=ASC&amp;page=3&amp;netid=yaidi&amp;display=All">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/people/display_person.xml?&amp;&amp;&amp;sort_by=field_people_name_family&amp;sort_order=ASC&amp;page=4&amp;netid=yaidi&amp;display=All">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/people/display_person.xml?&amp;&amp;&amp;sort_by=field_people_name_family&amp;sort_order=ASC&amp;page=5&amp;netid=yaidi&amp;display=All">6</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/people/display_person.xml?&amp;&amp;&amp;sort_by=field_people_name_family&amp;sort_order=ASC&amp;page=1&amp;netid=yaidi&amp;display=All">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/people/display_person.xml?&amp;&amp;&amp;sort_by=field_people_name_family&amp;sort_order=ASC&amp;page=11&amp;netid=yaidi&amp;display=All">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>
+  
+  </div>
+        </div>
+      </div>
+      <div class="col-md-3 radix-layouts-sidebar panel-panel">
+        <div class="panel-panel-inner">
+          <div class="panel-pane pane-views-panes pane-categories-list-people-categories-list-block">
+  
+      
+  
+  <div class="view view-categories-list view-id-categories_list view-display-id-people_categories_list_block view-dom-id-aa1abd9a8215ffaea94933b0c130dad0">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/people/747">Affiliated Faculty</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/people/750">Associated Faculty</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/people/748">Concentrator</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/people/744">Emeriti</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/people/741">Faculty</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/people/745">Graduate Student</a></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/people/746">Lecturer</a></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/people/749">Researcher</a></span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/people/743">Staff</a></span>  </div></li>
+          <li class="views-row views-row-10 views-row-even views-row-last">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/people/742">Visiting Faculty</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /.bryant-flipped -->
+        
+      </div>
+    </div>
+
+  </div>
+
+  <footer class="footer" id="footer" role="banner">
+    <div class="footer__wrapper">
+      <div class="footer__left" id="footer-left">
+
+              </div>
+      <div class="footer__right" id="footer-right">
+
+        <p>Department of Spanish and Portuguese<br>
+	359 East Pyne Princeton, New Jersey &nbsp;08544-5264<br><strong>Tel:</strong>&nbsp;(609) 258-7180 &nbsp;| &nbsp;<strong>Fax:</strong>&nbsp;(609) 258-7155 &nbsp;| &nbsp;<a href="mailto:spo@princeton.edu">spo@princeton.edu</a></p>
+
+        <div class="copyright">© 2017 The Trustees of Princeton University</div>
+        
+      </div>
+    </div>
+  </footer>
+
+</div>
+
+  <script src="http://spo.princeton.edu/sites/spo/files/js/js_29qYXJz8NLGg8Aomg-RZPjJcj9yEdEst1BMZ9gZbs-4.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"bcb968c2dc","applicationID":"55444559","transactionName":"ZwRXN0YCCEUAVk1eXl5OdABACglYTkVYUFRvDFQNVQQDRD5FWFBUbwRNBlcWElM=","queueTime":0,"applicationTime":664,"atts":"S0NUQQ4YG0s=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>

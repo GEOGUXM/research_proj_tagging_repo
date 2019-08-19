@@ -1,0 +1,307 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Victor Teo, Department of Japanese Studies, School of Modern Languages and Cultures HKU</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	color: #FFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	line-height: 1.4;
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
+	padding-right: 15px;
+	padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000;
+}
+a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+	border: none;
+}
+
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+a:link {
+	color: #42413C;
+	text-decoration: underline; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+}
+a:visited {
+	color: #6E6C64;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+	text-decoration: none;
+	font-size: 11px;
+	font-weight: normal;
+}
+
+/* ~~this fixed width container surrounds the other divs~~ */
+.container {
+	width: 780px;
+	background-color: #FFF; /* the auto value on the sides, coupled with the width, centers the layout */
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	color: #000000;
+	font-size: 11px;
+	float: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	line-height: 18px;
+	text-align: justify;
+}
+
+/* ~~ the header is not given a width. It will extend the full width of your layout. It contains an image placeholder that should be replaced with your own linked logo ~~ */
+.header {
+}
+
+/* ~~ These are the columns for the layout. ~~ 
+
+1) Padding is only placed on the top and/or bottom of the divs. The elements within these divs have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
+
+2) No margin has been given to the columns since they are all floated. If you must add margin, avoid placing it on the side you're floating toward (for example: a right margin on a div set to float right). Many times, padding can be used instead. For divs where this rule must be broken, you should add a "display:inline" declaration to the div's rule to tame a bug where some versions of Internet Explorer double the margin.
+
+3) Since classes can be used multiple times in a document (and an element can also have multiple classes applied), the columns have been assigned class names instead of IDs. For example, two sidebar divs could be stacked if necessary. These can very easily be changed to IDs if that's your preference, as long as you'll only be using them once per document.
+
+4) If you prefer your nav on the right instead of the left, simply float these columns the opposite direction (all right instead of all left) and they'll render in reverse order. There's no need to move the divs around in the HTML source.
+
+*/
+.sidebar1 {
+	float: left;
+	width: 180px;
+	background-color: #FFFFFF;
+	padding-bottom: 450px;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+	padding-top: 2px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	padding-left: 5px;
+	padding-right: 0px;
+}
+.content {
+
+	padding: 10px 0;
+	width: 780px;
+	float: left;
+}
+
+/* ~~ This grouped selector gives the lists in the .content area space ~~ */
+.content ul, .content ol { 
+	padding: 0 15px 15px 40px; /* this padding mirrors the right padding in the headings and paragraph rule above. Padding was placed on the bottom for space between other elements on the lists and on the left to create the indention. These may be adjusted as you wish. */
+}
+
+/* ~~ The navigation list styles (can be removed if you choose to use a premade flyout menu like Spry) ~~ */
+ul.nav {
+	list-style: none; /* this removes the list marker */
+	border-top: 1px solid #666; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
+	margin-bottom: 15px; /* this creates the space between the navigation on the content below */
+}
+ul.nav li {
+	border-bottom: 1px solid #666; /* this creates the button separation */
+}
+ul.nav a, ul.nav a:visited { /* grouping these selectors makes sure that your links retain their button look even after being visited */
+	display: none; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
+	width: 180px;  /*this width makes the entire button clickable for IE6. If you don't need to support IE6, it can be removed. Calculate the proper width by subtracting the padding on this link from the width of your sidebar container. */
+	text-decoration: none;
+	background-color: #FFFFFF;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+}
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
+	background-color: #ADB96E;
+	color: #FFF;
+}
+
+/* ~~ The footer ~~ */
+.footer {
+	background-color: #CCC49F;/* this gives IE6 hasLayout to properly clear */
+	clear: both;
+}
+
+/* ~~ miscellaneous float/clear classes ~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+.container table tr td strong {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+}
+.container table tr td strong {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+}
+.container table tr td {
+	font-size: 11px;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.container table tbody tr td a {
+	font-weight: normal;
+}
+.container table tbody tr td {
+	font-size: 11px;
+	font-weight: normal;
+}
+.sidebar11 {	float: left;
+	width: 180px;
+	background-color: #FFFFFF;
+	padding-bottom: 350px;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+	padding-top: 2px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	padding-left: 5px;
+	padding-right: 0px;
+}
+.sidebar111 {float: left;
+	width: 180px;
+	background-color: #FFFFFF;
+	padding-bottom: 500px;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+	padding-top: 2px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	padding-left: 5px;
+	padding-right: 0px;
+}
+
+-->
+</style>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+
+<body onload="<div;MM_preloadImages('../images/Hov_JAPN_0000.jpg','../images/Hov_JAPN_0005.jpg','../images/Hov_JAPN_0004.jpg','../images/Hov_JAPN_0012.jpg','../images/Hov_JAPN_0022.jpg','../images/Hov_JAPN_0007.jpg','../images/Hov_JAPN_0024.jpg','../images/Hov_JAPN_0023.jpg','../images/Hov_JAPN_0008.jpg','../images/Hov_JAPN_0001.jpg','../images/Hov_JAPN_0026.jpg')" class="container">
+<div class="header"><img src="../images/BannerJAPN.jpg" alt="Japanese Studies HKU" usemap="#Map" width="780" height="165" border="0">
+    <map name="Map" id="Map">
+      <area shape="rect" coords="14,10,251,43" href="http://www.smlc.hku.hk" target="_blank" alt="School of Modern Languages and Cultures HKU">
+    </map>
+<!-- end .header --></div>
+  <div class="sidebar1"><!-- end .sidebar1 --><a href="../index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','../images/Hov_JAPN_0000.jpg',1)"><img src="../images/But_JAPN_0000.jpg" alt="Home" id="Image22" width="180" height="40"></a><a href="../staff.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','../images/Hov_JAPN_0004.jpg',1)"><img src="../images/Sel_JAPN_0004.jpg" alt="Staff" id="Image12" width="180" height="40"></a><a href="../programme.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','../images/Hov_JAPN_0005.jpg',1)"><img src="../images/But_JAPN_0005.jpg" alt="Programme" id="Image13" width="180" height="40"></a><a href="../studyinjapan.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image14','','../images/Hov_JAPN_0022.jpg',1)"><img src="../images/But_JAPN_0022.jpg" alt="Study in Japan" id="Image14" width="180" height="40"></a><a href="../scholarship.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','../images/Hov_JAPN_0012.jpg',1)"><img src="../images/But_JAPN_0012.jpg" alt="Scholarships" id="Image15" width="180" height="40"></a><a href="../internship.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','../images/Hov_JAPN_0024.jpg',1)"><img src="../images/But_JAPN_0024.jpg" alt="Internship" id="Image16" width="180" height="40"></a><a href="../summer.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','../images/Hov_JAPN_0026.jpg',1)"><img src="../images/But_JAPN_0026.jpg" alt="Summer" id="Image17" width="180" height="40"></a><a href="../students.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','../images/Hov_JAPN_0023.jpg',1)"><img src="../images/But_JAPN_0023.jpg" alt="Students" id="Image18" width="180" height="40"></a><a href="../newsevents.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','../images/Hov_JAPN_0007.jpg',1)"><img src="../images/But_JAPN_0007.jpg" alt="News" id="Image19" width="180" height="40"></a><a href="../links.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image20','','../images/Hov_JAPN_0008.jpg',1)"><img src="../images/But_JAPN_0008.jpg" alt="Links" id="Image20" width="180" height="40"></a><a href="../contactus.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','../images/Hov_JAPN_0001.jpg',1)"><img src="../images/But_JAPN_0001.jpg" alt="Contact" id="Image21" width="180" height="40"></a></div>
+  <p>
+</p><table width="73%" cellspacing="0" cellpadding="0" border="0">
+    <tbody><tr>
+      <td>Academic Staff</td>
+      <td><div align="right"><a href="../staff.html">Back</a></div></td>
+    </tr>
+  </tbody></table><br>
+<table width="74%" cellspacing="0" cellpadding="2" border="0">
+    <tbody><tr>
+      <td width="80%"><p><strong>Dr. Victor E. Teo</strong><br>
+        BA BSocSc (Hons) (NUS); Pg Certificate in Higher Ed, MSc, PhD (LSE); Postgraduate Dip in Law (College of Law, London); Barrister (Middle Temple, UK)</p>
+        <p>Assistant Professor</p>
+        <p>Email: victorteo@hku.hk<br>
+        </p></td>
+      <td width="20%"><img src="vteo/Teo 130.jpg" alt="Victor Teo" width="99" height="130"></td>
+    </tr>
+    <tr>
+      <td colspan="2"><p align="justify"><br>
+        Victor Teo is Assistant Professor at the School. His research interests lie in the International Relations of Asia-Pacific, with particular emphasis on Sino-Japanese relations. Victor’s PhD dissertation examined the impact of social memories in relation to nationalism and foreign policy in contemporary Sino-Japanese and Sino-Russian relations. After having spent substantial time at various think tanks and Universities in China, Japan and Russia conducting research, he received his PhD from the International Relations Department at the London School of Economics and Political Science. From 2004 to 2009, he served as the Editor-in-Chief of Studies in Ethnicity and Nationalism published by Blackwell-Wiley.</p>
+        <p align="justify">Victor began his academic career in the United Kingdom. Before joining the University of Hong Kong, he was LSE Fellow in China in the Comparative Perspective Program at the London School of Economics and Political Science. Victor also held a variety of adjunct teaching positions at the Departments of International Relations and International History as well as the War Studies Department of King’s College, London. Victor has also taught a range of undergraduate courses on a part-time basis at the Chinese University of Hong Kong, City University of Hong Kong and HKUST. Victor was Japan Foundation Research Fellow at University of Kyoto’s Center For Southeast Asian Studies. He was Visiting Research Fellow at the Department of Politics and International Relations at the University of Oxford. In Spring 2015-16, he will be Doris Zimmern HKU-Cambridge visiting Fellow at Hughes Hall, University of Cambridge. Victor Teo is also one of the founding directors of DPRK Observatory, an NGO with a primary focus on the study of North Korea Affairs.</p>
+        <p><img src="../japnimages/research interests.jpg" alt="research" width="107" height="13"><br>
+          International Relations of the Asia-Pacific<br>
+          Politics and Society of Japan and China<br>
+          China’s and Japan’s role in the World<br>
+          North Korea<br>
+          Asian Borderlands and Maritime Zones<br>
+        Clandestine Globalization and Illicit World Political Economy</p>
+        <p align="justify"><img src="../japnimages/Selected Publications peer.jpg" alt="Selected Publications" width="202" height="13"><br>
+          <a href="http://www.amazon.com/Koreas-Between-China-Japan/dp/1443860247/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1417742237&amp;sr=1-1&amp;keywords=The+Koreas+Between+China+and+Japan" target="_blank"><img src="vteo/The Koreas 110.jpg" alt="koreas" width="76" height="110"></a> <a href="http://www.amazon.com/United-States-Between-China-Japan/dp/1443842338" target="_blank"><img src="vteo/united state 110.jpg" alt="United State" width="79" height="110"></a> <a href="http://www.amazon.com/dp/1443835080/ref=dra_a_rv_ff_fx_it_P2000_1000?tag=dradisplay-20&amp;ascsubtag=96882420174068ac5fd341d5892186bb" target="_blank"><img src="vteo/southeast 110.jpg" alt="Southeast" width="79" height="110"></a> <a href="http://www.amazon.com/Reconceptualising-Divide-Nationalism-Sino-Japanese-Relations/dp/1443821195/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1409711151&amp;sr=1-1&amp;keywords=Reconceptualising+the+Divide%3A+Identity%2C+Memory%2C+and+Nationalism+in+Sino-Japanese+Relations" target="_blank"><img src="vteo/recon 110.jpg" alt="recon" width="79" height="110"></a><br>
+          Victor Teo, “Towards a More Amicable Asia-Pacific: Rethinking Japan’s Relations with the US and China” in Sugita Yoneyuki, Toward a More Amicable Asia-Pacific Region: Japan’s Roles, University Press of America, Jan 2016 <br>
+          Victor Teo, Recalibrating Sino-Japanese Relations for a Better Future: Implications of Japan’s Joint Anti-Piracy Operations in the Gulf of Aden with China, in Sugita Yoneyuki (ed.), Japan Viewed from Interdisciplinary Perspectives: History and Prospect, New York and London: Rowman &amp; Littlefield Lexington Books, 2015<br>
+          Victor Teo, “In Celebration of Lee Kuan Yew: Singapore’s Future as a Global City”, Studies in Ethnicity and Nationalism, Features in Special Issue on Nationalism and the City, Vol. 15 No. 2, pp 363–374. doi:10.1111/sena.12151<br>
+          Victor Teo, Hong Kong and the Diaoyu/Senkaku Dispute in Contemporary Sino-Japanese Relations, In Peng-Er Lam, China-Japan Relations: Antagonism Despite Alignment, New York and London, Routledge Series on Asia-Pacific Security, Forthcoming, 2015<br>
+          Victor Teo (with Lee Guen), (eds) The Koreas Between China and Japan, UK: Cambridge Scholars Publishing, 2014<br>
+          Victor Teo (with Caroline Rose), (eds) The United States Between China and Japan, UK: Cambridge Scholars Publishing, 2013<br>
+          Victor Teo (with Lam Peng-Er), (eds), Southeast Asia Between China and Japan, UK: Cambridge Scholars Publishing, 2011<br>
+          Victor Teo (Gerrit Gong)(eds), Reconceptualising the Divide: Identity, Memory, and Nationalism in Sino-Japanese Relations, UK: Cambridge Scholars Publishing, 2010<br>
+        </p>
+        <p align="justify"><img src="../japnimages/current research project.jpg" alt="Current" width="143" height="13"><br>
+          1. The Prospects and Challenges of Japan’s Normalisation: A Case Study of Japanese Diplomatic Activities in the Middle East from 1991-2009 (General Research Fund, Hong Kong Research Council, Awarded  $415670)<br>
+          2. Clandestine Globalization and China’s Borderlands (various sub-projects / chapters funded individually by HKU Seed Fund for Basic Research, HKU Incentive Award for Research; Hang Seng Bank Golden Jubilee Education Fund; HKU Alumni Green Fund; Knowledge Exchange Fund) <br>
+          3. Contemporary Sino-Japanese Relations (various themes)<br>
+        4. “Vanguard of the Revolution: A Study of North Korean Traders at the DPRK-PRC Border”. (General Research Fund, Hong Kong Research Council, Awarded HKD$323,275)</p>
+        <p><img src="../japnimages/Courses.jpg" alt="courses" width="46" height="13"><br>
+          <a href="../programme/jscourse/JAPN2060.html" target="_blank">JAPN2060</a> Contemporary Sino-Japanese Relations<br>
+          <a href="../programme/jscourse/JAPN2068.html" target="_blank">JAPN2068</a> The Japan-US Alliance and the International Relations of Asia-Pacific<br>
+          <a href="../programme/jscourse/JAPN3018.html" target="_blank">JAPN3018</a> Japan and China as Great Powers in International Security and Global Affairs<br>
+          <a href="http://commoncore.hku.hk/ccgl9027/" target="_blank">CCGL9027</a> Criminal Organizations, Clandestine Globalization and the Illicit World Political Economy<br>
+          <a href="http://commoncore.hku.hk/ccch9006/" target="_blank">CCCH9006</a> The Modernization of China in the East Asian Context<br>
+          <a href="http://www.smlc.hku.hk/programmes/course.php?course=638" target="_blank">KORE2028</a> The Other Korea - North Korea<br>
+          GRSC6038 International Research Skills Development Course (Graduate School Course)<br>
+          SMLC7003 Research Methodology (convenor 2012-2013)</p>
+        <p><img src="../japnimages/Contact Details.jpg" alt="contact" width="88" height="13"><br>
+          Office: 538, 5th Floor, Run Run Shaw Tower<br>
+          Email: victorteo@hku.hk <br>
+      HKU Scholars Hub: <a href="http://hub.hku.hk/cris/rp/rp01233" target="_blank">http://hub.hku.hk/cris/rp/rp01233</a></p></td>
+    </tr>
+  </tbody></table>
+<div>
+  <img src="../images/BottomJAPN.jpg" alt="Japanese Studies HKU" width="780" height="20">    <!-- end .footer --></div>
+  <!-- end .container -->
+
+
+</body></html>

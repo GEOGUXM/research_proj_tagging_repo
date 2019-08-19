@@ -1,0 +1,53 @@
+SCHOOLS
+
+LIBRARIES
+
+
+RESOURCES
+
+
+  HOME
+OVERVIEW
+FROM THE CHAIR
+ABOUT
+HIGHLIGHTS
+NEWSLETTER
+RESEARCH AREAS
+BRAIN TUMOR INFORMATICS
+IN SILICO SCIENCE
+CLINICAL AND TRANSLATIONAL INFORMATICS
+HIGH END COMPUTING
+IMAGING INFORMATICS
+PUBLICATIONS
+EDUCATION
+PHD PROGRAM
+MASTERS
+COURSES
+ACADEMIC EXCHANGE
+PEOPLE
+FACULTY
+STAFF
+STUDENTS
+CAREERS
+Brain Tumor Informatics at BMI
+Brain cancer has complex underlying mechanisms that promote tumors through multiple signaling networks hosted in a number of molecularly discrete diseases. A quantitative understanding can lead to a better interpretation of the effects of these signaling networks.
+Research Areas
+Brain Tumor Informatics
+  In Silico Science
+  Clinical and Translational Informatics
+  High End Computing
+  Imaging Informatics
+News & Announcements
+We are excited to announce the opening of the annual PhysioNet/Computing in Cardiology Challenge for 2017:  AF Classification from a short single lead ECG recording. A database of over 10,000 ECG recordings is being made freely available exclusively for this competition by AliveCor, and represent a serendipitous sample of patient-initiated recordings of one minute or less. They have all been labeled for rhythm by hand into one of four categories: Normal, Atrial Fibrillation, Other Rhythm or Too Noisy to Process. We challenge the public to develop the most accurate classifier of these data into these four categories.  As usual, a portion of these data have been hidden from the public to allow us to objectively assess your algorithms. More information on the Challenge, including data and example code can be found at http://physionet.org/challenge/2017.
+  The competition opens today and will run until September the 1st, but you must register and submit at least one scored entry before the 9th April. Prizes will be awarded at the Computing in Cardiology Conference in Rennes, France in September later this year. Please email any questions that you have to challenge@physionet.org or see the Google Group, rather than responding to this email.
+  Best of luck and we look forward to working with you and hopefully meeting you in France!
+-Gari Clifford, on behalf of the PhysioNet Challenge Team
+Contact Information
+  Biomedical Informatics Department
+Emory University
+Woodruff Memorial Research Building
+101 Woodruff Circle, 4th Floor East
+Atlanta, GA 30322
+  Email bmi@emory.edu
+HOME | CONTACTS | EMERGENCY | EMPLOYMENT | MAKE A GIFT | EMORY'S WEB | SITE MAP | A-Z INDEX
+Copyright © 2017 Emory University - All Rights Reserved | 201 Dowman Drive, Atlanta, Georgia 30322 USA 404.727.6123

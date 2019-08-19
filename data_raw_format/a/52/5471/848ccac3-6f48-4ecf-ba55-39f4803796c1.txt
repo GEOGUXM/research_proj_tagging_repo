@@ -1,0 +1,114 @@
+Skip to Content
+Hefeng Dong
+Professor
+Department of Electronic Systems
+Faculty of Information Technology and Electrical Engineering
+hefeng.dong@ntnu.no
++47 73594453
+O. S. Bragstads plass 2, Elektro B * B227
+Research interests and activities
+Underwater acoustics, underwater acoustic communication and geoacoustics with emphasis on modeling of sound propagation, signal processing and geoacoustic inversion
+The current research activities include
+modeling of wave propagation in acoustic, elastic and pore elastic media with applications in underwater, environmental noise, underwater object/target detection; 
+characterization of underwater channel for acoustic communication and environmental monitoring;
+signal processing and geoacoustic inversion for seabed characterization.
+Publications
+HefengDong & S. E. Dosso (2011). Bayesian Inversion of Interface-Wave Dispersion for Seabed Shear Wave Speed Profiles, IEEE J. Ocean. Eng.,Vol. 36 (1), pp. 1-11
+Hefeng Dong, N. R. Chapman, S. E. Dosso, and D. E Hannay, Estimation of seismic velocities of upper oceanic crust by ocean bottom reflection loss data, J. Acoust. Soc. Am. Vol. 127(4), 2010
+Guosong Zhang, J. M. Hovem, Hefeng Dong, Zhou Shihong and Du Shuanping, An efficient spread spectrum pulse position modulation scheme for point-to-point underwater acoustic communication, Journal of Applied Acoustics, Vol. 71, pp. 11-16, 2010.
+Fa Lin, Castahna J P and Dong Hefeng, An accurately fast algorithm of calculating reflection/transmission coefficients, Science in China Series G: Physics, Mechanics & Astronomy,51 (7), 823-846, 2008.
+Hefeng Dong & S. E. Dosso (2011). Bayesian Inversion of Interface-Wave Dispersion for Seabed Shear Wave Speed Profiles, IEEE J. Ocean. Eng.,Vol. 36 (1), pp. 1-11
+Hefeng Dong, N. R. Chapman, S. E. Dosso, and D. E Hannay, Estimation of seismic velocities of upper oceanic crust by ocean bottom reflection loss data, J. Acoust. Soc. Am. Vol. 127(4), 2010
+Guosong Zhang, J. M. Hovem, Hefeng Dong, Zhou Shihong and Du Shuanping, An efficient spread spectrum pulse position modulation scheme for point-to-point underwater acoustic communication, Journal of Applied Acoustics, Vol. 71, pp. 11-16, 2010.
+Fa Lin, Castahna J P and Dong Hefeng, An accurately fast algorithm of calculating reflection/transmission coefficients, Science in China Series G: Physics, Mechanics & Astronomy,51 (7), 823-846, 2008.
+Hefeng Dong, Jens M. Hovem and Nikolaos Papantonopoulos, Dispersion analysis of seismic interface waves based on adaptive wavelet technique, in Theoretical and Computational Acoustics 2007, Edited by Michael Taroudakis and Panagiotis Papadakis,  Published by the University of Crete, 2008. pp. 47-55 (ISBN: 978-960-89758-4-2)
+Piotr Borejko and Hefeng Dong, On acoustic propagation in a perfect wedge, Theoretical and Computational Acoustics 2007, Edited by Michael Taroudakis and Panagiotis Papadakis,  Published by the University of Crete, 2008. pp. 247-256 (ISBN: 978-960-89758-4-2)
+Dong Hefeng; Hovem, Jens Martin; Frivik, Svein Arne. Estimation of shear wave velocity in seaflooR sediment by seismo-acoustic interface waves: a case study for geotechnical application, Theoretical and Computational Acoustics 2005, Edited by Alexandra Tolstoy, Er-Chang Shang and Yu-Chiung Teng, World Scientific, 2006. pp. 33-43
+Hefeng Dong and Zhangliang Cao, Estimation of shear-wave velocity in marine sediment using Love waves, ICTCA2011, Taibei, Taiwan, 24-29, April, 2011
+Hefeng Dong, Nihed el Allouche, Guy G. Drijkoningen  and Willem Versteeg, Estimation of shear-wave velocity in shallow marine environment, Proc. of the 10th European Conference on Underwater Acoustics, Edited by Tuncay Akal, V. 1, pp. 175-180, 2010
+Hefeng Dong, Stan Dosso and Svein Arne Frivik, Shear-wave velocity estimation using Bayesian inversion of seismo-acoustic interface wave dispersion, Proc. of the 10th European Conference on Underwater Acoustics, Edited by Tuncay Akal, V. 1, pp. 181-182, 2010
+Hefeng Dong, Lanbo Liu, Mark Thompson and Andrew Morton, Estimation of seismic interface wave dispersion using ambient noise recorded by ocean bottom cable, Proc. of the 10th European Conference on Underwater Acoustics, Edited by Tuncay Akal, V. 1, pp. 183-188, 2010
+Guosong Zhang, Hovem Jens M., Dong Hefeng and Lanbo Liu, Experimental Studies of Underwater Acoustic Communications over Multipath Channels, SENSORCOMM 2010, Venice, Italy, 19-23, July 2010.
+Ganpan Ke, Hefeng Dong and Merrick H. Johnston, Rock physics modeling of the frequency dispersion in bitumen saturated sands, SEG 2010, Denver, USA, 18-22, Oct. 2010, pp. 2552-2556, 2010
+Ganpan Ke, Hefeng Dong and Zhengliang Cao, Surface wave dispersion curve calculation in TIV medium, SEG 2010, Denver, USA, 18-22, Oct. 2010, pp. 1924-1928, 2010
+Zhengliang Cao and Hefeng Dong, Attenuation dispersion of Love waves in a viscoelastic multilayered half-space, SEG 2010, Denver, USA, 18-22, Oct. 2010, pp. 2998-3002, 2010
+Lanbo Liu, Hefeng Dong, Mark Thompson and Andrew Morton, poster on Workshop: Experiments with Portable Ocean Bottom Seismographs (EPOBS) 2010, Utah, USA, 26-28 Sept. 2010
+Teaching
+Master courses
+TTT4175 Marine Acoustics
+TTT4195 Marine Observation Technology
+TTT4245 Marine Acoustics II
+PhD courses
+TT8305 Marine Acoustics II
+TT8306 Wave propagation modeling and inversion
+TT8307 Theoretical Acoustics
+Biography
+Education
+BSc. - 1983 in Theoretical Physics at Northeast Normal University, Changchun, China
+MSc.- 1986 in Theoretical Physics at Northeast Normal University, Changchun, China
+PhD.- 1994 in Geoacoustics at Jilin University, Changchun, China
+Work experience
+11.2002 - present:
+Professor in Acoustic Remote Sensing, Department of Electronics and Telecommunications/Acoustics, NTNU
+08.2008 – 06.2009:
+Visiting Professor at the School of Earth and Ocean Sciences, University of Victoria, Canada
+06.2001 - 10.2002:
+Research Scientist, Seismics and Formation Physics, SINTEF Petroleum Research, Trondheim Norway
+01.2000 - 05.2001:
+Post-doctor, Department of Telecommunications/Acoustics, NTNU, Norway
+10.1999 - 01.2000:
+Associate Professor, Institute of Theoretical Physics, Northeast Normal University, Changchun, P.R. China
+10.1998 - 09.1999:
+Visiting scholar, Department of Telecommunications/Acoustics, NTNU, Norway
+01.1995 - 09.1998:
+Associate Professor, Institute of Theoretical Physics, Northeast Normal University, Changchun, P.R. China
+Memberships
+Member of Acoustic Society of America
+Member of Norwegian Physical Society
+Member of Norwegian Acoustic Society
+Referee of JASA and JGE
+Doctoral students presently under supervision
+Anders Løvstad to be finished 2011
+Guosong Zhang to be finished 2012
+Ganpan Ke to be finished 2012
+Collaboration
+National
+SINTEF: http://www.sintef.no/
+FFI: http://www.ffi.no/en/
+Statoil: http://www.statoil.com
+NGI: http://ngi.no/en/
+IMR: http://www.imr.no/en
+NGU: http://www.ngu.no/en-gb/
+International
+UVIC: http://seos.uvic.ca/
+IOACAS: http://english.ioa.cas.cn/
+UCONN: http://www.uconn.edu/
+Scientific, academic and artistic work
+A selection of recent journal publications, artistic productions, books, including book and report excerpts. See all publications in the database
+Journal publications
+Dong, Hefeng; Badiey, Mohsen; Chapman, N. Ross. (2016) Geoacoustic Inversion of Airgun Data Under Influence of Internal Waves. IEEE Journal of Oceanic Engineering.
+Dong, Hefeng; Chapman, N. Ross. (2016) Measurement of ocean bottom reflection loss with a horizontal line array. Acta Acustica united with Acustica. vol. 102 (4).
+Guo, Zhenwei; Dong, Hefeng; Kristensen, Åge. (2016) Sparse CSEM inversion driven by seismic coherence. Journal of Geophysics and Engineering. vol. 13 (6).
+Guo, Zhenwei; Dong, Hefeng; Liu, Jianxin. (2016) Comparison of marine controlled-source electromagnetic data acquisition systems by a reservoir sensitivity index: analyzing the effect of water depths. Acta Oceanologica Sinica. vol. 35 (11).
+Peng, Bo; Salvo Rossi, Pierluigi; Dong, Hefeng; Kansanen, Kimmo. (2016) DSP based OFDM receiver for time-varying underwater acoustic channels. European Signal Processing Conference. vol. 2016-November.
+Dong, Hefeng; Badiey, Mohsen; Chapman, N. Ross. (2015) Matched mode geoacoustic inversion of broadband signals in shallow water. Journal of the&nbsp;Acoustical Society of America. vol. 137.
+Guo, Zhenwei; Dong, Hefeng; Xiao, Jianping. (2015) Detection of Permafrost Subgrade Using GPR: A Case Examination on Qinghai-Tibet Plateau. Journal of Geoscience and Environment Protection.
+Peng, Bo; Dong, Hefeng. (2015) DSP based real-time single carrier underwater acoustic communications using frequency domain turbo equalization. Physical Communication.
+Peng, Bo; Salvo Rossi, Pierluigi; Dong, Hefeng; Kansanen, Kimmo. (2015) Time-Domain Oversampled OFDM Communication in Doubly-Selective Underwater Acoustic Channels. IEEE Communications Letters. vol. 19 (6).
+Salvo Rossi, Pierluigi; Ciuonzo, Domenico; Ekman, Torbjörn; Dong, Hefeng. (2015) Energy Detection for MIMO Decision Fusion in Underwater Sensor Networks. IEEE Sensors Journal. vol. 15 (3).
+Dong, Hefeng. (2014) Shear-wave Estimation from Different Type of Sediments. Journal of the&nbsp;Acoustical Society of America. vol. 134 (5).
+Dong, Yangze; Dong, Hefeng; Zhang, Gangqiang. (2014) Study on Denail of Service against Underwater Acoustic Networks. Journal of Communications. vol. 9 (2).
+Bi-Xing, Zhang; Dong-Dong, Liu; Fang-Fang, Shi; Dong, Hefeng. (2013) Ultrasonic focusing and scanning with multiple waves. Chinese Physics B. vol. 22 (1).
+Coward, Stian; Tollefsen, Dag; Dong, Hefeng. (2013) Radiated ship noise level estimates from measurements in a fjord. Journal of the&nbsp;Acoustical Society of America. vol. 134 (5).
+Dong, Hefeng; Ke, Ganpan; Duffaut, Kenneth. (2013) Seabed Shear-Wave Velocity Estimation from Dispersion Curves of Love Waves. Acta Acustica united with Acustica. vol. 99 (6).
+Dong, Hefeng; Nguyen, Thanh Duong; Duffaut, Kenneth. (2013) Estimation of seabed shear-wave velocity profiles using shear-wave source data. Journal of the&nbsp;Acoustical Society of America. vol. 134 (1).
+Zhang, Bixing; Xie, Fuli; Dong, Hefeng; Gong, Junjie. (2013) Ultrasonic guided wave focusing by a generalized phased array. Acoustical Physics. vol. 59 (1).
+Zhang, Guosong; Dong, Hefeng. (2013) Underwater communications in time-varying sparse channels using passive-phase conjugation. Applied Acoustics. vol. 74 (3).
+Dong, Hefeng; Nguyen, Thanh Duong; Duffaut, Kenneth. (2012) Estimation of shear-wave velocity profiles using shear source data in marine environment. Journal of the&nbsp;Acoustical Society of America. vol. 131 (4).
+Gao, Wenyang; Wu, Qian; Cui, Zhiwen; Wang, Kexie; Dong, Hefeng. (2012) Numerical Simulation of Acoustic Wave Propagation in Cylindrical Fluid-Saturated Poroelastic Shell Immersed in Fluids. Applied Mechanics and Materials. vol. 105-107.
+Norwegian University of Science and Technology
+Contact us
+Search for employees
+Studies A to Z
+About cookies
+Sign in

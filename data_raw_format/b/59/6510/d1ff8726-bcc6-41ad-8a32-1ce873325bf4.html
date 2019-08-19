@@ -1,0 +1,505 @@
+<html dir="ltr" lang="en-GB"><head>
+  <meta charset="UTF-8">
+  <title>Paul Mitchener</title>
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0">
+  <meta name="author" content="University of Sheffield">
+  <link rel="icon" href="//www.sheffield.ac.uk/polopoly_fs/15.375.1407149390!/assets/images/favicon.ico">
+  <link rel="stylesheet" href="/maths/assets/css/style.min.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  <!--[if lt IE 8]>
+    <link rel="stylesheet" href="//www.sheffield.ac.uk/polopoly_fs/15.375.1407149390!/css/build/ie.css" />
+  <![endif]-->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="//www.sheffield.ac.uk/polopoly_fs/15.375.1407149390!/js/libs/jquery.min.js"><\/script>')</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js">
+
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX","output/HTML-CSS"],
+    tex2jax: {inlineMath: [["$","$"]]}
+  });
+</script><style type="text/css">.MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1px; bottom: 2px; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style>
+ <style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
+.MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
+.MathJax_Hover_Arrow:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_Hover_Arrow:hover span {background-color: #CCC!important}
+</style><style type="text/css">.MathJax_Display {text-align: center; margin: 1em 0em; position: relative; display: block!important; text-indent: 0; max-width: none; max-height: none; min-width: 0; min-height: 0; width: 100%}
+.MathJax .merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
+.MathJax .MJX-monospace {font-family: monospace}
+.MathJax .MJX-sans-serif {font-family: sans-serif}
+#MathJax_Tooltip {background-color: InfoBackground; color: InfoText; border: 1px solid black; box-shadow: 2px 2px 5px #AAAAAA; -webkit-box-shadow: 2px 2px 5px #AAAAAA; -moz-box-shadow: 2px 2px 5px #AAAAAA; -khtml-box-shadow: 2px 2px 5px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true'); padding: 3px 4px; z-index: 401; position: absolute; left: 0; top: 0; width: auto; height: auto; display: none}
+.MathJax {display: inline; font-style: normal; font-weight: normal; line-height: normal; font-size: 100%; font-size-adjust: none; text-indent: 0; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0; min-height: 0; border: 0; padding: 0; margin: 0}
+.MathJax:focus, body :focus .MathJax {display: inline-table}
+.MathJax.MathJax_FullWidth {text-align: center; display: table-cell!important; width: 10000em!important}
+.MathJax img, .MathJax nobr, .MathJax a {border: 0; padding: 0; margin: 0; max-width: none; max-height: none; min-width: 0; min-height: 0; vertical-align: 0; line-height: normal; text-decoration: none}
+img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!important; vertical-align: 0!important}
+.MathJax span {display: inline; position: static; border: 0; padding: 0; margin: 0; vertical-align: 0; line-height: normal; text-decoration: none}
+.MathJax nobr {white-space: nowrap!important}
+.MathJax img {display: inline!important; float: none!important}
+.MathJax * {transition: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none}
+.MathJax_Processing {visibility: hidden; position: fixed; width: 0; height: 0; overflow: hidden}
+.MathJax_Processed {display: none!important}
+.MathJax_ExBox {display: block!important; overflow: hidden; width: 1px; height: 60ex; min-height: 0; max-height: none}
+.MathJax .MathJax_EmBox {display: block!important; overflow: hidden; width: 1px; height: 60em; min-height: 0; max-height: none}
+.MathJax_LineBox {display: table!important}
+.MathJax_LineBox span {display: table-cell!important; width: 10000em!important; min-width: 0; max-width: none; padding: 0; border: 0; margin: 0}
+.MathJax .MathJax_HitBox {cursor: text; background: white; opacity: 0; filter: alpha(opacity=0)}
+.MathJax .MathJax_HitBox * {filter: none; opacity: 1; background: transparent}
+#MathJax_Tooltip * {filter: none; opacity: 1; background: transparent}
+@font-face {font-family: MathJax_Blank; src: url('about:blank')}
+</style><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_About.MathJax_MousePost {outline: none}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 5px 0px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -khtml-border-radius: 5px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 1px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; padding-top: .25em; color: #666666; font-size: .75em}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: .7em}
+.MathJax_MenuRadioCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuLabel {padding: 1px 2em 3px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #DDDDDD; margin: 4px 3px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: #606872; color: white}
+.MathJax_MenuDisabled:focus, .MathJax_MenuLabel:focus {background-color: #E8E8E8}
+.MathJax_ContextMenu:focus {outline: none}
+.MathJax_ContextMenu .MathJax_MenuItem:focus {outline: none}
+#MathJax_AboutClose {top: .2em; right: .2em}
+.MathJax_Menu .MathJax_MenuClose {top: -10px; left: -10px}
+.MathJax_MenuClose {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; font-family: 'Courier New',Courier; font-size: 24px; color: #F0F0F0}
+.MathJax_MenuClose span {display: block; background-color: #AAA; border: 1.5px solid; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; line-height: 0; padding: 8px 0 6px}
+.MathJax_MenuClose:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_MenuClose:hover span {background-color: #CCC!important}
+.MathJax_MenuClose:hover:focus {outline: none}
+</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</style></head>
+ <body class="p-139588 f-8519"><div style="visibility: hidden; overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding: 0px; border: 0px none; margin: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><div id="MathJax_Hidden"></div></div><div id="MathJax_Message" style="display: none;"></div>
+  <!-- start: Head -->
+  <header class="header" role="banner">
+   <!-- start: MUSE bar -->
+   <div class="header__muse-bar">
+     <div class="container">
+       <div class="row">
+
+         <!-- start: MUSE nav -->
+         <div class="col-sm-25 col-md-26 col-lg-22">
+           <nav role="navigation">
+             <ul class="nav nav-muse">
+               <li class="nav-muse--home"><a class="icon icon__home" href="http://www.sheffield.ac.uk/">Home</a></li>
+             </ul>
+           </nav>
+         </div>
+         <!-- end: MUSE nav -->
+
+         <!-- start: start: Search box -->
+         <div class="col-sm-11 col-md-offset-3 col-md-7 col-lg-offset-7 col-lg-7 ">
+           <form class="site-search-header" method="get" action="//google.shef.ac.uk/search">
+             <input class="site-search__input--submit" value="Search" type="submit">
+             <input class="site-search__input--text" name="q" placeholder="Search our site" type="text">
+             <input name="sort" value="date:D:L:d1" type="hidden">
+             <input name="output" value="xml_no_dtd" type="hidden">
+             <input name="ie" value="UTF-8" type="hidden">
+             <input name="oe" value="UTF-8" type="hidden">
+             <input name="client" value="default_frontend" type="hidden">
+             <input name="proxystylesheet" value="default_frontend" type="hidden">
+             <input name="site" value="default_collection" type="hidden">
+           </form>
+         </div>
+         <!-- end: Search box -->
+
+       </div><!-- end: row -->
+
+       <div class="row">
+         <div class="col-md-36 col-lg-36">
+           <!-- start: NAP nav - panel -->
+           <nav role="navigation" class="nav-nap-panel">
+           </nav><!-- end: NAP nav - panel -->
+         </div>
+       </div>
+
+     </div>
+   </div>
+   <!-- end: MUSE bar -->
+
+   <!-- start: Title & crest -->
+   <div class="container">
+     <div class="row">
+       <div class="col-md-8 col-lg-7 col-sm-12">
+         <a class="header__crest" href="http://www.sheffield.ac.uk/">University of Sheffield crest</a>
+       </div>
+       <div class="col-md-28 col-lg-29 col-sm-24 no-gutter-left">
+         <h1 class="header__title">School of Mathematics and Statistics (SoMaS)</h1>
+         <p class="header__breadcrumbs"><a href="http://www.sheffield.ac.uk/">Home</a> &gt; <a href="http://www.sheffield.ac.uk/maths">Somas</a> </p>
+       </div>
+     </div>
+   </div>
+   <!-- end: Title & crest -->
+  </header>
+  <!-- end: Head -->
+  <!-- start: Central block -->
+  <div class="container">
+   <div class="row">
+    <!-- start: Main & Local nav -->
+    <div class="col-md-8 col-lg-7">
+     <!-- start: Main nav -->
+     <div class="row">
+      <div class="col-md-36 col-lg-36">
+       <nav role="navigation">
+        <ul class="nav nav-main">
+         <li>
+          <a class="icon icon__nav" href="#">Main menu</a>
+          <ul class="nav nav-main__sub">
+           <li><a href="http://www.sheffield.ac.uk/">Home</a></li>
+           <li><a href="http://www.sheffield.ac.uk/study">Study with us</a></li>
+           <li><a href="http://www.sheffield.ac.uk/research">Our research</a></li>
+           <li><a href="http://www.sheffield.ac.uk/business">For business</a></li>
+           <li><a href="http://www.sheffield.ac.uk/alumni">Alumni</a></li>
+           <li><a href="http://www.sheffield.ac.uk/sheffieldinternational">Sheffield International</a></li>
+           <li><a href="http://www.sheffield.ac.uk/about">About us</a></li>
+           <li><a href="http://www.sheffield.ac.uk/departments">Departments and services</a></li>
+          </ul>
+         </li>
+        </ul>
+       </nav>
+      </div>
+     </div>
+     <!-- end: Main nav -->
+     <!-- start: Local nav -->
+     <div class="row">
+      <div class="col-md-36 col-lg-36">
+       <nav role="navigation">
+        
+     <ul class="nav nav-local">
+      <li><a href="http://www.sheffield.ac.uk/maths">School of Mathematics and Statistics</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/prospectiveug">Prospective Undergraduates</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/prospectivepg">Prospective Postgraduates</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/international">International Students</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/current">Current Students</a></li>
+     <li><a href="/maths/engineering.html">Engineering Teaching</a></li>
+     <li><a href="/maths/njtech.html">NJTech Teaching</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/research">Research</a></li>
+     <li><a href="/maths/msrc.html">Mathematics and Statistics Research Centre</a></li>
+     <li><a href="/maths/staff_list.html">Staff and Postgraduates</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/outreach">Working with Schools</a></li>
+     <li><a href="/maths/contact.html">Contact Us</a></li>
+    </ul>
+    
+       </nav>
+      </div>
+     </div>
+     <!-- start: Local nav -->
+     <!-- start: Mobile nav, main & local -->
+     <div class="row">
+      <div class="col-md-36 col-lg-36">
+       <nav role="navigation">
+        <ul class="nav-mobile">
+         <li>
+          <i class="icon icon__nav">Menu icon</i>
+          <a class="nav-mobile--menu">Main menu</a>
+          <ul>
+           <!-- start: Mobile nav, global -->
+           <li class="nav-mobile__sub nav-mobile__sub__global">
+            <i class="icon-mobile icon-mobile__nav--close">arrow</i>
+            <a>The University of Sheffield</a>
+            <ul>
+             <li><a href="http://www.sheffield.ac.uk/">Home</a></li>
+             <li><a href="http://www.sheffield.ac.uk/study">Study with us</a></li>
+             <li><a href="http://www.sheffield.ac.uk/research">Our research</a></li>
+             <li><a href="http://www.sheffield.ac.uk/business">For business</a></li>
+             <li><a href="http://www.sheffield.ac.uk/alumni">Alumni</a></li>
+             <li><a href="http://www.sheffield.ac.uk/sheffieldinternational">Sheffield International</a></li>
+             <li><a href="http://www.sheffield.ac.uk/about">About us</a></li>
+             <li><a href="http://www.sheffield.ac.uk/departments">Departments and services</a></li>
+            </ul>
+           </li>
+           <!-- end: Mobile nav, global -->
+
+           <!-- start: Mobile nav, local -->
+           <li class="nav-mobile__sub nav-mobile__sub__local">
+            <i class="icon-mobile icon-mobile__nav--open">arrow</i>
+            <a>School of Mathematics and Statistics (SoMaS)</a>
+            
+     <ul class="nav nav-local">
+      <li><a href="http://www.sheffield.ac.uk/maths">School of Mathematics and Statistics</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/prospectiveug">Prospective Undergraduates</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/prospectivepg">Prospective Postgraduates</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/international">International Students</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/current">Current Students</a></li>
+     <li><a href="/maths/engineering.html">Engineering Teaching</a></li>
+     <li><a href="/maths/njtech.html">NJTech Teaching</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/research">Research</a></li>
+     <li><a href="/maths/msrc.html">Mathematics and Statistics Research Centre</a></li>
+     <li><a href="/maths/staff_list.html">Staff and Postgraduates</a></li>
+     <li><a href="http://www.sheffield.ac.uk/maths/outreach">Working with Schools</a></li>
+     <li><a href="/maths/contact.html">Contact Us</a></li>
+    </ul>
+    
+            </li>
+           <!-- end: Mobile nav, local -->
+          </ul>
+         </li>
+        </ul>
+       </nav>
+      </div>
+     </div>
+     <!-- end: Mobile nav, main & local -->
+    </div>
+    <!-- end: Main & Local nav -->
+    <div class="col-md-21 col-lg-22 no-gutter">
+     <main class="main content" role="main">
+<a name="top"></a>
+<table>
+ <tbody><tr>
+  <td class="vcard" width="500" valign="top">
+   <h1>
+   Dr Paul Mitchener 
+   </h1><br>
+   <table>
+    <tbody><tr>
+     <td width="120"><b>Position:</b></td>
+     <td width="380">Lecturer</td>
+    </tr>
+    <tr>
+     <td><b>Home page:</b></td>
+     <td><a class="url" href="http://www.mitchener.staff.shef.ac.uk" target="_top">http://www.mitchener.staff.shef.ac.uk</a></td>
+    </tr>
+    <tr>
+     <td><b>Email:</b></td>
+     <td><a class="email" href="mailto:P.Mitchener@shef.ac.uk">P.Mitchener@shef.ac.uk</a></td>
+    </tr>
+    <tr>
+     <td><b>Telephone:</b></td>
+     <td class="tel">
+      <span class="type" style="display: none">work</span> 
+      <span class="value" style="display:none">(0114) 2223858</span>
+      <a href="tel:+44-114-2223858">(0114) 2223858</a>     
+     </td>
+    </tr>
+    <tr>
+     <td><b>Office:</b>
+     </td><td>J20 Hicks building</td>
+    </tr>
+   </tbody></table>
+  </td>
+  <td width="125" valign="top" align="right">   <img id="photo_242" alt="Photo of Paul Mitchener" src="/maths/photos/242.jpg" width="120" height="160"></td>
+ </tr>
+</tbody></table>
+<h2>Teaching:</h2>
+<table summary="Modules taught by this lecturer" width="600" border="0">
+ <tbody><tr>
+  <td width="80" valign="top">MAS436</td>
+  <td width="400" valign="top">Functional Analysis</td>
+  <td width="100" valign="top"><a href="module_info_1799.html">Information</a></td>
+  <td width="100" valign="top"><a href="http://sarah-browne.postgrad.shef.ac.uk/">Home page</a></td>
+ </tr>
+ <tr>
+  <td width="80" valign="top">MAS6340</td>
+  <td width="400" valign="top">Analysis I</td>
+  <td width="100" valign="top"><a href="module_info_1849.html">Information</a></td>
+  <td width="100">&nbsp;</td>
+ </tr>
+</tbody></table>
+<br><br>
+<h2>Research:</h2>
+<br>
+<table>
+ <tbody><tr>
+  <td width="120" valign="top"><b>Interests:</b></td>
+  <td width="500" valign="top"><span class="MathJax_Preview" style="display: none;"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" style=""><nobr><span class="math" id="MathJax-Span-1" style="width: 1.48em; display: inline-block;"><span style="display: inline-block; position: relative; width: 1.169em; height: 0px; font-size: 125%;"><span style="position: absolute; clip: rect(1.519em, 1001.17em, 2.603em, -1000em); top: -2.4em; left: 0em;"><span class="mrow" id="MathJax-Span-2"><span class="msubsup" id="MathJax-Span-3"><span style="display: inline-block; position: relative; width: 1.19em; height: 0px;"><span style="position: absolute; clip: rect(3.149em, 1000.69em, 4.203em, -1000em); top: -4em; left: 0em;"><span class="mi" id="MathJax-Span-4" style="font-family: STIXGeneral; font-style: italic;">C<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.022em;"></span></span><span style="display: inline-block; width: 0px; height: 4em;"></span></span><span style="position: absolute; top: -4.363em; left: 0.746em;"><span class="mo" id="MathJax-Span-5" style="font-size: 70.7%; font-family: STIXGeneral;">∗</span><span style="display: inline-block; width: 0px; height: 4em;"></span></span></span></span></span><span style="display: inline-block; width: 0px; height: 2.4em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.099em; border-left: 0px solid; width: 0px; height: 1.046em;"></span></span></nobr></span><script type="math/tex" id="MathJax-Element-1">C^\ast</script>-categories, Analytic and algebraic <span class="MathJax_Preview" style="display: none;"></span><span class="MathJax" id="MathJax-Element-2-Frame" tabindex="0" style=""><nobr><span class="math" id="MathJax-Span-6" style="width: 0.926em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.738em; height: 0px; font-size: 125%;"><span style="position: absolute; clip: rect(1.747em, 1000.74em, 2.769em, -1000em); top: -2.585em; left: 0em;"><span class="mrow" id="MathJax-Span-7"><span class="mi" id="MathJax-Span-8" style="font-family: STIXGeneral; font-style: italic;">K<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.055em;"></span></span></span><span style="display: inline-block; width: 0px; height: 2.585em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.077em; border-left: 0px solid; width: 0px; height: 0.97em;"></span></span></nobr></span><script type="math/tex" id="MathJax-Element-2">K</script>-theory, Assembly maps, Coarse Geometry</td>
+ </tr>
+ <tr>
+  <td width="120" valign="top"><b>Research groups:</b></td>
+  <td width="500" valign="top"><a href="group_info_8.html">Category Theory</a>, <a href="group_info_1.html">Topology</a>, <a href="group_info_18.html">Analysis</a></td>
+ </tr>
+ <tr>
+  <td width="120" valign="top"><b>Publications:</b></td>
+  <td width="500" valign="top"><a href="http://www.mitchener.staff.shef.ac.uk/research.html" target="_top">Preprint page</a>, <a target="_blank" href="http://front.math.ucdavis.edu/search?a=Mitchener-Paul">ArXiv</a>, <a target="_blank" href="http://ams.mathematik.uni-bielefeld.de/msnmain?fn=130&amp;fmt=hl&amp;pg1=IID&amp;s1=679434">MathSciNet</a></td>
+ </tr>
+</tbody></table>
+<p></p>
+<h2>Research interests:</h2>
+
+<div style="width: 650px">
+
+
+
+
+
+
+ 
+My research spans algebraic topology and functional analysis. I am particularly interested in area where the two fields intersect, such as non-commutative geometry, K-theory, index theory and coarse geometry.
+
+<div class="p"><!----></div>
+
+</div>
+<h2>Teaching interests:</h2>
+
+<div style="width: 650px">
+
+
+
+
+
+
+ 
+Many of my mathematical interests, both in teaching and research, involve analysis, both concrete and abstract.  By analysis, I mean the study of convergence and continuity, and areas of mathematics for which these concepts are vital, including calculus, measure theory, complex analysis, the study of metric spaces and functional analysis.
+
+<div class="p"><!----></div>
+<br>More generally, I like teaching modules and projects where techniques from a number of different parts of mathematics come together and have to be used.  
+
+</div>
+<script type="text/javascript">
+document.title='Paul Mitchener';
+</script>     </main>
+    </div>
+    <!-- start: Right side content -->
+    <div class="col-md-7 col-lg-7">
+    </div>
+
+    <!-- end: Central block -->
+   </div>
+  </div>
+  <!-- start: Footer -->
+  <footer class="footer" role="contentinfo">
+   <div class="container">
+    <div class="row">
+     <!-- start: Footer nav -->
+     <div class="col-md-20 col-lg-27">
+      <!-- start: Footer links -->
+      <div class="row">
+       <div class="col-md-36 col-lg-36">
+        <nav role="navigation">
+         <ul class="nav nav-footer">
+          <li><a href="http://www.sheffield.ac.uk/contact" onclick="_gaq.push(['_trackEvent', 'footer link', 'clicked', 'contact us']);">Contact us</a></li>
+          <li><a href="http://www.sheffield.ac.uk/visitors" onclick="_gaq.push(['_trackEvent', 'footer link', 'clicked', 'information for visitors']);">Information for visitors</a></li>
+          <li><a href="http://www.sheffield.ac.uk/jobs" onclick="_gaq.push(['_trackEvent', 'footer link', 'clicked', 'jobs']);">Jobs</a></li>
+          <li><a href="http://www.sheffield.ac.uk/alumni/support" onclick="_gaq.push(['_trackEvent', 'footer link', 'clicked', 'support us']);">Support us</a></li>
+          <li><a href="http://www.sheffield.ac.uk/union" onclick="_gaq.push(['_trackEvent', 'footer link', 'clicked', 'students\' Union']);">Students' Union</a></li>
+          <li><a href="http://www.sheffield.ac.uk/students" onclick="_gaq.push(['_trackEvent', 'footer link', 'clicked', 'current students']);">Current students</a></li>
+          <li><a href="http://www.sheffield.ac.uk/staff" onclick="_gaq.push(['_trackEvent', 'footer link', 'clicked', 'staff']);">Staff</a></li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+      <!-- end: Footer links -->
+      <!-- start: Footer search box -->
+      <div class="row">
+       <div class="breakpoint-phone-only col-sm-36">
+        <form class="site-search-footer" method="get" action="//google.sheffield.ac.uk/search">
+         <input class="site-search__input--submit" value="Search" type="submit">
+         <input class="site-search__input--text" name="q" placeholder="Search our site" type="text">
+         <input name="sort" value="date:D:L:d1" type="hidden">
+         <input name="output" value="xml_no_dtd" type="hidden">
+         <input name="ie" value="UTF-8" type="hidden">
+         <input name="oe" value="UTF-8" type="hidden">
+         <input name="client" value="default_frontend" type="hidden">
+         <input name="proxystylesheet" value="default_frontend" type="hidden">
+         <input name="site" value="default_collection" type="hidden">
+        </form>
+       </div>
+      </div>
+      <!-- end: Footer search box -->
+      <!-- start: Social links -->
+      <div class="row">
+       <div class="col-md-36 col-lg-36">
+        <nav role="navigation">
+         <ul class="nav nav-footer-social">
+          <li class="nav-footer-social__title">Connect</li>
+          <li><a href="//facebook.com/theuniversityofsheffield" class="icon-social icon-social__facebook">Facebook</a></li><!--
+       --><li><a href="//twitter.com/sheffielduni" class="icon-social icon-social__twitter">Twitter</a></li><!--
+       --><li><a href="//www.youtube.com/user/uniofsheffield" class="icon-social icon-social__youtube">YouTube</a></li><!--
+       --><li><a href="//instagram.com/theuniversityofsheffield" class="icon-social icon-social__instagram">Instagram</a></li><!--
+       --><li><a href="http://www.linkedin.com/edu/school?id=12675" class="icon-social icon-social__linkedin">LinkedIn</a></li><!--
+       --><li><a href="//www.weibo.com/sheffielduni" class="icon-social icon-social__weibo">Weibo</a></li><!--
+       --><li><a href="http://www.sheffield.ac.uk/about/rankings"><img class="nav-footer-social__img" src="http://www.sheffield.ac.uk/polopoly_fs/15.375.1407149390!/assets/images/awards.png" alt="Awards logo" width="70" height="42"></a></li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+      <!-- end: Social links -->
+     </div>
+     <!-- end: Footer nav -->
+     <!-- start: Crest & Address -->
+     <div class="col-md-16 col-lg-9">
+      <div class="row">
+       <div class="contact-details">
+        <div class="col-md-20 col-lg-14">
+         <img class="contact-details__img" src="http://www.sheffield.ac.uk/polopoly_fs/15.375.1407149390!/assets/images/uos-crest-black.png" alt="University crest">
+        </div>
+         <div class="col-md-16 col-lg-22">
+         <address class="contact-details__address">
+                The University of Sheffield<br>
+                Western Bank<br>
+                Sheffield, S10 2TN<br>
+                UK
+         </address>
+        </div>
+       </div>
+      </div>
+     </div>
+     <!-- end: Crest & Address -->
+    </div>
+   </div>
+  </footer>
+  <!-- end: Footer -->
+   <!-- start: Footer sub -->
+  <div class="footer-sub">
+   <div class="container">
+    <!-- start: Footer links -->
+    <div class="row">
+     <div class="col-md-36 col-lg-36">
+      <div class="row">
+       <div class="col-md-27 col-lg-27">
+        <nav>
+         <ul class="nav nav-footer-sub">
+          <li><a href="http://www.sheffield.ac.uk/contact/comments" onclick="_gaq.push(['_trackEvent', 'sub-footer link', 'clicked', 'feedback']);">Feedback</a></li>
+          <li><a href="http://www.sheffield.ac.uk/privacy" onclick="_gaq.push(['_trackEvent', 'sub-footer link', 'clicked', 'privacy']);">Privacy</a></li>
+          <li><a href="http://www.sheffield.ac.uk/foi" onclick="_gaq.push(['_trackEvent', 'sub-footer link', 'clicked', 'foi']);">FOI</a></li>
+          <li><a href="http://www.sheffield.ac.uk/accessibility" onclick="_gaq.push(['_trackEvent', 'sub-footer link', 'clicked', 'accessibility']);">Accessibility</a></li>
+         </ul>
+        </nav>
+       </div>
+       <div class="col-md-9 col-lg-9">
+        <p class="copyright">© 2014 The University of Sheffield</p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- end: Footer links -->
+   </div>
+  </div>
+  <!-- end: Footer sub -->
+  <!--: start: JS scripts -->
+  <script src="http://www.sheffield.ac.uk/polopoly_fs/15.375.1407149390!/js/build/script.min.js"></script>
+  <!--: end: JS scripts -->
+  <!-- start: Google Analytics -->
+  <script>
+   if ( location.hostname.match(/^(www\.)?shef(field)?\.ac\.uk$/i) != null ) {
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-2341502-1']); // Add tracking code
+     _gaq.push(['_trackPageview']);
+     _gaq.push(['_trackPageLoadTime']);
+      (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     });
+   }
+  </script>
+  <!-- end: Google Analytics  -->
+ 
+
+<div style="position: absolute; width: 0px; height: 0px; overflow: hidden; padding: 0px; border: 0px none; margin: 0px;"><div id="MathJax_Font_Test" style="position: absolute; visibility: hidden; top: 0px; left: 0px; width: auto; padding: 0px; border: 0px none; margin: 0px; white-space: nowrap; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; font-size: 40px; font-weight: normal; font-style: normal; font-size-adjust: none; font-family: STIXSizeOneSym,sans-serif;"></div></div></body></html>

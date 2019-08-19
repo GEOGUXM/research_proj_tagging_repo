@@ -1,0 +1,964 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja"><head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="text/css" http-equiv="Content-Style-Type">
+<meta content="NOARCHIVE" name="ROBOTS">
+<title>研究者詳細 - 宮本　陽一</title>
+<link href="/uedb/css/style.css" type="text/css" rel="stylesheet">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+					<!--
+				
+					function init()
+					{
+						changeDivDisp('basic');
+					}
+					
+					// 領域による切換え処理
+					function changeDivDisp(labelname)
+					{
+						if (labelname == "basic") { // 基本情報
+							changeDivDispSub("tab_basic", 1);
+							changeDivDispSub("tab_research", 0);
+							changeDivDispSub("tab_education", 0);
+							changeDivDispSub("tab_campus", 0);
+							changeDivDispSub("tab_contribution", 0);
+							changeDivDispSub("tab_others", 0);
+					
+							changeDivDispSub("inf_basic", 1);
+							changeDivDispSub("inf_research", 0);
+							changeDivDispSub("inf_education", 0);
+							changeDivDispSub("inf_campus", 0);
+							changeDivDispSub("inf_contribution", 0);
+							changeDivDispSub("inf_others", 0);
+					
+							changeDivDispSub("sub_basic", 1);
+							changeDivDispSub("sub_research", 0);
+							changeDivDispSub("sub_education", 0);
+							changeDivDispSub("sub_campus", 0);
+							changeDivDispSub("sub_contribution", 0);
+							changeDivDispSub("sub_others", 0);
+						}
+						else if (labelname == "research") { // 研究活動
+
+							changeDivDispSub("tab_basic", 0);
+							changeDivDispSub("tab_research", 1);
+							changeDivDispSub("tab_education", 0);
+							changeDivDispSub("tab_campus", 0);
+							changeDivDispSub("tab_contribution", 0);
+							changeDivDispSub("tab_others", 0);
+					
+							changeDivDispSub("inf_basic", 0);
+							changeDivDispSub("inf_research", 1);
+							changeDivDispSub("inf_education", 0);
+							changeDivDispSub("inf_campus", 0);
+							changeDivDispSub("inf_contribution", 0);
+							changeDivDispSub("inf_others", 0);
+					
+							changeDivDispSub("sub_basic", 0);
+							changeDivDispSub("sub_research", 1);
+							changeDivDispSub("sub_education", 0);
+							changeDivDispSub("sub_campus", 0);
+							changeDivDispSub("sub_contribution", 0);
+							changeDivDispSub("sub_others", 0);
+						}
+						else if (labelname == "education") { // 教育活動
+
+							changeDivDispSub("tab_basic", 0);
+							changeDivDispSub("tab_research", 0);
+							changeDivDispSub("tab_education", 1);
+							changeDivDispSub("tab_campus", 0);
+							changeDivDispSub("tab_contribution", 0);
+							changeDivDispSub("tab_others", 0);
+					
+							changeDivDispSub("inf_basic", 0);
+							changeDivDispSub("inf_research", 0);
+							changeDivDispSub("inf_education", 1);
+							changeDivDispSub("inf_campus", 0);
+							changeDivDispSub("inf_contribution", 0);
+							changeDivDispSub("inf_others", 0);
+					
+							changeDivDispSub("sub_basic", 0);
+							changeDivDispSub("sub_research", 0);
+							changeDivDispSub("sub_education", 1);
+							changeDivDispSub("sub_campus", 0);
+							changeDivDispSub("sub_contribution", 0);
+							changeDivDispSub("sub_others", 0);
+						}
+						else if (labelname == "campus") { // 学内運営
+
+							changeDivDispSub("tab_basic", 0);
+							changeDivDispSub("tab_research", 0);
+							changeDivDispSub("tab_education", 0);
+							changeDivDispSub("tab_campus", 1);
+							changeDivDispSub("tab_contribution", 0);
+							changeDivDispSub("tab_others", 0);
+					
+							changeDivDispSub("inf_basic", 0);
+							changeDivDispSub("inf_research", 0);
+							changeDivDispSub("inf_education", 0);
+							changeDivDispSub("inf_campus", 1);
+							changeDivDispSub("inf_contribution", 0);
+							changeDivDispSub("inf_others", 0);
+					
+							changeDivDispSub("sub_basic", 0);
+							changeDivDispSub("sub_research", 0);
+							changeDivDispSub("sub_education", 0);
+							changeDivDispSub("sub_campus", 1);
+							changeDivDispSub("sub_contribution", 0);
+							changeDivDispSub("sub_others", 0);
+						}
+						else if (labelname == "contribution") { // 社会貢献
+
+							changeDivDispSub("tab_basic", 0);
+							changeDivDispSub("tab_research", 0);
+							changeDivDispSub("tab_education", 0);
+							changeDivDispSub("tab_campus", 0);
+							changeDivDispSub("tab_contribution", 1);
+							changeDivDispSub("tab_others", 0);
+					
+							changeDivDispSub("inf_basic", 0);
+							changeDivDispSub("inf_research", 0);
+							changeDivDispSub("inf_education", 0);
+							changeDivDispSub("inf_campus", 0);
+							changeDivDispSub("inf_contribution", 1);
+							changeDivDispSub("inf_others", 0);
+					
+							changeDivDispSub("sub_basic", 0);
+							changeDivDispSub("sub_research", 0);
+							changeDivDispSub("sub_education", 0);
+							changeDivDispSub("sub_campus", 0);
+							changeDivDispSub("sub_contribution", 1);
+							changeDivDispSub("sub_others", 0);
+						}
+						else if (labelname == "others") { // その他
+
+							changeDivDispSub("tab_basic", 0);
+							changeDivDispSub("tab_research", 0);
+							changeDivDispSub("tab_education", 0);
+							changeDivDispSub("tab_campus", 0);
+							changeDivDispSub("tab_contribution", 0);
+							changeDivDispSub("tab_others", 1);
+					
+							changeDivDispSub("inf_basic", 0);
+							changeDivDispSub("inf_research", 0);
+							changeDivDispSub("inf_education", 0);
+							changeDivDispSub("inf_campus", 0);
+							changeDivDispSub("inf_contribution", 0);
+							changeDivDispSub("inf_others", 1);
+					
+							changeDivDispSub("sub_basic", 0);
+							changeDivDispSub("sub_research", 0);
+							changeDivDispSub("sub_education", 0);
+							changeDivDispSub("sub_campus", 0);
+							changeDivDispSub("sub_contribution", 0);
+							changeDivDispSub("sub_others", 1);
+						}
+					}
+					
+					function changeDivDispSub(labelname, setval)
+					{
+						var divplus = window.document.getElementById(labelname + "_div_plus");
+						var divminus = window.document.getElementById(labelname + "_div_minus");
+						var inutelements = window.document.getElementsByName(labelname + "_hid");
+					
+						if (divplus != null && divminus != null && inutelements != null) {
+							var inputobj = inutelements.item(0);
+							if(setval == "1") {
+								divplus.style.display = "none";
+								divminus.style.display = "block";
+								inputobj.value = "1";
+							} else {
+								divplus.style.display = "block";
+								divminus.style.display = "none";
+								inputobj.value = "0";
+							}
+						}
+					}
+					
+					function jumpDivDispSub(labelname, setval)
+					{
+						var divplus = window.document.getElementById(labelname + "_div_plus");
+						var divminus = window.document.getElementById(labelname + "_div_minus");
+						var inutelements = window.document.getElementsByName(labelname + "_hid");
+					
+						if (divplus != null && divminus != null && inutelements != null) {
+							var inputobj = inutelements.item(0);
+							if(setval == "1") {
+								divplus.style.display = "none";
+								divminus.style.display = "block";
+								inputobj.value = "1";
+							} else {
+								divplus.style.display = "block";
+								divminus.style.display = "none";
+								inputobj.value = "0";
+							}
+					
+							if (window.document.getElementById(labelname + "_2") != null){ 
+								location.hash = labelname + "_2";
+							}
+						}
+					}
+					
+					function checkElement(labelname)
+					{
+						if (window.document.getElementById(labelname + "_div_plus") == null) {
+							return false;
+						}
+						else {
+							return true;
+						}
+					}
+
+				
+					-->
+				</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-30544789-2', 'osaka-u.ac.jp');
+  ga('send', 'pageview');
+</script></head>
+<body onload="javascript:init()">
+<div id="wrapper">
+<div id="header">
+<center>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td width="1%" align="left"><a href="http://www.osaka-u.ac.jp/"><img alt="大阪大学HPへ" src="/uedb/image/index_logo.png" border="0"></a></td>
+<td width="100%" align="left">
+<img src="/uedb/image/index_img2.jpg" width="100%" height="60">
+</td>
+<td width="1%" align="right">
+<img src="/uedb/image/index_logo2.gif">
+</td>
+</tr>
+<tr>
+<td valign="middle" align="left" background="/uedb/image/soran2.gif">
+<a href="/index-j.jsp">
+<img src="/uedb/image/soran.png">
+</a>
+</td>
+<td colspan="2" width="100%" align="right" background="/uedb/image/soran2.gif">
+<a href="http://www.osaka-u.ac.jp/">
+<img alt="大阪大学HPへ" src="/uedb/image/soran3.png" border="0">
+</a>
+</td>
+</tr>
+</tbody></table>
+</center>
+<div class="title">
+<h2>研究者詳細</h2>
+<ul>
+<li>
+<a href="/index-j.jsp">ホーム</a>
+</li>
+<li>
+<a href="/view?l=en&amp;u=2107">English</a>
+</li>
+</ul>
+</div>
+<div style="display:none;" id="tab_basic_div_plus">
+<input value="1" name="tab_basic_hid" type="hidden">
+</div>
+<div style="display:block;" id="tab_basic_div_minus">
+<div class="menu">
+<div>&nbsp;</div>
+<ul>
+<li class="active">
+<a href="javascript:changeDivDisp('basic');">教員基本情報</a>
+</li>
+<li>
+<a href="javascript:changeDivDisp('research');">研究</a>
+</li>
+<li>
+<a href="javascript:changeDivDisp('contribution');">社会活動</a>
+</li>
+<li>
+<a href="javascript:changeDivDisp('others');">その他の活動</a>
+</li>
+</ul>
+</div>
+</div>
+<div style="display:block;" id="tab_research_div_plus">
+<input value="0" name="tab_research_hid" type="hidden">
+</div>
+<div style="display:none;" id="tab_research_div_minus">
+<div class="menu">
+<div>&nbsp;</div>
+<ul>
+<li>
+<a href="javascript:changeDivDisp('basic');">教員基本情報</a>
+</li>
+<li class="active">
+<a href="javascript:changeDivDisp('research');">研究</a>
+</li>
+<li>
+<a href="javascript:changeDivDisp('contribution');">社会活動</a>
+</li>
+<li>
+<a href="javascript:changeDivDisp('others');">その他の活動</a>
+</li>
+</ul>
+</div>
+</div>
+<div style="display:block;" id="tab_contribution_div_plus">
+<input value="0" name="tab_contribution_hid" type="hidden">
+</div>
+<div style="display:none;" id="tab_contribution_div_minus">
+<div class="menu">
+<div>&nbsp;</div>
+<ul>
+<li>
+<a href="javascript:changeDivDisp('basic');">教員基本情報</a>
+</li>
+<li>
+<a href="javascript:changeDivDisp('research');">研究</a>
+</li>
+<li class="active">
+<a href="javascript:changeDivDisp('contribution');">社会活動</a>
+</li>
+<li>
+<a href="javascript:changeDivDisp('others');">その他の活動</a>
+</li>
+</ul>
+</div>
+</div>
+<div style="display:block;" id="tab_others_div_plus">
+<input value="0" name="tab_others_hid" type="hidden">
+</div>
+<div style="display:none;" id="tab_others_div_minus">
+<div class="menu">
+<div>&nbsp;</div>
+<ul>
+<li>
+<a href="javascript:changeDivDisp('basic');">教員基本情報</a>
+</li>
+<li>
+<a href="javascript:changeDivDisp('research');">研究</a>
+</li>
+<li>
+<a href="javascript:changeDivDisp('contribution');">社会活動</a>
+</li>
+<li class="active">
+<a href="javascript:changeDivDisp('others');">その他の活動</a>
+</li>
+</ul>
+</div>
+</div>
+<div style="display: none;" id="javaoff">
+<p>このページはJavascriptを使用しています。すべての機能を使用するためにはJavascript を有効にする必要があります。</p>
+</div>
+<script>  document.getElementById("javaoff").style.display = "none";</script>
+</div>
+<br>
+<br>
+<div id="contents">
+<div id="sidebar">
+<div class="names">
+<p class="rubi">ミヤモト　ヨウイチ</p>
+<h3>宮本　陽一</h3>
+<p class="aff">言語文化研究科 言語文化専攻</p>
+</div>
+<div class="data">
+<div style="display:none;" id="sub_basic_div_plus">
+<input value="1" name="sub_basic_hid" type="hidden">
+</div>
+<div style="display:block;" id="sub_basic_div_minus">
+<h3>教員基本情報</h3>
+<ul>
+<li>
+<p>
+<a href="#item_kihon">基本情報</a>
+</p>
+</li>
+<li>
+<p>
+<a href="javascript:jumpDivDispSub('item_szk', 1);">
+	所属組織
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="javascript:jumpDivDispSub('item_gakurk', 1);">
+	学歴
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="javascript:jumpDivDispSub('item_shokurk', 1);">
+	職歴
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="javascript:jumpDivDispSub('item_kaknh_bnrui', 1);">
+	研究内容・専門分野
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="javascript:jumpDivDispSub('item_szk_gkkai', 1);">
+	所属学会
+</a>
+</p>
+</li>
+</ul>
+</div>
+<div style="display: block;" id="sub_research_div_plus">
+<input value="0" name="sub_research_hid" type="hidden">
+</div>
+<div style="display: none;" id="sub_research_div_minus">
+<h3>研究</h3>
+<ul>
+<li>
+<p>
+<a href="javascript:jumpDivDispSub('item_ronbn', 1);">
+	論文
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="javascript:jumpDivDispSub('item_chosho', 1);">
+	著書
+</a>
+</p>
+</li>
+<li>
+<p>
+<a href="javascript:jumpDivDispSub('item_jusho', 1);">
+	受賞
+</a>
+</p>
+</li>
+</ul>
+</div>
+<div style="display: block;" id="sub_contribution_div_plus">
+<input value="0" name="sub_contribution_hid" type="hidden">
+</div>
+<div style="display: none;" id="sub_contribution_div_minus">
+<h3>社会活動</h3>
+<ul>
+<li>
+<p>
+<a href="javascript:jumpDivDispSub('item_koenkai_tenjikai', 1);">
+	講演会・展示会
+</a>
+</p>
+</li>
+</ul>
+</div>
+<div style="display: block;" id="sub_others_div_plus">
+<input value="0" name="sub_others_hid" type="hidden">
+</div>
+<div style="display: none;" id="sub_others_div_minus">
+<h3>その他の活動</h3>
+<ul>
+<li>
+<p>
+<a href="javascript:jumpDivDispSub('item_snta_katsudo', 1);">
+	その他の活動
+</a>
+</p>
+</li>
+</ul>
+</div>
+</div>
+<p class="date">2017/05/03 更新</p>
+</div>
+<div id="main">
+<div style="display:none;" id="inf_basic_div_plus">
+<input value="1" name="inf_basic_hid" type="hidden">
+</div>
+<div style="display:block;" id="inf_basic_div_minus">
+<div style="display:none;" id="inf_basic_div_plus">
+<input value="1" name="inf_basic_hid" type="hidden">
+</div>
+<div style="display:block;" id="inf_basic_div_minus">
+<div class="text">
+<h3 id="item_psn_name">
+<span class="left">基本情報</span>
+</h3>
+</div>
+<table>
+<tbody>
+<tr>
+<td>
+<div class="photo">
+<p>
+<img alt="写真b" src="/photo?u=2107" width="120">
+</p>
+</div>
+</td>
+<td>
+<div class="text">
+<div>
+<p>宮本　陽一</p>
+<p>MIYAMOTO Youichi</p>
+</div>
+<br>
+<table>
+<tbody>
+<tr>
+<td class="rowtitle">
+<p>キーワード</p>
+</td>
+<td>
+<p>統語論,第一言語習得,第二言語習得</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="text">
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+</div>
+<div class="text">
+<div style="display:none;" id="item_szk_div_plus">
+<input value="1" name="item_szk_hid" type="hidden">
+<h3 id="item_szk_1">
+<span class="left">
+	所属組織
+</span>
+<span class="right">【 <a href="javascript:changeDivDispSub('item_szk', 1);">表示</a> ／ 非表示 】</span>
+</h3>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+<div style="display:block;" id="item_szk_div_minus">
+<h3 id="item_szk_2">
+<span class="left">
+	所属組織
+</span>
+<span class="right">【 表示 ／ <a href="javascript:changeDivDispSub('item_szk', 0);">非表示</a> 】</span>
+</h3>
+<ul>
+<li>
+<p class="title">1997年07月01日
+			～ 2005年03月31日，言語文化部，助教授，専任</p>
+</li>
+<li>
+<p class="title">2005年04月01日
+			～ 2007年03月31日，言語文化研究科 言語文化学専攻，助教授，専任</p>
+</li>
+<li>
+<p class="title">2007年04月01日
+			～ 2007年09月30日，言語文化研究科 言語文化学専攻，准教授，専任</p>
+</li>
+<li>
+<p class="title">2007年10月01日
+			～ 2017年03月31日，言語文化研究科 言語文化専攻，准教授，専任</p>
+</li>
+<li>
+<p class="title">2017年04月01日
+			～ 継続中，言語文化研究科 言語文化専攻，教授，専任</p>
+</li>
+</ul>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+</div>
+<div class="text">
+<div style="display:none;" id="item_gakurk_div_plus">
+<input value="1" name="item_gakurk_hid" type="hidden">
+<h3 id="item_gakurk_1">
+<span class="left">
+	学歴
+</span>
+<span class="right">【 <a href="javascript:changeDivDispSub('item_gakurk', 1);">表示</a> ／ 非表示 】</span>
+</h3>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+<div style="display:block;" id="item_gakurk_div_minus">
+<h3 id="item_gakurk_2">
+<span class="left">
+	学歴
+</span>
+<span class="right">【 表示 ／ <a href="javascript:changeDivDispSub('item_gakurk', 0);">非表示</a> 】</span>
+</h3>
+<table class="gyoseki-table">
+<tbody>
+<tr>
+<td>早稲田大学&nbsp;教育学部&nbsp;英語英文学科&nbsp;卒業</td>
+<td>
+</td><td>1984年03月</td>
+</tr>
+<tr>
+<td>ジョージタウン大学&nbsp;　&nbsp;言語学専攻&nbsp;修了</td>
+<td>言語学修士</td>
+<td>1989年05月</td>
+</tr>
+<tr>
+<td>コネチカット州立大学&nbsp;　&nbsp;言語学専攻&nbsp;修了</td>
+<td>言語学博士</td>
+<td>1994年08月</td>
+</tr>
+</tbody>
+</table>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+</div>
+<div class="text">
+<div style="display:none;" id="item_shokurk_div_plus">
+<input value="1" name="item_shokurk_hid" type="hidden">
+<h3 id="item_shokurk_1">
+<span class="left">
+	職歴
+</span>
+<span class="right">【 <a href="javascript:changeDivDispSub('item_shokurk', 1);">表示</a> ／ 非表示 】</span>
+</h3>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+<div style="display:block;" id="item_shokurk_div_minus">
+<h3 id="item_shokurk_2">
+<span class="left">
+	職歴
+</span>
+<span class="right">【 表示 ／ <a href="javascript:changeDivDispSub('item_shokurk', 0);">非表示</a> 】</span>
+</h3>
+<table class="gyoseki-table">
+<tbody>
+<tr>
+<td>オハイオ大学助教授</td>
+<td>1994年09月
+			～ 1997年06月</td>
+</tr>
+<tr>
+<td>大阪大学助教授</td>
+<td>1997年07月
+			～ 2007年03月</td>
+</tr>
+<tr>
+<td>大阪大学准教授</td>
+<td>2007年04月
+			～ 2017年03月</td>
+</tr>
+<tr>
+<td>大阪大学教授</td>
+<td>2017年04月
+			～ 継続中</td>
+</tr>
+</tbody>
+</table>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+</div>
+<div class="text">
+<div style="display:none;" id="item_kaknh_bnrui_div_plus">
+<input value="1" name="item_kaknh_bnrui_hid" type="hidden">
+<h3 id="item_kaknh_bnrui_1">
+<span class="left">
+	研究内容・専門分野
+</span>
+<span class="right">【 <a href="javascript:changeDivDispSub('item_kaknh_bnrui', 1);">表示</a> ／ 非表示 】</span>
+</h3>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+<div style="display:block;" id="item_kaknh_bnrui_div_minus">
+<h3 id="item_kaknh_bnrui_2">
+<span class="left">
+	研究内容・専門分野
+</span>
+<span class="right">【 表示 ／ <a href="javascript:changeDivDispSub('item_kaknh_bnrui', 0);">非表示</a> 】</span>
+</h3>
+<ul>
+<li>
+<p class="title">述語・時制・数量詞に関する研究
+<br>言語学</p>
+</li>
+</ul>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+</div>
+<div class="text">
+<div style="display:none;" id="item_szk_gkkai_div_plus">
+<input value="1" name="item_szk_gkkai_hid" type="hidden">
+<h3 id="item_szk_gkkai_1">
+<span class="left">
+	所属学会
+</span>
+<span class="right">【 <a href="javascript:changeDivDispSub('item_szk_gkkai', 1);">表示</a> ／ 非表示 】</span>
+</h3>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+<div style="display:block;" id="item_szk_gkkai_div_minus">
+<h3 id="item_szk_gkkai_2">
+<span class="left">
+	所属学会
+</span>
+<span class="right">【 表示 ／ <a href="javascript:changeDivDispSub('item_szk_gkkai', 0);">非表示</a> 】</span>
+</h3>
+<ul>
+<li>
+<p class="title">日本英語学会 2009年7月1日-2013年9月30日 編集委員</p>
+</li>
+<li>
+<p class="title">日本英文学会</p>
+</li>
+<li>
+<p class="title">日本言語学会 2012年7月1日-2015年6月30日 大会運営委員; 2013年9月1日-継続中 夏期講座委員</p>
+</li>
+<li>
+<p class="title">関西言語学会</p>
+</li>
+</ul>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+</div>&nbsp;</div>
+<div style="display: block;" id="inf_research_div_plus">
+<input value="0" name="inf_research_hid" type="hidden">
+</div>
+<div style="display: none;" id="inf_research_div_minus">
+<div class="text">
+<div style="display:none;" id="item_ronbn_div_plus">
+<input value="1" name="item_ronbn_hid" type="hidden">
+<h3 id="item_ronbn_1">
+<span class="left">
+	論文
+</span>
+<span class="right">【 <a href="javascript:changeDivDispSub('item_ronbn', 1);">表示</a> ／ 非表示 】</span>
+</h3>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+<div style="display:block;" id="item_ronbn_div_minus">
+<h3 id="item_ronbn_2">
+<span class="left">
+	論文
+</span>
+<span class="right">【 表示 ／ <a href="javascript:changeDivDispSub('item_ronbn', 0);">非表示</a> 】</span>
+</h3>
+<ul>
+<li>
+<p class="title">日本語の引用について，宮本　陽一，国立国語研究所共同研究プロジェクト「日本語から生成文法理論へ：統語理論と言語獲得」第1回ワークショップ，2016年12月，会議報告/口頭発表</p>
+<p class="contents" align="right">
+</p></li>
+<li>
+<p class="title">On Interpretation of Null Arguments in L2 Japanese by European Non-pro-drop and Pro-drop Language Speakers，Kazumi Yamada, Yoichi Miyamoto，EuroSLA 2016，2016年08月，国際会議（proceedingsなし）</p>
+<p class="contents" align="right">
+</p></li>
+<li>
+<p class="title">L2 Interpretation of Null Arguments by Japanese SFL Learners and Spanish JFL Learners，Kazumi Yamada, Yoichi Miyamoto，The Japan Society for Language Sciences 18th Annual International Conference，2016年06月，国際会議（proceedingsなし）</p>
+<p class="contents" align="right">
+</p></li>
+<li>
+<p class="title">A Note on Quotes in Japanese，Yoichi Miyamoto，自然言語への理論的アプローチ，2016年06月，大学・研究所等の報告</p>
+<p class="contents" align="right">
+</p></li>
+<li>
+<p class="title">再構築現象：「に」節の考察を中心に，杉村美奈、宮本陽一，日本英文学会関西支部第10回大会，2015年12月，会議報告/口頭発表</p>
+<p class="contents" align="right">
+</p></li>
+</ul>
+<p>
+<a onclick="window.open('/view?l=ja&amp;u=2107&amp;sm=&amp;sl=&amp;sp=&amp;c=ronbn&amp;dm=0','','scrollbars=yes, menubar=yes, toolbar=yes, location=yes, status=yes, resizable=yes');" href="javascript:void(0);">全件表示 &gt;&gt;</a>
+</p>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+</div>
+<div class="text">
+<div style="display:none;" id="item_chosho_div_plus">
+<input value="1" name="item_chosho_hid" type="hidden">
+<h3 id="item_chosho_1">
+<span class="left">
+	著書
+</span>
+<span class="right">【 <a href="javascript:changeDivDispSub('item_chosho', 1);">表示</a> ／ 非表示 】</span>
+</h3>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+<div style="display:block;" id="item_chosho_div_minus">
+<h3 id="item_chosho_2">
+<span class="left">
+	著書
+</span>
+<span class="right">【 表示 ／ <a href="javascript:changeDivDispSub('item_chosho', 0);">非表示</a> 】</span>
+</h3>
+<ul>
+<li>
+<p class="title">一般著書，「生成文法から英語教育へ」『英語教育徹底リフレッシューグローバル化と21世紀型の教育』，今尾康裕, 岡田悠佑, 小口一郎, 早瀬尚子（編），開拓社，ＩＳＢＮ，978-4-7589-2244-9，2017年04月</p>
+<p class="contents" align="right">
+</p></li>
+<li>
+<p class="title">専門著書，日本語文法ハンドブック：言語理論と言語獲得の観点から，村杉恵子, 斎藤衛, 宮本陽一, 瀧田健介 (編)，開拓社，ＩＳＢＮ，978-4-7589-2230-2 C3080，2016年11月</p>
+<p class="contents" align="right">
+</p></li>
+<li>
+<p class="title">専門著書，On Chinese and Japanese Relative Clauses and NP-Ellipsis, Japanese Syntax in Comparative Perspective，Yoichi Miyamoto，Oxford University Press，ＩＳＢＮ，978-0-19-994522-1，2014年05月</p>
+<p class="contents" align="right">
+</p></li>
+<li>
+<p class="title">専門著書，Deep Insights, Broad Perspectives，Yoichi Miyamoto, Daiko Takahashi, Hideki Maki, Masao Ochi, Koji Sugisaki, Asako Uchibori (eds.)，Kaitakusha，ＩＳＢＮ，978-4-7589-2191-6，2013年11月</p>
+<p class="contents" align="right">
+</p></li>
+<li>
+<p class="title">専門著書，On Transparent Adjuncts in Japanese, Ways of Structure Building，Yoichi Miyamoto，Oxford University Press，ＩＳＢＮ，978-0-19-964493-3，2012年07月</p>
+<p class="contents" align="right">
+</p></li>
+</ul>
+<p>
+<a onclick="window.open('/view?l=ja&amp;u=2107&amp;sm=&amp;sl=&amp;sp=&amp;c=chosho&amp;dm=0','','scrollbars=yes, menubar=yes, toolbar=yes, location=yes, status=yes, resizable=yes');" href="javascript:void(0);">全件表示 &gt;&gt;</a>
+</p>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+</div>
+<div class="text">
+<div style="display:none;" id="item_jusho_div_plus">
+<input value="1" name="item_jusho_hid" type="hidden">
+<h3 id="item_jusho_1">
+<span class="left">
+	受賞
+</span>
+<span class="right">【 <a href="javascript:changeDivDispSub('item_jusho', 1);">表示</a> ／ 非表示 】</span>
+</h3>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+<div style="display:block;" id="item_jusho_div_minus">
+<h3 id="item_jusho_2">
+<span class="left">
+	受賞
+</span>
+<span class="right">【 表示 ／ <a href="javascript:changeDivDispSub('item_jusho', 0);">非表示</a> 】</span>
+</h3>
+<ul>
+<li>
+<p class="title">第8回JCHAT賞 (優秀論文賞) ，山田一美、宮本陽一，日本言語科学会，2017年03月</p>
+</li>
+<li>
+<p class="title">ANNUAL REPORT 100 OF OSAKA UNIVERSITY-Academic Achievements-2004-2005，Yoichi Miyamoto，Osaka University，2005年07月</p>
+</li>
+<li>
+<p class="title">ANNUAL REPORT 100 OF OSAKA UNIVERSITY-Academic Achievements-2003-2004，Yoichi Miyamoto，Osaka University，2004年07月</p>
+</li>
+<li>
+<p class="title">ANNUAL REPORT 100 OF OSAKA UNIVERSITY-Academic Achievements-2002-2003，Yoichi Miyamoto，Osaka University，2003年07月</p>
+</li>
+</ul>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+</div>&nbsp;</div>
+<div style="display: block;" id="inf_contribution_div_plus">
+<input value="0" name="inf_contribution_hid" type="hidden">
+</div>
+<div style="display: none;" id="inf_contribution_div_minus">
+<div class="text">
+<div style="display:none;" id="item_koenkai_tenjikai_div_plus">
+<input value="1" name="item_koenkai_tenjikai_hid" type="hidden">
+<h3 id="item_koenkai_tenjikai_1">
+<span class="left">
+	講演会・展示会
+</span>
+<span class="right">【 <a href="javascript:changeDivDispSub('item_koenkai_tenjikai', 1);">表示</a> ／ 非表示 】</span>
+</h3>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+<div style="display:block;" id="item_koenkai_tenjikai_div_minus">
+<h3 id="item_koenkai_tenjikai_2">
+<span class="left">
+	講演会・展示会
+</span>
+<span class="right">【 表示 ／ <a href="javascript:changeDivDispSub('item_koenkai_tenjikai', 0);">非表示</a> 】</span>
+</h3>
+<ul>
+<li>
+<p class="title">愛知大学 第２１回 教養セミナー，母語獲得と外国語学習，2014年05月</p>
+</li>
+<li>
+<p class="title">高大連携講義 大阪府立富田林高等学校，なぜ外国語学習は難しいのか，2013年11月</p>
+</li>
+<li>
+<p class="title">高大連携講義 京都府立嵯峨野高等学校，母語獲得と外国語学習，2009年09月</p>
+</li>
+</ul>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+</div>&nbsp;</div>
+<div style="display: block;" id="inf_others_div_plus">
+<input value="0" name="inf_others_hid" type="hidden">
+</div>
+<div style="display: none;" id="inf_others_div_minus">
+<div class="text">
+<div style="display:none;" id="item_snta_katsudo_div_plus">
+<input value="1" name="item_snta_katsudo_hid" type="hidden">
+<h3 id="item_snta_katsudo_1">
+<span class="left">
+	その他の活動
+</span>
+<span class="right">【 <a href="javascript:changeDivDispSub('item_snta_katsudo', 1);">表示</a> ／ 非表示 】</span>
+</h3>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+<div style="display:block;" id="item_snta_katsudo_div_minus">
+<h3 id="item_snta_katsudo_2">
+<span class="left">
+	その他の活動
+</span>
+<span class="right">【 表示 ／ <a href="javascript:changeDivDispSub('item_snta_katsudo', 0);">非表示</a> 】</span>
+</h3>
+<ul>
+<li>
+<p class="title">Journal of East Asian Linguistics Editorial Board，2012年03月
+			～ 継続中</p>
+</li>
+</ul>
+<div class="pagetop">
+<a href="#header">このページの先頭へ▲</a>
+</div>
+</div>
+</div>&nbsp;</div>
+</div>
+</div>
+<div id="footer">
+<p class="copyright">Copyright (C) 2012 Osaka University, All Rights Reserved.</p>
+</div>
+</div>
+
+
+</body></html>

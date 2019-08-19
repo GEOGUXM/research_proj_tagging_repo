@@ -1,0 +1,71 @@
+ 
+Naoya Tate Last modified date：2016.05.20
+
+Associate Professor / Integrated Electronics
+Department of Electronics
+Faculty of Information Science and Electrical Engineering
+
+
+1 Research Interests
+2 Academic Activities
+2.1 Books
+2.2 Papers
+2.3 Presentations
+3 Membership in Academic Society
+4 Awards
+Graduate School
+Department of Electrical and Electronic Engineering
+Graduate School of Information Science and Electrical Engineering
+Undergraduate School
+Department of Electrical Engineering and Computer Science
+School of Engineering
+
+
+E-Mail
+Homepage
+http://naoya-tate.net/index_e.html
+Naoya TATE .net .
+Phone
+092-802-3694
+Academic Degree
+Ph.D. degrees in information science
+Field of Specialization
+Nanophotonic information processing
+Research
+Research Interests
+Nano-photonic information system
+keyword : Information photonics, Nanophotonics
+2014.10～2015.03.
+Academic Activities
+Books
+ Show All Books >>
+1. Naoya Tate, Makoto Naruse, Motoichi Ohtsu, "Engineering of a Nanometric Optical System Based on Optical Near-Field Interactions for Macro-Scale Applications" in Nanophotonic Information Physics: Nanointelligence and Nanophotonic Computing, Springer, 2013.12.
+2. Naoya Tate, Makoto Naruse, Motoichi Ohtsu, "Probe-Free Nanophotonic Systems: Macroscale Applications Based on Nanophotonics" in Handbook of Nano-Optics and Nanophotonics, Springer, pp. 909-942, 2013.05.
+3. Naoya Tate, Makoto Naruse, Takashi Yatsui, Tadashi Kawazoe, Morihisa Hoga, Yasuyuki Ohyagi, Yoko Sekine, Tokuhiro Fukuyama, Mitsuru Kitamura, Motoichi Ohtsu, "Nanophotonic Hierarchical Holograms: Demonstration of Hierarchical Applications Based on Nanophotonics" in Holograms - Recording Materials and Applications, InTech, pp. 341-356, 2011.11.
+Papers
+ Show All Papers >>
+1. Naoya Tate, Makoto Naruse, Tsutomu Matsumoto, Morihisa Hoga, Yasuyuki Ohyagi, Shumpei Nishio, Wataru Nomura, Motoichi Ohtsu, Non-scanning optical near-field microscopy for nanophotonic security, 2015.07.
+2. Naoya Tate, Tadashi Kawazoe, Wataru Nomura, Motoichi Ohtsu, Current-induced giant polarization rotation using a ZnO single crystal doped with nitrogen ions, 2015.08.
+3. Ryuji Hirayama, Makoto Naruse, Hirotaka Nakayama, Naoya Tate, Atsushi Shiraki, Takashi Kakue, Tomoyoshi Shimobaba, Motoichi Ohtsu, Tomoyoshi Ito, Design, Implementation and Characterization of a Quantum-Dot-Based Volumetric Display, Scientific Reports, 5, 8472, 2015.02, [URL].
+Presentations
+ Show All Presentations >>
+1. Naoya Tate, High-yield optical energy conversion based on nanophotonic droplets, EMN Meeting on Droplets 2016, 2016.05.12, [URL].
+2. Naoya Tate, Nanophotonic Droplets: novel materials for high-yield optical energy conversion via dressed-photon-phonon states, The 22nd International Display Workshops, 2015.12.11, [URL].
+3. Naoya Tate, Tadashi Kawazoe, Shunsuke Nakashima, Wataru Nomura, Motoichi Ohtsu, Speckle reduction by using transmissive ZnO device based on dressed-photon-assisted optical modulation, The 22nd International Display Workshops, 2015.12.11, [URL].
+4. Naoya Tate, Tadashi Kawazoe, Shunsuke Nakashima, Wataru Nomura, Motoichi Ohtsu, Recent progress in dressed-photon-assisted electro-optical modulation, The 5th Korea-Japan Workshop on Digital Holography and Information Photonics, 2015.09.18.
+5. Naoya Tate, Makoto Naruse, Tsutomu Matsumoto, Morihisa Hoga, Yasuyuki Ohyagi, Shumpei Nishio, Motoichi Ohtsu, Non-scanning optical near-field microscopy for nanophotonic security, The 10th Asia-Pacific Conference on Near-field Optics (APNFO10), 2015.07.10.
+6. Naoya Tate, Nanophotonic Droplets: novel characteristics of their mechanism based on optical near-field interactions, EMN Meeting on Droplets 2015, 2015.05.09.
+7. Naoya Tate, Tadashi Kawazoe, Motoichi Ohtsu, Giant-magnetooptic light modulator using p–n homojunction-structured ZnO crystal, The 4th Korea-Japan Workshop on Digital Holography and Information Photonics (DHIP2014), 2014.12.16, [URL].
+8. Naoya Tate, Tadashi Kawazoe, Motoichi Ohtsu, Speckle reduction by current-induced magneto-optical effect using p-type ZnO device, The 21st International Display Workshops (IDW'14), 2014.12.04, [URL].
+Membership in Academic Society
+The Optical Society
+The Japan Society of Applied Physics
+Awards
+Nanophotonic code embedded in embossed hologram for hierarchical information retrieval
+Nanophotonic code embedded in embossed hologram for hierarchical information retrieval
+Hierarchical Hologram based on Nanophotonic Coding
+
+
+Unauthorized reprint of the contents of this database is prohibited.
+
+Copyright © 2006, Kyushu University. All rights reserved.

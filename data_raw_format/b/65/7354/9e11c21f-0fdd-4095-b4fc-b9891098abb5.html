@@ -1,0 +1,963 @@
+<html dir="ltr" class="js wf-proximanova-n4-active wf-proximanova-n7-active wf-proximanova-n3-active wf-proximanova-i3-active wf-proximanova-i7-active wf-proximanova-i4-active wf-proximanova-n9-active wf-active" lang="en"><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" src="https://bam.nr-data.net/1/eab985f55b?a=4197244&amp;v=1039.bef6007&amp;to=MgcHYUBSCxcCUUxeCgtNJFZGWgoKTEJZUAA6DwRbU1QAFjxHS1IXOhQMUEVsFQUEVw%3D%3D&amp;rst=7159&amp;ref=http://www.bnhcrc.com.au/people/roozbeh-hasanzadeh&amp;ap=1782&amp;be=2318&amp;fe=7113&amp;dc=3901&amp;perf=%7B%22timing%22:%7B%22of%22:1498016996056,%22n%22:0,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22ce%22:0,%22rq%22:0,%22rp%22:0,%22rpe%22:0,%22dl%22:2311,%22di%22:3809,%22ds%22:3901,%22de%22:3987,%22dc%22:7112,%22l%22:7112,%22le%22:7141%7D,%22navigation%22:%7B%7D%7D&amp;at=HkAEFwhIGBk%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="http://www.bnhcrc.com.au/sites/default/files/favicon.png" type="image/png">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+    <!-- %meta{:content => "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible"} -->
+    <meta content="width=device-width" name="viewport">
+    <!--[if lt IE 9]>
+      <script src='http://html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+    <meta http-equiv="cleartype" content="on">
+  <title>Roozbeh Hasanzadeh Nafari | Bushfire &amp; Natural Hazards CRC</title>
+  <link type="text/css" rel="stylesheet" href="http://www.bnhcrc.com.au/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.bnhcrc.com.au/sites/default/files/css/css_YJo600u5DslEXHHEBzo7Whs7zYvH8oZK7MuO9r6-Ktg.css" media="screen">
+<link type="text/css" rel="stylesheet" href="http://www.bnhcrc.com.au/sites/default/files/css/css_CZzJA85-TrSmF883kN5VumPUA78bFX4IR-ETsmRI3-E.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.bnhcrc.com.au/sites/default/files/css/css_-TNq6F6EH1K3WcBMUMQP90OkyCq0Lyv1YnyoEj3kxiU.css" media="screen">
+<style type="text/css" media="print">
+<!--/*--><![CDATA[/*><!--*/
+#sb-container{position:relative;}#sb-overlay{display:none;}#sb-wrapper{position:relative;top:0;left:0;}#sb-loading{display:none;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.bnhcrc.com.au/sites/default/files/css/css_IjVDL-ZVE5VXwAMiNOtvj8kUoE0ESNenqVTFGzGmD7g.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.bnhcrc.com.au/sites/default/files/css/css_v_jzAuelm62HgPbmR8dBnHuBqz-JWNbzZDw9TjervkI.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.bnhcrc.com.au/sites/default/files/css/css_szqVvMhONfs34ko-jOedIYEfEKHRpmlXuExiffG51AY.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.bnhcrc.com.au/sites/default/files/css/css_wCQ_iqhp0IwGAF8qS602VJ7fRp9lqw5hQGwa34Uza88.css" media="screen">
+<link type="text/css" rel="stylesheet" href="http://www.bnhcrc.com.au/sites/default/files/css/css_zhWAUGvTlVinOLRWxNbPew2AfhGV6Q9mhq_q67zah_o.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.bnhcrc.com.au/sites/default/files/css/css_mzWHViLhtFCSJT3UBgHEhIwR8_Dya_rVZg3ctJ331gc.css" media="print">
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+body{background-color:#FFFFFF !important;background-image:url('http://www.bnhcrc.com.au/sites/default/files/bg-img_03.jpg') !important;background-repeat:no-repeat !important;background-attachment:fixed !important;background-position:center top !important;background-size:auto !important;-webkit-background-size:auto !important;-moz-background-size:auto !important;-o-background-size:auto !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.bnhcrc.com.au/sites/default/files/css/css_PxsPpITToy8ZnO0bJDA1TEC6bbFpGTfSWr2ZP8LuFYo.css" media="all">
+  <script type="text/javascript" src="http://www.bnhcrc.com.au/sites/default/files/js/js_U4fUPsMkyg-HBkNyVoYbGSzwAOeNpUESMX_8w03SAWk.js"></script>
+<script type="text/javascript" src="http://www.bnhcrc.com.au/sites/default/files/js/js_hycFrSpI-UeqzX3sbDlBevWhAHHM0676l_woyGAYunE.js"></script>
+<script type="text/javascript" src="http://www.bnhcrc.com.au/sites/default/files/js/js_nL5Hxqw0Vg3xjneEqFlALZCzptmfiVGBkcNTIYDMT3g.js"></script>
+<script type="text/javascript" src="http://www.bnhcrc.com.au/sites/default/files/js/js__EzpA_F_7xk7KeXYS_x9v-vPw14-P02IQ2oJcsvkq7o.js"></script>
+<script type="text/javascript" src="http://www.bnhcrc.com.au/sites/default/files/js/js_HbE2XwzjmAgINxgddfJIkmp_TqZJiMR223hyz8f84-0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-49285329-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.bnhcrc.com.au/sites/default/files/js/js_NBpawVzxmIG9CxYb6APuMszhIafycyD5ZC-vpWriYuY.js"></script>
+<script type="text/javascript" src="http://www.bnhcrc.com.au/sites/default/files/js/js_iF2U4GOiYNk56ZP6ef4H6uK2MrlCyX17sOXr7BRRfSg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+          Shadowbox.path = "/sites/all/libraries/shadowbox/";
+        
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bnhcrc_gp","theme_token":"O3A7c4pidbtk--ardJaMh5xT3O7VNoxJExW0f52So98","jquery_version":"1.7","js":{"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/tipsy\/javascripts\/jquery.tipsy.js":1,"sites\/all\/modules\/tipsy\/javascripts\/tipsy.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/libraries\/shadowbox\/shadowbox.js":1,"sites\/all\/modules\/shadowbox\/shadowbox_auto.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"profiles\/panopoly\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"profiles\/panopoly\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"profiles\/panopoly\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1,"sites\/all\/modules\/panels_tabs\/js\/panels_tabs.js":1,"profiles\/panopoly\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/libraries\/bnhcrc_gp_bootstrap\/js\/bootstrap.min.js":1,"profiles\/panopoly\/modules\/contrib\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/chosen\/chosen.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/bnhcrc_gp\/js\/jquery.equalheights.js":1,"sites\/all\/themes\/bnhcrc_gp\/js\/themeski.functions.js":1,"sites\/all\/themes\/bnhcrc_gp\/js\/tinynav.min.js":1,"sites\/all\/themes\/bnhcrc_gp\/js\/bnhcrc_gp.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/tipsy\/stylesheets\/tipsy.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/libraries\/shadowbox\/shadowbox.css":1,"1":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"sites\/all\/modules\/chosen\/css\/chosen-drupal.css":1,"modules\/aggregator\/aggregator.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/panopoly\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_admin\/panopoly-admin-navbar.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_theme\/css\/panopoly-layouts.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_wysiwyg\/panopoly-wysiwyg.css":1,"profiles\/panopoly\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/panopoly\/modules\/contrib\/views\/css\/views.css":1,"profiles\/panopoly\/modules\/contrib\/caption_filter\/caption-filter.css":1,"profiles\/panopoly\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/panopoly\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/bnhcrc_gp\/layouts\/moscone_flipped\/moscone-flipped.css":1,"profiles\/panopoly\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/e00c39bbb724d6b2d7f08de82052ff87.css":1,"public:\/\/ctools\/css\/ad57ff1546b4e3e493a0d16eb09e3ad9.css":1,"sites\/all\/libraries\/bnhcrc_gp_bootstrap\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/kalatheme\/css\/tweaks.css":1,"sites\/all\/themes\/kalatheme\/css\/panopoly.css":1,"sites\/all\/themes\/bnhcrc_gp\/css\/main.css":1,"sites\/all\/themes\/bnhcrc_gp\/css\/print.css":1,"0":1,"profiles\/panopoly\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1}},"shadowbox":{"animate":true,"animateFade":true,"animSequence":"wh","auto_enable_all_images":0,"auto_gallery":0,"autoplayMovies":true,"continuous":false,"counterLimit":10,"counterType":"default","displayCounter":true,"displayNav":true,"enableKeys":true,"fadeDuration":0.35,"handleOversize":"resize","handleUnsupported":"link","initialHeight":160,"initialWidth":320,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":0.8,"resizeDuration":0.55,"showMovieControls":true,"slideshowDelay":0,"viewportPadding":20,"useSizzle":false},"tipsy":{"custom_selectors":[{"selector":".tipsy","options":{"fade":1,"gravity":"w","trigger":"hover","delayIn":"0","delayOut":"0","opacity":"0.8","offset":"0","html":0,"tooltip_content":{"source":"attribute","selector":"title"}}},{"selector":".view_tooltip","options":{"fade":1,"gravity":"autoNS","trigger":"hover","delayIn":"300","delayOut":"0","opacity":"1","offset":"0","html":1,"tooltip_content":{"source":"attribute","selector":"content-tooltip"}}}]},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:aa7ac444f88bb371ff5f40a0eca89c0a":{"view_name":"users","view_display_id":"panel_pane_1","view_args":"551","view_path":"user\/551","view_base_path":null,"view_dom_id":"aa7ac444f88bb371ff5f40a0eca89c0a","pager_element":0},"views_dom_id:cc07970ada4ede3afa3f7bc7fb835ea7":{"view_name":"users","view_display_id":"panel_pane_6","view_args":"551","view_path":"user\/551","view_base_path":null,"view_dom_id":"cc07970ada4ede3afa3f7bc7fb835ea7","pager_element":0},"views_dom_id:be422c3f106bb3630c427a000c9b1439":{"view_name":"users","view_display_id":"panel_pane_7","view_args":"551","view_path":"user\/551","view_base_path":null,"view_dom_id":"be422c3f106bb3630c427a000c9b1439","pager_element":0},"views_dom_id:720fd9cde1bf5614f755540e7b2ee115":{"view_name":"users","view_display_id":"panel_pane_13","view_args":"551","view_path":"user\/551","view_base_path":null,"view_dom_id":"720fd9cde1bf5614f755540e7b2ee115","pager_element":0},"views_dom_id:628af30b60cded6956a2a07a3a58ad24":{"view_name":"users","view_display_id":"panel_pane_12","view_args":"551","view_path":"user\/551","view_base_path":null,"view_dom_id":"628af30b60cded6956a2a07a3a58ad24","pager_element":0},"views_dom_id:fda4c7a7dd912b09b1491bacfbb24792":{"view_name":"users","view_display_id":"panel_pane_14","view_args":"551","view_path":"user\/551","view_base_path":null,"view_dom_id":"fda4c7a7dd912b09b1491bacfbb24792","pager_element":0}}},"chosen":{"selector":"select#form-checkboxes","minimum_single":20,"minimum_multiple":20,"minimum_width":200,"options":{"disable_search":false,"disable_search_threshold":0,"search_contains":true,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","inherit_select_classes":true}},"urlIsAjaxTrusted":{"\/view\/biblio\/year":true,"\/people\/roozbeh-hasanzadeh":true,"\/people\/jeremy-russell-smith?page=17\u0026order=field_resource_type\u0026sort=desc":true},"panelsTabs":{"tabsID":["tabs-0-contentmain"]},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":{"1":{"id":"1","sf":{"delay":"0","animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Main menu"},"supposition":true,"bgiframe":false}}}});
+//--><!]]>
+</script>
+  <script type="text/javascript" src="//use.typekit.net/lpr7wdj.js"></script>
+  <style type="text/css">.tk-proxima-nova{font-family:"proxima-nova",sans-serif;}</style><style type="text/css">@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/9a08b4/00000000000000003b9ad1af/27/l?subset_id=2&fvd=n9&v=3) format("woff2"),url(https://use.typekit.net/af/9a08b4/00000000000000003b9ad1af/27/d?subset_id=2&fvd=n9&v=3) format("woff"),url(https://use.typekit.net/af/9a08b4/00000000000000003b9ad1af/27/a?subset_id=2&fvd=n9&v=3) format("opentype");font-weight:900;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/2793a0/00000000000000003b9ad1b1/27/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/2793a0/00000000000000003b9ad1b1/27/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/2793a0/00000000000000003b9ad1b1/27/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/f3c752/00000000000000003b9ad1b2/27/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/f3c752/00000000000000003b9ad1b2/27/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/f3c752/00000000000000003b9ad1b2/27/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/a3ca77/00000000000000003b9ad1b9/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/a3ca77/00000000000000003b9ad1b9/27/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/a3ca77/00000000000000003b9ad1b9/27/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/98849f/00000000000000003b9ad1ba/27/l?subset_id=2&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/98849f/00000000000000003b9ad1ba/27/d?subset_id=2&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/98849f/00000000000000003b9ad1ba/27/a?subset_id=2&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/0e059c/00000000000000003b9ad1b5/27/l?subset_id=2&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/0e059c/00000000000000003b9ad1b5/27/d?subset_id=2&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/0e059c/00000000000000003b9ad1b5/27/a?subset_id=2&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/2df38e/00000000000000003b9ad1b6/27/l?subset_id=2&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/2df38e/00000000000000003b9ad1b6/27/d?subset_id=2&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/2df38e/00000000000000003b9ad1b6/27/a?subset_id=2&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;}</style><script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<style>.block--feature:before{height: -5px;} .block--feature > .pane-content:before{height: -45px;}</style></head>
+
+<body class="html not-front not-logged-in no-sidebars page-user page-user- page-user-551 region-content">
+    <div id="page-wrapper" class="container sitewide-bnhcrc">
+      <div id="header-top" class="clearfix">
+      <div class="region region-header-top">
+        <div class="panel-pane pane-page-logo logo">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/" rel="home" id="logo" title="Home"><img src="http://www.bnhcrc.com.au/sites/default/files/logo_bnhcrc_0.png" alt="Home"></a>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-search-form block-search">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/people/roozbeh-hasanzadeh" method="post" id="search-block-form--2" accept-charset="UTF-8"><fieldset><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." class="form-control form-text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" type="text">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input id="edit-submit--2" name="op" value="Search" class="form-submit btn btn-primary" type="submit"></div><input name="form_build_id" value="form-ppE2RZHqPTgKqF0-Fq1EpOw32j3j4rhL9abY5VwiKN0" type="hidden">
+<input name="form_id" value="search_block_form" type="hidden">
+</div>
+</fieldset></form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-fieldable-panels-pane pane-uuid-31490e17-4a76-430e-bda1-a00c3e33e729 block-social-links pane-bundle-text">
+  
+      
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    <div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><ul class="social-link">
+<li><a class="fa-facebook fa" href="https://www.facebook.com/bnhcrc"></a></li>
+<li><a class="fa-twitter fa" href="https://twitter.com/bnhcrc"></a></li>
+<li><a class="fa-rss fa" href="/news/rss.xml"></a></li>
+</ul>
+</div></div></div></div>
+  </div>
+
+  
+  </div>
+      </div>
+    </div>
+  
+      <div id="menu-bar" class="nav clearfix">
+      <div class="region region-menu-bar" style="width: 960px;">
+        <div class="panel-pane pane-block pane-superfish-1 main-menu">
+  
+      
+  
+  <div class="pane-content">
+    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-8 sf-parent-items-7 sf-single-items-1 superfish-processed sf-js-enabled sf-shadow"><li id="menu-1193-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/home" class="sf-depth-1">Home</a></li><li id="menu-1529-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-3 sf-single-children-2 menuparent"><a href="/research" title="Explore or research projects and follow linkages by topic, publication, people, and resources" class="sf-depth-1 menuparent">Our research</a><ul class="sf-hidden"><li id="menu-1530-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/research" title="Explore our research projects" class="sf-depth-2">Overview</a></li><li id="menu-1532-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/research/theme/policy-economics-hazards" title="" class="sf-depth-2 menuparent">Policy and economics of hazards</a><ul class="sf-hidden"><li id="menu-3304-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/research/cluster/governance-institutional-knowledge" title="" class="sf-depth-3">Governance and institutional knowledge</a></li><li id="menu-3306-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/research/cluster/economics-decision-making" title="" class="sf-depth-3">Economics and decision-making</a></li><li id="menu-3305-1" class="last odd sf-item-3 sf-depth-3 sf-no-children"><a href="/research/cluster/scenarios-loss-modelling" title="" class="sf-depth-3">Scenarios and loss modelling</a></li></ul></li><li id="menu-3307-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/research/theme/hazard-resilience" title="" class="sf-depth-2 menuparent">Resilience to hazards</a><ul class="sf-hidden"><li id="menu-3308-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/research/cluster/communications-warnings" title="" class="sf-depth-3">Communication and warnings</a></li><li id="menu-3346-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/research/cluster/emergency-management-capability" title="" class="sf-depth-3">Emergency management capability</a></li><li id="menu-3348-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/research/cluster/sustainable-volunteering" title="" class="sf-depth-3">Sustainable volunteering</a></li><li id="menu-3349-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/research/cluster/understanding-enhancing-resilience" title="" class="sf-depth-3">Understanding and enhancing resilience</a></li></ul></li><li id="menu-3345-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/research/theme/understanding-mitigating-hazards" title="" class="sf-depth-2 menuparent">Understanding and mitigating hazards</a><ul class="sf-hidden"><li id="menu-3350-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/research/cluster/flood-coastal-management" title="" class="sf-depth-3">Flood and coastal management</a></li><li id="menu-3353-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/research/cluster/prescribed-burning" title="" class="sf-depth-3">Prescribed burning</a></li><li id="menu-3351-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/research/cluster/bushfire-predictive-services" title="" class="sf-depth-3">Bushfire predictive services</a></li><li id="menu-3347-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/research/cluster/built-environment" title="" class="sf-depth-3">Built environment</a></li><li id="menu-3352-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/research/cluster/severe-high-impact-weather" title="" class="sf-depth-3">Severe and high impact weather</a></li></ul></li><li id="menu-30697-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/research/commissioned" title="" class="sf-depth-2">Commissioned research</a></li></ul></li><li id="menu-3356-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/utilisation/overview" title="" class="sf-depth-1 menuparent">Using our research</a><ul class="sf-hidden"><li id="menu-3380-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/utilisation/overview" title="" class="sf-depth-2">Utilisation strategy</a></li><li id="menu-3359-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/resources/overview" title="" class="sf-depth-2">Resources</a></li></ul></li><li id="menu-3355-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/education" title="" class="sf-depth-1 menuparent">Education</a><ul class="sf-hidden"><li id="menu-3379-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/education" title="" class="sf-depth-2">Overview and opportunities</a></li><li id="menu-3455-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/education/current-students" title="" class="sf-depth-2">Current students</a></li><li id="menu-30772-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/education/student-resources" title="" class="sf-depth-2">Student resources</a></li></ul></li><li id="menu-3361-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/publications/overview" title="" class="sf-depth-1 menuparent">Publications</a><ul class="sf-hidden"><li id="menu-3381-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/publications/overview" title="" class="sf-depth-2">Published works</a></li></ul></li><li id="menu-1192-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/news" title="" class="sf-depth-1 menuparent">News and media</a><ul class="sf-hidden"><li id="menu-1218-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/news" title="Catch the latest headlines, media, blogs and more" class="sf-depth-2">Latest news</a></li><li id="menu-1410-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/news/blogposts" title="Blogposts from our people" class="sf-depth-2">Blog posts</a></li><li id="menu-3628-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/hazardnews" title="Periodic collection of the key news headlines" class="sf-depth-2">Hazard News</a></li><li id="menu-3631-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/hazardnotes" title="In-depth reporting on research projects" class="sf-depth-2">Hazard Notes</a></li><li id="menu-30689-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/news/hazard-channel" title="" class="sf-depth-2">Hazard Channel</a></li><li id="menu-30632-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/news/fire-australia" title="Access the stories or download entire editions of our magazine, Fire Australia" class="sf-depth-2">Fire Australia</a></li></ul></li><li id="menu-3357-1" class="middle odd sf-item-7 sf-depth-1 sf-total-children-4 sf-parent-children-4 sf-single-children-0 menuparent"><a href="/events" title="" class="sf-depth-1 menuparent">Events</a><ul class="sf-hidden"><li id="menu-30767-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/events/2017" title="2017 events" class="sf-depth-2 menuparent">2017</a><ul class="sf-hidden"><li id="menu-30775-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/events/2017-anhmc" class="sf-depth-3">10th Australasian Natural Hazards Management Conference</a></li><li id="menu-30769-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/node/3145" class="sf-depth-3">14th International Wildland Fire Safety Summit &amp; International Congress on Prescribed Fires</a></li><li id="menu-30773-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/events/2017-emconference-goldcoast" class="sf-depth-3">Aus &amp; NZ Disaster and EM conference 2017</a></li><li id="menu-30963-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/events/2017-nafm" class="sf-depth-3">Northern Australia Fire Managers Forum 2017</a></li><li id="menu-30774-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/events/2017-raf-perth" class="sf-depth-3">Research Advisory Forum - Perth 2017</a></li><li id="menu-30776-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/events/2017-showcase-drivingchange" class="sf-depth-3">Showcase 2017 - Research Driving Change</a></li><li id="menu-30768-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/events/2017-annual-conf" class="sf-depth-3">Sydney 2017: annual conference</a></li></ul></li><li id="menu-30320-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/events/2016" title="Events for the year 2016" class="sf-depth-2 menuparent">2016</a><ul class="sf-hidden"><li id="menu-30319-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/events/2016-annual-conf" class="sf-depth-3">Brisbane 2016: annual conference</a></li><li id="menu-28738-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/events/2016-fireandfuels" class="sf-depth-3">Fire Behaviour and Fuels conference</a></li><li id="menu-30322-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/events/2016-emconference-goldcoast" class="sf-depth-3">Aus &amp; NZ Disaster and EM conference 2016</a></li><li id="menu-30757-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/events/2016-disasterday" class="sf-depth-3">Live to tell - surviving a natural disaster</a></li><li id="menu-30693-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/events/2016-nafm" class="sf-depth-3">Northern Australia Fire Managers Forum</a></li><li id="menu-30694-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/events/2016-raf-canberra" class="sf-depth-3">Research Advisory Forum - Canberra 2016</a></li><li id="menu-30325-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/events/2016-raf-tasmania" class="sf-depth-3">Research Advisory Forum - Tasmania</a></li></ul></li><li id="menu-15625-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-10 sf-parent-children-0 sf-single-children-10 menuparent"><a href="/events/2015" title="Annual listing of events" class="sf-depth-2 menuparent">2015</a><ul class="sf-hidden"><li id="menu-15626-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/events/2015-annual-conf" class="sf-depth-3">Adelaide 2015: Annual Conference</a></li><li id="menu-29321-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/node/1857" class="sf-depth-3">13th Board Meeting</a></li><li id="menu-30321-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/node/2436" class="sf-depth-3">15th Board Meeting</a></li><li id="menu-20324-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/events/2015-emconference-goldcoast" class="sf-depth-3">Aus &amp; NZ Disaster and EM Conference</a></li><li id="menu-30263-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/events/2015-disasterday" class="sf-depth-3">International Day for Disaster Reduction 2015</a></li><li id="menu-28375-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/events/2015-nafm" class="sf-depth-3">North Australia Fire Managers Forum</a></li><li id="menu-28730-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/events/2015-raf-qld" class="sf-depth-3">Research Advisory Forum - Brisbane 2015</a></li><li id="menu-17674-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/events/2015-raf-sydney" class="sf-depth-3">Research Advisory Forum - Sydney 2015</a></li><li id="menu-28656-1" class="middle odd sf-item-9 sf-depth-3 sf-no-children"><a href="/events/2015-anhmc-perth" class="sf-depth-3">Risk, capability and impact</a></li><li id="menu-28717-1" class="last even sf-item-10 sf-depth-3 sf-no-children"><a href="/events/2015-wildfire-2015" class="sf-depth-3">Wildfire2015 - Korea</a></li></ul></li><li id="menu-3509-1" class="last even sf-item-4 sf-depth-2 sf-total-children-7 sf-parent-children-2 sf-single-children-5 menuparent"><a href="/events/2014" title="Annual listing of events" class="sf-depth-2 menuparent">2014</a><ul class="sf-hidden"><li id="menu-3417-1" class="first odd sf-item-1 sf-depth-3 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/events/2014-research-forum-adelaide" class="sf-depth-3 menuparent">Research Advisory Forum Adelaide</a><ul class="sf-hidden"><li id="menu-3507-1" class="firstandlast odd sf-item-1 sf-depth-4 sf-no-children"><a href="/resources/presentation-video/1084" class="sf-depth-4">Images of the Event</a></li></ul></li><li id="menu-3369-1" class="middle even sf-item-2 sf-depth-3 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/events/2014-annual-conf" class="sf-depth-3 menuparent">New Zealand 2014</a><ul class="sf-hidden"><li id="menu-21979-1" class="first odd sf-item-1 sf-depth-4 sf-no-children"><a href="/events/2014-annual-conf#tabs-0-contentmain-5" title="" class="sf-depth-4">Audio Presentations</a></li><li id="menu-9601-1" class="last even sf-item-2 sf-depth-4 sf-no-children"><a href="/resources/1389" class="sf-depth-4">Images of the event</a></li></ul></li><li id="menu-7321-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/events/2014-hobartbriefing" class="sf-depth-3">Hobart Research Briefing</a></li><li id="menu-7718-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/events/2014-disasterday" class="sf-depth-3">International Day for Disaster Risk Reduction 2014</a></li><li id="menu-7068-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/events/2014-extremefire" class="sf-depth-3">Mercury Rising: Extreme Bushfires</a></li><li id="menu-3626-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/events/2014-nafm" class="sf-depth-3">North Australia Fire Managers Forum</a></li><li id="menu-9165-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/events/2014-research-forum-melbourne" class="sf-depth-3">Research Advisory Forum Melbourne</a></li></ul></li></ul></li><li id="menu-1518-1" class="active-trail last even sf-item-8 sf-depth-1 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><a href="/about" title="Meet our people, explore our history, and learn about our governance structure." class="active sf-depth-1 menuparent">About us</a><ul class="sf-hidden"><li id="menu-3300-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about" title="" class="sf-depth-2">Introduction</a></li><li id="menu-3299-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/about/board-staff" title="" class="sf-depth-2">Board and staff</a></li><li id="menu-1521-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/about/organisations-partners" title="" class="sf-depth-2">Participating organisations</a></li><li id="menu-1520-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/about/end-users" title="" class="sf-depth-2">End-users</a></li><li id="menu-1519-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/about/researchers" title="" class="sf-depth-2">Researchers and students</a></li><li id="menu-21935-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/about/members" title="Information, forms and templates for access by our members and End Users." class="sf-depth-2">Members area</a></li><li id="menu-3372-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/about/opportunities" title="" class="sf-depth-2">Opportunities</a></li><li id="menu-3377-1" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="/about/contact-us" title="" class="sf-depth-2">Contact us</a></li></ul></li></ul>  </div>
+
+  
+  </div>
+      </div>
+    </div>
+  
+  
+  
+      <div id="help">
+      <div class="region region-help">
+        <div class="panel-pane pane-pane-messages">
+  
+      
+  
+  <div class="pane-content">
+      <div class="tabs"><ul class="nav nav-pills"><li class="active"><a href="/people/roozbeh-hasanzadeh" class="active">View<span class="element-invisible">(active tab)</span></a></li>
+<li class=""><a href="/user/551/publications/biblio">Publications</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+      </div>
+    </div>
+  
+  <div id="columns">
+    <div class="columns-inner clearfix">
+      <div id="content-column" role="main">
+        <div class="content-inner">
+          <div id="content">
+            <div class="region region-content">
+              <div class="panel-pane pane-page-content">
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panel-display moscone-flipped clearfix container ">
+
+  <div class="moscone-container moscone-header clearfix panel-panel row-fluid">
+    <div class="moscone-container-inner moscone-header-inner panel-panel-inner span12">
+      <div class="panel-pane pane-fieldable-panels-pane pane-uuid-b76c3807-df70-4106-80b2-d1ac728494e6 pane-page-title  yellow pane-bundle-text">
+  
+        <h2 class="pane-title">
+      Our People    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    </div>
+  </div>
+
+  
+  </div>
+    </div>
+  </div>
+
+  <div class="moscone-flipped-container moscone-flipped-column-content clearfix row-fluid">
+    <div class="col-md-9 moscone-flipped-main-content moscone-equalHeight" style="min-height: 549px;">
+      <div class="moscone-flipped-column-content-region-inner moscone-flipped-content-inner panel-panel-inner">
+        <div class="panel-pane pane-views-panes pane-users-panel-pane-1 panel-full-content orangeSands">
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-users view-id-users view-display-id-panel_pane_1 intro-banner view-dom-id-aa7ac444f88bb371ff5f40a0eca89c0a jquery-once-1-processed">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last box-person-list">
+    <div class="panel-flexible panels-flexible-15_55_30_banner clearfix">
+<div class="panel-flexible-inside panels-flexible-15_55_30_banner-inside">
+<div class="panels-flexible-region panels-flexible-region-15_55_30_banner-left_sidebar panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-15_55_30_banner-left_sidebar-inside panels-flexible-region-inside-first">
+  
+  <div class="person-item__user-picture person-item-equalHeight">        <div><img class="person-cameo" src="http://www.bnhcrc.com.au/sites/default/files/styles/person-cameo/public/pictures/roozbeh_hasanzadeh_nafari.jpg?itok=F2s0PnoH" alt="" width="125" height="125"></div>  </div>  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-15_55_30_banner-center">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-15_55_30_banner-center-inside">
+  
+  <div class="views-field views-field-uid label-style">        <span class="field-content"><a href="/people/roozbeh-hasanzadeh" class="active">Roozbeh Hasanzadeh Nafari</a></span>  </div>  
+  <div class="views-field views-field-field-display-title">        <div class="field-content">PhD Student</div>  </div>  
+  <div class="views-field views-field-field-key-topics">    <span class="views-label views-label-field-key-topics">Key interests: </span>    <div class="field-content"><a href="/research/topics/flood">flood</a>, <a href="/research/topics/mitigation">mitigation</a></div>  </div>  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-15_55_30_banner-right_sidebar panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-15_55_30_banner-right_sidebar-inside panels-flexible-region-inside-last">
+  
+  <div class="views-field views-field-field-image-logo person-item_logo person-item-equalHeight">        <div class="field-content"><a href="/organisations/umelb"><img class="logo-framed" src="http://www.bnhcrc.com.au/sites/default/files/styles/logo-framed/public/managed/images/logos/uni_melb_logo.jpg?itok=NH3kVoLq" alt="University of Melbourne" title="University of Melbourne" width="225" height="75"></a></div>  </div>  </div>
+</div>
+</div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-fieldable-panels-pane pane-uuid-a9685093-f1e9-47d7-bfe5-f170873897e2 panel-full-content pane-bundle-fieldable-panels-pane">
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panelizer-view-mode fieldable-panels-pane fieldable-panels-pane-full fieldable-panels-pane-fieldable-panels-pane fieldable-panels-pane-45">
+        
+<div class="panel-display boxton clearfix radix-boxton">
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12 radix-layouts-content panel-panel">
+        <div class="panel-panel-inner">
+          <div id="tabs-0-contentmain" class="tabs-processed ui-tabs ui-widget ui-widget-content ui-corner-all"><div class="item-list"><ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist"><li class="first ui-state-default ui-corner-top ui-tabs-active ui-state-active" role="tab" tabindex="0" aria-controls="tabs-0-contentmain-1" aria-labelledby="ui-id-1" aria-selected="true"><a href="#tabs-0-contentmain-1" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-1">Profile &amp; Contacts</a></li>
+<li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tabs-0-contentmain-2" aria-labelledby="ui-id-2" aria-selected="false"><a href="#tabs-0-contentmain-2" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2">Projects &amp; roles</a></li>
+<li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tabs-0-contentmain-3" aria-labelledby="ui-id-3" aria-selected="false"><a href="#tabs-0-contentmain-3" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3">Publications</a></li>
+<li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tabs-0-contentmain-4" aria-labelledby="ui-id-4" aria-selected="false"><a href="#tabs-0-contentmain-4" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-4">Posters</a></li>
+<li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tabs-0-contentmain-5" aria-labelledby="ui-id-5" aria-selected="false"><a href="#tabs-0-contentmain-5" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-5">Resources</a></li>
+<li class="last ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tabs-0-contentmain-6" aria-labelledby="ui-id-6" aria-selected="false"><a href="#tabs-0-contentmain-6" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-6">Channels</a></li>
+</ul></div><div id="tabs-0-contentmain-1" aria-labelledby="ui-id-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false"><div class="panel-pane pane-fieldable-panels-pane pane-uuid-20379685-d5a9-4690-9621-279d7342b4f4 pane-bundle-fieldable-panels-pane">
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panelizer-view-mode fieldable-panels-pane fieldable-panels-pane-full fieldable-panels-pane-fieldable-panels-pane fieldable-panels-pane-17">
+        
+<div class="panel-display boxton clearfix radix-boxton">
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12 radix-layouts-content panel-panel">
+        <div class="panel-panel-inner">
+          <div class="panel-pane pane-views-panes pane-users-panel-pane-6">
+  
+        <h2 class="pane-title">
+      About    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-users view-id-users view-display-id-panel_pane_6 view-dom-id-cc07970ada4ede3afa3f7bc7fb835ea7 jquery-once-1-processed">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-user-about">        <div class="field-content"><p>Roozbeh's research will focus on quantifying the flood risks and performing a&nbsp;flood damage assessment (direct and indirect; in the flooded area) for a&nbsp;case study area within Australia. With this knowledge, mitigation of the risks&nbsp;could occur for the future flood scenarios. Should a flood actually happen,&nbsp;initial response could be based on the estimations of the consequences,&nbsp;which can be updated in real time if the information was available.&nbsp;</p><p>The outcome of this research will be important for disaster management&nbsp;decision-makers as it will provide them with a tool for assisting the&nbsp;development and implementation of an appropriate policy for flood risk&nbsp;mitigation pre-disaster.</p></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-user-contact-link user-contact-form">
+  
+        <h2 class="pane-title">
+      Send a message to Roozbeh Hasanzadeh Nafari    </h2>
+    
+  
+  <div class="pane-content">
+    <a href="/node/13?user_name=Roozbeh%20Hasanzadeh%20Nafari&amp;user_mail=rhasanzadeh%40student.unimelb.edu.au&amp;user_uid=551" class="form-submit user-contact-link">Send Enquiry (VIA CRC)</a>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-users-panel-pane-7 user-contact-details  user-contact-details-phone">
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-users view-id-users view-display-id-panel_pane_7 view-dom-id-be422c3f106bb3630c427a000c9b1439 jquery-once-1-processed">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /.boxton -->
+</div>
+  </div>
+
+  
+  </div>
+</div><div id="tabs-0-contentmain-2" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;" aria-expanded="false" aria-hidden="true"><div class="panel-pane pane-fieldable-panels-pane pane-uuid-97809824-03b9-40d6-a213-e3d95ad5dcbb pane-bundle-fieldable-panels-pane">
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panelizer-view-mode fieldable-panels-pane fieldable-panels-pane-full fieldable-panels-pane-fieldable-panels-pane fieldable-panels-pane-74">
+        
+<div class="panel-display boxton clearfix radix-boxton">
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12 radix-layouts-content panel-panel">
+        <div class="panel-panel-inner">
+          <div class="panel-pane pane-views-panes pane-projects-panel-pane-20 border-style-one-line">
+  
+        <h2 class="pane-title">
+      Student project    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-projects view-id-projects view-display-id-panel_pane_20 view-dom-id-83763895aa7bfde0ea5e8a1a51c31799">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1">
+    
+<div class="panel-display bryant-flipped clearfix radix-bryant-flipped">
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-9 radix-layouts-content panel-panel">
+        <div class="panel-panel-inner">
+            
+  <div class="views-field views-field-title">        <strong class="field-content title-field"><a href="/research/economics-policy-and-decision-making/1675">Flood damage assessment in urban areas</a></strong>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">This research focuses on quantifying the flood risks and performing a flood damage assessment (direct and indirect) as a case study within Australia. With this knowledge, mitigation of the risks can occur in preparation for possible flood scenarios. In the event of an actual flood, initial response can be based on the estimations of the consequences, which can be updated in real time from available information. 
+
+The outcome of this research will be important for disaster management decision makers as it will provide them with a tool for assisting the development and implementation of an appropriate policy for flood risk mitigation pre-disaster.
+
+This research project proposes to develop and perform the flood damage assessment module of this project.  Flood damage assessment could be considered as an important part of PRE-ELEM project because firstly, one of the largest portions of natural disaster cost is related to flood events (Munich Re, 2005) and secondly, Australian common models (e.g. RAM and ANUFLOOD) may lead to considerable inaccuracy and underestimation in flood damage assessment (Barton et al., 2003). Consequently, due to the considerable role of flood phenomena compared to other natural hazards in risk management and the stage of achievements  in  the  context  of  flood  damage  assessment  in  Australia,  an  accurate estimation of flood consequences could play a prominent role for PRE-ELEM project.</div>  </div>  
+  <div class="views-field views-field-title-1">    <span class="views-label views-label-title-1">[Parent project]</span>    <span class="field-content"><a href="/research/policy-economics-hazards/231">Optimising post-disaster recovery interventions in Australia</a></span>  </div>        </div>
+      </div>
+      <div class="col-md-3 radix-layouts-sidebar panel-panel">
+        <div class="panel-panel-inner">
+            
+  <div class="views-field views-field-field-proj-research-team">    <span class="views-label views-label-field-proj-research-team">Supervisory panel: </span>    <div class="field-content"><a href="/people/tuan-ngo">Tuan Ngo</a>, <a href="/people/priyan-mendis">Priyan Mendis</a></div>  </div>        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /.bryant-flipped -->
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /.boxton -->
+</div>
+  </div>
+
+  
+  </div>
+</div><div id="tabs-0-contentmain-3" aria-labelledby="ui-id-3" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;" aria-expanded="false" aria-hidden="true"><div class="panel-pane pane-views-panes pane-biblio-views-panel-pane-1">
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-biblio-views view-id-biblio_views view-display-id-panel_pane_1 view-dom-id-678246451d45b272607ef1753f5ab44f">
+        
+      <div class="view-filters">
+      <form action="/view/biblio/year" method="get" id="views-exposed-form-biblio-views-panel-pane-1" accept-charset="UTF-8"><fieldset><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+              <div class="views-exposed-widget views-widget-sort-by">
+        <div class="form-item form-type-select form-item-sort-by">
+  <label for="edit-sort-by">Sort by </label>
+ <select class="form-control form-select" id="edit-sort-by" name="sort_by"><option value="biblio_year" selected="selected">Year of Publication</option><option value="name">Type of Publication</option></select>
+</div>
+      </div>
+      <div class="views-exposed-widget views-widget-sort-order">
+        <div class="form-item form-type-select form-item-sort-order">
+  <label for="edit-sort-order">Order </label>
+ <select class="form-control form-select" id="edit-sort-order" name="sort_order"><option value="ASC">Asc</option><option value="DESC" selected="selected">Desc</option></select>
+</div>
+      </div>
+                <div class="views-exposed-widget views-submit-button">
+      <input id="edit-submit-biblio-views" name="" value="Apply" class="form-submit btn btn-primary" type="submit">    </div>
+      </div>
+</div>
+</fieldset></form>    </div>
+  
+  
+      <div class="view-content">
+      <div class="table-responsive"><table class="table table-striped table-bordered table-hover responsive">
+         <thead>
+      <tr>
+                  <th class="views-field views-field-biblio-year" scope="col">
+            Year          </th>
+                  <th class="views-field views-field-name" scope="col">
+            Type          </th>
+                  <th class="views-field views-field-citation" scope="col">
+            Citation          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="views-row-first">
+                  <td class="views-field views-field-biblio-year">
+            2016          </td>
+                  <td class="views-field views-field-name">
+            Journal Article          </td>
+                  <td class="views-field views-field-citation">
+            <span class="biblio-authors"><a href="/people/roozbeh-hasanzadeh" rel="nofollow" class="biblio-local-author">Hasanzadeh Nafari, R.</a>, <a href="/publications/biblio?f[author]=948" rel="nofollow">Ngo, T.</a> &amp; <a href="/publications/biblio?f[author]=872" rel="nofollow">Mendis, P.</a></span> <a href="/publications/biblio/bnh-2916"><span class="biblio-title">An assessment of the effectiveness of tree-based models for multi-variate flood damage assessment in Australia</span></a>. <span style="font-style: italic;">Water</span> <span style="font-weight: bold;">8,</span> (2016).<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.atitle=An+assessment+of+the+effectiveness+of+tree-based+models+for+multi-variate+flood+damage+assessment+in+Australia&amp;rft.title=Water&amp;rft.date=2016&amp;rft.volume=8&amp;rft.aulast=Hasanzadeh+Nafari&amp;rft.aufirst=Roozbeh&amp;rft.au=Ngo%2C+T.&amp;rft.au=Mendis%2C+Priyan&amp;rft.au=Mendis%2C+Priyan&amp;rft_id=info%3Adoi%2F10.3390%2Fw8070282+"></span><ul class="biblio-export-buttons"><li class="biblio_google_scholar first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22An%2Bassessment%2Bof%2Bthe%2Beffectiveness%2Bof%2Btree-based%2Bmodels%2Bfor%2Bmulti-variate%2Bflood%2Bdamage%2Bassessment%2Bin%2BAustralia%22&amp;as_sauthors=Hasanzadeh%20Nafari&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_bibtex"><a href="/publications/biblio/export/bibtex/2916" title="Click to download the BibTEX formatted file" rel="nofollow">BibTex</a></li>
+<li class="biblio_xml last"><a href="/publications/biblio/export/xml/2916" title="Click to download the EndNote XML formatted file" rel="nofollow">XML</a></li>
+</ul>          </td>
+              </tr>
+          <tr>
+                  <td class="views-field views-field-biblio-year">
+            2016          </td>
+                  <td class="views-field views-field-name">
+            Journal Article          </td>
+                  <td class="views-field views-field-citation">
+            <span class="biblio-authors"><a href="/people/roozbeh-hasanzadeh" rel="nofollow" class="biblio-local-author">Hasanzadeh Nafari, R.</a></span> <a href="/publications/biblio/bnh-2725"><span class="biblio-title">Development and evaluation of FLFAcs - A new Flood Loss Function for Australian commercial structures</span></a>. <span style="font-style: italic;">International Journal of Disaster Risk Reduction,</span> <span style="font-weight: bold;">17,</span> 13-23 (2016).<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.atitle=Development+and+evaluation+of+FLFAcs+-+A+new+Flood+Loss+Function+for+Australian+commercial+structures&amp;rft.title=International+Journal+of+Disaster+Risk+Reduction%2C&amp;rft.date=2016&amp;rft.volume=17&amp;rft.spage=13&amp;rft.epage=23&amp;rft.aulast=Hasanzadeh+Nafari&amp;rft.aufirst=Roozbeh&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ijdrr.2016.03.007"></span><ul class="biblio-export-buttons"><li class="biblio_google_scholar first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Development%2Band%2Bevaluation%2Bof%2BFLFAcs%2B-%2BA%2Bnew%2BFlood%2BLoss%2BFunction%2Bfor%2BAustralian%2Bcommercial%2Bstructures%22&amp;as_sauthors=Hasanzadeh%20Nafari&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_bibtex"><a href="/publications/biblio/export/bibtex/2725" title="Click to download the BibTEX formatted file" rel="nofollow">BibTex</a></li>
+<li class="biblio_xml last"><a href="/publications/biblio/export/xml/2725" title="Click to download the EndNote XML formatted file" rel="nofollow">XML</a></li>
+</ul>          </td>
+              </tr>
+          <tr class="views-row-last">
+                  <td class="views-field views-field-biblio-year">
+            2016          </td>
+                  <td class="views-field views-field-name">
+            Journal Article          </td>
+                  <td class="views-field views-field-citation">
+            <span class="biblio-authors"><a href="/people/roozbeh-hasanzadeh" rel="nofollow" class="biblio-local-author">Hasanzadeh Nafari, R.</a>, <a href="/publications/biblio?f[author]=948" rel="nofollow">Ngo, T.</a> &amp; <a href="/publications/biblio?f[author]=949" rel="nofollow">Lehman, W.</a></span> <a href="/publications/biblio/bnh-2657"><span class="biblio-title">Calibration and validation of FLFArs – a new flood loss function for Australian residential structures</span></a>. <span style="font-style: italic;">Natural Hazards and Earth System Sciences</span> <span style="font-weight: bold;">16,</span> 15-27 (2016).<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.atitle=Calibration+and+validation+of+FLFArs+%E2%80%93+a+new+flood+loss+function+for+Australian+residential+structures&amp;rft.title=Natural+Hazards+and+Earth+System+Sciences&amp;rft.date=2016&amp;rft.volume=16&amp;rft.spage=15&amp;rft.epage=27&amp;rft.aulast=Hasanzadeh+Nafari&amp;rft.aufirst=Roozbeh&amp;rft.au=Ngo%2C+T.&amp;rft.au=Lehman%2C+W.&amp;rft.au=Lehman%2C+W.&amp;rft_id=info%3Adoi%2F10.5194%2Fnhess-16-15-2016"></span><ul class="biblio-export-buttons"><li class="biblio_google_scholar first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Calibration%2Band%2Bvalidation%2Bof%2BFLFArs%2B%E2%80%93%2Ba%2Bnew%2Bflood%2Bloss%2Bfunction%2Bfor%2BAustralian%2Bresidential%2Bstructures%22&amp;as_sauthors=Hasanzadeh%20Nafari&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_bibtex"><a href="/publications/biblio/export/bibtex/2657" title="Click to download the BibTEX formatted file" rel="nofollow">BibTex</a></li>
+<li class="biblio_xml last"><a href="/publications/biblio/export/xml/2657" title="Click to download the EndNote XML formatted file" rel="nofollow">XML</a></li>
+</ul>          </td>
+              </tr>
+      </tbody>
+</table></div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div><div id="tabs-0-contentmain-4" aria-labelledby="ui-id-4" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;" aria-expanded="false" aria-hidden="true"><div class="panel-pane pane-views-panes pane-resources-panel-pane-1 view-list-media panel-full-content">
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-resources view-id-resources view-display-id-panel_pane_1 view-list-media view-dom-id-41648d89cb3f39ac8ce0e77ba07d9f63">
+            <div class="view-header">
+      <h3>Posters credited</h3>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+<div class="panel-display bryant clearfix radix-bryant">
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-3 radix-layouts-sidebar panel-panel">
+        <div class="panel-panel-inner">
+            
+  <div class="views-field views-field-field-key-image">        <div class="field-content"><a href="/resources/poster/2041"><img class="teaser-poster" src="http://www.bnhcrc.com.au/sites/default/files/styles/teaser-poster/public/managed/images/resources/21_r._hasanzadeh_nafari_v2.jpg?itok=GjYgf1tp" alt="Flood Damage Assessment in Urban Areas" title="Flood Damage Assessment in Urban Areas" width="150" height="110"></a></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><p></p><hr><p></p></span>  </div>        </div>
+      </div>
+      <div class="col-md-9 radix-layouts-content panel-panel">
+        <div class="panel-panel-inner">
+            
+  <div class="views-field views-field-title">        <span class="field-content media__body__title"><a href="/resources/poster/2041">Flood Damage Assessment in Urban Areas</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Statistical analyses shows the considerable impacts of flood risk compared to other types of natural hazards. In recent decades, the flood risk due to climate change and the growth in value and vulnerability of exposed properties has been increasing exponentially. The research proposed in this project will focus on quantifying the flood risks and performing a flood damage assessment for a case study area within Australia</p></div>  </div>  
+  <div class="views-field views-field-field-key-topics">    <strong class="views-label views-label-field-key-topics">Key Topics: </strong>    <div class="field-content"><a href="/research/topics/flood">flood</a>, <a href="/research/topics/risk-management">risk management</a></div>  </div>        </div>
+      </div>
+    </div>
+  </div>
+    
+</div><!-- /.bryant -->  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+    
+<div class="panel-display bryant clearfix radix-bryant">
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-3 radix-layouts-sidebar panel-panel">
+        <div class="panel-panel-inner">
+            
+  <div class="views-field views-field-field-key-image">        <div class="field-content"><a href="/resources/poster/2852"><img class="teaser-poster" src="http://www.bnhcrc.com.au/sites/default/files/styles/teaser-poster/public/managed/images/resources/336_roozbeh_hasanzadeh_nafari.jpg?itok=hnlsulOT" alt="Roozbeh Hasanzadeh Conference Poster 2016" title="Rozzbeh Hasanzadeh Conference Poster 2016" width="150" height="110"></a></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><p></p><hr><p></p></span>  </div>        </div>
+      </div>
+      <div class="col-md-9 radix-layouts-content panel-panel">
+        <div class="panel-panel-inner">
+            
+  <div class="views-field views-field-title">        <span class="field-content media__body__title"><a href="/resources/poster/2852">Flood damage assessment in urban areas</a></span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Statistical analyses show the considerable impacts of flood risk compared to other types of natural hazards</p></div>  </div>  
+  <div class="views-field views-field-field-key-topics">    <strong class="views-label views-label-field-key-topics">Key Topics: </strong>    <div class="field-content"><a href="/research/topics/infrastructure">infrastructure</a>, <a href="/research/topics/resilience">resilience</a></div>  </div>        </div>
+      </div>
+    </div>
+  </div>
+    
+</div><!-- /.bryant -->  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div><div id="tabs-0-contentmain-5" aria-labelledby="ui-id-5" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;" aria-expanded="false" aria-hidden="true"><div class="panel-pane pane-views-panes pane-resources-panel-pane-2">
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-resources view-id-resources view-display-id-panel_pane_2 view-dom-id-10333f884ea716113c03e34747e7bbc0">
+            <div class="view-header">
+      <h3>Resources credited</h3>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="table-responsive"><table class="table table-striped table-bordered table-hover responsive">
+         <thead>
+      <tr>
+                  <th class="views-field views-field-field-resource-type" scope="col">
+            <a href="/people/roozbeh-hasanzadeh?order=field_resource_type&amp;sort=asc" title="sort by Type" class="active">Type</a>          </th>
+                  <th class="views-field views-field-field-date-release" scope="col">
+            <a href="/people/roozbeh-hasanzadeh?order=field_date_release&amp;sort=asc" title="sort by Released" class="active">Released</a>          </th>
+                  <th class="views-field views-field-title" scope="col">
+            <a href="/people/roozbeh-hasanzadeh?order=title&amp;sort=asc" title="sort by Title" class="active">Title</a>          </th>
+                  <th class="views-field views-field-field-download" scope="col">
+            Download          </th>
+                  <th class="views-field views-field-field-key-topics" scope="col">
+            Key Topics          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="views-row-first views-row-last">
+                  <td class="views-field views-field-field-resource-type">
+                      </td>
+                  <td class="views-field views-field-field-date-release">
+            <span class="date-display-single">25 Sep 2015</span>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/resources/2234">Roozbeh Hasanzadeh PhD Progress Report 2015</a>          </td>
+                  <td class="views-field views-field-field-download">
+            <span class="file"><img class="file-icon" alt="" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="/file/5753/download?token=hEKkX_Hy" type="application/pdf; length=65763">Save</a> <span class="file-size">(64.22 KB)</span></span>          </td>
+                  <td class="views-field views-field-field-key-topics">
+                      </td>
+              </tr>
+      </tbody>
+</table></div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div><div id="tabs-0-contentmain-6" aria-labelledby="ui-id-6" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;" aria-expanded="false" aria-hidden="true"><div class="panel-pane pane-views-panes pane-users-panel-pane-14">
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-users view-id-users view-display-id-panel_pane_14 view-dom-id-fda4c7a7dd912b09b1491bacfbb24792 jquery-once-1-processed">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div></div>        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /.boxton -->
+</div>
+  </div>
+
+  
+  </div>
+      </div>
+    </div>
+    <div class="col-md-3 moscone-flipped-sidebar-area moscone-equalHeight" style="min-height: 549px;">
+      <div class="moscone-flipped-column-content-region-inner moscone-flipped-sidebar-inner panel-panel-inner">
+        <div class="panel-pane pane-fieldable-panels-pane pane-uuid-25c69a1a-133f-4df1-9291-0ae8b4401f36 slideshow-sidebar panel-full-side pane-bundle-spotlight">
+  
+      
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    <div class="field field-name-field-basic-spotlight-items field-type-panopoly-spotlight field-label-hidden"><div class="field-items"><div class="field-item even"><div class="panopoly-spotlight-widget-wrapper"><div class="panopoly-spotlight-buttons-wrapper" data-rotation-time="4000" style="display: block;"><ul class="element-invisible"><li class="active panopoly-spotlight-processed"><a href="#panopoly-spotlight-0">1</a></li><li class="panopoly-spotlight-processed"><a href="#panopoly-spotlight-1">2</a></li><li class="panopoly-spotlight-processed"><a href="#panopoly-spotlight-2">3</a></li><li class="panopoly-spotlight-processed"><a href="#panopoly-spotlight-3">4</a></li><li class="panopoly-spotlight-processed"><a href="#panopoly-spotlight-4">5</a></li></ul><div class="panopoly-spotlight-function-buttons"><a href="#" class="panopoly-spotlight-pause-play panopoly-spotlight-processed">Pause</a></div></div><div id="panopoly-spotlight-0" class="panopoly-spotlight" style="display: block;"><a href="http://www.bnhcrc.com.au/publications/researchproceedings2016"><img class="panopoly-image-spotlight" src="http://www.bnhcrc.com.au/sites/default/files/styles/panopoly_image_spotlight/public/general/afac16_conference_logo_a5.jpg?itok=buBXJR76" alt="" width="960" height="560"></a><div class="panopoly-spotlight-wrapper"><div class="panopoly-spotlight-info"><p>All the resources from our 2016 conference</p></div></div></div><div id="panopoly-spotlight-1" class="panopoly-spotlight" style="display: none;"><a href="http://www.bnhcrc.com.au/research"><img class="panopoly-image-spotlight" src="http://www.bnhcrc.com.au/sites/default/files/styles/panopoly_image_spotlight/public/general/IMG_2220_web.jpg?itok=ra8dz7w3" alt="" width="960" height="560"></a><div class="panopoly-spotlight-wrapper"><div class="panopoly-spotlight-info"><p>Research program in detail</p></div></div></div><div id="panopoly-spotlight-2" class="panopoly-spotlight" style="display: none;"><a href="http://www.bnhcrc.com.au/hazardnotes/20"><img class="panopoly-image-spotlight" src="http://www.bnhcrc.com.au/sites/default/files/styles/panopoly_image_spotlight/public/general/cfapix1336542_web.jpg?itok=Z9PETDv-" alt="" width="960" height="560"></a><div class="panopoly-spotlight-wrapper"><div class="panopoly-spotlight-info"><p>Where, why and how are Australians dying in floods?</p></div></div></div><div id="panopoly-spotlight-3" class="panopoly-spotlight" style="display: none;"><a href="http://www.bnhcrc.com.au/news/2016/year-highlights"><img class="panopoly-image-spotlight" src="http://www.bnhcrc.com.au/sites/default/files/styles/panopoly_image_spotlight/public/general/a_year_in_review_2015-16_copy_crop2.jpg?itok=z5tjDaw0" alt="" width="960" height="560"></a><div class="panopoly-spotlight-wrapper"><div class="panopoly-spotlight-info"><p>2015-2016 year in review</p></div></div></div><div id="panopoly-spotlight-4" class="panopoly-spotlight" style="display: none;"><a href="http://www.bushfirecrc.com/resources/product/involve-your-kids-bushfire-survival-planning-ebook"><img class="panopoly-image-spotlight" src="http://www.bnhcrc.com.au/sites/default/files/styles/panopoly_image_spotlight/public/general/kids-ebook-rfs-graphic_web.gif?itok=RSE08YFL" alt="" width="960" height="560"></a><div class="panopoly-spotlight-wrapper"><div class="panopoly-spotlight-info"><p>Bushfire planning with kids ebook</p></div></div></div></div></div></div></div></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-menu-tree pane-main-menu subnav panel-full-side pane-title-yellow">
+  
+        <h2 class="pane-title">
+      About us    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu clearfix"><li class="first leaf menu-mlid-3300"><a href="/about" title="">Introduction</a></li>
+<li class="leaf menu-mlid-3299"><a href="/about/board-staff" title="">Board and staff</a></li>
+<li class="leaf menu-mlid-1521"><a href="/about/organisations-partners" title="">Participating organisations</a></li>
+<li class="leaf menu-mlid-1520"><a href="/about/end-users" title="">End-users</a></li>
+<li class="leaf menu-mlid-1519"><a href="/about/researchers" title="">Researchers and students</a></li>
+<li class="leaf menu-mlid-21935"><a href="/about/members" title="Information, forms and templates for access by our members and End Users.">Members area</a></li>
+<li class="leaf menu-mlid-3372"><a href="/about/opportunities" title="">Opportunities</a></li>
+<li class="last leaf menu-mlid-3377"><a href="/about/contact-us" title="">Contact us</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="moscone-container moscone-footer clearfix panel-panel row-fluid">
+    <div class="moscone-container-inner moscone-footer-inner panel-panel-inner span12">
+          </div>
+  </div>
+
+</div><!-- /.moscone-flipped -->  </div>
+
+  
+  </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap-footer">
+          <div id="footer-panel" class="row-fluid show-grid">
+                  <div class="region region-four-first col-xs-6 col-lg-3 col-sm-3">
+             <div class="panel-pane pane-fieldable-panels-pane pane-uuid-3fe3d205-9c74-4a5d-8c76-360bed7adff9 block-logo pane-bundle-image">
+  
+      
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    <div class="field field-name-field-basic-image-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="panopoly-image-full" src="http://www.bnhcrc.com.au/sites/default/files/styles/panopoly_image_full/public/general/diis_crc-business-ausgov-industry-stacked-reverse_0.png?itok=7Iz-t9QN" alt="DIIS CRC Logo"></div></div></div></div>
+  </div>
+
+  
+  </div>
+          </div>
+                          <div class="region region-four-second col-xs-6 col-lg-3 col-sm-3 ">
+             <div class="panel-pane pane-block pane-menu-block-1 block-menu">
+  
+        <h2 class="pane-title">
+      Site map    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu clearfix"><li class="first leaf menu-mlid-1193"><a href="/home">Home</a></li>
+<li class="leaf has-children menu-mlid-1529"><a href="/research" title="Explore or research projects and follow linkages by topic, publication, people, and resources">Our research</a></li>
+<li class="leaf has-children menu-mlid-3356"><a href="/utilisation/overview" title="">Using our research</a></li>
+<li class="leaf has-children menu-mlid-3355"><a href="/education" title="">Education</a></li>
+<li class="leaf has-children menu-mlid-3361"><a href="/publications/overview" title="">Publications</a></li>
+<li class="leaf has-children menu-mlid-1192"><a href="/news" title="">News and media</a></li>
+<li class="leaf has-children menu-mlid-3357"><a href="/events" title="">Events</a></li>
+<li class="last leaf has-children active-trail menu-mlid-1518"><a href="/about" title="Meet our people, explore our history, and learn about our governance structure." class="active active-trail">About us</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+          </div>
+                          <div class="region region-four-third col-xs-6 col-lg-3 col-sm-3 ">
+             <div class="panel-pane pane-block pane-search-form  pane-block pane-search-form block-search">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/people/roozbeh-hasanzadeh" method="post" id="search-block-form" accept-charset="UTF-8"><fieldset><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="form-control form-text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" type="text">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input id="edit-submit" name="op" value="Search" class="form-submit btn btn-primary" type="submit"></div><input name="form_build_id" value="form-aDANQ8joQEQq13Z34cukQLlBhZvoAfaQ6CfVH87LQWA" type="hidden">
+<input name="form_id" value="search_block_form" type="hidden">
+</div>
+</fieldset></form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-orgs-panel-pane-3 block-jumpmenu">
+  
+        <h2 class="pane-title">
+      Our partners    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-orgs view-id-orgs view-display-id-panel_pane_3 view-dom-id-cf1542c384d749317569be1c2fdaab50">
+        
+  
+  
+      <div class="view-content">
+      <form action="/people/jeremy-russell-smith?page=17&amp;order=field_resource_type&amp;sort=desc" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><fieldset><div class="container-inline"><div class="form-item form-type-select form-item-jump">
+ <select class="ctools-jump-menu-select ctools-jump-menu-change form-control form-select ctools-jump-menu-processed" id="edit-jump" name="jump"><option value="" selected="selected">- Meet our CRC Partners-</option><optgroup label="Association"><option value="f223a4ae3748f48710ed6be14e23125f::/organisations/acf">  
+          Aboriginal Carbon Fund  </option><option value="9d6a3ce2b4a9f381b5696ae6ca5eb3bc::/organisations/afac">  
+          Australasian Fire and Emergency Service Authorities Council  </option><option value="15f0d4c566599f7d88da0e7a458651d5::/organisations/dja-dja-wurrung-clans-aboriginal-corporation">  
+          Dja Dja Wurrung Clans Aboriginal Corporation  </option><option value="d77bb00d8cd8b4b6f2632fd5cdd2d76a::/organisations/fvtoc">  
+          Federation of Victorian Traditional Owner Corporation   </option><option value="7ff955147b89c81ba16d9980781a2f74::/organisations/fpaa">  
+          Fire Protection Association of Australia  </option><option value="00842d01749bd139017008afa3fa7f60::/organisations/redcross">  
+          Red Cross  </option><option value="1d5ceed1dbc90e36c73e2e54d3b6e25e::/organisations/royal-life-saving">  
+          Royal Life Saving Australia  </option><option value="574efb788b906d561f4102b012ddf91b::/organisations/rspca-qld">  
+          RSPCA Queensland  </option><option value="ac8e5d7e2c37ecd48c044e51681017c2::/organisations/slsa">  
+          Surf Life Saving Australia  </option><option value="0ee313cda39befa58b61d767512f2bd0::/organisations/vq">  
+          Volunteering Queensland  </option></optgroup><optgroup label="Collaborations"><option value="6b6695f9d8d24466dc13edeb5e36c62e::/organisations/adpc">  
+          Asian Disaster Preparedness Center  </option><option value="fe517b488ce060bb2e69df88786db8c8::/organisations/alga">  
+          Australian Local Government Association  </option><option value="869dcf62f2208925f1b50f4a2188d2b4::/organisations/csiro">  
+          Commonwealth Scientific and Industrial Research Organisation  </option><option value="d6aa2baa7f859e9a134fd8a16dd2a396::/organisations/dtmr">  
+          Department of Transport and Main Roads  </option><option value="8587efd361302baf5e1709ddef40e31c::/organisations/dlr">  
+          DLR - German Aerospace Centre  </option><option value="26faa2e450db0c4d9fbb8b95928a8f3e::/node/1610">  
+          Federation University  </option><option value="947f3d4327b86e6e8ad46d9f4306636b::/organisations/firesticks">  
+          Firesticks Initiative  </option><option value="59d4352f9df30e4ed964877bff876d05::/organisations/griffith-university">  
+          Griffith University  </option><option value="0587598bcf250cc777c3be9ebff67e63::/node/1855">  
+          Instinct and Reason  </option><option value="0afdc77f2968572905f8facf1bf239e4::/organisations/irdr">  
+          Integrated Research on Disaster Risk  </option><option value="f4433f291849e9fbe6b203618f0c4c42::/organisations/lvrc">  
+          Lockyer Valley Regional Council  </option><option value="4e6fbb1e1440f70a66d0287667c10df9::/organisations/los-alamos">  
+          Los Alamos National Laboratory  </option><option value="7e1e45e4353a71d606bbbb87353c9211::/organisations/massey">  
+          Massey University  </option><option value="c1b2df9f2eb4771bbd328fe5e7a5d546::/organisations/natural-decisions">  
+          Natural Decisions   </option><option value="d0ec3b1e185c3e7f198573b263980b70::/organisations/nailsma">  
+          North Australian Indigenous Land and Sea Management Alliance  </option><option value="92ad567bc7751337d14ab89245c0927a::/organisations/igem">  
+          Office of the Inspector-General Emergency Management, Queensland  </option><option value="82df016a31bf90c51e45a909ae5fda87::/organisations/dhpw">  
+          Qld Dept of Housing and Public Works  </option><option value="ea75f275cbedfad11cb1c3b559f0842c::/organisations/qra">  
+          Queensland Reconstruction Authority  </option><option value="a08bbd687b43610ed21262e232fdeb64::/node/3556">  
+          Research Institute for Knowledge Systems (The Netherlands)  </option><option value="ce80f2bcfba3d0813540c5652e5f3116::/organisations/rms">  
+          Roads and Maritime Services, NSW   </option><option value="c5fd1da5c6d790d5d4b0203dcd3da082::/organisations/save-children">  
+          Save the Children  </option><option value="190ab55c72768143530d148a85367254::/organisations/srfa">  
+          Southern Rural Fire Authority, New Zealand  </option><option value="05854b926f191712d474c77865cb81a4::/organisations/suny">  
+          State University of New York  </option><option value="aca2b6fe3af1f5e75fca84faa515ca9e::/organisations/unu">  
+          United Nations University  </option><option value="f796b4ce724b744aa0ae4f589ea47ada::/organisations/ualberta">  
+          University of Alberta, Canada  </option><option value="faeec98b8ae1bed3b08d152713611429::/node/1105">  
+          University of Canterbury  </option><option value="1bce3e7175346ba50cb3b06badfbd617::/organisations/uni-gothenburg">  
+          University of Gothenburg, Sweden  </option><option value="20f2f116af780c3283a76ccce281cfbb::/organisations/utwente">  
+          University of Twente  </option></optgroup><optgroup label="Aus - NZ Governments"><option value="cfdb1322687bd24fef58890bef2f95e5::/organisations/agd">  
+          Attorney-General's Department  </option><option value="19be636cc3fb22e3bc6684116fbbbadb::/organisations/bom">  
+          Bureau of Meteorology  </option><option value="22e71a21f9b3fa1423c219983cd582e7::/organisations/department-defence">  
+          Department of Defence   </option><option value="b3fe56f9ef9f4d9b794739515bb90639::/organisations/ga">  
+          Geoscience Australia  </option><option value="7e87da4e7f9a83b8ebe0e5a85fa9da65::/organisations/nz-fire">  
+          New Zealand Fire Service Commission  </option></optgroup><optgroup label="Agency"><option value="7bdc87d0cd7ef8ec6745a6b132e66d33::/organisations/act-rfs">  
+          Australian Capital Territory Emergency Services Agency  </option><option value="cebeae2e39310048394a9a794f23d9b5::/organisations/bushfiresnt">  
+          Bushfires NT  </option><option value="160104ccea16b10a4fce3e2a439266e0::/organisations/cfa">  
+          Country Fire Authority  </option><option value="f02cfdc082eb587934db511d9387c3fb::/organisations/cfs">  
+          Country Fire Service  </option><option value="bd47137f4ce92fe28fcd3074a6e59970::/organisations/nswfr">  
+          Fire and Rescue New South Wales   </option><option value="3d777e6863495d9add4c964dc42168e3::/organisations/mfb">  
+          Metropolitan Fire and Emergency Services Board  </option><option value="6d2bf914c94ac9b0f45f1c169609cfb9::/organisations/mfs">  
+          Metropolitan Fire Service   </option><option value="fbcd4f21d28bd67e3454ed7210de1fa1::/organisations/nswrfs">  
+          New South Wales Rural Fire Service  </option><option value="547a114c59b9219281dffd34f2c9bc4f::/organisations/nswses">  
+          New South Wales State Emergency Service  </option><option value="0a7cfc7b2f0882047a6cbbc91b22c069::/organisations/ntfire">  
+          Northern Territory Fire and Rescue Service  </option><option value="1f06e28af8aa758b7009f1adcc34fae2::/organisations/qfes">  
+          Queensland Fire and Emergency Services  </option><option value="8247f177d1bf3b4fa4c3bbad47e02620::/organisations/roy-morgan">  
+          Roy Morgan  </option><option value="d0cd71e114759bf7f0040d0b4b7950c4::/organisations/samfs">  
+          SA Metropolitan Fire Service  </option><option value="601d0183c251913c8b11e22a891d4f5d::/organisations/sa-power-networks">  
+          South Australia Power Networks  </option><option value="c31729116e5d5a404eea22d24f14ac40::/organisations/sessa">  
+          State Emergency Service South Australia  </option><option value="8412d1c67f6fd1128b160dc133e45b53::/organisations/sestas">  
+          State Emergency Service Tasmania  </option><option value="5b693d19589072588dc996bc809cf0da::/organisations/sesvic">  
+          State Emergency Service Victoria  </option><option value="82ac08ff8f9417f0a50a7389e149fe52::/organisations/tasfire">  
+          Tasmania Fire Service  </option></optgroup><optgroup label="State Government"><option value="67bb7da18e433ce7ffe5418c2b2c5fec::/organisations/act-parks-and-conservation">  
+          Australian Capital Territory Parks and Conservation Service  </option><option value="ea8b9a851eaee99e72a704e3d01dc41a::/organisations/dcsi">  
+          Department for Communities and Social Inclusion, South Australia  </option><option value="4fa2e8d0c55ab08a5b2dd46d7c3d6b27::/organisations/depi">  
+          Department of Environment, Land, Water and Planning, Victoria  </option><option value="6ed2bb0d3f8c1f5fecb55c07f2dddfad::/organisations/dewnr">  
+          Department of Environment, Water and Natural Resources, South Australia  </option><option value="74c18d789ebc54327d2845f04c126381::/organisations/dfes">  
+          Department of Fire and Emergency Services, Western Australia  </option><option value="c3c5d708754f275ba0a8362be8cd1905::/organisations/dpaw">  
+          Department of Parks and Wildlife, Western Australia  </option><option value="3ed245ebcfe15e4365c973063485937d::/organisations/dpti">  
+          Department of Planning, Transport and Infrastructure  </option><option value="e8261f74aad31d8239508f3176967932::/organisations/dpc">  
+          Department of Premier and Cabinet (SA)  </option><option value="007bee760c2b86d45a9d8bb245018001::/organisations/dpac">  
+          Department of Premier and Cabinet (TAS)  </option><option value="b592d5482b5a6e8aef2a7b4492c749cb::/organisations/dpipwe">  
+          Department of Primary Industries, Parks, Water and Environment, Tasmania  </option><option value="e47eef971161e131fd587ced7a0bf2d2::/organisations/dsitia">  
+          Department of Science, Information Technology, Innovation and the Arts  </option><option value="7af38efdb82ddf19b8b94c06fcbd32b6::/organisations/fsc">  
+          Emergency Management Victoria  </option><option value="624e8443ee47e1476633566131848a05::/organisations/igem-0">  
+          Inspector-General for Emergency Management  </option><option value="6d367ae97005c1b2f17961085186c991::/organisations/oeh">  
+          Office of Environment and Heritage, New South Wales  </option><option value="10610b45ae32fbca46f1c8772ae2fd7f::/organisations/pwstasmania">  
+          Parks and Wildlife Services, Tasmania  </option><option value="a395d35c6c9b7fae3f8dbb82b89cf75c::/organisations/psba">  
+          Public Safety Business Agency  </option><option value="ea290f4909c9d758b5df78ef00b3e007::/organisations/sawater">  
+          SA Water  </option><option value="79bbd1874f3bc3f20d462b82ae88e167::/organisations/safecom">  
+          South Australia Fire and Emergency Services Commission  </option><option value="506b90efe122420588be77ec663429f9::/organisations/semc-wa">  
+          State Emergency Management Committee (WA)  </option><option value="cfb497b309a7cbef15b6a018e77bcb93::/organisations/actparks">  
+          Territory and Municipal Services, Australian Capital Territory   </option></optgroup><optgroup label="Education"><option value="3507b32c6bb67d7f64d88a69fbf03301::/organisations/acu">  
+          Australian Catholic University  </option><option value="4e0e9e619ff52d4bca0728af372d4f36::/organisations/anu">  
+          Australian National University  </option><option value="5385e1427a7af3f57a4f096429bd9bdf::/organisations/cdu">  
+          Charles Darwin University  </option><option value="6fcf0a406ebc53e5623983f642f25ac2::/node/1158">  
+          Charles Sturt University  </option><option value="3c718db323e50b8bd2c0ea4ff69dc75c::/organisations/coastal-resilience-center">  
+          Coastal Resilience Center  </option><option value="0fa4428607e7523aec2d5eaceeb24571::/organisations/cqu">  
+          CQUniversity  </option><option value="40ed5e01487b9da9ff9fdc5dba33c1a2::/organisations/curtin-university">  
+          Curtin University  </option><option value="dfde60f6f096fd20ffdd869cdc76f17b::/organisations/du">  
+          Deakin University  </option><option value="81458b750239a2010a451b629a4fdd0d::/organisations/jcu">  
+          James Cook University  </option><option value="051318e222cb7db186cf013224da8540::/organisations/kit">  
+          Karlsruhe Institute of Technology  </option><option value="106aa8c4de7f3e7ec798e2e62a6ae55d::/organisations/latrobe-uni">  
+          La Trobe University  </option><option value="0c7db99f6ff03154e4953bc75e000070::/organisations/maqrf">  
+          Macquarie University  </option><option value="d87ca56c8ae4012ebbbf4175554b408a::/organisations/monash">  
+          Monash University  </option><option value="04e88a4e9f911bcf971e8a96498029e1::/organisations/qut">  
+          Queensland University of Technology  </option><option value="57d53dff6863449bbb7538eae8eb5b5b::/organisations/rmit">  
+          RMIT University  </option><option value="d1783dc406bf5ecfd3cd64aae52ded1f::/organisations/swinburne">  
+          Swinburne University  </option><option value="940c840e898ace1dcd0883d80a92483f::/organisations/ua">  
+          University of Adelaide  </option><option value="d18eedb69e5c47d6a406281169ac41ef::/organisations/canberra-uni">  
+          University of Canberra  </option><option value="39ec9af599881f4267d4e4f9fff6cff8::/organisations/umelb">  
+          University of Melbourne  </option><option value="9956bd730196e07051437f56aad7cf6d::/organisations/une">  
+          University of New England  </option><option value="d2d4a7b23d77ea9bc9377b75c6a29e91::/organisations/unsw">  
+          University of New South Wales  </option><option value="1ca2ade753de82f13f20605d1754deef::/node/3448">  
+          University of Otago  </option><option value="7c37a7a717566f3f6cb108b1ffbcdbb0::/node/1156">  
+          University of Queensland  </option><option value="5c50336b742f2453f8694e34db1db636::/organisations/usq">  
+          University of Southern Queensland  </option><option value="dfcb488f987b2ba361226d485504ede1::/organisations/usyd">  
+          University of Sydney  </option><option value="154acf9431ad462632f1f4b2d246c798::/organisations/utas">  
+          University of Tasmania  </option><option value="fab71629f00cbe4b8fa4ac3df12f2f7a::/organisations/usc">  
+          University of the Sunshine Coast  </option><option value="0afb0395fce9b87b9fb8e248403d02fd::/organisations/uwa">  
+          University of Western Australia  </option><option value="03d106e2973badf28ed2683ac2b5b917::/organisations/uow">  
+          University of Wollongong  </option><option value="02e500c5178f823daf2ce356e2384f0f::/organisations/vu">  
+          Victoria University  </option><option value="4a7a9134f8285cdb8378606f95d9f67a::/organisations/uws">  
+          Western Sydney University  </option></optgroup><optgroup label="Industry"><option value="b39e44707642cf53b1627ec512cf67a4::/organisations/boeing-0">  
+          Boeing  </option><option value="cb6ca48bebf33e412346038563d5e4aa::/organisations/ica">  
+          Insurance Council of Australia  </option></optgroup><option value="0972450fe11bfcadf76d4b79bff34592::/organisations/bnhcrc">  
+          Bushfire and Natural Hazards CRC  </option><option value="ed0a126ef474ae4cbcc80f459cc1ae87::/organisations/qfrs">  
+          Queensland Fire and Rescue Service  </option><optgroup label="Local Government"><option value="aed4d3223c82288fe5739bf759f2e660::/organisations/gloucestershire-fire-and-rescue-service">  
+          Gloucestershire Fire and Rescue Service  </option></optgroup></select>
+</div>
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit btn btn-primary ctools-jump-menu-processed" id="edit-go" name="op" value="Go" style="display: none;" type="submit"></div><input name="form_build_id" value="form-ECgvVMCDz9bUZoRfip4qxlcm57DgoKMvimRrcSfuvwg" type="hidden">
+<input name="form_id" value="ctools_jump_menu" type="hidden">
+</fieldset></form>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+          </div>
+                          <div class="region region-four-fourth col-xs-6 col-lg-3 col-sm-3 ">
+             <div class="panel-pane pane-fieldable-panels-pane pane-uuid-c58c325d-e272-4007-9b4b-bf14ddaab4cb block-copyright pane-bundle-text">
+  
+        <h2 class="pane-title">
+      Copyright    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    <div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">© <!--?php echo date('Y'); ?--> Bushfire &amp; Natural Hazards CRC<br>
+
+ABN: 211 631 379 79 <br>
+
+<a href="/about/policies#accessibility">Accessibility Statement</a><br><a href="/about/policies#privacy">Privacy policy</a><br>
+
+<a href="/about/contact-us" title="Map, office contacts, feedback form">Contact us</a><br>
+<br>
+ <ul class="social-link">
+<li><a class="fa-facebook fa" href="https://www.facebook.com/bnhcrc"></a></li>
+<li><a class="fa-twitter fa" href="https://twitter.com/bnhcrc"></a></li>
+<li><a class="fa-rss fa" href="/rss.xml"></a></li>
+</ul>
+</div></div></div></div>
+  </div>
+
+  
+  </div>
+          </div>
+              </div><!-- Footer panel wrapper -->
+              <footer id="footer">
+        <div class="region region-footer">
+          <div class="panel-pane pane-fieldable-panels-pane pane-uuid-c451c494-8ba1-4459-a9f6-80cdbe6ac2a3 block-back-to-top pane-bundle-text">
+  
+      
+  
+  <div class="pane-content">
+    <div class="fieldable-panels-pane">
+    <div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="#content" class="back-to-top fa-caret-up fa">Back to top</a></p>
+<p style="text-align:right"><a href="http://www.boab.info"><img class="media-element file-default" src="/sites/default/files/boab_creditline-grey.png" title="BoaB interactive" alt="BoaB interactive" width="129" height="14"></a></p>
+<p>
+---</p>
+<p><a href="http://www.geotrust.com/ssl/" target="_blank" style="color:#000000; text-decoration:none; text-align:center"></a></p>
+</div></div></div></div>
+  </div>
+
+  
+  </div>
+        </div>
+      </footer>
+      </div>
+
+</div>
+  <script type="text/javascript" src="http://www.bnhcrc.com.au/sites/default/files/js/js_29qYXJz8NLGg8Aomg-RZPjJcj9yEdEst1BMZ9gZbs-4.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"eab985f55b","applicationID":"4197244","transactionName":"MgcHYUBSCxcCUUxeCgtNJFZGWgoKTEJZUAA6DwRbU1QAFjxHS1IXOhQMUEVsFQUEVw==","queueTime":0,"applicationTime":1782,"atts":"HkAEFwhIGBk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>

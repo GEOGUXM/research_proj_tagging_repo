@@ -1,0 +1,52 @@
+Department of Statistics
+Dietrich College of Humanities & Social Sciences
+HOME
+PEOPLE
+RESEARCH
+ACADEMICS
+CALENDAR
+RESOURCES
+CONTACT US
+Search form
+Search
+You are here
+Home
+Alessandro Rinaldo
+I received my Ph.D. in Statistics from Carnegie Mellon under the supervision of Stephen Fienberg in 2005. I joined the Statistics Department as visiting faculty in 2005 and, in 2007, became a tenure track faculty.
+Lab Groups
+CMU TopStat
+Specific Research Interests
+My research interests include: discrete data models, networks models, geometric and topological data analysis, algebraic statistics, high-dimensional inference, structured normal means problems. log-linear models and models for discrete data
+Areas of Research
+Clustering & Unsupervised Methods
+High-Dimensional Statistics
+Networks
+Nonparametric Methods
+Statistical Machine Learning
+Topological & Functional Data Analysis
+Associate Professor
+Office
+Baker Hall 229I
+Phone
+(412) 268-7362
+Email
+arinaldo@stat.cmu.edu
+Web Site
+http://www.stat.cmu.edu/~...
+Statistics Department
+Baker Hall 132
+Pittsburgh, PA 15213
+Phone: (412) 268-2717
+Fax: (412) 268-7828
+Contact
+webmaster at stat.cmu.edu
+Attributions
+Quick Links
+Login
+Technical Reports
+Faculty Profiles
+For Current Students
+University Links
+Carnegie Mellon
+Dietrich College of Humanities & Social Sciences
+Department of Machine Learning

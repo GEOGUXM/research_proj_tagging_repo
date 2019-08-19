@@ -1,0 +1,81 @@
+  Yekaterina Epshteyn
+Associate Professor at the Department of Mathematics
+The University of Utah
+
+
+Numerical Methods for PDEs, Scientific Computing, Applied Mathematics  
+
+CV pdf
+Brief Version of the Research Statement pdf
+
+Research Interests:  
+Numerical Methods for PDEs, Scientific Computing, Applied Mathematics
+Difference Potentials Method
+Central-Upwind Finite Volume Schemes
+Finite Element Methods
+Mathematical and Computational Modeling of Materials
+Computational Fluid Dynamics
+Shallow Water Models
+Flow in Porous Media, Multiphase Flow
+Biomedical Applications
+Gallery:
+Some of the results that we obtained for two-phase flow simulation:
+Below 2D view of saturation contour (left) and 3D view of pressure contour (right) at 350 days.
+This is an example of heterogeneous benchmark problem (the permeability coefficient is discontinuous).
+(Click on saturation picture to see the movie.)
+
+Publications
+
+REU Undergraduate Students:
+Alex Henabray (Fall 2014): Project "Numerical Methods for Interface Problems"
+Camille Humphries (May 2013 - May 2014): Project "Central-Upwind Schemes for Shallow Water Models"
+PhD Graduate Students:
+Kyle Steffen (Fall 2013 - present, co-advised with K. Golden)
+Qing Xia (Fall 2014 - present)
+Alumni:
+Spencer Phippen (REU student, May 2013 - January 2014): Project "Difference Potentials Method for Interface Problems", Current Position: Software Engineer at Google
+Jason Albright (Ph.D. student Fall 2011 - Spring 2016), Current Position: Postdoctoral Fellow at the Theoretical Division at Los Alamos National Lab (LANL)
+Patrick Bardsley (Ph.D. student Fall 2011 - Spring 2016, Ph.D. thesis abstract ), Current Position: Postdoctoral Fellow at the Department of Mathematics and ICES at the University of Texas at Austin
+Michael Medvinsky (Postdoc, Fall 2013 - Spring 2015), Current Position: Research Assistant Professor, Department of Mathematics, North Carlina State University
+
+Recent Research Talks to Middle School Students, Spring 2013:
+
+Project Youth - University of Utah (for 6th Graders from local schools), Spring 2013, Slides
+
+The presentation "Fun Adventure in Applied Mathematics or What is Applied Mathematics?" was illustrated by experiments:
+Generating waves in a pan with a whole milk
+And experiments using soap bubbles
+
+Applied Math Seminar, Spring 2017, html
+
+MAC Website html
+
+Affiliated Faculty Member, Center for Quantitative Biology, html
+
+Some Recent and Future Conferences:
+
+International Conference "Difference Schemes and Applications" in honor of 90th Birthday of Prof. Viktor Ryaben'kii, Moscow, Russia, May 27-31 2013, Program
+
+ICOSAHOM 2014 , International Conference on Spectral and High Order Methods, Salt Lake City, Utah, June 23-27 2014
+
+CMDS 13, Continuum Models Discrete Systems, Salt Lake City, Utah, July 21-25 2014
+
+WhAM! A Research Collaboration Workshop for Women in Applied Mathematics: Numerical Partial Differential Equations, IMA Special Workshop, Minneapolis, August 11-15 2014
+
+IMA Hot Topic Workshop "Impact of Waves Along Coastlines" , Minneapolis, October 2014
+
+Prairie Analysis Seminar, Kansas State University, September 2015
+
+International Conference "Topics in Applied Nonlinear Analysis: Recent Advances and New Trends" in honor of 75th Birthday of Prof. David Kinderlehrer, Carnegie Mellon University, July 2016
+
+Current Teaching:
+Spring 2017, Math 6620: Analysis of Numerical Methods II
+Contact Information
+Department of Mathematics
+The University of Utah
+Salt Lake City, UT 84112
+e-mail: epshteyn@math.utah.edu
+phone: (801) 585 - 1644
+554 Pageviews
+May. 21st - Jun. 21st
+Last Modified: January, 2017

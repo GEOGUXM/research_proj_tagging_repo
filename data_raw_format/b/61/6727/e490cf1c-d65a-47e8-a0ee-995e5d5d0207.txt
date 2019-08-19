@@ -1,0 +1,27 @@
+UC Davis
+College of Engineering
+Maps and Directions
+SKIP TO CONTENT
+HOME
+BIOGRAPHY
+PUBLICATIONS
+TEACHING INTERESTS
+RESEARCH INTERESTS
+Distinguished Professor Nelson Max
+Department of Computer Science
+3108 Kemper Hall
+University of California
+Davis, CA 95616
+Email: max at cs.ucdavis.edu
+Phone: (530) 752-3798
+CV with full list of publications
+Research
+Professor Max’s research interests are in the areas of scientific visualization, computer animation, realistic computer graphics rendering, and multi-view stereo reconstruction. In visualization he works on molecular graphics, and volume and flow visualization, particularly on irregular finite element meshes. He has rendered realistic lighting effects in clouds, trees, and water waves, and has produced numerous computer animations, shown at the annual ACM SIGGRAPH conferences, and in OMNIMAX at the Fujitu Pavilions at Expo ’85 in Tsukuba Japan, and Expo ’90 in Osaka Japan. He is a member of the IEEE, and Eurographics, and a Fellow of the ACM. Some of his publications can be found at http://graphics.idav.ucdavis.edu/publications by entering “Max” in the author box, and clicking the appropriate year, and other (mostly older ones) can be found at http://library-ext.llnl.gov by clicking Reports Search and then entering ” Max, N* ” in the Report Author box.
+Distinguished Professor
+Nelson Max
+  Computer Science
+University of California
+Davis, CA 95616
+  Email: max at cs.ucdavis.edu
+Phone: (530) 752-3798
+  Copyright © The Regents of the University of California, Davis campus. All Rights Reserved.

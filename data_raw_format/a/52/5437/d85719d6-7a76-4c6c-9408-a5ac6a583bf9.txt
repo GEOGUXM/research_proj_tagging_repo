@@ -1,0 +1,18 @@
+Directory of
+Higher degree by research students
+Search
+Search for Research Students
+Please enter the name of the student you wish to search for.
+You can enter a student's First Name only, Last Name only, or both First Name and Last Name. If you do not know how to spell a student's name, then enter just the first few letters of the student's name.
+Name    (or Mail ID)
+        Words in paragraph text search
+You can search for words contained within the paragraph text of the sections listed below on a student home page. Please enter one, two or three words to search for. Only Student Homepages containing all of your words will be displayed.
+Words    (up to 3 words maximum)
+             Tick the boxes to limit your search to those sections:
+   About me
+ Online resources
+ Associations    Thesis
+ Research publications
+        Alphabetical Student List (in Last Name order)
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z

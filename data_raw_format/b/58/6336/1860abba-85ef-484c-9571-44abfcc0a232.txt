@@ -1,0 +1,42 @@
+Skip to Content
+Studies
+Life and housing
+Research
+About NTNU
+Search
+Employees
+Pål Keim Olsen
+Associate Professor
+palkeim@ntnu.no
++47 73412059 +47 99472950
+Gunnerus gate 1, 202, Kalvskinnet
+Title of PhD project: 
+Partial discharges in insulation materials exposed to combined DC and AC voltage
+Supervisor:      Ass. Prof. Frank Mauseth              
+Research Group:   Electric Power Systems          
+Co-Supervisor:       Prof. Erling Ildstad
+Project:   High Voltage AC and DC Subsea Cables for Offshore Wind Farms and Transmission Grids                    
+  HVAC subsea transmission is limited in terms of distance to shore: at about 50-70 km distance from shore the capacitive load of the subsea cables is too high, taking too much of the current carrying capability of the cables. It has been found that the HVDC system is economical for distances above 70 km from shore, and there is no practical limit in the distance from shore as for HVAC systems. The majority of cables already installed in AC and DC systems are mass impregnated cables, but there is a drive to use dielectric extruded cables for subsea applications.
+The PhD work focus on the electric degradation phenomena which can occur in electric equipment in an offshore HVDC network, during steady state operation and under faults. In particular, the effect of DC voltage with superimposed AC voltage on partial discharges in the insulation. Simulation of partial discharges in cavities under DC superimposed AC voltage and ageing under such conditions is studied through lab experiments. The main materials to be studied are PEEK, but the model should be relevant for other materials like XLPE for cables and epoxy for converter transformers, generators and switchgear. The results from the work can be used when developing qualification tests and design of long cables and other electric equipment used in offshore HVDC networks.
+    Scientific, academic and artistic work
+A selection of recent journal publications, artistic productions, books, including book and report excerpts. See all publications in the database
+Journal publications
+Gjerde, Sverre Skalleberg; Olsen, Pål Keim; Ljøkelsøy, Kjell; Undeland, Tore Marvin. (2014) Control and fault handling in a modular series-connected converter for a transformerless 100 kv low-weight offshore wind turbine. IEEE transactions on industry applications. vol. 50 (2).
+Part of book/report
+Olsen, Pål Keim; Mauseth, Frank; Ildstad, Erling. (2014) The effect of DC superimposed AC Voltage on Partial Discharges in Dielectric Bounded Cavities. 2014 International Conference on High Voltage Engineering and Application - ICHVE.
+Olsen, Pål Keim; Mauseth, Frank; Ildstad, Erling. (2013) Modelling of Partial Discharges in Polymeric Insulation Exposed to Combined DC and AC Voltage. Proceedings of the 23rd Nordic Insulation Symposium - NORDI-IS13.
+Gjerde, Sverre Skalleberg; Olsen, Pål Keim; Undeland, Tore Marvin. (2012) A transformerless generator-converter concept making feasible a 100 kV low weight offshore wind turbine Part II - The converter. IEEE ECCE 2012. Proceedings of Energy Conversion Congress and Exposition, Raleigh 2012.
+Olsen, Pål Keim; Gjerde, Sverre Skalleberg; Nilssen, Robert; Hølto, Jorunn; Hvidsten, Sverre. (2012) A Transformerless generator-converter concept making feasible a 100 kV light weight offshore wind turbine: Part I - The generator. IEEE ECCE 2012. Proceedings of Energy Conversion Congress and Exposition, Raleigh 2012.
+Mogstad, Anne Berit; Molinas Cabrera, Maria Marta; Olsen, Pål Keim; Nilssen, Robert. (2008) A Power Conversion System for Offshore Wind Parks. A Power Conversion System for Offshore Wind Parks.
+Norwegian University of Science and Technology
+Contact us
+Phone: +47 73595000
+Map of NTNU
+Sitemap
+Studies A to Z
+Courses A to Z
+Research A to Z
+Search for employees
+About cookies
+Editorial Responsibility
+Sign in

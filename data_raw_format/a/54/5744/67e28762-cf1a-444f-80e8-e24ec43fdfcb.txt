@@ -1,0 +1,61 @@
+The School of Molecular and Cellular Biology
+UNIVERSITY OF ILLINOIS
+MCB
+Home
+About MCB
+Faculty
+Directory
+Overview
+Research Interests
+Disease Research Interests
+Video Interviews
+Departments
+Undergraduate Studies
+Pre-Med
+Graduate Studies
+Resources
+Alumni & Friends
+Giving
+pdegnan@illinois.edu
+
+Morrill Hall 371
+Office: (217) 244-5504
+Fax: (217) 244-6697
+
+Mail to: Microbiology
+B103 CLSL
+601 S Goodwin Ave., M/C -110
+Urbana, IL 61801
+Video Interview
+Patrick Degnan
+ASSISTANT PROFESSOR OF MICROBIOLOGY
+
+Research Topics
+Bioinformatics, Computational Biology, Genomics, Microbial Ecology, Molecular Evolution, Regulation of Gene Expression
+Education
+B.S. (Biology), Providence College, 2001
+Ph.D. (Ecology and Evolutionary Biology), University of Arizona, 2009
+Postdoctoral (Ecology and Evolutionary Biology), Yale University, 2010-2011
+Postdoctoral (Microbial Pathogenesis), Yale University, 2011-2013
+Teaching Interests
+MCB 432 - Computing in Molecular Biology
+MCB 585 - Current Topics in Microbiology
+Genome-enabled examination of diversity, genome evolution and processes in complex microbial communities
+Microbial communities are dynamic and subject not only to competition, predation and environmental perturbation, but extensive genetic adaptation through gene acquisition and exchange. Genome sequencing and related advances have fundamentally altered the field of microbiology, providing an unbiased means to investigate microbes that can both be cultured and those that cannot. Communities such as the mammalian gut however contain a surprising number of cultivable organisms. My lab is interested in leveraging cultivation-based techniques to manipulate individual gut community members and understand the responses of the uncultivable members with genomeenabled technologies. My principle research goals involve in situ examination of (i) microbial diversity and interactions within communities and hosts, and (ii) how these interactions impact bacterial genome evolution.
+Representative Publications
+P.H. Degnan, M.E. Taga, and A.L. Goodman. (2014) Vitamin B12 as a modulator of gut microbial ecology. Cell Metabolism. In press.
+A.H. Hansen and P.H. Degnan. (2014) Widespread expression of conserved small RNAs in small symbiont genomes. The International Society for Microbial Ecology Journal, advance online publication, 11 July 2014. ABSTRACT
+N.W. Palm, M.R. de Zoete, T.W. Cullen, N.A. Barry, J. Stefanowski, L. Hao, P.H. Degnan, J. Hu, I. Peter, W. Zhang, E. Ruggiero, J.H. Cho, A.L. Goodman, and R.A. Flavell. (2014) Immunoglobulin a coating identifies colitogenic bacteria in inflammatory bowel disease. Cell 158:1000-1010. ABSTRACT
+P.H. Degnan, N. Barry, K, Mok, M.E. Taga, and A.L. Goodman. (2014) Human gut microbes use multiple transporters to distinguish vitamin B12 analogs and compete in the gut. Cell Host Microbe, 15:47-57. ABSTRACT
+G. Dantas, M. Sommer, P.H. Degnan, and A.L. Goodman. (2013) Experimental approaches for defining functional roles of microbes in the human gut. Annual Review of Microbiology, 67:459-75. ABSTRACT
+A. Moeller, P.H. Degnan, A. Pusey, M. Wilson, B. Hahn and H. Ochman. Chimpanzees and Humans Harbor Compositionally Similar Gut Enterotypes. Nature Communications, 3:1179. ABSTRACT
+P.H. Degnan, A.E. Pusey, E.V. Lonsdorf, J. Goodall, E.E. Wroblewski, M.L. Wilson, R. Rudicell, B.H. Hahn, and H. Ochman. (2012) Factors Associated with the Diversification of the Gut Microbial Communities within Chimpanzees from Gombe National Park. Proceedings of the National Academy of Sciences USA, 109:13034–13039. ABSTRACT
+P.H. Degnan and H. Ochman (2012) Illumina-Based Analysis of Microbial Community Diversity. The International Society for Microbial Ecology Journal, 6:183–194. ABSTRACT
+P.H. Degnan, H. Ochman, and N.A. Moran. (2011) Sequence Conservation and Functional Constraint on Intergenic Spacers in Reduced Genomes of the Obligate Symbiont Buchnera. PLoS Genetics, 7: e1002252. ABSTRACT
+K.M. Oliver, P.H. Degnan, G.R. Burke, and N.A. Moran (2010). Facultative symbionts of aphids and the horizontal transfer of ecologically important traits. Annual Review of Entomology, 55:247–266. ABSTRACT
+K.M. Oliver, P.H. Degnan, M. Hunter and N.A. Moran. (2009) Bacteriophage encode factors required for protection in a symbiotic mutualism. Science, 325:992–994. ABSTRACT
+P.H. Degnan, Y. Yu, N. Sisneros, R.A. Wing, and N.A. Moran. (2009) Hamiltonella defensa, genome evolution of protective bacterial endosymbiont from pathogenic ancestors The Proceedings of the National Academy of Sciences USA, 106:9063–9068. ABSTRACT
+P.H. Degnan and N.A. Moran (2008). Diverse phage-encoded toxins in a protective insect endosymbiont. Applied and Environmental Microbiology, 74:6782–6791. ABSTRACT
+FULL LIST OF PUBLICATIONS
+© School of MCB | College of Liberal Arts and Sciences | University of Illinois at Urbana-Champaign
+Developed and maintained by the MCB Communications Office | Contact Us

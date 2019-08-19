@@ -1,0 +1,13 @@
+ENGLISH  | HOME | IMPRESSUM | KIT
+Institut für Technik der Informationsverarbeitung (ITIV)
+Navigation ↓
+
+Andreas Michel
+Masterarbeit (Nr. 2172)
+Entwurf eines Systems zur Synchronisation eines FPGA-Systems per Glasfaser bzw. Twisted-Pair Links (Design of a system for synchronizing FPGA systems using fiber or twisted-pair links)
+Engesserstr. 5
+76131 Karlsruhe
+
+
+letzte Änderung: 23.06.2016
+KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft

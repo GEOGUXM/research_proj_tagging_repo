@@ -1,0 +1,191 @@
+Skip to main content
+MENU  
+Toggle navigation menu
+University of Wollongong Research Online Gallery Expert Gallery
+Follow
+Contact
+Selected Works of Dr Khin Win
+Senior Lecturer, School of Information Systems & Technology, Faculty of Informatics
+Dr. Win completed her MBBS at the Institute of Medicine 1, Yangon, Myanmar prior to commencing studies in the information technology field. She received her IDCS from NCC Education Services Ltd and DCS in Computer Studies (Comp Sc) in 1997.
+In 1999 Dr. Win received her MS (Computer Information Systems) from Assumption University, Bangkok and was awarded her Phd from the University of Wollongong in 2005 with a thesis topic of, ‘The Application of FMEA Risk Assessment Technique to Electronic Health Record Systems'.
+Dr. Win commenced lecturing at UOW in 2002.
+Field of Study: A background in medicine and knowledge of computing motivate research involved in health informatics
+Professional Activities and Affiliations:
+• Editor, International Journal of Networking and Virtual Organisation
+• Member of Health Informatics Society of Australia
+• Member of American Medical Informatics Association
+• Member of Healthcare Technology Management Network
+Current Research Students:
+• A. H. M. Mehbub Anwar : Integrating traveller preferences heterogenerity in transportation planning
+• Sao Ian Leong : Investigations In Colour Deficiency Compensation
+• Mohsen Sangi : Designing a Decision Support Model in the Domain of Secondary Prevention of Chronic Diseases Such as Diabetes
+• Meng Cheow : Impact of the Australian Health Info privacy legislation on secondary use of Personal Health Information
+• Naffisah Mohd Hassan : Antecedents and Impact of Total Health Care Information System
+• Nurazean Maarop : Understanding the Acceptance of Teleconsultation Technology in Malaysian Government Hospitals
+• Mohamed Assabri : Securing Personal Health Record in Cloud Computing
+read more
+Works
+About
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to Category
+No Subject Area (25)
+Article
+The Effects of Attitudes towards Income Equality, Ethnic Diversity and ...
+Theses (2012)
+Khin Maung Win
+There are few works that explores the relationship between the attitude towards income equality and levels of democracy in the ...
+Download
+Article
+Mobile technology use in medical education
+Faculty of Informatics - Papers (Archive) (2012)
+Rattiporn Luanrattana, Khin Than Win, John Fulcher and Donald Iverson
+This study was undertaken to determine the PDA functionalities for a problem-based learning (PBL) medical curriculum at the Graduate School ...
+Article
+Exploring Factors That Affect Teleconsultation Adoption: In The Case Of ...
+PACIS 2011 Proceedings (2011)
+Nurazean Maarop, Khin Than Win, Maslin Masrom and Sukdershan Singh Hazara Singh
+This study identifies the factors that could affect the adoption of teleconsultation technology in public hospitals in Malaysia from the ...
+Download
+Article
+TTeleconsultation Technology and Its Benefits: In the Case of Public ...
+CONF-IRM 2011 Proceedings (2011)
+Nurazean Maarop, Sukdershan Hazara Singh and Khin Than Win
+The ultimate objectives of this study are to describe teleconsultation activities and explore the benefits of teleconsultation technology in the ...
+Download
+Presentation
+Benefits of online patient education (OPE) for chronic disease
+Faculty of Informatics - Papers (Archive) (2011)
+Naffisah Mohd Hassan, Khin Than Win and Peter Hyland
+Presentation
+Exploring teleconsultation acceptance: a comparison study between emergency and non-emergency ...
+Faculty of Informatics - Papers (Archive) (2011)
+Nurazean Maarop, Khin Than Win, Maslin Masrom and Sukdershan Singh Hazara Singh
+This research explores the acceptance of teleconsultation technology among healthcare providers of public hospitals in Malaysia. Primary constructs from Davis' ...
+Download
+Article
+The Interplay of Facilitating Conditions and Organizational Settings in the ...
+ACIS 2011 Proceedings (2011)
+Nurazean Maarop and Khin Tan Win
+This research explores users’ intention to use teleconsultation technology. The study also explores the influence of facilitating conditions on the ...
+Download
+Article
+A Knowledge-Based Risk Advisor Model for Chronic Complications of Diabetes
+PACIS 2010 Proceedings (2010)
+Mohsen Sangi, Khin Than Win and John Fulcher
+Diabetes as an unprecedented epidemic is spreading all around the world. While one in every seven healthcare dollars in USA ...
+Download
+Article
+Applying the Modified Delphi Method to Identify the Taiwanese Electronic ...
+PACIS 2010 Proceedings (2010)
+Yung-Yu Su, Khin Than Win and Tieh-Chi Chung
+The aim of this research is to design an appropriate conceptual evaluation framework with a draft instrument for validating the ...
+Download
+Article
+Data security and information privacy for PDA accessible clinical-log for ...
+Faculty of Informatics - Papers (Archive) (2010)
+Rattiporn Luanrattana, Khin Than Win and John A Fulcher
+Data security and information privacy are the important aspects to consider for the use of mobile technology for recording clinical ...
+Download
+Article
+Implementing Patient Accessible Health Information Site for Diabetes Management
+PACIS 2010 Proceedings (2010)
+Khin Than Win
+The focus of health care has changed from health care provider paternalistic approach to consumer focused approach. The aim of ...
+Download
+Article
+A review of telemedicine in developing countries: introduction and implementation ...
+Faculty of Informatics - Papers (Archive) (2009)
+Khin Than Win and Nurazean Maarop
+Article
+Measuring end-users' opinions for establishing a user-centred Electronic Health Record ...
+Journal of Theoretical and Applied Electronic Commerce Research (2009)
+Yung-Yu Su, Khin T Win, John A Fulcher and Herng-Chia Chiu
+Establishing an acceptable user-centred electronic health record (EHR) system is a challenging task for healthcare providers due to the need ...
+Download
+Article
+Teleconsultation service utilization key issues in the context of Malaysia ...
+Faculty of Informatics - Papers (Archive) (2009)
+Khin Than Win, Nurazean Maarop, Sukdershan Singh HS and Maslin Masrom
+Article
+Efficient lattice-based signature scheme
+International Journal of Applied Cryptography (2008)
+Thomas Plantard, Willy Susilo, Khin Than Win and Qiong Huang
+In Crypto 1997, Goldreich, Goldwasser and Halevi (GGH) proposed a lattice analogue of McEliece public key cryptosystem, in which security ...
+Download
+Article
+Evaluating the implementation of EMR systems from the perspective of ...
+Faculty of Informatics - Papers (Archive) (2008)
+Yung-Yu Su, John A. Fulcher, Khin Than Win, Herng-Chia Chiu, et al.
+In health informatics, the "updated DeLone and McLean IS success model" is reviewed as a mature model in measuring health ...
+Download
+Presentation
+Use of Personal Digital Assistants (PDAs) in Medical Education
+Faculty of Informatics - Papers (Archive) (2007)
+Rattiporn Luanrattana, Khin Than Win and John Fulcher
+A systematic review of how the personal digital assistants (PDAs) have been used in healthcare professions and medical education has ...
+Download
+Article
+Analyzing the key variables in the adoption process of HL7
+Faculty of Informatics - Papers (Archive) (2007)
+Alejandro E. Flores Zuniga and Khin Than Win
+The intention of this paper is to provide an analysis of variables that could affect the adoption of HL7 message ...
+Download
+Article
+Consent Mechanisms for Electronic Health Record Systems: A Simple Yet ...
+Faculty of Informatics - Papers (Archive) (2007)
+Khin Than Win and John A Fulcher
+Article
+Consent mechanisms for electronic health record systems: a simple yet ...
+Journal of Medical Systems (2007)
+Khin T Win and John Fulcher
+Electronic health record (EHR) systems are now in widespread use in healthcare institutions worldwide. EHRs include sensitive health information and ...
+Download
+Article
+Securing personal health information access in mobile healthcare environment through ...
+International Journal of Mobile Communications (2007)
+Willy Susilo and Khin Than Win
+In this paper we will outline the importance of mobile data communication in healthcare, accessibility of health information through mobile ...
+Download
+Presentation
+Electronic health record system evaluation based on patient safety
+Faculty of Informatics - Papers (Archive) (2006)
+Yung-Yu Su, Khin Than Win and John A Fulcher
+After describing the general characteristics of Electronic Health Records (EHRs), we consider patient safety. We then proceed to discuss IS ...
+Download
+Article
+Information security and privacy of health data
+International Journal of Healthcare Technology and Management (2006)
+Khin Than Win and Willy Susilo
+The objective of this study is to answer the research question, 'Do existing privacy and confidentiality measures ensure information security ...
+Download
+Article
+The application of the FMEA risk assessment technique to electronic ...
+University of Wollongong Thesis Collection (2005)
+Khin Than Win
+Patient safety and Medical errors are of growing concern in the health care industry. Some errors are caused by preventable ...
+Download
+Presentation
+Experiences using case studies to teach risk
+Faculty of Informatics - Papers (Archive) (2002)
+A. Fuller, Khin Than Win and L. Dei
+Most software development projects today are facing increased risks. Despite this risk management planning is virtually nonexistent, as managers have ...
+Download
+Copyright 1999–2017 bepress.™ All rights reserved.
+Contact Us Terms of Service Copyright Privacy Policy User Guide

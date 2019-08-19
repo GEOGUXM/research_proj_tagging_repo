@@ -1,0 +1,629 @@
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en-US"><!--<![endif]--><head>
+
+		<meta charset="utf-8">
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title></title>	
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+				
+
+		<!-- media-queries.js (fallback) -->
+
+		<!--[if lt IE 9]>
+
+			<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>			
+
+		<![endif]-->
+
+
+
+		<!-- html5.js -->
+
+		<!--[if lt IE 9]>
+
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+
+		<![endif]-->
+
+		
+
+  		<link rel="pingback" href="http://communication.sdsu.edu/xmlrpc.php">
+
+
+
+		<!-- wordpress head functions -->
+
+		<link rel="dns-prefetch" href="//s.w.org">
+		<script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/communication.sdsu.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://communication.sdsu.edu/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="meteor-slides-css" href="http://communication.sdsu.edu/wp-content/plugins/meteor-slides/css/meteor-slides.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="http://communication.sdsu.edu/wp-content/themes/wordpress-bootstrap-master/library/css/bootstrap.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="wpbs-style-css" href="http://communication.sdsu.edu/wp-content/themes/wordpress-bootstrap-master/style.css?ver=1.0" type="text/css" media="all">
+<script type="text/javascript" src="http://communication.sdsu.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://communication.sdsu.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://communication.sdsu.edu/wp-content/plugins/meteor-slides/js/jquery.cycle.all.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://communication.sdsu.edu/wp-content/plugins/meteor-slides/js/jquery.metadata.v2.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://communication.sdsu.edu/wp-content/plugins/meteor-slides/js/jquery.touchwipe.1.1.1.js?ver=4.7.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var meteorslidessettings = {"meteorslideshowspeed":"2000","meteorslideshowduration":"4000","meteorslideshowheight":"400","meteorslideshowwidth":"1142","meteorslideshowtransition":"fade"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://communication.sdsu.edu/wp-content/plugins/meteor-slides/js/slideshow.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://communication.sdsu.edu/wp-content/themes/wordpress-bootstrap-master/library/js/bootstrap.min.js?ver=1.2"></script>
+<script type="text/javascript" src="http://communication.sdsu.edu/wp-content/themes/wordpress-bootstrap-master/library/js/scripts.js?ver=1.2"></script>
+<script type="text/javascript" src="http://communication.sdsu.edu/wp-content/themes/wordpress-bootstrap-master/library/js/modernizr.full.min.js?ver=1.2"></script>
+<link rel="https://api.w.org/" href="http://communication.sdsu.edu/wp-json/">
+<link rel="canonical" href="http://communication.sdsu.edu/">
+<link rel="shortlink" href="http://communication.sdsu.edu/">
+<link rel="alternate" type="application/json+oembed" href="http://communication.sdsu.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommunication.sdsu.edu%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://communication.sdsu.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcommunication.sdsu.edu%2F&amp;format=xml">
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #a81933; background-image: url("http://communication.sdsu.edu/wp-content/uploads/2014/07/pattern_diagonal_medium.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: fixed; }
+</style>
+		<style type="text/css">
+			.dboling-floating-panel {
+			  padding: 0;
+			  margin: 0;
+			  background: #fff;
+			  box-shadow: 0 0 10px -5px black;
+			  position: fixed;
+			  bottom: 0;
+			  right: 0;
+			  z-index: 1000;
+			}
+			.dboling-floating-panel-close {
+			  position: absolute;
+			  top: 10px;
+			  right: 20px;
+			  font-size: 30px;
+			  font-weight: bold;
+			  text-decoration: none;
+			  color: #333;
+			  cursor: pointer;
+			}
+			.dboling-floating-panel img {
+			  max-width: 100%;
+			  height: auto;
+			  margin: 25px;
+			}
+			.dboling-floating-panel-close:hover {
+			  color: #E12429;
+			  text-decoration: none;
+			}
+			
+			@media screen and (max-width: 500px){
+			  .dboling-floating-panel {
+			    width: 100%;
+			    display: flex;
+			    justify-content: center;
+			  }
+			  .dboling-floating-panel img { margin: 5px 0; }
+			}
+		</style>
+	  
+		<!-- end of wordpress head -->
+
+				
+
+	<script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/timeline.49f24b3ed4b1be2d087c97aca497c0d1.js"></script></head>
+
+	
+
+	<body class="home page-template page-template-page-homepage page-template-page-homepage-php page page-id-36 custom-background">
+
+
+
+		<!--------Google Analytics Code Start------------->
+
+			<script>
+
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+
+  ga('create', 'UA-52594070-12', 'auto');
+
+  ga('send', 'pageview');
+
+
+
+</script>
+
+		<!--------Google Analytics Code End------------->	
+
+
+
+<!--------Skip Nav------------->	
+
+<a href="#content" class="skip" style="
+height: 0;
+display: block;
+">Skip to content</a>
+
+<!--------Skip Nav End------------->
+
+
+
+		<header role="banner">
+
+				
+
+			<div class="navbar navbar-default navbar-static-top">
+
+				<div class="nav-container">
+
+				    <div class="col-sm-4" id="sdsu_logo">
+
+					<a href="http://sdsu.edu"><img src="http://communication.sdsu.edu/wp-content/uploads/2014/SDSUhorz_3Color.png" alt="San Diego State University Logo"></a>
+
+				    </div>
+
+				    <div class="col-sm-8" id="school_logo">
+
+					<a href="http://communication.sdsu.edu"><img src="http://communication.sdsu.edu/wp-content/uploads/2014/Comm_Title.png" alt="School of Communication Title"></a>
+
+
+
+</div>
+
+
+
+
+
+					<div class="navbar-header">
+
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+
+							<span class="icon-bar"></span>
+
+							<span class="icon-bar"></span>
+
+							<span class="icon-bar"></span>
+
+						</button>
+
+
+
+						<!--<a class="navbar-brand" title="" href="http://communication.sdsu.edu">School of Communication | SDSU</a>-->
+
+					</div>
+
+
+
+					<div class="collapse navbar-collapse navbar-responsive-collapse">
+
+						<ul id="menu-home" class="nav navbar-nav"><li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-36 current_page_item active"><a href="http://communication.sdsu.edu/">HOME</a></li>
+<li id="menu-item-27" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://communication.sdsu.edu/prospective-students/">PROSPECTIVE STUDENTS<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://communication.sdsu.edu/undergraduate/">UNDERGRADUATE</a></li>
+	<li id="menu-item-55" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://communication.sdsu.edu/graduate/">GRADUATE<b class="caret"></b></a>
+	<ul class="dropdown-menu">
+		<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://communication.sdsu.edu/apply/">APPLY</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://communication.sdsu.edu/faculty/">FACULTY</a></li>
+<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://communication.sdsu.edu/alumni/">ALUMNI</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://communication.sdsu.edu/support/">SUPPORT</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://communication.sdsu.edu/news/">NEWS</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://communication.sdsu.edu/contact/">CONTACT</a></li>
+</ul>
+
+
+						
+						<!---<form class="navbar-form navbar-right" role="search" method="get" id="searchform" action="http://communication.sdsu.edu/">
+
+							<div class="form-group">
+
+								<input name="s" id="s" type="text" class="search-query form-control" autocomplete="off" placeholder="Search" data-provide="typeahead" data-items="4" data-source=''>
+
+							</div>
+
+						</form>--->
+
+						
+					</div>
+
+
+
+				</div> <!-- end .container -->
+
+			</div> <!-- end .navbar -->
+
+		
+
+		</header> <!-- end header -->
+
+		<div class="container">
+
+
+
+			<div id="content" class="clearfix row">
+
+			
+
+				<div id="main" class="col-sm-12 clearfix" role="main">
+
+
+
+					
+					
+
+					<article id="post-36" class="clearfix post-36 page type-page status-publish hentry" role="article">
+
+					
+
+						<header>
+
+
+
+							
+
+
+							<div class="jumbotron" style="background-image: url(''); background-repeat: no-repeat; background-position: 0 0;">
+
+				
+
+								<div class="page-header">
+
+									<h1>School of Communication | SDSU<small></small></h1>
+
+								</div>				
+
+								
+
+							</div>
+
+						
+
+						</header>
+
+						
+
+						<section class="row post_content">
+
+						
+
+							<div class="col-sm-12">
+
+						
+
+									
+		
+	<div id="meteor-slideshow" class="meteor-slides  navnone" style="width: 1142px; height: 400px;">
+	
+			
+				
+			
+		<div class="meteor-clip">
+	
+				
+			<img style="visibility: hidden;" class="meteor-shim" src="http://communication.sdsu.edu/wp-content/uploads/2015/05/Faculty_commencement_2015.jpg" alt="">
+			<div class="mslide mslide-1" style="position: absolute; top: 0px; left: 0px; z-index: 5; opacity: 1; display: block; width: 1142px; height: 400px;">
+				
+									
+					<img src="http://communication.sdsu.edu/wp-content/uploads/2015/05/Faculty_commencement_2015.jpg" class="attachment-featured-slide size-featured-slide wp-post-image" alt="Communication Faculty at Hepner Hall" title="Faculty at Commencement 2015" srcset="http://communication.sdsu.edu/wp-content/uploads/2015/05/Faculty_commencement_2015.jpg 1142w, http://communication.sdsu.edu/wp-content/uploads/2015/05/Faculty_commencement_2015-300x105.jpg 300w, http://communication.sdsu.edu/wp-content/uploads/2015/05/Faculty_commencement_2015-1024x359.jpg 1024w, http://communication.sdsu.edu/wp-content/uploads/2015/05/Faculty_commencement_2015-250x88.jpg 250w" sizes="(max-width: 1142px) 100vw, 1142px">					
+							
+			</div><!-- .mslide -->
+			
+						
+				
+			
+			<div class="mslide mslide-2" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3; width: 1142px; height: 400px; opacity: 0;">
+				
+									
+					<img src="http://communication.sdsu.edu/wp-content/uploads/2014/07/Hepner_Hall_2-1142x400.jpg" class="attachment-featured-slide size-featured-slide wp-post-image" alt="Hepner_Hall_Courtyard" title="Hepner Hall" srcset="http://communication.sdsu.edu/wp-content/uploads/2014/07/Hepner_Hall_2-1142x400.jpg 1142w, http://communication.sdsu.edu/wp-content/uploads/2014/07/Hepner_Hall_2-300x105.jpg 300w, http://communication.sdsu.edu/wp-content/uploads/2014/07/Hepner_Hall_2-250x88.jpg 250w" sizes="(max-width: 1142px) 100vw, 1142px">					
+							
+			</div><!-- .mslide -->
+			
+						
+				
+			
+			<div class="mslide mslide-3" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; width: 1142px; height: 400px; opacity: 0;">
+				
+									
+					<img src="http://communication.sdsu.edu/wp-content/uploads/2014/07/Comm_Bldg-1142x400.jpg" class="attachment-featured-slide size-featured-slide wp-post-image" alt="Communication_Building" title="School of Communication" srcset="http://communication.sdsu.edu/wp-content/uploads/2014/07/Comm_Bldg.jpg 1142w, http://communication.sdsu.edu/wp-content/uploads/2014/07/Comm_Bldg-300x105.jpg 300w, http://communication.sdsu.edu/wp-content/uploads/2014/07/Comm_Bldg-1024x359.jpg 1024w, http://communication.sdsu.edu/wp-content/uploads/2014/07/Comm_Bldg-250x87.jpg 250w" sizes="(max-width: 1142px) 100vw, 1142px">					
+							
+			</div><!-- .mslide -->
+			
+						
+				
+			
+			<div class="mslide mslide-4" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; width: 1142px; height: 400px; opacity: 0;">
+				
+									
+					<img src="http://communication.sdsu.edu/wp-content/uploads/2015/01/Europe-2015_slider.png" class="attachment-featured-slide size-featured-slide wp-post-image" alt="Study Abroad Group in Europe 2015" title="Study Abroad Europe 2015" srcset="http://communication.sdsu.edu/wp-content/uploads/2015/01/Europe-2015_slider.png 1142w, http://communication.sdsu.edu/wp-content/uploads/2015/01/Europe-2015_slider-300x105.png 300w, http://communication.sdsu.edu/wp-content/uploads/2015/01/Europe-2015_slider-1024x359.png 1024w, http://communication.sdsu.edu/wp-content/uploads/2015/01/Europe-2015_slider-250x88.png 250w" sizes="(max-width: 1142px) 100vw, 1142px">					
+							
+			</div><!-- .mslide -->
+			
+						
+				
+		</div><!-- .meteor-clip -->
+				
+					
+	</div><!-- .meteor-slides -->
+	
+	
+<div id="color-blocks">
+<div id="apply-today" class="col-sm-6"><a href="http://communication.sdsu.edu/?p=586"><img class="home-icon" src="http://communication.sdsu.edu/wp-content/uploads/2014/08/About1.jpg" alt="Apply Today"></a><br>
+<span class="colorblock" style="font-size: 16pt;"><a href="http://communication.sdsu.edu/?p=586">Who We Are</a></span></div>
+<div id="welcome" class="col-sm-6"><a href="http://communication.sdsu.edu/?p=5"><img class="home-icon" src="http://communication.sdsu.edu/wp-content/uploads/2014/08/Curious_130X130.jpg" alt="Prospective_Students"></a><br>
+<span class="colorblock" style="font-size: 16pt;"><a href="http://communication.sdsu.edu/?p=5">What We Offer</a></span></div>
+</div>
+<p><!---------------------------------Upcoming Events------------------------------------><br>
+<!--
+
+
+<div class="home-center col-sm-4" id="events">
+
+
+<h2>Upcoming Events</h2>
+
+
+[display-posts category="home-event" image_size="thumbnail" posts_per_page="2" include_excerpt="true"][/display-posts]</div>
+
+
+--></p>
+<p><!---------------------------------Latest News------------------------------------></p>
+<div id="latest-news" class="home-center col-sm-6">
+<h2>Latest News</h2>
+<p><!------------------------></p><ul class="display-posts-listing"><li class="listing-item"><a class="title" href="http://communication.sdsu.edu/position-announcement-assistant-professor-organizational-communication/">Position Announcement: Assistant Professor – Organizational Communication</a> <span class="date">(6/21/2017)</span> <span class="excerpt-dash">-</span> <span class="excerpt">The School of Communication at San Diego State University invites applications for a tenure-track faculty position in Organizational Communication at...  <a href="http://communication.sdsu.edu/position-announcement-assistant-professor-organizational-communication/" class="more-link" title="Read Position Announcement: Assistant Professor – Organizational Communication">Read more »</a></span></li><li class="listing-item"><a class="title" href="http://communication.sdsu.edu/position-announcement-assistant-professor-communication/">Position Announcement: Assistant Professor – Communication</a> <span class="date">(6/21/2017)</span> <span class="excerpt-dash">-</span> <span class="excerpt">The School of Communication at San Diego State University invites applications for a tenure-track faculty position in Communication, at the...  <a href="http://communication.sdsu.edu/position-announcement-assistant-professor-communication/" class="more-link" title="Read Position Announcement: Assistant Professor – Communication">Read more »</a></span></li><li class="listing-item"><a class="title" href="http://communication.sdsu.edu/sdsu-again-ranked-top-10-masters-in-comm/">SDSU Again Ranked Top 10 – Masters in COMM</a> <span class="date">(4/12/2017)</span> <span class="excerpt-dash">-</span> <span class="excerpt">SDSU’s School of Communication, this year celebrating our 90th anniversary, was ranked again in the top 10 of North America’s...  <a href="http://communication.sdsu.edu/sdsu-again-ranked-top-10-masters-in-comm/" class="more-link" title="Read SDSU Again Ranked Top 10 – Masters in COMM">Read more »</a></span></li></ul><br>
+<a style="color: #6234bf; font-family: 'Open Sans', arial, sans-serif;" href="http://communication.sdsu.edu/wp-content/uploads/2016/12/Aztec-Forensics-16-17_Newsletter.pdf"><strong>Read the Latest Aztec Forensics Newsletter</strong></a><p></p>
+</div>
+<p><!---------------------------------Twitter Feed------------------------------------></p>
+<div id="twitter-feed" class="home-center col-sm-6"><iframe id="twitter-widget-0" scrolling="no" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 520px; height: 600px; padding: 0px; border: medium none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px;" data-widget-id="503937807778213888" title="Twitter Timeline" frameborder="0"></iframe><br>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+<div class="spacer-bar col-sm-12">
+<div id="latest_news_button" class="col-sm-6"><a style="padding-left: 30px;" href="http://communication.sdsu.edu/?page_id=15"><button class="btn" type="button">Latest News &gt;</button></a></div>
+<p><!--
+
+
+<div class="col-sm-6" id="latest_news_button">
+<a style="padding-left:30px" href="http://communication.sdsu.edu/news/"><button class="btn" type="button">Latest News &gt;</button></a></div>
+
+
+--></p>
+</div>
+<div id="sub-content">
+<div id="get-involved" class="home-bottom col-sm-6">
+<h2>Get Involved</h2>
+<p class="get-involved">The School of Communication relies on private support to fulfill our mission of providing quality graduate and undergraduate communication in the field of human communication.</p>
+<p><b>We appreciate your support!</b></p>
+<p><a href="http://communication.sdsu.edu/?page_id=7"><button class="btn" type="button">Support Us &gt;</button></a></p>
+</div>
+<div id="links" class="home-bottom col-sm-6">
+<h2>Important Links</h2>
+<ul class="home links">
+<li><a href="http://communication.sdsu.edu/?page_id=9">Apply to the Graduate Program</a></li>
+<li><a href="http://communication.sdsu.edu/?page_id=17">Find a Faculty Member</a></li>
+<li><a href="http://communication.sdsu.edu/?page_id=38">Learn about our Undergraduate Program</a></li>
+<li>&nbsp;<a href="http://communication.sdsu.edu/support/">Support the School of Communication!</a></li>
+<li><a href="http://communication.sdsu.edu/?page_id=19">Contact Us</a></li>
+</ul>
+</div>
+</div>
+<p><!--
+
+
+<div class="grad-bar col-sm-12"><img class="grad-img" alt="background" src="http://communication.sdsu.edu/wp-content/uploads/2014/04/JJ_Arnold_grey.jpg" /><span class="quote"><em>"The Communications Graduate Program helped Me prepare for Lorem Ipsum dolor"</em></span><img class="grad-img" id="right" alt="background" src="http://communication.sdsu.edu/wp-content/uploads/2014/04/hepner_hall.jpg" /></div>
+
+
+--></p>
+
+								
+
+							</div>
+
+							
+
+						
+
+													
+
+						</section> <!-- end article header -->
+
+						
+
+						<!--<footer>
+
+			
+
+							<p class="clearfix"></p>
+
+							
+
+						</footer>--> <!-- end article footer -->
+
+					
+
+					</article> <!-- end article -->
+
+					
+
+					
+					
+
+						
+
+					
+
+					
+			
+
+				</div> <!-- end #main -->
+
+    
+
+    
+
+			</div> <!-- end #content -->
+
+
+
+			<footer role="contentinfo">
+
+<div class="infobar">
+
+	<div class="location col-sm-4"><h2>Visit Us:</h2>
+
+		<p style="color:#ffffff; margin:0 0 10px;">Our Main office is 237 Communication Building<br> Normal Office hours are 9:00-5:00<br> (619) 594-8512</p>
+
+	</div>
+
+	<div class="mail col-sm-4"><h2>Mailing Address:</h2>
+
+		<p style="color:#ffffff">Development Office- Communication<br>
+
+		College of Professional Studies and Fine Arts<br>
+
+		5500 Campanile Drive<br>
+
+		San Diego, CA 92182-4560</p>
+
+	</div>
+
+
+
+	<div class="connected col-sm-4"><h2>Stay Connected</h2>
+
+		<a href="https://twitter.com/SDSU_Comm"><img class="social" src="http://communication.sdsu.edu/wp-content/uploads/2014/twitter_32.png" alt="Twitter Logo"></a>
+
+		<a href="https://www.facebook.com/SanDiegoStateUniversitySchoolOfCommunication"><img class="social" src="http://communication.sdsu.edu/wp-content/uploads/2014/facebook_32.png" alt="facebook logo"></a><br>
+
+	</div>
+
+
+
+
+
+
+
+			<div id="inner-footer" class="clearfix">
+
+				
+
+				<div class="sdsu_logo col-sm-12" style="padding-top:3em; padding-bottom:0em">
+
+					<div align="center">
+
+					<a href="http://sdsu.edu"><img src="http://communication.sdsu.edu/wp-content/uploads/2014/sdsu_logo2.png" alt="San Diego State University vertical logo"></a><br><br>
+
+					<p style="color:#ffffff"><a style="color:#ffffff; font-size:9pt;" href="http://www.w3.org/WAI/intro/accessibility.php">Accessibility</a>  |  <a style="color:#ffffff; font-size:9pt;" href="http://www.adobe.com/">Download Adobe Reader for PDF files</a>  |  <a style="color:#ffffff; font-size:9pt;" href="http://www.microsoft.com/en-us/download/details.aspx?id=4">Download Word Viewer for Word documents</a></p>
+
+	    <p style="color:#ffffff; font-size:9pt;">The statements found on this page/site are for informational purposes only. While every effort is made to ensure that this information is up-to-date and accurate,<br> official information can be found in the university publications.</p>
+
+					</div>
+
+	<p class="attribution">© School of Communication | SDSU</p>
+
+				</div>
+
+
+
+		        	<!--<hr />-->
+
+		        	<div id="widget-footer" class="clearfix row">
+
+		        		
+		        		
+		        		
+		        		
+		        		
+		        		
+		         	</div>
+
+					
+
+				<nav class="clearfix">
+
+					
+				</nav>
+
+					
+
+			</div> <!-- end #inner-footer -->
+
+				
+
+		
+
+</div> <!-- end #container -->
+
+
+
+			</footer> <!-- end footer -->
+
+				
+
+		<!--[if lt IE 7 ]>
+
+  			<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+
+  			<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+
+		<![endif]-->
+
+		
+
+		<script type="text/javascript" src="http://communication.sdsu.edu/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
+    		<div class="dboling-floating-panel">
+			<a class="dboling-floating-panel-close">×</a>
+			<a href="http://psfa.sdsu.edu/resources/summer_programs" target="_blank">
+<img src="http://arweb.sdsu.edu/es/images/summer/2017_sdsu_summer_session_white_bckgd_244x132.png" alt="Continue to SDSU 2017 Summer Session. Graphic of orange and white intertube with water splashing." title="Continue to SDSU 2017 Summer Session" longdesc="www.sdsu.edu/summersession" style="max-width: 100%; height: auto; margin: 25px;" width="244" height="132" border="0">
+</a>		</div>
+		<script>
+			// fade out
+			
+			function fadeOut(dbfpEl){
+			  dbfpEl.style.opacity = 1;
+			
+			  (function fade() {
+			    if ((dbfpEl.style.opacity -= .1) < 0) {
+			      dbfpEl.style.display = 'none';
+			      dbfpEl.classList.add('is-hidden');
+			    } else {
+			      requestAnimationFrame(fade);
+			    }
+			  })();
+			}
+			
+			var dbfpBtn = document.querySelector('.dboling-floating-panel-close');
+			var dbfpEl = document.querySelector('.dboling-floating-panel');
+			
+			dbfpBtn.addEventListener('click', function(e){ fadeOut(dbfpEl); });
+		</script>
+	  
+
+
+	
+
+
+
+</div><iframe id="rufous-sandbox" scrolling="no" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none;" title="Twitter analytics iframe" frameborder="0"></iframe></body></html>

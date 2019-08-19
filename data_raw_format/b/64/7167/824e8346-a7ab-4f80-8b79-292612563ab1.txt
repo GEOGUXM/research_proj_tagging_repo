@@ -1,0 +1,595 @@
+Home
+Log in to MUSE
+University of Sheffield crest
+Department of Mechanical Engineering
+Home > Mechanical Engineering > Staff > Professor Mohamed Pourkashanian
+Main menu
+Department of Mechanical Engineering
+Prospective Undergraduates
+Prospective MSc Students
+Prospective PhD Students
+Research
+Short courses
+Alumni
+Staff
+Academic Staff
+Administrative and Professional Staff
+Research Staff
+Technical Staff
+archive
+Careers
+Green Impact
+News & Events
+Contact Us
+Current Students 2016-17
+Athena Swan Bronze Award
+Centenary
+Centenary memories
+Professor Mohamed Pourkashanian
+MSc, PhD
+Head of University Energy Research
+Energy Engineering Group
+Department of Mechanical Engineering
+The Arts Tower, level 1
+Western Bank
+Sheffield
+S10 2TN
+UK
+
+Telephone: +44 (0) 114 21 57222
+Email: m.pourkashanian@sheffield.ac.uk
+Profile
+Professor Pourkashanian is the Head of University Energy Research at the University of Sheffield and Director of the Pilot-scale Advanced Capture Technology (PACT) national facilities. He is a Professor of Energy Engineering and has completed numerous major research projects on clean energy technology and has received a substantial sum of grants from RCUK-EPSRC, EU, NATO, and industry. He has published over 446 refereed research papers and has co-authored books on coal combustion. He played a leading role in developing the NOx post-processing computer codes and subsequently soot/NOx models that were later employed in the commercial CFD software. He is a member of numerous international and national scientific bodies including a member of EERA Implementation Plan 2013-2015 (contribution to CCS-EII Team, SET-PLAN), a member of Coordinating Group of UKCCSRC, an invited member of the All Party Parliamentary Renewable Transport Fuels Group, member of technical working group for the Department of Energy & Climate Change (CCS Roadmap UK2050) and Expert-Member in EU-GCC Clean Gas Energy Network.
+Books
+Bairchier JC, Pourkashanian M & Williams A (1988) The combustion and atomisation of medium and coarse coal-water slurries..
+Journal articles
+Bai X, Lu G, Hossain MM, Szuhanszki J, Daood SS, Nimmo W, Yan Y & Pourkashanian M (2017) Multi-mode combustion process monitoring on a pulverised fuel combustion test facility based on flame imaging and random weight network techniques. Fuel, 202, 656-664. View this article in WRRO
+Wan K, Xia J, Wang Z, Pourkashanian M & Cen K (2017) Large-eddy Simulation of Pilot-assisted Pulverized-coal Combustion in a Weakly Turbulent Jet. Flow, Turbulence and Combustion, 1-20.
+Ali U, Font-Palma C, Nikpey Somehsaraei H, Mansouri M, Akram M, Finney K, Best T, Mohd Said NB, Assadi M & Pourkashanian M (2017) Benchmarking of a micro gas turbine model integrated with post-combustion CO₂ capture. Energy, 128, 475-487. View this article in WRRO
+Bhave A, Taylor RHS, Fennell P, Livingston WR, Shah N, Dowell NM, Dennis J, Kraft M, Pourkashanian M, Insa M, Jones J, Burdett N, Bauen A, Beal C, Smallbone A & Akroyd J (2017) Screening and techno-economic assessment of biomass-based power generation with CCS technologies to meet 2050 CO2 targets. Applied Energy, 190, 481-489.
+Ismail MS, Ingham DB, Ma L, Hughes KJ & Pourkashanian M (2017) Effects of catalyst agglomerate shape in polymer electrolyte fuel cells investigated by a multi-scale modelling framework. Energy, 122, 420-430. View this article in WRRO
+Orogbemi OM, Ingham DB, Ismail MS, Hughes KJ, Ma L & Pourkashanian M (2017) Through-plane gas permeability of gas diffusion layers and microporous layer: Effects of carbon loading and sintering. Journal of the Energy Institute. View this article in WRRO
+Li J, Ingham D, Ma L, Wang N & Pourkashanian M (2017) Numerical Simulation of the Chemical Combination and Dissociation Reactions of Neutral Particles in a Rarefied Plasma Arc Jet. IEEE Transactions on Plasma Science, 45(3). View this article in WRRO
+Walker M, Theaker H, Yaman R, Poggio D, Nimmo W, Bywater A, Blanch G & Pourkashanian M (2017) Assessment of micro-scale anaerobic digestion for management of urban organic waste: A case study in London, UK.. Waste Management. View this article in WRRO
+Aboje AA, Hughes KJ, Ingham DB, Ma L, Williams A & Pourkashanian M (2017) Numerical study of a wake-stabilized propane flame in a cross-flow of air. Journal of the Energy Institute, 90(1), 145-158.
+Yang X, Ingham D, Ma L, Zhou H & Pourkashanian M (2017) Understanding the ash deposition formation in Zhundong lignite combustion through dynamic CFD modelling analysis. Fuel. View this article in WRRO
+Ali U, Hughes KJ, Ingham DB, Ma L & Pourkashanian M (2017) Effect of the CO2 enhancement on the performance of a micro gas turbine with a pilot-scale CO2 capture plant. Chemical Engineering Research and Design, 117, 11-23. View this article in WRRO
+Orogbemi OM, Ingham DB, Ismail MS, Hughes KJ, Ma L & Pourkashanian M (2016) The effects of the composition of microporous layers on the permeability of gas diffusion layers used in polymer electrolyte fuel cells. International Journal of Hydrogen Energy, 41(46), 21345-21351. View this article in WRRO
+Best T, Finney KN, Ingham DB & Pourkashanian M (2016) Impact of CO₂-enriched combustion air on micro-gas turbine performance for carbon capture. Energy, 115(1), 1138-1147. View this article in WRRO
+Aboje AA, Erete JI, Hughes KJ, Ma L, Pourkashanian M & Williams A (2016) An investigation of methane and propane vertical flares. Journal of the Energy Institute, 89(4), 793-806.
+Xing P, Darvell LI, Jones JM, Ma L, Pourkashanian M & Williams A (2016) Experimental and theoretical methods for evaluating ash properties of pine and El Cerrejon coal used in co-firing. Fuel, 183, 39-54. View this article in WRRO
+Font-Palma C, Errey O, Corden C, Chalmers H, Lucquiaud M, Sanchez del Rio M, Jackson S, Medcalf D, Livesey B, Gibbins J & Pourkashanian M (2016) Integrated oxyfuel power plant with improved CO2 separation and compression technology for EOR application. Process Safety and Environmental Protection, 103(B), 455-465.
+Ikonwa CA, Gale WF, Ingham DB, Ma L & Pourkashanian M (2016) Investigation of airfoil profiles for use in self-starting, small-scale, low reynolds number vertical axis wind turbines. International Journal of Environmental Sustainability, 12(3), 33-52. View this article in WRRO
+Rezazadeh F, Gale WF, Akram M, Hughes KJ & Pourkashanian M (2016) Performance evaluation and optimisation of post combustion CO2 capture processes for natural gas applications at pilot scale via a verified rate-based model. International Journal of Greenhouse Gas Control, 53, 243-253. View this article in WRRO
+Flyagina IS, Hughes KJ, Mielczarek DC, Ingham DB & Pourkashanian M (2016) Identifying the Catalytic Active Sites in Heteroatom-Doped Graphene for the Oxygen Reduction Reaction. Fuel Cells.
+Poggio D, Walker M, Nimmo W, Ma L & Pourkashanian M (2016) Modelling the anaerobic digestion of solid organic waste – Substrate characterisation method for ADM1 using a combined biochemical and kinetic parameter estimation approach. Waste Management, 53, 40-54. View this article in WRRO
+Simoes MC, Hughes KJ, Ingham DB, Ma L & Pourkashanian M (2016) Estimation of the Pitzer Parameters for 1–1, 2–1, 3–1, 4–1, and 2–2 Single Electrolytes at 25 °C. Journal of Chemical & Engineering Data, 61(7), 2536-2554. View this article in WRRO
+Ali U, Agbonghae EO, Hughes KJ, Ingham DB, Ma L & Pourkashanian M (2016) Techno-economic process design of a commercial-scale amine-based CO2 capture system for natural gas combined cycle power plant with exhaust gas recirculation. Applied Thermal Engineering, 103, 747-758. View this article in WRRO
+Yang X, Ingham D, Ma L, Srinivasan N & Pourkashanian M (2016) Ash deposition propensity of coals/blends combustion in boilers: a modelling analysis based on multi-slagging routes. Proceedings of the Combustion Institute. View this article in WRRO
+De Santis A, Ingham DB, Ma L & Pourkashanian M (2016) CFD analysis of exhaust gas recirculation in a micro gas turbine combustor for CO2 capture. Fuel, 173, 146-154. View this article in WRRO
+Xing P, Mason PE, Chilton S, Lloyd S, Jones JM, Williams A, Nimmo W & Pourkashanian M (2016) A comparative assessment of biomass ash preparation methods using X-ray fluorescence and wet chemical analysis. Fuel, 182, 161-165. View this article in WRRO
+Ismail MS, Ingham DB, Hughes , Ma & Pourkashanian (2016) The effects of shape on the performance of cathode catalyst agglomerates in polymer electrolyte fuel cells: a micro-scale FEM study. International Journal of Numerical Methods for Heat and Fluid Flow. View this article in WRRO
+Owhondah R, Walker M, Ma L, Nimmo W, Poggio D & Pourkashanian M (2016) Assessment and parameter identification of simplified models to describe the kinetics of semi continuous biomethane production from anaerobic digestion of green and food waste. Bioprocess and Biosystems Engineering. View this article in WRRO
+Sithole H, Cockerill TT, Hughes KJ, Ma L, Ingham DB, Porter RTJ & Pourkashanian M (2016) Developing an optimal electricity generation mix for the UK 2050 future. Energy, 100, 363-373.
+Akram M, Pourkashanian M, Finney K, Best T, Blakey S & Ali U (2016) Performance evaluation of PACT Pilot-plant for CO2 capture from gas turbines with Exhaust Gas Recycle. International Journal of Greenhouse Gas Control, 47, 137-150.
+Yang X, Ingham D, Ma L, Williams A & Pourkashanian M (2016) Predicting ash deposition behaviour for co-combustion of palm kernel with coal based on CFD modelling of particle impaction and sticking. Fuel, 165, 41-49. View this article in WRRO
+Belhadj E, Chilton S, Nimmo W, Roth H & Pourkashanian M (2016) Numerical simulation and experimental validation of the hydrodynamics in a 350 kW bubbling fluidized bed combustor. International Journal of Energy and Environmental Engineering. View this article in WRRO
+Brink A, Lindberg D, Hupa M, De Tejada ME, Paneru M, Maier J, Scheffknecht G, Pranzitelli A & Pourkashanian M (2016) A temperature-history based model for the sticking probability of impacting pulverized coal ash particles. Fuel Processing Technology, 141, 210-215.
+Al-Qayim K, Nimmo W & Pourkashanian M (2015) Comparative Techno-economic assessment of biomass and coal with CCS technologies in a pulverized combustion power plant in the United Kingdom. International Journal of Greenhouse Gas Control, 43, 82-92. View this article in WRRO
+Edmunds R, Davies L, Deane P & Pourkashanian M (2015) Thermal power plant operating regimes in future British power systems with increasing variable renewable penetration. Energy Conversion and Management, 105, 977-985.
+Rizvi A, Daood S, Javed T, Munir S, Pourkashanian M & Nimmo W (2015) Reactivity Analysis of Pakistani Thar Lignite Reserves in oxidizing Thermogravimetric Analysis Atmospheres. Energy and Fuels, 29(8), 5349-5360. View this article in WRRO
+Rezazadeh F, Gale WF, Hughes KJ & Pourkashanian M (2015) Performance viability of a natural gas fired combined cycle power plant integrated with post-combustion CO2 capture at part-load and temporary non-capture operations. International Journal of Greenhouse Gas Control, 39, 397-406.
+Ismail MS, Ingham DB, Hughes KJ, Ma L & pourkashanian (2015) Effective diffusivity of polymer electrolyte fuel cell gas diffusion layers: An overview and numerical study. International Journal of Hydrogen Energy, 40(34), 10994-11010.
+Porter RTJ, Fairweather M, Pourkashanian M & Woolley RM (2015) The range and level of impurities in CO2 streams from different carbon capture sources. International Journal of Greenhouse Gas Control, 36, 161-174.
+Fei Y, Black S, Szuhánszki J, Ma L, Ingham DB, Stanger PJ & Pourkashanian M (2015) Evaluation of the potential of retrofitting a coal power plant to oxy-firing using CFD and process co-simulation. Fuel Processing Technology, 131, 45-58. View this article in WRRO
+Castellanos JG, Walker M, Poggio D, Pourkashanian M & Nimmo W (2015) Modelling an off-grid integrated renewable energy system for rural electrification in India using photovoltaics and anaerobic digestion. Renewable Energy, 74, 390-398. View this article in WRRO
+rizvi T, pourkashanian M, jones J, darvell L, xing P & Nimmo W (2015) Prediction of biomass ash fusion behaviour by the use of detailed characterization methods coupled with thermodynamic analysis.. Fuel: the science and technology of fuel and energy. View this article in WRRO
+Lumb AB, Burns AD, Figueroa Rosette JA, Gradzik KB, Ingham DB & Pourkashanian M (2015) Computational fluid dynamic modelling of the effect of ventilation mode and tracheal tube position on air flow in the large airways. Anaesthesia.
+Tranter TG, Burns AD, Ingham DB & Pourkashanian M (2015) The effects of compression on single and multiphase flow in a model polymer electrolyte membrane fuel cell gas diffusion layer. International Journal of Hydrogen Energy, 40(1), 652-664.
+Clements AG, Porter R, Pranzitelli A & Pourkashanian M (2015) Evaluation of FSK models for radiative heat transfer under oxyfuel conditions. Journal of Quantitative Spectroscopy and Radiative Transfer, 151, 67-75.
+Sheng Y, Sousani M, Ingham D & Pourkashanian M (2015) Recent Developments in Multiscale and Multiphase Modelling of the Hydraulic Fracturing Process. Mathematical Problems in Engineering, 2015, 1-15.
+Ali U, Palma CF, Hughes KJ, Ingham DB, Ma L & Pourkashanian M (2015) Impact of the operating conditions and position of exhaust gas recirculation on the performance of a micro gas turbine. Computer Aided Chemical Engineering, 37, 2417-2422.
+Almohammadi KM, Ingham DB, Ma L & Pourkashanian M (2015) Modeling dynamic stall of a straight blade vertical axis wind turbine. Journal of Fluids and Structures, 57, 144-158.
+Clements A, Black S, Szuhánszki J, Stęchły K, Pranzitell A, Nimmo W & pourkashanian (2015) LES and RANS of air and oxy-coal combustion in a pilot-scale facility: Predictions of radiative heat transfer. Fuel, 151, 146-151. View this article in WRRO
+Edmunds R, Sithole H, Porter R, Cockerill T, Pourkashanian M, Ma L & Hughes KJ (2015) The Impact of the “Shale Gas Revolution” on the United Kingdom Electricity Generation Outlook. The International Journal of Environmental Sustainability, 11(4), 1-20.
+Almohammadi KM, Ingham DB, Ma L & Pourkashanian M (2014) 2-D-CFD Analysis of the Effect of Trailing Edge Shape on the Performance of a Straight-Blade Vertical Axis Wind Turbine. IEEE Transactions on Sustainable Energy.
+Alhazmi N, Ingham DB, Ismail MS, Hughes K, Ma L & Pourkashanian M (2014) The through-plane thermal conductivity and the contact resistance of the components of the membrane electrode assembly and gas diffusion layer in proton exchange membrane fuel cells. Journal of Power Sources, 270, 59-67.
+Flyagina IS, Hughes KJ, Pourkashanian M & Ingham DB (2014) DFT study of the oxygen reduction reaction on iron, cobalt and manganese macrocycle active sites. International Journal of Hydrogen Energy, 39(36), 21538-21546.
+Ismail MS, Ingham DB, Hughes KJ, Ma L & Pourkashanian M (2014) An efficient mathematical model for air-breathing PEM fuel cells. Applied Energy, 135, 490-503.
+Pickard S, Daood S, Pourkashanian M & Nimmo W (2014) Co-firing coal with biomass in oxygen- and carbon dioxide-enriched atmospheres for CCS applications. Fuel, 137, 185-192.
+Pickard S, Daood SS, Pourkashanian M & Nimmo W (2014) Reactivity during bench-scale combustion of biomass fuels for carbon capture and storage applications. Fuel, 134, 171-179.
+Rizvi T, nimmo W & Pourkashanian M (2014) Corrosion in oxyfuel environments and the effect of coal and biomass ash deposits.. Fuel: the science and technology of fuel and energy.
+Flyagina IS, Hughes KJ, Pourkashanian M & Ingham DB (2014) A Theoretical Study of Molecular Oxygen Chemisorption on N, B, or O Doped Carbon Edge Sites. Fuel Cells, 14(5), 709-719.
+Agbonghae EO, Hughes KJ, Ingham DB, Ma L & Pourkashanian M (2014) Optimal Process Design of Commercial-Scale Amine-Based CO 2 Capture Plants. Industrial & Engineering Chemistry Research, 53(38), 14815-14829.
+Edmunds RK, Cockerill TT, Foxon TJ, Ingham DB & Pourkashanian M (2014) Technical benefits of energy storage and electricity interconnections in future British power systems. Energy, 70, 577-587.
+Agbonghae EO, Hughes KJ, Ingham DB, Ma L & Pourkashanian M (2014) A semi-empirical model for estimating the heat capacity of aqueous solutions of alkanolamines for CO2 capture. Industrial and Engineering Chemistry Research, 53(19), 8291-8301.
+Darvell LI, Ma L, Jones JM, Pourkashanian M & Williams A (2014) Some aspects of modeling NOx formation arising from the combustion of 100% wood in a pulverized fuel furnace. Combustion Science and Technology, 186(4-5), 672-683.
+Barge LM, Kee TP, Doloboff IJ, Hampton JM, Ismail M, Pourkashanian M, Zeytounian J, Baum MM, Moss JA, Lin CK, Kidd RD & Kanik I (2014) The fuel cell model of abiogenesis: a new approach to origin-of-life simulations.. Astrobiology, 14(3), 254-270.
+Boot-Handford ME, Abanades JC, Anthony EJ, Blunt MJ, Brandani S, Mac Dowell N, Fernández JR, Ferrari M-C, Gross R, Hallett JP, Haszeldine RS, Heptonstall P, Lyngfelt A, Makuch Z, Mangano E, Porter RTJ, Pourkashanian M, Rochelle GT, Shah N, Yao JG & Fennell PS (2014) Carbon capture and storage update. Energy and Environmental Science, 7(1), 130-189.
+Sousani M, Eshiet K, Ingham D, Pourkashanian M & Sheng Y (2014) Modelling of hydraulic fracturing process by coupled discrete element and fluid dynamic methods. Environmental Earth Sciences, 72(9), 3383-3399.
+Catalanotti E, Hughes KJ, Porter RT, Price J & Pourkashanian M (2013) Evaluation of performance and cost of combustion-based power plants with CO2 capture in the United Kingdom. Environmental Progress and Sustainable Energy.
+Millward-Hopkins JT, Tomlin AS, Ma L, Ingham DB & Pourkashanian M (2013) Assessing the potential of urban wind energy in a major UK city using an analytical model. Renewable Energy, 60, 701-710.
+Ismail MS, Ingham DB, Hughes KJ, Ma L & Pourkashanian M (2013) Thermal modelling of the cathode in air-breathing PEM fuel cells. Applied Energy, 111, 529-537.
+Larsen KJ, Burns AD, Gubba SR, Ingham DB, Ma L, Pourkashanian M & Williams A (2013) Pulverised coal and biomass co-combustion: particle flow modelling in a swirl burner. JOURNAL OF THE ENERGY INSTITUTE, 86(4), 220-226.
+Almohammadi KM, Ingham DB, Ma L & Pourkashan M (2013) Computational fluid dynamics (CFD) mesh independency techniques for a straight blade vertical axis wind turbine. Energy, 58, 483-493.
+Millward-Hopkins JT, Tomlin AS, Ma L, Ingham DB & Pourkashanian M (2013) Mapping the wind resource over UK cities. Renewable Energy, 55, 202-211.
+Pickard S, Daood SS, Pourkashanian M & Nimmo W (2013) Robust extension of the coats–redfern technique: reviewing rapid and realiable reactivity analysis of complex fuels decomposing in inert and oxidizing thermogravimetric analysis atmospheres. Energy and Fuels, 27(5), 2818-2826. View this article in WRRO
+Lawal MS, Fairweather M, Ingham DB, Ma L, Pourkashanian M, Williams A & Gogolek P (2013) CFD predictions of wake-stabilised jet flames in a cross-flow. Energy.
+Ismail MS, Ingham DB, Ma L & Pourkashanian M (2013) The contact resistance between gas diffusion layers and bipolar plates as they are assembled in proton exchange membrane fuel cells. Renewable Energy, 52, 40-45.
+Álvarez L, Gharebaghi M, Jones JM, Pourkashanian M, Williams A, Riaza J, Pevida C, Pis JJ & Rubiera F (2013) CFD modeling of oxy-coal combustion: Prediction of burnout, volatile and NO precursors release. Applied Energy, 104, 653-665.
+Wilson JM, Baeza-Romero MT, Jones JM, Pourkashanian M, Williams A, Lea-Langton AR, Ross AB & Bartle KD (2013) Soot formation from the combustion of biomass pyrolysis products and a hydrocarbon fuel, n-decane: An aerosol time of flight mass spectrometer (ATOFMS) study. Energy and Fuels, 27(3), 1668-1678.
+Huang W, Wang Z-G, Ingham DB, Ma L & Pourkashanian M (2013) Design exploration for a single expansion ramp nozzle (SERN) using data mining. Acta Astronautica, 83, 10-17.
+Garba MU, Ingham DB, Ma L, Degereji MU, Pourkashanian M & Williams A (2013) Modelling of deposit formation and sintering for the co-combustion of coal with biomass. Fuel.
+Degereji MU, Gubba SR, Ingham DB, Ma L, Pourkashanian M, Williams A & Williamson J (2013) Predicting the slagging potential of co-fired coal with sewage sludge and wood biomass. Fuel.
+Alhazmi N, Ismail MS, Ingham DB, Hughes KJ, Ma L & Pourkashanian M (2013) The in-plane thermal conductivity and the contact resistance of the components of the membrane electrode assembly in proton exchange membrane fuel cells. Journal of Power Sources, 241, 136-145.
+Edge PJ, Heggs PJ, Pourkashanian M & Stephenson PL (2013) Integrated fluid dynamics-process modelling of a coal-fired power plant with carbon capture. Applied Thermal Engineering, 60(1-2), 242-250.
+Black S, Szuhánszki J, Pranzitelli A, Ma L, Stanger PJ, Ingham DB & Pourkashanian M (2013) Effects of firing coal and biomass under oxy-fuel conditions in a power plant boiler using CFD modelling. Fuel, 113, 780-786.
+Szuhánszki J, Black S, Pranzitelli A, Ma L, Stanger PJ, Ingham DB & Pourkashanian M (2013) Evaluation of the Performance of a Power Plant Boiler Firing Coal, Biomass and a Blend Under Oxy-fuel Conditions as a CO2 Capture Technique. Energy Procedia, 37, 1413 - 1422-1413 - 1422-1413 - 1422-1413 - 1422.
+Pickard S, Daood SS, Nimmo W, Lord R & Pourkashanian M (2013) Bio-CCS: Co-firing of established greenfield and novel, brownfield biomass resources under air, oxygen-enriched air and oxy-fuel conditions. Energy Procedia, 37, 6062-6069.
+Hassan G, Pourkashanian M, Ingham D, Ma L, Newman P & Odedra A (2013) Predictions of CO and NOx emissions from steam cracking furnaces using GRI2.11 detailed reaction mechanism - A CFD investigation. Computers and Chemical Engineering, 58, 68-83.
+Lawal MS, Fairweather M, Gogolek P, Gubba SR, Ingham DB, Ma L, Pourkashanian M & Williams A (2013) Large eddy simulations of wake-stabilised flares. Fuel Processing Technology, 112, 35-47.
+Ismail MS, Hughes KJ, Ingham DB, Ma L & Pourkashanian M (2012) Effect of PTFE loading of gas diffusion layers on the performance of proton exchange membrane fuel cells running at high-efficiency operating conditions. International Journal of Energy Research.
+Alhazmi N, Ingham DB, Ismail MS, Hughes KJ, Ma L & Pourkashanian M (2012) Effect of the anisotropic thermal conductivity of GDL on the performance of PEM fuel cells. International Journal of Hydrogen Energy.
+Millward-Hopkins JT, Tomlin AS, Ma L, Ingham DB & Pourkashanian M (2012) Aerodynamic Parameters of a UK City Derived from Morphological Data. Boundary-Layer Meteorology, 1-22.
+Gubba SR, Ingham DB, Larsen KJ, Ma L, Pourkashanian M, Tan HZ, Williams A & Zhou H (2012) Numerical modelling of the co-firing of pulverised coal and straw in a 300 MWe tangentially fired boiler. Fuel Processing Technology, 104, 181-188.
+Degereji MU, Ingham DB, Ma L, Pourkashanian M & Williams A (2012) Numerical assessment of coals/blends slagging potential in pulverized coal boilers. Fuel, 102, 345-353.
+Edge PJ, Heggs PJ, Pourkashanian M, Stephenson PL & Williams A (2012) A reduced order full plant model for oxyfuel combustion. Fuel, 101, 234-243.
+Gubba SR, Ingham DB, Larsen KJ, Ma L, Pourkashanian M, Qian X, Williams A & Yan Y (2012) Investigations of the transportation characteristics of biomass fuel particles in a horizontal pipeline through CFD modelling and experimental measurement. Biomass and Bioenergy, 46, 492-510.
+Almohammadi K, Ingham D, Ma L & Pourkashanian M (2012) CFD sensitivity analysis of a straight-blade vertical axis wind turbine. Wind Engineering, 36(5), 571-588.
+Lobo P, Rye L, Williams PI, Christie S, Uryga-Bugajska I, Wilson CW, Hagen DE, Whitefield PD, Blakey S, Coe H, Raper D & Pourkashanian M (2012) Impact of alternative fuels on emissions characteristics of a gas turbine engine - part 1: gaseous and particulate matter emissions.. Environ Sci Technol, 46(19), 10805-10811.
+Huang W, Pourkashanian M, Ma L, Ingham DB, Luo S-B & Wang Z-G (2012) Effect of geometric parameters on the drag of the cavity flameholder based on the variance analysis method. Aerospace Science and Technology, 21(1), 24-30.
+Wang S, Ingham DB, Ma L, Pourkashanian M & Tao Z (2012) Turbulence modeling of deep dynamic stall at relatively low Reynolds number. Journal of Fluids and Structures, 33, 191-209.
+Huang W, Ma L, Pourkashanian M, Ingham DB, Luo S-B, Liu J & Wang Z-G (2012) Flow-Field Analysis of a Typical Hydrogen-Fueled Dual-Mode Scramjet Combustor. JOURNAL OF AEROSPACE ENGINEERING, 25(3), 336-346.
+Ismail MS, Hughes KJ, Ingham DB, Ma L & Pourkashanian M (2012) Effects of anisotropic permeability and electrical conductivity of gas diffusion layers on the performance of proton exchange membrane fuel cells. Applied Energy, 95, 50-63.
+Williams A, Jones JM, Ma L & Pourkashanian M (2012) Pollutants from the combustion of solid biomass fuels. Progress in Energy and Combustion Science, 38(2), 113-137.
+Millward-Hopkins JT, Tomlin AS, Ma L, Ingham D & Pourkashanian M (2012) The predictability of above roof wind resource in the urban roughness sublayer. Wind Energy, 15(2), 225-243.
+Huang W, Ma L, Pourkashanian M, Ingham DB, Luo S-B & Wang Z-G (2012) Parametric effects in a scramjet engine on the interaction between the air stream and the injection. Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, 226(3), 294-309.
+Pourkashanian A, Sachdeva R, McD Johnston A & Tunnicliffe W (2012) Aerolised salbutamol in acute lung injury. Journal of the Intensive Care Society, 13(1), 75-76.
+Alvarez L, Gharebaghi M, Jones JM, Pourkashanian M, Williams A, Riaza J, Pevida C, Pis JJ & Rubiera F (2012) Numerical investigation of NO emissions from an entrained flow reactor under oxy-coal conditions. FUEL PROCESSING TECHNOLOGY, 93(1), 53-64.
+Edge PJ, Heggs PJ, Pourkashanian M & Stephenson PL (2012) Integrated fluid dynamics-process modelling of a coal-fired power plant with carbon capture. Applied Thermal Engineering.
+Shafagh I, Hughes KJ, Catalanotti E, Liu Z, Pourkashanian M & Wilson CW (2012) Experimental and modeling studies of the oxidation of surrogate bio-aviation fuels. Journal of Engineering for Gas Turbines and Power, 134(4).
+Ismail MS, Hassanpour A, Ingham DB, Ma L & Pourkashanian M (2012) On the compressibility of gas diffusion layers in proton exchange membrane fuel cells. Fuel Cells, 12(3), 391-397.
+Idowu Oguntade H, E Andrews G, Burns AD, B Ingham D & Pourkashanian M (2012) Improved Trench Film Cooling With Shaped Trench Outlets. Journal of Turbomachinery, 135(2).
+Gharebaghi M, Irons RM, Pourkashanian M & Williams A (2011) An investigation into a carbon burnout kinetic model for oxy-coal combustion. FUEL PROCESSING TECHNOLOGY, 92(12), 2455-2464.
+Millward-Hopkins JT, Tomlin AS, Ma L, Ingham D & Pourkashanian M (2011) Estimating Aerodynamic Parameters of Urban-Like Surfaces with Heterogeneous Building Heights. BOUNDARY-LAYER METEOROLOGY, 141(3), 443-465.
+Gubba SR, Ma L, Pourkashanian M & Williams A (2011) Influence of particle shape and internal thermal gradients of biomass particles on pulverised coal/biomass co-fired flames. FUEL PROCESS TECHNOL, 92(11), 2185-2195.
+Edge P, Gharebaghi M, Irons R, Porter R, Porter RTJ, Pourkashanian M, Smith D, Stephenson P & Williams A (2011) Combustion modelling opportunities and challenges for oxy-coal carbon capture technology. CHEM ENG RES DES, 89(9A), 1470-1493.
+Alvarez L, Gharebaghi M, Pourkashanian M, Williams A, Riaza J, Pevida C, Pis JJ & Rubiera F (2011) CFD modelling of oxy-coal combustion in an entrained flow reactor. FUEL PROCESS TECHNOL, 92(8), 1489-1497.
+Huang W, Ma L, Wang Z-G, Pourkashanian M, Ingham DB, Luo S-B & Lei J (2011) A parametric study on the aerodynamic characteristics of a hypersonic waverider vehicle. Acta Astronautica, 69(3-4), 135-140.
+Wilson CW, Pourkashanian MC, Uryga-Bugajska I, Borman D & Catalanotti E (2011) Theoretical investigation of the performance of alternative aviation fuels in an aero-engine combustion chamber. Proceedings of the Institution of Mechanical Engineers, Part G, Journal of Aerospace Engineering, 225(8), 874-885. View this article in WRRO
+Gharebaghi M, Irons RMA, Ma L, Pourkashanian M & Pranzitelli A (2011) Large eddy simulation of oxy-coal combustion in an industrial combustion test facility. INT J GREENH GAS CON, 5, S100-S110.
+Edge PJ, Heggs PJ, Pourkashanian M & Williams A (2011) A CFD-process model of steam generation in a power plant by a thermosyphon system. Computer Aided Chemical Engineering, 29, 1869-1873.
+Rasid RA, Heggs PJ, Hughes KJ & Pourkashanian M (2011) Process Modelling of Entrained Flow Gasification. Computer Aided Chemical Engineering, 29, 1763-1767.
+Liu HY, Tan HZ, Liu Y, Liu ZN, Ma L, Pourkashanian M & Xu TM (2011) Study of the Layered Structure of Deposit in a Biomass-Fired Boiler (Case Study). ENERG FUEL, 25(6), 2593-2600.
+Huang W, Wang ZG, Pourkashanian M, Ma L, Ingham DB, Luo SB, Lei J & Liu J (2011) Numerical investigation on the shock wave transition in a three-dimensional scramjet isolator. ACTA ASTRONAUT, 68(11-12), 1669-1675.
+Shafagh I, Hughes KJ, Catalanotti E, Liu Z, Pourkashanian M & Wilson CW (2011) Experimental and modelling studies of the oxidation of surrogate bioaviation fuels. Proceedings of the ASME Turbo Expo, 1, 613-626.
+Jones JM, Ma L, Pourkashanian M & Williams A (2011) Computational fluid dynamic modelling of combustion of milled torrefied wood. J ENERGY INST, 84(2), 102-104.
+Gharebaghi M, Irons RMA, Jones JM, Pourkashanian M & Williams A (2011) Study of effect of oxycoal combustion conditions on fly ash characteristics. J ENERGY INST, 84(3), 155-164.
+Bartle KD, Fitzpatrick EM, Jones JM, Kubacki ML, Plant R, Pourkashanian M, Ross AB & Williams A (2011) The combustion of droplets of liquid fuels and biomass particles. Fuel, 90(3), 1113-1119.
+Swithenbank M (2011) Wood would burn. Biomass and Bioenergy, 35, 999-1007-999-1007.
+Hughes KJ, Ma L, Porter RTJ & Pourkashanian M (2011) Mercury Transformation Modelling with Bromine Addition in Coal Derived Flue Gases. Computer Aided Chemical Engineering, 29, 171-175.
+Gharebaghi M, Hughes KJ, Porter RTJ, Pourkashanian M & Williams A (2011) Mercury speciation in air-coal and oxy-coal combustion: A modelling approach. P COMBUST INST, 33, 1779-1786.
+Wang X, Tan H, Niu Y, Pourkashanian M, Ma L, Chen E, Liu Y, Liu Z & Xu T (2011) Experimental investigation on biomass co-firing in a 300MW pulverized coal-fired utility furnace in China. Proceedings of the Combustion Institute, 33(2), 2725-2733.
+Edge PJ, Heggs PJ, Pourkashanian M & Williams A (2011) An integrated computational fluid dynamics-process model of natural circulation steam generation in a coal-fired power plant. COMPUTERS & CHEMICAL ENGINEERING, 35(12), 2618-2631.
+Huang W, Pourkashanian M, Ma L, Ingham DB, Bin Luo S & Wang ZG (2011) Investigation on the flameholding mechanisms in supersonic flows: backward-facing step and cavity flameholder. J VISUAL-JAPAN, 14(1), 63-74.
+Shafagh I, Hughes KJ, Catalanotti E, Liu Z, Pourkashanian M, Wilson CW & ASME (2011) EXPERIMENTAL AND MODELLING STUDIES OF THE OXIDATION OF SURROGATE BIO-AVIATION FUELS. PROCEEDINGS OF THE ASME TURBO EXPO 2011, VOL 1, 613-626.
+Ismail MS, Borman D, Hughes KJ, Ingham DB, Ma L & Pourkashanian M (2011) On the through-plane permeability of microporous layer-coated gas diffusion layers used in proton exchange membrane fuel cells. International Journal of Hydrogen Energy, 36(16).
+Tan H, Wang X, Miao Y, Liu H, Pourkashanian M, Ma L & Xu T (2011) Decision making on most economical coal for coal-fired power plants under fluctuating coal prices. International Journal of Coal Preparation and Utilization, 31(5), 273-288.
+Shafagh I, Hughes KJ & Pourkashanian M (2011) Application of Ab Initio Quantum Mechanical Calculations to Investigate Oxidation of C-7 and C-14 Methyl Esters: An Alternative Fuel. J ENERG RESOUR-ASME, 133(1).
+Shafagh I, Hughes KJ & Pourkashanian M (2011) Modified enthalpies of formation for hydrocarbons from DFT and ab initio thermal energies. COMPUT THEOR CHEM, 964(1-3), 100-107.
+Millward-Hopkins JT, Tomlin AS, Ma L, Ingham D & Pourkashanian M (2011) Erratum to: Estimating Aerodynamic Parameters of Urban-Like Surfaces with Heterogeneous Building Heights (Boundary-Layer Meteorol, 10.1007/s10546-011-9640-2). Boundary-Layer Meteorology, 141(3), 467-467.
+Wilson CW, hughes K, Pourkashanian M & Catalanotti E (2011) Development of a chemical reaction mechanism for alternative aviation fuels. Energy & Fuels.
+Edge P, Gubba SR, Ma L, Porter R, Pourkashanian M & Williams A (2010) LES modelling of air and oxy-fuel pulverised coal combustion-Impact on flame properties. Proceedings of the Combustion Institute, 33(2), 2709-2716.
+Niu Y, Tan H, Ma L, Pourkashanian M, Liu Z, Liu Y, Wang X, Liu H & Xu T (2010) Erratum: Slagging characteristics on the superheaters of a 12 MW biomass-fired boiler (Energy Fuels (2010) 24:9 (5222-5227)). Energy and Fuels, 24(11), 6220-6220.
+Wang S, Ingham DB, Ma L & Pourkashanian M (2010) Numerical Investigation on Dynamic Stall of Low Reynolds Number Flow around Oscillating Airfoils. Computers and Fluids, 39(9), 1529-1541.
+Ismail MS, Damjanovic T, Hughes K, Ingham DB, Ma L, Pourkashanian M & Rosli M (2010) Through-Plane Permeability for Untreated and PTFE-Treated Gas Diffusion Layers in Proton Exchange Membrane Fuel Cells. J FUEL CELL SCI TECH, 7(5).
+Ismail MS, Damjanovic T, Ingham DB, Ma L & Pourkashanian M (2010) Effect of polytetrafluoroethylene-treatment and microporous layer-coating on the in-plane permeability of gas diffusion layers used in proton exchange membrane fuel cells. J POWER SOURCES, 195(19), 6619-6628.
+Lawal MS, Fairweather M, Ingham DB, Ma L, Pourkashanian M & Williams A (2010) Numerical Study of Emission Characteristics of a Jet Flame in Cross-Flow. COMBUST SCI TECHNOL, 182(10), 1491-1510.
+Wang XB, Si JP, Tan HZ, Ma L, Pourkashanian M & Xu TM (2010) Nitrogen, Sulfur, and Chlorine Transformations during the Pyrolysis of Straw. ENERG FUEL, 24, 5215-5221.
+Niu YQ, Tan HZ, Ma L, Pourkashanian M, Liu ZN, Liu Y, Wang XB, Liu HY & Xu TM (2010) Slagging Characteristics on the Superheaters of a 12 MW Biomass-Fired Boiler. ENERG FUEL, 24, 5222-5227.
+Jones JM, Pourkashanian M, Waldron DJ & Williams A (2010) Prediction of NOx and unburned carbon in ash in highly staged pulverised coal furnace using overfire air. J ENERGY INST, 83(3), 144-150.
+Porter R, Liu F, Pourkashanian M, Williams A & Smith D (2010) Evaluation of solution methods for radiative heat transfer in gaseous oxy-fuel combustion environments. J QUANT SPECTROSC RA, 111(14), 2084-2094.
+Rosli MI, Borman DJ, Ingham DB, Ismail MS, Ma L & Pourkashanian M (2010) Transparent PEM Fuel Cells for Direct Visualization Experiments. Journal of Fuel Cell Science and Technology, 7(6), 061015-061015.
+Ismail MS, Damjanovic T, Ingham DB, Pourkashanian M & Westwood A (2010) Effect of polytetrafluoroethylene-treatment and microporous layer-coating on the electrical conductivity of gas diffusion layers used in proton exchange membrane fuel cells. J POWER SOURCES, 195(9), 2700-2708.
+Vural Y, Akay D, Pourkashanian M & Ingham DB (2010) Modeling of an Intermediate Temperature Solid Oxide Fuel Cell Using the Adaptive Neuro-Fuzzy Inference System (ANFIS). J FUEL CELL SCI TECH, 7(3).
+Vural Y, Ma L, Ingham DB & Pourkashanian M (2010) Comparison of the multicomponent mass transfer models for the prediction of the concentration overpotential for solid oxide fuel cell anodes. J POWER SOURCES, 195(15), 4893-4904.
+Thomas MLR, Ingham DB & Pourkashanian M (2010) Prediction of the permeability of fibrous porous media using the lattice boltzmann method in conjuction with coarse numerical lattices. Open Transport Phenomena Journal, 2(1), 80-89.
+Ma L, Gharebaghi M, Porter R, Pourkashanian M, Jones JM & Williams A (2009) Modelling methods for co-fired pulverised fuel furnaces. FUEL, 88(12), 2448-2454.
+Fitzpatrick EM, Bartle KD, Kubacki ML, Jones JM, Pourkashanian M, Ross AB, Williams A & Kubica K (2009) The mechanism of the formation of soot and other pollutants during the co-firing of coal and pine wood in a fixed bed combustor. FUEL, 88(12), 2409-2417.
+Vural Y, Ingham DB & Pourkashanian M (2009) Performance prediction of a proton exchange membrane fuel cell using the ANFIS model. INT J HYDROGEN ENERG, 34(22), 9181-9187.
+Peronski L, Bratley R, Ingham DB, Ma L, Pourkashanian M & Taylor S (2009) Fluid flow analysis and design of a flow distributor in a domestic gas boiler using a commercial CFD software. World Academy of Science, Engineering and Technology, 40, 247-255.
+Fitzpatrick EM, Jones JA, Pourkashanian M, Ross AB, Williams A & Bartle KD (2008) Mechanistic Aspects of Soot Formation from the Combustion of Pine Wood. ENERG FUEL, 22(6), 3771-3778.
+Ellul C, Pourkashanian M, Williams A & Rabea KAM (2008) Effects of fuel composition in high temperature air combustion. Journal of the Energy Institute, 81(3), 143-148.
+Yang A (2008) Combustion of a single particle of biomass. Energy and Fuels, 22(1), 306-316.
+Jones JM, Fitzpatrick EM, Andrews GE, Phylaktou HN, Pourkashanian M, Ross A & Williams A (2007) Emission of oxygenated species from the combustion of pine wood and its relation to soot formation.. Transactions of IChemE, Part B, 85(B5), 430-440.
+Ma L, Jones JM, Pourkashanian M & Williams A (2007) Modelling the combustion of pulverized biomass in an industrial combustion test furnace. FUEL, 86(12-13), 1959-1965.
+Carcadea E, Ene H, Ingham DB, Lazar R, Ma L, Pourkashanian M & Stefanescu I (2007) A computational fluid dynamics analysis of a PEM fuel cell system for power generation. INTERNATIONAL JOURNAL OF NUMERICAL METHODS FOR HEAT & FLUID FLOW, 17(3), 302-312.
+Jones JM, Darvell LI, Bridgeman TG, Pourkashanian M & Williams A (2007) An investigation of the thermal and catalytic behaviour of potassium in biomass combustion. P COMBUST INST, 31, 1955-1963.
+Hughes KJ, Pourkashanian M & Wilson CW (2007) OH concentration measurements in a jet engine exhaust. Clean Air, 8(4), 305-320.
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2007) Optimization of a surrogate reduced aviation fuel-air reaction mechanism using a genetic algorithm. Clean Air, 8(1), 1-24.
+Rangel LP, Fletcher LM, Pourkashanian M & Williams A (2006) Fundamental studies of a partial premixed counter-flow combustion system and its effect on NOx emissions. Combustion Science and Technology, 178, 1457-1476.
+Bosoaga A, Panoiu N, Mihaescu L, Backreedy RI, Ma L, Pourkashanian M & Williams A (2006) The combustion of pulverised low grade lignite. FUEL, 85(10-11), 1591-1598.
+Backreedy RI, Jones JM, Pourkashanian M, Waldron DJ & Williams A (2006) Application of coal combustion model to pulverised fuel furnaces. Journal of the Energy Institute, 79(2), 101-109.
+Backreedy RI, Fletcher LM, Ma L, Pourkashanian M & Williams A (2006) Modelling pulverised coal combustion using a detailed coal combustion model. COMBUST SCI TECHNOL, 178(4), 763-787.
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2006) A novel approach to mechanism reduction optimization for an aviation fuel/air reaction mechanism using a genetic algorithm. J ENG GAS TURB POWER, 128(2), 255-263.
+Kyne AG, Mera NS, Elliott L, Ingham DB, Pourkashanian M & Whittaker S (2006) Reaction mechanism reduction and optimisation for modelling aviation fuel oxidation using standard and hybrid genetic algorithms. Computers & Chemical Engineering, 30(5), 889-900.
+Pourkashanian M, Jones JM, Williams A, Backreedy RI & Waldron DJ (2006) Application of coal combustion model to pulverised fuel furnaces. Journal of the Energy Institute, 79(2), 1-9.
+Backreedy RI, Fletcher LM, Jones JM, Ma L, Pourkashanian M, Williams A, Johnson K, Waldron DJ & Stephenson P (2006) Carbon burnout of pulverized coal in power station furnaces. Clean Air, 7(4), 327-341.
+Rangel LP, Fletcher LM, Pourkashanian M & Williams A (2006) Experimental investigations of counterflow double flames applicable to an industrial natural gas-fired burner. Clean Air, 7(3), 187-201.
+Carcadea E, Ene H, Ingham DB, Lazar R, Ma L, Pourkashanian M & Stefanescu I (2005) Numerical simulation of mass and charge transfer for a PEM fuel cell. INT COMMUN HEAT MASS, 32(10), 1273-1280.
+Ma L, Ingham DB, Pourkashanian M & Carcadea E (2005) Review of the Computational Fluid Dynamics modeling of fuel cells. Journal of Fuel Cell Science and Technology, 2, 246-257.
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2005) Reaction mechanism reduction and optimization using genetic algorithms. IND ENG CHEM RES, 44(4), 658-667.
+Backreedy RI, Fletcher LM, Jones JM, Ma L, Pourkashanian M & Williams A (2005) Co-firing pulverised coal and biomass: a modeling approach. Proceedings of the Combustion Institute, 30(2), 2955-2964.
+Ma L, Ingham DB & Pourkashanian M (2005) A Review of the Computational Fluid Dynamics Modelling of Fuel Cells. Journal of Fuel Cell Science and Technology(4).
+Jones JM, Pourkashanian M, Williams A, Backreedy RI, Darvell LI, Simell P, Heiskanen K & Kilpinen P (2005) The selective oxidation of ammonia over alumina supported catalysts-experiments and modelling. APPL CATAL B-ENVIRON, 60(1-2), 139-146.
+Ingham DB, Pourkashanian M, Mera NS, Kyne AG, Wade AS & Whittaker S (2005) Genetic-algorithm optimization of a chemistry mechanism for oxidation of liquid hydrocarbons. AIAA Journal, 43(10).
+Backreedy RI, Jones JM, Ma L, Pourkashanian M, Williams A, Arenillas A, Arias B, Pis JJ & Rubiera F (2005) Prediction of unburned carbon and NOx in a tangentially fired power station using single coals and blends. FUEL, 84(17), 2196-2203.
+Pourkashanian M, Mera NS, Ingham DB, Elliott L, Kyne AG & Wilson CW (2005) The use of ignition delay time in genetic algorithms optimisation of chemical kinetics reaction mechanisms.. Engineering Applications of Artificial Intelligence, 18, 825-831.
+Jones JM, Pourkashanian M, Williams A, Rowlands L, Zhu Q & Thomas KM (2004) Conversion of char nitrogen to NO during combustion. Journal of the Institute of Energy, 77(513), 82-89.
+Wade AS, Kyne AG, Mera NS, Pourkashanian M, Ingham DB & Whittaker S (2004) Optimization of the Arrhenius parameters in a pseudo-detailed mechanism for jet fuel thermal oxidation using genetic and simplex algorithms. Energy & Fuels, 18(6), 1896-1908.
+Rangel LP, Buchler PM, Fletcher LM, Pourkashanian M, Williams A & Wills BJ (2004) Studying NOx emissions with a central air-staged burner for the process industry. J ENERGY INST, 77(510), 2-6.
+Shah AA, Brindley J, Griffiths JF, McIntosh AC & Pourkashanian M (2004) The ignition of low exothermicity solids by local heating. Process Safety and Environmental Protection: Transactions of the Institution of Chemical Engineers. Part B, 82(B2), 156-169.
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2004) Genetic algorithms for optimisation of chemical kinetics reaction mechanisms. Progress in Energy and Combustion Science, 30(3), 297-328.
+Fletcher LM, Pourkashanian M, Williams A, Iatridis DK, Lappas A, Katsanevakis A & Monachos O (2004) Optimising ceramic kiln operation utilising industrial gas turbine exhaust. Clean Air: International Journal on Environmental Combustion Technologies, 5(3).
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2004) A novel approach to the optimization of reaction rate parameters for methane combustion using multi-objective genetic algorithms. J ENG GAS TURB POWER, 126(3), 455-464.
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2004) An informed operator based genetic algorithm for tuning the reaction rate parameters of chemical kinetics mechanisms. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 3103, 945-956.
+Pourkashanian M, Williams A, Jones JM, Hedley JT, Darvell LI & Backreedy RI (2003) The non-catalytic destruction of ammonia in coal and biomass gasification gases. J I ENERGY, 76(508), 64-71.
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2003) Incorporation of physical bounds on rate parameters for reaction mechanism optimization using genetic algorithms. COMBUST SCI TECHNOL, 175(4), 619-648.
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2003) Multiobjective genetic algorithm optimization for calculating the reaction rate coefficients for hydrogen combustion. IND ENG CHEM RES, 42(6), 1215-1224.
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2003) Optimisation of reaction mechanisms for aviation fuels using a multi-objective genetic algorithm. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2724, 2046-2057.
+Williams A, Jones JM & Pourkashanian M (2003) Power for the people. Ingenia(17), 36-41.
+Jones JM, Nawaz M, Pourkashanian M & Williams A (2003) Influence of alkali metals on the pyrolysis and combustion of biomass. Bioenergy Review, 1(1), 37-41.
+Pourkashanian M, Ingham DB, Elliott L, Mera NS, Kyne AG & Wilson CW (2003) Incorporation of physical bounds on rate parameters for reaction mechanism optimisation using genetic algorithms.. Combustion Science and Technology, 175(4), 619-648.
+Backreedy RI, Jones JM, Pourkashanian M & Williams A (2003) Burn-out of coal and biomass char. Fuel, 82, 2097-2105.
+Shah A, Mcintosh A, Brindley J, Griffiths J & Pourkashanian M (2003) The effect of oxygen starvation on ignition phenomena in a reactive solid containing a hot-spot. COMBUST THEOR MODEL, 7(3), 509-523.
+Williams A, Pourkashanian M, Bonturi S, Wilson CW & Oskam G (2002) NOx formation in counter-flow opposed-jet diffusion CH4/Air flames. Clean Air: International Journal on Environmental Combustion Technologies, pp.101-pp.101.
+Fletcher LM, Pourkashanian M, Spence G, Williams A, Connors J, Satchell D & Yap L (2002) Ceramic Kilns Fired by Industrial Gas Turbine Exhaust Gases. Clean Air: International Journal on Environmental Combustion Technologies, 3, 99-112.
+Williams A, Pourkashanian M & Jones JM (2002) Modelling the combustion of coal and biomass. Clean Air, 3, 211-232.
+Williams A, Pourkashanian M, Jones JM & Chaiklangmuang S (2001) Conversion of volatile-nitrogen and char-nitrogen to NO during combustion.. ABSTR PAP AM CHEM S, 221, U500-U500.
+Kyne A, Patterson PM, Pourkashanian M, Williams A & Wilson CW (2001) Combustion of Kerosene in Counter-Flow Diffusion flames. Journal of Propulsion and Power, 17, 453-460.
+Williams A, Pourkashanian M & Jones JM (2001) Combustion of pulverised coal and biomass. PROG ENERG COMBUST, 27(6), 587-610.
+Backreedy R, Jones JM, Pourkashanian M & Williams A (2001) A study of the reaction of oxygen with graphite: Model chemistry. FARADAY DISCUSSIONS, 119, 385-394.
+Hughes KJ, Tomlin AS, Dupont VA & Pourkashanian M (2001) Experimental and modelling study of sulfur and nitrogen doped premixed methane flames at low pressure.. Faraday Discuss(119), 337-352.
+Williams A, Jones JM, Pourkashanian M, Chagger HK & Rowlands L (2001) Emission of volatile organic compounds and chlorinated species from coal-fired combustion equipment. Clean Air: International Journal on Environmental Combustion Technologies(2), 31-45.
+Chaiklangmuang S, Jones JM, Pourkashanian M & Williams A (2001) Conversion of volatile-nitrogen and char-nitrogen to NO during combustion. ACS Division of Fuel Chemistry, Preprints, 46(1), 174-176.
+Fletcher LM, Pourkashanian M, Spence G, Williams A, Connors J, Satchell D & Yap L (2001) Development of a staged oxy-fuel flat-jet burner. Clean Air: International Journal on Environmental Combustion Technologies, 3, 99-112.
+Wilson CW, Pourkashanian M, Ingham DB, Elliott L & Harris SD (2000) The optimisation of reaction rate parameters for chemical kinetic modelling of combustion using genetic algorithms. Computer Methods in Applied Mechanics and Engineering, 190(8-10).
+Williams A, Ross AB, Chaiklangmuang S, Jones JM & Pourkashanian M (2000) Superequilibrium concentrations of carbon monoxide and hydrocarbons in flue gases and their relationship with VOC and metals emissions.. ABSTR PAP AM CHEM S, 219, U671-U671.
+Williams A, Pourkashanian M & Jones JM (2000) The combustion of coal and some other solid fuels. Proceedings of the Combustion Institute, 28(2), 2141-2162.
+Chagger HK, Jones JM, Pourkashanian M & Williams A (2000) The formation of VOC, PAH and dioxins during incineration. PROCESS SAF ENVIRON, 78(B1), 53-59.
+Chagger HK, Jones JM, Pourkashanian M & Williams A (2000) The Formation of VOC, PAH and Dioxins During Incineration. Process Safety and Environmental Protection, 78(1), 53-59.
+Harris SD, Elliott L, Ingham DB, Pourkashanian M & Wilson CW (2000) The optimisation of reaction rate parameters for chemical kinetic modelling of combustion using genetic algorithms. COMPUT METHOD APPL M, 190(8-10), 1065-1090.
+Elliott L, Harris SD, Ingham DB, Pourkashanian M & Wilson CW (2000) The optimisation of reaction rate parameters chemical combustion using genetic algorithms. Computer Methods in Applied Mechanics and Engineering(190), 1065-1090.
+Williams A, Ross A, Chaiklangmuang S, Jones JM & Pourkashanian M (2000) Super-equilibrium concentrations of carbon monoxide and hydrocarbon in fuel gases and their relationaship with VOC and metals emissions. ACS Division of Fuel Chemistry, Preprints, 45(1), 11-14.
+Williams A, Jones JM, Pourkashanian M & Hainsworth D (2000) A Comprehensive biomass combustion model. Renewable Energy Journal, 19, 229-234.
+Jones JM, Pourkashanian M & Williams A (2000) Biomass combustion modelling. International Journal of Ambient Energy, 21, 115-123.
+Dacombe P, Pourkashanian M, Williams A & Yap L (1999) Combustion-induced fragmentation behavior of isolated coal particles. FUEL, 78(15), 1847-1857.
+Williams A, Pourkashanian M, Jones JM, Backreedy RI & Habib R (1999) An extended coal combustion model. Fuel, 78, 1745-1754.
+Chagger HK, Jones JM, Pourkashanian M, Williams A, Owen A & Fynes G (1999) Emission of volatile organic compounds from coal combustion. FUEL, 78(13), 1527-1538.
+Chan ML, Jones JM, Pourkashanian M & Williams A (1999) The oxidative reactivity of coal chars in relation to their structure. Fuel, 78, 1539-1552.
+Jones JM, Patterson PM, Pourkashanian M, Williams A, Arenillas A, Rubiera F & Pis JJ (1999) Modelling NOx formation in coal particle combustion at high temperature: an investigation of the devolatilisation kinetic factors. FUEL, 78(10), 1171-1179.
+Moallemi F, Batley G, Dupont V, Foster TJ, Pourkashanian M & Williams A (1999) Chemical modelling and measurements of the catalytic combustion of CF4/air mixtures on platinum and palladium catalysts. CATAL TODAY, 47(1-4), 235-244.
+Jones JM, Patterson PM, Pourkashanian M & Williams A (1999) Approaches to modelling heterogeneous char NO formation/destruction during PF combustion. Carbon, 37, pp.1545-pp.1545.
+Williams A, Jones JM, Pourkashanian M, Patterson PM, Arenillas A, Rubiera F & Pis JJ (1999) Modelling NOx formation in coal particle combustion at high temperature: an investigation of devolatilisation kinetic factors. Fuel, 78, 1171-1180.
+Backreedy RI, Habib R, Jones JM, Pourkashanian M & Williams A (1999) Extended coal combustion model. Fuel, 78(14), 1745-1754.
+Jones JM, Patterson PM, Pourkashanian M & Williams A (1999) Approaches to modelling heterogeneous char NO formation/destruction during pulverised coal combustion. CARBON, 37(10), 1545-1552.
+ANDREWS G, ESCOTT N, KIM M & POURKASHANIAN M (1999) TS-64 CFD Predictions of Low NO_x Lean Gas Turbine Radial Swirler Primary Zones(Session C-5 Combustor CFD). The International Gas Turbine Congress : book of abstracts, 1999(2), 733-740.
+ANDREWS G, ESCOTT N, KIM M & POURKASHANIAN M (1999) TS-74 Flame Structure of Very Lean Low NO_x Radial Swirl Stabilised High Intensity Combustion(Session C-8 NO_x Reduction 3). The International Gas Turbine Congress : book of abstracts, 1999(2), 807-814.
+Jones JM, Pourkashanian M, Rena CD & Williams A (1999) Modelling the relationship of coal structure to char porosity. FUEL, 78(14), 1737-1744.
+Chagger HK, Kendall A, McDonald A, Pourkashanian M & Williams A (1998) Formation of dioxins and other semi-volatile organic compounds in biomass combustion. APPL ENERG, 60(2), 101-114.
+Yap LT, Pourkashanian M, Howard L, Williams A & Yetter RA (1998) Nitric-oxide emissions scaling of buoyancy-dominated oxygen-enriched and preheated methane turbulent-jet diffusion flames. Symposium (International) on Combustion, 27(1), 1451-1460.
+Norman J, Pourkashanian M & Williams A (1997) Modelling the formation and emission of environmentally unfriendly coal species in some gasification processes. Fuel, 76(13), 1201-1216.
+Chagger HK, Jones JM, Pourkashanian M & Williams A (1997) The nature of hydrocarbon emissions formed during the cooling of combustion products. Fuel, 76(9), 861-864.
+Pourkashanian M, Williams A & Jones JM (1997) The oxidative reactivity of coal chars and soot in relation to their structure. ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY, 213, 119-FUEL.
+Chan M-L, Jones JM, Pourkashanian M & Williams A (1997) The oxidative reactivity of coal chars in relation to their structure. ACS Division of Fuel Chemistry, Preprints, 42(1), 222-224.
+Pourkashanian M, Wilson CW, Williams A, Oskam G & Bonturi S (1997) Conversion mechanism of NO to NO2 in opposed diffusion flames. Combustion Science and Technology, 121, 217-233.
+Andrews GE, Amin EM, Pourkashanian M, Williams A & Yetter RA (1997) A computational study of the pressure effects on pollutant generation in gas turbine combustors. Journal of Engineering for Gas Turbines and Power, 119 (1), 76-83.
+Pourkashanian M, Williams A & Jones JM (1997) The oxidative reactivity of coal chars and soot in relation to their structure. ABSTR PAP AM CHEM S, 213, 119-FUEL.
+Jones JM, Pourkashanian M, Williams A & Chagger HK (1997) The nature of hydrocarbon emissions formed during the cooling of combustion products. Fuel, 76(9), 861-864.
+Williams A, Pourkashanian M, Jones JM & Rowlands L (1997) A review of NOx formation and reduction mechanisms in combustion systems, with particular reference to coal. J I ENERGY, 70(484), 102-113.
+Norman JS, Pourkashanian M & Williams A (1997) Modelling the formation and emission of environmentally unfriendly coal species in some gasification processes. Fuel, 76(13), 1201-1216.
+Chan ML, Jones JM, Pourkashanian M & Williams A (1997) The oxidative reactivity of coal chars in relation to their structure. ACS Division of Fuel Chemistry, Preprints, 42(1), 222-224.
+Williams A, Pourkashanian M, Jones JM & Rowlands L (1997) A review of NOx formation and reduction mechanisms in combustion systems, with particular reference to coal. Journal of the Institute of Energy, 70(484), 102-113.
+Dearden LM, Massingham JD, Pourkashanian M, Wild PN, Williams A & Yap LT (1996) Controlling NOx emissions from high-temperature air-preheat burners with air-staging. Journal of the Institute of Energy, 69(478), 23-30.
+Hainsworth D, Pourkashanian M, Richardson AP, Rupp JL & Williams A (1996) The influence of carbon dioxide on smoke formation and stability in methane-oxygen-carbon dioxide flames. Fuel, 75(3), 393-396.
+Huang LY, Norman JS, Pourkashanian M & Williams A (1996) Prediction of ash deposition on superheater tubes from pulverized coal combustion. FUEL, 75(3), 271-279.
+Chagger HK, Hainsworth D, Patterson PM, Pourkashanian M & Williams A (1996) The formation of SiO2 from hexamethyldisiloxane combustion in counterflow methane-air flames, 1859-1865.
+Fletcher LM, Massingham JD, Pourkashanian M, Wild PN, Williams A & Yap L (1996) The experimental and computational studies of a regenerative burner. Journal of the Institute of Energy(69), 23-31.
+Huang LY, Norman JS, Pourkashanian M & Williams A (1996) Prediction of Ash Deposition in Boilers. Fuel, 75(3), 271-279.
+Bonturi S, Pourkashanian M, Williams A, Oskam G & Wilson C (1996) NOx formation in counter-flow opposed-jet diffusion CH4/air flames. COMBUSTION SCIENCE AND TECHNOLOGY, 121(1-6), 217-233.
+Hainsworth D, Pourkashanian M, Richardson AP, Rupp JL & Williams A (1996) The influence of carbon dioxide on smoke formation and stability in methane-oxgyen-carbon dioxide flames. FUEL, 75(3), 393-396.
+Dearden LM, Massingham JD, Pourkashanian M, Wild PN, Williams A & Yap LT (1996) Controlling NOx emissions from high-temperature air-preheat burners with air-staging. J I ENERGY, 69(478), 23-30.
+BONTURI S, POURKASHANIAN M, WILLIAMS A, OSKAM G & WILSON C (1996) NO x Formation in Counter-Flow Opposed-Jet Diffusion CH 4 /Air Flames. Combustion Science and Technology, 121(1-6), 217-233.
+HEDLEY JT, POURKASHANIAN M, WILLIAMS A & YAP LT (1995) NO Formation in Large-Scale Oxy-Fuel Flames. Combustion Science and Technology, 108(4-6), 311-322.
+Amin EM, Pourkashanian M, Richardson AP, Williams A, Yap LT, Yetter RA & Moussa NA (1995) Fuel preheat as NOx abatement strategy for oxygen enriched turbulent diffusion flames. American Society of Mechanical Engineers, Environmental Control Division Publication, EC, 1, 259-269.
+FOSTER T, DUPONT V, POURKASHANIAN M & WILLIAMS A (1994) LOW-NOX DOMESTIC WATER-HEATING APPLIANCES. J I ENERGY, 67(472), 101-108.
+Al-Fawaz AD, Dearden LM, Hedley JT, Missaghi M, Pourkashanian M, Williams A & Yap LT (1994) NOx formation in geometrically scaledgas-fired industrial burners. Symposium (International) on Combustion, 25(1), 1027-1034.
+Dacombe PJ, Hampartsoumian E & Pourkashanian M (1994) Fragmentation of large coal particles in a drop-tube furnace. Fuel, 73(8), 1365-1367.
+WILLIAMS A, POURKASHANIAN M, BYSH P & NORMAN J (1994) Modelling of coal combustion in low-NOx p.f. flames☆. Fuel, 73(7), 1006-1019.
+Dupont V, Foster T, Pourkashanian M & Williams A (1994) Low NOx domestic water heating appliances. Journal of the Institute of Energy, 472, 101-108.
+DACOMBE P, HAMPARTSOUMIAN E & POURKASHANIAN M (1994) FRAGMENTATION OF LARGE COAL PARTICLES IN A DROP-TUBE FURNACE. FUEL, 73(8), 1365-1367.
+DUPONT V, POURKASHANIAN M & WILLIAMS A (1993) MODELING OF PROCESS HEATERS FIRED BY NATURAL-GAS. JOURNAL OF THE INSTITUTE OF ENERGY, 66(466), 20-28.
+HAMPARTSOUMIAN E, MURDOCH PL, POURKASHANIAN M, TRANGMAR DT & WILLIAMS A (1993) The Reactivity of Coal Chars Gasified in a Carbon Dioxide Environment. Combustion Science and Technology, 92(1-3), 105-121.
+Dupont V, Pourkashanian M, Williams A & Woolley R (1993) The reduction of NOx formation in natural gas burner flames. Fuel, 72(4), 497-503.
+Hampartsoumian E, Nimmo W, Pourkashanian M & Williams A (1993) The Prediction of Nox Emissions from Spray Combustion. Combustion Science and Technology, 93(1), 153-172.
+HAMPARTSOUMIAN E, MURDOCH P, POURKASHANIAN M, TRANGMAR D & WILLIAMS A (1993) THE REACTIVITY OF COAL CHARS GASIFIED IN A CARBON-DIOXIDE ENVIRONMENT. COMBUST SCI TECHNOL, 92(1-3), 105-121.
+Hampartsoumian E, Nimmo W, Pourkashanian M, Williams A & Missaghi M (1993) Prediction of NOx emissions from spray combustion. Combustion science and technology, 93(1-6), 153-172.
+Dupont V, Pourkashanian M & Williams A (1993) Modelling natural gas fired process heaters.. Journal of the Institute of Energy, 66, 20-28.
+DUPONT V, POURKASHANIAN M & WILLIAMS A (1993) MODELING OF PROCESS HEATERS FIRED BY NATURAL-GAS. J I ENERGY, 66(466), 20-28.
+Marcano N, Pourkashanian M & Williams A (1991) The combustion of bitumen-in-water emulsions. Fuel, 70(8), 917-923.
+MARCANO N, POURKASHANIAN M & WILLIAMS A (1991) THE COMBUSTION OF BITUMEN-IN-WATER EMULSIONS. FUEL, 70(8), 917-923.
+HAMPARTSOUMIAN E, POURKASHANIAN M, TRANGMAR DT & WILLIAMS A (1989) EFFECT OF THE POROUS STRUCTURE OF CHAR ON THE RATE OF GASIFICATION. ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY, 197, 73-FUEL.
+Hampartsoumian E, Pourkashanian M & Williams A (1989) Combustion rates of chars and carbonaceous residues. Journal of the Institute of Energy, 62(450), 48-56.
+Hampartsoumian E, Pourkashanian M & Williams A (1989) Combustion rates of chars and carbonaceous residues. Journal of the Institute of Energy, 62(450), 48-56.
+HAMPARTSOUMIAN E, POURKASHANIAN M, TRANGMAR D & WILLIAMS A (1989) EFFECT OF THE POROUS STRUCTURE OF CHAR ON THE RATE OF GASIFICATION. ABSTR PAP AM CHEM S, 197, 73-FUEL.
+Hargrave G, Pourkashanian M & Williams A (1988) The combustion and gasification of coke and coal chars. Symposium (International) on Combustion, 21(1), 221-230.
+Bairchier JC, Pourkashanian M & Williams A (1988) The combustion and atomisation of medium and coarse coal-water slurries.. IN: THIRD EUROPEAN CONFERENCE ON COAL-LIQUID MIXTURES, (MALMO, SWEDEN: OCT. 14-15, 1987), RUGBY, U.K., INST. CHEM. ENGRS.,(107 )).
+WILLIAMS A & POURKASHANIAN M (1987) THE COMBUSTION OF BITUMEN-WATER MIXTURES. J I ENERGY, 60(445), 209-211.
+Braide KM, Pourkashanian M & Williams A (1986) COMBUSTION OF SINGLE DROPLETS OF COAL-OIL MIXTURES.. Journal of the Institute of Energy, 59(438), 24-34.
+Braide KM, Pourkashanian M & Williams A (1986) COMBUSTION OF SINGLE DROPLETS OF COAL-OIL MIXTURES.. Journal of the Institute of Energy, 59(438), 24-34.
+Murdoch P, Pourkashanian M & Williams A (1985) COMBUSTION OF COAL AND COKE-WATER SLURRIES.. Institution of Chemical Engineers Symposium Series(95), 177-192.
+Pourkashanian M & Williams A (1983) COMBUSTION OF COAL-WATER SLURRIES.. Institution of Chemical Engineers Symposium Series(83), 149-169.
+Mason PE, Darvell LI, Jones JM, Pourkashanian M & Williams A () Single particle flame-combustion studies on solid biomass fuels. Fuel.
+Degereji MU, Ingham DB, Ma L, Pourkashanian M & Williams A () Prediction of ash slagging propensity in the burner region of a pf combustion furnace.
+Wilson CW, Rye L, Blakey S, Lobo P & et al () Inadequacy of Optical Smoke Measurements for Characterisation of Non-Light Absorbing Particulate Matter Emissions from Gas Turbine Engines. Combustion Science and Technology.
+diego de paz M, finney K, akram M, Bellas J & Pourkashanian M () Making gas-CCS a commercial reality: The challenges of scaling up. Greenhouse Gases: Science and Technology.
+Akram M, ali U, pourkashanian M & font palma C () Comparative Potential of Natural Gas, Coal and Biomass Fired Power Plant with Post - combustion CO2 Capture and Compression. International Journal of Greenhouse Gas Control.
+Chapters
+Ma L, Ingham DB & Pourkashanian M (2005) Application of fluid flows through porous media in fuel cells In Ingham DB & Pop I (Ed.), Transport Phenomena in Porous Media III Elsevier
+Williams A, Pourkashanian M & Jones JM (2002) The combustion of pulverised coal and reduction of the environmental impact In Reis A, Ward J & Leukel W (Ed.), Proceedings of the 6th European Conference on Industrial Furnaces and Boilers Proceedings of the 6th European Conference on Industrial Furnaces and Boilers
+Fletcher LM, Pourkashanian M, Williams A & Wills BJ (2002) Performance and influence of air staging on a direct fired integral bed regenerative burner, Clean Air: Energy, Combustion and Environment (pp. pp.959-pp.959). Taylor and Francis
+Bonturi S, Pourkashanian M, Williams A, Oskam G & Wilson CW (2002) NOx formation in counter-flow opposed-jet diffusion CH4/Air flames, Clean Air: Energy, Combustion and Environment (pp. pp.101-pp.101). Taylor and Francis
+Andrews GE, Escott NH, Kim MN & Pourkashanian M (1999) Flame structure of very lean low NOx radial swirl stabilised high intensity combustion, International Gas Turbine Congress (pp. 807-814). International Gas Turbine Congress
+Andrews GE, Escott NH, Kim MN & Pourkashanian M (1999) CFD predictions of low NOx lean gas turbine radial swirler primary zones, International Gas Turbine Congress (pp. 733-740). Gas Turbine Society of Japan
+Fletcher LM, Howard LM, Pourkashanian M, Williams A, Yap L & Yetter RA (1998) Lifted oxygen-enriched turbulent methane diffusion flames, International Gas Research Conference (IGRC98) (pp. 78-87). International Gas Research Conference (IGRC98)
+Fletcher LM, Miguel PF, Pourkashanian M, Quinqueneau A, Spence G & Williams A (1998) Experimental and theoretical investigation of a low-NOx high temperature industrial burner, International Gas Research Conference (pp. 225-236). International Gas Research Conference
+Dacombe P, Pourkashanian M, Williams A & Yap L (1997) Fragmentation of Coal Particles at High Temperature Environment, 9th International Conference on Coal Science 9th International Conference on Coal Science
+Jones JM, Patterson PM, Pourkashanian M, Rowlands L & Williams A (1997) Advance modelling of coal combustion, 9th International Conference on Coal Science 9th International Conference on Coal Science
+Jones JM, Pourkashanian M, Rowlands L & Williams A (1997) A review of NOx formation and reduction mechanism in combustion systems with particular reference to coal, Third International Conference on Combustion and Emission Control Third International Conference on Combustion and Emission Control
+Chagger HK, Dupont V, Pourkashanian M & Williams PT (1997) The chemistry and kinetics of formation of chlorinated compounds during the post combustion conditions, First International Symposium on Incineration and Flue Gas Treatment Technologies Institute of chemical engineering
+Yap LT & Pourkashanian M (1996) Low-NOx oxy-fuel flames for uniform heat transfer (pp. 655-660).
+Chagger HK, Hainsworth D, Patterson PM, Pourkashanian M & Williams A (1996) The Formation of SiO2 from Hexamethyldisiloxane Decomposition in Counterflow H2/Air Flames, Joint Meeting of the Portugese, British, Spanish and Swedish Sections of the Combustion Institute The Combustion Institute
+Conference proceedings papers
+Finney K, Szuhanszki J, Al-Qayim K, Nimmo W & Pourkashanian M (2016) Comparison of Metal Aerosol Emissions from Air-Firing of Coal and Biomass for Carbon Capture Applications. NA, 2 September 2016 - 7 September 2016.
+Akram M, Szuhanszki J, Milkowski K, Nimmo W & Pourkashanian M (2016) Performance assessment of 1TPD post combustion CO2 capture with coal combustion. NA
+Al-Qayim K, Szuhanszki J, Daood SS, Nimmo W & Pourkashanian M (2016) Firing of 100% pulverized biomass in a 250 KW combustion test facility – effect of particle size on combustion performance. NA
+Stechly K, Clements A, Al-Qayim K, Alvarez Rodriguez A, Szuhanski J, Daood SS, Ingham D, Ma L, Nimmo W & Pourkashanian M (2016) CFD Predictions of Biomass Combustion in a 250 kW Combustion Test Facility. NA, 2 September 2016 - 7 September 2016.
+Savastano W, Pranzitelli A, Andrews GE, Biancolini ME, Ingham DB & Pourkashanian M (2015) Goal driven shape optimisation for conjugate heat transfer in an effusion cooling plate. Proceedings of the ASME Turbo Expo, Vol. 5A
+Oguntade HI, Andrews GE, Burns AD, Ingham DB & Pourkashanian M (2015) The influence the number of holes on effusion cooling effectiveness for an X/D of 4.7. Proceedings of the ASME Turbo Expo, Vol. 5A
+Proietti D, Biancolini ME, Pranzitelli A, Ingham DB, Andrews GE & Pourkashanian M (2015) Multi-objective CFD optimisation of shaped hole film cooling with mesh morphing. Proceedings of the ASME Turbo Expo, Vol. 5B
+Ali U, Palma CF, Hughes KJ, Ingham DB, Ma L & Pourkashanian M (2015) Thermodynamic analysis and process system comparison of the exhaust gas recirculated, steam injected and humidified micro gas turbine. Proceedings of the ASME Turbo Expo, Vol. 3
+Orogbemi O, Ingham DB, Ismail MS, Hughes K, Ma L & Pourkashanian M (2015) The effects of the composition of microporous layers on the permeability of gas diffusion layers. Proceedings of the 6th European Fuel Cell - Piero Lunghi Conference, EFC 2015 (pp 275-276)
+Mallick TK, Micheli L, Banerjee S, Shanks K, Lokeswaran S, Baig H, Calabria F, Sarmah N, Walker M, Theristis M, Reddy KS, Ghosh P, Walker G, Choudhury S, Pourkashanian M, O'Donovan T, Hamilton J, Poggio D, Giddings D, Hazara A, Balachandran S, Grant D, Nimmo W, Ma L, Mathew AK, Goswami R, Chakraborty A, Dinha D, Bandyopadhyay K, Almonacid F & Fernandez EF (2015) Status and perspective of concentrating photovoltaic systems: The results of the BioCPV project and opportunities for a sustainable energy supply to rural areas. ISES Solar World Congress 2015, Conference Proceedings (pp 488-499)
+Clements AG, Hughes KJ, Porter RTJ & Pourkashanian M (2015) Modelling Investigation into Mercury Oxidation under Oxyfuel Conditions. 18th International IFRF Member Conference - Flexible and Clean Fuel Conversion in Industry, 1 June 2015 - 3 June 2015.
+Nagib M, Burns A, Ingham D, Pourkashanian M & El-Banbi AH (2014) New application of streamline simulation for gas displacement processes. Society of Petroleum Engineers - SPE Annual Caspian Technical Conference and Exhibition
+Ali U, Best T, Finney KN, Palma CF, Hughes KJ, Ingham DB & Pourkashanian M (2014) Process Simulation and Thermodynamic Analysis of a Micro Turbine with Post-combustion CO2 Capture and Exhaust Gas Recirculation. Energy Procedia, Vol. 63 (pp 986-996)
+Agbonghae EO, Best T, Finney KN, Palma CF, Hughes KJ & Pourkashanian M (2014) Experimental and Process Modelling Study of Integration of a Micro-turbine with an Amine Plant. Energy Procedia, Vol. 63 (pp 1064-1073)
+Chalmers H, Al-Jeboori M, Anthony B, Balusamy S, Black S, Marincola FC, Clements A, Darabkhani H, Dennis J, Farrow T, Fennell P, Franchetti B, Gao L, Gibbins J, Hochgreb S, Hossain M, Jurado N, Kempf A, Liu H, Lu G, Ma L, Navarro-Martinez S, Nimmo W, Oakey J, Pranzitelli A, Scott S, Snape C, Sun C-G, Sun D, Szuhánszki J, Trabadela I, Wigley F, Yan Y & Pourkashanian M (2014) OxyCAP UK: Oxyfuel Combustion - academic Programme for the UK. Energy Procedia, Vol. 63 (pp 504-510)
+Oguntade HI, Andrews GE, Burns AD, Ingham DB & Pourkashanian M (2014) Conjugate heat transfer predictions of effusion cooling with shaped trench outlet. Proceedings of the ASME Turbo Expo, Vol. 5A
+Nagib M, Burns A, Ingham D, Pourkashanian M & El-Banbi AH (2014) Application of stream-line simulation for gas displacement processes. Society of Petroleum Engineers - SPE EOR Conference at Oil and Gas West Asia 2014: Driving Integrated and Innovative EOR (pp 463-475)
+Alhazmi N, Ismail MS, Ingham DB, Hughes KJ, Ma L & Pourkashanian M (2013) The through-plane thermal conductivity and the contact resistance of the components of the membrane electrode assembly in proton exchange membrane fuel cells. EFC 2013 - Proceedings of the 5th European Fuel Cell Piero Lunghi Conference (pp 113-114)
+Bartle KD, Jones JM, Lea-Langton AR, Pourkashanian M, Ross AB, Thillaimuthu JS, Waller PR & Williams A (2013) The combustion of droplets of high-asphaltene heavy oils. Fuel, Vol. 103 (pp 835-842)
+Poggio D, Walker M, Nimmo W & Pourkashanian M (2013) Model based evaluation of control strategies for the operation of anaerobic digesters in a microgrid with variable biogas demand. 13th World Congress on Anaerobic Digestion: Recovering (bio) Resources for the World. Santiago de Compostela, Spain, 25 June 2013 - 28 June 2013.
+Poggio D, Walker M, Nimmo W & Pourkashanian M (2013) Estimation of the kinetic model parameters of anaerobic digestion of waste materials using semi-continuous laboratory scale digesters. International Conference on Advances in Energy Research. Mumbai, India, 10 December 2013 - 12 December 2013.
+Walker M, Ma L & Pourkashanian M (2013) Optimisation of a gas-mixed anaerobic digester using a combined CFD and biochemical kinetic modelling approach. International Conference on Advances in Energy Research. IITB, Mumbai, India, 10 December 2013 - 12 December 2013.
+Flyagina IS, Hughes KJ & Pourkashanian M (2013) Theoretical study of the ORR mechanism on iron, cobalt and manganese macrocycle active sites. EFC 2013 - Proceedings of the 5th European Fuel Cell Piero Lunghi Conference (pp 369-370)
+Mielczarek DC, Blakey S, Hughes KJ, Ingham DB, Pourkashanian M & Wilson CW (2013) Experimental and theoretical investigation of pathways to deposit formation in thermally stressed aviation fuel in the presence of nitrogenous additives. 13th International Conference on Stability, Handling and Use of Liquid Fuels 2013 (pp 230-240)
+Catalanotti E, Hughes KJ, Pourkashanian M & Wilson CW (2013) Experimental and modelling studies of the combustion of alternative aviation fuels. 13th International Conference on Stability, Handling and Use of Liquid Fuels 2013 (pp 176-189)
+Lea-Langton AR, Ross AB, Bartle KD, Andrews GE, Jones JM, Li H, Pourkashanian M & Williams A (2012) Low temperature PAH formation in diesel combustion. Journal of Analytical and Applied Pyrolysis
+King PT, Andrews GE, Pourkashanian MM & McIntosh AC (2012) Nitric oxide predictions for low NOX radial swirlers with central fuel injection using CFD. Proceedings of the ASME Turbo Expo, Vol. 2(PARTS A AND B) (pp 985-993)
+King PT, Andrews GE, Pourkashanian MM & McIntosh AC (2012) CFD predictions of isothermal fuel-air mixing in a radial swirl low NO x combustor using various rans turbulence models. Proceedings of the ASME Turbo Expo, Vol. 2(PARTS A AND B) (pp 973-983)
+Oguntade HI, Andrews GE, Burns AD, Ingham DB & Pourkashanian M (2012) Conjugate heat transfer predictions of effusion cooling: The influence of the coolant jet-flow direction on the cooling effectiveness. Proceedings of the ASME Turbo Expo, Vol. 4(PARTS A AND B) (pp 1333-1343)
+Oguntade HI, Andrews GE, Burns AD, Ingham DB & Pourkashanian M (2012) Conjugate heat transfer predictions of effusion cooling: The influence of injection hole size on cooling performance. Proceedings of the ASME Turbo Expo, Vol. 4(PARTS A AND B) (pp 1321-1332)
+Millward-Hopkins JT, Tomlin AS, Ma L, Ingham DB & Pourkashanian M (2012) Mapping the Urban Wind Resource over UK cities using an analytical downscaling method. European Wind Energy Conference and Exhibition 2012, EWEC 2012, Vol. 2 (pp 1306-1315)
+King PT, Lazim TBM, Andrews GE, Pourkashanian MM & McIntosh AC (2012) Internal gas analysis and CFD predictions of double contra-rotating axial swirlers with fuel injection from between the two outlets. Proceedings of the ASME Turbo Expo, Vol. 2(PARTS A AND B) (pp 995-1003)
+Alborzi E, Blakey SG, Ghadebigi H, Pinna C, Pourkashanian M & Wilson CW (2011) Analysis of the structure of deposited materials at inner surface of jet fuel injector feed arm with Optical and Scanning Electron Microscopy. 12th International Conference on Stability, Handling and Use of Liquid Fuels 2011, Vol. 2 (pp 1120-1148)
+Ismail MS, Borman DJ, Damjanovic T, Ingham D & Pourkashanian M (2011) On the through-plane permeability of microporous layer-coated gas diffusion layers used in proton exchange membrane fuel cells. International Journal of Hydrogen Energy, Vol. 36(16) (pp 10392-10402)
+Alhazmi N, Hughes K, Ingham D, Ismail M, Ma L & Pourkashanian M (2011) The effect of anisotropic GDL on the performance of PEM fuel cell. EFC 2011 - Proceedings of the 4th European Fuel Cell Piero Lunghi Conference and Exhibition (pp 407-408)
+Huang W, Wang Z-G, Luo S-B, Liu J, Xia Z-X, Lei J, Jin L, Wang Z-W, Pourkashanian M, Ma L & Ingham DB (2011) Overview of fuel injection techniques for scramjet engines. Proceedings of the ASME Turbo Expo, Vol. 2(PARTS A AND B) (pp 17-24)
+Luo S-B, Huang W, Qin H, Wang Z-G, Liu J, Xia Z-X, Lei J, Pourkashanian M, Ma L, Ingham DB & Luo W-L (2011) Investigation of turbulent models for the flow field from a typical strut-based scramjet combustor. Proceedings of the ASME Turbo Expo, Vol. 2(PARTS A AND B) (pp 25-31)
+Oguntade HI, Andrews GE, Burns A, Ingham D & Pourkashanian M (2011) Predictions of effusion cooling with conjugate heat transfer. Proceedings of the ASME Turbo Expo, Vol. 5(PARTS A AND B) (pp 225-235)
+Oguntade HI, Andrews GE, Burns A, Ingham DB & Pourkashanian M (2011) Improved trench film cooling with shaped trench outlets. Proceedings of the ASME Turbo Expo, Vol. 5(PARTS A AND B) (pp 127-136)
+Gubba SR, Ingham DB, Larsen KJ, Ma L, Pourkashanian M, Tan HZ & Williams A (2011) Pulverised coal/biomass co-fire modelling in a full scale corner-fired boiler. Proceedings of the Fifth International Conference on Clean Coal Technologies. Palacio de Congresos de Zaragoza, Spain, 8 May 2011 - 12 May 2011.
+Lumb AB, Burns AD, Ingham DB & Pourkashanian M (2011) Computational fluid dynamic modelling of airway gas flow with tracheal intubation. BRITISH JOURNAL OF ANAESTHESIA, Vol. 106(3) (pp 438P-438P)
+Huang W, Luo S-B, Pourkashanian M, Ma L, Ingham DB, Liu J & Wang Z-G (2010) Numerical simulations of a typical hydrogen fueled scramjet combustor with a cavity flameholder. WCE 2010 - World Congress on Engineering 2010, Vol. 2 (pp 1000-1003)
+Wang S, Tao Z, Wang S, Ma L, Ingham DB & Pourkashanian M (2010) RETRACTED ARTICLE: Numerical investigations on dynamic stall associated with low reynolds number flows over airfoils. ICCET 2010 - 2010 International Conference on Computer Engineering and Technology, Proceedings, Vol. 5
+Oguntade HI, Andrews GE, Burns A, Ingham D & Pourkashanian M (2010) CFD predictions of single row film cooling with inclined holes: Influence of hole outlet geometry. Proceedings of the ASME Turbo Expo, Vol. 4(PARTS A AND B) (pp 1371-1385)
+Wang S, Ma L, Ingham DB, Pourkashanian M & Tao Z (2010) Turbulence modelling of deep dynamic stall at low Reynolds number. WCE 2010 - World Congress on Engineering 2010, Vol. 2 (pp 1350-1355)
+Shafagh I, Pourkashanian M, Hughes KJ & Williams A (2010) Application of AB initio quantum mechanical calculations to investigate oxidation of C-7 and C-14 methyl esters: An alternative fuel. ASME International Mechanical Engineering Congress and Exposition, Proceedings, Vol. 3 (pp 17-25)
+Uryga-Bugajska I, Catalanotti E, Pourkashanian M, Ma L, Borman D & Wilson CW (2009) Assesment of the performance of alternative aviation fuel in a Modern Air-spray Combustor (MAC). ASME International Mechanical Engineering Congress and Exposition, Proceedings, Vol. 3 (pp 61-69) View this article in WRRO
+Vural Y, Ma L, Ingham DB, Pourkashanian M & Ismail M (2009) On the multicomponent mass transport in an anode-supported solid oxide fuel cell. EFC 2009 - Piero Lunghi Conference, Proceedings of the 3rd European Fuel Cell Technology and Applications Conference (pp 185-186)
+Ismail M, Damjanovic T, Ingham D & Pourkashanian M (2009) Effect of MPL-coating on through-plane permeability of gas diffusion layers. EFC 2009 - Piero Lunghi Conference, Proceedings of the 3rd European Fuel Cell Technology and Applications Conference (pp 255-256)
+Ismail M, Hughes K, Ingham D, Ma L, Pourkashanian M & Rosli M (2009) Through-plane permeability for untreated and PTFE-treated gas diffusion layers in proton exchange membrane fuel cells. Proceedings of the 7th International Conference on Fuel Cell Science, Engineering, and Technology 2009 (pp 713-721)
+King PT, Andrews GE, Kim MN, Pourkashanian M & McIntosh AC (2009) CFD prediction and design of low NOx radial swirler systems. Proceedings of the ASME Turbo Expo, Vol. 2 (pp 867-876)
+Hassan G, Pourkashanian M, Ingham D, Ma L & Taylor S (2009) Reduction of pollutants emissions from domestic boilers - CFD study. ASME International Mechanical Engineering Congress and Exposition, Proceedings, Vol. 3 (pp 229-238)
+Rosli MI, Pourkashanian M, Ingham D, Ma L, Borman DJ & Ismail M (2009) Transparent PEM Fuel Cells for Direct visualization Experiments. 2009 Proceedings of the ASME 7th International Fuel Cell Science, Engineering and Technology Conference(FuelCell2009-85089) (pp 329-337). The Marriott Newport Beach Hotel and Spa, Newport Beach, California, 8 June 2009 - 10 June 2009.
+King PT, Al Kabie HS, Andrews GE, Pourkashanian MM & McIntosh AC (2009) CFD predictions of low NOx radial swirlers with central fuel injection. Proceedings of the ASME Turbo Expo, Vol. 2 (pp 855-865)
+Catalanotti E, Hughes KJ, Pourkashanian M, Uryga-Bugajska I & Williams A (2009) Development of a high temperature oxidation mechanism for bio-aviation fuels. ASME International Mechanical Engineering Congress and Exposition, Proceedings, Vol. 3 (pp 321-330)
+Porter R, Pourkashanian M, Williams A & Smith D (2009) Modelling radiative heat transfer in oxycoal combustion. Proceedings of the ASME Summer Heat Transfer Conference 2009, HT2009, Vol. 3 (pp 105-114)
+Shafagh I, Hughes KJ, Pourkashanian M & Williams A (2009) Investigation into bio-aviation reaction mechanisms using quantum mechanical methods. ASME International Mechanical Engineering Congress and Exposition, Proceedings, Vol. 3 (pp 313-319)
+Gharebaghi M, Goh B, Jones JM, Ma L, Pourkashanian M & Williams A (2009) Numerical investigation of char reactivity in oxy-coal combustion in carbon capture and sequestration technologies. Proceedings of the ASME Turbo Expo, Vol. 1 (pp 437-447)
+Stanko T, Ingham DB, Fairweather M & Pourkashanian M (2009) Application of rans and FWH modelling to the prediction of noise from round jets. Proceedings of the ASME Turbo Expo, Vol. 2 (pp 525-533)
+Porter R, Hesselmann G, Ma L, Pourkashanian M, Simpson N, Smith BW, Smith D & Williams A (2008) Assessment of radiation models in the prediction of heat transfer in coal combustionand oxy-fuel firing. 25th Annual International Pittsburgh Coal Conference, PCC - Proceedings
+King PT, Escort NH, Andrews GE, Pourkashanian MM & Mcintosh AC (2008) CFD predictions of low NOx radial swirlers with vane passage fuel injection with comparison with internal gas analysis flame composition. Proceedings of the ASME Turbo Expo, Vol. 3(PART B) (pp 833-846)
+Carcadea E, Ingham DB, Ma L, Pourkashanian M, Ene H, Stefanescu I & Ionete RE (2008) A parametrical study of a seven serpentine channel PEM fuel cell. Proceedings of the ASME Turbo Expo, Vol. 2 (pp 763-770)
+Stanko TS, Ingham DB, Fairweather M & Pourkashanian M (2008) Computational fluid dynamic prediction of noise from a cold turbulent propane jet. Proceedings of the ASME Turbo Expo, Vol. 3(PART B) (pp 645-652)
+Gharebaghi M, Goh B, Ma L, Pourkashanian M & Williamsa A (2008) Numerical investigation of oxy-coal combustion in pilot scale and the challenges. 25th Annual International Pittsburgh Coal Conference, PCC - Proceedings
+Kononova AV, Ingham DB & Pourkashanian M (2008) Simple scheduled memetic algorithm for inverse problems in higher dimensions: Application to chemical kinetics. 2008 IEEE Congress on Evolutionary Computation, CEC 2008 (pp 3905-3912)
+Williams A, Pourkashanian M & Jones JM (2008) Some aspects of clean coal combustion engineering. 8th European Conference on Industrial Furnaces and Boilers (INFUB, 2008)
+Kononova AV, Pourkashanian M & Ingham DB (2008) Memetic hyperheuristic for the optimisation of a chemical kinetics reaction mechanisms. Evolutionary and deterministic methods for design, optimisation and control with applications to industry and social problems at Eurogen 2007
+Williams A, Wang M, Ellul C & Pourkashanian M (2008) Electrical capacitance tomography for high temperature flames.. INFUB 2008
+Hassan G, Pourkashanian M, Ingham DB, Taylor S, Ma L & Peronski L (2008) CFD simulation for the combustion process inside domestic boilers.. INFUB 2008
+Yusop NM, Andrews GE, Ingham DB, Khalifa IM, Mkpadi MC & Pourkashanlan M (2007) Predictions of adiabatic film cooling effectiveness for effusion film cooling. Proceedings of the ASME Turbo Expo, Vol. 4 PART A (pp 457-464)
+Kononova AV, Hughes KJ, Pourkashanian M & Ingham DB (2007) Fitness diversity based adaptive memetic algorithm for solving inverse problems of chemical kinetics. 2007 IEEE Congress on Evolutionary Computation, CEC 2007 (pp 2366-2373)
+Md Yusop N, Andrews GE, Ingham DB, Pourkashanian M, Khalifa IM & Mkpadi MC (2007) Predictions of Adiabatic film cooling effectiveness for effusion film cooling.. The ASME IGTI International Gas Turbine Conference: Power for Land, Sea and Air., Vol. 15 (pp 413-440)
+Hoyes JRI, Elliott L, Ingham DB, Williams DB, McCaffrey DA, Peakall J & Pourkashanian M (2007) High resolution numerical simulations of bidisperse particle-driven gravity currents.. AAPG Annual Meeting
+Ellul C, Pourkashanian M, Wang M & Williams A (2007) The application of flame tomography to improve combustion systems. 5th World Congress in Industrial Process Tomography (pp 423-430)
+Kyne AG, Pourkashanian M & Wilson CW (2006) Modelling soot formation in aviation fuel oxidation. Proceedings of the ASME Turbo Expo, Vol. 1 (pp 503-512)
+Ma L, Williams A, Pourkashanian M & Jones JM (2006) A numerical model for predicting biomass particle depositions in A PF furnace. Proceedings of the ASME Turbo Expo, Vol. 2 (pp 333-342)
+Jones JM, Nawaz M, Darvell LI, Ross A, Pourkashanian M & Williams A (2006) Towards Biomass Classification for Energy Applications. Science in Thermal and Chemical Biomass Conversion, Vol. 1 (pp 331-339)
+Pourkashanian M & Ma L (2005) Chemical kinetic modelling of the evolution of gaseous aerosol precursors within a gas turbine engine. Journal of Engineering for Gas Turbines and Power
+Jones JM, Darvell LI, Pourkashanian M & Williams A (2005) The role of metals in biomass char combustion. ECM 2005, Louvain-la-Neuve
+Bosoaga A, Mihaescu L, Panoiu N, Ma L, Williams A, Backreedy RI & Pourkashanian M (2005) Modelling the combustion of very low grade lignite. ECM 2005, Louvain-la-Neuve,
+Darvell LI, Hrycko P, Jones JM, Nowakowski DJ, Pourkashanian M & Williams A (2005) Impact of minerals and alkali metals on willow combustion properties. World Renewable Energy Congress
+Ma L & Pourkashanian M (2005) A CFD model for reacting flows in an aero-engine hot end simulator. ASME Turbo Expo 2004. Vienna, 14 June 2004 - 17 June 2004.
+Wade AS, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2004) Optimisation of the Arrhenius parameters in a semi-detailed mechanism for jet fuel thermal degradation using a genetic algorithm.. ASME Turbo Expo 2004: Land, Sea and Air
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2004) A novel approach to mechanism reduction optimisation for aviation fuel/air reaction mechanism using a genetic algorithm. Proceedings of the ASME Turbo Expo 2004, Vol. 1 (pp 1-10)
+Bosoaga A, Mihaescu L, Backreedy RI, Ma L, Pourkashanian M & Williams A (2004) The combustion of low grade lignite. 5th European Conference on Coal Research and its Applications
+Williams A, Pourkashanian M, Jones JM, Arenillas A, Arias B, Backreedy RI, Rubiera F & Pis JJ (2004) Reactivity and NO emissions of coal during combustion.. 12th International Conference on Coal Science, Cairns, Australia
+Williams A, Pourkashanian M, Backreedy RI & Arias B (2004) Combustion of coal blends.. European Combustion Meeting, Orleans
+Williams A, Pourkashanian M & Jones JM (2004) Cofiring pulverised coal and wood in utility boilers. RSC Meeting CRE Casella
+Pourkashanian M, Wilson CW, Mera NS, Kyne AG, Ingham DB & Elliott L (2004) A novel reduced reaction mechanism for kerosene combustion generated using genetic algorithms.. ASME Turbo Expo 2004: Land, Sea and Air
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Whittaker S (2004) Efficient clustering-based genetic algorithms in chemical kinetic modelling. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), Vol. 3103 (pp 932-944)
+Backreedy RI, Jones JM, Pourkashanian M & Williams A (2003) Burn-out of pulverised coal and biomass chars. Fuel, Vol. 82(15-17) (pp 2097-2105)
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2003) A novel approach to the optimisation of reaction rate parameters for methane combustion using multi-objective genetic algorithms. American Society of Mechanical Engineers, International Gas Turbine Institute, Turbo Expo (Publication) IGTI, Vol. 2 (pp 27-36)
+Williams A, Pourkashanian M & Jones JM (2003) The potential of applied research in developing combustion and gasification of biomass and wastes.. CONBIOT Conference on Combustion and Gasification of Biomass and Wastes, Poland
+Shah AA, McIntosh AC, Brindley J, Griffiths JF & Pourkashanian M (2003) The effect of gas creation on ignition phenomena in solid reactants subject to internal heating. the 19th International Colloquium on the dynamics of explosions and reactive systems, Hakone, Japan, USA, 28th July – 1st August 2003, Paper 134
+Shah AA, McIntosh AC, Brindley J, Griffiths JF & Pourkashanian M (2003) Ignition phenomena in weakly reactive solids subject to internal heating.. Mathematical Challenges in Scientific and Engineering Computation
+Arias B, Backreedy RI, Arenillas A, Jones JM, Rubiera F, Pourkashanian M, Williams A & Pis JJ (2003) Blending effects on coal burnout and NO emissions. Clean Air 2003. Seventh International Conference on Energy for a Clean Environment, Lisbon
+Pourkashanian M, Ingham DB, Kyne AG, Mera NS, Wilson CW & Elliott L (2003) The optimisation of reaction rate parameters for methane combustion using multi-objective genetic algorithms. Turbo Expo 2003 ASME TURBO EXPO 2003: LAND, SEA AND AIR
+McIntosh AC, Shah AA, Brindley J, Griffiths JF & Pourkashanian M (2003) Hot spot ignition within reactive material. AWOMIC03 (The Australasian Workshop on Mathematics in Combustion
+Williams A, Pourkashanian M & Jones JM (2003) Energy and Fuels - the Future. Advances in Petrochemicals and Polymers in the New Millennium
+Jones JM, Nawaz M, Ross A, Pourkashanian M & Williams A (2003) Catalysis by potassium in the pyrolysis and combustion of biomass. Seventh International Conference on Energy for a Clean Environment
+Williams A, Backreedy RI, Pourkashanian M & Arias B (2003) Combustion of coal blends. European Combustion Meeting.
+Arias B, Backreedy RI, Arenillas A, Jones JM, Pis JJ, Pourkashanian M, Rubiera F & Williams A (2003) Combustion of blends. International Conference on Coal Science
+Williams A, Pourkashanian M, Jones JM, Chaiklangmuang S & Ross A (2003) Waste to Energy - What goes in must come out.. Inst. Mechanical Engineering Conference on waste to energy
+Backreedy RI, Jones JM, Pourkashanian M & Williams A (2003) Modelling the reaction of oxygen with coal and biomass chars. Proceedings of the Combustion Institute, Vol. 29(1) (pp 415-422)
+Kyne AG, Pourkashanian M, Wilson CW & Williams A (2003) Modelling NO-NO2 conversion in counter-flow diffusion flames. American Society of Mechanical Engineers, International Gas Turbine Institute, Turbo Expo (Publication) IGTI, Vol. 2 (pp 19-26)
+Chaiklangmuang S, Jones JM, Pourkashanian M & Williams A (2002) The formation of NO from volatiles and char nitrogen. Fuel, Vol. 81 (pp 2363-2369)
+Wilson CW, Elliott L, Ingham DB, Kyne AG, Mera NS & Pourkashanian M (2002) A real coded genetic algorithm for the optimization of reaction rate parameters or chemical kinetic modelling in a perfectly stirred reacto. Proceedings of Genetic and Evolutionary Computation Conference (pp 138-144). New York
+Kyne AG, Pourkashanian M, Wilson CW & Williams A (2002) Validation of a flamelet approach to modelling 3-D turbulent combustion within an airspray combustor. American Society of Mechanical Engineers, International Gas Turbine Institute, Turbo Expo (Publication) IGTI, Vol. 1 (pp 591-600)
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2002) The optimisation of reaction rate parameters for chemical kinetic modelling using genetic algorithms. American Society of Mechanical Engineers, International Gas Turbine Institute, Turbo Expo (Publication) IGTI, Vol. 1 (pp 563-572)
+Ross A, Jones JM, Chaiklangmuang S, Pourkashanian M & Williams A (2002) Measurement and prediction of the emission of pollutants from the combustion of coal and biomass in a fixed bed furnace. Fuel, Vol. 81(5) (pp 571-582)
+Backreedy RI, Jones JM, Pourkashanian M & Williams A (2002) Modelling of NO formation in the combustion of coal blends. Fuel, Vol. 81(5) (pp 627-636)
+Williams A, Backreedy RI, Habib R, Jones JM & Pourkashanian M (2002) Modelling coal combustion: The current position. Fuel, Vol. 81(5) (pp 605-618)
+Jones JM, Ma L, Pourkashanian M, Williams A, Backreedy RI, Rubiera F, Pis JJ & Arenillas A (2002) Numerical simulation and modelling of combustion behaviour of coal blends.. 29th Combustion Institute Meeting
+Shah AA, McIntosh AC, Brindley J, Griffiths JF & Pourkashanian M (2002) Ignition phenomena in a reactive solid containing a hot-spot. British Section of the Combustion Institute, Autumn Meeting (Cranfield, UK)
+Jones JM, Nawaz M, Ross A, Pourkashanian M & Williams A (2002) Characterisation of biomass for energy applications. World Renewable Energy Congress VII
+Williams A, Pourkashanian M, Jones JM & Backreedy RI (2002) Combustion of Pulverised Coal and the Reduction of the Environmental Impact. 6th European Conference on Industrial Furnaces and Boilers
+Williams A, Pourkashanian M & Jones JM (2002) Some aspects of CFD modelling. The Canadian Combustion Institute 2002
+Elliott L, Ingham DB, Kyne AG, Mera NS, Pourkashanian M & Wilson CW (2002) A Real Coded Genetic Algorithm For The Optimisation Of Reaction Rate Parameters For Chemical Kinetic Modelling In A Perfectly Stirred Reactor.. GECCO (pp 1261-1261)
+Wilson CW, Kyne AG, Patterson M, Pourkashanian M & Williams A (2001) Prediction of Premixed Laminar Flame Structure and Burning Velocity of Aviation Fuel-Air Mixtures. Asme paper no. 2001-GT-0055. New Orleans, USA, June 2001 - June 2001.
+Kyne AG, Patterson PM, Pourkashanian M, Wilson CW & Williams A (2001) An experimental investigation of laminar premixed aviation fuelair flames. Proceedings of the ASME Turbo Expo, Vol. 2
+Ross A, Jones JM, Pourkashanian M, Williams A, Kubica K & Andersen JT (2001) The relationship between initial fuel devolatilisation behaviour and emission behaviour during the co-combustion of coal and biomass.. 11th International Conference on Coal Science, San Francisco
+Jones JM, Williams A, Pourkashanian M, Backreedy RI, Arenillas A, Pis JJ & Rubiera F (2001) The modelling of NO formation in the combustion of coal blends.. 11th International Conference on Coal Science, San Francisco
+Williams A, Jones JM & Pourkashanian M (2001) Modelling biomass combustion.. The Second Mediterranean Combustion Symposium, Sharm El-Sheikh (pp pp.113-pp.113)
+Rangel LP, Fletcher LM, Pourkashanian M, Williams A, Buchler PM & Wills BJ (2001) Development and validation of an ultra-low NOx burner for the process industry.. Technologies and Combustion for a Clean Environment, Oporto, Portugal (pp 1384-1389)
+Katsanevakis A, Tsemberlidis P, Fletcher LM, Pourkashanian M, Sofialidis D, Katsanevakis K & Lappas A (2001) Application of the decentralised combustion mode with turbine exhaust gases-DCM/TEG-cycle in the glass industry - A novel approach for CHP integration in high temperature demanding processes. First Balkan Conference on Glass Science & Technology
+Rabea K, Fletcher LM, Pourkashanian M, Williams A, Haddad M & Wills BJ (2001) An assessment of the influence of natural gas properties on NOx emissions. Technologies and Combustion for a Clean Environment, Oporto, Portugal (pp 1427-1433)
+Williams A, Fletcher LM, Pourkashanian M, Iatridis DK, Katsanevakis A, Lappas A & Monachos O (2001) A new approach to optimise ceramic kiln operation utilising industrial gas turbine exhaust gases. Technologies and Combustion for a Clean Environment, Oporto, Portugal (pp 1175-1184)
+Pourkashanian M, Ingham DB, Kyne AG, Wilson CW, Mera NS, Harris SD & Elliott L (2001) The Optimisation of Methane-Air Reaction Mechanism Using Genetic Algorithms. 47th ASME Gas Turbine and Aero-engine, Technical Congress, ASME TURBO EXPO 2001
+Rangel LP, Fletcher LM, Pourkashanian M, Williams A & Wills B (2001) Development and Validation of an Ultra Low-NOx Burner for the Process Industry. Sixth International Conference on Combustion Technologies for a Clean Environment, Vol. 16 (pp 17-25)
+Rabea K, Fletcher LM, Pourkashanian M, Williams A, Haddad M & Wills B (2001) An assessment of the Influence of Natural Gas Properties on NOx Emissions. Sixth International Conference on Combustion Technologies for a Clean Environment, Vol. 11 (pp 32-40)
+Makhkamov M, Ingham DB & Pourkashanian M (2001) Theoretical investigations of the working process of the combustion chamber for a Stirling engine. 10th International Stirling Engine Conference, (ISEC)
+Chaiklangmuang S, Williams A, Jones JM & Pourkashanian M (2001) The combustion of paper and plastic. Incineration 2001
+Mkpadi MC, Andrews GE, Khan I, Mohd Jaafar MN, Pourkashanian M & Yang Y (2001) Lean/lean staged low NOx combustion for near stoichiometric gas turbine primary zone conditions. Proceedings of the ASME Turbo Expo, Vol. 2
+Jones JM, Pourkashanian M, Ross A, Danos L, Bartle KD, Williams A, Kubica K, Andersson J, Kerst M, Danihelka P, INFUB & INFUB (2000) The combustion of coal and biomass in a fixed bed furnace. INDUSTRIAL FURNACES AND BOILERS, VOL II, PROCEEDINGS (pp 45-54)
+Williams A, Pourkashanian M, Jones JM, Greenhalgh D, Weber R, Kozinski JA & Gann RG (2000) The combustion of coal and some other solid fuels. P COMBUST INST, Vol. 28 (pp 2141-2162)
+Patterson PM, Pourkashanian M & Williams A (2000) Experimental and theoretical investigation of premixed kerosene/O2/N2 oxidation(B) (pp 23)
+Jones JM, Pourkashanian M, Rena CD & Williams A (1999) The relationship of coal structure to char porosity. PROSPECTS FOR COAL SCIENCE IN THE 21ST CENTURY (pp 275-278)
+Backreedy RI, Habib R, Jones JM, Pourkashanian M & Williams A (1999) An extended cool combustion model. PROSPECTS FOR COAL SCIENCE IN THE 21ST CENTURY, VOLS I AND II (pp 435-438)
+Backreedy RI, Habib R, Jones JM, Pourkashanian M & Williams A (1999) An extended coal combustion model. PROSPECTS FOR COAL SCIENCE IN THE 21ST CENTURY (pp 435-438)
+Jones JM, Pourkashanian M, Rena CD & Williams A (1999) The relationship of coal structure to char porosity. PROSPECTS FOR COAL SCIENCE IN THE 21ST CENTURY, VOLS I AND II (pp 275-278)
+Harris SD, Elliott L, Ingham DB, Pourkashanian M & Wilson CW (1999) The retrieval of chemical reaction rates using genetic algorithms. GECCO-99: PROCEEDINGS OF THE GENETIC AND EVOLUTIONARY COMPUTATION CONFERENCE (pp 1780-1780)
+Wilson CW, Kaufmann M, Harris SD, Elliott L, Ingham DB & Porkashainian M (1999) The retrieval of chemical reaction rates using Genetic Algorithms. Proceedings of the Genetic and Evolutionary Computation Conference. San Francisco, CA, 13 July 1999 - 17 July 1999.
+Chagger HK, Jones JM, Pourkashanian M & Williams A (1999) The formation of toxic organic chemicals from coal and fuel oil combustion. the Joint Meeting of the British, Gerrman and French Section of the Combustion Institute (pp 251-255)
+Andrews GE, Mkpadi MC, Mohd-Jaafar MN, Pourkashanian M & Yang Y (1999) Lean/lean staged low NOx combustion for near stoichiometric burners. Fifth International conference on Combustion Technologies for a Clean Environment (pp 769-777)
+Fletcher LM, Miguel PF, Pourkashanian M, Quinqueneau A, Spence G, Williams A & Wills B (1999) Experimental and theoretical investigation of staged combustion with preheated air. The Joint Meeting of the British, German and French Section of the Combustion Instituute (pp 163-166)
+Connors J, Fletcher LM, Pourkashanian M, Satchell D, Spence G & Yap L (1999) Development of a staged oxy-fuel flat jet burner. Fifth International Conference on Combustion Technologies for a Clean Environment (pp 1127-1132)
+Wilson CW, Foster TJ, Pourkashanian M & Williams A (1999) 3D Modelling of NOx emissions from aircraft afterburners. ASME paper no. 99-GT-358. Indianapolis, USA, June 1999 - June 1999.
+Williams A, Pourkashanian M & Jones JM (1999) Modelling the combustion of coal and biomass. Fifth International Conference on Combustion Technologies for a Clean Environment, Vol. II (pp 945-952)
+Jones JM, Pourkashanian M, Stojiljkovic DD & Williams A (1999) Experimental and theoretical investigation into Yugoslavian coal gasification. Fifth International Conference on Combustion Technologies for a Clean Environment
+Wilson CW, Howard LH, Patterson PM, Pourkashanian M, Williams A & Yap L (1999) Experimental Investigation of Oxygen Enriched Lifted and attached Turbulent Diffusion Flames. Proceedings of the 5th international conference on Technologies and Combustion for a Clean Environment, 12 July 1999 - 15 July 1999.
+Wilson CW, Foster TJ, Williams A & Pourkashanian M (1999) Measurement and prediction of NO and NO2 emissions from aero engines. RTO MP-14, Gas Turbine Combustion
+Pourkashanian M, Spence G & Williams A (1998) Computation of bluff-body stabilised jets and flames. the Third International Workshop on Measurement and Computation of Turbulent Non-premixed Flames (TNF3)
+Pourkashanian M, Amin EM, Andrews GE, Williams A & Yap L (1998) Assessment of strained-flamelet predictions of NO2 formation in H2/air turbulent diffusion flames. 7th International Conference on Numerical Combustion
+Pourkashanian M & Williams A (1998) Analytical methods for developing an advanced coal combustion model. Joint Meeting of the Characterisation and Conversion Divisions of the Coal Forum
+Chagger HK, Jones JM, Pourkashanian M & Williams A (1998) The formation of VOCs and PAHs from the spray combustion of heavy fuel oil. ILASS-Europe ’98
+Jones JM, Pourkashanian M, Thomas KM, Williams A & Zhu Q (1998) The prediction of coal char reactivity using coal rank related parameters. Coal Research Forum and the Coal Utilisation Subject Group of the IChemE
+Jones JM, Pourkashanian M, Williams A, Chakraborty RK & Sykes J (1998) Modelling of combustion processes - a review of present status and future needs. Fifteenth Annual International Pittsburgh Coal Conference
+Williams A, Jones JM, Pourkashanian M & Hainsworth D (1998) A comprehensive biomass combustion model. World Renewable Energy Congress V, Vol. III (pp 2016-2019)
+Smart JP, Pourkashanian M, Jones JM & Williams A (1998) Scale-up of swirl-stabilised pulverised-coal burners in the thermal input range 2.5-50 MW. Joint Flame Days 1998, Control of Flames and Combustion Processes
+Williams A, Pourkashanian M & Jones JM (1998) Nitrogen oxide sub-models. IFRF TOTeM12, Guernsey, Channel Islands
+Pourkashanian M, Howard LM, Williams A & Yap L (1997) NOx scaling of oxygen enriched turbulent methane diffusion flames. The Second International Symposium on Scale Modelling
+Jones JM, Patterson PM, Pourkashanian M, Rowlands L & Williams A (1997) An extended high temperature coal particle combustion model. 9th International Conference on Coal Science, Vol. II (pp 931-934)
+Jones JM, Patterson PM, Pourkashanian M, Williams A & Rowlands L (1997) An advanced coal model to predict NOx formation and carbon burn-out in pulverised coal flames. 14th Annual International Pittsburgh Coal Conference (Clean Coal Technology and Coal Utilization)
+Jones JM, Patterson PM, Pourkashanian M, Rowlands L & Williams A (1997) Advanced models for predicting carbon burn-out and NOx formation in coal combustion. American Flame Research Conference
+Fletcher LM, Pourkashanian M, Spence G, Williams A & Wills B (1997) A theoretical investigation into the effects of air-staging strategies on NOx formation from an industrial gas fired burner. 4th International conference on Combustion Technologies for a clean environment
+Hedley J, Jones JM, Pourkashanian M & Williams A (1997) Hot gas ammonia decomposition. Workshop on the removal of gasseous contaminants from hot fuel-gases
+Pourkashanian M, Williams A & Chagger HK (1997) Numerical simulation of the formation and destruction of principle organic compounds in the post-flame zone of a hazardous waste incinerator. The Fifth International Conference on Toxic Combustion By-products
+Chagger HK, Kendall A, McDonald AT, Pourkashanian M & Williams A (1997) The behaviour of sulphur nitrogen and organic compounds in co-combustion of coal and biomass. The Fourth International Conference on Combustion Technologies for a Clean Environment
+Chagger HK, Jones JM, Pourkashanian M, Rowlands L & Williams A (1997) Emission of volatile organic compounds and chlorinated species from coal-fired combustion equipment. Fourth International Conference on Combustion Technologies for a Clean Environment, Vol. 1(20.2) (pp 11-15)
+Jones JM, Pourkashanian M, Stojiljkovic DD & Williams A (1997) Devolatilisation and combustion of Yugoslav lignites. The Fourth International Conference on Combustion for a Clean Environment, Vol. 11(27.18) (pp 111-115)
+Bonturi S, Foster TJ, Pourkashanian M, Williams A & Wilson CW (1997) 3D Modelling of NOx emissions from an aircraft afterburner. The Fourth International Conference on Combustion Technologies for a Clean Environment
+Jones JM, Patterson PM, Pourkashanian M, Rowlands L & Williams A (1997) Advanced coal combustion modelling. 14th Annual International Pitsburgh Coal Conference and workshop
+Fletcher LM, Pourkashanian M, Spence G, Williams A, Wills B & Yap L (1997) A theoretical investigation into the effects of air-staging strategies on NOx formation from an industrial gas fired burner. Eurotherm Seminar no. 54 on Compact Fired Heating Units
+Yap LT & Pourkashanian M (1996) Low-No x oxy-fuel flames for uniform heat transfer. Light Metals: Proceedings of Sessions, TMS Annual Meeting (Warrendale, Pennsylvania) (pp 655-660)
+Dupont V, Pourkashanian M, Richardson AP, Williams A & Scott MJ (1996) The importance of prompt-NO formation and of NO reconversion in strained laminar binary rich partially premixed flames. International Symposium on Transport Phenomena in Combustion, 8th, Vol. 1 (pp 263-274)
+Williams A, Pourkashanian M, Dupont V & Chagger HK (1996) The chemistry and kinetics of formation of nitro-PAH’s. 26th International Symposium on Combustion
+Pourkashanian M & Yap L (1996) Low-NOx oxy-fuel flames for uniform heat transfer. The annual TMS Meeting (pp 376-388)
+Norman JS, Pourkashanian M & Williams A (1996) Effect of temperature and pressure on char reactivity. Carbon ’96
+Williams A, Pourkashanian M & Yap L (1996) Oxygen staged flat-jet burner oxy-fuel flames for uniform heat transfer and ulltra low NOx emission. American Flame Research Council Spring Technical Meeting
+Williams A, Pourkashanian M, Yap L, Richardson AP & Howard LM (1996) NOx emissions scaling of oxygen enriched methane turbulent diffusion flames. American Flame Research Council Spring Technical Meeting
+Williams A, Pourkashanian M & Yap L (1996) Constrained equilibium modelling of soot formation in oxygen enriched turbulent diffusion flames. American Flame Research Council Spring Technical Meeting
+Williams A, Pourkashanian M, McDonald AT, Chagger HK & Kendall A (1996) The formation of dioxins and other toxic organic compounds from the combustion of biofuels. Finnish-Swedish Flame Days 1996
+Williams A, Pourkashanian M & Norman JS (1996) Carbon-oxygen reactions at high temperatures and pressures. Carbon ’96
+Williams A, Chagger HK, Jones JM, Pourkashanian M & Rowlands L (1996) Models of coal devolatilisation and its implications for the environment. Meeting of the Environment Division of the Coal Research Forum
+Dacombe PJ, Graville SR, Pourkashanian M, Williams A & Yap L (1995) Study of the fragmentation nature of granular coal particles in a high temperature environment. COAL SCIENCE, VOLS I AND II, Vol. 24 (pp 651-654)
+Norman JS, Pourkashanian M, Williams A & ENERGY I (1995) The formation of ammonia in IGCC gasifiers and its control. INSTITUTE OF ENERGY'S SECOND INTERNATIONAL CONFERENCE ON COMBUSTION & EMISSIONS CONTROL (pp 109-118)
+Amin EM, Pourkashanian M, Richardson AP, Williams A, Yap LT, Yetter RA & Moussa NA (1995) Fuel preheat as NOx abatement strategy for oxygen enriched turbulent diffusion flames. American Society of Mechanical Engineers, Environmental Control Division Publication, EC, Vol. 1 (pp 259-269)
+Dupont V, Pourkashanian M & Williams A (1993) Experimental and theoretical model of a multi-jet natural gas burner. the Joint Meeting of the British and German Sections of the Combustion Institute
+Dupont V, Gray WA, Pourkashanian M & Williams A (1992) Radiant heat transfer in natural gas central heating units. The Eurotherm Seminar 21 on Heat Transfer in Semi-Transparent Media
+Dupont V, Pourkashanian M & Williams A (1992) An investigation of ultra-low NOx natural gas burners. The American Flame Research Committee, 1992 Fall International Symposium on Emissions Reduction and Energy Conservation: Recent Progress in Combustion Technology
+Murdoch PL, Pourkashanian M & Williams A (1985) The mechanism of combustion of coal-water slurries. Symposium (International) on Combustion, Vol. 20(1) (pp 1409-1418)
+Murdoch P, Pourkashanian M & Williams A (1985) COMBUSTION OF COAL AND COKE-WATER SLURRIES.. Institution of Chemical Engineers Symposium Series(95) (pp 177-192)
+Pourkashanian M & Williams A (1983) COMBUSTION OF COAL-WATER SLURRIES.. Institution of Chemical Engineers Symposium Series(83) (pp 149-169)
+poggio D, walker M, Nimmo W & pourkashanian M () Model based evaluation of control strategies for the operation of anaerobic digesters in a microgrid with variable biogas demand.. 13th World Congress on Anaerobic Digestion: Recovering (bio) Resources for the World, 25 June 2013.
+Nimmo W, Pickard S, Daood S & Pourkashanian M () An analysis of the kinetics of coal and biomass decomposition under pyrolysis, and combustion in air-fired and oxyfuel conditions. European Conference on Coal Research and Its Applications (ECCRIA). Nottingham University, 10 September 2012.
+Szuhanszki S, Nimmo W, Pranzitelli A, Black S, Edge P, Ma L & Pourkashanian M () OXY-CAP UK, EON-EPSRC Strategic Partnership. 2nd Oxyfuel Combustion Conference, OCC2. Yeppoon, Australia, 12 September 2011 - 16 September 2011.
+Akram M, Ali , hughes K, pourkashanian M & ingham D () Sensitivity analysis of post-combustion CO2 capture at pilot scale level. 3rd Post Combustion Capture Conference (PCCC3). Regina, 8 September 2015 - 11 September 2015.
+Mallick T, Reddy S, Sarmah N, Banerjee S, Micheli L, Gosh P, Walker G, Choudhury M, Pourkashanian M, Hamilton J, Walker M, Manickam K, Hazara A, Balachandran S, Lokeswaran S, Grant D, Nimmo W & Matthew A () Design concept and configuration of a hybrid renewable energy system for rural electrification in India through BioCPV project. IV th International Conference on Advances in Energy Research Indian Institute of Technology Bombay,, 10 December 2013 - 12 December 2013.
+Chilton S, Pourkashanian M & Nimmo W () A Study of The Effect of Agglomeration due to Utilisation of Biomass and Low Grade Coal on the Bed of a Pilot Scale 350KW Fluidised Bed. 35th International Symposium on Combustion. San Francisco, 3 August 2014 - 8 August 2014.
+Rizvi T, Pourkashanian M & Nimmo W () Effect Of Gas And Deposit Composition On Corrosion In Oxyfuel Environments.. The 35th International Symposium on Combustion. San Francisco, 3 August 2014 - 8 August 2014.
+Pickard S, Daood S, Pourkashanian M & Nimmo W () Oxygen-enriched co-combustion of biomass for CCS applications. The 35th International Symposium on Combustion. San Francisco, 3 August 2014 - 8 August 2014.
+Szuhanszki J, Nimmo W, Black S & Pourkashanian M () Oxy-Fuel Combustion Performance Evaluation in a 250 kW Test Facility. The 35th International Symposium on Combustion. San Francisco, 3 August 2014 - 8 August 2014.
+Chilton S, Nimmo W & Pourkashanian M () A study of the effect of agglomeration due to utilization of biomass and low grade coal on the bed of a pilot scale 350KW fluidized bed combustor system.. International Bioenergy Conference. Manchester, 11 March 2014 - 13 March 2014.
+Chilton S, Pourkashanian M & Nimmo W () The effect of agglomeration due to utilization of biomass on the bed of a pilot scale 350KW fluidized bed combustor. 23rd European Biomass Conference and Exhibition. Vienna, 1 June 2015 - 4 June 2015.
+Daood S, Nimmo W, Rizvi A, Javed T, Ingham D & Pourkashanian M () Reactivity analysis of Tharparker lignite coal under air, oxygen enriched air and oxyfuel reaction atmospheres in a thermogravimetric analyser. UK Pakistan Coal Conference. Leeds, 3 July 2012 - 5 July 2012.
+Pickard S, Daood S, Nimmo W, Lord R, Pourkashanian M & Szuhanszki J () Pilot scale firing of brownfield biomass under oxyfuel conditions. 2nd Intl workshop on biomass, carbon capture and storage. Cardiff, 25 October 2011 - 26 October 2011.
+Black S, Szuhanszki J, Nimmo W & Pourkashanian M () 250 kW Oxy-fuel Combustion Test Facility. OCC3, 9 September 2013 - 11 September 2013.
+Al-Qayim K, Nimmo W & Pourkashanian M () Comparative Techno-economic Assessment of Biomass and Coal with CCS Technology in a Pulverised Combustion Power Plant in the United Kingdom. 23rd European Biomass Conference and Exhibition. Vienna, 1 June 2015 - 4 June 2015.
+Akram M, Blakey S & Pourkashanian M () Influence of gas turbine exhaust CO2 concentration on the performance of Post combustion carbon capture plant. Proceedings of ASME Turbo Expo 2015: Turbine Technical Conferen ce and Exposition. Montreal, 15 June 2015 - 19 June 2015.
+poggio D, Nimmo W, walker M & pourkashanian M () Estimation of the kinetic model parameters of anaerobic digestion of waste materials using semi-continuous laboratory scale digesters.. 4th International Conference on "Advances in Energy Research, 10 December 2013.
+Patterson PM, Pourkashanian M & Wilson CW () Prediction of Premixed Laminar Flame Structure and Burning Velocity of Kerosene-Air Mixtures. 28th International Symposium on Combustion
+Gubba SR, Ma L, Pourkashanian M & Williams A () Effect of transient internal heat transfer of large coal particles in a pulverised coal fired combustion test facility. 8th European Coal Research Conference. Leeds University, Leeds, UK, 6 September 2010 - 8 September 2010.
+Caridi D, Couling D, Gharebaghi M, Gubba SR, Irons RMA, Ma L, Pourkashanian M, Pranzitelli A & Williams A () Comparison of RANS and LES turbulence models for predicting air-coal and oxy-coal combustion behaviours. 2nd Oxyfuel Combustion Conference. Queensland, Australia, 12 September 2011 - 16 September 2011.
+Rizvi T, Pourkashanian & Nimmo W () Corrosion in Oxyfuel Environments and the Effect of Coal and Biomass Ash Deposits. European Conference on Coal Research and its Applications, ECCRIA 10, 15 September 2014.
+Akram M, Somehsaraei HN, Ali U, Palma CF, Majoumerd MM, Pourkashanian M, Assadi M & Font Palma C () Experimentally Validated Models of a Micro Gas Turbine with Post-Combustion CO2 Capture for Evaluation of Exhaust Gas Recirculation Potential with Two Experimentally Validated Models. GT2017-63551
+Reports
+Dupont VA, Hughes KJ, Pourkashanian M & Tomlin AS (2000) Experimental and modeling study of sulphur and nitrogen doped premixed methane flames at low pressure
+Dupont VA, Hughes KJ, Pourkashanian M & Tomlin AS (2000) Experimental and modeling study of sulphur and nitrogen doped premixed methane flames at low pressure
+Jones JM, Pourkashanian M & Williams A (1998) Modelling of combustion processes in stationary pant/appliances
+Habib R, Jones JM, Pourkashanian M, Rowlands L, Thomas KM, Williams A & Zhu Q (1998) NOx release during coal and char combustion
+Contact us
+Information for visitors
+Jobs
+Support us
+Students' Union
+Current students
+Staff
+Connect
+Facebook
+Twitter
+Snapchat
+YouTube
+Instagram
+LinkedIn
+Weibo
+The University of Sheffield
+Western Bank
+Sheffield, S10 2TN
+UK
+Feedback
+Privacy
+FOI
+© 2017 The University of Sheffield

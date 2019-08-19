@@ -1,0 +1,90 @@
+MENU
+
+Professors
+Michael Alfaro
+Priyanga Amarasekare
+Paul Barber
+Daniel Blumstein
+Donald Buth
+Peggy Fong
+Malcolm Gordon
+Patricia Adair Gowaty
+Gregory Grether
+Stephen Hubbell
+David Jacobs
+Peter Kareiva
+Nathan Kraft
+James Lloyd-Smith
+Kirk E. Lohmueller
+Glen MacDonald
+Peter Narins
+Barbara Natterson
+Peter Nonacs
+Noa Pinter-Wollman
+Philip Rundel
+Lawren Sack
+Van Savage
+Barney Schlinger
+H. Bradley Shaffer
+Thomas Smith
+Victoria Sork
+Charles Taylor
+Blaire Van Valkenburgh
+Robert Wayne
+Pamela Yeh
+Felipe Zapata
+Cheryl Ann Zimmer
+Richard Zimmer
+
+Lecturers and Adjunct
+Christy Brigham
+Jon Keeley
+Brenda Larison
+Seth Riley
+Debra Shier
+Xiaoming Wang
+
+Emeriti
+Clifford Brunk
+Martin Cody
+Franz Engelmann
+Elma Gonzalez
+William Hamner
+Henry Hespenheide
+J. Lee Kavanau
+Ken Nagy
+Park Nobel
+Richard Vance
+Eduardo Zieger
+Michael Alfaro
+Professor
+email:   michaelalfaro@ucla.edu
+phone:  
+office:   5217 LSB
+
+
+Recent Courses
+E&S SCI M216 | EE BIOL M200A - Evolutionary Biology
+EE BIOL 194B - Research Group or Internship Seminars: Ecology and Evolutionary Biology
+EE BIOL C177 | EE BIOL C234 - Practical Computing for Evolutionary Biologists and Ecologists
+
+Education
+B.A., Dramatic Arts, University of Calilfornia, Davis 1989
+M.A., Biology, Humboldt State University, Arcata, CA 1995
+PhD, Evolutionary Biology, University of Chicago 2000
+
+
+Research Interests
+The central goal of my research program is to understand the factors that govern the evolutionary dynamics of organismal diversification. How can we explain the uneven patterns of species richness and morphological diversity across the Tree of Life? Where is macroevolutionary theory adequate to explain diversity patterns and where must new models and methods be developed? Does morphological diversity always signal mechanical, functional, or ecological diversity? To address these questions, I work on two main systems: coral reef fishes and neotropical primates. My research approach is interdisciplinary and quantitative and crosses traditional boundaries among molecular phylogenetics, evolutionary morphology, and theoretical evolution. I construct evolutionary trees using phylogenomic approaches, test evolutionary hypotheses using phylogenetic statis- tical methods; use models of trait evolution to explore form-function dynamics identify and quantify organismal diversity using morphological and functional morphological techniques
+
+Selected Publications
+Chang, Jonathan; Alfaro, Michael E, "Crowdsourced geometric morphometrics enable rapid large-scale collection and analysis of phenotypic data", Methods Ecol. Evol, 7 : 472-482 (2016) [link].
+McGee, Matthew D; Faircloth, Brant C; Borstein, Samuel R; Zheng, Jimmy; Darrin Hulsey, C; Wainwright, Peter C; Alfaro, Michael E, "Replicated divergence in cichlid radiations mirrors a major vertebrate innovation", Proc. Biol. Sci, 283 : 1-6 (2016) [link].
+Gjesfjeld, Erik; Chang, Jonathan; Silvestro, Daniele; Kelty, Christopher; Alfaro, Michael, "Competition and extinction explain the evolution of diversity in American automobiles", Palgrave Commun, 2 : 1-6 (2016) [link].
+Phuong, Mark A; Mahardika, Gusti N; Alfaro, Michael E, "Dietary breadth is positively correlated with venom complexity in cone snails", BMC Genomics, 17 : 401-416 (2016) [link].
+Santini, Francesco; Sorenson, Laurie; Alfaro, Michael E, "Phylogeny and biogeography of hogfishes and allies (Bodianus, Labridae)", Mol. Phylogenet. Evol, 99 : 1-6 (2016) [link].
+Alfaro, Michael E, "Evolution: Bioluminescent Courtship as an Engine of Diversity", Curr. Biol, 26 : 667-669 (2016) [link].
+Alencar, Laura R V; Quental, Tiago B; Grazziotin, Felipe G; Alfaro, Michael L; Martins, Marcio; Venzon, Mericien; Zaher, Hussam, "Diversification in vipers: Phylogenetic relationships, time of divergence and shifts in speciation rates", Mol. Phylogenet. Evol, 105 : 55-62 (2016) [link].
+Boubli, Jean P; Ribas, Camila; Lynch Alfaro, Jessica W; Alfaro, Michael E; da Silva, Maria Nazareth F; Pinho, Gabriela M; Farias, Izeni P, "Spatial and temporal patterns of diversification on the Amazon: A test of the riverine hypothesis for all diurnal primates of Rio Negro and Rio Branco in Brazil", Mol. Phylogenet. Evol, 82 : 400-412 (2015) [link].
+Blumstein, Daniel T; Buckner, Janet; Shah, Sajan; Patel, Shane; Alfaro, Michael E; Natterson-Horowitz, Barbara, "The evolution of capture myopathy in hooved mammals: a model for human stress cardiomyopathy?", Evol Med Public Health, 2015 : 195-203 (2015) [link].
+Iglesias, T L; Dornburg, A; Brandley, M C; Alfaro, M E; Warren, D L, "Life in the unthinking depths: energetic constraints on encephalization in marine fishes", J. Evol. Biol, 28` : 1080-1090 (2015) [link].

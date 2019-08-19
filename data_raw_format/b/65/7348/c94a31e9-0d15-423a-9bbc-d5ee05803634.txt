@@ -1,0 +1,70 @@
+Peter Olver's Home Page
+Welcome!
+Last updated:   June 13, 2017
+Send e-mail:   olver@umn.edu
+
+Publications
+Books
+Applied Linear Algebra
+Introduction to Partial Differential Equations
+     Students' Selected Solutions Manual now available
+Papers, preprints, etc. — listed by subject
+Published papers — in chronological order
+Recent preprints — latest additions on January 25, 2017
+Other publications
+Lecture Notes
+The Calculus of Variations
+Complex Analysis and Conformal Mapping
+A Case of Serial Plagiarism
+Topics in Fourier Analysis:
+   DFT & FFT, Wavelets, Laplace Transform
+Nonlinear Ordinary Differential Equations
+Nonlinear Systems
+Numerical Analysis
+Quantum Mathematics
+Orthogonal Bases and the QR Algorithm
+Symmetry and Moving Frames
+Vector Calculus in Two Dimensions
+Vector Calculus in Three Dimensions
+Movies
+Movies for my Introduction to Partial Differential Equations text
+Linear Dispersion on a Periodic Domain
+Nonlinear Dispersion on a Periodic Domain
+Curriculum Vitae  (February 2, 2017)
+
+Courses
+Slides for Seminar and Conference Talks
+Conferences of Interest
+Journals, Book Series, Organizations
+Students, Postdocs, Visitors
+Collaborators
+Software
+Mathematica Programs:   Research   Teaching
+Matlab Programs
+Maple Programs
+TeX Macros:   OTeX
+University of Minnesota Seminar Schedules
+School of Mathematics Seminar Schedule
+Math Physics Seminar
+Applied and Computational Mathematics Colloquium
+Institute for Mathematics and its Applications (IMA) Weekly Schedule
+University of Minnesota Links
+School of Mathematics
+Math Library
+Institute for Mathematics and its Applications (IMA)
+Fine Theoretical Physics Institute (FTPI)
+College of Science and Engineering (CSE)
+Family Links
+The Bahá'í Faith
+Professor Peter J. Olver,  Head
+School of Mathematics
+University of Minnesota
+Minneapolis, Minnesota   55455
+USA
+
+Office:   Vincent Hall 127
+Phone:   612-625-5591
+Fax:       612-626-2017
+e-mail:   olver@umn.edu
+http://www.math.umn.edu/~olver
+  Disclaimer: The views and opinions expressed in all web pages are strictly those of the page author. The contents have not been reviewed or approved by the University of Minnesota.

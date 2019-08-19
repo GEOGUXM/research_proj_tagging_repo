@@ -1,0 +1,62 @@
+Skip over navigation
+Program in Science, Technology and Environmental Policy (STEP)
+Home
+Degrees & Certificates
+Courses
+People
+Faculty
+Researchers
+Ali Ahmad
+Amy Lerner
+Pratikshya Bohra-Mishra
+Ruohong Cai
+Francis Dennig
+Lyndon Despard Estes
+Jonathan Green
+Bert Harris
+Sol Hsiang
+Fangyuan Hua
+Rachel Licker
+Chris Little
+Yonggang Liu
+Marina Mastrorillo
+Morgan Tingley
+Dan Westervelt
+Xin Zhang
+Students
+Ph.D. Alumni
+Fellows & Visitors
+Seminars
+Conferences & Reports
+Employment & Fellowship Opportunities
+Related Links
+Events
+Search
+Videos
+Brochure
+Site Map
+
+Chris Little
+
+The interaction of the ocean and continental ice sheets is critical to understanding climate over Earth's history, as well as human impacts arising from future climate changes. In my research and teaching, I seek to improve the physical understanding of this coupled system -- and its societal relevance.
+  My Ph.D. research, in the Princeton Geosciences department, investigated physical controls on the ocean-driven melting of floating ice shelves, as well as its sensitivity to changing ocean conditions. Current research focuses on the coupling between ocean-driven melting of ice shelves and the dynamics of ice sheets, particularly in fast-flowing ice streams where recent ice sheet thinning has been observed. With collaborators at NOAA’s Geophysical Fluid Dynamic Laboratory, I am developing a coupled climate/ice sheet model.
+  Despite recent improvements in the understanding of many important ice-ocean processes, continental-scale ice sheet models remain insufficient to fulﬁll policy demands relating to sea level change. Process, parameter, forcing, and observational uncertainties demand an ongoing effort to better quantify the range of possible outcomes. In two recent papers co-authored with Dr. Oppenheimer and Dr. Nathan Urban, I have proposed a ``bottom-up'' approach to projecting sea level change that can incorporate reduced models (either in physical processes or spatial extent). Within this framework, a lessened computational burden facilitates uncertainty quantification and the presentation of probabilistic projections. Sea level projections may also be constrained and updated with data at a wide range of spatial scales.
+  We are currently extending this framework to include: new constraints from process-based ice sheet models, smaller-scale observations of ice loss, paleo-sea-level observations, and expert judgment; changes in the Greenland ice sheet; and the solid earth and gravitational response that modulates sea level changes at the local level. When coupled to regionally resolved glacier and thermal expansion sea level components, this framework may be used to generate a full probabilistic description of local changes in sea level that may be assessed consistently with other climate-related risks.
+  Selected publications
+Little, C.M., M. Oppenheimer, and N. M. Urban. Upper bounds on 21st century Antarctic ice loss assessed using a probabilistic framework, Nature Climate Change, In press.
+Little, C.M., N. M. Urban, and M. Oppenheimer, A probabilistic framework for assessing the ice sheet contribution to sea level change, Proc Nat Acad Sci, In press.
+Goldberg, D.N., C. M. Little, O. V. Sergienko, A. Gnanadesikan, R. Hallberg, and M. Oppenheimer. Investigation of land ice-ocean interaction with a fully coupled ice-ocean model, Part 1: Model description and behavior. Journal of Geophysical Research, Earth Surface, 117, F02037.
+Goldberg, D.N., C. M. Little, O. V. Sergienko, A. Gnanadesikan, R. Hallberg, and M. Oppenheimer. 2012. Investigation of land ice-ocean interaction with a fully coupled ice-ocean model, Part 2: Sensitivity to external forcings. Journal of Geophysical Research, Earth Surface, 117, F02038.
+Little, C.M., D.N. Goldberg, O. V. Sergienko, and A. Gnanadesikan. 2012. On the coupled response to ice shelf basal melting. Journal of Glaciology. 58(208): 203-215.
+  FULL LIST OF PUBLICATIONS (CV)
+Contact STEP
+Chuck Crosby, Manager - STEP Program
+E-mail: ccrosby@princeton.edu
+Tel: (609) 258-0293
+
+Michael Oppenheimer, Director
+Albert G. Milbank Professor of Geosciences and International Affairs
+
+Woodrow Wilson School of Public and International Affairs
+© 2017 The Trustees of Princeton University
+Last update: February 6, 2013

@@ -1,0 +1,940 @@
+<html class="js -moz- js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths -moz- linux firefox firefoxX gecko gecko53" lang="en"><!--<![endif]--><head>
+   
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://artsandsciences.sc.edu/poli/sites/sc.edu.poli/files/favicon_1.ico" type="image/vnd.microsoft.icon">
+<link rel="shortlink" href="/poli/node/102">
+<link rel="canonical" href="/poli/andrea-mcatee">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+  <title>Andrea McAtee | Political Science</title>
+    <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+   <style media="" data-href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Open+Sans:300,400italic,700italic,600italic,400,700,600,800|Arvo:400,700">/* latin */
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arvo'), url(http://fonts.gstatic.com/s/arvo/v9/J0GYVYTizO1mjpT3aOcSbQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin */
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arvo Bold'), local('Arvo-Bold'), url(http://fonts.gstatic.com/s/arvo/v9/Ya11CJGBCnKoJHvb8B2EOw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin */
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Sans'), local('DroidSans'), url(http://fonts.gstatic.com/s/droidsans/v6/s-BiyweUPV0v-yRb-cjciPk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin */
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Droid Sans Bold'), local('DroidSans-Bold'), url(http://fonts.gstatic.com/s/droidsans/v6/EFpQQyG9GqCrobXxL-KRMYWiMMZ7xLd792ULpGE4W_Y.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTa-j2U0lmluP9RWlSytm3ho.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTZX5f-9o1vgP2EXwfjgl7AY.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTRWV49_lSm1NYrwo-zkhivY.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTaaRobkAwv3vxw3jMhVENGA.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTf8zf_FOSsgRmwsS7Aa9k2w.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTT0LW-43aMEzIO6XUTLjad8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v14/DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(http://fonts.gstatic.com/s/opensans/v14/K88pR3goAWT7BTt32Z01mxJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(http://fonts.gstatic.com/s/opensans/v14/RjgO7rYTmqiVp7vzi-Q5URJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(http://fonts.gstatic.com/s/opensans/v14/LWCjsQkB6EMdfHrEVqA1KRJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(http://fonts.gstatic.com/s/opensans/v14/xozscpT2726on7jbcb_pAhJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(http://fonts.gstatic.com/s/opensans/v14/59ZRklaO5bWGqF5A9baEERJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(http://fonts.gstatic.com/s/opensans/v14/u-WUoqrET9fUeobQW7jkRRJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(http://fonts.gstatic.com/s/opensans/v14/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v14/MTP_ySUJH_bn48VBG8sNSq-j2U0lmluP9RWlSytm3ho.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v14/MTP_ySUJH_bn48VBG8sNSpX5f-9o1vgP2EXwfjgl7AY.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v14/MTP_ySUJH_bn48VBG8sNShWV49_lSm1NYrwo-zkhivY.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v14/MTP_ySUJH_bn48VBG8sNSqaRobkAwv3vxw3jMhVENGA.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v14/MTP_ySUJH_bn48VBG8sNSv8zf_FOSsgRmwsS7Aa9k2w.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v14/MTP_ySUJH_bn48VBG8sNSj0LW-43aMEzIO6XUTLjad8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(http://fonts.gstatic.com/s/opensans/v14/MTP_ySUJH_bn48VBG8sNSugdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzK-j2U0lmluP9RWlSytm3ho.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzJX5f-9o1vgP2EXwfjgl7AY.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzBWV49_lSm1NYrwo-zkhivY.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzKaRobkAwv3vxw3jMhVENGA.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzP8zf_FOSsgRmwsS7Aa9k2w.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzD0LW-43aMEzIO6XUTLjad8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v14/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(http://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hq-j2U0lmluP9RWlSytm3ho.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(http://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hpX5f-9o1vgP2EXwfjgl7AY.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(http://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hhWV49_lSm1NYrwo-zkhivY.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(http://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hqaRobkAwv3vxw3jMhVENGA.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(http://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hv8zf_FOSsgRmwsS7Aa9k2w.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(http://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hj0LW-43aMEzIO6XUTLjad8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(http://fonts.gstatic.com/s/opensans/v14/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://fonts.gstatic.com/s/opensans/v14/xjAJXh38I15wypJXxuGMBjTOQ_MqJVwkKsUn0wKzc2I.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://fonts.gstatic.com/s/opensans/v14/xjAJXh38I15wypJXxuGMBjUj_cnvWIuuBMVgbX098Mw.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://fonts.gstatic.com/s/opensans/v14/xjAJXh38I15wypJXxuGMBkbcKLIaa1LC45dFaAfauRA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://fonts.gstatic.com/s/opensans/v14/xjAJXh38I15wypJXxuGMBmo_sUJ8uO4YLWRInS22T3Y.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://fonts.gstatic.com/s/opensans/v14/xjAJXh38I15wypJXxuGMBr6up8jxqWt8HVA3mDhkV_0.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://fonts.gstatic.com/s/opensans/v14/xjAJXh38I15wypJXxuGMBiYE0-AqJ3nfInTTiDXDjU4.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://fonts.gstatic.com/s/opensans/v14/xjAJXh38I15wypJXxuGMBo4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxmgpAmOCqD37_tyH_8Ri5MM.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxsPNMTLbnS9uQzHQlYieHUU.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxgyhumQnPMBCoGYhRaNxyyY.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxhUVAXEdVvYDDqrz3aeR0Yc.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxlf4y_3s5bcYyyLIFUSWYUU.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxnywqdtBbUHn3VPgzuFrCy8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxl2umOyRU7PgRiv8DXcgJjk.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxp6iIh_FvlUHQwED9Yt5Kbw.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxi_vZmeiCMnoWNN9rHBYaTc.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxiFaMxiho_5XQnyRZzQsrZs.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxgalQocB-__pDVGhF3uS2Ks.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxmhQUTDJGru-0vvUpABgH8I.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxujkDdvhIIFj_YMdgqpnSB0.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(http://fonts.gstatic.com/s/opensans/v14/PRmiXeptR36kaC0GEAetxolIZu-HDpmDIZMigmsroc4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+</style>
+  <style media="all" data-href="http://artsandsciences.sc.edu/poli/sites/sc.edu.poli/files/css/css_bDGC_7rapYVB1Qa3osnxOCkR5Iboj4bhJQ6GQHOhhI4.css">#autocomplete{border:1px solid;overflow:hidden;position:absolute;z-index:100;}#autocomplete ul{list-style:none;list-style-image:none;margin:0;padding:0;}#autocomplete li{background:#fff;color:#000;cursor:default;white-space:pre;zoom:1;}html.js input.form-autocomplete{background-image:url("http://artsandsciences.sc.edu/poli/misc/throbber-inactive.png");background-position:100% center;background-repeat:no-repeat;}html.js input.throbbing{background-image:url("http://artsandsciences.sc.edu/poli/misc/throbber-active.gif");background-position:100% center;}html.js fieldset.collapsed{border-bottom-width:0;border-left-width:0;border-right-width:0;height:1em;}html.js fieldset.collapsed .fieldset-wrapper{display:none;}fieldset.collapsible{position:relative;}fieldset.collapsible .fieldset-legend{display:block;}.form-textarea-wrapper textarea{display:block;margin:0;width:100%;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;}.resizable-textarea .grippie{background:#eee url("http://artsandsciences.sc.edu/poli/misc/grippie.png") no-repeat center 2px;border:1px solid #ddd;border-top-width:0;cursor:s-resize;height:9px;overflow:hidden;}body.drag{cursor:move;}.draggable a.tabledrag-handle{cursor:move;float:left;height:1.7em;margin-left:-1em;overflow:hidden;text-decoration:none;}a.tabledrag-handle:hover{text-decoration:none;}a.tabledrag-handle .handle{background:url("http://artsandsciences.sc.edu/poli/misc/draggable.png") no-repeat 6px 9px;height:13px;margin:-0.4em 0.5em;padding:0.42em 0.5em;width:13px;}a.tabledrag-handle-hover .handle{background-position:6px -11px;}div.indentation{float:left;height:1.7em;margin:-0.4em 0.2em -0.4em -0.4em;padding:0.42em 0 0.42em 0.6em;width:20px;}div.tree-child{background:url("http://artsandsciences.sc.edu/poli/misc/tree.png") no-repeat 11px center;}div.tree-child-last{background:url("http://artsandsciences.sc.edu/poli/misc/tree-bottom.png") no-repeat 11px center;}div.tree-child-horizontal{background:url("http://artsandsciences.sc.edu/poli/misc/tree.png") no-repeat -11px center;}.tabledrag-toggle-weight-wrapper{text-align:right;}table.sticky-header{background-color:#fff;margin-top:0;}.progress .bar{background-color:#fff;border:1px solid;}.progress .filled{background-color:#000;height:1.5em;width:5px;}.progress .percentage{float:right;}.ajax-progress{display:inline-block;}.ajax-progress .throbber{background:transparent url("http://artsandsciences.sc.edu/poli/misc/throbber-active.gif") no-repeat 0px center;float:left;height:15px;margin:2px;width:15px;}.ajax-progress .message{padding-left:20px;}tr .ajax-progress .throbber{margin:0 2px;}.ajax-progress-bar{width:16em;}.container-inline div,.container-inline label{display:inline;}.container-inline .fieldset-wrapper{display:block;}.nowrap{white-space:nowrap;}html.js .js-hide{display:none;}.element-hidden{display:none;}.element-invisible{position:absolute !important;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);overflow:hidden;height:1px;}.element-invisible.element-focusable:active,.element-invisible.element-focusable:focus{position:static !important;clip:auto;overflow:visible;height:auto;}.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}* html .clearfix{height:1%;}*:first-child + html .clearfix{min-height:1%;}
+div.messages{background-position:8px 8px;background-repeat:no-repeat;border:1px solid;margin:6px 0;padding:10px 10px 10px 50px;}div.status{background-image:url("http://artsandsciences.sc.edu/poli/misc/message-24-ok.png");border-color:#be7;}div.status,.ok{color:#234600;}div.status,table tr.ok{background-color:#f8fff0;}div.warning{background-image:url("http://artsandsciences.sc.edu/poli/misc/message-24-warning.png");border-color:#ed5;}div.warning,.warning{color:#840;}div.warning,table tr.warning{background-color:#fffce5;}div.error{background-image:url("http://artsandsciences.sc.edu/poli/misc/message-24-error.png");border-color:#ed541d;}div.error,.error{color:#8c2e0b;}div.error,table tr.error{background-color:#fef5f1;}div.error p.error{color:#333;}div.messages ul{margin:0 0 0 1em;padding:0;}div.messages ul li{list-style-image:none;}
+fieldset{margin-bottom:1em;padding:0.5em;}form{margin:0;padding:0;}hr{border:1px solid gray;height:1px;}img{border:0;}table{border-collapse:collapse;}th{border-bottom:3px solid #ccc;padding-right:1em;text-align:left;}tbody{border-top:1px solid #ccc;}tr.even,tr.odd{background-color:#eee;border-bottom:1px solid #ccc;padding:0.1em 0.6em;}th.active img{display:inline;}td.active{background-color:#ddd;}.item-list .title{font-weight:bold;}.item-list ul{margin:0 0 0.75em 0;padding:0;}.item-list ul li{margin:0 0 0.25em 1.5em;padding:0;}.form-item,.form-actions{margin-top:1em;margin-bottom:1em;}tr.odd .form-item,tr.even .form-item{margin-top:0;margin-bottom:0;white-space:nowrap;}.form-item .description{font-size:0.85em;}label{display:block;font-weight:bold;}label.option{display:inline;font-weight:normal;}.form-checkboxes .form-item,.form-radios .form-item{margin-top:0.4em;margin-bottom:0.4em;}.form-type-radio .description,.form-type-checkbox .description{margin-left:2.4em;}input.form-checkbox,input.form-radio{vertical-align:middle;}.marker,.form-required{color:#f00;}.form-item input.error,.form-item textarea.error,.form-item select.error{border:2px solid red;}.container-inline .form-actions,.container-inline.form-actions{margin-top:0;margin-bottom:0;}.more-link{text-align:right;}.more-help-link{text-align:right;}.more-help-link a{background:url("http://artsandsciences.sc.edu/poli/misc/help.png") 0 50% no-repeat;padding:1px 0 1px 20px;}.item-list .pager{clear:both;text-align:center;}.item-list .pager li{background-image:none;display:inline;list-style-type:none;padding:0.5em;}.pager-current{font-weight:bold;}#autocomplete li.selected{background:#0072b9;color:#fff;}html.js fieldset.collapsible .fieldset-legend{background:url("http://artsandsciences.sc.edu/poli/misc/menu-expanded.png") 5px 65% no-repeat;padding-left:15px;}html.js fieldset.collapsed .fieldset-legend{background-image:url("http://artsandsciences.sc.edu/poli/misc/menu-collapsed.png");background-position:5px 50%;}.fieldset-legend span.summary{color:#999;font-size:0.9em;margin-left:0.5em;}tr.drag{background-color:#fffff0;}tr.drag-previous{background-color:#ffd;}.tabledrag-toggle-weight{font-size:0.9em;}body div.tabledrag-changed-warning{margin-bottom:0.5em;}tr.selected td{background:#ffc;}td.checkbox,th.checkbox{text-align:center;}.progress{font-weight:bold;}.progress .bar{background:#ccc;border-color:#666;margin:0 0.2em;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}.progress .filled{background:#0072b9 url("http://artsandsciences.sc.edu/poli/misc/progress.gif");}
+</style>
+<style media="all" data-href="http://artsandsciences.sc.edu/poli/sites/sc.edu.poli/files/css/css_VwWEfXple0F1IAREqxWtdyBclTDY4oTBYXg-tgQe5Do.css">.calendar-calendar tr.odd,.calendar-calendar tr.even{background-color:#fff;}.calendar-calendar table{border-collapse:collapse;border-spacing:0;margin:0 auto;padding:0;width:100%;}.calendar-calendar .month-view table{border:none;padding:0;margin:0;width:100%;}.calendar-calendar .year-view td{width:32%;padding:1px;border:none;}.calendar-calendar .year-view td table td{width:13%;padding:0;}.calendar-calendar tr{padding:0;margin:0;background-color:white;}.calendar-calendar th{text-align:center;margin:0;}.calendar-calendar th a{font-weight:bold;}.calendar-calendar td{width:14%;border:1px solid #ccc;color:#777;text-align:right;vertical-align:top;margin:0;padding:0;}.calendar-calendar .mini{border:none;}.calendar-calendar td.week{width:1%;min-width:1%;}.calendar-calendar .week{clear:both;font-style:normal;color:#555;font-size:0.8em;}.calendar-calendar .inner{height:auto !important;height:5em;padding:0;margin:0;}.calendar-calendar .inner div{padding:0;margin:0;}.calendar-calendar .inner p{padding:0 0 .8em 0;margin:0;}.calendar-calendar td a{font-weight:bold;text-decoration:none;}.calendar-calendar td a:hover{text-decoration:underline;}.calendar-calendar td.year,.calendar-calendar td.month{text-align:center;}.calendar-calendar th.days{color:#ccc;background-color:#224;text-align:center;padding:1px;margin:0;}.calendar-calendar div.day{float:right;text-align:center;padding:0.125em 0.25em 0 0.25em;margin:0;background-color:#f3f3f3;border:1px solid gray;border-width:0 0 1px 1px;clear:both;width:1.5em;}.calendar-calendar div.calendar{background-color:#fff;border:solid 1px #ddd;text-align:left;margin:0 .25em .25em 0;width:96%;float:right;clear:both;}.calendar-calendar .day-view div.calendar{float:none;width:98%;margin:1% 1% 0 1%;}.calendar-calendar div.title{font-size:.8em;text-align:center;}.calendar-calendar div.title a{color:#000;}.calendar-calendar div.title a:hover{color:#c00;}.calendar-calendar .content{clear:both;padding:3px;padding-left:5px;}.calendar div.form-item{white-space:normal;}table td.mini,table th.mini,table.mini td.week{padding:0 1px 0 0;margin:0;}table td.mini a{font-weight:normal;}.calendar-calendar .mini-day-off{padding:0px;}.calendar-calendar .mini-day-on{padding:0px;}table .mini-day-on a{text-decoration:underline;}.calendar-calendar .mini .title{font-size:.8em;}.mini .calendar-calendar .week{font-size:.7em;}.mini-row{width:100%;border:none;}.mini{width:32%;vertical-align:top;}.calendar-calendar .stripe{height:5px;width:auto;font-size:1px !important;line-height:1px !important;}.calendar-calendar .day-view .stripe{width:100%;}table.calendar-legend{background-color:#ccc;width:100%;margin:0;padding:0;}table.calendar-legend tr.odd .stripe,table.calendar-legend tr.even .stripe{height:12px !important;font-size:9px !important;line-height:10px !important;}.calendar-legend td{text-align:left;padding-left:5px;}.calendar-empty{font-size:1px;line-height:1px;}.calendar-calendar td.calendar-agenda-hour{text-align:right;border:none;border-top:1px solid #CCCCCC;padding-top:.25em;width:1%;}.calendar-calendar td.calendar-agenda-no-hours{min-width:1%;}.calendar-calendar td.calendar-agenda-hour .calendar-hour{font-size:1.2em;font-weight:bold;}.calendar-calendar td.calendar-agenda-hour .calendar-ampm{font-size:1em;}.calendar-calendar td.calendar-agenda-items{border:1px solid #CCCCCC;text-align:left;}.calendar-calendar td.calendar-agenda-items div.calendar{width:auto;padding:.25em;margin:0;}.calendar-calendar div.calendar div.inner .calendar-agenda-empty{width:100%;text-align:center;vertical-align:middle;padding:1em 0;background-color:#fff;}.calendar-date-select form{text-align:right;float:right;width:25%;}.calendar-date-select div,.calendar-date-select input,.calendar-date-select label{text-align:right;padding:0;margin:0;float:right;clear:both;}.calendar-date-select .description{float:right;}.calendar-label{font-weight:bold;display:block;clear:both;}.calendar-calendar div.date-nav{background-color:#ccc;color:#777;padding:0.2em;width:auto;border:1px solid #ccc;}.calendar-calendar div.date-nav a,.calendar-calendar div.date-nav h3{color:#777;text-decoration:none;}.calendar-calendar th.days{background-color:#eee;color:#777;font-weight:bold;border:1px solid #ccc;}.calendar-calendar td.empty{background:#ccc;border-color:#ccc;color:#cc9;}.calendar-calendar table.mini td.empty{background:#fff;border-color:#fff;}.calendar-calendar td div.day{border:1px solid #ccc;border-top:none;border-right:none;margin-bottom:2px;}.calendar-calendar td .inner div,.calendar-calendar td .inner div a{background:#eee;}.calendar-calendar div.calendar{border:none;font-size:x-small;}.calendar-calendar td .inner div.calendar div,.calendar-calendar td .inner div.calendar div a{border:none;background:#ffc;padding:0;}.calendar-calendar td .inner div.calendar div.calendar-more,.calendar-calendar td .inner div.calendar div.calendar-more a{color:#444;background:#fff;text-align:right;}.calendar-calendar td .inner .view-field,.calendar-calendar td .inner .view-field a{color:#444;font-weight:normal;}.calendar-calendar td span.date-display-single,.calendar-calendar td span.date-display-start,.calendar-calendar td span.date-display-end,.calendar-calendar td span.date-display-separator{font-weight:bold;}.calendar-calendar td .inner div.day a{color:#4b85ac;}.calendar-calendar tr td.today,.calendar-calendar tr.odd td.today,.calendar-calendar tr.even td.today{background-color:#C3D6E4;}.calendar-calendar td .inner div.calendar div div.view-data-node-data-field-date-field-date-value{}.calendar-calendar td.past{}.calendar-calendar td.future{}.calendar-calendar td.has-events{}.calendar-calendar td.has-no-events{}.calendar-calendar tbody{border-top:none;}.calendar-calendar .month-view .full .inner,.calendar-calendar .week-view .full .multi-day .inner{height:auto;min-height:auto;}.calendar-calendar .week-view .full .calendar-agenda-hour
+.calendar-calendar .month-view .full .single-day .inner .view-item{float:left;width:100%;}.calendar-calendar .week-view .full .calendar-agenda-hour,.calendar-calendar .day-view .full .calendar-agenda-hour{padding-right:2px;}.calendar-calendar .week-view .full .calendar-agenda-hour{width:6%;min-width:0px;}.calendar-calendar .week-view .full .days{width:13%;}.calendar-calendar .month-view .full div.calendar,.calendar-calendar .week-view .full div.calendar,.calendar-calendar .day-view div.calendar{width:auto;}.calendar-calendar .month-view .full tr.date-box,.calendar-calendar .month-view .full tr.date-box td,.calendar-calendar .month-view .full tr.multi-day,.calendar-calendar .month-view .full tr.multi-day td{height:19px;max-height:19px;}.calendar-calendar .month-view .full tr.single-day .no-entry,.calendar-calendar .month-view .full tr.single-day .no-entry .inner{height:44px !important;line-height:44px;}.calendar-calendar .month-view .full tr.single-day .noentry-multi-day,.calendar-calendar .month-view .full tr.single-day .noentry-multi-day .inner{height:22px !important;line-height:22px;}.calendar-calendar .month-view .full td,.calendar-calendar .week-view .full td,.calendar-calendar .day-view  td{vertical-align:top;padding:1px 2px 0 2px}.calendar-calendar .month-view .full td.date-box{height:1%;border-bottom:0px;padding-bottom:2px;}.calendar-calendar .month-view .full .week{font-size:inherit;}.calendar-calendar .month-view .full .week a,.calendar-calendar .week-view .full .week a{color:#4b85ac;}.calendar-calendar .month-view .full td .inner div.day,.calendar-calendar .month-view .full td .inner div.day a{border:none;background:none;margin-bottom:0px;}.calendar-calendar .month-view .full td.date-box .inner,.calendar-calendar .week-view .full td.date-box .inner{min-height:inherit;}.calendar-calendar .month-view .full td.multi-day,.calendar-calendar .week-view .full td.multi-day{border-top:0px;border-bottom:0px;}.calendar-calendar .week-view .full .first td.multi-day{border-top:1px solid #CCCCCC;}.calendar-calendar .month-view .full td.single-day{border-top:0px;}.calendar-calendar .month-view .full td.multi-day .inner,.calendar-calendar .week-view .full td.multi-day .inner,.calendar-calendar .day-view .full td.multi-day .inner{min-height:inherit;width:auto;position:relative;}.calendar-calendar .month-view .full td.multi-day.no-entry{min-height:0px;}.calendar-calendar .month-view .full td.single-day .calendar-empty,.calendar-calendar .month-view .full td.single-day.empty,.calendar-calendar .month-view .full td.date-box.empty{background:#F4F4F4;}.calendar-calendar .month-view .full td.single-day .inner div,.calendar-calendar .month-view .full td.single-day .inner div a,.calendar-calendar .month-view .full td.multi-day .inner div,.calendar-calendar .month-view .full td.multi-day .inner div a,.calendar-calendar .month-view .full td .inner div.calendar.monthview div,.calendar-calendar .month-view .full td .inner div.calendar.monthview div a,.calendar-calendar .week-view .full td.single-day .inner div,.calendar-calendar .week-view .full td.single-day .inner div a,.calendar-calendar .week-view .full td.multi-day .inner div,.calendar-calendar .week-view .full td.multi-day .inner div a,.calendar-calendar .week-view .full td .inner div.calendar.weekview div,.calendar-calendar .week-view .full td .inner div.calendar.weekview div a,.calendar-calendar .day-view .full td .inner div.view-item,.calendar-calendar .day-view .full td .inner div.calendar div,.calendar-calendar .day-view .full td .inner div.calendar div a{background:none;}.calendar-calendar .day-view .full td .inner div.calendar div,.calendar-calendar .day-view .full td .inner div.calendar div a{margin:0px 3px;}.calendar-calendar .day-view .full td .inner div.calendar div.stripe{margin:0px;}.calendar-calendar .month-view .full tr td.today,.calendar-calendar .month-view .full tr.odd td.today,.calendar-calendar .month-view .full tr.even td.today{background:none;border-left:2px solid #7C7F12;border-right:2px solid #7C7F12;}.calendar-calendar .month-view .full td.date-box.today{border-width:2px 2px 0px 2px;border-style:solid;border-color:#7C7F12;}.calendar-calendar .month-view .full tr td.single-day.today{border-bottom:2px solid #7C7F12;}.calendar-calendar .month-view .full tr td.multi-day.starts-today{border-left:2px solid #7C7F12;}.calendar-calendar .month-view .full tr td.multi-day.ends-today{border-right:2px solid #7C7F12;}.calendar-calendar .month-view .full tr td.multi-day,.calendar-calendar .month-view .full tr td.single-day{border-top:0px;}.calendar-calendar .month-view .full tr td.multi-day,.calendar-calendar .month-view .full tr td.date-box{border-bottom:0px;}.calendar-calendar .month-view .full .inner .monthview,.calendar-calendar .week-view .full .inner .weekview,.calendar-calendar .day-view .full .inner .dayview{-moz-border-radius:5px;border-radius:5px;width:auto;float:none;display:block;margin:.25em auto;position:relative;}.calendar-calendar .month-view .full td.single-day div.monthview,.calendar-calendar .week-view .full td.single-day div.weekview,.calendar-calendar .day-view .full td.single-day div.dayview{background:#ffc;width:auto;padding:0px 3px;overflow:hidden;}.calendar-calendar .month-view .full td.single-day .calendar-more div.monthview{background:none;}.calendar-calendar .day-view td div.dayview{padding:0px;}.calendar-calendar .month-view .full td.multi-day div.monthview,.calendar-calendar .week-view .full td.multi-day div.weekview,.calendar-calendar .day-view .full td.multi-day div.dayview{background:#74a5d7;height:1.9em;overflow:hidden;margin:0px auto;color:#ffffff;position:relative;}.calendar-calendar .week-view .full td.multi-day div.weekview{height:3.5em;}.calendar-calendar .month-view .full td.multi-day .inner .view-field,.calendar-calendar .month-view .full td.multi-day .inner .view-field a,.calendar-calendar .week-view .full td.multi-day .inner .view-field,.calendar-calendar .week-view .full td.multi-day .inner .view-field a,.calendar-calendar .day-view .full td.multi-day .inner .view-field,.calendar-calendar .day-view .full td.multi-day .inner .view-field a{color:#ffffff;}.calendar-calendar .full td.multi-day .calendar .view-field,.calendar-calendar .full td.single-day .calendar .view-field{}.calendar-calendar .day-view .full td.multi-day div.dayview,.calendar-calendar .week-view .full td.multi-day div.weekview{margin-bottom:2px;}.calendar-calendar .month-view .full td.multi-day .calendar.monthview .view-field{white-space:nowrap;float:left;margin-right:3px;}.calendar-calendar .week-view .full td.multi-day .calendar.weekview .view-field{white-space:nowrap;display:inline;margin-right:3px;}.calendar-calendar .day-view .full td.multi-day .calendar.weekview .view-field{display:block;}.calendar-calendar .month-view .full td.multi-day .calendar.monthview .contents,.calendar-calendar .week-view .full td.multi-day .calendar.weekview .contents{position:absolute;width:3000px;left:5px;}.calendar-calendar .day-view td .stripe,.calendar-calendar .month-view .full td .stripe,.calendar-calendar .week-view .full td .stripe{-moz-border-radius:5px 5px 0px 0px;border-radius:5px 5px 0px 0px;left:0px;top:0px;width:100%;height:3px;z-index:2;}.calendar-calendar .full td.single-day .continuation,.calendar-calendar .full td.single-day .continues,.calendar-calendar .full td.single-day .cutoff{display:none;}.calendar-calendar .month-view .full td.multi-day  .inner .monthview .continuation,.calendar-calendar .week-view .full td.multi-day  .inner .weekview .continuation{float:left;margin-right:3px;height:1.9em;}.calendar-calendar .week-view .full td.multi-day  .inner .weekview .continuation{height:2.75em;padding-top:0.75em;margin-right:8px;}.calendar-calendar .month-view .full td.multi-day .inner .monthview .continues,.calendar-calendar .month-view .full td.multi-day .inner .monthview .cutoff,.calendar-calendar .week-view .full td.multi-day .inner .weekview .continues,.calendar-calendar .week-view .full td.multi-day .inner .weekview .cutoff{position:absolute;right:0px !important;right:-1px;width:10px;text-align:left;background:#74a5d7;-moz-border-radius:0px 5px 5px 0px;border-radius:0px 5px 5px 0px;height:1.9em;padding-left:6px;z-index:1;}.calendar-calendar .week-view .full td.multi-day .inner .weekview .continues,.calendar-calendar .week-view .full td.multi-day .inner .weekview .cutoff{height:2.75em;padding-top:0.75em;}.calendar-calendar .month-view .full td.multi-day .inner .monthview .cutoff,.calendar-calendar .week-view .full td.multi-day .inner .weekview .cutoff{width:8px;padding-left:0px;}.calendar-calendar .week-view .full td.multi-day{padding:2px;}.calendar-calendar .week-view td.single-day div.calendar{width:100%;padding-left:0px;padding-right:0px;}.calendar-calendar .week-view .full tr.last td.multi-day{border-bottom:1px solid #CCCCCC;}.view .date-nav-wrapper .clear-block{margin-bottom:10px;}.view .date-nav-wrapper{position:relative;margin-top:5px;width:100%;}.view .date-nav-wrapper .date-nav{background-color:transparent;border:0px;height:30px;height:auto;min-height:30px;position:relative;margin-bottom:10px;}.view .date-nav-wrapper .date-prev a,.view .date-nav-wrapper .date-next a{text-decoration:none;color:inherit;font-size:12px;}.view .date-nav-wrapper.date-nav a:hover{text-decoration:underline;}.view .date-nav-wrapper .date-prev{-moz-border-radius:5px 0 0 5px;border-radius:5px 0 0 5px;background:none repeat scroll 0 0 #dfdfdf;float:none;padding:5px 0;position:absolute;right:60px;left:auto;text-align:right;top:0px;width:auto;z-index:1;font-size:12px;}.block-views .view .date-nav-wrapper .date-prev{left:0;right:auto;}.view .date-nav-wrapper .date-prev a{margin-left:10px;font-weight:bold;}.view .date-nav-wrapper .date-heading{position:relative;width:100%;top:0px;text-align:center;z-index:0;}.view .date-nav-wrapper .date-heading h3{line-height:30px;font-size:1.7em;}.view .date-nav-wrapper .date-next{-moz-border-radius:0px 5px 5px 0px;border-radius:0px 5px 5px 0px;background:none repeat scroll 0 0 #dfdfdf;float:none;padding:5px 0;position:absolute;right:0px;text-align:right;top:0px;width:auto;z-index:1;font-size:12px;}.view .date-nav-wrapper .date-next a{margin-right:10px;font-weight:bold;}.attachment .calendar-calendar{margin-top:20px;clear:both;}.calendar-calendar th a,.attachment .calendar-calendar th{background-color:transparent;border:0px;}.attachment .calendar-calendar th.calendar-agenda-hour{color:#777777;font-weight:bold;text-align:right;}.view-calendar .feed-icon{margin-top:5px;}.view table.mini .date-prev,.view table.mini .date-next{background:none;}.date-nav div.date-prev,.date-nav div.date-next,.date-nav{width:auto;}ul.calendar-links,.region-content ul.calendar-links{margin:0;padding:0;}.year-view div.month-view div.date-nav{background-color:#DFDFDF;min-height:20px;}
+.container-inline-date{clear:both;}.container-inline-date .form-item{float:none;margin:0;padding:0;}.container-inline-date > .form-item{display:inline-block;margin-right:0.5em;vertical-align:top;}fieldset.date-combo .container-inline-date > .form-item{margin-bottom:10px;}.container-inline-date .form-item .form-item{float:left;}.container-inline-date .form-item,.container-inline-date .form-item input{width:auto;}.container-inline-date .description{clear:both;}.container-inline-date .form-item input,.container-inline-date .form-item select,.container-inline-date .form-item option{margin-right:5px;}.container-inline-date .date-spacer{margin-left:-5px;}.views-right-60 .container-inline-date div{margin:0;padding:0;}.container-inline-date .date-timezone .form-item{clear:both;float:none;width:auto;}.container-inline-date .date-padding{float:left;}fieldset.date-combo .container-inline-date .date-padding{padding:10px;}.views-exposed-form .container-inline-date .date-padding{padding:0;}#calendar_div,#calendar_div td,#calendar_div th{margin:0;padding:0;}#calendar_div,.calendar_control,.calendar_links,.calendar_header,.calendar{border-collapse:separate;margin:0;width:185px;}.calendar td{padding:0;}span.date-display-single{}span.date-display-start{}span.date-display-end{}.date-prefix-inline{display:inline-block;}.date-clear{clear:both;display:block;float:none;}.date-no-float{clear:both;float:none;width:98%;}.date-float{clear:none;float:left;width:auto;}.date-float .form-type-checkbox{padding-right:1em;}.form-type-date-select .form-type-select[class*=hour]{margin-left:.75em;}.date-container .date-format-delete{float:left;margin-top:1.8em;margin-left:1.5em;}.date-container .date-format-name{float:left;}.date-container .date-format-type{float:left;padding-left:10px;}.date-container .select-container{clear:left;float:left;}div.date-calendar-day{background:#F3F3F3;border-top:1px solid #EEE;border-left:1px solid #EEE;border-right:1px solid #BBB;border-bottom:1px solid #BBB;color:#999;float:left;line-height:1;margin:6px 10px 0 0;text-align:center;width:40px;}div.date-calendar-day span{display:block;text-align:center;}div.date-calendar-day span.month{background-color:#B5BEBE;color:white;font-size:.9em;padding:2px;text-transform:uppercase;}div.date-calendar-day span.day{font-size:2em;font-weight:bold;}div.date-calendar-day span.year{font-size:.9em;padding:2px;}.date-form-element-content-multiline{padding:10px;border:1px solid #CCC;}.form-item.form-item-instance-widget-settings-input-format-custom,.form-item.form-item-field-settings-enddate-required{margin-left:1.3em;}#edit-field-settings-granularity .form-type-checkbox{margin-right:.6em;}.date-year-range-select{margin-right:1em;}
+#ui-datepicker-div{font-size:100%;font-family:Verdana,sans-serif;background:#eee;border-right:2px #666 solid;border-bottom:2px #666 solid;z-index:9999;}.ui-datepicker{width:17em;padding:.2em .2em 0;}.ui-datepicker .ui-datepicker-header{position:relative;padding:.2em 0;}.ui-datepicker .ui-datepicker-prev,.ui-datepicker .ui-datepicker-next{position:absolute;top:2px;width:1.8em;height:1.8em;}.ui-datepicker .ui-datepicker-prev-hover,.ui-datepicker .ui-datepicker-next-hover{top:1px;}.ui-datepicker .ui-datepicker-prev{left:2px;}.ui-datepicker .ui-datepicker-next{right:2px;}.ui-datepicker .ui-datepicker-prev-hover{left:1px;}.ui-datepicker .ui-datepicker-next-hover{right:1px;}.ui-datepicker .ui-datepicker-prev span,.ui-datepicker .ui-datepicker-next span{display:block;position:absolute;left:50%;margin-left:-8px;top:50%;margin-top:-8px;}.ui-datepicker .ui-datepicker-title{margin:0 2.3em;line-height:1.8em;text-align:center;}.ui-datepicker .ui-datepicker-title select{float:left;font-size:1em;margin:1px 0;}.ui-datepicker select.ui-datepicker-month-year{width:100%;}.ui-datepicker select.ui-datepicker-month,.ui-datepicker select.ui-datepicker-year{width:49%;}.ui-datepicker .ui-datepicker-title select.ui-datepicker-year{float:right;}.ui-datepicker table{width:100%;font-size:.9em;border-collapse:collapse;margin:0 0 .4em;}.ui-datepicker th{padding:.7em .3em;text-align:center;font-weight:bold;border:0;}.ui-datepicker td{border:0;padding:1px;}.ui-datepicker td span,.ui-datepicker td a{display:block;padding:.2em;text-align:right;text-decoration:none;}.ui-datepicker .ui-datepicker-buttonpane{background-image:none;margin:.7em 0 0 0;padding:0 .2em;border-left:0;border-right:0;border-bottom:0;}.ui-datepicker .ui-datepicker-buttonpane button{float:right;margin:.5em .2em .4em;cursor:pointer;padding:.2em .6em .3em .6em;width:auto;overflow:visible;}.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current{float:left;}.ui-datepicker.ui-datepicker-multi{width:auto;}.ui-datepicker-multi .ui-datepicker-group{float:left;}.ui-datepicker-multi .ui-datepicker-group table{width:95%;margin:0 auto .4em;}.ui-datepicker-multi-2 .ui-datepicker-group{width:50%;}.ui-datepicker-multi-3 .ui-datepicker-group{width:33.3%;}.ui-datepicker-multi-4 .ui-datepicker-group{width:25%;}.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header{border-left-width:0;}.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header{border-left-width:0;}.ui-datepicker-multi .ui-datepicker-buttonpane{clear:left;}.ui-datepicker-row-break{clear:both;width:100%;}.ui-datepicker-rtl{direction:rtl;}.ui-datepicker-rtl .ui-datepicker-prev{right:2px;left:auto;}.ui-datepicker-rtl .ui-datepicker-next{left:2px;right:auto;}.ui-datepicker-rtl .ui-datepicker-prev:hover{right:1px;left:auto;}.ui-datepicker-rtl .ui-datepicker-next:hover{left:1px;right:auto;}.ui-datepicker-rtl .ui-datepicker-buttonpane{clear:right;}.ui-datepicker-rtl .ui-datepicker-buttonpane button{float:left;}.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current{float:right;}.ui-datepicker-rtl .ui-datepicker-group{float:right;}.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header{border-right-width:0;border-left-width:1px;}.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header{border-right-width:0;border-left-width:1px;}
+.field .field-label{font-weight:bold;}.field-label-inline .field-label,.field-label-inline .field-items{float:left;}form .field-multiple-table{margin:0;}form .field-multiple-table th.field-label{padding-left:0;}form .field-multiple-table td.field-multiple-drag{width:30px;padding-right:0;}form .field-multiple-table td.field-multiple-drag a.tabledrag-handle{padding-right:.5em;}form .field-add-more-submit{margin:.5em 0 0;}
+</style>
+<style media="screen" data-href="http://artsandsciences.sc.edu/poli/sites/sc.edu.poli/files/css/css_KpHsFsHL5G3x9EUJr5pMqQKsGs4fdCXEGrY6HhOgLHA.css">.flex-nav-container{float:right;position:relative;width:100%;margin-bottom:30px;}.flex-nav-container ul,.flex-nav-container ol{list-style:none;}.flexslider ul.slides,.flex-nav-container ol.flex-control-nav,.flex-nav-container ul.flex-direction-nav,.flexslider ul.slides li img{padding:0px;margin:0px;}
+</style>
+<style media="all" data-href="http://artsandsciences.sc.edu/poli/sites/sc.edu.poli/files/css/css_0q9x4O-Qh24NPtJmQjBThM9QBry4yL7BGgAxgfJf9dw.css">.node-unpublished{background-color:#fff4f4;}.preview .node{background-color:#ffffea;}td.revision-current{background:#ffc;}
+#permissions td.module{font-weight:bold;}#permissions td.permission{padding-left:1.5em;}#permissions tr.odd .form-item,#permissions tr.even .form-item{white-space:normal;}#user-admin-settings fieldset .fieldset-description{font-size:0.85em;padding-bottom:.5em;}#user-admin-roles td.edit-name{clear:both;}#user-admin-roles .form-item-name{float:left;margin-right:1em;}.password-strength{width:17em;float:right;margin-top:1.4em;}.password-strength-title{display:inline;}.password-strength-text{float:right;font-weight:bold;}.password-indicator{background-color:#C4C4C4;height:0.3em;width:100%;}.password-indicator div{height:100%;width:0%;background-color:#47C965;}input.password-confirm,input.password-field{width:16em;margin-bottom:0.4em;}div.password-confirm{float:right;margin-top:1.5em;visibility:hidden;width:17em;}div.form-item div.password-suggestions{padding:0.2em 0.5em;margin:0.7em 0;width:38.5em;border:1px solid #B4B4B4;}div.password-suggestions ul{margin-bottom:0;}.confirm-parent,.password-parent{clear:left;margin:0;width:36.3em;}.profile{clear:both;margin:1em 0;}.profile .user-picture{float:right;margin:0 1em 1em 0;}.profile h3{border-bottom:1px solid #ccc;}.profile dl{margin:0 0 1.5em 0;}.profile dt{margin:0 0 0.2em 0;font-weight:bold;}.profile dd{margin:0 0 1em 0;}
+.views-exposed-form .views-exposed-widget{float:left;padding:.5em 1em 0 0;}.views-exposed-form .views-exposed-widget .form-submit{margin-top:1.6em;}.views-exposed-form .form-item,.views-exposed-form .form-submit{margin-top:0;margin-bottom:0;}.views-exposed-form label{font-weight:bold;}.views-exposed-widgets{margin-bottom:.5em;}.views-align-left{text-align:left;}.views-align-right{text-align:right;}.views-align-center{text-align:center;}.views-view-grid tbody{border-top:none;}.view .progress-disabled{float:none;}
+.media-wysiwyg-align-left{float:left;margin-right:20px;}.media-wysiwyg-align-right{float:right;margin-left:20px;}.media-wysiwyg-align-center{text-align:center;}
+</style>
+<style media="all" data-href="http://artsandsciences.sc.edu/poli/sites/sc.edu.poli/files/css/css_zmmGQsNExfK60W4t1pP6FOfaQEhY6xoUi87WKHmXU3E.css">.ctools-locked{color:red;border:1px solid red;padding:1em;}.ctools-owns-lock{background:#FFFFDD none repeat scroll 0 0;border:1px solid #F0C020;padding:1em;}a.ctools-ajaxing,input.ctools-ajaxing,button.ctools-ajaxing,select.ctools-ajaxing{padding-right:18px !important;background:url("http://artsandsciences.sc.edu/poli/sites/all/modules/ctools/images/status-active.gif") right center no-repeat;}div.ctools-ajaxing{float:left;width:18px;background:url("http://artsandsciences.sc.edu/poli/sites/all/modules/ctools/images/status-active.gif") center center no-repeat;}
+ul.jquerymenu li.parent{list-style:none;list-style-image:none;background-image:none;}ul.jquerymenu li.closed ul{display:none;}ul.jquerymenu li span.parent{position:absolute;margin-left:-15px;margin-top:6px;width:9px;height:9px;display:block;}.ie ul.jquerymenu li span.parent{margin-top:4px;}ul.jquerymenu li.parent span.closed{background-image:url("http://artsandsciences.sc.edu/poli/sites/all/modules/jquerymenu/images/controls.png");background-repeat:no-repeat;background-position:0px 0px;background-color:red;}ul.jquerymenu li.parent span.open{background-image:url("http://artsandsciences.sc.edu/poli/sites/all/modules/jquerymenu/images/controls.png");background-repeat:no-repeat;background-position:0px -9px;}ul.jquerymenu li.parent span.closed:after{content:"Expandible menu item";visibility:hidden;}ul.jquerymenu li.parent span.open:after{content:"Collapsible menu item";visibility:hidden;}ul.jquerymenu li.parent span.parent{cursor:pointer;}ul.jquerymenu li .jquerymenu_link_edit{display:none;position:absolute;width:45px;margin-left:-40px;margin-top:2px;}
+</style>
+<style media="all" data-href="http://artsandsciences.sc.edu/poli/sites/sc.edu.poli/files/css/css_k5A0bwz5IkM97wYzMD112hHlHXi_uvJTmFUIBLAjCms.css">article,aside,details,figcaption,figure,footer,header,.hgroup,nav,section{display:block;}audio,canvas,video{display:inline-block;*display:inline;*zoom:1;}audio:not([controls]){display:none;}[hidden]{display:none;}html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}html,button,input,select,textarea{color:#222;}body{margin:0;line-height:1.4;}a:hover,a:active{outline:0;}h1{font-size:2em;margin:0.67em 0;}h2{font-size:1.5em;margin:0.83em 0;}h3{font-size:1.17em;margin:1em 0;}h4{font-size:1em;margin:1.33em 0;}h5{font-size:0.83em;margin:1.67em 0;}h6{font-size:0.75em;margin:2.33em 0;}abbr[title]{border-bottom:1px dotted;}b,strong{font-weight:bold;}blockquote{margin:1em 40px;}iframe{width:100%;}dfn{font-style:italic;}hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0;}ins{background:#ff9;color:#000;text-decoration:none;}mark{background:#ff0;color:#000;font-style:italic;font-weight:bold;}pre,code,kbd,samp{font-family:monospace,serif;_font-family:'courier new',monospace;font-size:1em;}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word;}q{quotes:none;}q:before,q:after{content:"";content:none;}small{font-size:85%;}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}sup{top:-0.5em;}sub{bottom:-0.25em;}ul,ol{margin:1em 0;padding:0 0 0 40px;}dd{margin:0 0 0 40px;}nav ul,nav ol{list-style:none;list-style-image:none;margin:0;padding:0;}img{border:0;-ms-interpolation-mode:bicubic;vertical-align:middle;}svg:not(:root){overflow:hidden;}figure{margin:0;}form{margin:0;}fieldset{border:0;margin:0;padding:0;}label{cursor:pointer;}legend{border:0;*margin-left:-7px;padding:0;white-space:normal;}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle;}button,input{line-height:normal;}button,input[type="button"],input[type="reset"],input[type="submit"]{cursor:pointer;-webkit-appearance:button;*overflow:visible;}button[disabled],input[disabled]{cursor:default;}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0;*width:13px;*height:13px;}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;}input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none;}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}textarea{overflow:auto;vertical-align:top;resize:vertical;}input:valid,textarea:valid{}input:invalid,textarea:invalid{background-color:#f0dddd;}table{border-collapse:collapse;border-spacing:0;margin:1em 0;}td{vertical-align:top;}.chromeframe{margin:0.2em 0;background:#ccc;color:black;padding:0.2em 0;}.grid_1{width:65px;}.grid_2{width:160px;}.grid_3{width:255px;}.grid_4{width:350px;}.grid_5{width:445px;}.grid_6{width:540px;}.grid_7{width:635px;}.grid_8{width:730px;}.grid_9{width:825px;}.grid_10{width:920px;}.grid_11{width:1015px;}.grid_12{width:1110px;}.column{margin:0 15px 0 15px;float:left;display:inline;}.row{margin:0 auto;width:1170px;}.row .row{margin:0 -15px 0 -15px;width:auto;display:inline-block;}.wrapper{padding-left:15px;padding-right:15px;float:left;position:relative;}@media only screen and (min-width:960px) and (max-width:1139px){.grid_1{width:50px;}.grid_2{width:130px;}.grid_3{width:210px;}.grid_4{width:290px;}.grid_5{width:370px;}.grid_6{width:450px;}.grid_7{width:530px;}.grid_8{width:610px;}.grid_9{width:690px;}.grid_10{width:770px;}.grid_11{width:850px;}.grid_12{width:930px;}.column{margin:0 15px 0 15px;float:left;display:inline;}.row{margin:0 auto;width:990px;}.row .row{margin:0 -15px 0 -15px;width:auto;display:inline-block;}}@media only screen and (min-width:768px) and (max-width:959px){.grid_1{width:24px;}.grid_2{width:92px;}.grid_3{width:172px;}.grid_4{width:216px;}.grid_5{width:280px;}.grid_6{width:344px;}.grid_7{width:408px;}.grid_8{width:470px;}.grid_9{width:536px;}.grid_10{width:600px;}.grid_11{width:664px;}.grid_12{width:728px;}.column{margin:0 10px 0 10px;float:left;display:inline;}.row{margin:0 auto;width:768px;}.row .row{margin:0 -10px 0 -10px;width:auto;display:inline-block;}.wrapper{padding-left:10px;padding-right:10px;}}@media only screen and (min-width:320px) and (max-width:480px){.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12{width:100%;margin:10px auto;display:block;float:none;position:relative;}.column{margin:0px 0 0 0;float:left;display:inline;overflow:hidden;}.row{width:100%;}.row .row{margin:0;width:100%;display:inline-block;}}@media only screen and (min-width:480px) and (max-width:767px){.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12{width:100%;margin:10px auto;display:block;float:none;position:relative;}.column{margin:0px 0 0 0;float:left;display:inline;overflow:hidden;}.row{width:100%;}.row .row{margin:0;width:100%;display:inline-block;}}.show-for-small,.show-for-medium-down,.show-for-large-down{display:inherit !important;}.show-for-medium,.show-for-medium-up,.show-for-large,.show-for-large-up,.show-for-xlarge{display:none !important;}.hide-for-small,.hide-for-medium-down,.hide-for-large-down{display:none !important;}@media only screen and (min-width:768px){.show-for-medium,.show-for-medium-up{display:inherit !important;}.show-for-small{display:none !important;}.hide-for-small{display:inherit !important;}.hide-for-medium,.hide-for-medium-up{display:none !important;}table.show-for-medium,table.show-for-medium-up,table.hide-for-small{display:table;}thead.show-for-medium,thead.show-for-medium-up,thead.hide-for-small{display:table-header-group !important;}tbody.show-for-medium,tbody.show-for-medium-up,tbody.hide-for-small{display:table-row-group !important;}tr.show-for-medium,tr.show-for-medium-up,tr.hide-for-small{display:table-row !important;}td.show-for-medium,td.show-for-medium-up,td.hide-for-small,th.show-for-medium,th.show-for-medium-up,th.hide-for-small{display:table-cell !important;}}html{overflow:-moz-scrollbars-vertical;}body{font-family:'Open Sans',sans-serif;}blockquote,blockquote p{font-size:14px;line-height:24px;}blockquote{margin:10px 0 15px;padding:3% 9% 3% 85px;position:relative;background-color:#ececec;}blockquote:before,blockquote:after{display:block;content:"\201C";font-size:164px;font-family:Georgia;position:absolute;top:52px;color:#FFF;}blockquote:before{left:2%;}blockquote:after{content:"\201D";right:15px;top:106%;}blockquote cite{display:block;font-size:12px;color:#555;}blockquote cite:before{content:"\2014 \0020";}blockquote cite a,blockquote cite a:visited,blockquote cite a:visited{color:#555;}blockquote span{width:15px;display:inline-block;}hr{margin:20px 0 20px 0;border:0;border-top:1px solid #999;height:2px;width:100%;text-align:left;}a:link{color:#73000a;text-decoration:none;outline:0;}a:visited{text-decoration:none;outline:0;color:#73000a;}a:hover,.links a:hover,.ribbon a:hover{color:#818701;}a:active{color:#333;text-decoration:none;}a:focus{-moz-outline-style:none;}.new-window{background:url(http://artsandsciences.sc.edu/_resources_1/img_/icons/external_link_sprite.png) no-repeat right 3px;padding-right:15px;}.new-window:hover{background-position:right -18px;}h1,h2,h3,h4,h5,h6{color:#73000a;margin:0px 0px 5px;}p{line-height:1.8em;margin-top:0px;font-size:.875em;}ul{list-style:none outside;}ol{list-style:decimal;}ul.square,ul.circle,ul.disc{margin-left:15px;}ul.square{list-style:square outside;}ul.circle{list-style:circle outside;}ul.disc{list-style:disc outside;}ul.fancy li{padding:0 0 0 15px;background:transparent url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/images/bullet.png") no-repeat 0 3px;}ul ul,ul ol,ol ol,ol ul{margin:4px 0 5px 30px;}ul ul li,ul ol li,ol ol li,ol ul li{margin-bottom:6px;}ul.large li{line-height:21px;}li p{line-height:21px;}dt{font-weight:bold;color:#73000a;}table{font-size:.875em;width:100%;}table th{color:#73000a;background-color:#DADADA;}table th,table td{padding:7px;border:1px #ccc solid;}caption{text-align:left;margin-bottom:7px;}img{border:0;}.roundedCorners{border-radius:0px 10px 0px 10px;}.max-image{width:100%;height:auto;}video{max-width:100%;height:auto;}.video-container{position:relative;margin:0 0 15px 0;padding-bottom:51%;padding-top:30px;height:0;overflow:hidden;border:1px solid #ccc;display:block;width:65%;}.video-container iframe,.video-container object,.video-container embed{position:absolute;top:0;left:0;width:100%;height:100%;}a.btn{margin:5px 0 5px 0;padding:4px 28px 4px 8px;display:inline-block;font-size:11px;color:#fff;border:1px solid #444;background:#333 url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/images/btn-arrow.png") no-repeat right;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;cursor:pointer;}a:hover.btn{text-decoration:underline;}.carolina-alert{position:relative;z-index:99;background-color:#D5AC00;padding-left:15px;padding-bottom:5px;padding-top:10px;}.all-clear{background-color:#47af15;}.carolina-alert-desc,.carolina-alert a{margin-top:0;margin-bottom:10px;}.carolina-alert a{font-weight:700;text-decoration:underline;color:#00F;}#jr_overlay{top:0;left:0;padding:0;margin:0;z-index:200;position:absolute;}#jr_wrap{position:absolute;text-align:center;width:100%;z-index:300;padding:0;margin:0;}#jr_inner{font-family:"Lucida Grande","Lucida Sans Unicode",Arial,Verdana,sans-serif;font-size:12px;background:#FFF;border:1px solid #CCC;color:#4F4F4F;margin:0 auto;height:auto;padding:20px;position:relative;}#jr_header{display:block;color:#333;padding:5px;padding-bottom:0;margin:0;font-family:Helvetica,Arial,sans-serif;font-weight:bold;text-align:left;font-size:1.3em;margin-bottom:0.5em;}#jr_inner p{text-align:left;padding:5px;margin:0;}#jr_inner ul{list-style-image:none;list-style-position:outside;list-style-type:none;margin:0;padding:0;}#jr_inner ul li{cursor:pointer;float:left;width:120px;height:122px;margin:0 10px 10px 10px;padding:0;text-align:center;}#jr_inner li a{color:#333;font-size:0.8em;text-decoration:none;padding:0;margin:0;}#jr_inner li a:hover{text-decoration:underline;}#jr_inner .jr_icon{width:100px;height:100px;margin:1px auto;padding:0;background:transparent no-repeat scroll left top;cursor:pointer;}#jr_close{margin:0 0 0 50px;clear:both;text-align:left;padding:0;margin:0;}#jr_close a{color:#000;display:block;width:auto;margin:0;padding:0;text-decoration:underline;}#jr_close p{padding:10px 0 0 0;margin:0;}html{background:url('http://artsandsciences.sc.edu/_resources_1/img_/bg-pattern.png') repeat;background-color:rgba(0,0,0,0.1);}body{margin-bottom:0px;background:url(http://artsandsciences.sc.edu/_resources_1/img_/feathers.png) no-repeat left top;background-size:100%;}#skiptocontent{position:absolute;top:-10000px;}#logo{float:left;width:100%;padding-right:10px;margin-left:-15px;margin-top:20px;}#logo a{width:278px;height:53px;display:inline-block;background:url(http://artsandsciences.sc.edu/_resources_1/img_/USC_Web_linear.svg) no-repeat 10px;}.no-svg #logo a{background:url(http://artsandsciences.sc.edu/_resources_1/img_/USC_Web_linear.png) no-repeat 10px;}.search-btn-mobile,.menu-btn-mobile,.menu-btn{background:url(http://artsandsciences.sc.edu/_resources_1/img_/search_menu.svg) no-repeat;float:left;background-color:#000;width:30px;height:30px;padding:5px;box-sizing:content-box;}.no-svg .search-btn-mobile,.no-svg .menu-btn-mobile,.no-svg .menu-btn{background-image:url(http://artsandsciences.sc.edu/_resources_1/img_/search_menu.png);background-repeat:no-repeat;}.search-btn-mobile{background-position:9px 9px;margin-right:10px;}.menu-btn-mobile{position:relative;background-position:10px -30px;}.menu-btn-mobile:before{content:'MENU';position:absolute;top:5px;left:10px;font-size:7px;color:#FFF;}.mobile-logo{background:url(http://artsandsciences.sc.edu/_resources_1/img_/USC_Web_main.svg) no-repeat 10px;height:45px;}.no-svg .mobile-logo{background:url(http://artsandsciences.sc.edu/_resources_1/img_/USC_Web_main.png) no-repeat 10px;}.gateways-wrapper{float:left;}.menu-btn,.menu{border:none;border-radius:0 0 5px 0;}.menu-btn{width:75px;height:17px;z-index:4;position:relative;top:0;left:0;background-position:73px -119px;border:none;color:#FFF;font-size:10px;font-size:.625rem;font-weight:600;padding:0 20px 0 0}.menu-btn:hover{background-position:73px -155px;}.menu-btn strong{font-weight:800;}.menu-wc{position:absolute;width:220px;padding-top:26px;display:none;background-color:#000;z-index:3;top:0;right:0;font-size:1rem;}.menu-list a{color:#fff;}.menu-list a:hover,.menu-btn:hover,.banner-tools a:hover{color:#d0da00;}.banner-toolbox{float:right;background-color:#000;border-radius:0 0 7px 7px;font-size:10px;font-size:.625rem;padding:5px 10px;position:relative;font-weight:600;height:28px;margin-right:-15px;box-sizing:border-box;}.banner-tools{display:inline-block;text-transform:uppercase;margin-top:3px;padding:0;float:left;}.banner-tools li{display:inline;padding-right:10px;}.banner-tools a{color:#fff;padding:10px 0;}#search-desktop{position:relative;display:inline-block;float:left;}#search-desktop:hover .submit,.search-input:focus + .submit{background-color:#5b5b5b;color:#fff;}.search-input,.submit{height:18px;outline:none;border:none;transition:all .2s ease;background-color:#C8C8C8;float:left;}.search-input{width:117px;background-image:url('http://artsandsciences.sc.edu/_resources_1/img_/search_menu.svg');background-repeat:no-repeat;background-position:3px -82px;border-radius:5px 0 0 5px;padding-left:20px;box-sizing:border-box;}.no-svg .search-input{background-image:url('http://artsandsciences.sc.edu/_resources_1/img_/search_menu.png');}#search-desktop:hover .search-input,.search-input:focus{background-color:#fff;}.submit{border-radius:0 5px 5px 0;color:#C8C8C8;}.banner-tools::-webkit-input-placeholder{color:#353535;}.banner-tools:-moz-placeholder{color:#353535;}.banner-tools::-moz-placeholder{color:#353535;}.banner-tools:-ms-input-placeholder{color:#353535;}.sidr{display:none;position:fixed;top:50px;height:100%;z-index:9997;width:100%;overflow:auto;background:#000;-webkit-overflow-scrolling:touch;-webkit-backface-visibility:hidden;}.sidr.right{left:auto;right:-600px;}.sidr .sidr-inner{overflow:auto;margin:auto;width:100%;height:100%;padding-bottom:55px;box-sizing:border-box;}.menu-header,.menu-list a{padding-top:7px;padding-bottom:7px;padding-left:10px;}.menu-header{background-color:#5B5B5B;text-transform:uppercase;font-size:.6875em;color:#C8C8C8;margin:0;clear:both;}.menu-list a{text-decoration:none;display:block;}.menu-list li{color:#fff;border-top:1px solid #7F7F7F;font-weight:700;}.menu-list li:hover{color:#b6bf00;}.menu-list span{display:block;font-weight:400;font-size:.875em;margin-top:-3px;}#mainWrapper{margin-top:10px;z-index:2;background-color:#FFF;border-radius:0px 20px 0px 0px;box-shadow:0 0 5px 1px rgba(0,0,0,0.5);position:relative;}.main:before{content:'';width:0px;height:0px;border-style:solid;border-width:100px 0 0 5px;border-color:transparent transparent transparent #000000;}.mainWrapper hr{margin-top:10px;margin-bottom:10px;background:url(http://artsandsciences.sc.edu/_resources_1/img_/border.png) repeat-x top center;border:none !important;width:95%;}#home{margin-bottom:-70px;background-color:#FFF;background-color:rgba(255,255,255,0.8);z-index:2;margin-left:-15px;padding-left:15px;padding-right:15px;border-radius:0px 20px 0px 0px;box-shadow:2px 2px 10px rgba(0,0,0,.3);}#home:before{content:' ';border-color:transparent transparent transparent;border-style:solid;border-width:25px;position:absolute;bottom:-50px;left:20px;z-index:9999;}#home:after{content:' ';border-color:#FFF transparent transparent;border-color:rgba(255,255,255,0.8) transparent transparent;border-style:solid;border-width:21px;position:absolute;bottom:-42px;left:24px;z-index:9999;}#home h1{font-size:2.5em;}.branding{float:left;width:100%;font-weight:700;position:relative;}.branding h1{display:block;margin:0px 0px 5px 0px;font-weight:300;float:left;font-size:1.6em;}.branding h1 a{color:#000;}.branding h1 strong{font-weight:800;color:#73000a;font-size:1.1em;margin-left:3px;}.branding hr{border-bottom:1px dotted #CCC;border-top:none;margin:0;height:0px;float:left;clear:both;}.module:after{content:".";display:block;height:0;visibility:hidden;}* html .module{height:1%;overflow:visible;}* + html .module{min-height:1%;}.breadCrumb{margin:0;padding:0;float:left;display:block;height:21px;overflow:hidden;padding:8px 0 18px !important;width:99%;}.breadCrumb ul{margin:0;padding:0;height:21px;display:block;}.breadCrumb ul li{display:block;float:left;position:relative;height:21px;overflow:hidden;line-height:21px;margin:0px 6px 0px 0;padding:0px 10px 0px 0;font-size:0.6875em;background:url(http://artsandsciences.sc.edu/_resources_1/img_/breadcrumb_theme/Chevron.gif) no-repeat 100% 0;}.breadCrumb ul li div.chevronOverlay{position:absolute;right:0;top:0;z-index:2;}.breadCrumb ul li span{display:block;overflow:hidden;}.breadCrumb ul li a{display:block;position:relative;height:21px;line-height:21px;overflow:hidden;float:left;}.breadCrumb ul li.first a{height:16px !important;width:auto;padding:0;overflow:hidden;margin-top:0px;}.breadCrumb ul li.first a:hover{background-position:0 -16px;}.breadCrumb ul li.last{background:none;margin-right:0;padding-right:0;}.chevronOverlay{display:none;background:url(http://artsandsciences.sc.edu/_resources_1/img_/breadcrumb_theme/ChevronOverlay.png) no-repeat 100% 0;width:13px;height:20px;}.tt-wrapper li a span{width:70px;height:auto;line-height:20px;padding:2px;left:3%;margin-left:-33px;font-style:italic;font-size:12px;font-weight:700;color:#B6BF00;text-shadow:1px 1px 1px rgba(0,0,0,0.1);text-align:center;border:4px solid black;background-color:#000;background:rgba(0,0,0,1);text-indent:0px;border-radius:5px;position:absolute;pointer-events:none;bottom:-40px;visibility:hidden;box-shadow:1px 1px 2px rgba(0,0,0,0.1);transition:all 0.3s ease-in-out;opacity:0;z-index:1;}.tt-wrapper li a span:before,.tt-wrapper li a span:after{content:'';position:absolute;left:50%;width:0;height:0;}.tt-wrapper li a span:after{bottom:25px;left:30px;border-width:10px;border-style:solid;border-color:transparent transparent black transparent;}.tt-wrapper li a:hover{text-decoration:none;}.tt-wrapper li a:hover span{visibility:visible;opacity:.9;z-index:9999;text-decoration:none;}#main{margin-bottom:85px;}#mainContent{color:black;float:left;width:100%;}#mainContent ul,#mainContent ol,#mainContent dl{font-size:.875em;line-height:1.8em;}#mainContent p.home-intro{font-size:1.25em;line-height:1.5em;font-weight:400;margin:-5px 0 15px;border-bottom:1px dotted #000;padding-bottom:20px;}#mainContent p.intro{font-size:1.125em;font-weight:400;margin:0px 0px 20px;border-bottom:1px dotted #000;padding-bottom:20px;}#mainContent h1 a:after,#mainContent h2 a:after,#mainContent h3 a:after,#mainContent h4 a:after,#mainContent h5 a:after,#mainContent h6 a:after,.flex-caption strong:after,.simple-list a h4:after,.grid .li-head:after,.multi-list .more:after,.callout .more a:after,.links h1 a:after{content:"\00bb";padding-left:3px;}.simple-list article{padding-bottom:10px;border-bottom:1px solid #CCC;float:left;transition:all 0.5s ease 0s;padding-top:20px;width:100%;font-weight:normal;}.simple-list > a{color:#000;font-weight:normal;}.simple-list a:hover article{background-color:#f0f0f0;}.simple-list article a:hover,#eventsbg a:hover{text-decoration:none;}.simple-list a:hover h4,.grid li:hover .li-head{color:#818701;}.simple-list article img{max-width:24%;float:left;margin-right:2.72727%;}.simple-list article .blurb{width:72%;float:left;}.simple-list article .blurb-full{width:100%}.simple-list article h4{margin-top:0px;border-style:none;font-weight:700;color:#73000a;}.simple-list article p{margin:0px;padding:0px;line-height:1.7em;}.view{font-size:0.6875em;float:right;line-height:2em;margin-bottom:15px;}#eventsbg{background:#f0f0f0;float:left;}#eventsbg span:last-child{font-size:0.6875em;float:right;padding-right:10px;height:20px;line-height:2em;}.events{float:left;border-bottom:1px solid #FFF;transition:all 0.5s ease 0s;width:92%;color:#000;padding:15px 4%;}.events a:hover{color:#000;}.events:hover{background-color:#dadada;}.events:hover .accordion{height:100%;max-height:200px;opacity:1;}.accordion{transition:all 1s ease .2s;max-height:0;width:100%;opacity:0;float:left;clear:both;overflow:hidden;position:relative;top:5px;}.accordion p{margin:0px 0px 5px 0px;font-size:.75em;font-weight:normal;}.accordion .details{color:#73000a;}.accordion .details:after{content:"\00bb";padding-left:5px;}.date{background:#73000a;float:right;height:42px;width:42px;line-height:.94em;font-weight:700;color:#FFF;}.date span{font-size:.625em;text-transform:uppercase;margin:0px;padding-left:12px;}.date h4{font-size:1.375em;margin-top:0px;margin-bottom:0px;padding:0px 6px;text-align:center;font-family:Georgia,Times,serif;font-style:italic;color:#FFF;}.event-title{float:left;margin-top:0px;width:70%;margin-bottom:0px;color:#000;line-height:1.2em;font-weight:700;font-size:.875em;}.content-body{margin-top:10px;float:left;width:100%;}.content-body ul{list-style-type:disc;}.content-body ul li{margin-bottom:15px;}.content-body ul ul{font-size:1em;}.content-body a{font-weight:700;}.content-body a:hover{text-decoration:none;}.content-body table{overflow:visible;border-collapse:separate;}.content-body table tr:nth-child(even){background:#FFF;}.content-body table tr:nth-child(odd){background:#ECECEC;}.grid{padding:0;margin:0;}.grid a{text-decoration:none;color:black;font-weight:normal;display:block;transition:all 0.5s ease 0s;}.grid a:hover{background-color:#F0F0F0;}.grid li{width:30.666667%;list-style:none;padding-right:4%;float:left;display:block;}.grid li:nth-of-type(3n+1){clear:both;}.grid li:nth-child(3n){padding:0;}.grid img{display:block;width:100%;height:auto;}.grid .li-text{padding:0 5% 5%;}.grid .li-head{line-height:1.4em;margin-top:10px;}.grid .li-sub{margin:0;line-height:1.6em;font-size:1em;}.callout{width:100%;color:#FFF;margin-bottom:1em;clear:both;float:right;padding-bottom:10px;position:relative;}.callout .hgroup{border-bottom:1px solid white;z-index:9999;}.callout .hgroup,.callout .sub-text,.callout form{padding:.5em 1em;position:relative;margin-bottom:0;}.callout .hgroup:before{content:' ';border-color:rgb(255,255,255) transparent transparent;border-style:solid;border-width:13px;position:absolute;bottom:-27px;left:19px;}.callout .hgroup:after{content:' ';border-style:solid;border-width:12px;position:absolute;bottom:-24px;left:20px;}.callout .category{text-transform:uppercase;color:#d0da00;margin:0;font-weight:700;}.callout .header{color:#FFF;font-weight:500;margin-bottom:0;line-height:1em;font-size:1.3em;}.callout img{border-bottom:1px solid #FFF;width:100%;height:auto;}.callout .sub-text{z-index:9997;margin-bottom:-5px;}.callout .more{float:left;color:white;padding-right:20px;font-weight:700;padding-left:1em;margin-top:5px;}.callout .more a{color:#FFF;}.callout .more a:hover{color:#d0da00;}.light-blue .more a,.yellow .more a,.light-green .more a{color:#000;}.light-blue .more a:hover,.yellow .more a:hover,.light-green .more a:hover{color:#818701;}.callout h1,.callout .sub-text,.callout .more{font-size:.75em;}.garnet,.garnet .hgroup{background-color:#73000a;}.garnet .hgroup:after{border-color:#73000a transparent transparent;}.garnet b,.info-gray .header{color:#73000a;}.black{background-color:#000;}.black .hgroup:after{border-color:#000 transparent transparent;}.black b{color:#000;}.teal{background-color:#00747a;}.teal .hgroup:after{border-color:#00747a transparent transparent;}.teal b{color:#00747a;}.blue{background-color:#21578a;}.blue .hgroup:after{border-color:#21578a transparent transparent;}.blue b{color:#21578a;}.clay{background-color:#9C6409;}.clay .hgroup:after{border-color:#9C6409 transparent transparent;}.clay b{color:#9C6409;}.light-blue{background-color:#3cb6ce;}.light-blue .hgroup:after{border-color:#3cb6ce transparent transparent;}.light-blue b{color:#3cb6ce;}.yellow{background-color:#d7a900;}.yellow .hgroup:after{border-color:#d7a900 transparent transparent;}.yellow b{color:#d7a900;}.light-green{background-color:#b6bf00;}.light-green .hgroup:after{border-color:#b6bf00 transparent transparent;}.light-green b{color:#b6bf00;}.light-blue .category,.light-blue .header,.light-blue .sub-text,.light-blue .more,.yellow .category,.yellow .header,.yellow .sub-text,.yellow .more,.light-green .category,.light-green .header,.light-green .sub-text,.light-green .more,.info .sub-text,.info-gray,.gallery,.form{color:#000;}.clay .category{color:#FFF;}#home + .flex-container .lightbox-video:after{left:45%;background-image:url('http://artsandsciences.sc.edu/_resources_1/img_/home_play_button.png');width:122px;height:112px;}.lightbox-video{display:block;position:relative;}.lightbox-video:after{content:'';background:url('http://artsandsciences.sc.edu/_resources_1/img_/play.png') no-repeat;position:absolute;width:51px;height:51px;left:40%;top:40%;}.quick-fact,.info,.gallery{padding-bottom:0;}.quick-fact .sub-text{background-color:#ececec;color:#000;}.quick-fact b{display:block;font-size:2.5rem;margin:20px 0 15px;font-weight:800;}.info .header,.info-gray .header{font-size:1em;font-weight:700;margin:0;}.info .sub-text,.gallery .sub-text{padding-top:15px;background-color:#ECECEC;}.info-gray{border:1px solid #ECECEC;}.info-gray .hgroup{background-color:#ECECEC;margin-bottom:15px;}.info-gray .hgroup:after{border-color:#ECECEC transparent transparent;}iframe[id^='twitter-widget-']{width:100% !important;min-width:100px !important;}.form .hgroup{margin-bottom:10px;}.form .ldpforms input,.form .ldpforms textarea,.form .ldpforms select{width:95%;}.gallery,.form{padding:0 0 10px;float:left;background-color:#ECECEC;}.gallery:after{clear:both;content:".";display:block;height:0;visibility:hidden;}.gallery ul{float:left;padding:7px;}.gallery li{float:left;width:50%;list-style-type:none;}.gallery li a{display:block;border:1px solid #3c3c3c;margin:0px 10px;}.gallery li a:nth-child(2n){margin-right:0;}.gallery li img{display:block;width:100%;height:auto;border:none;}.gallery .view-more{margin-right:15px;font-style:italic;float:right;font-size:.625em;}#input-switch{float:right;margin-bottom:10px;}#input-switch label{margin-left:5px;font-weight:600;font-size:.875em;}.multi-list .external,.multi-list .download{padding-right:35px;}.multi-list .external{background:url(http://artsandsciences.sc.edu/_resources_1/img_/icons/Ext_Link_g.png) no-repeat 95% center;}.multi-list .external:hover{background:url(http://artsandsciences.sc.edu/_resources_1/img_/icons/Ext_Link_white.png) no-repeat 95% center;}.multi-list .download{background:url(http://artsandsciences.sc.edu/_resources_1/img_/icons/download_arrow_g.png) no-repeat 95% center;}.multi-list .download:hover{background:url(http://artsandsciences.sc.edu/_resources_1/img_/icons/download_arrow_white.png) no-repeat 95% center;}.multi-list .more{padding-right:10%;position:relative;}.multi-list .more:after{font-size:17px;padding-right:5%;position:absolute;right:0;top:3px;}.subdiv-title{color:#FFF;font-weight:300;background-color:#7F7F7F;padding:5px 10px;margin:0;font-size:1.5em;overflow:hidden;margin-bottom:5px;}.subdiv-title + #sectionHead{margin-top:5px;}.subdiv-title + .mainImage{margin-top:-5px;}h2#sectionHead,h2#sectionHead_image,h2#sectionHead_fac{text-transform:uppercase;color:#7F7F7F;font-size:.9375em;position:relative;z-index:99999;}h2#sectionHead,h2#sectionHead_fac{margin-bottom:-2px;}h2#sectionHead_image{background-color:white;opacity:.75;padding:3px 10px;margin-bottom:-27px;float:left;}h2#sectionHead_fac{float:left;}.mainImage{margin-bottom:10px;}.multi-list{}.multi-list article{width:100%;border-bottom:1px dotted #CCC;float:left;padding-bottom:15px;padding-top:15px;position:relative;}.multi-list article:last-child{border-bottom:none;}.multi-list img{float:left;margin-right:4.7904%;width:15%;}.multi-list p{float:left;line-height:1.6em;}.width{width:75%;float:left;}.halfwidth{width:50%;float:left;}.multi-list ul{margin:0px;float:right;width:20%;padding-left:0px;font-size:.8125em;top:0;position:relative;right:0px;}.multi-list ul li{background-color:#ececec;border:1px solid #dadada;font-weight:bold;list-style-type:none;text-align:left;margin-bottom:3px;border-radius:3px;}.multi-list ul li:hover{background-color:#73000a;}.multi-list ul li a{display:block;text-decoration:none;padding:4px 0px 4px 10px;}.multi-list ul li:hover a{color:#FFF;}#detail{float:left;}#person{float:left;}#person nav{font-weight:600;font-size:.6875em;margin-top:3px;margin-left:15px;}#person span{margin-left:15px;}#contact{padding-bottom:20px;float:left;}#contact h2{}#contact table{margin-bottom:15px;font-size:.875em;width:100%;margin-top:20px;border:none;}#contact table td{padding-bottom:15px;padding-left:0px;border:none;}#contact h4{font-weight:bold;margin-top:15px;color:black;font-size:.875em;}.twitter-follow-button{margin-top:10px;margin-bottom:10px;float:left;}#contact b{margin-right:15%;}#contact p{font-size:.875em;line-height:1.5em;margin:0px;border-bottom:1px dotted #CCC;padding-bottom:25px;}#contact p:last-child{border-bottom:none;}#background{float:left;}#background .callout{max-width:23%;}#background h4{padding-top:20px;border-top:1px dotted #CCC;}#background p{padding-bottom:20px;margin:0;}#background p:last-child{border:none;}#section{float:left;}#inner{background:#393939;background:url(http://artsandsciences.sc.edu/_resources_1/img_/Line-Diag-2-white50.png) 0 0 repeat,-moz-linear-gradient(-45deg,#393939 0%,#7f7f7f 100%);background:url(http://artsandsciences.sc.edu/_resources_1/img_/Line-Diag-2-white50.png) 0 0 repeat,-webkit-gradient(linear,left top,right bottom,color-stop(0%,#393939),color-stop(100%,#7f7f7f));background:url(http://artsandsciences.sc.edu/_resources_1/img_/Line-Diag-2-white50.png) 0 0 repeat,-webkit-linear-gradient(-45deg,#393939 0%,#7f7f7f 100%);background:url(http://artsandsciences.sc.edu/_resources_1/img_/Line-Diag-2-white50.png) 0 0 repeat,-o-linear-gradient(-45deg,#393939 0%,#7f7f7f 100%);background:url(http://artsandsciences.sc.edu/_resources_1/img_/Line-Diag-2-white50.png) 0 0 repeat,-ms-linear-gradient(-45deg,#393939 0%,#7f7f7f 100%);background:url(http://artsandsciences.sc.edu/_resources_1/img_/Line-Diag-2-white50.png) 0 0 repeat,linear-gradient(135deg,#393939 0%,#7f7f7f 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#393939',endColorstr='#7f7f7f',GradientType=1);display:block;}#inner footer{width:100%;z-index:2;font-weight:700;float:left;margin-top:15px;color:#FFF;}#inner footer h3{float:left;font-weight:300;color:#FFF;margin:0px 25px 10px 10px;}#inner footer strong{font-weight:800;}#inner hr{float:left;margin:0;border:none;border-bottom:3px solid #73000A;position:relative;z-index:9999;}.uniticons{margin-top:3px;color:#535456;font-style:normal;font-weight:700;font-size:0.75em;padding-left:0;float:left;margin-right:35%;}.uniticons li{display:inline;margin-bottom:0px;float:left;padding-left:10px;margin-right:15px;line-height:2em;}.uniticons li a{background-image:url(http://artsandsciences.sc.edu/_resources_1/img_/icons/unit_icons_sprite.svg);background-repeat:no-repeat;color:#FFF;}.uniticons li a:hover{color:#d0da00;}.no-svg .uniticons li a{background-image:url(http://artsandsciences.sc.edu/_resources_1/img_/icons/unit_icons_sprite.png);}.uniticons li .unit-social{background:none;background-repeat:no-repeat;}.uniticons li .location{background-position:0 0;}.uniticons li .location:hover{background-position:0 -124px;}.uniticons li .contact{background-position:0 -31px;}.uniticons li .contact:hover{background-position:0 -155px;}.uniticons li .give{background-position:0 -62px;}.uniticons li .give:hover{background-position:0 -186px;}.uniticons li .calendar{background-position:0 -93px;}.uniticons li .calendar:hover{background-position:0 -217px;}.uniticons a{display:block;padding-left:25px;}.unit-social{padding-right:95px;position:absolute;right:0;bottom:17px;}.unit-social:after{background:url(http://artsandsciences.sc.edu/_resources_1/img_/icons/socialmedia_sprite.png);height:56px;width:91px;content:"";position:absolute;right:0;bottom:-17px;}.unit-social:hover:after{background-position:0 -60px;height:67px;}#footerbg{margin-top:50px;position:relative;border-top:3px black solid;background:#000 url(http://artsandsciences.sc.edu/_resources_1/img_/gates.svg) no-repeat -400px bottom;}.no-svg #footerbg{background:#000 url(http://artsandsciences.sc.edu/_resources_1/img_/gates.png) no-repeat -400px bottom;}#footer-menu{position:absolute;right:0;top:-26px;width:70px;color:#FFF;border-radius:10px 10px 0 0;text-align:right;padding-right:15px;padding-top:4px;font-size:14px;background-color:#000;}.closed:before,.open:before{content:"";position:absolute;top:5px;left:10px;width:16px;height:16px;background-image:url(http://artsandsciences.sc.edu/_resources_1/img_/expand_sprite.svg);background-repeat:no-repeat;}.no-svg .closed:before,.no-svg .open:before{background-image:url(http://artsandsciences.sc.edu/_resources_1/img_/expand_sprite.png);}.closed:before{background-position:0px -83px;}.open:before{background-position:0px -109px;}#sitemap{display:none;margin-bottom:15px;padding-top:50px;padding-bottom:50px;float:left;color:#fff;}#sitemap h1{color:#FFF;font-size:1em;font-weight:bold;margin-bottom:5px;width:100%;padding:5px 5px 5px 8px;background-color:#73000a;border-radius:0 15px 0 0;}#sitemap ul{padding:0 0 0 8px;margin:10px 0 40px;}#sitemap ul li{font-size:.75em;font-weight:600;margin-bottom:7px;padding-bottom:5px;line-height:1.3em;list-style:none;}#logo-footer{background:rgb(80,0,4);background:-moz-linear-gradient(top,rgba(80,0,4,1) 0%,rgba(115,0,10,1) 55%,rgba(115,0,10,1) 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(80,0,4,1)),color-stop(55%,rgba(115,0,10,1)),color-stop(100%,rgba(115,0,10,1)));background:-webkit-linear-gradient(top,rgba(80,0,4,1) 0%,rgba(115,0,10,1) 55%,rgba(115,0,10,1) 100%);background:-o-linear-gradient(top,rgba(80,0,4,1) 0%,rgba(115,0,10,1) 55%,rgba(115,0,10,1) 100%);background:-ms-linear-gradient(top,rgba(80,0,4,1) 0%,rgba(115,0,10,1) 55%,rgba(115,0,10,1) 100%);background:linear-gradient(to bottom,rgba(80,0,4,1) 0%,rgba(115,0,10,1) 55%,rgba(115,0,10,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#500004',endColorstr='#73000a',GradientType=0);}#logo-footer .logo{background:url('http://artsandsciences.sc.edu/_resources_1/img_/USC_Web_linear.svg') no-repeat;width:268px;height:53px;margin:25px 0;display:block;}.no-svg #logo-footer .logo{background-image:url('http://artsandsciences.sc.edu/_resources_1/img_/USC_Web_linear.png')}#logo-footer small{font-size:.625em;margin-bottom:5px;border-right:solid 1px #FFF;clear:both;}#logo-footer small:last-child{border:none;}#logo-footer,#logo-footer small a{color:#FFF;}.site-info-wrapper{background-color:#000;padding:10px 0;border-top:1px solid #FFF;}.site-info{position:relative;z-index:1;}.copyright{float:left;}.page-owner{float:right;}.no-limits{float:right;color:#FFF;font-size:1.375em;font-family:Arvo,serif;font-weight:400;margin-top:47px;}.no-limits strong,.no-limits span{display:inline;}.links{padding-left:10px;margin-left:10px;box-sizing:border-box;}.links a:link,.links a:visited{color:#FFF;}.links a:hover{color:#818701;}.img-left{float:left;margin:0 30px 30px 0;border:none;}.img-right{float:right;margin:0 0 30px 30px;border:none;}.clear{clear:both;}.float-left{float:left;}.float-right{float:right;}.text-big{color:#a2bd30;font-weight:bold;line-height:26px;}.text-left{text-align:left;}.text-right{text-align:right;}.text-center{text-align:center;}.text-justify{text-align:justify;}.normal{font-weight:normal;}.bold{font-weight:bold;}.italic{font-style:italic;}.underline{border-bottom:1px solid;}.highlight{background:#ffc;}.paddingright{padding-right:10px;}.nopadding{padding:0;}.noindent{margin-left:0;padding-left:0;}.nobullet{list-style:none;list-style-image:none;}.block{display:block;}.hidden{display:none;}.hide{display:none;}.container:after{content:"\0020";display:block;height:0;clear:both;visibility:hidden;}.clearfix:before,.clearfix:after,.row:before,.row:after{content:'\0020';display:block;overflow:hidden;visibility:hidden;width:0;height:0;}.row:after,.clearfix:after{clear:both;}.row,.clearfix{zoom:1;}
+.flex-container a:active,.flexslider a:active{outline:none;}.slides,.flex-control-nav,.flex-direction-nav{margin:0 -15px;padding:0;list-style:none;}.flexslider{width:100%;margin:0;padding:0;}.flexslider .slides > li{display:none;}.flexslider .slides img{max-width:60%;display:block;}.flexslider .slides iframe{width:100%;}.flex-pauseplay span{text-transform:capitalize;}.slides:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0;}html[xmlns] .slides{display:block;}* html .slides{height:1%;}.no-js .slides > li:first-child{display:block;}.flexslider{background:#fff;position:relative;-webkit-border-radius:5px;-moz-border-radius:5px;-o-border-radius:5px;zoom:1;}.flexslider .slides{zoom:1;}.flexslider .slides > li{position:relative;}.flex-container{zoom:1;position:relative;clear:both;width:100%;margin-bottom:5px;}.flex-caption{background:none;-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000);zoom:1;}.flex-caption{width:30%;position:absolute;color:#000;line-height:18px;top:0px;right:0px;margin:0px;box-shadow:-20px 0px 0px 0px rgba(162,142,108,.5);height:100%;padding-right:5%;padding-left:5%;font-family:'Open Sans';font-weight:400;background:#d2be95 url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/img/banner_diagonal_lines.png") no-repeat;background-size:100% 100%;}#yellow{background-color:#dfba33;box-shadow:-20px 0px 0px 0px rgba(165,132,28,.5);}#yellow:after{background-color:#d5a823;box-shadow:-20px 0px 0px 0px rgba(213,168,35,.5);}#green{background-color:#c4cb33;box-shadow:-20px 0px 0px 0px rgba(143,135,25,.5);}#green:after{background-color:#b5be24;box-shadow:-20px 0px 0px 0px rgba(181,190,36,.5);}#blue{background-color:#62c4d7;box-shadow:-20px 0px 0px 0px rgba(84,171,186,.5);}#blue:after{background-color:#47b6cd;box-shadow:-20px 0px 0px 0px rgba(71,182,205,.5);}.flex-caption strong{display:block;font-size:2.8125em;line-height:1.1em;position:absolute;bottom:50%;font-weight:normal;margin:0;width:75%;}.flex-caption strong b{font-weight:800;}.flex-caption span{position:absolute;top:50%;margin-top:10px;width:75%;line-height:1.4em;}.flex-caption span b{padding-right:25px;float:left;line-height:2.5em;}.flex-caption span b a{background:url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/img/icons/More.png") no-repeat right 55%;color:black;display:block;padding-right:25px;}.flex-caption span b a:hover{background:url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/img/icons/More-green.png") no-repeat right 55%;}.flex-caption:after{content:"";background:#d2bf98;height:11%;width:100%;display:block;position:absolute;right:0px;bottom:0px;box-shadow:-20px 0px 0px 0px rgba(210,191,152,.7);float:left;}.flex-direction-nav li a{width:52px;height:52px;margin:-13px 0 0;display:block;background:url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/img/flexslider/bg_direction_nav.png") no-repeat 0 0;position:absolute;top:50%;cursor:pointer;text-indent:-9999px;}.flex-direction-nav li .next{background-position:-52px 0;right:-21px;}.flex-direction-nav li .prev{left:-20px;}.flex-direction-nav li .disabled{opacity:.3;filter:alpha(opacity=30);cursor:default;}.flex-control-nav{width:15%;position:absolute;bottom:2.5%;text-align:center;right:0px;}.flex-control-nav li{margin:0 0 0 5px;display:inline-block;zoom:1;*display:inline;}.flex-control-nav li:first-child{margin:0;}.flex-control-nav li a{width:13px;height:13px;display:block;background:url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/img/flexslider/bg_control_nav4.png") no-repeat 0 0;cursor:pointer;text-indent:-9999px;}.flex-control-nav li a.active{background-position:0 -13px;cursor:default;}
+.fancybox-wrap,.fancybox-skin,.fancybox-outer,.fancybox-inner,.fancybox-image,.fancybox-wrap iframe,.fancybox-wrap object,.fancybox-nav,.fancybox-nav span,.fancybox-tmp{padding:0;margin:0;border:0;outline:none;vertical-align:top;}.fancybox-wrap{position:absolute;top:0;left:0;z-index:8020;}.fancybox-skin{position:relative;background:#f9f9f9;color:#444;text-shadow:none;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;}.fancybox-opened{z-index:8030;}.fancybox-opened .fancybox-skin{-webkit-box-shadow:0 10px 25px rgba(0,0,0,0.5);-moz-box-shadow:0 10px 25px rgba(0,0,0,0.5);box-shadow:0 10px 25px rgba(0,0,0,0.5);}.fancybox-outer,.fancybox-inner{position:relative;}.fancybox-inner{overflow:hidden;}.fancybox-type-iframe .fancybox-inner{-webkit-overflow-scrolling:touch;}.fancybox-error{color:#444;font:14px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;margin:0;padding:15px;white-space:nowrap;}.fancybox-image,.fancybox-iframe{display:block;width:100%;height:100%;}.fancybox-image{max-width:100%;max-height:100%;}#fancybox-loading,.fancybox-close,.fancybox-prev span,.fancybox-next span{background-image:url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/img/fancybox/fancybox_sprite.png");}#fancybox-loading{position:fixed;top:50%;left:50%;margin-top:-22px;margin-left:-22px;background-position:0 -108px;opacity:0.8;cursor:pointer;z-index:8060;}#fancybox-loading div{width:44px;height:44px;background:url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/img/fancybox/fancybox_loading.gif") center center no-repeat;}.fancybox-close{position:absolute;top:-18px;right:-18px;width:36px;height:36px;cursor:pointer;z-index:8040;}.fancybox-nav{position:absolute;top:0;width:40%;height:100%;cursor:pointer;text-decoration:none;background:transparent url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/img/fancybox/blank.gif");-webkit-tap-highlight-color:rgba(0,0,0,0);z-index:8040;}.fancybox-prev{left:0;}.fancybox-next{right:0;}.fancybox-nav span{position:absolute;top:50%;width:36px;height:34px;margin-top:-18px;cursor:pointer;z-index:8040;visibility:hidden;}.fancybox-prev span{left:20px;background-position:0 -36px;}.fancybox-next span{right:20px;background-position:0 -72px;}.fancybox-nav:hover span{visibility:visible;z-index:9999;}.fancybox-tmp{position:absolute;top:-9999px;left:-9999px;visibility:hidden;}#fancybox-overlay{position:absolute;top:-100px;left:0;overflow:hidden;display:none;z-index:8010;background:#000;}#fancybox-overlay.overlay-fixed{position:fixed;bottom:0;right:0;}.fancybox-title{visibility:hidden;font:normal 13px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;position:relative;text-shadow:none;z-index:8050;}.fancybox-opened .fancybox-title{visibility:visible;}.fancybox-title-float-wrap{position:absolute;bottom:0;right:50%;margin-bottom:-35px;z-index:8050;text-align:center;}.fancybox-title-float-wrap .child{display:inline-block;margin-right:-100%;padding:2px 20px;background:transparent;background:rgba(0,0,0,0.8);-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;text-shadow:0 1px 2px #222;color:#FFF;font-weight:bold;line-height:24px;white-space:nowrap;}.fancybox-title-outside-wrap{position:relative;margin-top:10px;color:#fff;}.fancybox-title-inside-wrap{padding-top:10px;}.fancybox-title-over-wrap{position:absolute;bottom:0;left:0;color:#fff;padding:10px;background:#000;background:rgba(0,0,0,.8);}
+#fancybox-buttons{position:fixed;left:0;width:100%;z-index:8050;}#fancybox-buttons.top{top:10px;}#fancybox-buttons.bottom{bottom:10px;}#fancybox-buttons ul{display:block;width:170px;height:30px;margin:0 auto;padding:0;list-style:none;background:#111;-webkit-box-shadow:0 1px 3px #000,0 0 0 1px rgba(0,0,0,.7),inset 0 0 0 1px rgba(255,255,255,.05);-moz-box-shadow:0 1px 3px #000,0 0 0 1px rgba(0,0,0,.7),inset 0 0 0 1px rgba(255,255,255,.05);background:#111 -webkit-gradient(linear,0% 0%,0% 100%,from(rgba(255,255,255,.2)),color-stop(.5,rgba(255,255,255,.15)),color-stop(.5,rgba(255,255,255,.1)),to(rgba(255,255,255,.15)));background:#111 -moz-linear-gradient(top,rgba(255,255,255,.2) 0%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.1) 50%,rgba(255,255,255,.15) 100%);border-radius:3px;}#fancybox-buttons ul li{float:left;margin:0;padding:0;}#fancybox-buttons a{display:block;width:30px;height:30px;text-indent:-9999px;outline:none;background:url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/img/fancybox/fancybox_buttons.png") no-repeat;}#fancybox-buttons a.btnPrev{width:32px;background-position:6px 0;}#fancybox-buttons a.btnNext{background-position:-33px 0;border-right:1px solid #3e3e3e;}#fancybox-buttons a.btnPlay{background-position:0 -30px;}#fancybox-buttons a.btnPlayOn{background-position:-30px -30px;}#fancybox-buttons a.btnToggle{background-position:3px -60px;border-left:1px solid #111;border-right:1px solid #3e3e3e;width:35px}#fancybox-buttons a.btnToggleOn{background-position:-27px -60px;}#fancybox-buttons a.btnClose{border-left:1px solid #111;width:38px;background-position:-57px 0px;}#fancybox-buttons a.btnDisabled{opacity :0.5;cursor:default;}
+#jr_overlay{top:0;left:0;padding:0;margin:0;z-index:200;position:absolute;}#jr_wrap{position:absolute;text-align:center;width:100%;z-index:300;padding:0;margin:0;}#jr_inner{font-family:"Lucida Grande","Lucida Sans Unicode",Arial,Verdana,sans-serif;font-size:12px;background:#FFF;border:1px solid #CCC;color:#4F4F4F;margin:0 auto;height:auto;padding:20px;position:relative;}#jr_header{display:block;color:#333;padding:5px;padding-bottom:0;margin:0;font-family:Helvetica,Arial,sans-serif;font-weight:bold;text-align:left;font-size:1.3em;margin-bottom:0.5em;}#jr_inner p{text-align:left;padding:5px;margin:0;}#jr_inner ul{list-style-image:none;list-style-position:outside;list-style-type:none;margin:0;padding:0;}#jr_inner ul li{cursor:pointer;float:left;width:120px;height:122px;margin:0 10px 10px 10px;padding:0;text-align:center;}#jr_inner li a{color:#333;font-size:0.8em;text-decoration:none;padding:0;margin:0;}#jr_inner li a:hover{text-decoration:underline;}#jr_inner .jr_icon{width:100px;height:100px;margin:1px auto;padding:0;background:transparent no-repeat scroll left top;cursor:pointer;}#jr_close{margin:0 0 0 50px;clear:both;text-align:left;padding:0;margin:0;}#jr_close a{color:#000;display:block;width:auto;margin:0;padding:0;text-decoration:underline;}#jr_close p{padding:10px 0 0 0;margin:0;}
+#mainnav{font-family:'Droid Sans';font-weight:700;font-size:1.125em;background:rgb(59,59,59);background:url(http://artsandsciences.sc.edu/_resources_1/img_/Line-Diag-2-white50.png) 0 0 repeat,-ms-linear-gradient(-60deg,rgb(60,60,60) 0%,rgb(130,130,130) 100%);background:url(http://artsandsciences.sc.edu/_resources_1/img_/Line-Diag-2-white50.png) 0 0 repeat,-moz-linear-gradient(top left,rgb(60,60,60) 0%,rgb(130,130,130) 100%);background:url(http://artsandsciences.sc.edu/_resources_1/img_/Line-Diag-2-white50.png) 0 0 repeat,-webkit-linear-gradient(top left,rgb(60,60,60) 0%,rgb(130,130,130) 100%);background:url(http://artsandsciences.sc.edu/_resources_1/img_/Line-Diag-2-white50.png) 0 0 repeat,linear-gradient(top left,rgb(60,60,60) 0%,rgb(130,130,130) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff3c3c3c,endColorstr=#ff828282,GradientType=1);}#mainnav > ul{padding:0 0 0 15px;}#mainnav > ul > li{padding-bottom:15px;}#mainnav ul li{line-height:1.4em;}#mainnav a:hover{text-decoration:none;}.toplevel > li{margin-left:8px;}.toplevel .first-item{padding-top:15px;}.toplevel a{color:white;}.toplevel a:hover{color:#b6bf00;}.toplevel ul.currentlevel{margin-left:-9px;}.toplevel > li > ul.currentlevel #selected{font-size:1.125em;padding-top:2px;}.toplevel > li.historylevel > ul.currentlevel #selected{font-size:1em;padding-top:2px;}#mainnav .historylevel{padding-left:17px;padding-bottom:10px;background-color:#7f7f7f;box-shadow:-3px 2px 5px 0 rgba(0,0,0,.3);margin-bottom:15px;padding-top:7px;font-size:.875em;margin-left:2px;}.historylevel > a:link{margin-left:-10px;padding-left:1px;}.historylevel a:hover{color:#d0da00;}.historylevel > a:first-child{font-size:1.125em;}.historylevel > ul.currentlevel{margin-left:0;margin-top:5px;padding-bottom:2px;margin-bottom:5px;}.historylevel > ul.currentlevel li#selected:last-child{padding-bottom:0;}.historylevel ul.currentlevel li#selected:only-child{padding-left:15px;}.historylevel .childlevel{font-size:1em;}.historylevel ul.currentlevel #selected > a{margin-left:-7px;padding-top:6px;padding-bottom:6px;padding-left:14px;}.historylevel ul.currentlevel #selected > a:after{border-bottom:15px solid transparent;}.historylevel ul.currentlevel #selected:last-child{padding-bottom:0;}.historylevel ul.sublevel li#selected:only-child{padding-top:2px;}ul.sublevel{margin:0px;margin-left:-8px;padding-left:15px;padding-top:7px;}ul.sublevel > li > a:link{background:url(http://artsandsciences.sc.edu/_resources_1/img_/DownArrow-w.png) no-repeat 0 center;padding-left:8px;margin-left:-10px;}ul.sublevel > li > a:hover{background:url(http://artsandsciences.sc.edu/_resources_1/img_/DownArrow-green.png) no-repeat 0 center;}ul.sublevel ul.currentlevel{margin:6px 0px 0px -8px;padding-bottom:2px;}ul.sublevel ul.sublevel ul.currentlevel{margin-left:-15px;}ul.sublevel ul.sublevel ul.sublevel ul.currentlevel{margin-left:-22px;}ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.currentlevel{margin-left:-28px;}ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.currentlevel{margin-left:-36px;}ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.currentlevel{margin-left:-42px;}ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.currentlevel{margin-left:-50px;}ul.currentlevel{background-color:#ECECEC;padding:0 0 0 15px;box-shadow:-3px 2px 5px 0 rgba(0,0,0,.3);font-size:.875em;font-weight:600;margin-bottom:0;margin-top:0;}ul.currentlevel li{padding-right:5px;}ul.currentlevel li:last-child{margin-bottom:2px;}ul.currentlevel > li{padding-bottom:5px;}ul.currentlevel a{color:#222222;padding-right:5px;position:relative;}ul.currentlevel a:hover{color:#818701;}ul.currentlevel #selected{margin-left:-21px;padding:4px 0px 2px 15px;margin-top:-6px;}ul.currentlevel #selected > a{background-color:#73000A;color:white;padding-top:4px;padding-bottom:4px;padding-left:8px;display:block;cursor:default;}ul.currentlevel #selected a:hover{}ul.currentlevel #selected > a:after{content:"";width:0px;height:0px;border-bottom:17px solid transparent;border-top:16px solid transparent;border-left:10px solid #73000A;color:#73000A;font-size:0px;line-height:0px;position:absolute;top:0px;right:-9px;}ul.currentlevel > li:first-child{padding-top:10px;}ul.currentlevel > li#selected:first-child{margin-top:6px;padding-top:2px;}ul.currentlevel > li#selected:last-child{margin-bottom:0;}ul.currentlevel > li#selected:only-child{padding-left:8px;margin-top:0;}ul.childlevel{font-weight:400;margin:5px 0px 5px 20px;font-size:.75em;}#mainnav ul.childlevel li{line-height:1.3em;}ul.childlevel li:last-child{margin-bottom:0;}.internal-btn,.internal-btn-top{background:rgb(186,186,186);background:-moz-linear-gradient(-45deg,rgba(186,186,186,1) 0%,rgba(219,219,219,1) 100%);background:-webkit-gradient(linear,left top,right bottom,color-stop(0%,rgba(186,186,186,1)),color-stop(100%,rgba(219,219,219,1)));background:-webkit-linear-gradient(-45deg,rgba(186,186,186,1) 0%,rgba(219,219,219,1) 100%);background:-o-linear-gradient(-45deg,rgba(186,186,186,1) 0%,rgba(219,219,219,1) 100%);background:-ms-linear-gradient(-45deg,rgba(186,186,186,1) 0%,rgba(219,219,219,1) 100%);background:linear-gradient(135deg,rgba(186,186,186,1) 0%,rgba(219,219,219,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bababa',endColorstr='#dbdbdb',GradientType=1);color:#FFF;font-weight:300;padding-bottom:5px;margin-left:-15px;padding-left:22px;box-shadow:inset 0 5px 5px 0 rgba(0,0,0,.1);padding-top:5px;font-size:.9em;padding-bottom:5px !important;margin-left:-15px !important;}.internal-btn:hover,.internal-btn-top:hover{background:rgb(151,151,151);background:-moz-linear-gradient(-45deg,rgba(151,151,151,1) 0%,rgba(175,175,175,1) 100%);background:-webkit-gradient(linear,left top,right bottom,color-stop(0%,rgba(151,151,151,1)),color-stop(100%,rgba(175,175,175,1)));background:-webkit-linear-gradient(-45deg,rgba(151,151,151,1) 0%,rgba(175,175,175,1) 100%);background:-o-linear-gradient(-45deg,rgba(151,151,151,1) 0%,rgba(175,175,175,1) 100%);background:-ms-linear-gradient(-45deg,rgba(151,151,151,1) 0%,rgba(175,175,175,1) 100%);background:linear-gradient(135deg,rgba(151,151,151,1) 0%,rgba(175,175,175,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#979797',endColorstr='#afafaf',GradientType=1);color:#d0da00;}.internal-btn:hover a,.internal-btn-top:hover a{color:#d0da00;}.internal-btn.top{box-shadow:inset 0 -5px 5px 0 rgba(0,0,0,.2);}
+.hideme{display:none;}.showme{text-decoration:line-through;}#user_menu li{border-right:1px solid #222222;float:left;padding-left:10px;padding-right:10px;font-size:.8em;list-style:none;}#user_menu{background-color:rgba(255,255,0,0.9);bottom:0;position:fixed;width:100%;z-index:100;padding-bottom:10px;border-top:dashed}#user_menu .toplevel a{color:#000000;}.flex-caption strong{font-size:2em;line-height:1.1em;}.flex-caption span b{line-height:1.3em;float:none;}.flex-caption span b a{background:none;}.flex-caption span b a:hover{background:none;}.flexslider ul.slides{margin:-15px;}#list ul{bottom:10px;position:relative;}.flexslider ul.slides{margin:-15px;}.toplevel #selected a.active-trail{color:white;position:relative;}h2#sectionHead_image{position:relative;}#mainnav .toplevel a{padding-right:5px;}#admin-menu{position:fixed;}#admin-menu-wrapper{overflow:visible;}#unit_resources{padding-top:5px;padding-left:1px;}#unit_resources h4{font-size:.9em;color:#000000;padding-left:0px;margin-bottom:-5px;font-weight:normal;}#unit_resources span{font-size:.8em;}.file{line-height:2em;display:block;}.page-faculty ul.childlevel{display:none;}.node-type-person .currentlevel li{display:none;}.node-type-person .currentlevel li#selected{display:block;}.page-news-archive ul.childlevel{display:none;}.node-type-news-article .currentlevel li{display:none;}.node-type-news-article .currentlevel li#selected{display:block;}.news_date{font-style:italic;font-size:.8em;clear:both;display:block;]}.branding h1 a{font-size:0.7em;}.branding h1{margin-top:-10px;}.dept_hdr{font-size:1.6em;margin-top:-20px;display:block;float:left;}#list ul.pager li{border:none;}#list ul.pager li a{display:inherit;padding:0;}#list ul.pager{bottom:-6px;float:none;font-size:1em;margin:0;padding-left:0;position:relative;right:0;width:100%;margin-bottom:15px;}.gallery li{width:inherit;padding-bottom:15px;}.gallery{background-color:inherit;}#mainnav{background-color:#696969;}.branding{float:none;}#mainnav{padding-top:15px;}ul.primary li{display:inline;}ul.primary li a{background-color:#DDDDDD;border-color:#BBBBBB;border-style:solid solid none;border-width:1px;height:auto;margin-right:0.5em;padding:0 1em;text-decoration:none;}ul.primary{border-bottom:1px solid #BBBBBB;border-collapse:collapse;height:auto;line-height:normal;list-style:none outside none;margin:5px;padding:0 0 0 1em;white-space:nowrap;}ul.primary li.active a{-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;background-color:#FFFFFF;border-color:#BBBBBB #BBBBBB #FFFFFF;border-image:none;border-style:solid;border-width:1px;}#sidr .closed:before,#sidr .open:before{background-image:none;background-repeat:no-repeat;height:16px;left:10px;position:absolute;top:5px;width:16px;}#sidr span.closed,#sidr span.open{background:url("http://www.sc.edu/_global_resources/css/../img/expand_sprite.svg") no-repeat scroll 65% 0 rgba(0,0,0,0);border-left:1px solid #7F7F7F;height:25px;margin-top:15px;position:absolute;right:10px;top:0;width:70px;}#sidr span.open{background-position:65% -34px;}.flex-nav-container{margin-bottom:0;padding-top:15px;}.flex-control-nav li a.flex-active{background-position:0 -13px;cursor:default;}.front .breadCrumb{padding-top:16px !important;}
+@media only screen and (min-width:320px) and (max-width:480px){h2#sectionHead_fac{float:none;}#person nav,#person span{margin-top:5px;margin-left:0;}#person span{margin-right:10px;}}@media only screen and (min-width:480px) and (max-width:767px){#contact ul#follow li{padding-left:5px;}}@media only screen and (min-width:320px) and (max-width:767px){#mainnav,.banner-toolbox,#breadCrumb,#mainContent hr,#tweets,.links ul,#logo-footer .max-image,.branding ul,.flex-caption:after,.multi-list .more:after,#menu-btn,#footerbg{display:none;}html,body{background:none;padding:0px;}.carolina-alert{top:55px;}blockquote{padding:3% 5%;z-index:1;}blockquote:before,blockquote:after{z-index:-1;}.wrapper{padding:0;}#logo{background-color:#73000a;z-index:9999;}#logo a{width:185px;height:45px;background-size:175px 37px;background-position:10px 8px;float:left;}#logo,#ribbon{margin:0px;}#home h1,.branding h1{font-size:1.125em;margin-bottom:0;}.branding h1{margin:0 0 7px 0;padding-left:5px;}.branding h2{margin-bottom:5px;}#mainWrapper{box-shadow:0 0 0 0;margin:0px 0px 0px 5px;width:98%;border-radius:0;margin-top:60px;}#main,#eventsbg h2{margin:0px;}#mainContent p#intro{margin-top:15px;}.main-header{background-color:#73000a;padding:0;position:fixed;right:0;left:0;top:0;z-index:9998;-webkit-backface-visibility:hidden;}.header-icons{margin:5px 10px 0px 0px;float:right;}.search-btn-mobile,.menu-btn-mobile{border-radius:5px;background-color:#000;border:1px solid #A3A3A3;}.menu-header,.menu-list a{padding-top:7px;padding-bottom:7px;padding-left:10px;}.menu-header{background-color:#5B5B5B;text-transform:uppercase;font-size:.6875em;color:#C8C8C8;margin:0;clear:both;}.menu-list a{text-decoration:none;display:block;}.menu-list li{color:#fff;border-top:1px solid #7F7F7F;font-weight:700;}.menu-list li:hover{color:#b6bf00;}.menu-list span{display:block;font-weight:400;font-size:.875em;margin-top:-3px;}#search{display:none;width:100%;background-color:#000;padding:10px;bottom:-5px;position:relative;float:left;z-index:9999;margin:0;box-sizing:border-box;}.search-input{border-radius:20px;border:2px inset;width:100%;height:auto;background:#fff none;padding-left:10px;box-sizing:border-box;}.slides{margin:0px;}#home + .flex-container .lightbox-video:after{width:50px;height:50px;background-size:50px 50px;top:100px;}.flexslider .slides img{max-width:100%;border-radius:0px;}.flex-caption,.content-slider .flex-caption{width:100%;max-width:100%;position:relative;height:145px;z-index:0;right:0;background-color:#000;background-color:rgba(0,0,0,.7);}.flex-caption h1,.flex-caption p,.content-slider .flex-caption h1,.content-slider .flex-caption p{padding:1% 2%;width:96%;font-size:1em;background-color:transparent;margin:0px 0px;}.top,.bottom{top:0;bottom:0;}.flex-caption p{font-size:.75em;}.flex-caption strong{padding-bottom:3px;font-size:1.25em;font-weight:700;top:3px;bottom:inherit;}.flex-control-nav{display:none;width:100%;bottom:2.5%;}.flex-caption span{top:20%;padding-bottom:0;}.flex-control-nav li{padding-right:10px;}#mainContent{margin:15px 0 0 0;padding:0px;font-size:.8em;}#eventsbg{margin-top:15px;width:100%;}#eventsbg h3{margin-left:5px;}.date{font-size:16px;}.simple-list h2,.simple-list article{width:100%;}.simple-list article span.more,.simple-list article span.external{line-height:2.7em;}.events p{width:100%;}.flip-container{width:49%;clear:none;}.flip-container:nth-child(2n+1){margin-right:0;}#callout{width:50%;margin:0 auto;}.multi-list img{width:24%;}.multi-list ul{width:25%;}.multi-list ul li{line-height:1.4em;text-align:left;padding:5px 0px 5px 5px;}.multi-list ul li a{padding:0;}.halfwidth{width:70%;}.halfwidth ~ ul{width:72%;}.multi-list .external,.multi-list .download,.multi-list .more{background-image:none;}#detail{padding-left:10px;}#contact .grid_3{width:35%;}#contact .grid_6{width:63%;}#contact .max-image{float:left;min-width:100px;min-height:117px;}#contact ul#follow li{height:40px;}.dataTables_{margin-top:0;float:left;text-align:left;}#gallery_widget{margin:0 0 10px 0;width:100%;}#gallery .view{margin:0;float:left;}.gallery li{width:33%;}.grid li{width:48%;}.grid li:nth-of-type(3n+1){clear:none;}.grid li:nth-child(2n){padding:0 !important;}.grid li:nth-child(3n){padding-right:4%;}#input-switch{float:left;}.dataTables_filter{margin-top:0;}#inner footer{height:auto;font-size:.875em;}.uniticons{float:left;clear:both;margin-left:10px;margin-right:0;}.uniticons li{padding-left:0;}.uniticons li a{background-image:none;padding-right:15px;padding-left:0px;border-right:1px #CCC solid;margin-top:10px;margin-bottom:10px;line-height:1.4em;}.uniticons li:last-child a{border:none;}.unit-social{position:relative;bottom:0;}.unit-social:after{background:none;}#logo-footer{text-align:center;margin-top:10px;}#logo-footer small{width:100%;}#logo-footer .logo{background:url('http://artsandsciences.sc.edu/_resources_1/img_/USC_Web_main.svg') no-repeat;width:200px;height:114px;margin:15px auto;}.no-svg #logo-footer .logo{background-image:url('http://artsandsciences.sc.edu/_resources_1/img_/USC_Web_main.png')}.no-limits{margin:0 20px 15px;float:none;}.no-limits strong,.no-limits span{display:block;}.page-owner{float:none;width:100%;}.links{height:auto;border:none;padding:0;}.links h1{text-align:center;}#mainContent table.display{font-size:9px;}table.display td{padding:3px 3px;}}@media only screen and (min-width:768px) and (max-width:959px){#ribbon ul#info{font-size:.625em;margin-top:10px;margin-right:5px;}#search input[type="text"]:focus{width:90px;}#home,.branding{margin-left:-10px;padding:0px 10px;}#home h1{font-size:2em;}#mainContent{font-size:.8125em;}#mainContent p#intro{font-size:1.25em;}.slides{margin:0 -10px;}.flex-caption{font-size:.625em;}.flex-caption b{bottom:60%;}.flex-caption span{top:48%;}.flex-control-nav{bottom:1.5%;}#mainnav{font-size:.875em;width:100%;}ul.sublevel{background-position:0 2%;}ul.currentlevel #selected > a::after{border-bottom:14px solid transparent;border-top:13px solid transparent;}table.display{font-size:12px;}.date{width:35px;height:35px;}.multi-list article ul{font-size:.625em;}.multi-list ul li{line-height:1.2em;}.external,.download,.more{padding:3px 30px 3px 0;}#contact{font-size:14px;}#contact ul#follow li{padding-left:5px;}#mainContent table.display{font-size:12px;}#sitemap ul li{font-size:.625em;}#sitemap h1{font-size:.875em;}.links{width:100px;padding-left:0;}.no-limits{font-size:1em;margin-top:36px;}.no-limits strong{display:block;}}@media only screen and (min-width:960px) and (max-width:1139px){.flex-caption{font-size:.875em;}#mainnav{font-size:1em;}ul.currentlevel #selected > a::after{border-bottom:15px solid transparent;border-top:15px solid transparent;}#outer h1{font-size:.8125em;}.no-limits{font-size:1.125em;margin-top:52px;}}@media only screen and (min-width:768px){#mobilenav,#toggle{display:none !important;}}@media screen and (max-width:640px){*{-webkit-text-size-adjust:none;-ms-text-size-adjust:none;}}@media print{*{background:transparent !important;color:black !important;box-shadow:none !important;text-shadow:none !important;filter:none !important;-ms-filter:none !important;}a,a:visited{text-decoration:underline;font-weight:bold;}abbr[title]:after{content:" (" attr(title) ")";}.ir a:after,a[href^="javascript:"]:after,a[href^="#"]:after{content:"";}pre,blockquote{border:1px solid #999;page-break-inside:avoid;}thead{display:table-header-group;}tr,img{page-break-inside:avoid;}@page{margin:0.5cm;}p,h2,h3{orphans:3;widows:3;}h2,h3{page-break-after:avoid;}body{font:12pt Georgia,"Times New Roman",Times,serif;line-height:1.3;}#logo:before{content:url(http://artsandsciences.sc.edu/_resources_1/img_/usclogo_2color.png);}.branding{float:right;margin-top:-80px;width:auto;}.callout img{max-width:150px;}#ribbon,#logo img,#breadCrumb,.flexslider,nav,#person,#mobilenav,#toggle,#inner,#outer,.callout hgroup:before,.callout hgroup:after,video,audio,object,embed{display:none !important;}.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12{width:95%;}.max-image{max-width:100% !important;}#contact{clear:both;}#contact .grid_6{width:75%;}#contact .grid_3{width:15%;}#contact .max-image{max-width:200px;}}
+#sidr .toplevel > li{margin-left:8px;}#sidr.toplevel .first-item{padding-top:15px;}#sidr .toplevel a{color:#FFFFFF;}#sidr .toplevel a:hover{color:#FFFFFF;}#sidr .toplevel ul.currentlevel{margin-left:-9px;}#sidr .toplevel > li > ul.currentlevel #selected{font-size:1em;padding-top:15px;}#sidr .toplevel > li.historylevel > ul.currentlevel #selected{font-size:1em;padding-top:15px;}#sidr .historylevel > a:link{margin-left:-10px;padding-left:10px;}#sidr .historylevel a:hover{color:#FFFFFF;}#sidr .historylevel > a:first-child{font-size:1em;}#sidr .historylevel > ul.currentlevel{margin-left:0;margin-top:0;padding-bottom:0;margin-bottom:0;}#sidr .historylevel > ul.currentlevel li#selected:last-child{padding-bottom:0;}#sidr .historylevel ul.currentlevel li#selected:only-child{padding-left:0;}#sidr .historylevel .childlevel{font-size:1em;}#sidr .historylevel ul.currentlevel #selected > a{margin-left:0;padding-top:15px;padding-bottom:15px;padding-left:10px;}#sidr .historylevel ul.currentlevel #selected > a:after{border-bottom:none;}#sidr .historylevel ul.currentlevel #selected:last-child{padding-bottom:0;}#sidr .historylevel ul.sublevel li#selected:only-child{padding-top:0px;}#sidr ul.sublevel{margin:0;margin-left:0;padding-left:0;padding-top:0;}#sidr ul.sublevel > li > a:link{background:none;padding-left:10px;margin-left:0;}#sidr ul.sublevel > li > a:hover{background:inherit}#sidr ul.sublevel ul.currentlevel{margin:0;padding-bottom:0;}#sidr ul.sublevel ul.sublevel ul.currentlevel{margin-left:0;}#sidr ul.sublevel ul.sublevel ul.sublevel ul.currentlevel{margin-left:0;}#sidr ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.currentlevel{margin-left:0;}#sidr ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.currentlevel{margin-left:0;}#sidr ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.currentlevel{margin-left:0;}#sidr ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.sublevel ul.currentlevel{margin-left:0;}#sidr ul.currentlevel{background-color:#000000;padding:0;box-shadow:none;font-size:1em;font-weight:800;margin-bottom:0;margin-top:0;}#sidr ul.currentlevel li{padding-right:0;}#sidr ul.currentlevel li:last-child{margin-bottom:0;}#sidr ul.currentlevel > li{padding-bottom:0;}#sidr ul.currentlevel a{color:#FFFFFF;padding-right:25%;position:relative;}#sidr 	ul.currentlevel a:hover{color:#FFFFFF;}#sidr ul.currentlevel #selected{margin-left:0;padding:0;margin-top:0;}#sidr ul.currentlevel #selected > a{background-color:#000000;color:#FFFFFF;padding-top:15px;padding-bottom:15px;padding-left:10px;display:block;cursor:default;}#sidr ul.currentlevel #selected a:hover{}#sidr ul.currentlevel #selected > a:after{content:"";width:0px;height:0px;border-bottom:none;border-top:none;border-left:none;color:#FFFFFF;font-size:1em;line-height:0px;position:absolute;top:0px;right:-9px;}#sidr ul.currentlevel > li:first-child{padding-top:0;}#sidr ul.currentlevel > li#selected:first-child{margin-top:0;padding-top:0;}#sidr ul.currentlevel > li#selected:last-child{margin-bottom:0;}#sidr ul.currentlevel > li#selected:only-child{padding-left:0;margin-top:0;}#sidr ul.childlevel{font-weight:800;margin:0 0 0 0;font-size:1em;}#sidr 	ul.childlevel li:last-child{margin-bottom:0;}.mobile-nav .toplevel ul.currentlevel{display:block;}.mobile-nav a{text-decoration:none;display:block;padding:15px 25% 15px 10px;font-weight:800;color:#fff;}.mobile-nav li{border-top:1px solid #7f7f7f;position:relative;margin:0;}.mobile-nav li ul{display:block;margin:0;}.mobile-nav li li{border-bottom:none;border-top:1px solid #7f7f7f;}.level-two a{padding-left:20px;font-weight:700;}.level-three a{padding-left:40px;font-weight:400;}.level-four a{padding-left:60px;}.level-five a{padding-left:80px;}.selected{background-color:#73000a;display:block;}.plus,.minus{background:url(http://artsandsciences.sc.edu/_resources_1/img_/expand_sprite.svg) no-repeat 65% 0;position:absolute;right:10px;top:0;margin-top:15px;height:25px;width:70px;border-left:1px solid #7f7f7f;}.no-svg .plus,.no-svg .minus{background:url("http://artsandsciences.sc.edu/poli/sites/all/themes/USCv5/assets/img/expand_sprite.png") no-repeat;}.minus{background-position:65% -34px;}
+.page-news-archive ul.childlevel{display:none;}.node-type-news-article .currentlevel li{display:none;}.node-type-news-article .currentlevel li#selected{display:block;}.page-emeriti ul.childlevel{display:none;}.page-adjunct ul.childlevel{display:none;}tr.even{background-color:#FFFFFF;}tr.odd{background-color:#EEEEEE;}.node-type-graduate-students #mainnav ul.currentlevel #selected{padding:2px 0 2px 15px;}.node-type-graduate-students  #mainnav ul.sublevel ul.currentlevel{padding-bottom:0;}.node-type-person #mainnav ul.currentlevel #selected,.node-type-emeritus #mainnav ul.currentlevel #selected{padding:2px 0 2px 15px;}.node-type-person  #mainnav ul.sublevel ul.currentlevel,.node-type-emeritus  #mainnav ul.sublevel ul.currentlevel{padding-bottom:0;}.name-cell-width{width:180px;}table.display thead th{background-color:#FFFFFF;color:#73000A;font-weight:700;padding:3px 0 3px 10px;text-align:left;width:20%;}table th,table td{border:none;padding:inherit;}tbody{border:none;background-color:inherit;}tr.odd{background-color:#ECECEC;border-bottom:none;}tr.even{background-color:#FFFFFF;border-bottom:none;}table{font-size:1em;}td.views-field-title{min-width:200px;}table td{padding:10px;}
+</style>
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://artsandsciences.sc.edu/poli/sites/all/libraries/respondjs/respond.min.js?oranwj"></script>
+<script type="text/javascript" src="http://artsandsciences.sc.edu/poli/sites/sc.edu.poli/files/js/js_KKu5BaiuqvEw2WLFM6MTso17w1xXuxw_PfZcVRTvebA.js"></script>
+<script type="text/javascript" src="http://artsandsciences.sc.edu/poli/sites/sc.edu.poli/files/js/js_zXiZh_Eau8GZYkjkwA1tnBKu5urRiAUQDr_L7dOXQq0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-99347268-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/poli\/","pathPrefix":"","ajaxPageState":{"theme":"sub","theme_token":"Tgj_ec6ucLj9B2xD91MIyni1qfwu7ghBzBzOYsiZ2QM","js":{"sites\/all\/libraries\/respondjs\/respond.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/prefixfree\/prefixfree\/prefixfree.min.js":1,"sites\/all\/modules\/jquerymenu\/jquerymenu.js":1,"sites\/all\/libraries\/modernizr\/modernizr.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/sc.edu.poli\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/jquerymenu\/jquerymenu.css":1,"sites\/all\/themes\/USCv5\/assets\/css\/global.css":1,"sites\/all\/themes\/USCv5\/assets\/css\/flexslider.css":1,"sites\/all\/themes\/USCv5\/assets\/css\/jquery.fancybox.css":1,"sites\/all\/themes\/USCv5\/assets\/css\/jquery.fancybox-buttons.css":1,"sites\/all\/themes\/USCv5\/assets\/css\/jquery.reject.css":1,"sites\/all\/themes\/USCv5\/assets\/css\/system.menus.css":1,"sites\/all\/themes\/USCv5\/assets\/css\/uscdp.css":1,"sites\/all\/themes\/USCv5\/assets\/css\/mediaqueries.css":1,"sites\/all\/themes\/USCv5\/assets\/css\/mobile_nav.css":1,"sites\/sc.edu.poli\/themes\/sub\/sub.css":1}},"jquerymenu":{"hover":0,"animate":1,"edit_link":0,"click_to_expand":0},"modernizrPath":false,"modernizrServerside":false,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+  
+<script src="/poli/sites/all/themes/USCv5/assets/js/jquery.jBreadCrumb.1.1.js"></script>
+<script src="/poli/sites/all/themes/USCv5/assets/js/respond.min.js"></script>
+       
+
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-102 node-type-person">
+<a id="skiptocontent" href="#mainContent">Skip to Content</a>
+
+    <!-- Global Nav include -->
+<section class="row">
+     <header class="column grid_12 wrapper main-header">      
+      	            <div class="row">
+               <div class="column grid_4"><div id="logo">
+	<a href="http://www.sc.edu"></a>
+	<div class="header-icons hide-for-medium">
+		<button type="button" class="search-btn-mobile"></button>
+		<button type="button" class="menu-btn-mobile"></button>
+	</div>
+</div>
+</div><form method="get" action="http://sc.edu/search" id="search" class="hide-for-medium">
+	<input class="search-input" name="Search" placeholder="Search sc.edu" type="text">
+</form>
+               <div class="column grid_8">
+                  <nav role="navigation">
+                     <div class="banner-toolbox"><ol class="banner-tools">
+<li><a href="http://calendar.sc.edu">Calendar</a></li>
+<li><a title="USC Map" href="http://sc.edu/visit/map">Map</a></li>
+<li><a title="USC Directory" href="http://sc.edu/about/directory/">Directory</a></li>
+<li><a onclick="_gaq.push(['_trackEvent', 'Give', 'Give Link', 'Clicked Link', 20, false]);" href="http://giving.sc.edu">Give</a></li>
+</ol>
+<form method="get" action="http://sc.edu/search" id="search-desktop" role="search">
+	<input class="search-input" name="q" placeholder="Search sc.edu" type="text">
+	<input value="GO" class="submit" title="sc.edu Search" type="submit">
+</form>
+<div class="gateways-wrapper"><button class="menu-btn" title="Gateways" type="button">GATEWAYS</button>
+<div class="menu-wc">
+<h1 class="menu-header">Resources for:</h1>
+<ol class="menu-list">
+<li><a title="Student Gateway" href="http://sc.edu/students">Students <span>sc.edu/students</span></a></li>
+<li><a title="Parents Gateway" href="http://sc.edu/parents">Parents<span>sc.edu/parents</span></a></li>
+<li><a title="Alumni Gateway" href="http://sc.edu/alumni">Alumni<span>sc.edu/alumni</span></a></li>
+<li><a title="Faculty/Staff Gateway" href="http://sc.edu/facultystaff">Faculty &amp; Staff<span>sc.edu/facultystaff</span></a></li>
+</ol></div>
+</div>
+</div>
+                  </nav>
+               </div>
+            </div>
+              
+     </header><!--Closing column grid_12 -->
+</section><!--Closing row -->
+
+<!-- Header include -->
+<section class="row">
+  <div class="column grid_12 wrapper" id="mainWrapper">
+  		<section class="branding">
+			<h1><a href="http://www.artsandsciences.sc.edu">College of Arts &amp; Sciences</a><br>
+   <span class="dept_hdr"><a href="/poli/" title="Home" rel="home">Department of 
+   
+                      
+   <strong>Political Science</strong> </a></span></h1>
+
+			<hr>
+			
+		</section>
+		
+				<section class="breadCrumbHolder module">
+                <div id="breadCrumb" class="breadCrumb module">
+                    <div style="overflow:hidden; position:relative;  width: 1099px;"><div><ul style="width: 5000px;">
+                        <li class="first">
+                            <a href="http://www.sc.edu">SC.edu</a>
+                        </li>
+                        <li style="background: transparent none repeat scroll 0% 0%;">
+                            <span style="width: 10px;"><a href="http://www.sc.edu/colleges" style="width: 130px;">Colleges and Schools</a></span>
+                        <div class="chevronOverlay" style="display: block;"></div></li>
+                          <li style="background: transparent none repeat scroll 0% 0%;">
+                            <span style="width: 10px;"><a href="http://www.artsandsciences.sc.edu" style="width: 42px;">A &amp; S</a></span>
+                        <div class="chevronOverlay" style="display: block;"></div></li>
+                            
+                         
+                         
+                                                         <li style="background: transparent none repeat scroll 0% 0%;"><span style="width: 10px;"><a href="/poli/" style="width: 43px;">Home</a></span><div class="chevronOverlay" style="display: block;"></div></li><li style="background: transparent none repeat scroll 0% 0%;"><span style="width: 10px;"><a href="/poli/faculty" title="" style="width: 48px;">People</a></span><div class="chevronOverlay" style="display: block;"></div></li><li><a href="/poli/faculty" title="">Faculty</a></li><li class="last" style="background: transparent none repeat scroll 0% 0%;">Andrea McAtee</li>                                                                
+                            
+                        
+                             
+                    
+                
+                    
+                    </ul></div></div>
+                </div>
+</section>        
+
+
+<div class="row" id="main">
+     	<section class="column grid_3">
+		    		<header>
+		<nav id="mainnav">
+		         
+    
+  
+    <ul class="toplevel"><li class="first leaf mobilehideme"><a href="/poli/welcome" title="">Political Science Home</a></li><li class="collapsed mobilehideme"><a href="/poli/about" title="About US">About Us</a></li><li class="collapsed mobilehideme"><a href="/poli/academic-programs" title="Academic Programs">Academic Programs</a></li><li class="expanded active-trail historylevel case2"><a href="/poli/faculty" title="" class="active-trail">People</a><ul class="sublevel"><li class="first expanded active-trail"><a href="/poli/faculty" title="" class="active-trail">Faculty</a><ul class="currentlevel"><li class="first leaf active-trail" id="selected"><a href="/poli/andrea-mcatee" class="active-trail active">Andrea McAtee</a></li><li class="leaf"><a href="/poli/AnuChakravarty">Anu Chakravarty</a></li><li class="leaf"><a href="/poli/Brad%20Epperly" title="Brad Epperly">Brad Epperly</a></li><li class="leaf"><a href="/poli/charles-j-finocchiaro">Charles J. Finocchiaro</a></li><li class="leaf"><a href="/poli/christopher-witko">Christopher Witko</a></li><li class="leaf"><a href="/poli/DavidDarmofal" title="David Darmofal">David Darmofal</a></li><li class="leaf"><a href="/poli/node/226">David Whiteman</a></li><li class="leaf"><a href="/poli/douglas-thompson" title="Douglas Thompson">Douglas Thompson</a></li><li class="leaf"><a href="/poli/harvey-starr" title="Harvey Starr">Harvey Starr</a></li><li class="leaf"><a href="/poli/JohnHsieh">John Fuh-sheng Hsieh</a></li><li class="leaf"><a href="/poli/KatherineBarbieri">Katherine Barbieri</a></li><li class="leaf"><a href="/poli/KelanLu" title="Kelan Lu">Kelan Lu</a></li><li class="leaf"><a href="/poli/kirk-randazzo">Kirk Randazzo</a></li><li class="leaf"><a href="/poli/laura-woliver" title="Laura Woliver">Laura Woliver</a></li><li class="leaf"><a href="/poli/neal-woods" title="Neal Woods">Neal Woods</a></li><li class="leaf"><a href="/poli/robert-h-cox" title="Robert H. Cox">Robert H. Cox</a></li><li class="leaf"><a href="/poli/robert-w-oldendick">Robert W. Oldendick</a></li><li class="leaf"><a href="/poli/susan-miller">Susan Miller</a></li><li class="leaf"><a href="/poli/timothy-peterson">Timothy Peterson</a></li><li class="leaf"><a href="/poli/tobias-heinrich">Tobias Heinrich</a></li><li class="leaf"><a href="/poli/todd-shaw">Todd Shaw</a></li><li class="last leaf"><a href="/poli/xuhong-su">Xuhong Su</a></li></ul></li><li class="collapsed hideme"><a href="/poli/emeriti" title="">Emeriti Faculty</a></li><li class="collapsed hideme"><a href="/poli/adjunct" title="">Adjunct and Affiliated Faculty</a></li><li class="leaf hideme"><a href="/poli/regional-faculty">Regional Faculty</a></li><li class="leaf hideme"><a href="/poli/memoriam">In Memoriam</a></li><li class="leaf hideme"><a href="/poli/hire" title="Hire a Ph.D.">Hire a Ph.D.</a></li><li class="leaf hideme"><a href="/poli/staff-directory">Staff</a></li><li class="last leaf hideme"><a href="/poli/faculty-login-0">Faculty Login</a></li></ul></li><li class="collapsed mobilehideme"><a href="/poli/Research" title="Research">Research</a></li><li class="collapsed mobilehideme"><a href="/poli/news" title="News and Events">News</a></li><li class="leaf mobilehideme"><a href="/poli/contact" title="Contact Information">Contact</a></li><li class="last leaf mobilehideme"><a href="/poli/give-political-science">Give to Political Science</a></li></ul>      	</nav>
+		</header><!-- /.section, /#navigation -->
+    			    	</section>
+        
+	  <section class="column grid_9">
+	  	<div id="mainContent">
+	     		
+	        <div class="tabs"></div>	        
+	             
+    
+  
+    
+
+<h2 id="sectionHead_fac">Faculty &amp; Staff Directory</h2>
+        <div id="faculty">
+        	<!--<nav>
+                <span><a href="#">< Previous Person</a></span>
+                <span><a href="#">Next Person ></a></span>
+            </nav> -->
+        </div>
+    	<div class="row" id="contact">
+        <section class="column grid_6">
+	<h2>Andrea McAtee</h2>  
+	<h4><br>
+  Department of Political Science<br>
+  University of South Carolina</h4>
+  		<table>
+
+         <tbody><tr>
+     <td><b>Phone Number</b></td>
+     <td></td></tr>
+     <tr><td><b>Email</b></td>
+     <td><a href="mailto:        mcateea@mailbox.sc.edu       ">        mcateea@mailbox.sc.edu       </a></td></tr>
+     
+
+
+      <tr><td><b>Office:</b></td><td>
+      343 Gambrell    
+</td></tr>
+    
+  
+
+
+
+
+
+  
+  
+
+
+      <tr><td><b>Fields of Inquiry:</b></td><td>
+      American Politics    
+</td></tr>
+    
+  
+
+
+
+
+
+  
+    
+    
+  
+     <tr>
+    <td><b>Curriculum vitae:</b></td>
+    <td><a href="        http://artsandsciences.sc.edu/poli/sites/sc.edu.poli/files/vitae/McAtee%20-%20CV.pdf      ">Download PDF</a></td>
+  </tr>  
+</tbody></table>
+</section>
+	<section class="column grid_3">
+		      
+    </section>
+    </div>
+    <div id="background">
+		<h4>Bio&nbsp;</h4>
+<p>
+          </p><p>Dr. Andrea McAtee is an assistant professor in the Department of Political Science. She earned a BA from the University of Kentucky and her MA and PhD at the University of North Carolina at Chapel Hill. Her research focuses on American political institutions on both the national and state levels. Her primary research interests are political parties as organizations, and the impact of partisanship on public policy, especially in state legislatures. She has published an article on judicial decision-making in Law &amp; Society Review, and her research on state politics, divided government, and policy-making appears in the Journal of Politics and Political Research Quarterly.</p>
+    <p></p>
+
+						    </div>
+  	  		
+	   
+	        </div>
+	  </section><!--Closing column 9-->
+</div><!--Closing row-->
+			 <section class="row" id="inner">
+        	<div class="column grid_12">
+       				<footer>
+                    	<h3>Department of <strong>Political Science</strong> </h3>
+                    	<ul class="uniticons">
+                          <!--  <li><a target="_blank" class="faq" href="">Twitter</a></li> -->
+		            <li><a class="location" href="http://web.csd.sc.edu/cgi-bin/uscmap/uscmap.cgi?data=51&amp;type=number">Location</a></li>
+                            <li><a class="contact" href="contact">Contact</a></li>
+                            <li><a class="give" href="http://giving.sc.edu/areastosupport/collegesschools/collegeofartssciences.aspx">Give</a></li>
+		           
+                    	</ul>
+        			</footer>
+       	    </div><hr>
+</section>
+</div><!--Closing column grid_12 -->
+
+</section>
+
+ 
+<div id="footerbg" class="show-for-medium">
+	<div class="row">
+		<footer class="column grid_12 wrapper"><a id="footer-menu" href="#"><span class="closed">Menu</span></a>
+			<div id="sitemap">
+<div class="column grid_2 links">
+<h1><a href="http://sc.edu/study/">Study</a></h1>
+<ul>
+<li><a href="http://sc.edu/study/academic_overview/">Academic Overview</a></li>
+<li><a href="http://sc.edu/study/academic_overview/undergraduate_education/">Undergraduate Education</a></li>
+<li><a href="http://sc.edu/study/academic_overview/graduate_education.php">Graduate Education</a></li>
+<li><a href="http://sc.edu/study/academic_overview/professional_programs/">Professional Programs</a></li>
+<li><a href="http://sc.edu/study/academic_overview/online_education/">Online Education</a></li>
+<li><a href="http://sc.edu/study/academic_overview/continuing_education/">Continuing Education</a></li>
+<li><a href="http://sc.edu/study/academic_overview/academic_bulletins/">Academic Bulletins</a></li>
+<li><a href="http://registrar.sc.edu/html/calendar/5YrCalendar3.stm">Academic Calendar</a></li>
+<li><a href="http://sc.edu/study/major_and_degree_list.php">Major and Degree List</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/">Colleges and Schools</a></li>
+<li><a href="http://sc.edu/study/research_opportunities/">Research Opportunities</a></li>
+<li><a href="http://sc.edu/study/libraries_and_collections/">Libraries and Collections</a></li>
+<li><a href="http://sc.edu/study/academic_success_resources/">Academic Success Resources</a></li>
+<li><a href="http://sc.edu/study/career_preparation/">Career Preparation</a></li>
+</ul>
+<h1><a href="http://sc.edu/about/notices/">Notices</a></h1>
+<ul>
+<li><a href="http://sc.edu/carolinaalert/">Carolina Alert</a></li>
+<li><a href="http://sc.edu/about/notices/copyrights_and_trademarks/">Copyrights and Trademarks</a></li>
+<li><a href="http://sc.edu/eop/about.shtml">Equal Opportunity</a></li>
+<li><a href="http://sc.edu/about/notices/privacy/">Privacy</a></li>
+<li><a href="http://ipr.sc.edu/HEOA/">Student Consumer Information</a></li>
+<li><a href="http://spend.admin.sc.edu/">Transparency Initiative</a></li>
+</ul>
+</div>
+<div class="column grid_2 links">
+<h1><a href="http://sc.edu/experience/">Experience</a></h1>
+<ul>
+<li><a href="http://sc.edu/experience/living_here/">Living Here</a></li>
+<li><a href="http://sc.edu/experience/get_involved/">Get Involved</a></li>
+<li><a href="http://sc.edu/experience/grab_a_bite/">Grab a Bite</a></li>
+<li><a href="http://sc.edu/experience/see_the_world/">See the World</a></li>
+<li><a href="http://sc.edu/experience/catch_a_show/">Catch a Show</a></li>
+<li><a href="http://sc.edu/experience/get_in_the_game/">Get in the Game</a></li>
+</ul>
+<h1><a href="http://sc.edu/about/">About</a></h1>
+<ul>
+<li><a href="http://sc.edu/about/south_carolina_at_a_glance/">South Carolina at a Glance</a></li>
+<li><a href="http://sc.edu/about/our_history">Our History</a></li>
+<li><a href="http://sc.edu/about/our_leadership/">Our Leadership</a></li>
+<li><a href="http://sc.edu/about/offices_and_divisions/">Offices and Divisions</a></li>
+<li><a href="http://sc.edu/about/directory/">Directory Search</a></li>
+<li><a href="http://www.sc.edu/about/employment_working_at_uofsc/index.php">Employment: Working at UofSC</a></li>
+</ul>
+</div>
+<div class="column grid_2 links">
+<h1><a href="http://sc.edu/visit/">Visit</a></h1>
+<ul>
+<li><a href="http://sc.edu/visit/schedule_a_visit/">Schedule a Tour</a></li>
+<li><a href="http://sc.edu/visit/campus_photo_gallery/">Campus Photo Galleries</a></li>
+<li><a href="http://sc.edu/visit/explore_columbia/">Explore Columbia</a></li>
+<li><a href="http://sc.edu/visit/map/">Campus Map</a></li>
+</ul>
+<h1><a href="http://sc.edu/apply/">Apply</a></h1>
+<ul>
+<li><a href="http://sc.edu/apply/apply_for_undergraduate_admission/">Apply for Undergraduate Admission</a></li>
+<li><a href="http://sc.edu/apply/apply_to_graduate_school/">Apply to Graduate School</a></li>
+<li><a href="http://sc.edu/apply/apply_to_our_professional_schools/">Apply to our Professional Schools</a></li>
+<li><a href="http://sc.edu/apply/cost_tuition_financial_aid/">Cost, Tuition and Financial Aid</a></li>
+</ul>
+<h1><a href="http://sc.edu/research/">Research</a></h1>
+<ul>
+<li><a href="http://sc.edu/research/research_focus_areas/">Research Focus Areas</a></li>
+<li><a href="http://sc.edu/research/faculty_expertise/">Faculty Expertise</a></li>
+<li><a href="http://sc.edu/research/business_partnership_opportunities/">Business Partnership Opportunities</a></li>
+<li><a href="http://sc.edu/research/facilities_and_resources/">Facilities and Resources</a></li>
+</ul>
+</div>
+<div class="column grid_2 links">
+<h1><a href="http://sc.edu/study/colleges_schools">Colleges &amp; Schools</a></h1>
+<ul>
+<li><a href="http://sc.edu/study/colleges_schools/arts_sciences_at_a_glance/">Arts and Sciences</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/moore_school_of_business_at_a_glance/">Business</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/education_at_a_glance/">Education</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/engineering_and_computing_at_a_glance/">Engineering and Computing</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/graduate_school_at_a_glance/">The Graduate School</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/hrsm_at_a_glance/">Hospitality, Retail and Sport Management</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/law_at_a_glance/">Law</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/mcis_at_a_glance/">Mass Communications and Information Studies</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/medicine_columbia_at_a_glance/">Medicine (Columbia)</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/medicine_greenville_at_a_glance/">Medicine (Greenville)</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/music_at_a_glance/">Music</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/nursing_at_a_glance/">Nursing</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/pharmacy_at_a_glance/">Pharmacy</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/public_health_at_a_glance/">Public Health</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/social_work_at_a_glance/">Social Work</a></li>
+<li><a href="http://sc.edu/study/colleges_schools/honors_college_at_a_glance/">South Carolina Honors College</a></li>
+</ul>
+</div>
+<div class="column grid_2 links">
+<h1>Select Offices</h1>
+<ul>
+<li><a href="http://sc.edu/admissions/">Undergraduate Admissions</a></li>
+<li><a href="http://www.gradschool.sc.edu/">The Graduate School</a></li>
+<li><a href="http://sc.edu/visit/schedule_a_visit/">Visitor Center</a></li>
+<li><a href="http://www.housing.sc.edu/">Housing</a></li>
+<li><a href="http://www.sa.sc.edu/orientation/">Orientation</a></li>
+<li><a href="http://sc.edu/financialaid/">Financial Aid and Scholarships</a></li>
+<li><a href="http://sc.edu/bursar/">Bursar (fee payment)</a></li>
+<li><a href="http://registrar.sc.edu/">Registrar</a></li>
+<li><a href="http://www.les.sc.edu/">Campus Safety</a></li>
+<li><a href="http://www.sa.sc.edu/sds/">Disability Services</a></li>
+<li><a href="http://www.sa.sc.edu/parents/">Parents Program</a></li>
+<li><a href="http://sc.bncollege.com/webapp/wcs/stores/servlet/BNCBHomePage?storeId=10052&amp;catalogId=10001&amp;langId=-1">University Bookstore</a></li>
+<li><a href="http://www.mycarolina.org/s/842/homepage.aspx">Alumni Association</a></li>
+<li><a href="http://hr.sc.edu/">Human Resources</a></li>
+<li><a href="http://sc.edu/about/offices_and_divisions/">MORE Offices and Divisions</a></li>
+</ul>
+</div>
+<div class="column grid_2 links">
+<h1>Gateways</h1>
+<ul>
+<li><a title="Student Gateway" href="http://sc.edu/students/">Students</a></li>
+<li><a title="Faculty/Staff Gateway" href="http://sc.edu/facultystaff/">Faculty and Staff</a></li>
+<li><a title="Alumni Gateway" href="http://sc.edu/alumni/">Alumni</a></li>
+<li><a title="Parents Gateway" href="http://sc.edu/parents/">Parents</a></li>
+</ul>
+<h1>Tools</h1>
+<ul>
+<li><a href="http://calendar.sc.edu/">Calendar</a></li>
+<li><a href="http://sc.edu/visit/map/">Map</a></li>
+<li><a href="http://sc.edu/about/directory/">Directory</a></li>
+<li><a href="http://giving.sc.edu/">Give</a></li>
+</ul>
+<h1><a href="http://sc.edu/athletics">Athletics</a></h1>
+<br>
+<h1><a href="http://sc.edu/uofsc/">@UofSC</a></h1>
+</div>
+</div>		</footer><!--Closing column grid_12 -->
+	</div><!--Closing row -->
+</div>
+
+					  <section id="logo-footer">
+         <div class="row">
+            <div class="column grid_4"><a href="http://www.sc.edu/" class="logo" title="University of South Carolina"></a></div>
+            <div class="column grid_8">
+               <h1 class="no-limits">Challenge the conventional. <span>Create the exceptional. </span><strong>No Limits.</strong></h1>
+            </div>
+         </div>
+         <div class="site-info-wrapper">
+            <div class="row site-info">
+               <div class="column grid_6"><small class="copyright">
+                    &nbsp;<a href="http://sc.edu/about/notices/copyrights_and_trademarks/">2013 University of South Carolina</a>
+                     										&nbsp;|&nbsp;
+                     										<a href="http://sc.edu/about/notices/privacy/">Privacy</a>&nbsp;|&nbsp;
+                     										<a href="http://sc.edu/about/contact/">Contact</a></small></div>
+               <div class="column grid_6"><small class="page-owner"><a href="contact">Site Maintained By: Arts and Sciences</a></small></div>
+            </div>
+         </div>
+      </section> 
+					 <div id="sidr" class="hide-for-medium sidr right">
+         <div class="sidr-inner">
+            <nav class="mobile-nav">
+             
+    
+  
+    <!--[if IE]><div class="ie"><![endif]--><ul class="menu jquerymenu jquerymenu-processed"><li class="leaf first"><a href="/poli/welcome" title="">Political Science Home</a></li><li class="parent closed"><span class="parent closed"></span><a href="/poli/about" title="About US">About Us</a><ul><li class="parent closed first last"><span class="parent closed first last"></span><a href="/poli/employment-opportunities" title="Employment Opportunities">Employment Opportunities</a><ul><li class="leaf last"><a href="/poli/opening-department-chair">Department Chair</a></li></ul></li></ul></li><li class="parent closed"><span class="parent closed"></span><a href="/poli/academic-programs" title="Academic Programs">Academic Programs</a><ul><li class="leaf first"><a href="/poli/course-offerings" title="Courses">Courses</a></li><li class="parent closed"><span class="parent closed"></span><a href="/poli/Graduate" title="Graduate Studies Programs">Graduate</a><ul><li class="parent closed"><span class="parent closed"></span><a href="/poli/welcome-mpa-program-usc" title="MPA Program">MPA Program</a><ul><li class="leaf first"><a href="/poli/mpa-curriculum" title="General MPA Curriculum">MPA Curriculum</a></li><li class="leaf"><a href="/poli/what-can-i-do-mpa">What can I do with an MPA?</a></li><li class="leaf"><a href="/poli/internships-1" title="Internships">Internships</a></li><li class="leaf"><a href="/poli/application-process">Application Process</a></li><li class="leaf"><a href="/poli/faculty-mpa" title="Faculty">Faculty</a></li><li class="parent closed last"><span class="parent closed last"></span><a href="/poli/forms">MPA Program Forms</a><ul><li class="leaf first last"><a href="/poli/mpa-handbook" title="MPA Handbook">MPA Handbook</a></li></ul></li></ul></li><li class="parent closed"><span class="parent closed"></span><a href="/poli/phd-program-political-science" title="Ph.D. Program">Ph.D. Program</a><ul><li class="leaf"><a href="/poli/hire" title="Hire a Ph.D.">Hire a Ph.D.</a></li><li class="leaf"><a href="/poli/placement-usc-political-science-phds" title="Placements">Placements</a></li><li class="leaf"><a href="/poli/grad-student-publications">Grad Student Publications</a></li><li class="leaf"><a href="/poli/forms-0" title="Forms">Forms</a></li><li class="leaf last"><a href="/poli/subscribe-our-graduate-listserv-poligrad" title="POLIGRAD listserv">POLIGRAD listserv</a></li></ul></li><li class="leaf"><a href="/poli/graduate-school" title="The Graduate School">The Graduate School</a></li><li class="leaf last"><a href="/poli/Handbook%20of%20Graduate%20Programs" title="Political Science Handbook of Graduate Programs">Handbook</a></li></ul></li><li class="parent closed last"><span class="parent closed last"></span><a href="/poli/Undergraduate" title="Undergraduate Programs">Undergraduate</a><ul><li class="parent closed first"><span class="parent closed first"></span><a href="/poli/UndergraduateAdvisement" title="Advising">Advising</a><ul><li class="leaf first"><a href="/poli/who-my-advisor" title="Who is my advisor?">Who is my advisor?</a></li><li class="leaf"><a href="/poli/philosophy-and-procedures">Philosophy and Procedures</a></li><li class="leaf last"><a href="/poli/subscribe-our-undergraduate-listserv-polinote" title="Subscribe to our undergraduate listserv, POLINOTE">POLINOTE listserv</a></li></ul></li><li class="leaf"><a href="/poli/honor-societies" title="Honor Societies">Honor Societies</a></li><li class="leaf"><a href="/poli/internships-0">Internships</a></li><li class="leaf"><a href="/poli/node/74">Research Opportunities</a></li><li class="leaf"><a href="/poli/study-abroad">Study Abroad</a></li><li class="leaf"><a href="/poli/course-overrides">Course Overrides</a></li><li class="leaf last"><a href="/poli/undergraduate-scholarship-and-fellowship-opportunities">Undergraduate Scholarship and Fellowship Opportunities</a></li></ul></li></ul></li><li class="parent open"><span class="parent open" style=""></span><a href="/poli/faculty" title="">People</a><ul><li class="parent open first"><span class="parent open first" style=""></span><a href="/poli/faculty" title="">Faculty</a><ul><li class="leaf first open"><a href="/poli/andrea-mcatee" class="active">Andrea McAtee</a></li><li class="leaf"><a href="/poli/AnuChakravarty">Anu Chakravarty</a></li><li class="leaf"><a href="/poli/Brad%20Epperly" title="Brad Epperly">Brad Epperly</a></li><li class="leaf"><a href="/poli/charles-j-finocchiaro">Charles J. Finocchiaro</a></li><li class="leaf"><a href="/poli/christopher-witko">Christopher Witko</a></li><li class="leaf"><a href="/poli/DavidDarmofal" title="David Darmofal">David Darmofal</a></li><li class="leaf"><a href="/poli/node/226">David Whiteman</a></li><li class="leaf"><a href="/poli/douglas-thompson" title="Douglas Thompson">Douglas Thompson</a></li><li class="leaf"><a href="/poli/harvey-starr" title="Harvey Starr">Harvey Starr</a></li><li class="leaf"><a href="/poli/JohnHsieh">John Fuh-sheng Hsieh</a></li><li class="leaf"><a href="/poli/KatherineBarbieri">Katherine Barbieri</a></li><li class="leaf"><a href="/poli/KelanLu" title="Kelan Lu">Kelan Lu</a></li><li class="leaf"><a href="/poli/kirk-randazzo">Kirk Randazzo</a></li><li class="leaf"><a href="/poli/laura-woliver" title="Laura Woliver">Laura Woliver</a></li><li class="leaf"><a href="/poli/neal-woods" title="Neal Woods">Neal Woods</a></li><li class="leaf"><a href="/poli/robert-h-cox" title="Robert H. Cox">Robert H. Cox</a></li><li class="leaf"><a href="/poli/robert-w-oldendick">Robert W. Oldendick</a></li><li class="leaf"><a href="/poli/susan-miller">Susan Miller</a></li><li class="leaf"><a href="/poli/timothy-peterson">Timothy Peterson</a></li><li class="leaf"><a href="/poli/tobias-heinrich">Tobias Heinrich</a></li><li class="leaf"><a href="/poli/todd-shaw">Todd Shaw</a></li><li class="leaf last"><a href="/poli/xuhong-su">Xuhong Su</a></li></ul></li><li class="parent closed"><span class="parent closed"></span><a href="/poli/emeriti" title="">Emeriti Faculty</a><ul><li class="leaf first"><a href="/poli/brian-r-fry" title="Brian R. Fry">Brian R. Fry</a></li><li class="leaf"><a href="/poli/c-blease-graham" title="C. Blease Graham">C. Blease Graham</a></li><li class="leaf"><a href="/poli/charles-w-kegley" title="Charles W. Kegley">Charles W. Kegley</a></li><li class="leaf"><a href="/poli/charlie-b-tyer" title="Charlie B. Tyer">Charlie B. Tyer</a></li><li class="leaf"><a href="/poli/d-bruce-marshall" title="D. Bruce Marshall">D. Bruce Marshall</a></li><li class="leaf"><a href="/poli/daniel-r-sabia" title="Daniel R. Sabia">Daniel R. Sabia</a></li><li class="leaf"><a href="/poli/donald-e-weatherbee" title="Donald E. Weatherbee">Donald E. Weatherbee</a></li><li class="leaf"><a href="/poli/donald-puchala" title="Donald Puchala">Donald Puchala</a></li><li class="leaf"><a href="/poli/gordon-smith" title="Gordon Smith">Gordon Smith</a></li><li class="leaf"><a href="/poli/james-e-larson" title="James E. Larson">James E. Larson</a></li><li class="leaf"><a href="/poli/james-m-roherty" title="James M. Roherty">James M. Roherty</a></li><li class="leaf"><a href="/poli/james-t-myers" title="James T. Myers">James T. Myers</a></li><li class="leaf"><a href="/poli/jerel-rosati" title="Jerel Rosati">Jerel Rosati</a></li><li class="leaf"><a href="/poli/kenny-j-whitby" title="Kenny J. Whitby">Kenny J. Whitby</a></li><li class="leaf"><a href="/poli/MarkTompkins">Mark Tompkins</a></li><li class="leaf"><a href="/poli/mark-w-delancey" title="Mark W. Delancey">Mark W. Delancey</a></li><li class="leaf"><a href="/poli/natalie-hevener-kaufman" title="Natalie Hevener Kaufman">Natalie Hevener Kaufman</a></li><li class="leaf"><a href="/poli/peter-c-sederberg" title="Peter C. Sederberg">Peter C. Sederberg</a></li><li class="leaf"><a href="/poli/robert-angel" title="Robert Angel">Robert Angel</a></li><li class="leaf"><a href="/poli/robert-g-wirsing" title="Robert G. Wirsing">Robert G. Wirsing</a></li><li class="leaf"><a href="/poli/robert-s-thompson" title="Robert S. Thompson">Robert S. Thompson</a></li><li class="leaf"><a href="/poli/roger-coate" title="Roger Coate">Roger Coate</a></li><li class="leaf"><a href="/poli/shahrough-akhavi" title="Shahrough Akhavi">Shahrough Akhavi</a></li><li class="leaf"><a href="/poli/steven-hays" title="Steven Hays">Steven Hays</a></li><li class="leaf"><a href="/poli/vukan-kuic" title="Vukan Kuic">Vukan Kuic</a></li><li class="leaf"><a href="/poli/william-p-kreml" title="William P. Kreml">William P. Kreml</a></li><li class="leaf last"><a href="/poli/william-t-salisbury" title="William T. Salisbury">William T. Salisbury</a></li></ul></li><li class="parent closed"><span class="parent closed"></span><a href="/poli/adjunct" title="">Adjunct and Affiliated Faculty</a><ul><li class="leaf first"><a href="/poli/akram-barghothi" title="Akram Barghothi">Akram Barghothi</a></li><li class="leaf"><a href="/poli/dennis-lambries" title="Dennis Lambries">Dennis Lambries</a></li><li class="leaf"><a href="/poli/donald-fowler" title="Donald Fowler">Donald Fowler</a></li><li class="leaf"><a href="/poli/gerald-mcdermott" title="Gerald McDermott">Gerald McDermott</a></li><li class="leaf"><a href="/poli/josef-olmert" title="Josef Olmert">Josef Olmert</a></li><li class="leaf"><a href="/poli/joseph-pappin-iii" title="Joseph Pappin III">Joseph Pappin III</a></li><li class="leaf"><a href="/poli/michael-briggs" title="Michael Briggs">Michael Briggs</a></li><li class="leaf"><a href="/poli/tobias-lanz" title="Tobias Lanz">Tobias Lanz</a></li><li class="leaf last"><a href="/poli/tony-dukes" title="Tony Dukes">Tony Dukes</a></li></ul></li><li class="leaf"><a href="/poli/regional-faculty">Regional Faculty</a></li><li class="leaf"><a href="/poli/memoriam">In Memoriam</a></li><li class="leaf"><a href="/poli/hire" title="Hire a Ph.D.">Hire a Ph.D.</a></li><li class="leaf"><a href="/poli/staff-directory">Staff</a></li><li class="leaf last"><a href="/poli/faculty-login-0">Faculty Login</a></li></ul></li><li class="parent closed"><span class="parent closed"></span><a href="/poli/Research" title="Research">Research</a><ul><li class="parent closed first"><span class="parent closed first"></span><a href="/poli/fields-inquiry" title="Fields of Inquiry">Fields of Inquiry</a><ul><li class="leaf first"><a href="/poli/american-politics" title="American Politics">American Politics</a></li><li class="leaf"><a href="/poli/comparative-politics" title="Comparative Politics">Comparative Politics</a></li><li class="leaf"><a href="/poli/international-relations" title="International Relations">International Relations</a></li><li class="leaf"><a href="/poli/political-methodology">Political Methodology</a></li><li class="leaf"><a href="/poli/political-theory" title="Political Theory">Political Theory</a></li><li class="leaf"><a href="/poli/public-administration-and-public-policy">Public Administration</a></li><li class="leaf last"><a href="/poli/public-law" title="Public Law">Public Law</a></li></ul></li><li class="leaf"><a href="/poli/recent-publications" title="Recent Publications">Recent Publications</a></li><li class="leaf"><a href="/poli/related-programs">Related Programs</a></li><li class="parent closed last"><span class="parent closed last"></span><a href="/poli/political-science-research-workshop" title="Research Workshop">Research Workshop</a><ul><li class="leaf first"><a href="/poli/node/241" title="PSRW Calendar">Calendar</a></li><li class="leaf"><a href="/poli/mission" title="Mission">Mission</a></li><li class="leaf last"><a href="/poli/working-paper-archive" title="Working Paper Archive">Working Papers</a></li></ul></li></ul></li><li class="parent closed"><span class="parent closed"></span><a href="/poli/news" title="News and Events">News</a><ul><li class="leaf first"><a href="/poli/2nd-annual-southeast-methods-meeting-semm" title="Spatial Analysis and Causal Inference">2nd Annual Southeast Methods Meeting (SEMM)</a></li><li class="leaf last"><a href="/poli/Newsletters" title="Newsletters and Previous Political Science Bulletins">Newsletter Archive</a></li></ul></li><li class="leaf"><a href="/poli/contact" title="Contact Information">Contact</a></li><li class="leaf last"><a href="/poli/give-political-science">Give to Political Science</a></li></ul><!--[if IE]></div><![endif]-->            
+<h1 class="menu-header">Tools</h1>
+<ol class="menu-list">
+<li><a href="http://calendar.sc.edu">Calendar</a></li>
+<li><a title="USC Map" href="http://www.sc.edu/visit/map">Map</a></li>
+<li><a title="USC Directory" href="http://www.sc.edu/about/directory">Directory</a></li>
+<li><a href="http://giving.sc.edu">Give</a></li>
+</ol>
+<h1 class="menu-header">Resources for:</h1>
+<ol class="menu-list">
+<li><a title="Student Gateway" href="http://www.sc.edu/students">Students <span>sc.edu/students</span></a></li>
+<li><a title="Parents Gateway" href="http://www.sc.edu/parents">Parents<span>sc.edu/parents</span></a></li>
+<li><a title="Alumni Gateway" href="http://www.sc.edu/alumni">Alumni<span>sc.edu/alumni</span></a></li>
+<li><a title="Faculty/Staff Gateway" href="http://www.sc.edu/facultystaff">Faculty &amp; Staff<span>sc.edu/facultystaff</span></a></li>
+</ol>
+            </nav>
+         </div>
+      </div> 
+
+
+			  
+<script src="/poli/sites/all/themes/USCv5/assets/js/jquery.fancybox.pack.js"></script>
+<script src="/poli/sites/all/themes/USCv5/assets/js/jquery.fancybox-buttons.js"></script>
+<script src="/poli/sites/all/themes/USCv5/assets/js/jquery.flexslider-min.js"></script>
+<script src="/poli/sites/all/themes/USCv5/assets/js/plugins.js"></script>
+<script src="/poli/sites/all/themes/USCv5/assets/js/script.js"></script>
+
+  
+
+
+</body></html>

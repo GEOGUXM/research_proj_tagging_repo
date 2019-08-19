@@ -1,0 +1,63 @@
+Daniel Epstein
+Home | Publications | Projects | CV
+Contact
+Paul Allen Center, Room 605
+depstein at cs dot washington dot edu
+daepstein
+depstein
+I am...
+Tweeting: Just a couple more weeks to apply to be an SV at @ubicomp 2017! Spread the word: https://t.co/PjVJEJpXFH
+Walking: 6478 steps
+Coding: 3 commits to depstein/tractdb-pyramid
+Travel
+CHI 2017
+May 6-11
+Vacation (Galcier/Banff)
+July 1-8
+UbiComp 2017
+September 11-15
+Hi! I'm a Ph.D. candidate in Computer Science & Engineering at the University of Washington. I'm coadvised by James Fogarty and Sean Munson.
+I study the design of personal informatics and self-tracking tools to integrate into people's everyday lives. In doing so, I both study people's ongoing practices with commercial tools and design and implement new technology. I focus on building tools which support people's personal goals, emphasizing mindfulness and awareness over prescription or persuasion.
+When I'm not doing research, I try to spend time outside by hiking or running. I collect turtle figurines, and am the proud caretaker of a red-eared slider named Donatello.
+I'm an intern at Adobe Research for summer 2017, where Mira Dontcheva is my mentor.
+Selected Publications (all)
+Examining Menstrual Tracking to Inform the Design of Personal Informatics Tools
+Daniel A. Epstein, Nicole B. Lee, Jennifer H. Kang, Elena Agapie, Jessica Schroeder, Laura R. Pina, James Fogarty, Julie A. Kientz, Sean A. Munson
+CHI 2017 • PDF • DOI • BibTeX • study materials • blog post (part 1) • blog post (part 2)
+Best Paper (Top 1%)
+TummyTrials: A Feasibility Study of Using Self-Experimentation to Detect Individualized Food Triggers
+Ravi Karkar, Jessica Schroeder, Daniel A. Epstein, Laura R. Pina, Jeffrey Scofield, James Fogarty, Julie A. Kientz, Sean A. Munson, Roger Vilardaga, Jasmine Zia
+CHI 2017 • PDF • DOI • BibTeX
+Honorable Mention (Top 5%)
+Semi-Automated Tracking: A Balanced Approach for Self-Monitoring Applications
+Eun Kyoung Choe, Saeed Abdullah, Mashfiqui Rabbi, Edison Thomaz, Daniel A. Epstein, Matthew Kay, Felicia Cordeiro, Gregory D. Abowd, Tanzeem Choudhury, James Fogarty, Bongshin Lee, Mark Matthews, Julie A. Kientz
+IEEE Pervasive Computing 16(1) • PDF • DOI • BibTeX
+Reconsidering the Device in the Drawer: Lapses As a Design Opportunity in Personal Informatics
+Daniel A. Epstein, Jennifer H. Kang, Laura R. Pina, James Fogarty, Sean A. Munson
+UbiComp 2016 • PDF • DOI • BibTeX
+Taking 5: Work-Breaks, Productivity, and Opportunities for Personal Informatics for Knowledge Workers
+Daniel A. Epstein, Daniel Avrahami, Jacob T. Biehl
+CHI 2016 • PDF • DOI • BibTeX • study materials
+Crumbs: Lightweight Daily Food Challenges to Promote Engagement and Mindfulness
+Daniel A. Epstein, Felicia Cordeiro, James Fogarty, Gary Hsieh, Sean A. Munson
+CHI 2016 • PDF • DOI • BibTeX • study materials
+Beyond Abandonment to Next Steps: Understanding and Designing for Life After Personal Informatics Tool Use
+Daniel A. Epstein, Monica Caraway, Chuck Johnston, An Ping, James Fogarty, Sean A. Munson
+CHI 2016 • PDF • DOI • BibTeX • survey materials
+A Lived Informatics Model of Personal Informatics
+Daniel A. Epstein, An Ping, James Fogarty, Sean A. Munson
+UbiComp 2015 • PDF • DOI • BibTeX • survey materials
+Barriers and Negative Nudges: Exploring Challenges in Food Journaling
+Felicia Cordeiro, Daniel A. Epstein, Edison Thomaz, Elizabeth Bales, Arvind K. Jagannathan, Gregory D. Abowd, James Fogarty
+CHI 2015 • PDF • DOI • BibTeX
+Honorable Mention (Top 5%)
+From "Nobody Cares" to "Way to Go!": A Design Framework for Social Sharing in Personal Informatics
+Daniel A. Epstein, Bradley H. Jacobson, Elizabeth Bales, David W. McDonald, Sean A. Munson
+CSCW 2015 • PDF • DOI • BibTeX
+Taming Data Complexity in Lifelogs: Exploring Visual Cuts of Personal Informatics Data
+Daniel A. Epstein, Felicia Cordeiro, Elizabeth Bales, James Fogarty, Sean A. Munson
+DIS 2014 • PDF • DOI • BibTeX
+Fine-grained Sharing of Sensed Physical Activity: A Value Sensitive Approach
+Daniel A. Epstein, Alan Borning, James Fogarty
+UbiComp 2013 • PDF • DOI • BibTeX
+Copyright © 2017 by Daniel Epstein.

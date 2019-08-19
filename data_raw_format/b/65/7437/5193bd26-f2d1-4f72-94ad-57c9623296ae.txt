@@ -1,0 +1,64 @@
+ 
+Shoichi Sasabuchi　 Last modified date：2017.05.08
+
+Professor / Built Environment Design
+Department of Environmental Design
+Faculty of Design
+
+
+1 Research Interests
+2 Current and Past Project
+3 Academic Activities
+3.1 Papers
+3.2 Reports
+3.3 Presentations
+4 Membership in Academic Society
+Graduate School
+Department of Design
+Graduate School of Design
+Undergraduate School
+Department of Environmental Design
+School of Design
+School of Design
+
+
+Academic Degree
+Dr. of Science
+Field of Specialization
+Mathematical Statistics
+Outline Activities
+Research Field : Mathematical Statistics.
+Main Research Theme : Statistical Inference under Order Restrictions.
+Sub Research Theme : Statistical analyses on wide variety of things about human society, art, and culture.
+Education for Undergraduate Students :
+General Education : Mathematical Statistics.
+Common Technical Courses : Systems Science, Statistical Inference.
+Department of Environmental Design : Graduation Seminor Project.
+Education for Graduate Students :
+Statistical Research and Analysis, Seminor Project.
+Research
+Research Interests
+Theory of statistical inference under order restrictions
+keyword : order restrictions,　statistical inference,　hypothesis testing,　statistical estimation, multivariate normal distribution
+1990.04Main research theme is the statistical inference under order restrictions. At present I am studying testing homogenety of several multivariate normal mean vectors under an order restriction. The goals of the research are deriving useful method and examining its properties..
+Current and Past Project
+EMOTION and MACHINE LEARNING
+Academic Activities
+Reports
+ Show All Reports >>
+Papers
+ Show All Papers >>
+1. S.Sasabuchi, D.D.S.Kulatunga, On the powers of tests for homogeneity of regression coefficient vectors under synchronized order restrictions, Journal of the National Science Foundation of Sri Lanka, Vol.44, No.1, pp.53-60, 2016.03.
+2. S.Sasabuchi, More powerful tests for homogeneity of multivariate normal mean vectors under an order restriction, Sankhya (The Indian Journal of Statistics), Vol.69, Part 4, pp.700-716., 2007.11.
+3. S.Sasabuchi, K.Tanaka, T.Tsukamoto, Testing homogeneity of multivariate normal mean vectors under an order restriction when the covariance matrices are common but unknown, The Annals of Statistics, Vol.31, No.5, pp.1517-1536., 2003.10.
+Presentations
+ Show All Presentations >>
+Membership in Academic Society
+Mathematical Society of Japan
+Japan Statistical Society
+Educational
+
+
+Unauthorized reprint of the contents of this database is prohibited.
+
+Copyright © 2006, Kyushu University. All rights reserved.

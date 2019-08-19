@@ -1,0 +1,1002 @@
+<html dir="ltr" class="js" lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" src="https://bam.nr-data.net/1/f2a9931082?a=4166274&amp;v=1039.bef6007&amp;to=MVQAbEVRCksEVEFcVggeN0peH0tRC1NQTRcWWRI%3D&amp;rst=6730&amp;ref=https://gse.berkeley.edu/people/prudence-l-carter&amp;ap=21&amp;be=1343&amp;fe=6721&amp;dc=2639&amp;perf=%7B%22timing%22:%7B%22of%22:1498024195995,%22n%22:0,%22f%22:1,%22dn%22:3,%22dne%22:185,%22c%22:185,%22ce%22:383,%22rq%22:905,%22rp%22:1132,%22rpe%22:1330,%22dl%22:1334,%22di%22:2619,%22ds%22:2638,%22de%22:2787,%22dc%22:6720,%22l%22:6720,%22le%22:6723%7D,%22navigation%22:%7B%7D%7D&amp;at=HRMDGg1LGUU%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://gse.berkeley.edu/sites/all/themes/MDALLC/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<meta name="google-site-verification" content="JZFVEdCZoBjgYVQ3HQjUA8Pj5GiMYvVwd2jOTv-11EY">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="https://gse.berkeley.edu/people/prudence-l-carter">
+<link rel="shortlink" href="https://gse.berkeley.edu/user/3642">
+<meta property="og:site_name" content="UC Berkeley - Graduate School of Education">
+<meta property="og:type" content="profile">
+<meta property="og:url" content="https://gse.berkeley.edu/people/prudence-l-carter">
+<meta property="og:title" content="Prudence L Carter">
+<meta property="profile:username" content="Prudence L Carter">
+  <title>Prudence L Carter | UC Berkeley - Graduate School of Education</title>  
+  <link type="text/css" rel="stylesheet" href="https://gse.berkeley.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://gse.berkeley.edu/sites/default/files/css/css_PNnyYG4dR55pjFtty9ufQDnDQwVza9Xx--J7sMJcw2Q.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://gse.berkeley.edu/sites/default/files/css/css_TNdT06outsu_JLEAuFsMOfjZmbgFcJ928xVZ3Vq9Amo.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://gse.berkeley.edu/sites/default/files/css/css_CHuAFCV_vpNKN55T44_ixuzRIGxYxPkZV_cs1oqsQeE.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://gse.berkeley.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://gse.berkeley.edu/sites/default/files/css/css_s8y3KV8YN5GVRV35S00HTMtoXbNnhMThncbbA08zfzQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:italic|Open+Sans:300|Quattrocento+Sans:regular&amp;subset=latin" media="all">
+<link type="text/css" rel="stylesheet" href="https://gse.berkeley.edu/sites/default/files/css/css_5GklEjhOuQOx8nH37k-te668EMvAwBE8GDCx9N2HRJg.css" media="all">
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://gse.berkeley.edu/sites/default/files/css/css_XrjQGMl1TImGjv4VN7QaiP3mfVO6U63IJN0JO3ilce4.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="https://gse.berkeley.edu/sites/default/files/css/css_xWmO0GQp2F1N7oah3XmxE-tCBBIWre6b2UBWk809_6k.css" media="all">
+<!--<![endif]-->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://gse.berkeley.edu/sites/default/files/js/js_Xjzh1hVfcgVAixhmmB6Go8TUMPOiprA-2vkC-oWXARQ.js"></script>
+<script type="text/javascript" src="https://gse.berkeley.edu/sites/default/files/js/js_ZKYuiMM_S-IHXkyu3BXss__mFDeNouhWq6-4H4p6OME.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function(){jQuery("#accordion, #accordion2, #accordion3, #accordion4, #accordion5, #accordion6").accordion({autoHeight:false,navigation:true,collapsible:true});});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://gse.berkeley.edu/sites/default/files/js/js_I4EDTTtvttl_D505u6n6J9klpYBa1hBUI8X2X5XD94E.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-80523422-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://gse.berkeley.edu/sites/default/files/js/js__abd5Bz0yhWZupWbFYxm30bbDFsPLT8sAE_LAcEGs-c.js"></script>
+<script type="text/javascript" src="https://gse.berkeley.edu/sites/default/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"MDALLC","theme_token":"vwlx6IwZp1BhMrn9eFxCKRBJIzR1UujRpTwH9KdmOoo","jquery_version":"default","js":{"sites\/all\/modules\/menu_minipanels\/js\/menu_minipanels.js":1,"sites\/all\/libraries\/qtip\/jquery.qtip-1.0.0-rc3.min.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/field_group\/horizontal-tabs\/horizontal-tabs.js":1,"misc\/form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"1":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/room_reservations\/room_reservations.js":1,"sites\/all\/modules\/megamenu\/megamenu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/modules\/menu_minipanels\/js\/menu_minipanels.callbacks.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"misc\/collapse.js":1,"misc\/progress.js":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/field_group\/horizontal-tabs\/horizontal-tabs.css":1,"sites\/all\/modules\/adaptive_image\/css\/adaptive-image.css":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"sites\/all\/modules\/domain\/domain_nav\/domain_nav.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/room_reservations\/room_reservations.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/0a2d2db161d346075c06ba181c752133.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/MDALLC\/nicemenu-skin-mda.css":1,"sites\/all\/modules\/megamenu\/megamenu.css":1,"sites\/all\/modules\/megamenu\/megamenu-skins.css":1,"sites\/all\/modules\/menu_minipanels\/css\/menu_minipanels.css":1,"public:\/\/google_fonts.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"https:\/\/fonts.googleapis.com\/css?family=Droid+Serif:italic|Open+Sans:300|Quattrocento+Sans:regular\u0026subset=latin":1,"sites\/all\/themes\/MDALLC\/css\/global.css":1,"ie::normal::sites\/all\/themes\/MDALLC\/css\/MDALLC-alpha-default.css":1,"ie::normal::sites\/all\/themes\/MDALLC\/css\/MDALLC-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/all\/themes\/MDALLC\/css\/MDALLC-alpha-default.css":1,"narrow::sites\/all\/themes\/MDALLC\/css\/MDALLC-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/MDALLC\/css\/MDALLC-alpha-default.css":1,"normal::sites\/all\/themes\/MDALLC\/css\/MDALLC-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"wide::sites\/all\/themes\/MDALLC\/css\/MDALLC-alpha-default.css":1,"wide::sites\/all\/themes\/MDALLC\/css\/MDALLC-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/people\/prudence-l-carter":true},"nice_menus_options":{"delay":800,"speed":"slow"},"menuMinipanels":{"panels":{"panel_7718":{"position":{"target":"custom","target_custom":"#block-system-main-menu","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"300"}},"hide":{"delay":"300","effect":{"type":"slide","length":"300"}},"style":{"name":"light","width":{"min":"220","max":"940"},"border":{"width":"0","color":"#d3d3d3","radius":"0"}},"mlid":"7718"},"panel_0":{"position":{"target":"custom","target_custom":"#block-system-main-menu","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"300"}},"hide":{"delay":"300","effect":{"type":"slide","length":"300"}},"style":{"name":"light","width":{"min":"220","max":"940"},"border":{"width":"0","color":"#d3d3d3","radius":"0"}},"mlid":0},"panel_6936":{"position":{"target":"custom","target_custom":"#block-system-main-menu","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"300"}},"hide":{"delay":"300","effect":{"type":"slide","length":"300"}},"style":{"name":"light","width":{"min":"220","max":"940"},"border":{"width":"0","color":"#d3d3d3","radius":"0"}},"mlid":"6936"},"panel_2535":{"position":{"target":"custom","target_custom":"#block-system-main-menu","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"300"}},"hide":{"delay":"300","effect":{"type":"slide","length":"300"}},"style":{"name":"light","width":{"min":"220","max":"940"},"border":{"width":"0","color":"#d3d3d3","radius":"0"}},"mlid":"2535"},"panel_7648":{"position":{"target":"custom","target_custom":"#block-system-main-menu","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"300"}},"hide":{"delay":"300","effect":{"type":"slide","length":"300"}},"style":{"name":"light","width":{"min":"220","max":"940"},"border":{"width":"0","color":"#d3d3d3","radius":"0"}},"mlid":"7648"},"panel_7692":{"position":{"target":"custom","target_custom":"#block-system-main-menu","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"300"}},"hide":{"delay":"300","effect":{"type":"slide","length":"300"}},"style":{"name":"light","width":{"min":"220","max":"940"},"border":{"width":"0","color":"#d3d3d3","radius":"0"}},"mlid":"7692"}}},"megamenu":{"timeout":"500","sizewait":"250","hoverwait":"400"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"field_group":{"htab":"full","htabs":"full","fieldset":"full","hidden":"full"},"colorbox_node":{"width":"400px","height":"300px"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript" async="" src="https://in.getclicky.com/in.php?site_id=100734240&amp;res=1920x1080&amp;lang=en&amp;secure=1&amp;type=pageview&amp;href=%2Fpeople%2Fprudence-l-carter&amp;title=Prudence%20L%20Carter%20%7C%20UC%20Berkeley%20-%20Graduate%20School%20of%20Education&amp;jsuid=3809652691&amp;mime=js&amp;x=0.4978554449850615"></script></head>
+<body class="html not-front not-logged-in page-user page-user- page-user-3642 domain-dev-gse-pantheon-berkeley-edu context-people omega-mediaqueries-processed responsive-layout-wide"><div id="omega-media-query-dummy"><style media="all">#omega-media-query-dummy { position: relative; z-index: -1; }</style><!--[if (lt IE 9)&(!IEMobile)]><style media="all">#omega-media-query-dummy { z-index: 1; }</style><![endif]--><style media="all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)">#omega-media-query-dummy { z-index: 0; }</style><style media="all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)">#omega-media-query-dummy { z-index: 1; }</style><style media="all and (min-width: 1220px)">#omega-media-query-dummy { z-index: 2; }</style></div>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">  
+  <div id="zone-user" class="zone zone-user clearfix container-12">
+    <div class="grid-12 region region-user-first" id="region-user-first">
+  <div class="region-inner region-user-first-inner">
+    <div class="block block-megamenu block-menu-masthead-navigation block-megamenu-menu-masthead-navigation odd block-without-title" id="block-megamenu-menu-masthead-navigation">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul id="megamenu-menu-masthead-navigation" class="megamenu-menu columnar megamenu-skin-masthead"><li id="megamenu-mlid-5473" class="megamenu-parent megamenu-parent-0 odd half-1 leaf-0 first menu-5473  first"><h2 class="megamenu-parent-title"><a href="/message-dean">About</a></h2><ul class="megamenu-bin megamenu-slots-columnar" style="top: -9000px; left: 0px; width: 20px;"><li id="megamenu-mlid-5475" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first" style=""><h3 class="megamenu-slot-title"><a href="/brief-history-graduate-school-education">History</a></h3></li><li id="megamenu-mlid-5477" class="megamenu-slot megamenu-slot-1 even half-2 leaf-1 last  last" style=""><h3 class="megamenu-slot-title"><a href="/contact-us">Contact Us</a></h3></li></ul></li><li id="megamenu-mlid-7011" class="megamenu-parent megamenu-parent-1 even half-1 leaf-1 menu-7011 "><h2 class="megamenu-parent-title"><a href="/news">News</a></h2></li><li id="megamenu-mlid-7656" class="megamenu-parent megamenu-parent-2 odd half-1 leaf-2 menu-7656 "><h2 class="megamenu-parent-title"><a href="/research">Research</a></h2><ul class="megamenu-bin megamenu-slots-columnar" style="top: -9000px; left: 0px; width: 30px;"><li id="megamenu-mlid-7657" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first" style=""><h3 class="megamenu-slot-title"><a href="/outreach-programs">Outreach Programs</a></h3></li><li id="megamenu-mlid-7658" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1 " style=""><h3 class="megamenu-slot-title"><a href="/research-centers">Research Centers</a></h3></li><li id="megamenu-mlid-7659" class="megamenu-slot megamenu-slot-2 odd half-2 leaf-2 last  last" style=""><h3 class="megamenu-slot-title"><a href="/research-projects">Research Projects</a></h3></li></ul></li><li id="megamenu-mlid-5479" class="megamenu-parent megamenu-parent-3 even half-2 leaf-3 menu-5479 "><h2 class="megamenu-parent-title"><a href="/give">Make a Gift</a></h2></li><li id="megamenu-mlid-7018" class="megamenu-parent megamenu-parent-4 odd half-2 leaf-4 menu-7018 "><h2 class="megamenu-parent-title"><a href="/careers">Job Opportunities</a></h2></li><li id="megamenu-mlid-6289" class="megamenu-parent megamenu-parent-5 even half-2 leaf-5 last menu-6289  last"><h2 class="megamenu-parent-title"><a href="https://gse.berkeley.edu/intranet">Intranet</a></h2><ul class="megamenu-bin megamenu-slots-columnar" style="top: -9000px; left: 0px; width: 50px;"><li id="megamenu-mlid-5507" class="megamenu-slot megamenu-slot-0 odd half-1 leaf-0 first  first" style=""><h3 class="megamenu-slot-title"><a href="/welcome-faculty-staff">For Faculty and Staff</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-7137" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/faculty-courses">Course Catalog Search</a></li><li id="megamenu-mlid-5499" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/course-evaluation-reports" target="_blank">Course Evaluation Reports</a></li><li id="megamenu-mlid-7742" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/sas/courses">Course Proposal Forms</a></li><li id="megamenu-mlid-7329" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="https://gse.berkeley.edu/admin/gse-stafffaculty-phone-directory">GSE Faculty/Staff Phone Directory</a></li><li id="megamenu-mlid-7159" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="http://gse.berkeley.edu/user">Login to update your GSE website profile</a></li><li id="megamenu-mlid-7548" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="http://gse.berkeley.edu/sites/default/files/OTS_Nomination_Form.xlsx">On The Spot Nomination Form</a></li><li id="megamenu-mlid-5510" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 last  last"><a href="/room_reservations">Room Reservation Calendar</a></li></ul></li><li id="megamenu-mlid-5501" class="megamenu-slot megamenu-slot-1 even half-1 leaf-1 " style=""><h3 class="megamenu-slot-title"><a href="/welcome-current-students">For Students</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-7138" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/student-courses">Course Catalog Search</a></li><li id="megamenu-mlid-6103" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/course-evaluations">Course Evaluations</a></li><li id="megamenu-mlid-7736" class="megamenu-item megamenu-item-2 odd half-1 leaf-2 "><a href="/sas/credentials">Credentials</a></li><li id="megamenu-mlid-7046" class="megamenu-item megamenu-item-3 even half-1 leaf-3 "><a href="/sas/fellowships">Fellowship Opportunities</a></li><li id="megamenu-mlid-5506" class="megamenu-item megamenu-item-4 odd half-2 leaf-4 "><a href="/gse-commencement-ceremony">GSE Commencement</a></li><li id="megamenu-mlid-7723" class="megamenu-item megamenu-item-5 even half-2 leaf-5 "><a href="/sas/milestones">Milestones Forms</a></li><li id="megamenu-mlid-7733" class="megamenu-item megamenu-item-6 odd half-2 leaf-6 "><a href="/sas/handbooks">Student Handbooks</a></li><li id="megamenu-mlid-7739" class="megamenu-item megamenu-item-7 even half-2 leaf-7 last  last"><a href="/student-academic-services">Student Academic Services Office</a></li></ul></li><li id="megamenu-mlid-5509" class="megamenu-slot megamenu-slot-2 odd half-1 leaf-2 " style=""><h3 class="megamenu-slot-title"><a href="/forms">Administrative Units</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-5511" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/business-services-office">Business Services Office</a></li><li id="megamenu-mlid-5512" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/deans-office-forms">Dean's Office</a></li><li id="megamenu-mlid-7682" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/admin/etsc">Educational Services Technology Center</a></li><li id="megamenu-mlid-6787" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="http://gse.berkeley.edu/student-academic-services">Student Academic Services Office</a></li></ul></li><li id="megamenu-mlid-7924" class="megamenu-slot megamenu-slot-3 even half-2 leaf-3 " style=""><h3 class="megamenu-slot-title"><a href="/gse-tolman-hall-east-safety">GSE Tolman Hall East Safety</a></h3><ul class="megamenu-items "><li id="megamenu-mlid-7925" class="megamenu-item megamenu-item-0 odd half-1 leaf-0 first  first"><a href="/admin/building-emergency-procedures">Building Emergency Procedures</a></li><li id="megamenu-mlid-7926" class="megamenu-item megamenu-item-1 even half-1 leaf-1 "><a href="/admin/emergency-assembly-area-eaa">Emergency Assembly Area (EAA)</a></li><li id="megamenu-mlid-7927" class="megamenu-item megamenu-item-2 odd half-2 leaf-2 "><a href="/admin/warnme-emergency-alert-service">WarnME Emergency Alert Service</a></li><li id="megamenu-mlid-7932" class="megamenu-item megamenu-item-3 even half-2 leaf-3 last  last"><a href="/berkeley-emergency-contacts">Berkeley Emergency Contacts</a></li></ul></li><li id="megamenu-mlid-7160" class="megamenu-slot megamenu-slot-4 odd half-2 leaf-4 last  last" style=""><h3 class="megamenu-slot-title"><a href="http://gse.berkeley.edu/user">Login to update your GSE website profile</a></h3></li></ul></li></ul>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="/" rel="home" title=""><img src="https://gse.berkeley.edu/sites/all/themes/MDALLC/logo.png" alt="" id="logo"></a>      </div>
+                </div>
+        <div class="block block-search block-form block-search-form odd block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/people/prudence-l-carter" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search and hit Enter') {this.value = '';}" id="edit-search-block-form--2" name="search_block_form" value="Search and hit Enter" size="30" maxlength="128" class="form-text" style="color: rgb(153, 153, 153);" type="text">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input id="edit-submit" name="op" value="Search" class="form-submit" type="submit"></div><input name="form_build_id" value="form-8ipNDlEe9PIugnEhH9EgEnAIRaERhp8U-UViiemr-3s" type="hidden">
+<input name="form_id" value="search_block_form" type="hidden">
+</div>
+</div></form>    </div>
+  </div>
+</div><div class="block block-panels-mini block-mobile-header block-panels-mini-mobile-header even block-without-title" id="block-panels-mini-mobile-header">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="panel-flexible panels-flexible-3 clearfix" id="mini-panel-mobile_header">
+<div class="panel-flexible-inside panels-flexible-3-inside">
+<div class="panels-flexible-row panels-flexible-row-3-1 panels-flexible-row-first clearfix ">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-3-1-inside panels-flexible-row-inside-first clearfix">
+<div class="panels-flexible-region panels-flexible-region-3-left_region panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-3-left_region-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-custom pane-1">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/">Home</a>  </div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-3-social_region panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-3-social_region-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-custom pane-3">
+  
+      
+  
+  <div class="pane-content">
+     <div class="header-social-1 rteright" style="">Contact Us | <a class="mobile-mail" href="/contact-us">&nbsp;</a><!--<a class="mobile-facebook" href="https://www.facebook.com/">&nbsp;</a>--></div>
+   </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-3-main-row clearfix header1">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-3-main-row-inside clearfix">
+<div class="panels-flexible-region panels-flexible-region-3-menu_toggle panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-3-menu_toggle-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-custom pane-2">
+  
+      
+  
+  <div class="pane-content">
+    <div id="menu_btn">&nbsp;</div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-3-center panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-3-center-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-search-form">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/people/prudence-l-carter" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search and hit Enter') {this.value = '';}" id="edit-search-block-form--4" name="search_block_form" value="Search and hit Enter" size="30" maxlength="128" class="form-text" style="color: rgb(153, 153, 153);" type="text">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input id="edit-submit--2" name="op" value="Search" class="form-submit" type="submit"></div><input name="form_build_id" value="form-YyjACCdYwbLz1c7Vo7ZpO8d5NVKBW-ognpsSu7Ri5pc" type="hidden">
+<input name="form_id" value="search_block_form" type="hidden">
+</div>
+</div></form>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-3-2 panels-flexible-row-last clearfix ">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-3-2-inside panels-flexible-row-inside-last clearfix">
+<div class="panels-flexible-region panels-flexible-region-3-branding panels-flexible-region-first panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-3-branding-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-page-logo">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/" rel="home" id="logo" title="Home"><img src="https://gse.berkeley.edu/sites/all/themes/MDALLC/logo.png" alt="Home"></a>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <div class="block block-system block-menu block-main-menu block-system-main-menu odd block-without-title" id="block-system-main-menu">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first collapsed first-depth"><a href="https://gse.berkeley.edu/admissions-application-instructions" title="Get Started" class="menu-minipanel menu-minipanel-7718 minipanel-processed">Apply<br><span class="description">Get Started</span></a></li>
+<li class="collapsed first-depth"><a href="/what-we-do" title="Explore" class="menu-minipanel menu-minipanel-6936 minipanel-processed">WHAT WE DO<br><span class="description">Explore</span></a></li>
+<li class="expanded first-depth"><a href="https://gse.berkeley.edu/give" title="Change a Life" class="menu-minipanel menu-minipanel-2535 minipanel-processed">Give<br><span class="description">Change a Life</span></a><ul class="menu"><li class="first leaf"><a href="/give">About Giving</a></li>
+<li class="leaf"><a href="/give/support-annual-fund-graduate-school-education">Annual Fund for the Graduate School of Education</a></li>
+<li class="leaf"><a href="/give/discover-benefits-gift-planning">Gift Planning</a></li>
+<li class="leaf"><a href="/give/how-give">How To Give</a></li>
+<li class="last leaf"><a href="/give/your-gift-makes-difference">Make a Difference</a></li>
+</ul></li>
+<li class="collapsed first-depth"><a href="/faculty" title="Who We Are" class="menu-minipanel menu-minipanel-7648 minipanel-processed">People<br><span class="description">Who We Are</span></a></li>
+<li class="last collapsed first-depth"><a href="/careers-k-12-education" title="K-12 Education" class="menu-minipanel menu-minipanel-7692 minipanel-processed">Professional Programs<br><span class="description">K-12 Education</span></a></li>
+</ul>    </div>
+  </div>
+</div><div class="block block-nice-menus block-1 block-nice-menus-1 even block-without-title" id="block-nice-menus-1">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="nice-menu nice-menu-down nice-menu-main-menu nice-menus-processed sf-js-enabled" id="nice-menu-1"><li class="menu-7718 menuparent  menu-path-sgseberkeleyedu-admissions-application-instructions first odd  first-depth"><a href="https://gse.berkeley.edu/admissions-application-instructions" title="Get Started" class="menu-minipanel menu-minipanel-7718 minipanel-processed">Apply<br><span class="description">Get Started</span></a><ul style="display: none; visibility: hidden;"><li class="menu-2224 menuparent  menu-path-node-97 first odd"><a href="/admissions-application-instructions" target="_self"><i class="fa fa-angle-right"></i>Application</a><ul style="display: none; visibility: hidden;"><li class="menu-7694 menu-path-node-102 first odd last"><a href="/gpa-calculator">GPA Calculator</a></li>
+</ul></li>
+<li class="menu-5526 menu-path-node-646  even "><a href="/admissions-returning-or-continuing-uc-berkeley-graduate-students">Returning/Continuing Applicants</a></li>
+<li class="menu-5527 menu-path-node-647  odd "><a href="/admissions-international-students">International Applicants</a></li>
+<li class="menu-5532 menu-path-node-645  even "><a href="/admissions-advanced-degrees">Advanced Degrees</a></li>
+<li class="menu-2226 menu-path-node-99  odd "><a href="/admissions-review-process" target="_self">Review Process</a></li>
+<li class="menu-2227 menu-path-node-100  even "><a href="/admissions-fees-and-financial-support" target="_self">Fees and Financial Information</a></li>
+<li class="menu-5530 menu-path-node-659  odd last"><a href="/admissions-faqs">FAQs</a></li>
+</ul></li>
+<li class="menu-6936 menuparent  menu-path-node-379804  even  first-depth"><a href="/what-we-do" title="Explore" class="menu-minipanel menu-minipanel-6936 minipanel-processed">WHAT WE DO<br><span class="description">Explore</span></a><ul style="display: none; visibility: hidden;"><li class="menu-2232 menuparent  menu-path-node-379804 first odd"><a href="/what-we-do"><i class="fa fa-angle-right"></i>What We Do</a><ul style="display: none; visibility: hidden;"><li class="menu-2299 menuparent  menu-path-node-122 first odd"><a href="/language-literacy-society-culture"><i class="fa fa-angle-right"></i>Language and Literacy, Society and Culture</a><ul style="display: none; visibility: hidden;"><li class="menu-5543 menuparent  menu-path-node-122 first odd last"><a href="/language-literacy-society-culture"><i class="fa fa-angle-right"></i>MA/PhD</a><ul style="display: none; visibility: hidden;"><li class="menu-2307 menuparent  menu-path-node-113 first odd"><a href="/language-literacy-society-culture/csse"><i class="fa fa-angle-right"></i>Cultural Studies of Sport in Education (CSSE)</a><ul style="display: none; visibility: hidden;"><li class="menu-6825 menu-path-node-607 first odd "><a href="/language-literacy-society-culture/csse-application-process">Application Process</a></li>
+<li class="menu-6826 menu-path-node-608  even "><a href="/language-literacy-society-culture/csse-courses-curriculum">Courses and Curriculum</a></li>
+<li class="menu-6828 menu-path-node-609  odd "><a href="/language-literacy-society-culture/csse-internships">Internships</a></li>
+<li class="menu-6829 menu-path-node-610  even "><a href="/language-literacy-society-culture/csse-research-projects">Research Project</a></li>
+<li class="menu-6827 menu-path-node-611  odd "><a href="/language-literacy-society-culture/csse-frequently-asked-questions">FAQs</a></li>
+<li class="menu-6824 menu-path-node-612  even last"><a href="/language-literacy-society-culture/csse-alumni">Alumni</a></li>
+</ul></li>
+<li class="menu-2308 menu-path-node-112  even "><a href="/language-literacy-society-culture/llc">Language, Literacy, and Culture (LLC)</a></li>
+<li class="menu-2605 menu-path-node-114  odd last"><a href="/language-literacy-society-culture/scs">Social and Cultural Studies (SCS)</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-2300 menuparent  menu-path-node-123  even"><a href="/policy-organization-measurement-evaluation"><i class="fa fa-angle-right"></i>Policy, Organization, Measurement, and Evaluation</a><ul style="display: none; visibility: hidden;"><li class="menu-5545 menuparent  menu-path-node-123 first odd"><a href="/policy-organization-measurement-evaluation"><i class="fa fa-angle-right"></i>MA, PhD</a><ul style="display: none; visibility: hidden;"><li class="menu-2312 menuparent  menu-path-node-107 first odd last"><a href="/policy-organization-measurement-evaluation/policy-organizations-research"><i class="fa fa-angle-right"></i>Policy and Organizations Research</a><ul style="display: none; visibility: hidden;"><li class="menu-6111 menu-path-node-656 first odd "><a href="/policy-organization-measurement-evaluation/policy-organizations-research-ma">POME - MA in Policy and Organizations Research</a></li>
+<li class="menu-6112 menu-path-node-658  even last"><a href="/policy-organization-measurement-evaluation/policy-organizations-research-phd">POME - PhD in Policy and Organizations Research</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-7776 menuparent  menu-path-node-123  even"><a href="/policy-organization-measurement-evaluation"><i class="fa fa-angle-right"></i>PhD</a><ul style="display: none; visibility: hidden;"><li class="menu-6110 menu-path-node-116 first odd "><a href="/policy-organization-measurement-evaluation/quantitative-methods-evaluation">Quantitative Methods and Evaluation</a></li>
+<li class="menu-6109 menu-path-node-117  even last"><a href="/policy-organization-measurement-evaluation/program-evaluation-assessment">Program Evaluation and Assessment</a></li>
+</ul></li>
+<li class="menu-5938 menu-path-node-655  odd "><a href="/policy-organization-measurement-evaluation/our-approach">Our Approach</a></li>
+<li class="menu-6834 menu-path-node-652  even last"><a href="/policy-organization-measurement-evaluation/faqs">FAQs</a></li>
+</ul></li>
+<li class="menu-6468 menuparent  menu-path-node-124  odd last"><a href="/sesame"><i class="fa fa-angle-right"></i>Graduate Group in Science and Mathematics Education (SESAME)</a><ul style="display: none; visibility: hidden;"><li class="menu-6837 menu-path-node-762 first odd last"><a href="/sesame-admissions-instructions-and-faq">Admissions Instructions and FAQ</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-6937 menuparent  menu-path-node-379832  even"><a href="/building-knowledge"><i class="fa fa-angle-right"></i>MA/PhD Program</a><ul style="display: none; visibility: hidden;"><li class="menu-5540 menuparent  menu-path-node-121 first odd last"><a href="/cognition-development"><i class="fa fa-angle-right"></i>MA/Credential</a><ul style="display: none; visibility: hidden;"><li class="menu-4669 menuparent  menu-path-node-119 first odd"><a href="/cognition-development/dte"><i class="fa fa-angle-right"></i>Developmental Teacher Education (DTE)</a><ul style="display: none; visibility: hidden;"><li class="menu-6799 menu-path-node-605 first odd "><a href="/cognition-development/dte-about">About the Developmental Teacher Education Program</a></li>
+<li class="menu-6800 menu-path-node-606  even "><a href="/cognition-development/dte-apply">Apply to DTE</a></li>
+<li class="menu-6801 menu-path-node-521  odd last"><a href="/cognition-development/dte-faqs">Frequently Asked Questions about DTE</a></li>
+</ul></li>
+<li class="menu-2304 menuparent  menu-path-node-120  even"><a href="/cognition-development/macsme"><i class="fa fa-angle-right"></i>Masters and Credential in Science and Mathematics Education (MACSME)</a><ul style="display: none; visibility: hidden;"><li class="menu-6791 menu-path-node-514 first odd "><a href="/cognition-development/macsme-applying">Applying to MACSME</a></li>
+<li class="menu-6792 menu-path-node-512  even last"><a href="/cognition-development/macsme-features">MACSME Features</a></li>
+</ul></li>
+<li class="menu-2309 menuparent  menu-path-node-115  odd last"><a href="/language-literacy-society-culture/muse"><i class="fa fa-angle-right"></i>Multicultural Urban Secondary English Master's and Credential Program (MUSE)</a><ul style="display: none; visibility: hidden;"><li class="menu-7971 menu-path-node-97 first odd last"><a href="/admissions-application-instructions">Apply to MUSE</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li class="menu-6938 menuparent  menu-path-node-135982  odd"><a href="/careers-k-12-education"><i class="fa fa-angle-right"></i>Professional Programs</a><ul style="display: none; visibility: hidden;"><li class="menu-5548 menuparent  menu-path-leepberkeleyedu- first odd"><a href="http://leep.berkeley.edu/" target="_blank"><i class="fa fa-angle-right"></i>EdD</a><ul style="display: none; visibility: hidden;"><li class="menu-5006 menuparent  menu-path-node-128 first odd last"><a href="http://leep.berkeley.edu/leadership-educational-equity-program/leep"><i class="fa fa-angle-right"></i>Leadership for Educational Equity Program (LEEP)</a><ul style="display: none; visibility: hidden;"><li class="menu-7597 menuparent  menu-path-node-139587 first odd"><a href="/leep/signature-pedagogy-design-development-studies"><i class="fa fa-angle-right"></i>The LEEP Approach</a><ul style="display: none; visibility: hidden;"><li class="menu-7598 menu-path-node-139587 first odd "><a href="/leep/signature-pedagogy-design-development-studies">Signature Pedagogy: Design Development Studies</a></li>
+<li class="menu-7600 menu-path-node-139591  even "><a href="/leep/student-experience">The Student Experience</a></li>
+<li class="menu-7599 menu-path-node-139588  odd last"><a href="/leep/textbook">The Textbook</a></li>
+</ul></li>
+<li class="menu-6226 menuparent  menu-path-node-870  even"><a href="http://leep.berkeley.edu/leep/leep-program-study"><i class="fa fa-angle-right"></i>Program of Study</a><ul style="display: none; visibility: hidden;"><li class="menu-6229 menu-path-node-873 first odd "><a href="http://leep.berkeley.edu/leep/leep-calendar">Calendar</a></li>
+<li class="menu-6228 menu-path-node-872  even "><a href="http://leep.berkeley.edu/leep/leep-course-schedule">Course Schedule</a></li>
+<li class="menu-6227 menu-path-node-871  odd "><a href="http://leep.berkeley.edu/leep/leep-courses">Course Descriptions</a></li>
+<li class="menu-6230 menu-path-node-874  even last"><a href="http://leep.berkeley.edu/leep/leep-sample-timeline">Sample Timeline</a></li>
+</ul></li>
+<li class="menu-6237 menuparent  menu-path-node-139589  odd"><a href="/leep/leep-leaders"><i class="fa fa-angle-right"></i>LEEP in the Field</a><ul style="display: none; visibility: hidden;"><li class="menu-7595 menu-path-node-139589 first odd "><a href="/leep/leep-leaders">LEEP Leaders</a></li>
+<li class="menu-7596 menu-path-node-139590  even last"><a href="/leep/district-partnerships">District Partnerships</a></li>
+</ul></li>
+<li class="menu-6251 menuparent  menu-path-node-66988  even"><a href="/leep/people"><i class="fa fa-angle-right"></i>People</a><ul style="display: none; visibility: hidden;"><li class="menu-7185 menu-path-leep-people first odd "><a href="/leep/people#faculty">Faculty</a></li>
+<li class="menu-7187 menu-path-leep-people  even "><a href="/leep/people#students">Students and Alumni</a></li>
+<li class="menu-6283 menu-path-node-139589  odd last"><a href="/leep/leep-leaders">Map of Where LEEP Leaders Work</a></li>
+</ul></li>
+<li class="menu-7601 menu-path-node-139592  odd "><a href="/leep/research-leep">Research on LEEP</a></li>
+<li class="menu-6250 menu-path-node-885  even last"><a href="http://leep.berkeley.edu/leep/leep-admissions">Admissions</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-2306 menuparent  menu-path-sprincipalsberkeleyedu  even"><a href="https://principals.berkeley.edu"><i class="fa fa-angle-right"></i>Principal Leadership Institute</a><ul style="display: none; visibility: hidden;"><li class="menu-5974 menu-path-node-769 first odd "><a href="http://principals.berkeley.edu/how-apply">How To Apply</a></li>
+<li class="menu-5975 menu-path-node-770  even "><a href="http://principals.berkeley.edu/frequently-asked-questions">Frequently Asked Questions</a></li>
+<li class="menu-5977 menu-path-node-771  odd "><a href="http://principals.berkeley.edu/contact-pli">Contact</a></li>
+<li class="menu-5978 menu-path-node-772  even "><a href="http://principals.berkeley.edu/publications">Publications</a></li>
+<li class="menu-6705 menu-path-node-905  odd "><a href="http://principals.berkeley.edu/leadership-connection-rubric-online">Rubric</a></li>
+<li class="menu-5984 menuparent  menu-path-node-778  even"><a href="http://principals.berkeley.edu/leadership-connection-online"><i class="fa fa-angle-right"></i>Leadership Connection Online (LCO)</a><ul style="display: none; visibility: hidden;"><li class="menu-5986 menu-path-node-780 first odd "><a href="http://principals.berkeley.edu/credit-card-payment">Credit Card Payment</a></li>
+<li class="menu-5985 menu-path-node-779  even last"><a href="http://principals.berkeley.edu/lco-registration-form">LCO Registration Form</a></li>
+</ul></li>
+<li class="menu-5987 menuparent  menu-path-node-781  odd"><a href="http://principals.berkeley.edu/pvsl"><i class="fa fa-angle-right"></i>Programs for Visiting School Leaders (PVSL)</a><ul style="display: none; visibility: hidden;"><li class="menu-5988 menu-path-node-782 first odd last"><a href="http://principals.berkeley.edu/pisl-inquiry-form">PVSL Inquiry Form</a></li>
+</ul></li>
+<li class="menu-5989 menuparent  menu-path-node-783  even"><a href="http://principals.berkeley.edu/current-students"><i class="fa fa-angle-right"></i>Current Students</a><ul style="display: none; visibility: hidden;"><li class="menu-5983 menuparent  menu-path-node-777 first odd"><a href="http://principals.berkeley.edu/pli-how-apply-administrative-services-credential-asc"><i class="fa fa-angle-right"></i>How To Apply for the ASC</a><ul style="display: none; visibility: hidden;"><li class="menu-6059 menu-path-node-855 first odd "><a href="http://principals.berkeley.edu/uc-berkeley-pli-field-supervision-log">Field Supervision Log</a></li>
+<li class="menu-6060 menu-path-node-856  even last"><a href="http://principals.berkeley.edu/ucla-pli-field-supervision-log">UCLA PLI Field Supervision Log</a></li>
+</ul></li>
+<li class="menu-5993 menu-path-node-787  even "><a href="http://principals.berkeley.edu/pli-electronic-document-convention">Electronic Document Convention</a></li>
+<li class="menu-5994 menu-path-node-788  odd "><a href="http://principals.berkeley.edu/pli-how-convert-your-documents-portable-document-format-pdf">How to Convert Docs to PDF</a></li>
+<li class="menu-6058 menu-path-node-854  even "><a href="http://principals.berkeley.edu/pli-ma-report-form">MA Report Form</a></li>
+<li class="menu-5992 menu-path-node-786  odd "><a href="http://principals.berkeley.edu/pli-new-students-map">New Students Map</a></li>
+<li class="menu-5991 menu-path-node-785  even "><a href="http://principals.berkeley.edu/pli-student-calendar">Student Calendar</a></li>
+<li class="menu-6057 menu-path-node-853  odd last"><a href="http://principals.berkeley.edu/student-practicum-form">Student Practicum Form</a></li>
+</ul></li>
+<li class="menu-5990 menu-path-node-784  odd last"><a href="http://principals.berkeley.edu/pli-administration">Administration</a></li>
+</ul></li>
+<li class="menu-5979 menuparent  menu-path-node-773  odd last"><a href="http://principals.berkeley.edu/lsp"><i class="fa fa-angle-right"></i>Leadership Support Program (LSP)</a><ul style="display: none; visibility: hidden;"><li class="menu-5980 menu-path-node-774 first odd last"><a href="http://principals.berkeley.edu/lsp-schedules">LSP Schedules</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-7593 menu-path-node-139505  even "><a href="/undergraduate-programs">Undergraduate Programs</a></li>
+<li class="menu-7970 menu-path-sgseberkeleyedu-what-we-doadditional-programs  odd last"><a href="https://gse.berkeley.edu/what-we-do#additional_programs" class="menu-minipanel menu-minipanel-0 minipanel-processed">Additional Programs</a></li>
+</ul></li>
+<li class="menu-2535 menuparent  menu-path-sgseberkeleyedu-give  odd  first-depth"><a href="https://gse.berkeley.edu/give" title="Change a Life" class="menu-minipanel menu-minipanel-2535 minipanel-processed">Give<br><span class="description">Change a Life</span></a><ul style="display: none; visibility: hidden;"><li class="menu-2537 menu-path-node-308 first odd "><a href="/give">About Giving</a></li>
+<li class="menu-2538 menu-path-node-310  even "><a href="/give/support-annual-fund-graduate-school-education">Annual Fund for the Graduate School of Education</a></li>
+<li class="menu-2541 menu-path-node-313  odd "><a href="/give/discover-benefits-gift-planning">Gift Planning</a></li>
+<li class="menu-2540 menu-path-node-312  even "><a href="/give/how-give">How To Give</a></li>
+<li class="menu-2539 menu-path-node-311  odd last"><a href="/give/your-gift-makes-difference">Make a Difference</a></li>
+</ul></li>
+<li class="menu-7648 menuparent  menu-path-node-18644  even  first-depth"><a href="/faculty" title="Who We Are" class="menu-minipanel menu-minipanel-7648 minipanel-processed">People<br><span class="description">Who We Are</span></a><ul style="display: none; visibility: hidden;"><li class="menu-7649 menu-path-node-18644 first odd "><a href="/faculty">Faculty</a></li>
+<li class="menu-7650 menu-path-node-22258  even "><a href="/adjunct-faculty">Lecturers and Visiting Faculty</a></li>
+<li class="menu-7651 menu-path-node-55484  odd "><a href="/affiliated-faculty">Affiliated Faculty</a></li>
+<li class="menu-7653 menu-path-node-18646  even "><a href="/research-community">Research and Outreach Community</a></li>
+<li class="menu-7654 menu-path-node-18645  odd "><a href="/staff">Staff</a></li>
+<li class="menu-7655 menu-path-node-22259  even last"><a href="/faculty-emeriti">Faculty Emeriti</a></li>
+</ul></li>
+<li class="menu-7692 menuparent  menu-path-node-135982  odd last first-depth"><a href="/careers-k-12-education" title="K-12 Education" class="menu-minipanel menu-minipanel-7692 minipanel-processed">Professional Programs<br><span class="description">K-12 Education</span></a><ul style="display: none; visibility: hidden;"><li class="menu-6924 menuparent  menu-path-node-761 first odd"><a href="/where-theory-meets-practice"><i class="fa fa-angle-right"></i>Teacher Preparation</a><ul style="display: none; visibility: hidden;"><li class="menu-6807 menuparent  menu-path-nolink first odd  nolink"><span>Elementary Teacher Preparation</span><ul style="display: none; visibility: hidden;"><li class="menu-6920 menu-path-node-119 first odd last"><a href="/cognition-development/dte">Developmental Teacher Education (DTE)</a></li>
+</ul></li>
+<li class="menu-6808 menuparent  menu-path-nolink  even last nolink"><span>Middle and High School Teacher Preparation</span><ul style="display: none; visibility: hidden;"><li class="menu-6918 menu-path-node-120 first odd "><a href="/cognition-development/macsme">Masters and Credential in Science and Mathematics Education (MACSME)</a></li>
+<li class="menu-6919 menu-path-node-115  even last"><a href="/language-literacy-society-culture/muse">Multicultural Urban Secondary English Master's and Credential Program (MUSE)</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-6809 menuparent  menu-path-node-890  even"><a href="/leadership-its-best"><i class="fa fa-angle-right"></i>Leadership Preparation</a><ul style="display: none; visibility: hidden;"><li class="menu-6921 menu-path-sprincipalsberkeleyedu first odd "><a href="https://principals.berkeley.edu">Principal Leadership Institute (PLI)</a></li>
+<li class="menu-6923 menu-path-node-773  even "><a href="http://principals.berkeley.edu/lsp">Leadership Support Program (LSP)</a></li>
+<li class="menu-6922 menu-path-sleepberkeleyedu-  odd last"><a href="https://leep.berkeley.edu/">Leadership for Educational Equity Program (EdD)</a></li>
+</ul></li>
+<li class="menu-7693 menuparent  menu-path-node-111  odd last"><a href="/cognition-development/school-psychology"><i class="fa fa-angle-right"></i>School Psychology</a><ul style="display: none; visibility: hidden;"><li class="menu-6810 menu-path-node-111 first odd last"><a href="/cognition-development/school-psychology">School Psychology (PhD)</a></li>
+</ul></li>
+</ul></li>
+</ul>
+    </div>
+  </div>
+</div><div class="block block-nice-menus block-2 block-nice-menus-2 odd block-without-title" id="block-nice-menus-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="nice-menu nice-menu-down nice-menu-menu-masthead-navigation nice-menus-processed sf-js-enabled" id="nice-menu-2"><li class="menu-5473 menuparent  menu-path-node-510 first odd"><a href="/message-dean">About</a><ul style="display: none; visibility: hidden;"><li class="menu-5475 menu-path-node-583 first odd "><a href="/brief-history-graduate-school-education">History</a></li>
+<li class="menu-5477 menu-path-node-719  even last"><a href="/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="menu-7011 menu-path-node-14854  even "><a href="/news">News</a></li>
+<li class="menu-7656 menuparent  menu-path-node-14851  odd"><a href="/research">Research</a><ul style="display: none; visibility: hidden;"><li class="menu-7657 menu-path-node-14853 first odd "><a href="/outreach-programs">Outreach Programs</a></li>
+<li class="menu-7658 menu-path-node-14850  even "><a href="/research-centers">Research Centers</a></li>
+<li class="menu-7659 menu-path-node-14852  odd last"><a href="/research-projects">Research Projects</a></li>
+</ul></li>
+<li class="menu-5479 menu-path-node-308  even "><a href="/give">Make a Gift</a></li>
+<li class="menu-7018 menu-path-node-18647  odd "><a href="/careers">Job Opportunities</a></li>
+<li class="menu-6289 menuparent  menu-path-sgseberkeleyedu-intranet  even last"><a href="https://gse.berkeley.edu/intranet">Intranet</a><ul style="display: none; visibility: hidden;"><li class="menu-5507 menuparent  menu-path-node-737 first odd"><a href="/welcome-faculty-staff">For Faculty and Staff</a><ul style="display: none; visibility: hidden;"><li class="menu-7137 menu-path-faculty-courses first odd "><a href="/faculty-courses">Course Catalog Search</a></li>
+<li class="menu-5499 menu-path-node-860  even "><a href="/course-evaluation-reports" target="_blank">Course Evaluation Reports</a></li>
+<li class="menu-7742 menuparent  menu-path-node-146506  odd"><a href="/sas/courses">Course Proposal Forms</a><ul style="display: none; visibility: hidden;"><li class="menu-7743 menu-path-node-538 first odd "><a href="/sas/courses/approval-form">Course Approval Form</a></li>
+<li class="menu-7744 menu-path-node-540  even last"><a href="/sas/courses/summer-proposal-form">Summer Course Proposal Form</a></li>
+</ul></li>
+<li class="menu-7329 menu-path-sgseberkeleyedu-admin-gse-stafffaculty-phone-directory  even "><a href="https://gse.berkeley.edu/admin/gse-stafffaculty-phone-directory">GSE Faculty/Staff Phone Directory</a></li>
+<li class="menu-7159 menu-path-gseberkeleyedu-user  odd "><a href="http://gse.berkeley.edu/user">Login to update your GSE website profile</a></li>
+<li class="menu-7548 menu-path-gseberkeleyedu-sites-default-files-ots-nomination-formxlsx  even "><a href="http://gse.berkeley.edu/sites/default/files/OTS_Nomination_Form.xlsx">On The Spot Nomination Form</a></li>
+<li class="menu-5510 menu-path-room-reservations  odd last"><a href="/room_reservations">Room Reservation Calendar</a></li>
+</ul></li>
+<li class="menu-5501 menuparent  menu-path-node-736  even"><a href="/welcome-current-students">For Students</a><ul style="display: none; visibility: hidden;"><li class="menu-7138 menu-path-student-courses first odd "><a href="/student-courses">Course Catalog Search</a></li>
+<li class="menu-6103 menuparent  menu-path-node-852  even"><a href="/course-evaluations">Course Evaluations</a><ul style="display: none; visibility: hidden;"><li class="menu-5500 menu-path-node-730 first odd last"><a href="/online-course-evaluation-frequently-asked-questions">Course Evaluation FAQs</a></li>
+</ul></li>
+<li class="menu-7736 menuparent  menu-path-node-146505  odd"><a href="/sas/credentials">Credentials</a><ul style="display: none; visibility: hidden;"><li class="menu-7738 menu-path-node-670 first odd "><a href="/sas/handbooks/credentials">Handbook for Multiple and Single Subject Teaching Credential Students</a></li>
+<li class="menu-7737 menu-path-node-669  even last"><a href="/sas/credentials/request-online-credential-recommendation">Request for Online Credential Recommendation</a></li>
+</ul></li>
+<li class="menu-7046 menu-path-node-44596  even "><a href="/sas/fellowships">Fellowship Opportunities</a></li>
+<li class="menu-5506 menu-path-node-673  odd "><a href="/gse-commencement-ceremony">GSE Commencement</a></li>
+<li class="menu-7723 menuparent  menu-path-node-146502  even"><a href="/sas/milestones">Milestones Forms</a><ul style="display: none; visibility: hidden;"><li class="menu-7724 menu-path-node-545 first odd "><a href="/sas/milestones/application-qualifying-examination">Application for Qualifying Examination</a></li>
+<li class="menu-7725 menu-path-node-546  even "><a href="/sas/milestones/first-year-eval-doctoral">First Year Evaluation of Doctoral Students</a></li>
+<li class="menu-7726 menu-path-node-547  odd "><a href="/sas/milestones/outline-program-doctoral-degree">Outline of Program for Doctoral Degree</a></li>
+<li class="menu-7727 menu-path-node-548  even "><a href="/sas/milestones/outline-program-masters-degree">Outline of Program for Masters Degree</a></li>
+<li class="menu-7729 menu-path-node-549  odd "><a href="/sas/milestones/report-comprehensive-exam-masters">Report on Comprehensive Exam for Masters</a></li>
+<li class="menu-7730 menu-path-node-550  even "><a href="/sas/milestones/report-prequalifying-review-doctoral-degree">Report on Prequalifying Review for Doctoral Degree</a></li>
+<li class="menu-7728 menu-path-node-551  odd "><a href="/sas/milestones/report-proposal-review">Report of Proposal Review Meeting</a></li>
+<li class="menu-7731 menu-path-node-542  even "><a href="/sas/milestones/summer-readmission-form">Summer Readmission Form</a></li>
+<li class="menu-7732 menu-path-node-541  odd last"><a href="/sas/milestones/summer-registration-form">Summer Registration Form</a></li>
+</ul></li>
+<li class="menu-7733 menuparent  menu-path-node-146503  odd"><a href="/sas/handbooks">Student Handbooks</a><ul style="display: none; visibility: hidden;"><li class="menu-7734 menu-path-node-671 first odd "><a href="/sas/handbooks/advanced-degree-students">Handbook for Advanced Degree Students</a></li>
+<li class="menu-7735 menu-path-node-670  even last"><a href="/sas/handbooks/credentials">Handbook for Multiple and Single Subject Teaching Credential Students</a></li>
+</ul></li>
+<li class="menu-7739 menu-path-node-146504  even last"><a href="/student-academic-services">Student Academic Services Office</a></li>
+</ul></li>
+<li class="menu-5509 menuparent  menu-path-node-906  odd"><a href="/forms">Administrative Units</a><ul style="display: none; visibility: hidden;"><li class="menu-5511 menuparent  menu-path-node-600 first odd"><a href="/business-services-office">Business Services Office</a><ul style="display: none; visibility: hidden;"><li class="menu-5513 menuparent  menu-path-node-940 first odd"><a href="/bso-purchasing-reimbursement">Purchasing and Reimbursement Forms</a><ul style="display: none; visibility: hidden;"><li class="menu-6859 menu-path-node-565 first odd "><a href="/bso-campus-purchasing-portal-bearbuy">Campus Purchasing Portal (BearBuy)</a></li>
+<li class="menu-6947 menu-path-node-941  even "><a href="/admin/campus-shared-services-instructions">Campus Shared Services Information</a></li>
+<li class="menu-7559 menu-path-node-139493  odd "><a href="/admin/css-navigator-guide">Campus Shared Services Navigator Guide</a></li>
+<li class="menu-6948 menu-path-node-939  even "><a href="/admin/direct-bill-id-request-form-connexxus">Direct Bill ID Request for Connexxus</a></li>
+<li class="menu-6856 menu-path-node-562  odd "><a href="/bso-travel-reimbursement-request-form">Domestic/International Travel Reimbursement Form</a></li>
+<li class="menu-6858 menu-path-node-908  even "><a href="/bso-entertainment-purchase-order-and-event-planner-card-expenses">Entertainment Purchase Order and Event Planner Card Expenses</a></li>
+<li class="menu-6857 menu-path-node-564  odd "><a href="/bso-entertainment-payment-reimbursement-form">Entertainment Reimbursement Request</a></li>
+<li class="menu-6860 menu-path-node-566  even "><a href="/bso-interdepartmental-order-form-formerly-ioc-form">Interdepartmental Order Form (formerly IOC form)</a></li>
+<li class="menu-6855 menu-path-node-561  odd "><a href="/bso-payment-services-request-form">Payment for Services Request Form</a></li>
+<li class="menu-7979 menu-path-node-383962  even "><a href="/admin/2017-gse-variable-timesheet-schedule">2017 GSE Variable Timesheet Schedule</a></li>
+<li class="menu-7974 menu-path-node-383365  odd "><a href="/admin/department-student-award-request">Department Student Award Request</a></li>
+<li class="menu-6949 menu-path-node-938  even "><a href="/admin/reimbursementsoffice-supply-ordersblucard-purchase">Reimbursements/Office Supply Orders/Blucard Purchase</a></li>
+<li class="menu-7463 menu-path-node-139280  odd last"><a href="/admin/travel-entertainment-information">Travel &amp; Entertainment Information</a></li>
+</ul></li>
+<li class="menu-6864 menuparent  menu-path-node-139294  even last"><a href="/bso-payroll-and-personnel-forms">Payroll and Personnel Forms</a><ul style="display: none; visibility: hidden;"><li class="menu-7982 menu-path-node-139291 first odd last"><a href="/admin/student-appointment-information">Student Appointment Information</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-5512 menu-path-deans-office-forms  even "><a href="/deans-office-forms">Dean's Office</a></li>
+<li class="menu-7682 menuparent  menu-path-node-139765  odd"><a href="/admin/etsc">Educational Services Technology Center</a><ul style="display: none; visibility: hidden;"><li class="menu-7687 menu-path-node-139766 first odd last"><a href="/admin/etsc-equipment-list">Equipment List</a></li>
+</ul></li>
+<li class="menu-6787 menuparent  menu-path-gseberkeleyedu-student-academic-services  even last"><a href="http://gse.berkeley.edu/student-academic-services">Student Academic Services Office</a><ul style="display: none; visibility: hidden;"><li class="menu-6706 menu-path-gseberkeleyedu-admin-summer-course-proposal-form first odd last"><a href="http://gse.berkeley.edu/admin/summer-course-proposal-form">Summer Course Proposal Form</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-7924 menuparent  menu-path-node-372405  even"><a href="/gse-tolman-hall-east-safety">GSE Tolman Hall East Safety</a><ul style="display: none; visibility: hidden;"><li class="menu-7925 menu-path-node-372402 first odd "><a href="/admin/building-emergency-procedures">Building Emergency Procedures</a></li>
+<li class="menu-7926 menu-path-node-372401  even "><a href="/admin/emergency-assembly-area-eaa">Emergency Assembly Area (EAA)</a></li>
+<li class="menu-7927 menu-path-node-372400  odd "><a href="/admin/warnme-emergency-alert-service">WarnME Emergency Alert Service</a></li>
+<li class="menu-7932 menu-path-node-372431  even last"><a href="/berkeley-emergency-contacts">Berkeley Emergency Contacts</a></li>
+</ul></li>
+<li class="menu-7160 menu-path-gseberkeleyedu-user  odd last"><a href="http://gse.berkeley.edu/user">Login to update your GSE website profile</a></li>
+</ul></li>
+</ul>
+    </div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
+    <div class="grid-6 region region-header-first" id="region-header-first">
+  <div class="region-inner region-header-first-inner">
+    <div class="block block-blockify block-blockify-breadcrumb block-blockify-blockify-breadcrumb odd block-without-title" id="block-blockify-blockify-breadcrumb">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » Prudence L Carter</div>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-12 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <a href="#" class="actionButton minimize" data-content="#page" data-speed="600">minimize</a><h1 class="title" id="page-title">Prudence L Carter</h1>
+                <div class="tabs clearfix"><h2 class="element-invisible">Primary tabs</h2><ul class="tabs primary clearfix"><li class="active"><a href="/people/prudence-l-carter" class="active">View<span class="element-invisible">(active tab)</span></a></li><li><a href="/user/3642/track">Track</a></li></ul></div>        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="profile">
+  <div class="field field-name-field-headphoto field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://gse.berkeley.edu/sites/default/files/styles/square/public/plcarter_web.jpg?itok=vKzpkGkY" alt="" width="200" height="200"></div></div></div><div class="field field-name-field-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dean</div><div class="field-item odd">Professor *</div></div></div><div class="field field-name-field-degrees field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Ph.D., MPhil  Sociology, Columbia University</div><div class="field-item odd">M.A. Sociology and Education, Teachers College, Columbia University</div><div class="field-item even">Sc.B.  Applied Mathematics &amp; Economics, Brown University</div></div></div><div class="field field-name-field-profile field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>
+	Dean Prudence L. Carter is formerly the Jacks Family Professor of Education and Professor Sociology (by courtesy) at Stanford University. She was also the Faculty Director of John W. Gardner Center for Youth and Their Communities and the Director of the Research Institute for Comparative Studies in Race and Ethnicity. Prior to joining the Stanford faculty in 2007, Dr. Carter was Associate Professor of Sociology at Harvard University.</p>
+
+<p>
+	A product of public schools in the Mississippi Delta, Dr. Carter received a Bachelor&nbsp;of Science degree in applied mathematics and economics from Brown University; earned a Master&nbsp;of Art in Sociology and Education from Teachers College, Columbia University; and a Master of Philosophy and Ph.D. in Sociology from Columbia University.</p>
+
+<p>
+	Dr. Carter’s primary research and teaching agenda focuses on causes of and solutions to enduring social and cultural inequalities among social groups, especially in education and schooling. Her expertise ranges from issues of youth identity and race, class, and gender, urban poverty, social and cultural inequality, the sociology of education and mixed research methods. Specifically, she examines academic and mobility differences shaped by the effects of race, ethnicity, class, and gender in U.S. and global society.&nbsp;</p>
+
+<p>
+	Dr. Carter’s award-winning book, <em>Keepin’ It Real: School Success beyond Black and White</em> (Oxford University Press, 2005), debates various cultural explanations used to explain school achievement and racial identity for low-income Black and Latino youth in the United States. <em>Keepin’ It Real</em> was recognized as the 2006 co-winner of the Oliver Cromwell Cox Book Award given by the American Sociological Association (ASA) for its contribution to the eradication of racism; a 2005 finalist for the C. Wright Mills Book Award, given by the Society for the Study of Social Problems; and an Honorable Mention for best book given by the section on Race, Class, and Gender of the ASA.</p>
+
+<p>
+	Her books include <a href="http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199899630.001.0001/acprof-9780199899630" target="_blank"><em>Stubborn Roots: Race, Culture, and Inequality in U.S. &amp; South African Schools</em></a> (2012) and <a href="http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199982981.001.0001/acprof-9780199982981" target="_blank"><em>Closing the Opportunity Gap: What America Must Do to Give Every Child an Even Chance</em></a> (2013), co-edited with Dr. Kevin Welner — both published by Oxford University Press. Her other publications have appeared in various journals and book volumes. Her research has also been featured in the Pulitzer-Prize winning documentary “Mind the Gap: Why Are Good Schools Failing Black Students” by journalist Nancy Solomon and has been featured on dozens of National Public Radio (NPR) shows across the United States.</p>
+
+<p>
+	Dr. Carter is an elected a member of the National Academy of Education; the Sociological Research Association; and a Fellow of the American Educational Research Association (AERA). She also serves on the Board of Trustees for the William T. Grant Foundation in New York and was previously on the board of Coleman Advocates for Children and Youth in San Francisco.</p>
+ </div></div></div><fieldset class="collapsible group-contact field-group-fieldset form-wrapper collapse-processed"><legend><span class="fieldset-legend"><a class="fieldset-title" href="#"><span class="fieldset-legend-prefix element-invisible">Hide</span> Contact Info</a><span class="summary"></span></span></legend><div class="fieldset-wrapper"><div class="field field-name-field-cv field-type-file field-label-above"><div class="field-label">CV:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png"> <a href="https://gse.berkeley.edu/sites/default/files/PrudenceCarterCV2016.pdf" type="application/pdf; length=206355">PrudenceCarterCV2016.pdf</a></span></div></div></div><div class="field field-name-field-office field-type-text field-label-above"><div class="field-label">Office:&nbsp;</div><div class="field-items"><div class="field-item even">1501 Tolman Hall</div></div></div><div class="field field-name-field-phone field-type-text field-label-above"><div class="field-label">Phone:&nbsp;</div><div class="field-items"><div class="field-item even">(510) 643-6644</div></div></div><div class="field field-name-field-email field-type-text field-label-above"><div class="field-label">Email:&nbsp;</div><div class="field-items"><div class="field-item even">gsedean@berkeley.edu</div></div></div><div class="field field-name-field-staffcontact field-type-user-reference field-label-above"><div class="field-label">Staff Contact:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/people/allyson-c-cesario">Allyson C Cesario</a></div></div></div></div></fieldset>
+<div class="field-group-htabs-wrapper"><h2 class="element-invisible">Research</h2><div class="horizontal-tabs clearfix"><ul class="horizontal-tabs-list"><li class="horizontal-tab-button horizontal-tab-button-0 first selected" tabindex="-1"><a href="#"><strong>Selected Publications</strong><span class="summary"></span><span id="active-horizontal-tab" class="element-invisible">(active tab)</span></a></li><li class="horizontal-tab-button horizontal-tab-button-1 last" tabindex="-1"><a href="#"><strong>Honors</strong><span class="summary"></span></a></li></ul><div class="horizontal-tabs-panes horizontal-tabs-processed"><fieldset class="form-wrapper horizontal-tabs-pane"><legend><span class="fieldset-legend">Selected Publications</span></legend><div class="fieldset-wrapper"><div class="field field-name-field-publications field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>
+	<strong><span style="line-height: 1.5;">Books</span></strong></p>
+
+<p>
+	<span style="line-height: 1.5; letter-spacing: 0.03em;">Carter, Prudence L. and Kevin G. Welner. Eds. (2013). <em>Closing the Opportunity Gap: What America Must Do to Give All Children an Even Chance</em>. New York: Oxford University Press. </span></p>
+
+<p>
+	<span style="line-height: 1.5; letter-spacing: 0.03em;">Carter, Prudence L. (2012). <em>Stubborn Roots: Race, Culture, and Inequality in U.S. and South African Schools</em>. New York: Oxford University Press.</span></p>
+
+<p>
+	Carter, Prudence L. (2005). <em>Keepin’ It Real: School Success beyond Black and White</em>. New York: Oxford University Press.</p>
+
+<p class="rteindent1">
+	​2007 Distinguished Book Award, Honorable Mention, Race, Class, and Gender Section, American Sociological Association<br>
+	2006 Oliver Cromwell Cox Book Award, American Sociological Association<br>
+	2005 C. Wright Mills Best Book Award Finalist, Society for the Study of Social Problems</p>
+
+<p>
+	<strong>Peer-reviewed Journal Articles &amp; Manuscripts</strong></p>
+
+<p>
+	Carter, Prudence, Russell Skiba, Mariella Arredondo &amp; Mica Pollock. (Forthcoming). You Can't Fix What You Don't Look At: Acknowledging <em>Race</em> in Addressing Racial Disparities. <em>Urban Education</em>.</p>
+
+<p>
+	Carter, Prudence L. (Forthcoming). “Educational Equality is a Multifaceted Issue: Why We Must Understand the School’s Sociocultural Context for Student Achievement.” <em>Russell Sage Foundation Journal for Social Sciences</em>.</p>
+
+<p>
+	Russell, Susan Garnett and Prudence L. Carter. (Under review). “When the Past is in the Present: The Paradox of Social Inclusion in South Africa and Rwanda.”</p>
+
+<p>
+	Carter, Prudence L. (2010). “Cultural Flexibility among Students in Different Racial and Ethnic School Contexts,” <em>Teachers College Record</em> 112(6): 1529-1574.</p>
+
+<p>
+	Carter, Prudence L., Jakeya Caruthers, and Jesse Foster. (2010). “Knowing Their Lines: How Social Boundaries Undermine Equity-based Integration Policies in U.S. and South African Schools,” <em>Perspectives in Education</em>, vol. 27(4): 351-364.</p>
+
+<p>
+	Carter, Prudence L. (2009). “Equity and Empathy: Toward Racial Achievement and Equality in U.S. Schools in the Obama Era,” <em>Harvard Educational Review</em>, vol. 79(2): 287-297.</p>
+
+<p>
+	Warikoo, Natasha and Prudence L. Carter. (2009). “Cultural Explanations for Racial and Ethnic Stratification in Academic Achievement: A Call for a New and Improved Theory,” <em>Review of Educational Research</em>, vol. 79(1): 366-394.</p>
+
+<p>
+	Carter, Prudence L. (2006). “Straddling Boundaries: Identity, Culture, and School.” <em>The Sociology of Education</em>, vol. 79(3): 304‐328.</p>
+
+<p class="rteindent1">
+	Reprinted in<em> Schools and Society: A Sociological Approach to Education</em>, edited by Jeanne H. Ballantine and Joan Z. Spade. 3rd Edition. Thousand Oaks, CA: Sage Publications, pp. 151-162, 2008.</p>
+
+<p class="rteindent1">
+	<em>The Structure of Schooling: Readings in the Sociology of Education</em>, edited by Richard Arum, Irenee Beattie, and Karly Ford. 2nd edition. Belmont, CA: Sage Publications, Inc., pp.295-312, 2010.</p>
+
+<p>
+	Squires, Catherine, Laura Kohn Woods, Tabbye Chavous, and Prudence L. Carter. (2006). “Evaluating Responsibility and Agency in Gendered Violence: Black Youth Talk about Violence and Hip Hop.” <em>Sex Roles</em>, vol. 55 (11-12): 725-737.</p>
+
+<p>
+	Carter, Prudence L. (2004). “Beyond Ascription: Racial Identity, Culture, Schools, and Academic Achievement.” <em>The Du Bois Review</em>, vol. 1(2): 377‐388.</p>
+
+<p>
+	Carter, Prudence L. (2003). “Black Cultural Capital, Status Positioning, and the Conflict of Schooling for Low-Income African American Youth.” <em>Social Problems</em>, vol. 50(1): 136-155.</p>
+
+<p>
+	Carter, Prudence L., Catherine Squires, and Sherrill Sellers. (2002). “Reflections on Race/Ethnicity, Class and Gender Inclusive Research,” <em>African American Research Perspectives</em>, vol. 8(1): 111-124.</p>
+
+<p>
+	Neckerman, Kathryn, Prudence L. Carter, and Jennifer Lee. (1999). “Segmented Assimilation and Minority Cultures of Mobility,” <em>Ethnic and Racial Studies</em>, vol. 22(6): 945-965.</p>
+
+<p>
+	&nbsp;</p>
+ </div></div></div></div></fieldset>
+<fieldset class="form-wrapper horizontal-tabs-pane horizontal-tab-hidden"><legend><span class="fieldset-legend">Honors</span></legend><div class="fieldset-wrapper"><div class="field field-name-field-honor field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <ul>
+	<li>
+		National Academy of Education, Elected Member</li>
+	<li>
+		Sociological Research Association, Elected Member</li>
+	<li>
+		American Educational Research Association, Fellow</li>
+</ul>
+ </div></div></div></div></fieldset>
+</div></div></div><div class="field field-name-field-cluster field-type-node-reference field-label-above"><div class="field-label">Cluster:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/critical-studies-race-class-gender">Critical Studies of Race, Class, and Gender</a></div><div class="field-item odd"><a href="/policy-politics-leadership">Policy, Politics, and Leadership</a></div><div class="field-item even"><a href="/social-research-methodologies">Social Research Methodologies</a></div></div></div></div>
+    </div>
+  </div>
+</div>      </div>
+</div>  </div>
+</div></section>    
+
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <div class="block block-menu block-menu-footer block-menu-menu-footer odd block-without-title" id="block-menu-menu-footer">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/contact-us">Contact Us</a></li>
+<li class="leaf"><a href="https://www.facebook.com/ucberkeleygse" target="_blank">Follow Us</a></li>
+<li class="leaf"><a href="http://www.berkeley.edu/index.html" target="_blank">UC Berkeley</a></li>
+<li class="last leaf"><a href="http://grad.berkeley.edu/admissions/index.shtml" target="_blank">UCB Graduate Division</a></li>
+</ul>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-12 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <div class="block block-block block-51 block-block-51 odd block-without-title" id="block-block-51">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p>
+	Copyright ©2017 UC Regents. All rights reserved.   Background image: Steve McConnell / UC Berkeley</p>
+    </div>
+  </div>
+</div><div class="block block-block block-50 block-block-50 even block-without-title" id="block-block-50">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100734240); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100734240ns.gif" /></p></noscript>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+    <div class="menu-minipanels menu-minipanel-7718"><div class="panel-display omega-grid omega-12-onecol" id="mini-panel-apply_main_megamenu">
+  <div class="panel-panel">
+    <div class="inside"><div class="panel-pane pane-block pane-block-53">
+  
+      
+  
+  <div class="pane-content">
+     <div class="container-12" id="global-submenu">
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Get Started</h2>
+		</div>
+
+		<p>
+			Are you ready for the challenge of becoming someone who makes a difference? The Graduate School of Education welcomes visionaries and dreamers – people who don’t wait for change, but work to make it happen</p>
+
+		<div class="b-more-wrap">
+			<a class="b-more" href="/application-instructions">Apply Now</a></div>
+	</div>
+
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Resources</h2>
+		</div>
+
+		<p>
+			We are ready to help you complete and submit your application to GSE. Find the facts, the forms, the important deadlines, and other essential information here.</p>
+
+		<div>
+			<div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-7718 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-2224"><a href="/admissions-application-instructions" target="_self">Application</a></li>
+<li class="leaf menu-mlid-5526"><a href="/admissions-returning-or-continuing-uc-berkeley-graduate-students">Returning/Continuing Applicants</a></li>
+<li class="leaf menu-mlid-5527"><a href="/admissions-international-students">International Applicants</a></li>
+<li class="leaf menu-mlid-5532"><a href="/admissions-advanced-degrees">Advanced Degrees</a></li>
+<li class="leaf menu-mlid-2226"><a href="/admissions-review-process" target="_self">Review Process</a></li>
+<li class="leaf menu-mlid-2227"><a href="/admissions-fees-and-financial-support" target="_self">Fees and Financial Information</a></li>
+<li class="last leaf menu-mlid-5530"><a href="/admissions-faqs">FAQs</a></li>
+</ul></div>
+</div>
+	</div>
+
+	<div class="grid-4 gridend" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Estimate Your Financial Aid</h2>
+		</div>
+
+		<p>
+			Want an estimate of how much financial aid you might receive? Berkeley's Cal-culator produces estimated values based on your answers to a few simple questions.</p>
+
+		<div class="b-more-wrap">
+			<a class="b-more" href="http://calculator.berkeley.edu" target="_blank">Estimate Now</a></div>
+	</div>
+</div>
+
+<div class="grid-12" id="bin">
+	<h5>
+		GSE is a vital hub where students and faculty tackle big, difficult questions – from how people learn inside and outside classrooms to how schools, communities, and societies enhance the educational and life chances of their students and communities. — <a href="/application-instructions">Apply Now</a></h5>
+</div>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-0"><div class="panel-display omega-grid omega-12-onecol" id="mini-panel-programs_main_megamenu">
+  <div class="panel-panel">
+    <div class="inside"><div class="panel-pane pane-block pane-block-54">
+  
+      
+  
+  <div class="pane-content">
+     <div class="container-12" id="global-submenu">
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Where Theory Meets Action</h2>
+		</div>
+
+		<p>
+			GSE’s graduate programs stress the integration of theory with practical application. Researchers and classroom professionals work together to develop solutions to the grand challenges in education that require collaborative efforts across disciplines.</p>
+	</div>
+
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Programs</h2>
+		</div>
+
+		<p>
+			<span style="color: rgb(69, 69, 69); font-size: 14px; letter-spacing: normal; line-height: 21px;">The Graduate School of Education offers innovative, rigorous and research-based academic and professional preparation for the visionary educators of&nbsp;the future.&nbsp; Click below to find out which program fits your vision.</span></p>
+
+		<div>
+			<div class="menu-block-wrapper menu-block-10 menu-name-main-menu parent-mlid-6936 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-2232"><a href="/what-we-do">What We Do</a></li>
+<li class="leaf has-children menu-mlid-6937"><a href="/building-knowledge">MA/PhD Program</a></li>
+<li class="leaf has-children menu-mlid-6938"><a href="/careers-k-12-education">Professional Programs</a></li>
+<li class="leaf menu-mlid-7593"><a href="/undergraduate-programs">Undergraduate Programs</a></li>
+<li class="last leaf menu-mlid-7970"><a href="https://gse.berkeley.edu/what-we-do#additional_programs" class="menu-minipanel menu-minipanel-0">Additional Programs</a></li>
+</ul></div>
+</div>
+	</div>
+
+	<div class="grid-4 gridend" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Course Catalog</h2>
+
+			<div class="b-more-wrap">
+				<a class="b-more" href="/courses">View Our Courses</a></div>
+		</div>
+
+		<p>
+			&nbsp;</p>
+
+		<p>
+			&nbsp;</p>
+	</div>
+</div>
+
+<div class="grid-12" id="bin">
+	<h5>
+		Our Undergraduate Minor in Education is one of Berkeley's most popular Minor programs – and for good reason. It is perfect if you’re considering a career in education or teaching, or if you’re seeking to know more about educational topics for your field.</h5>
+</div>   </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-6936"><div class="panel-display omega-grid omega-12-onecol" id="mini-panel-programs_main_megamenu-1">
+  <div class="panel-panel">
+    <div class="inside"><div class="panel-pane pane-block pane-block-54">
+  
+      
+  
+  <div class="pane-content">
+     <div class="container-12" id="global-submenu">
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Where Theory Meets Action</h2>
+		</div>
+
+		<p>
+			GSE’s graduate programs stress the integration of theory with practical application. Researchers and classroom professionals work together to develop solutions to the grand challenges in education that require collaborative efforts across disciplines.</p>
+	</div>
+
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Programs</h2>
+		</div>
+
+		<p>
+			<span style="color: rgb(69, 69, 69); font-size: 14px; letter-spacing: normal; line-height: 21px;">The Graduate School of Education offers innovative, rigorous and research-based academic and professional preparation for the visionary educators of&nbsp;the future.&nbsp; Click below to find out which program fits your vision.</span></p>
+
+		<div>
+			<div class="menu-block-wrapper menu-block-10 menu-name-main-menu parent-mlid-6936 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-2232"><a href="/what-we-do">What We Do</a></li>
+<li class="leaf has-children menu-mlid-6937"><a href="/building-knowledge">MA/PhD Program</a></li>
+<li class="leaf has-children menu-mlid-6938"><a href="/careers-k-12-education">Professional Programs</a></li>
+<li class="leaf menu-mlid-7593"><a href="/undergraduate-programs">Undergraduate Programs</a></li>
+<li class="last leaf menu-mlid-7970"><a href="https://gse.berkeley.edu/what-we-do#additional_programs" class="menu-minipanel menu-minipanel-0">Additional Programs</a></li>
+</ul></div>
+</div>
+	</div>
+
+	<div class="grid-4 gridend" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Course Catalog</h2>
+
+			<div class="b-more-wrap">
+				<a class="b-more" href="/courses">View Our Courses</a></div>
+		</div>
+
+		<p>
+			&nbsp;</p>
+
+		<p>
+			&nbsp;</p>
+	</div>
+</div>
+
+<div class="grid-12" id="bin">
+	<h5>
+		Our Undergraduate Minor in Education is one of Berkeley's most popular Minor programs – and for good reason. It is perfect if you’re considering a career in education or teaching, or if you’re seeking to know more about educational topics for your field.</h5>
+</div>   </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-2535"><div class="panel-display omega-grid omega-12-onecol" id="mini-panel-giving_main_megamenu">
+  <div class="panel-panel">
+    <div class="inside"><div class="panel-pane pane-block pane-block-55">
+  
+      
+  
+  <div class="pane-content">
+     <div class="container-12" id="global-submenu">
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Change a Life</h2>
+		</div>
+
+		<p>
+			Want to leave a lasting legacy that changes lives and promotes a healthier society? Your generous donations to Berkeley's Graduate School of Education helps ensure a diverse pipeline of qualified and committed education professionals for years to come.</p>
+
+		<div class="b-more-wrap">
+			<a class="b-more" href="node/312">Give Today</a></div>
+	</div>
+
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Resources</h2>
+		</div>
+
+		<p>
+			These links will tell you everything you need to know about making the Berkeley GSE affordable to deserving students. Or you can call us directly at <span style="font-size: 13px; line-height: 19px;">(510) 643-9784</span>. We would love to talk to you.</p>
+
+		<div>
+			<div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-2535 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-2537"><a href="/give">About Giving</a></li>
+<li class="leaf menu-mlid-2538"><a href="/give/support-annual-fund-graduate-school-education">Annual Fund for the Graduate School of Education</a></li>
+<li class="leaf menu-mlid-2541"><a href="/give/discover-benefits-gift-planning">Gift Planning</a></li>
+<li class="leaf menu-mlid-2540"><a href="/give/how-give">How To Give</a></li>
+<li class="last leaf menu-mlid-2539"><a href="/give/your-gift-makes-difference">Make a Difference</a></li>
+</ul></div>
+</div>
+	</div>
+
+	<div class="grid-4 gridend" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				GSE Annual Fund</h2>
+		</div>
+
+		<p>
+			Because the university receives only about 10 percent of its operating budget from the state, donations to the Annual Fund for the Graduate School of Education are the life blood of our mission to prepare the next generation of educational leaders and thinkers.</p>
+
+		<div class="b-more-wrap">
+			<a class="b-more" href="node/312">Give Today</a></div>
+	</div>
+</div>
+
+<div class="grid-12" id="bin">
+	<h5>
+		A planned gift may enable you to make a more significant gift than you thought possible and help you achieve long-term financial, philanthropic, and estate planning goals. A planned gift may also create significant tax benefits. — <a href="/discover-benefits-gift-planning">Learn More</a></h5>
+</div>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-7648"><div class="panel-display omega-grid omega-12-onecol" id="mini-panel-people_main_megamenu">
+  <div class="panel-panel">
+    <div class="inside"><div class="panel-pane pane-block pane-block-94">
+  
+      
+  
+  <div class="pane-content">
+    <div class="container-12" id="global-submenu">
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Contact Us</h2>
+		</div>
+
+		<p>
+			If you're not quite sure which department you need, you can find contact information for some of the most commonly contacted departments on the <a href="contact-us">Contact Us</a> page.</p>
+
+	</div>
+
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				People</h2>
+		</div>
+
+		<div>
+			<div class="menu-block-wrapper menu-block-51 menu-name-main-menu parent-mlid-7648 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-7649"><a href="/faculty">Faculty</a></li>
+<li class="leaf menu-mlid-7650"><a href="/adjunct-faculty">Lecturers and Visiting Faculty</a></li>
+<li class="leaf menu-mlid-7651"><a href="/affiliated-faculty">Affiliated Faculty</a></li>
+<li class="leaf menu-mlid-7653"><a href="/research-community">Research and Outreach Community</a></li>
+<li class="leaf menu-mlid-7654"><a href="/staff">Staff</a></li>
+<li class="last leaf menu-mlid-7655"><a href="/faculty-emeriti">Faculty Emeriti</a></li>
+</ul></div>
+		</div>
+<p> &nbsp;</p>
+<p> &nbsp;</p>
+	</div>
+
+
+
+
+		<div>
+	
+
+
+	</div>
+	
+	<div class="grid-4 gridend" id="bin">
+
+	</div>
+
+</div>
+
+<div class="grid-12" id="bin">
+	
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-7692"><div class="panel-display omega-grid omega-12-onecol" id="mini-panel-clone_of_programs_main_megamenu">
+  <div class="panel-panel">
+    <div class="inside"><div class="panel-pane pane-block pane-block-81">
+  
+        <h2 class="pane-title">
+      Careers in K-12 Education    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="container-12" id="global-submenu">
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Teacher Preparation</h2>
+		</div>
+
+		<div>
+			<div class="menu-block-wrapper menu-block-46 menu-name-main-menu parent-mlid-6924 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-6807 nolink"><span>Elementary Teacher Preparation</span><ul class="menu"><li class="first last leaf menu-mlid-6920"><a href="/cognition-development/dte">Developmental Teacher Education (DTE)</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-6808 nolink"><span>Middle and High School Teacher Preparation</span><ul class="menu"><li class="first leaf menu-mlid-6918"><a href="/cognition-development/macsme">Masters and Credential in Science and Mathematics Education (MACSME)</a></li>
+<li class="last leaf menu-mlid-6919"><a href="/language-literacy-society-culture/muse">Multicultural Urban Secondary English Master's and Credential Program (MUSE)</a></li>
+</ul></li>
+</ul></div>
+		</div>
+	</div>
+
+	<div class="grid-4" id="bin">
+		<div id="bin-inset-title">
+			<h2>
+				Leadership Preparation</h2>
+		</div>
+
+		<div>
+			<div class="menu-block-wrapper menu-block-47 menu-name-main-menu parent-mlid-6809 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-6921"><a href="https://principals.berkeley.edu">Principal Leadership Institute (PLI)</a></li>
+<li class="leaf menu-mlid-6923"><a href="http://principals.berkeley.edu/lsp">Leadership Support Program (LSP)</a></li>
+<li class="last leaf menu-mlid-6922"><a href="https://leep.berkeley.edu/">Leadership for Educational Equity Program (EdD)</a></li>
+</ul></div>
+		</div>
+<p></p>
+			<div id="bin-inset-title">
+			<h2>
+				School Psychology</h2>
+		</div>
+
+		<div>
+			<div class="menu-block-wrapper menu-block-48 menu-name-main-menu parent-mlid-7693 menu-level-1">
+  <ul class="menu"><li class="first last leaf menu-mlid-6810"><a href="/cognition-development/school-psychology">School Psychology (PhD)</a></li>
+</ul></div>
+		</div>
+	
+
+
+	</div>
+	
+	<div class="grid-4 gridend" id="bin">
+	</div>
+
+</div>
+
+<div class="grid-12" id="bin">
+	<h5>
+		We are committed to preparing educators with an unwavering focus on equity, who become leaders at every level of the K-12 system.  — <a href="where-theory-meets-practice/">Find out more.</a></h5>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div>  </div>
+</div><script type="text/javascript" src="https://gse.berkeley.edu/sites/default/files/js/js_XWYQWmnEXPvgUg1El2FGrm2bOMYbPS_GSM1B3UD94Xw.js"></script>
+  
+  <script type="text/javascript" src="/sites/all/themes/MDALLC/js/clear-default-webform.js"></script>
+  <script type="text/javascript" src="/sites/all/themes/MDALLC/js/paralax.js"></script>
+  <script type="text/javascript" src="/sites/all/themes/MDALLC/js/scripts.js"></script>
+  <script type="text/javascript" src="/sites/all/themes/MDALLC/js/jquery.localscroll.js"></script>
+  <script type="text/javascript" src="/sites/all/themes/MDALLC/js/jquery.scrollTo.js"></script>
+  <script type="text/javascript" src="/sites/all/themes/MDALLC/js/plugins.minimize.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f2a9931082","applicationID":"4166274","transactionName":"MVQAbEVRCksEVEFcVggeN0peH0tRC1NQTRcWWRI=","queueTime":0,"applicationTime":21,"atts":"HRMDGg1LGUU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>

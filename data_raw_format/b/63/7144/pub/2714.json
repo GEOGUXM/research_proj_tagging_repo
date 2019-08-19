@@ -1,0 +1,1 @@
+[{"begin": 46, "end": 55, "text": "Tom Jones", "tokenized_text": "Tom Jones", "type": "authors", "id": 0}, {"begin": 82, "end": 87, "text": "World", "tokenized_text": "World", "type": "venue", "id": 1}, {"begin": 107, "end": 111, "text": "2008", "tokenized_text": "2008", "type": "year", "id": 2}]

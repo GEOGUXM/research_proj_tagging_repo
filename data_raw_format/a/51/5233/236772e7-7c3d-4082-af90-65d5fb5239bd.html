@@ -1,0 +1,641 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>UCSF Departments of Pathology and Laboratory Medicine | About | Faculty | Joseph Thomas Rabban III, MD, MPH</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="PLACE PAGE DESCRIPTION HERE">
+<meta name="keywords" content="PLACE LIST OF KEYWORDS HERE">
+<meta name="Copyright" content="Copyright (c) 2006 The Regents of the University of California">
+<meta name="author" content="The Regents of the University of California">
+<link rel="stylesheet" type="text/css" media="screen, projection, print" href="/css/screen.css?v20131029">
+<link rel="stylesheet" type="text/css" media="print" href="/css/print.css?v20131029">
+
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" media="screen, projection, print" href="/css/ie8.css" />
+<![endif]-->
+
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" media="screen, projection, print" href="/css/ie7.css" />
+<![endif]-->
+
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" media="screen, projection, print" href="/css/ie6.css" />
+<![endif]--><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+var hdFtArr = new Array();
+hdFtArr['about']='ab-index.html';
+hdFtArr['education']='ed-index.html';
+hdFtArr['research']='re-index.html';
+hdFtArr['clinical']='cl-index.html';
+hdFtArr['request']='rq-index.html';
+
+function generatePathArr(url) {
+	var pathArr = new Array();
+	url = url.replace(new RegExp("http://[pathology.]?ucsf[.edu]?"), "");
+	/*var hashmark = url.indexOf("#");
+	if (hashmark > -1) {
+		url = url.substring(0, hashmark);
+	}*/
+	pathArr = url.split('/');
+	return pathArr;
+}
+
+function getLeaf(url) { 
+	var tmpArr = generatePathArr(url);
+	return tmpArr[tmpArr.length-1]; 
+} 
+
+function getLastBranch(url) { 
+	var tmpArr = generatePathArr(url);
+	return tmpArr[tmpArr.length-2]; 
+} 
+
+function getFirstBranch(url) { 
+	var tmpArr = generatePathArr(url);
+	return tmpArr[1]; 
+} 
+
+function highlightCurrentMenuItem() { 
+	var currentLocation = getLeaf(document.location.pathname + document.location.hash); 
+	var elementArray = Array("hd", "snav", "ft");
+	for (i=0; i<elementArray.length; i++) {
+		var menu = document.getElementById(elementArray[i]); 
+		if (menu != null) {
+			links = menu.getElementsByTagName("a"); 
+			
+			for (j=0; j<links.length; j++) { 
+				var currentHref = links[j].getAttribute("href"); 
+				var currentLeafName = getLeaf(currentHref);
+				/* highlight if one of the following is true:
+					1. we are on the homepage - highlight index.html only
+					2. pagelink is current location 
+					3. we are in the header or footer -- highlight the tab (check for parent id starting with 'pnav' or 'fnav')
+					   (exception: when in the Faculty section, only highlight About links if viewing faculty-index.html)
+					4. we are in a subdirectory and looking at a page within it (exception: main tabs in hdFtArr)
+					5. we are looking at a faculty member -- need to highlight the Faculty Directory links
+                                        6. For Continuing Education always open up sub navs for Current, Future, and Past courses
+				*/
+				if ((currentLocation == '' && currentLeafName == 'index.html') ||
+	                (currentLocation != '' && currentLeafName==currentLocation) ||
+					(elementArray[i] != 'snav' && hdFtArr[getFirstBranch(document.location.pathname)] == currentLeafName && (links[j].parentNode.id.indexOf('pnav') > -1 || links[j].parentNode.parentNode.id.indexOf('fnav') > -1)
+						&& (getLastBranch(document.location.pathname) != 'faculty' || currentLocation == 'faculty-index.html')) ||
+					(elementArray[i] != 'snav' && getFirstBranch(document.location.pathname) != '' && getFirstBranch(document.location.pathname) == getFirstBranch(currentHref)
+  											   && ((elementArray[i] == 'ft' || elementArray[i] == 'hd') && hdFtArr[getFirstBranch(currentHref)]===undefined)) ||
+					(getLastBranch(document.location.pathname) == 'faculty' && currentLocation != 'faculty-index.html' && currentLeafName == 'directory.php') ||
+                                        (getLastBranch(document.location.pathname) == 'cme' && currentLeafName == 'cme-conferences.php?')
+					) {
+                                                if(currentLeafName != 'cme-conferences.php?') {
+                                                    links[j].className = "here";
+                                                }
+						// Handle snav classes for showing/hiding nav options
+						if (elementArray[i] == 'snav') {
+							var theParent = links[j].parentNode.parentNode.parentNode;
+							if (theParent.tagName == "DIV") {
+								links[j].parentNode.className = "sub";
+							} else {
+								theParent.className = "sub";
+								var grandparent = theParent.parentNode.parentNode;
+								if (grandparent.tagName == "LI") {
+									grandparent.className = "sub";
+								}
+								var greatgrand = grandparent.parentNode.parentNode;
+								if (greatgrand.tagName == "LI") {
+									greatgrand.className = "sub";
+								}
+							}
+							if (links[j].parentNode.getElementsByTagName("UL").length > 0) {
+								links[j].parentNode.className = "sub";
+							}
+						}
+ 		       	}
+			}
+		} 
+	}
+}
+
+// Dropdown menu IE fix.
+sfHover = function() {
+  var sfEls = document.getElementById("qnav").getElementsByTagName("LI");
+  for (var i=0; i<sfEls.length; i++) {
+    sfEls[i].onmouseover=function() {
+    this.className+=" sfhover";
+    }
+    sfEls[i].onmouseout=function() {
+    this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+    }
+  }
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+</script>
+
+</head>
+
+<body id="ab" class="layout-c" onload="highlightCurrentMenuItem()"><!-- NOTE: ID VALUE SETS SECTIONAL COLOR SCHEME AND CLASS VALUE SETS LAYOUT STYLE -->
+
+<!-- BEGIN DIV#PAGE -->
+<div id="page">
+
+<!-- BEGIN DIV#HD -->
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+<div id="hd">
+
+<div id="ucsfbrand">
+<img src="/img/logo-ucsf.gif" alt="UCSF Navigation Bar" usemap="#ucsf" width="625" height="30" border="0">
+</div>
+
+<div id="logo">
+<a href="/index.html" title="UCSF Departments of Pathology and Laboratory Medicine Home Page">UCSF Departments of Pathology &amp; Laboratory Medicine</a>
+</div>
+
+<!-- BEGIN UL#QNAV -->
+<ul id="qnav" class="clearfix">
+  <li class="first"><a title="UCSF Departments of Pathology and Laboratory Medicine | Faculty Directory" href="/directory.php" class="here">Faculty Directory</a></li>
+  <li class="labmanuals"><a title="UCSF Departments of Pathology and Laboratory Medicine | Lab Manuals" href="/labmanual/mftlng-mtzn/test/test-index.html">Lab Manuals</a>
+		<ul>
+			<li class="ucsf"><a href="/labmanual/mftlng-mtzn/test/test-index.html" title="UCSF Departments of Pathology and Laboratory Medicine | UCSF Laboratory Manual">UCSF Lab Manual »</a></li>  
+			<li class="sfgh"><a href="/sfghlab/index.html" title="UCSF Departments of Pathology and Laboratory Medicine | SFGH Laboratory Manual">SFGH Lab Manual »</a></li>
+		</ul>
+	</li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Resources" href="/resources/internal/index.php">Login</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Search Page" href="/search.html">Search</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Contact Us" href="/contact.html">Contact Us</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Contact Us" href="https://makeagift.ucsf.edu/site/SPageServer?pagename=A1_API_CustomGivingForm&amp;Primary=Department of Pathology">MAKE A GIFT</a></li>
+
+  <!--<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Keep in Touch" href="/kit.php">K.I.T.</a></li>-->
+</ul>
+<!-- END UL#QNAV -->
+
+<!-- BEGIN UL#PNAV -->
+<ul id="pnav" class="clearfix">
+  <li id="pnavab"><a href="/about/ab-index.html" title="UCSF Departments of Pathology and Laboratory Medicine | About Us">About Us</a>
+    <h6><a href="/about/ab-index.html" title="UCSF Departments of Pathology and Laboratory Medicine | About Us">About Us</a></h6>
+<ul>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Pathology" href="/about/pathology/pathology-index.html">Department of Pathology</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Pathology | Staff" href="/about/pathology/pathology-staff.html">Pathology Staff</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Pathology | Licenses and Accreditations" href="/licenses.html">Licenses and Accreditations</a></li>
+    </ul>
+  </li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Laboratory Medicine" href="/about/labmed/labmed-index.html">Department of Laboratory Medicine</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Laboratory Medicine | Staff" href="/about/labmed/labmed-staff.html">Laboratory Medicine Staff</a></li>
+    </ul>
+  </li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals" href="/about/hospitals/hospitals-index.html">Affiliated Hospitals</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals | Mission Bay" href="/about/hospitals/missionbay.html">Mission Bay</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals | Moffitt Long" href="/about/hospitals/moffitt-long.html">Moffitt-Long</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals | Mount Zion Medical Center" href="/about/hospitals/mt-zion.html">Mount Zion Medical Center</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals | San Francisco Veterans Affairs Medical Center" href="/about/hospitals/vamc.html">San Francisco Veterans Affairs Medical Center</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals | Zuckerberg San Francisco General" href="/about/hospitals/sfgeneral.html">Zuckerberg San Francisco General</a></li>
+    </ul>
+  </li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Faculty" href="/about/faculty/faculty-index.html">Faculty</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | News" href="/about/news/news-index.html">News</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | News Archive" href="/about/news/news-archive.html">News Archive</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | News Archive" href="/about/news/recent-honors-and-awards.html">Honors and Awards Archive</a></li>
+    </ul>
+  </li>
+</ul>
+  </li>
+  <li id="pnaved"><a title="UCSF Departments of Pathology and Laboratory Medicine | Education" href="/education/ed-index.html">Education</a>
+    <h6><a title="UCSF Departments of Pathology and Laboratory Medicine | Education" href="/education/ed-index.html">Education</a></h6>
+<ul>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs" href="/education/residency/residency-index.html">Residency Programs</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Application Information" href="/education/residency/residency-app.html">Application Information</a></li>
+      <li class="rotations"><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Rotations" href="/education/residency/rotations.html">Rotations</a>
+        <ul>
+          <li><a href="/education/residency/rotation-autopsy.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Autopsy Pathology Rotation">Autopsy Pathology</a></li>
+          <li><a href="/education/residency/rotation-cytopathology.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Cytopathology Rotation">Cytopathology</a></li>
+          <li><a href="/education/residency/rotation-dermato.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Dermatopathology Rotation">Dermatopathology</a></li>
+          <li><a href="/education/residency/rotation-neuro.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Neuropathology Rotation">Neuropathology</a></li>
+          <li><a href="/education/residency/rotation-surgical.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Surgical Pathology Rotation">Surgical Pathology</a></li>
+          <li><a href="/education/residency/rotation-forensic.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Forensic Pathology Rotation">Forensic Pathology</a></li>
+          <li><a href="/education/residency/rotation-chemistry.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Clinical Chemistry Rotation">Clinical Chemistry</a></li>
+          <li><a href="/education/residency/rotation-bone-marrow.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Bone Marrow Rotation">Bone Marrow</a></li>
+          <li><a href="/education/residency/rotation-elective.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Elective Rotation">Elective</a></li>
+          <li><a href="/education/residency/rotation-hematology.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Hematology Rotation">Hematology</a></li>
+          <li><a href="/education/residency/rotation-immunology.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Immunology Rotation">Immunology</a></li>
+          <li><a href="/education/residency/rotation-microbiology.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Microbiology Rotation">Microbiology</a></li>
+          <li><a href="/education/residency/rotation-molecular.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Molecular Rotation">Molecular</a></li>
+          <li><a href="/education/residency/rotation-transfusion.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Transfusion Medicine Rotation">Transfusion Medicine</a></li>
+          <li><a href="/education/residency/rotation-genentech.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Elective Rotation at Genentech">Elective Rotation at Genentech</a></li>
+        </ul>
+      </li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Hospital Sites" href="/education/residency/hospitals.html">Hospital Sites</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Salary &amp; Benefits" href="/education/residency/benefits.html">Salary &amp; Benefits</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | UCSF Pathology &amp; Lab Medicine Physician-Scientist Pathway" href="/education/residency/residency-physician-scientist-pathway.html">UCSF Pathology &amp; Lab Medicine Physician-Scientist Pathway</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Research Opportunities" href="/education/residency/research.html">Research Opportunities</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Current Residents" href="/education/residency/residents.html">Current Residents</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources" href="/education/residency/resources.html">Selected Residency Resources</a>  
+        <ul>
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences" href="/education/residency/resources-cp-core.html">CP Core Lecture Series and Teaching Conferences</a>  
+            <ul>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | Transfusion Medicine Core" href="/education/residency/cp-core-bb.html">Transfusion Medicine Core Curriculum</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | Transfusion Medicine Journal Club" href="/education/residency/cp-conf-bb_journal_club.html">Transfusion Medicine Journal Club</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | Hematology Core" href="/education/residency/cp-core-heme.html">Hematology</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | Laboratory Management Core" href="/education/residency/cp-core-management.html">Laboratory Management</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | Cytogenetics Core" href="/education/residency/cp-core-cytogenetics.html">Cytogenetics</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | Microbiology Core" href="/education/residency/cp-core-micro.html">Microbiology</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | Clinical Chemistry Core" href="/education/residency/cp-core-chemistry.html">Clinical Chemistry</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | Molecular Diagnostics and Clinical Epidemiology Core" href="/education/residency/cp-core-mdx_clinepi.html">Molecular Diagnostics and Clinical Epidemiology</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | Immunology" href="/education/residency/cp-core-immunology.html">Immunology</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | Informatics" href="/education/residency/cp-core-informatics.html">Informatics</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | UCSF Conference Schedule" href="/education/residency/cp-conf-ucsf.html">UCSF Conference Schedule</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | ZSFG Conference Schedule" href="/education/residency/cp-conf-sfgh.html">ZSFG Conference Schedule</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | SFVA Conference Schedule" href="/education/residency/cp-conf-sfva.html">SFVA Conference Schedule</a></li>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs | Selected Residency Resources | CP Core Lecture Series and Teaching Conferences | Lymph Node Lecture Series" href="/education/fellowship/cp-fell-lymphoma_lectures.html">Lymph Node Lecture Series</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+	</ul>
+  </li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs" href="/education/fellowship/fellowship-index.html">Fellowship Programs</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Application Information" href="/education/fellowship/fellowship-app.html">Application Information</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Fellowships" href="/education/fellowship/fellowship-index.html">Fellowships</a>
+        <ul>
+          <li><a href="/education/fellowship/abmg/index.html">ABMG Laboratory Fellowship Program</a>
+            <ul>
+              <li><a href="/education/fellowship/abmg/app-cycle.html">Application Cycle</a></li>
+              <li><a href="/education/fellowship/abmg/clin-biochem.html">Clinical Biochemical</a></li>
+              <li><a href="/education/fellowship/abmg/clin-cyto.html">Clinical Cytogenetics</a></li>
+              <li><a href="/education/fellowship/abmg/clin-molec.html">Clinical Molecular</a></li>
+              <li><a href="/education/fellowship/abmg/pg-stat.html">Program Statistics</a></li>
+              <li><a href="/education/fellowship/abmg/intl-trainees.html">International Trainees</a></li>
+              <li><a href="/education/fellowship/abmg/funding.html">Funding</a></li>
+              <li><a href="/education/fellowship/abmg/research.html">Research</a></li>
+              <li><a href="/education/fellowship/abmg/faculty.html">Faculty</a></li>
+              <li><a href="/education/fellowship/abmg/faqs.html">FAQs</a></li>
+              <li><a href="/education/fellowship/abmg/contact-us.html">Contact Us</a></li>
+            </ul>
+          </li>
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Clinical Chemistry Fellowship" href="/education/fellowship/fs-chemistry.html">Clinical Chemistry</a></li>
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Cytology Fellowship" href="/education/fellowship/fs-cytology.html">Cytopathology</a></li>
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Dermatopathology Fellowship" href="/education/fellowship/fs-dermato.html">Dermatopathology</a></li>
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Dermatopathology Visiting Fellowship" href="/education/fellowship/fs-dermato-vis.html">Dermatopathology Visiting</a></li>
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Liver and Gastrointestinal Pathology Fellowship" href="/education/fellowship/fs-liver-gi.html">Gastrointestinal &amp; Hepatobiliary Pathology</a>  
+            <ul>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Liver and Gastrointestinal Pathology Fellowship | Past GI/Liver Group Photos" href="/education/fellowship/fs-liver-gi-group-photos.html">Gastrointestinal &amp; Hepatobiliary Pathology Photos &amp; Abstracts</a></li>
+            </ul>
+          </li>
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Surgical Pathology Fellowship" href="/education/fellowship/fs-surgical.html">General Surgical Pathology</a></li>
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Gynecologic Pathology Fellowship" href="/education/fellowship/fs-gyn.html">Gynecologic Pathology</a></li>
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Hematopathology Fellowship" href="/education/fellowship/fs-hemato.html">Hematopathology</a></li>
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Molecular Genetic Pathology Fellowship" href="/education/fellowship/fs-genetic.html">Molecular Genetic Pathology</a></li>
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Neuropathology Fellowship" href="/education/fellowship/fs-neuro.html">Neuropathology</a>
+			  <ul>
+              <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Neuropathology Fellowship | Neuropathology Trainee AANP Awards" href="/education/fellowship/fs-neuro-trainee-awards.html">Neuropathology Trainee AANP Awards</a></li>
+              </ul>    
+              </li>    
+          <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Transfusion Medicine/Blood Banking Fellowship" href="/education/fellowship/fs-transfusion.html">Transfusion Medicine</a></li>
+          <!-- <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Urologic Pathology Fellowship" href="/education/fellowship/fs-urologic.html">Urologic Pathology Fellowship</a></li> -->
+          <!-- <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Transplant Pathology Fellowship" href="/education/fellowship/fs-transplant.html">Transplant Pathology</a></li> -->
+          <!-- <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Other Training | Post-Sophomore Fellowship Training" href="/education/other/post-sophomore.html">Post-Sophomore (Medical Students)</a></li> -->
+        </ul>
+      </li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs | Current Fellows" href="/education/fellowship/fellows.html">Current Fellows</a></li>
+    </ul>
+  </li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Laboratory Medicine Grand Rounds" href="/education/labmed-grand.html">Laboratory Medicine Grand Rounds</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Clinical Lab Scientist Training" href="/education/specialty/specialty-index.html">Clinical Lab Scientist Training</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Other Training" href="/education/other/other-index.html">Other Training</a>
+    <ul>
+      <li class="electives"><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Other Training | Medical Student Electives" href="/education/other/electives.html">Medical Student Electives</a>
+        <ul>
+          <li><a href="/education/other/electives-lm-hematology.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Other Training | Hematology">Hematology</a></li>
+          <li><a href="/education/other/electives-lm-sfghgeneral.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Other Training | Principles of Lab Med">Principles of Lab Med</a>
+			<ul>
+				<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Educational Resources | Morphology of Medically Important Fungi" href="/education/residency/fung_morph/launchpage.html">Morphology of Medically Important Fungi</a></li>
+				<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Educational Resources | SFGH Microbiology Image Archive" href="/education/residency/sfgh_micro_img/index-sfgh-micro.html">ZSFG Microbiology Image Archive</a></li>
+			</ul>
+		  </li>
+          <li><a href="/education/other/electives-lm-sfghmicro.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Other Training | Microbiology">Microbiology</a></li>
+          <li><a href="/education/other/electives-path-mlpathology.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Other Training | Surgical &amp; Autopsy Pathology">Surgical &amp; Autopsy Pathology</a></li>
+          <li><a href="/education/other/electives-path-offcampus.html" title="UCSF Departments of Pathology and Laboratory Medicine | Education | Other Training | Off-Campus Clinical Clerkship">Off-Campus Clinical Clerkship</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li><li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Educational Resources" href="/education/educational/educational-index.html">Educational Resources</a>
+      <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Educational Resources | UCSF Microbiology Teaching Image Archive" href="http://labmedx.ucsfmedicalcenter.org/labmanual/clinlab/micro_images/" target="_blank">UCSF Microbiology Teaching Image Archive</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Educational Resources | Morphology of Medically Important Fungi" href="/education/residency/fung_morph/launchpage.html">Morphology of Medically Important Fungi</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Educational Resources | SFGH Microbiology Image Archive" href="/education/residency/sfgh_micro_img/index-sfgh-micro.html">ZSFG Microbiology Image Archive</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Educational Resources | Lab Medicine Resident Critical Reviews " href="critical_reviews.html">Lab Medicine Resident Critical Reviews</a></li>
+    </ul>
+  </li>
+</ul>
+  </li>
+  <li id="pnavcme"><a title="UCSF Departments of Pathology and Laboratory Medicine | Continuing Medical Education (CME)" href="/cme/cme-content.php">Continuing Education</a>	</li>
+  <li id="pnavre"><a title="UCSF Departments of Pathology and Laboratory Medicine | Research" href="/research/re-index.html">Research</a>
+		<h6><a title="UCSF Departments of Pathology and Laboratory Medicine | Research" href="/research/re-index.html">Research</a></h6>
+<ul>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research" href="/research/re-index.html">Research Programs</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research | Research Programs | Pathology Research Programs" href="/research/programs/pathology.html">Pathology Research Programs</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research | Research Programs | Laboratory Medicine Research Programs" href="/research/programs/labmed.html">Laboratory Medicine Research Programs</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research | Research Programs | Research Programs at the University" href="/research/programs/university.html">At the University</a></li>
+    </ul>
+  </li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research | UCSF Biological Imaging Development Center (BIDC)" href="http://labmed.ucsf.edu/research/bidc/bidc-index.html">UCSF Biological Imaging Development Center (BIDC)</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research | UCSF Viral Diagnostics and Discovery Center (VDDC)" href="http://labmed.ucsf.edu/research/viraldx/viraldx-index.html">UCSF Viral Diagnostics and Discovery Center (VDDC)</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research  |Guide for Researchers" href="/research/guide/guide-index.html">Guide for Researchers</a></li>
+</ul>
+	</li>
+  <li id="pnavcl"><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services" href="/clinical/cl-index.html">Clinical Services</a>
+		<h6><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services" href="/clinical/cl-index.html">Clinical Services</a></h6>
+<ul>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Anatomic Pathology" href="/clinical/anatomic-services.html">Anatomic Pathology</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Autopsy" href="/clinical/autopsy/autopsy-index.html">Autopsy</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Cytopathology" href="/clinical/cyto/cyto-index.html">Cytopathology</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Dermatopathology" href="/clinical/derm/derm-index.html">Dermatopathology</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Genomic Medicine Initiative" href="https://gmi.ucsf.edu/">Genomic Medicine Initiative</a></li>
+      <li class="heme"><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Hematology &amp; Hematopathology" href="/clinical/heme/heme-index.html#t">Hematology &amp; Hematopathology</a>
+        <ul>
+          <li><a href="/clinical/heme/gen-index.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Hematology &amp; Hematopathology | General Hematology">General Hematology</a></li>
+          <li><a href="/clinical/heme/bone-index.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Hematology &amp; Hematopathology | Bone Marrow"> Bone Marrow</a></li>
+          <li><a href="/clinical/heme/coag-index.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Hematology &amp; Hematopathology | Coagulation">Coagulation</a></li>
+        </ul>
+      </li>
+      <li class="mct"><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing" href="/clinical/mct/mct-index.html#t">Molecular and Cytogenetic Testing</a>
+        <ul>
+          <li><a href="/clinical/mct/mct-info.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing | Specimen &amp; Contact Information">Specimen &amp; Contact Information</a></li>
+          <li><a href="/clinical/mct/inherited/inherited-index.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing | Inherited">Inherited</a>
+            <ul>
+              <li><a href="/clinical/mct/inherited/biochemical.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Biochemical Disorders">Biochemical Disorders</a></li>
+              <li><a href="/clinical/mct/inherited/hearing.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Hearing Disorders">Hearing Disorders</a></li>
+              <li><a href="/clinical/mct/inherited/hematological.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Hematological Disorders: Hemoglobinopathies and Thalassemias Services">Hematological Disorders: Hemoglobinopathies and Thalassemias Services</a></li>
+              <li><a href="/clinical/mct/inherited/hemophilia.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Hematological Disorders: Hemophilia A and Venous Thrombosis Services">Hematological Disorders: Hemophilia A and Venous Thrombosis Services</a></li>
+              <li><a href="/clinical/mct/inherited/imprinting.html#t" title="CSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Imprinting Disorders">Imprinting Disorders</a></li>
+              <li><a href="/clinical/mct/inherited/neurological.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Neurological Disorders">Neurological Disorders</a></li>
+              <li><a href="/clinical/mct/inherited/cytogenetics.html#t" title="CSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Classic Cytogenetics">Classic Cytogenetics</a></li>
+            </ul>
+          </li>
+          <li><a href="/clinical/mct/cancer/cancer-index.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing | Cancer">Cancer</a></li>
+          <li><a href="/clinical/mct/infectious/infectious-index.html#t" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing | Infectious">Infectious</a></li>
+          <li><a href="/clinical/mct/pharmaco/pharmaco-index.html#t" title="CSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing | Pharmacogenomics">Pharmacogenomics</a></li>
+        </ul>
+      </li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Neuropathology" href="/clinical/neuro/neuro-index.html">Neuropathology</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Oral Pathology" href="/clinical/oral/oral-index.html">Oral Pathology</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Renal Pathology/Electron Microscopy" href="/clinical/renal/renal-index.html">Renal Pathology &amp; Electron Microscopy</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Surgical Pathology" href="/clinical/surg/surg-index.html">Surgical Pathology</a></li>
+    </ul>
+  </li>
+  
+  <li class="botMenu"><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | GI-Hepatobiliary Consultation Service" href="http://pathology.ucsf.edu/gi-hepatobiliary/index.html">GI-Hepatobiliary Consultation Service</a></li>
+
+  <li class="botMenu"><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Clinical Laboratories" href="/clinical/clinical-services.html">Clinical Laboratories</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Cellular Therapy: BMT Laboratory" href="/clinical/cellular/cellular-index.html">Cellular Therapy: BMT Laboratory</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Cellular Therapy: Pediatric Laboratory" href="/clinical/pct/pct-index.html">Cellular Therapy: Pediatric Laboratory</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Chemistry" href="/clinical/chem/chem-index.html">Chemistry</a></li>
+      <li class="heme"><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Hematology &amp; Hematopathology" href="/clinical/heme/heme-index.html#b">Hematology &amp; Hematopathology</a>
+        <ul>
+          <li><a href="/clinical/heme/gen-index.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Hematology &amp; Hematopathology | General Hematology">General Hematology</a></li>
+          <li><a href="/clinical/heme/bone-index.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Hematology &amp; Hematopathology | Bone Marrow"> Bone Marrow</a></li>
+          <li><a href="/clinical/heme/coag-index.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Hematology &amp; Hematopathology | Coagulation">Coagulation</a></li>
+        </ul>
+      </li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Immunology" href="/clinical/immuno/immuno-index.html">Immunology</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Microbiology" href="/clinical/microbio/microbio-index.html">Microbiology</a></li>
+      <li class="mct"><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing" href="/clinical/mct/mct-index.html#b">Molecular and Cytogenetic Testing</a>
+        <ul>
+          <li><a href="/clinical/mct/mct-info.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing | Specimen &amp; Contact Information">Specimen &amp; Contact Information</a></li>
+          <li><a href="/clinical/mct/inherited/inherited-index.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing | Inherited">Inherited</a>
+            <ul>
+              <li><a href="/clinical/mct/inherited/biochemical.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Biochemical Disorders">Biochemical Disorders</a></li>
+              <li><a href="/clinical/mct/inherited/hearing.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Hearing Disorders">Hearing Disorders</a></li>
+              <li><a href="/clinical/mct/inherited/hematological.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Hematological Disorders: Hemoglobinopathies and Thalassemias Services">Hematological Disorders: Hemoglobinopathies and Thalassemias Services</a></li>
+              <li><a href="/clinical/mct/inherited/hemophilia.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Hematological Disorders: Hemophilia A and Venous Thrombosis Services">Hematological Disorders: Hemophilia A and Venous Thrombosis Services</a></li>
+              <li><a href="/clinical/mct/inherited/imprinting.html#b" title="CSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Imprinting Disorders">Imprinting Disorders</a></li>
+              <li><a href="/clinical/mct/inherited/neurological.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Neurological Disorders">Neurological Disorders</a></li>
+              <li><a href="/clinical/mct/inherited/cytogenetics.html#b" title="CSF Departments of Pathology and Laboratory Medicine | Clinical Services | Inherited | Classic Cytogenetics">Classic Cytogenetics</a></li>
+            </ul>
+          </li>
+          <li><a href="/clinical/mct/cancer/cancer-index.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing | Cancer">Cancer</a></li>
+          <li><a href="/clinical/mct/infectious/infectious-index.html#b" title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing | Infectious">Infectious</a></li>
+          <li><a href="/clinical/mct/pharmaco/pharmaco-index.html#b" title="CSF Departments of Pathology and Laboratory Medicine | Clinical Services | Molecular and Cytogenetic Testing | Pharmacogenomics">Pharmacogenomics</a></li>
+        </ul>
+      </li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Transfusion Medicine/Blood Banking" href="/clinical/trans/trans-index.html">Transfusion Medicine &amp; Blood Banking</a></li>
+    </ul>
+  </li>
+</ul>
+	</li>
+  <li id="pnavrq"><a title="UCSF Departments of Pathology and Laboratory Medicine | Request Services" href="/request/rq-index.html">Request Services</a></li>
+</ul>
+<!-- END UL#PNAV -->
+
+
+<!-- BEGIN LAB MANUAL TITLES -->
+<h3><a href="/index.html" class="em" title="UCSF Departments of Pathology and Laboratory Medicine">UCSF Departments of Pathology &amp; Laboratory Medicine Home Page</a></h3>
+<h1 class="lm">Lab Manual for UCSF Clinical Laboratories</h1>
+<h1 class="ls"><a title="UCSF Departments of Pathology and Laboratory Medicine | SFGH Lab Manual" href="/sfghlab">Lab Manual for SFGH</a></h1>
+<h1 class="rs">Internal Resources</h1>
+<!-- END LAB MANUAL TITLES -->
+
+</div>
+
+
+<!-- END DIV#HD -->
+
+<!-- BEGIN DIV#MAIN  -->
+<div id="main" class="clearfix">
+
+<!-- BEGIN DIV#SNAV -->
+<div id="snav">
+<h6><a href="/about/ab-index.html" title="UCSF Departments of Pathology and Laboratory Medicine | About Us">About Us</a></h6>
+<ul>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Pathology" href="/about/pathology/pathology-index.html">Department of Pathology</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Pathology | Staff" href="/about/pathology/pathology-staff.html">Pathology Staff</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Pathology | Licenses and Accreditations" href="/licenses.html">Licenses and Accreditations</a></li>
+    </ul>
+  </li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Laboratory Medicine" href="/about/labmed/labmed-index.html">Department of Laboratory Medicine</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Laboratory Medicine | Staff" href="/about/labmed/labmed-staff.html">Laboratory Medicine Staff</a></li>
+    </ul>
+  </li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals" href="/about/hospitals/hospitals-index.html">Affiliated Hospitals</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals | Mission Bay" href="/about/hospitals/missionbay.html">Mission Bay</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals | Moffitt Long" href="/about/hospitals/moffitt-long.html">Moffitt-Long</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals | Mount Zion Medical Center" href="/about/hospitals/mt-zion.html">Mount Zion Medical Center</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals | San Francisco Veterans Affairs Medical Center" href="/about/hospitals/vamc.html">San Francisco Veterans Affairs Medical Center</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals | Zuckerberg San Francisco General" href="/about/hospitals/sfgeneral.html">Zuckerberg San Francisco General</a></li>
+    </ul>
+  </li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Faculty" href="/about/faculty/faculty-index.html">Faculty</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | News" href="/about/news/news-index.html">News</a>
+    <ul>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | News Archive" href="/about/news/news-archive.html">News Archive</a></li>
+      <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | News Archive" href="/about/news/recent-honors-and-awards.html">Honors and Awards Archive</a></li>
+    </ul>
+  </li>
+</ul>
+</div>
+<!-- END DIV#SNAV -->
+
+<h1>Joseph Thomas Rabban III,  MD, MPH</h1>
+
+<!-- BEGIN DIV#SCON -->
+<div id="scon">
+<h2>Research and Clinical Interests</h2>
+<p>My primary clinical specialty is diagnostic gynecologic surgical pathology, encompassing biopsies and surgical resections of both benign and malignant diseases of the ovary, fallopian tubes, uterus, peritoneum, vagina, vulva, as well as gestational trophoblastic disease.  My main patient population consists of women who are seeking care at the UCSF Gynecologic Oncology division, OB/Gyn division, and Center for Reproductive Health.  As a member of the UCSF Multidisciplinary Gynecologic Oncology Tumor Board, I work closely with surgeons, oncologists, and radiation oncologists to provide multidisciplinary recommendations for patient care.  As a member of the UCSF Cancer Risk Program, I work closely with genetic counselors and gynecologic oncologists to provide multidisciplinary recommendations for assessing risk for hereditary basis of disease in women with gynecologic pathology.  In addition I provide diagnostic consultation services to pathologists at institutions other than UCSF who request a second opinion on a gynecologic surgical pathology specimen.  My secondary clinical specialty is diagnostic breast surgical pathology.</p>
+<p>My clinical  research focuses on differential diagnostic criteria and tumor classification  in gynecologic disease,as well as pathologic phenotype-genotype  correlation of inherited gynecologic cancers, particularly those associated  with BRCA and Lynch syndromes.</p>
+<p>My teaching  emphasis is diagnostic gynecologic surgical pathology at the level of  continuing medical education for practicing pathologists at national and  international courses. </p>
+<p>I direct the UCSF  Fellowship in Gynecologic Surgical Pathology. </p>
+<h2>Selected Publications</h2>
+<ul>
+  <li><strong>Rabban JT</strong>, Garg K, Crawford B, Chen LM, Zaloudek CJ. Early Detection of High Grade Tubal Serous Carcinoma in Women at Low Risk for Hereditary Breast and Ovarian Cancer Syndrome By Systematic Examination of Fallopian Tubes Incidentally Removed During Benign Surgery. Am J Surg Pathol 2014; 38: 729-742</li>
+  <li><strong>Rabban JT</strong>, Vohra P, Zaloudek CJ. Non-Gynecologic Metastases to Fallopian Tube Mucosa: A Potential Mimic of Tubal High Grade Serous Carcinoma and Benign Tubal Mucinous Metaplasia or Non-mucinous Hyperplasia.  Am J Surg Pathol.  2015; 39: 35-51</li>
+  <li><strong>Rabban JT</strong>, Firetag B, Sangoi AR, Post MD, Zaloudek CJ. Incidental Pelvic and Para-aortic Lymph Node Lymphangioleiomyomatosis Detected During Surgical Staging of Pelvic Cancer in Women Without Symptomatic Pulmonary Lymphangioleiomyomatosis or Tuberous Sclerosis Complex. Am J Surg Pathol. 2015 Aug; 39(8):1015-25
+  </li><li><strong>Rabban JT</strong>, Calkins SM, Karnezis AN, Grenert JP, Blanco A, Crawford B, Chen LM. Association of Tumor Morphology With Mismatch-repair Protein Status in Older Endometrial Cancer Patients: Implications for Universal Versus Selective Screening Strategies for Lynch Syndrome. Am J Surg Pathol. 2014; 38: 793-800</li>
+
+</ul>
+<h2>Additional Information</h2>
+<ul class="nb">
+  <li><a title="Detailed CV: Joseph Thomas Rabban III, MD, MPH" href="/dnld/faculty-path-jrabban-CV.pdf" target="_blank" class="pdf">Detailed CV</a></li>
+</ul>
+</div>
+<!-- END DIV#SCON -->
+
+<!-- BEGIN DIV#PCON -->
+<div id="pcon">
+
+<div class="rt">
+<img src="/img/fac-path-jrabban.jpg" alt="Joseph Thomas Rabban III, MD, MPH" width="90" height="117">
+</div>
+
+<ul class="nb">
+  <li><em>Professor of Pathology</em></li>
+  <li><em>Director, Gynecologic Pathology Fellowship</em></li>
+  <li><strong>Anatomic Pathology</strong></li>
+  <li>Surgical Pathology</li>
+</ul>
+<h2>Specialty Area</h2>
+<p>Gynecologic Pathology and Breast Pathology</p>
+<h2>Contact Information</h2>
+<ul class="nb">
+<li>
+See <a href="https://directory.ucsf.edu/" target="_blank">UCSF Directory</a>
+</li>
+</ul>
+<h4>Mailing/Shipping Address:</h4>
+<ul class="nb">
+  <li>UCSF</li>
+  <li>Joseph Rabban, MD, MPH</li>
+  <li>Pathology, Box 4066</li>
+  <li>1825 4th Street, Room M2359</li>
+  <li>San Francisco, CA 94143</li>
+</ul>
+<h2>Other UCSF Organizational Association(s)</h2>
+<h4>Member</h4>
+<ul>
+  <li>UCSF Comprehensive Cancer Center</li>
+</ul>
+<h2>Hospital Affiliation(s)</h2>
+<ul class="nb">
+  <li>UCSF Mission Bay campus hospitals</li>
+  <li>UCSF Moffit-Long hospitals</li>
+  <li>UCSF Mt Zion hospital</li>
+</ul>
+</div>
+<!-- END DIV#PCON -->
+
+</div>
+<!-- END DIV#MAIN -->
+
+<!-- BEGIN DIV#FT -->
+<div id="ft" class="clearfix">
+<ul>
+  <li><a href="/about/ab-index.html" title="UCSF Departments of Pathology and Laboratory Medicine | About Us"><strong>About Us</strong></a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Pathology" href="/about/pathology/pathology-index.html">Department of Pathology</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Department of Laboratory Medicine" href="/about/labmed/labmed-index.html">Department of Laboratory Medicine</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Affiliated Hospitals" href="/about/hospitals/hospitals-index.html">Affiliated Hospitals</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | Faculty" href="/about/faculty/faculty-index.html">Faculty</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | About Us | News" href="/about/news/news-index.html">News</a></li>
+</ul>
+<ul>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education" href="/education/ed-index.html"><strong>Education</strong></a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Residency Programs" href="/education/residency/residency-index.html">Residency Programs</a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Fellowship Programs" href="/education/fellowship/fellowship-index.html">Fellowship Programs</a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Laboratory Medicine Grand Rounds" href="/education/labmed-grand.html">Laboratory Medicine Grand Rounds</a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Clinical Lab Scientist Training" href="/education/specialty/specialty-index.html">Clinical Lab Scientist (CLS) Training</a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Other Training" href="/education/other/other-index.html">Other Training</a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Education | Educational Resources" href="/education/educational/educational-index.html">Educational Resources</a></li>
+</ul>
+<ul>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Continuing Education" href="/cme/continuing-index.html"><strong>Continuing Education</strong></a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Continuing Medical Education | Continuing Medical Education Courses | Current Courses" href="/cme/cme-conferences.php">Current Courses</a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Continuing Medical Education | Continuing Medical Education Courses | Future Courses" href="/cme/cme-future-courses.html">Future Courses</a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Continuing Medical Education | Continuing Medical Education Courses | Past Courses" href="/cme/cme-past-conferences.php">Past Courses</a></li>
+</ul>
+<ul>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research" href="/research/re-index.html"><strong>Research</strong></a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research" href="/research/re-index.html">Research Programs</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research | Research Morphology Core Facility" href="/research/facilities/facilities-index.html">Research Morphology Core Facility</a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research |UCSF Viral Diagnostics and Discovery Center (VDDC)" href="/research/viraldx/viraldx-index.html" target="_blank">UCSF Viral Diagnostics and Discovery Center (VDDC)</a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Research |Guide for Researchers" href="/research/guide/guide-index.html">Guide for Researchers</a></li>
+</ul>
+<ul>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services" href="/clinical/cl-index.html"><strong>Clinical Services</strong></a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Anatomic Pathology" href="/clinical/anatomic-services.html">Anatomic Pathology</a></li>
+	<li><a title="UCSF Departments of Pathology and Laboratory Medicine | Clinical Services | Clinical Laboratories" href="/clinical/clinical-services.html">Clinical Laboratories</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Request Services" href="/request/rq-index.html"><strong>Request Services</strong></a></li>
+  <li>Dept of Pathology<br>415.353.7360</li>
+  <li>Dept of Lab Medicine<br>415.353.1667 (opt. 3)</li>
+</ul>
+<ul>
+  <li><strong>Frequently Downloaded</strong></li>
+	<li><a class="pdf" title="Programs Table of Contents Document" href="/dnld/ed-cls-toc.pdf" target="_blank">Programs Table of Contents</a></li>
+	<li><a class="doc" title="Resume Supplement and Background Authorization Application" href="/dnld/ed-cls-resume-background-app.doc" target="_blank">Resume Supplement and Background Authorization Application</a></li>
+	<li><a class="pdf" title="Training Programs Application" href="/dnld/ed-cls-training.pdf" target="_blank">Training Programs Application</a></li>
+</ul>
+<!-- END UL#FNAV -->
+
+</div>
+
+<div id="copyright" class="clearfix">
+<ul>
+  <li class="first"><a title="UCSF Departments of Pathology and Laboratory Medicine | Faculty Directory" href="/directory.php">Faculty Directory</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Contact Us" href="/contact.html">Contact Us</a></li>
+  <li><a title="UCSF Departments of Pathology and Laboratory Medicine | Site Map" href="/sitemap.html">Site Map</a></li>
+  <li><a title="path.webmaster@ucsf.edu" href="mailto:path.webmaster@ucsf.edu">Web Master</a></li>
+</ul>
+<p>The University of California, San Francisco, CA 94143<br>
+©1998-2016 The Regents of the University of California. All rights reserved.</p>
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74448088-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- END DIV#FT -->
+
+</div>
+<!-- END DIV#PAGE -->
+
+<map name="ucsf">
+<area shape="rect" alt="UCSF home page" coords="37,1,87,29" href="http://www.ucsf.edu/">
+<area shape="rect" alt="UCSF home page" coords="91,9,290,22" href="http://www.ucsf.edu/">
+<area shape="rect" alt="About UCSF" coords="304,9,370,22" href="http://www.ucsf.edu/about/">
+<area shape="rect" alt="Search UCSF" coords="385,9,456,22" href="http://www.ucsf.edu/search/">
+<area shape="rect" alt="UCSF Medical Center" coords="472,9,587,22" href="http://www.ucsfhealth.org/">
+</map>
+
+
+</body></html>

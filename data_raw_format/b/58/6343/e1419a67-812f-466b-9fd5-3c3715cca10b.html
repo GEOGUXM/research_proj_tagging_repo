@@ -1,0 +1,208 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/faculty.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="doctitle" --><title>Martin "Mac" Cheever, MD - Faculty - Division of Medical Oncology - University of Washington</title><!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../scripts/scripts.js"></script>
+<script type="text/javascript" src="../scripts/jquery.js"></script>
+<script type="text/javascript">
+      (function ($) {
+        $.fn.fadeTransition = function(options) {
+          var options = $.extend({pauseTime: 4000, transitionTime: 2000}, options);
+          var transitionObject;
+
+          Trans = function(obj) {
+            var timer = null;
+            var current = 0;
+            var els = $("> *", obj).css("display", "none").css("left", "0").css("top", "0").css("position", "absolute");
+            $(obj).css("position", "relative");
+            $(els[current]).css("display", "block");
+
+            function transition(next) {
+              $(els[current]).fadeOut(options.transitionTime);
+              $(els[next]).fadeIn(options.transitionTime);
+              current = next;
+              cue();
+            };
+
+            function cue() {
+              if ($("> *", obj).length < 2) return false;
+              if (timer) clearTimeout(timer);
+              timer = setTimeout(function() { transition((current + 1) % els.length | 0)} , options.pauseTime);
+            };
+            
+            this.showItem = function(item) {
+              if (timer) clearTimeout(timer);
+              transition(item);
+            };
+
+            cue();
+          }
+
+          this.showItem = function(item) {
+            transitionObject.showItem(item);
+          };
+
+          return this.each(function() {
+            transitionObject = new Trans(this);
+          });
+        }
+
+      })(jQuery);
+    
+      var page = {
+        tr: null,
+        init: function() {
+          page.tr = $(".area").fadeTransition({pauseTime: 4000, transitionTime: 2000});
+          $("img.navigation").each(function() {
+            $(this).children().each( function(idx) {
+              if ($(this).is("a"))
+                $(this).click(function() { page.tr.showItem(idx); return false; })
+            });
+          });
+        },
+
+        show: function(idx) {
+          if (page.tr.timer) clearTimeout(page.tr.timer);
+          page.tr.showItem(idx);
+        }
+      };
+
+      $(document).ready(page.init);    
+    </script>
+</head>
+<body id="internal" class="noleftnav faculty">
+<a name="top" id="top"></a>
+<div id="container">
+  <div id="banner">
+    <!--fading slideshow-->
+    <div class="area" style="position: relative;"> <img class="navigation" src="../images/banner/img4.jpg" alt="" style="display: block; left: 0px; top: 0px; position: absolute;"> <img class="navigation" src="../images/banner/img1-b.jpg" alt="" style="display: none; left: 0px; top: 0px; position: absolute;"> <img class="navigation" src="../images/banner/img3-b.jpg" alt="" style="display: none; left: 0px; top: 0px; position: absolute;"> <img class="navigation" src="../images/banner/img2-b.jpg" alt="" style="display: none; left: 0px; top: 0px; position: absolute;"> </div>
+    <div id="uwlinks">
+      <ul>
+        <li><a href="http://uwmedicine.washington.edu/Education/Pages/default.aspx" rel="external">School of Medicine<em></em></a> |</li>
+        <li><a href="http://www.fhcrc.org/" rel="external">Fred Hutchinson Cancer Research Center<em></em></a></li>
+      </ul>
+      <ul id="scca_c">
+        <li><a href="https://www.seattlecca.org" rel="external">Seattle Cancer Care Alliance <em></em></a></li>
+        |
+        <li><a href="http://www.cancerconsortium.org/" rel="external">Consortium<em></em></a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="topnav">
+    <ul>
+      <li><a href="../index.html">Home</a></li>
+      <li id="fac"><a href="index.html">Faculty</a></li>
+      <li id="ptc"><a href="../patient.html">Patient Care</a></li>
+      <li id="rsch"><a href="../research.html">Research</a></li>
+      <li id="fello"><a href="../fellowship/index.html">Fellowships</a></li>
+      <li id="admin"><a href="../admin.html">Administration</a></li>
+      <li><a href="http://depts.washington.edu/givemed/give/?page=make&amp;source=canmed,medonc,bresup,lungon,kidnca,womcli,breonc,onccom,yoderg,becker,oncdis,gralow,robine,medchi,sarcom,jgbrcn,pressc,capcan,bconco,oncliv,funbcr,inflam,chpcri,gicanr,advcan,ndbcfd,whitin,swimpc,tumcel,living,myelom,oncpro,mononc,antbio,feferd,oncres,trateg,honegg,careon,breasc,nekrcc,medpil,onclhn,youngi,moesup,melren,exopha,oncogi,ispyme,sarpro,gilman,oncogu,onccli,prtcan,sbk120,safden,safinn,oncgir,pcfonc,globcf,safbon,oncche,globre,dwrighm,jdblec,ryanen" rel="external" class="noborder">Make  a Gift <em></em></a></li>
+    </ul>
+  </div>
+  <div id="content">
+    <div id="bodytext"> <a name="top" id="top"></a>
+      <h1 id="section">Faculty</h1>
+      <!-- InstanceBeginEditable name="photo" -->
+      <p><img class="faculty" src="../images/faculty/cheever_final.jpg" alt="Martin Cheever, MD" width="130" height="150"></p>
+      <!-- InstanceEndEditable -->
+      <h2> <!-- InstanceBeginEditable name="Faculty Name" -->Martin "Mac" Cheever, MD<!-- InstanceEndEditable --></h2>
+      <!-- InstanceBeginEditable name="title" -->
+      <p>Principal Investigator, Cancer Immunotherapy Trials Network <br>
+        Member, Fred Hutchinson Cancer Research Center<br>
+        Professor of Medicine/Oncology, University of Washington</p>  <br style="line-height: 40px;">
+      <!-- InstanceEndEditable -->
+      <br><br><h3>Mailing Address</h3>
+      <!-- InstanceBeginEditable name="contact" -->
+      <p>Cancer Immunotherapy Trial Network<br>
+1100 Eastlake Avenue N, E3-300<br>
+Seattle WA 98109-1023 </p>
+      <!-- InstanceEndEditable -->
+      <h3>Admin Contact</h3>
+      <!-- InstanceBeginEditable name="admin contact" -->
+      <p><strong>Brooke Gibson</strong><br>
+        206.667.1156<br>
+        <a href="mailto:bgibson@fredhutch.org">bgibson@fredhutch.org</a><br>
+        Fax:  206.667.6366</p>
+      <!-- InstanceEndEditable -->
+      <h3>Specialty / Expertise</h3>
+      <!-- InstanceBeginEditable name="expertise" -->
+      <ul>
+        <li>Medical Oncology</li>
+        <li>Immunotherapy</li>
+      </ul>
+      <!-- InstanceEndEditable -->
+      <h3>Research Interests</h3>
+      <!-- InstanceBeginEditable name="research interest" -->
+      <ul>
+        <li>Immunotherapy Cancer Vaccines</li>
+        <li>Solid Tumor Research</li>
+      </ul>
+      <!-- InstanceEndEditable -->
+      <h3>Current Research Projects</h3>
+      <!-- InstanceBeginEditable name="current research" -->
+      <p>Dr Cheever is Member and Director of Solid Tumor Research for the Fred Hutchinson Cancer Research Center (FHCRC) and Professor of Medicine and Associate Director of Medical Oncology for the University of Washington (UW).  Dr. Cheever sees his mandate to help facilitate Solid Tumor Research as both exciting and challenging. The development and testing of new therapies to treat the common cancers is a pressing national and global need.  Our team at the FHCRC and UW is increasingly expert and accomplished in evaluating and developing the promise of new cancer therapies beginning with preclinical work, early stage clinical trials and pivotal trials.  The efforts of the group are contributing substantially to hasten the biotechnology and pharmaceutical industry’s development of cancer drugs and therapy regimens. There’s enormous potential here.</p>
+      <p>His own research expertise is in cancer immune therapy and cancer vaccine development. From 1987 to 1997 he served a Professor of Medicine UW and Member FHCRC with a major focus on developing the principles of T cell therapy, cancer antigen discovery and development of cancer vaccines, especially for breast cancer.  In 1994, he co-founded a biotech company, Corixa Corporation, in order to develop cancer vaccines as therapeutic products.  He served as Vice President of Clinical Research and Medical Affairs from 1997 to 2005. In this capacity, he gained extensive experience with: design and initiation of cancer vaccine trials; cancer antigen discovery and cancer vaccine development in collaboration with major pharmaceutical corporations as well as FDA related product approval issues.</p>
+      <p>He has recently consulted extensively with the NCI to help prioritize</p>
+      <ol>
+        <li> immunotherapy agents with the highest potential for cancer therapy, </li>
+        <li>cancer vaccine target antigens and</li>
+        <li> multi-component cancer vaccine regimens.</li>
+      </ol>
+      <p>He is working with the NCI towards development of a collaborative immunotherapy trials network.</p>
+      <!-- InstanceEndEditable -->
+      <h3>Training</h3>
+      <!-- InstanceBeginEditable name="training" -->
+      <p>Dr. Cheever received his MD from the University of Michigan Medical School, Ann Arbor, Michigan.  He completed his internship and residency at the University of Washington School of Medicine, Seattle, Washington. He was a Senior Fellow and Instructor in Medicine, Division of Oncology at the University of Washington, Seattle, Washington.</p>
+      <!-- InstanceEndEditable -->
+      <h3>Selected Publications</h3>
+      <!-- InstanceBeginEditable name="publications" -->
+      <p>Cheever,  M.A. and Chen,  W.:&nbsp; Therapy with cultured T cells:  Principles Revisited.&nbsp; Immunological  Reviews, Dr. Göran Möller (ed.), Munksgaard Intl. Pub., 157: 177-194, 1997.</p>
+      <p>Disis  ML, Schiffman K, Guthrie K, Salazar LG, Knutson KL, Goodell V, dela Rosa C, Cheever MA;&nbsp; Effect of dose on immune response in patients  vaccinated with an her-2/neu intracellular domain protein--based vaccine. J  Clin Oncol. 2004 May 15;22(10):1916-25.</p>
+      <p>Disis,  M.L., Gralow, J.R., Bernhard, H., Hand, S.L., Rubin, W.D., and Cheever, M.A.:&nbsp; Peptide Based, but not Whole Protein,  Vaccines Elicit Immunity to HER-2/neu, an Oncogenic Self Protein. J. Immunol.  156: 3151-3158, 1996.</p>
+      <p>Disis, M.L.,  Bernhard, H., Shiota, F.M., Hand, S.L., Gralow J.R., and Cheever, M.A.:&nbsp; GM-CSF: An  Effective Adjuvant for Protein and Peptide Based Vaccines. Blood. 88:  202-210, 1996.</p>
+      <p>Disis, M.L., Grabstein, K.H.,  Sleath, P.R., and M.A. Cheever:  Generation of Immunity to the HER-2/neu Oncogenic Protein in Patients with  Breast and Ovarian Cancer Using a Peptide Based Vaccine. Clinical Cancer  Research, Clin Cancer Res 1999 Jun; 5(6):1289-97.</p>
+      <p>Gaiger, A., Reese, V., Disis, ML., Cheever, MA. Immunity to WT1 in the  animal model and in patients with acute myeloid leukemia. Blood. 2000  Aug 15;96(4):1480-9.</p>
+      <p>Gaiger, A., Carter, L., Greinix, H.,  Carter, D., McNeill, P.D., Houghton, R.L., Cornellison, C., Vedvick, T.S.,  Skeiky, Y.A.W. and Cheever; M.A.,  WT1-specific serum antibodies in patients with leukemia. Clin Cancer  Res. 2001 Mar;7(3 Suppl):761s-765s.</p>
+      <p>Knutson KL,  Schiffman K, Cheever MA, Disis ML. Immunization of cancer patients with  a HER-2/neu, HLA-A2 peptide, p369-377, results in short-lived peptide-specific  immunity. Clin Cancer Res. 2002 May;8(5):1014-8.</p>
+      <p>Disis ML, Gooley TA, Rinn K, Davis  D, Piepkorn M, Cheever MA, Knutson  KL, Schiffman K. Generation of T-cell immunity to the HER-2/neu protein after  active immunization with HER-2/neu Peptide-based vaccines. J Clin Oncol. 2002  Jun 1;20(11):2624-32.&nbsp;</p>
+      <p>Disis  ML, Schiffman K, Guthrie K, Salazar LG, Knutson KL, Goodell V, dela Rosa C, Cheever MA.;&nbsp; Effect of dose on immune response in patients  vaccinated with an her-2/neu intracellular domain protein--based vaccine. J  Clin Oncol. 2004 May 15;22(10):1916-25.</p>
+      <p>Cheever  MA, Schlom J,  Weiner LM, Lyerly HK, Disis ML, Greenwood A, Grad O, Nelson WG; Translational  Research Working Group. Translational Research Working Group developmental  pathway for immune response modifiers; Clin Cancer Res. 2008 Sep  15;14(18):5692-9.</p>
+      <p>Cheever  MA, Twelve  Immunotherapy Drugs That Could Cure Cancers. Immunological Reviews 2008 Vol.  222:357-368.</p>
+      <p>Cheever MA, Allison,  JP, Ferris, AS, Finn OJ, Hastings, BM, Hecht, TT, Mellman I, Prindiville SA,  Steinman, Viner JL, Weiner LM and Matrisian LM. The Prioritization of Cancer Antigens: A National Cancer Institute Pilot  Project for the Acceleration of Translational Research. Clin Cancer Res  15:5323 2009</p>
+      <!-- InstanceEndEditable --><!-- InstanceBeginEditable name="lastupdated" -->
+      <p>Last updated: June 2010</p>
+      <!-- InstanceEndEditable -->
+      <p class="top"><a href="#top">Top</a></p>
+    </div>
+    <!--end of bodytext-->
+  </div>
+  <div id="footer">
+    <p>Copyright © 2010 University of Washington. All Right Reserved.</p>
+    <ul>
+      <li><a href="http://uwmedicine.washington.edu/Education/Pages/default.aspx" rel="external">UW School of Medicine<em></em></a> | </li>
+      <li><a href="http://depts.washington.edu/medweb/" rel="external">Department of Medicine<em></em></a> | </li>
+      <li><a href="https://depts.washington.edu/domweb" rel="external">Staff Portal<em></em></a></li>
+    </ul>
+    <div id="search">
+      <form method="get" action="http://www.google.com/search">
+        <input name="q" size="31" maxlength="255" value="" type="text">
+        <input name="hq" value="site:depts.washington.edu/oncology" type="hidden">
+        <input name="site" value="search" type="hidden">
+        <input name="hl" value="en" type="hidden">
+        <input name="lr" value="" type="hidden">
+        <input name="safe" value="off" type="hidden">
+        <input name="sa" value="Search" type="submit">
+      </form>
+    </div>
+    <ul>
+      <li><a href="../privacy.html">Notice of Privacy Practices</a> | </li>
+      <li><a href="../copyright.html">Copyright and Disclaimer</a> | </li>
+      <li><a href="../credit.html">Credits and Acknowledgements</a> </li>
+    </ul>
+  </div>
+</div>
+
+
+</body><!-- InstanceEnd --></html>

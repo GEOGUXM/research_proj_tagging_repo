@@ -1,0 +1,84 @@
+Skip to main content
+Apply Visit Contact People News Events
+Search form
+Search
+Princeton University
+Department
+Faculty & Research
+Postdoc
+Graduate
+Undergraduate
+Core Facilities
+Friends
+Alexei V. Korennykh
+Associate Professor of Molecular Biology
+James A. Elkins, Jr. '41 Preceptor
+Contact
+akorenny@princeton.edu
+609-258-6071
+609-258-6730
+Schultz Laboratory, 216
+Korennykh Lab
+Faculty Assistant
+Anna Schmedel
+Education
+Ph.D., University of Chicago
+B.S., Chemistry, Moscow State University, Russia
+Research Area
+Biochemistry, Biophysics & Structural Biology
+Research Focus
+Structural biology and mechanisms of signal transduction in stress and immune responses
+Research
+Selected Publications
+Biography
+Honors & Awards
+Structural biology and mechanisms of signal transduction in stress and immune responses
+Our goal is to understand mechanisms of RNA-dependent signal transduction in immune and endoplasmic reticulum (ER) stress responses. We use X-ray crystallography, biochemistry, biophysics and chemical biology to answer the following key questions: What are the structures of key regulatory proteins, signaling RNA and their complexes? What protein/protein and protein/RNA interactions are important and what roles do they play in signaling? Can we develop synthetic small molecules that modulate these interactions in vitro and in vivo? Can we use such small molecules as tools to understand and dissect the signaling mechanisms and pathways? Can we apply this knowledge to treat tumors and neurodegenerative disorders associated with these responses?
+Unfolded protein response
+Unfolded protein response (UPR) is a broad signaling network activated when cells cannot keep up with the demand for new protein production. The UPR is activated under diverse circumstances associated with stress and homeostatic imbalance. It is essential for embryo development, B-cell differentiation into antibody-producing plasma cells and uncontrolled proliferation of cancers, with a particularly strong causal connection in multiple myeloma. The entire UPR program involves 7-8% of all eukaryotic genes and is controlled by receptors that sense misfolded proteins.
+The most universally conserved receptor of the UPR is a transmembrane protein Ire1. Ire1 has two enzymatic domains, a CDK2 kinase-like protein kinase domain and a regulated ribonuclease (RNase) domain that serves as the main signaling moiety. The RNase carries out a site-specific non-conventional splicing of a transcription factor-encoding mRNA to produce translationally active mRNA. This non-conventional mRNA splicing event is the key signaling point of the UPR and is completely independent of the spliceosome. We aim to understand the mechanisms of regulation and RNA recognition by Ire1.
+RNA-dependent pathways in the innate immune system
+Our immune system provides two layers of defense: innate immunity and adaptive immunity. The adaptive system can recognize pathogens with exquisite specificity via antibodies, but it responds relatively slowly due to the inherent lag of its feedback and amplification loops. The innate system mounts a less specific, but more rapid response to pathogens by directly recognizing their common attributes (pathogen patterns), such as RNA of viruses. RNA is the target of several receptors in the innate immune system, including protein kinase PKR and Toll-like receptors, which directly sense pathogen's RNA.
+We are interested in understanding signal transduction by RNA and regulatory proteins that process or recognize RNA in innate immune response. We aim to gain detailed knowledge of important and presently poorly understood mechanisms, and have a far-reaching goal of being able to control them in disorders associated with aberrant immune signaling. Of particular interest are certain tumors, autoimmune and atopic diseases, including lupus erythematosus and asthma, as well as neurodegenerative diseases, such as multiple sclerosis.
+Faculty
+Research Areas
+Faculty Publications
+Research Labs
+Open Positions
+Lewis-Sigler Fellows
+Connect with Mol Bio
+Facebook Twitter
+Department of Molecular Biology
+119 Lewis Thomas Laboratory
+Washington Road
+Princeton, NJ 08544-1014
+Need help? Contact us
+Intranet Login
+Explore
+Graduate Program
+Undergraduate Program
+Summer Undergraduate Research Program
+Research Areas
+Molecular Biology Faculty
+Faculty Research Labs
+Publications
+Core Facilities & Instruments
+Confocal Microscopy
+Drosophila Media
+Electron Microscopy
+Flow Cytometry
+Histology
+Imaging Facility at LSI
+Laboratory Animal Resources
+Macromolecular Crystallography
+Nikon Center of Excellence
+Proteomics & Mass Spectrometry
+Sequencing & Microarray Core Facility
+Synseq
+Centers & Institutes
+Center for Quantitative Biology
+Glenn Center For Quantitative Aging Research
+Lewis-Sigler Institute for Integrative Genomics
+Princeton Neuroscience Institute
+© 2017 The Trustees of Princeton University. All Rights Reserved.
+Department of Molecular Biology

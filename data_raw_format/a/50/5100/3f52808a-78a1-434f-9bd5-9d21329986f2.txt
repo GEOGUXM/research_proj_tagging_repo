@@ -1,0 +1,17 @@
+Fredrickson Research Group
+University of California, Santa Barbara
+Home
+Glenn Fredrickson
+Research
+Publications
+Technologies
+Members
+Links
+Fredrickson Group, October 2015 (Left to right): Glenn Fredrickson, Yassine Dhane, Michael Carilli,
+Jonathan Martin, Yi-Xin Liu, Wei Li, Doug Tree, Mihir Khadilkar, Edward Toumayan, Kris Delaney,
+Corinne Carpenter, Scott Danielsen, Joe Peterson, Jimmy Liu and Carol Tsai.
+Overview
+The Fredrickson group conducts a broad range of research activities in theoretical and computational polymer science, many of these aimed at understanding self-assembling polymers and complex fluids, and especially block copolymer systems. A computational tool that is unique to the group is the "Field-Theoretic Simulation" technique, which is a numerical procedure for simulating statistical field theory models of complex polymer formulations. The group also maintains strong interactions with experimental teams in academia and industry throughout the world.
+Materials Research Laboratory University of California, Santa Barbara
+Copyright 2016 The Regents of the University of California, All Rights Reserved
+UC Santa Barbara, Santa Barbara CA 93106

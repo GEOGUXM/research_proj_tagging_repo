@@ -1,0 +1,137 @@
+Departments
+Departments
+Résumé of W.H. (Wim) Bakker, MSc
+In 1985 Wim Bakker received his Bachelor degree (BSc) in Electrical Engineering at the University of Twente. From 1985 to 1990 he worked as a research assistant in the Computer Vision Laboratory of the University of Twente for the Dissim project. Dissim, dis play sim ulation, was an international Esprit project funded by the European Union and involved the development of a simulator machine of modern flat-panel displays.
+In 1990 he was the co-founder of the Imix company, which builds low-cost image-processing solutions for institutes and industry. In 1993 he left Imix for ITC and started working for the Image Processing Laboratory (IPL). At first as a project manager for the development of the Alexander educational software. Later, when the IPL was renamed to Remote Sensing and GIS Laboratory (RSG), as a scientific support officer.
+In 2001 he moved to the scientific department of Geoinformation Processing (GIP) to hold a position as lecturer in Applied Computer Science and GIS. Within the department he is involved in the knowledge node Geodata Management and Engineering (GME).
+In 2002 Wim Bakker received his Master of Science degree (MSc) in Geoinformatics at ITC. The title of his MSc thesis is "Component geoinformation services and building blocks of image processing".
+Wim Bakker has worked as a lecturer in different courses at postgraduate and MSc level, has worked in research and consulting projects, and is currently involved in the inter-departmental research project "Strengthening local authorities in risk management", SLARIM, which deals with the development of a methodology for the application of Geoinformation for urban risk assessment and management.
+Publications
+ISI Journal Articles
+van der Werff, H.M.A. and Bakker, W.H. (2014) Implementation and performance of a general purpose graphics processing unit in hyperspectral image analysis. In: International Journal of Applied Earth Observation and Geoinformation : JAG, 26 (2014) pp. 312-321. Full text | Full text
+van Ruitenbeek, F.J.A., Bakker, W.H., van der Werff, H.M.A., Zegers, T.E., Oosthoek, J.H.P., Omer, Z.A., Marsh, S.H. and van der Meer, F.D. (2014) Mapping the wavelength position of deepest absorption features to explore mineral diversity in hyperspectral images. In: Planetary and space science, 101 (2014), pp. 108-117. Full text | Full text
+Bakker, W.H., van Ruitenbeek, F.J.A., van der Werff, H.M.A., Zegers, T., Oosthoek, J.H.P., Marsh, S.H. and van der Meer, F.D. (2014) Processing OMEGA / Mars Express hyperspectral imagery from radiance - at - sensor to surface reflectance. In: Planetary and space science, 90(2014), pp. 1-9. Full text | Full text
+van der Meer, F.D., van der Werff, H.M.A., van Ruitenbeek, F.J.A., Hecker, C.A., Bakker, W.H., Noomen, M.F., van der Meijde, M., Carranza, E.J.M., de Smeth, J.B. and Woldai, T. (2012) Multi - and hyperspectral geologic remote sensing : a review. In: International Journal of Applied Earth Observation and Geoinformation : JAG, 14 (2012)1 pp. 112-128. Full text | Full text
+Hecker, C.A., Hook, S., van der Meijde, M., Bakker, W.H., van der Werff, H.M.A., Wilbrink, H.J., van Ruitenbeek, F.J.A., de Smeth, J.B. and van der Meer, F.D. (2011) Thermal infrared spectrometer for earth science remote sensing applications : instrument modifications and measurement procedures. In: Sensors : open access, 11 (2011)11 pp. 10981-10999. Full text | Full text
+van der Werff, H.M.A., Bakker, W.H., van der Meer, F.D. and Siderius, W. (2006) Combining spectral signals and spatial patterns using multiple Hough transforms : an application for detection of natural gas seepages. In: Computers and geosciences, 32 (2006)9 pp. 1334-1343. Full text | Full text
+Addink, E.A., Clevers, J.G.P.W., de Jong, S.M., Epema, G.F., van der Meer, F.D., Skidmore, A.K. and Bakker, W.H. (2006) The 'stained glass procedure' : a new method to compare classification performance of images acquired with different pixel sizes. In: International Journal of Applied Earth Observation and Geoinformation : JAG, 8 (2006)4 pp. 237-245. Full text | Full text
+Clevers, J.G.P.W., de Jong, S.M., Epema, G.F., van der Meer, F.D., Bakker, W.H., Skidmore, A.K. and Scholte, K. (2002) Derivation of the red edge index using the MERIS standard band setting. In: International journal of remote sensing, 23 (2002)16 pp. 3169-3184. Full text | Full text
+Bakker, W.H. and Schmidt, K.S. (2002) Hyperspectral edge filtering for measuring homogeneity of surface cover types. In: ISPRS Journal of Photogrammetry and Remote Sensing, 56 (2002)4 pp. 246-256. Full text | Full text
+van der Meer, F.D., Bakker, W.H., Scholte, K., Skidmore, A.K. and de Jong, S.M. (2001) Spatial scale variations in vegetation indices and above - ground biomass estimates : implications for MERIS. In: International journal of remote sensing, 22 (2001)17 pp. 3381-3396. Full text | Full text
+Yang, H., van der Meer, F.D., Bakker, W.H. and Tan, Z.J. (1999) A back - propagation neural network for mineralogical mapping from AVIRIS data. In: International journal of remote sensing, 20 (1999)1 pp. 97-110. Full text | Full text
+van der Meer, F.D. and Bakker, W.H. (1998) Validated surface mineralogy from high - spectral resolution remote sensing : a review and a novel approach applied to gold exploration using AVIRIS data. In: Terra nova : the European journal of geosciences, 10 (1998)2 pp. 112-119.
+van der Meer, F.D. and Bakker, W.H. (1997) CCSM : Cross correlogram spectral matching. In: International journal of remote sensing, 18 (1997)5 pp. 1197-1201. Full text | Full text
+van der Meer, F.D. and Bakker, W.H. (1997) Cross correlogram spectral matching : application to surface mineralogical mapping by using AVIRIS data from Cuprite, Nevada. In: Remote sensing of environment, 61 (1997)3 pp. 371-382.
+Other Refereed Journal Articles
+Clevers, J.G.P.W., de Jong, S.M., Epema, G.F., van der Meer, F.D., Bakker, W.H., Skidmore, A.K. and Addink, E.A. (2001) MERIS and the red - edge position. In: International Journal of Applied Earth Observation and Geoinformation : JAG, 3 (2001)4 pp. 314-320. Full text | Full text
+van der Meer, F.D., Skidmore, A.K., Bakker, W.H., Scholte, K., de Jong, S.M., Dorresteijn, M., Clevers, J.G.P.W. and Epema, G.F. (2000) Scaling to the MERIS resolution : mapping accuracy and spatial variability. In: Geocarto International, 15 (2000)1 pp. 37-47.
+van der Meer, F.D., Bakker, W.H., Scholte, K., Skidmore, A.K., de Jong, S.M., Clevers, J.G.P.W. and Epema, G.F. (1999) Simulation of MERIS data : potentials and limitations for mapping soil mineralogy. In: International Journal of Applied Earth Observation and Geoinformation : JAG, 1 (1999)3-4 pp. 196-204.
+Bakker, W.H., Parodi, G.N. and Timmermans, W.J. (1997) NOAA AVHRR preprocessing : an application of a cloud - detection technique. In: ITC journal = bulletin de l'ITC,  (1997)1 pp. 64-73.
+Book Chapters
+Bakker, W.H. (2012) Satellite and sensor systems for environmental monitoring. In: Encyclopedia of analytical chemistry : e-book / ed. by. R.A. Meyers ...[et al.] Chichester: Wiley & Sons, 2012 ISBN 978-0-470-02731-8. 55 p. Full text
+Bakker, W.H., Bakx, J.P.G., Bijker, W., Grabmaier, K.A., Janssen, L., Horn, J.A., Huurneman, G.C., van der Meer, F.D., Pohl, C., Tempfli, K., Tolpekin, V.A. and Woldai, T. (2012) Sensors. In: The core of GIScience : a systems - based approach / ed. by V.A. Tolpekin and A. Stein. Enschede: University of Twente Faculty of Geo-Information and Earth Observation (ITC), 2012. ISBN: 978-90-6164-335-7. (ITC Educational Textbook Series; 2012). pp. 125-166.
+van der Meer, F.D., Schmidt, K.S., Bakker, W.H. and Bijker, W. (2002) New environmental remote sensing systems. In: Environmental modelling with GIS and remote sensing / A. Skidmore (ed.). London etc. : Taylor & Francis, 2002. ISBN 0-415-24170-7 pp. 26-51. Full text | Full text
+van der Meer, F.D., de Jong, S.M. and Bakker, W.H. (2001) Imaging spectrometry : basic analytical techniques. In: Imaging spectrometry : basic principles and prospective applications / F.D. van der Meer and S.M. de Jong (eds.) Dordrecht etc. : Kluwer Academic, 2001. ISBN 1-4020-0194-0 (Remote sensing and digital image processing; 4) pp. 17-62.
+Bakker, W.H. (2000) Satellite and sensor systems for environmental monitoring. In: Encyclopedia of Analytical Chemistry : applications, theory and instrumentation / ed. by R.A. Meyers. - Chichester : Wiley, 2000. ISBN 0-471-97670-9. pp. 8693-8746. Full text
+van der Meer, F.D., Scholte, K., Bakker, W.H., Skidmore, A.K., Clevers, J.G.P.W., Epema, G.F. and de Jong, S.M. (1999) Simulating data from ESA's medium resolution imaging spectrometer for land applications. In: Operational remote sensing for sustainable development / Nieuwenhuis, Vaughan and Molenaar (eds.) Rotterdam : Balkema, 1999. ISBN 90-5809-029-9 pp. 219-224.
+Monographs/Edited Books
+Bakker, W.H., Bouwman, J.H., Brekelmans, F., Colijn, E.C., Felix, R., Grutters, M.A.J., Kerkhof, W. and Kleukers, R.M.J.C. (2015) De Nederlandse sprinkhanen en krekels (Orthoptera). Leiden, EIS Kenniscentrum Insecten en andere ongewervelden, 2015. Entomologische tabellen 8,
+Conference Proceedings (full papers)
+Ivanova, I., Huisman, O., de By, R.A., Rutzinger, M., Bakker, W.H. and Feringa, W.F. (2010) Developing a distance education programming skills course fo geo - information sciences and earth observation students + powerpoint. In: ISPRS 2010 : ISPRS mid - term symposium commission VI : cross - border education for global geo - information : ITC, Enschede, the Netherlands, 2-4 June 2010. - [s.l.] : International Society for Photogrammetry and Remote Sensing (ISPRS), 2010. pp. 62-67 + 39 slides. Full text | Full text | Full text
+Dilo, A., Kraipeerapun, P., Bakker, W.H. and de By, R.A. (2004) Storing and handling vague spatial objects. In: Proceedings of the 15th International workshop on database and expert systems applications DEXA'04, Zaragoza, September 2-3 2004. Los Alamitos : IEEE, 2004. ISBN 0-7695-2195-9 . pp. 945-950. Full text
+van der Meer, F.D., Bakker, W.H., Scholte, K., Skidmore, A.K., de Jong, S.M., Clevers, J.G.P.W. and Epema, G.F. (2000) Vegetation indices, above ground biomass estimates and the red edge from MERIS. In: ISPRS 2000 congress : geoinformation for all : Amsterdam, the Netherlands, 16-23 July, 2000. pp. 1580-1587. Full text
+van der Meer, F.D., Bakker, W.H., Scholte, K., Skidmore, A.K., Clevers, J.G.P.W., Epema, G.F. and de Jong, S.M. (1998) ESA's medium resolution imaging spectrometer for land applications. In: Proceedings of the 24th annual conference and exhibition of the remote sensing society : developing international connections, RSS'98, 9-11 September 1998, Greenwich. pp. 231-237.
+Yang Hong, van der Meer, F.D., Bakker, W.H. and Tan, Z. (1997) A back - propagation neural network for mineralogical mapping from AVIRIS data. In: 3rd International Airborne Remote Sensing Conference and Exhibition, 7-10 July, 1997, Copenhagen, Denmark. Vol. I pp. 265-272.
+van der Meer, F.D. and Bakker, W.H. (1997) Cross correlogram spectral matching CCSM for mapping surface mineralogy using imaging spectrometer data. In: 3rd International Airborne Remote Sensing Conference and Exhibition, 7-10 July, 1997, Copenhagen, Denmark. Vol. I pp. 273-280.
+Scientific and Professional Publications
+Bakker, W.H. (2014) Satellites & sensors. In: EARSeL newsletter : open access,  (2014)97 pp. 23-24. Full text | Full text
+Bakker, W.H. (2014) Satellites & sensors. In: EARSeL newsletter : open access,  (2014)98 pp. 10-12. Full text | Full text
+Bakker, W.H. (2014) Satellites & sensors. In: EARSeL newsletter : open access,  (2014)99 pp. 12-13. Full text | Full text
+Bakker, W.H. (2014) Satellites & sensors. In: EARSeL newsletter : open access,  (2014)100 pp. 18-19. Full text | Full text
+Bakker, W.H. (2013) Satellites & sensors. In: EARSeL newsletter : open access,  (2013)93 pp. 50-53. Full text | Full text
+Bakker, W.H. (2013) Satellites & sensors. In: EARSeL newsletter : open access,  (2013)95 pp. 29-31. Full text | Full text
+Bakker, W.H. (2013) Satellites & sensors. In: EARSeL newsletter : open access,  (2013)96 pp. 22-24. Full text | Full text
+Bakker, W.H. (2012) Satellites & sensors. In: EARSeL newsletter : open access,  (2012)91 pp. 12-13. Full text | Full text
+de Smeth, J.B., van der Meer, F.D., van der Werff, H.M.A., van Ruitenbeek, F.J.A., Hecker, C.A., Bakker, W.H., Noomen, M.F., van der Meijde, M., Carranza, E.J.M., Wilbrink, H.J. and Woldai, T. (2011) Combining chemical and hyperspectral data, can a portable XRF instrument help. In: GRSG newsletter : Geological Society of London, Geological Remote Sensing Group : partly open access,  (2011)60 pp. 13-15. Full text
+Bishop, C., Bakker, W.H., MacArthur, A. and van der Meer, F.D. (2011) Conference summary : EARSeL imaging spectroscopy workshop. In: GRSG newsletter : Geological Society of London, Geological Remote Sensing Group : partly open access,  (2011)58 pp. 37-38. Full text
+Bishop, C., Bakker, W.H., MacArthur, A. and van der Meer, F.D. (2011) Conference summary : EARSeL imaging spectroscopy workshop. In: EARSeL newsletter : open access,  (2011)86 pp. 27-28. Full text
+van der Meer, F.D., van der Werff, H.M.A., van Ruitenbeek, F.J.A., Hecker, C.A., Bakker, W.H., Noomen, M.F., van der Meijde, M., Carranza, E.J.M., de Smeth, J.B. and Woldai, T. (2011) Multi - and hyperspectral geologic remote sensing : a review. In: GRSG newsletter : Geological Society of London, Geological Remote Sensing Group : partly open access,  (2011)60 pp. 10. Full text
+van der Werff, H.M.A., van der Meer, F.D., van Ruitenbeek, F.J.A., Bakker, W.H. and Hecker, C.A. (2011) A satellite view of the Hungarian sludge spill. In: GRSG newsletter : Geological Society of London, Geological Remote Sensing Group : partly open access,  (2011)57 pp. 15-16. Full text
+van der Werff, H.M.A. and Bakker, W.H. (2010) Learning IDL for building expert apllications in ENVI : distance education. Enschede, ITC, 2010.
+Tragheim, D.G., Marsh, S.H., Pedley, R.C., Napier, B.R., Bateson, L., Smith, A.G., Marchant, A.P., Gunnink, J.L., Oosthoek, J.H.P., Muller, J.-P., Grindod, P.J., van Ruitenbeek, F.J.A., Bakker, W.H., van der Werff, H.M.A. and ... [et al.] (2010) The Mars planetary mapping pilot project : final report. European Space Agency (ESA), 2010. Full text
+Grutters, M., Versijde, R., Bakker, W.H. and ... [et al.] (2010) Nieuwkomer op het spoor : de kiezelsprinkhaan, sphingonotus caerulans, in Nederland, orthoptera : acrididae. In: Nederlandse Faunistische Mededelingen, 34(2010), pp. 1-10. Full text
+Ivanova, I., de By, R.A., Bakker, W.H., Kooistra, J.F., Feringa, W.F. and Retsios, V. (2010) Principles of databases : distance education. Enschede, ITC, 2010.
+Ivanova, I., Huisman, O., de By, R.A., Feringa, W.F., Bakker, W.H., Rutzinger, M. and Retsios, V. (2010) Programming skills : distance education. Enschede, ITC, 2010.
+Tempfli, K. (editor) , Huurneman, G.C. (editor) , Bakker, W.H. (editor) , Janssen, L.L.F. (editor) , Bakker, W.H., Feringa, W.F., Gieske, A.S.M., Grabmaier, K.A., Hecker, C.A., Horn, J.A., Huurneman, G.C., Kerle, N., van der Meer, F.D., Parodi, G.N., Pohl, C., Reeves, C.V., van Ruitenbeek, F.J.A., Schetselaar, E.M., Weir, M.J.C., Westinga, E. and Woldai, T. (2009) Principles of remote sensing : an introductory textbook. Enschede, ITC, 2009. ITC Educational Textbook Series 2, ISBN: 978-90-6164-270-1. Full text
+Bakker, W.H. and Bakker, F. (2007) De bladwesp Caenolyda Reticulata, nieuw voor de Nederlandse fauna, Hymenoptera : Pamphiliidae. In: Nederlandse Faunistische mededelingen, (2007)27. pp. 19-22. Full text
+van der Meer, F.D., van Ruitenbeek, F.J.A. and Bakker, W.H. (2004) Imaging spectrometry. In: Principles of remote sensing : an introductory textbook. / ed. by N. Kerle - Third edition. - Enschede : ITC, 2004. (ITC Educational Textbook Series ; 2) pp. 217-227.
+Bakker, W.H. (2004) Multispectral scanners. In: Principles of remote sensing : an introductory textbook. / ed. by N. Kerle - Third edition. - Enschede : ITC, 2004. (ITC Educational Textbook Series ; 2) pp. 75-92.
+Kerle, N. (editor) , Janssen, L.L.F. (editor) , Huurneman, G.C. (editor) , Bakker, W.H., Grabmaier, K.A., Huurneman, G.C., van der Meer, F.D., Prakash, A., Tempfli, K., Gieske, A.S.M., Hecker, C.A., Janssen, L.L.F., Parodi, G.N., Reeves, C.V., Weir, M.J.C., Gorte, B.G.H., Horn, J.A., Kerle, N., Pohl, C., van Ruitenbeek, F.J.A. and Woldai, T. (2004) Principles of remote sensing : an introductory textbook. Enschede, ITC, 2004. ITC Educational Textbook Series 2, ISBN: 90-6164-227-2.
+Janssen, L.L.F. (editor) , Huurneman, G.C. (editor) , Bakker, W.H., Janssen, L.L.F., Reeves, C.V., Gorte, B.G.H., Pohl, C., Weir, M.J.C., Horn, J.A., Prakash, A. and Woldai, T. (2004) Principles of remote sensing : an introductory textbook : translated into Korean. Enschede, ITC, 2004. ITC Educational Textbook Series 2, ISBN: 89-953256-3-1.
+Janssen, L.L.F. and Bakker, W.H. (2004) Sensors and platforms. In: Principles of remote sensing : an introductory textbook. / ed. by N. Kerle - Third edition. - Enschede : ITC, 2004. (ITC Educational Textbook Series ; 2) pp. 43-57.
+Janssen, L.L.F. (editor) , Huurneman, G.C. (editor) , Bakker, W.H., Janssen, L.L.F., Reeves, C.V., Gorte, B.G.H., Pohl, C., Weir, M.J.C., Horn, J.A., Prakash, A. and Woldai, T. (2001) Principles of remote sensing : an introductory textbook. Enschede, ITC, 2001. ITC Educational Textbook Series 2, ISBN: 90-6164-199-3.
+van der Meer, F.D., Clevers, J.G.P.W., de Jong, S.M., Bakker, W.H., Epema, G.F., Skidmore, A.K. and Scholte, K. (2000) MERILAND : MERIS potential for land applications. Delft, Beleidscommissie Remote Sensing (BCRS), 2000. BCRS Report 1999 : USP-2 Report 1999 99-36, ISBN: 90-5411-307-3.
+Janssen, L.L.F. (editor) , Bakker, W.H., Janssen, L.L.F., Weir, M.J.C., Gorte, B.G.H., Pohl, C., Woldai, T., Horn, J.A. and Reeves, C.V. (2000) Principles of remote sensing : an introductory textbook. Enschede, ITC, 2000. ITC Educational Textbook Series 2, ISBN: 90-6164-183-7.
+van der Meer, F.D. (editor) , Skidmore, A.K. (editor) and Bakker, W.H. (editor)  (2000) Proceedings of the 2nd EARSeL workshop on imaging spectroscopy, ITC Enschede, 11 - 13 July 2000. Enschede, ITC, 2000.
+Bakker, W.H., Gorte, B.G.H., Horn, J.A., Hussin, Y.A., Huurneman, G.C., Janssen, L.L.F., Reeves, C.V., Shrestha, D.P., Skidmore, A.K., Soeters, R., Weir, M.J.C. and Wodai, T. (1999) Principles of remote sensing : ITC core module : version 1 : syllabus. Enschede, ITC, 1999.
+Bakker, W.H. (1998) Het software pakket Alexander. In: Remote Sensing Nieuwsbrief, (1998)Feb., 20-21.
+Clavaux, M., Bakker, W.H., Groten, S.M.E. and Janssen, L.L.F. (1998) ISIS Interactive Satellite Image Server : description of application : crop and rangeland monitoring in Burkina Faso. Enschede, ITC, 1998.
+Presentations
+Olyazadeh, R., Jaboyedoff, M., van Westen, C.J. and Bakker, W.H. (2015) Multi criteria evaluation module for RiskChanges spatial decision support system : abstract. In: Geophysical Research Abstracts, vol. 17, EGU2015-2810, 2015. EGU General Assembly 2015, 12-17 April 2015, Vienna Austria. 1 p. Full text | Full text
+van Westen, C.J., Zhang, K., Bakker, W.H., Andrejchenko, V., Berlin, J., Olyazadeh, R. and Cristal, I. (2015) RiskChanges spatial support system for the analysis of changing multi-hazard risk : abstract. In: Geophysical Research Abstracts, vol. 17, EGU2015-14180, 2015. EGU General Assembly 2015, 12-17 April 2015, Vienna Austria. 1 p. Full text | Full text
+Andrejchenko, V., Bakker, W.H. and van Westen, C.J. (2014) Design and implementation of a data model and data input module for a multi hazard risk assessment spatial support decision system : extended abstract. Presented at: Analysis and management of changing risks for natural hazards : international conference, 18-19 November 2014, Padua, Italy. 4 p. Full text | Full text
+Berlin, J.R., Bogaard, T., van Westen, C.J., Bakker, W.H., Mostert, E. and Dopheide, E.J.M. (2014) Implementation of a multi - scenario cost - benefit analysis module for the Risk - CHANGES SDSS platform : extended abstract. Presented at: Analysis and management of changing risks for natural hazards : international conference, 18-19 November 2014, Padua, Italy. 10 p. Full text | Full text
+van Westen, C.J., Bakker, W.H., Andrejchenko, V., Zhang, K., Berlin, J.R., Cristal, I. and Olyazadeh, R. (2014) RiskChanges : a spatial decision support system for analysing changing hydro - meteorological risk : extended abstract. Presented at: Analysis and management of changing risks for natural hazards : international conference, 18-19 November 2014, Padua, Italy. 13 p. Full text | Full text
+Zhang, K., van Westen, C.J. and Bakker, W.H. (2014) Web - based risk assessment techniques for hydro - meteorological hazards : extended abstract. Presented at: Analysis and management of changing risks for natural hazards : international conference, 18-19 November 2014, Padua, Italy. 8 p. Full text | Full text
+van der Meer, F.D., van der Werff, H.M.A., van Ruitenbeek, F.J.A., Hecker, C.A., Bakker, W.H., Noomen, M.F., van der Meijde, M., Carranza, E.J.M., de Smeth, J.B. and Woldai, T. (2011) Hyperspectral geology from Mars to Earth : powerpoint. Presented at Mapping Day : journée thématique : cartographie et télédétection, 14 October 2011, Lieg, Belgium. 46 slides. Full text
+Bakker, W.H., van Ruitenbeek, F.J.A. and van der Werff, H.M.A. (2011) Hyperspectral image mapping by automatic color coding of absorption features : abstract. In: 7th EARSEL workshop of the Special Interest Group in imaging spectroscopy : final programme, 11-13 April 2011, Edinburgh, UK. pp. 56-57. Full text
+van der Werff, H.M.A. and Bakker, W.H. (2011) Using a GPU for hyperspectral processing : abstract + powerpoint. In: 7th EARSEL workshop of the Special Interest Group in imaging spectroscopy : final programme, 11-13 April 2011, Edinburgh, UK. pp. 36 + 17 slides. Full text | Full text
+van der Werff, H.M.A. and Bakker, W.H. (2011) Using a GPU for processing of hyperspectral data : powerpoint. Presented at : 7th EARSEL workshop of the Special Interest Group in Imaging Spectroscopy, 11-13 April 2011, Edinburgh United Kingdom. 17 slides. Full text | Full text
+van Ruitenbeek, F.J.A., van der Werff, H.M.A., Bakker, W.H. and van der Meer, F.D. (2010) Improving the interpretation of spectral remote sensing imagery : powerpoint. Presented at Geological Society of Nevada 2010 Symposium : great basin evolution and metallogeny, 14-22 May 2010, Reno. 43 slides. Full text
+Bakker, W.H., van Ruitenbeek, F.J.A. and van der Werff, H.M.A. (2010) Processing omega hyperspectral imagery for mineral mapping of the Nili Fossae area on Mars : abstract + powerpoint. Presented at the third NPP symposium: Nationaal Platform voor Planeetonderzoek : planetary exploration in the Netherlands : present and future, 21 April 2010, Geldrop, the Netherlands. 27 slides. Full text
+van der Werff, H.M.A., van der Meer, F.D. and Bakker, W.H. (2010) Surface compositional mapping by segmenting hyperspectral images in absorption - feature space : powerpoint. Presented at GEOBIA 2010 : geographic object - based image analysis, 29 June-2 July 2010, Ghent, Belgium, 31 slides. Full text
+Tragheim, D.G., Napier, B., Bateson, L., Pedley, R.C., Smith, A.G., Marchant, A.P., Marsh, S.H., Gunnink, J.L., Oosthoek, J.H.P., Muller, J.-P., van Ruitenbeek, F.J.A., Bakker, W.H., van der Werff, H.M.A. and ... [et al.] (2009) The ESA Mars planetary mapping pilot project : advanced terrestrial mapping methodologies applied to the Nili Fossae region : abstract. Presented at geological mapping of Mars : workshop, Tuscany, Italy, 12-14 October 2009. In: The Mars planetary mapping pilot project : final report / D.G. Tragheim, S.H. Marsh, R.C. Pedley, B.R. Napier, L. Bateson, A.G. Smith, A.P. Marchant, J.L. Gunnink, J.H.P. Oosthoek, J.-P. Muller, P.J. Grindod, F.J.A. van Ruitenbeek, W.H. Bakker, H.M.A. van der Werff, ... [et al.]. - [s.l.] : European Space Agency (ESA), 2010. - 33 p. pp. 32. Full text
+Bakker, W.H., van Ruitenbeek, F.J.A. and van der Werff, H.M.A. (2009) Processing omega hyperspectral imagery for mineral mapping of the Nili Fossae area on Mars : abstract + powerpoint. Presented at Geological mapping of Mars : a workshop on new concepts and tools, 12-14 October 2009, Il Ciocco, Italy. 45 p. Full text
+Bakker, W.H., van Ruitenbeek, F.J.A. and van der Werff, H.M.A. (2009) Processing omega hyperspectral imagery for mineral mapping of the Nili Fossae area on Mars : abstract + powerpoint. In: GRSG AGM 2009 - Exploration Remote Sensing : the 20th Annual Meeting of the Geologic Remote Sensing Group, 15-17 December 2009, London. 1 p. + 32 slides. Full text | Full text
+Bakker, W.H. (2006) Hyperspectral split and merge : abstract. In: Abstracts of the workshop on modern aspects of remote sensing and geospatial data processing, NRSA - ITC, Hyderabad, India, 24-25 November 2006 / ed by. K.M.M. Rao, A. Stein, P.S. Roy and A.S. Manjunath. Hyderabad : National Remote Sensing Agency (NRSA), 2006. 4 p. Full text
+MSc theses
+Bakker, W.H. (2002) Component geoinformation services and building blocks of image processing. Enschede, ITC, 2002. Full text
+All publications
+ISI Journal Articles
+Other Refereed Journal Articles
+Book Chapters
+Monographs/Edited Books
+Conference Proceedings (full papers)
+Scientific and Professional Publications
+Presentations
+1
+back to top
+Last modified: 14 August 2013
+print this page
+Site-navigation
+Study Research Services Departments Alumni Library Organisation
+Home »
+Departments »
+ITC
+Faculty of Geo-Information
+Science and Earth Observation
+of the University of Twente
+Route | Disclaimer | Privacy policy
+PO Box 217
+7500 AE Enschede
+The Netherlands
+Phone:+31 (0)53 487 4444
+Fax: +31 (0)53 487 4400
+Email: info-itc@utwente.nl
+Follow ITC on
+Facebook
+LinkedIn
+Home
+University of Twente
+Contact
+Who's who
+Intranet
+My-ITC
+Sitemap
+AAA
+Login

@@ -1,0 +1,576 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link type="text/css" rel="stylesheet" href="/styles2/style.css" media="all">
+<link type="text/css" rel="stylesheet" href="/styles2/html-reset.css" media="all">
+<link type="text/css" rel="stylesheet" href="/styles2/navigation.css" media="all">
+<link type="text/css" rel="stylesheet" href="/styles2/directory.css" media="all">
+
+<title>GREGG BENNETT</title>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Scripts/DataPortal.js"></script>
+<script type="text/javascript" src="/Scripts/dbsearch.js"></script>
+<script>
+var rowColors = new Array("#FFFFFF", "#F0F0F0");
+
+function highlightTableRow(tableRow,which) {
+  tableRow.style["backgroundColor"] = "#E9E9CF"
+  tableRow.style.border = "1px solid white"
+}
+function unhighlightTableRow(tableRow,which) {
+  tableRow.style["backgroundColor"] = rowColors[which]
+  tableRow.style.border = "1px solid black"
+}
+
+/* These are only needed for IE 6 and below */
+function highlightTableCell(tableCell) {
+  tableCell.style["backgroundColor"] = "#E9E9CF"
+  tableCell.style["color"] = "#762123"
+}
+function unhighlightTableCell(tableCell) {
+  tableCell.style["backgroundColor"] = "#500000"
+  tableCell.style["color"] = "white"
+}
+</script>
+<style>
+tr.mylist0 {
+  background:#FFFFFF;
+  cursor: default;
+  border: thin solid black;
+  font-size: 10pt;
+}
+tr.mylist1 {
+  background:#F0F0F0;
+  cursor: default;
+  border: thin solid black;
+  font-size: 10pt;
+}
+</style>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0]; a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-45986091-1', 'tamu.edu'); ga('send', 'pageview');
+</script>
+</head>
+<body class="no-sidebars">
+<div id="page-wrapper">
+  <div id="page">
+    <div id="header">
+      <div class="section clearfix">
+        <div id="header-links">
+          <a href="http://education.tamu.edu">education</a> |
+          <a href="https://mycehd.tamu.edu">mycehd</a> |
+          <a href="http://db.cehd.tamu.edu/">data portal</a><img src="/images/menu-right.png">
+        </div>
+        <div id="site-logo">
+          <a href="http://education.tamu.edu/" target="_self" title="TAMU Education &amp; Human Development"><img src="/images/cehd-logo-maroon-trans.png"></a>
+        </div>
+      </div>
+      <!-- search form markup here - <div id="searchForm"> </div> -->
+  </div>
+  <!-- /.section, /#header -->
+  <div id="main-wrapper">
+    <div id="navigation">
+      <div class="section clearfix">
+        <div id="cssmenu">
+          <ul>
+          <li class="active "><a href="http://directory.cehd.tamu.edu/"><span>Home</span></a></li>
+          <li class="has-sub "><a href="http://directory.cehd.tamu.edu/deptsummary.epl"><span>Departments</span></a>
+            <ul>
+             <li><a href="http://directory.cehd.tamu.edu/?sortby=program"><span>Primary Emphasis/Program</span></a></li>
+             <li><a href="photogallery.epl"><span>Photo Gallery</span></a></li>
+            </ul>
+          </li>
+          <li class="has-sub "><a href="http://directory.cehd.tamu.edu/resinterests.epl"><span>Research Interests</span></a>
+            <ul>
+            <li><a href="http://directory.cehd.tamu.edu/publications.epl"><span>Publications</span></a></li>
+            <li><a href="http://directory.cehd.tamu.edu/journals.epl"><span>Journals</span></a></li>
+            <li><a href="http://directory.cehd.tamu.edu/editorships.epl"><span>Editorships</span></a></li>
+            </ul>
+          </li>
+          <li class="has-sub "><a href="http://directory.cehd.tamu.edu/externalfunding.epl"><span>External Funding</span></a>
+            <ul>
+            <li><a href="http://directory.cehd.tamu.edu/agencies.epl"><span>Funding Agencies</span></a></li>
+            </ul>
+          </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- /.section, /#navigation -->
+    <div id="main" class="clearfix"><a name="navigation"></a>
+      <div id="content" class="column">
+          <div class="section">
+            <div class="clearfix">
+              <div class="content">
+
+<!--                <div id="breadcrumbs"><a href="http://education.tamu.edu/">Home</a> &raquo; Faculty/Staff Directory </div>-->
+
+
+<script language="JavaScript" src="/Scripts/Popup.js"></script>
+
+<script language="JavaScript">
+var version = parseInt (navigator.appVersion) ;
+NS4 = (document.layers) ? true : false ;
+IE4 = ((document.all) && (version >= 4)) ? true : false ;
+
+function openPage(url) {
+  if ( NS4 ) {
+    available_width=innerWidth;
+    available_height=innerHeight;
+  } else {
+    available_width=screen.availWidth
+    available_height=screen.availHeight
+  }
+  var winleft = available_width/2 - 205
+  var wintop  = available_height/2 - 155
+
+  open(url,"_blank","width=400,height=300,resizable=no,scrollbars=yes,left="+winleft+",top="+wintop);
+}
+
+function donothing() {}
+
+function selectTab( tabname ) {
+  var elem_r = document.getElementById("tab_research")
+  var elem_t = document.getElementById("tab_teaching")
+  var elem_s = document.getElementById("tab_service")
+  var elem_o = document.getElementById("tab_other")
+
+  if ( tabname == "research" ) {
+    elem_r.style.display = 'inline';
+    elem_t.style.display = 'none';
+    elem_s.style.display = 'none';
+    elem_o.style.display = 'none';
+  } else if ( tabname == "teaching" ) {
+    elem_r.style.display = 'none';
+    elem_t.style.display = 'inline';
+    elem_s.style.display = 'none';
+    elem_o.style.display = 'none';
+  } else if ( tabname == "service" ) {
+    elem_r.style.display = 'none';
+    elem_t.style.display = 'none';
+    elem_s.style.display = 'inline';
+    elem_o.style.display = 'none';
+  } else if ( tabname == "other" ) {
+    elem_r.style.display = 'none';
+    elem_t.style.display = 'none';
+    elem_s.style.display = 'none';
+    elem_o.style.display = 'inline';
+  }
+}
+
+</script>
+
+<div id="breadcrumbs">
+  <a href="http://www.education.tamu.edu/">home</a> » <a href="./">Faculty/Staff Directory</a>
+   » GREGG BENNETT
+</div>
+
+<table style="width: 900px; font-size: 10pt;" id="directoryview">
+<tbody><tr>
+  <td colspan="2">
+    <table style="width: 900px;" border="0">
+    <tbody><tr>
+    <td>
+    <form method="GET" action="./" name="searchform" style="margin-bottom: 0px;">
+    <input id="livesearch" name="q" onkeypress="liveSearchStart()" onblur="setTimeout('closeResults()',1000);" value="">
+    <input name="mode" value="Search by Name" type="submit">
+    </form>
+    <div id="LSResult" style="display: none; z-index: 1; position: absolute;">
+      <div id="LSShadow"></div>
+    </div>
+    </td>
+    <td align="right" valign="top">
+  
+    <a class="login-block" href="https://cas.tamu.edu/cas/login?service=http://directory.cehd.tamu.edu/edit.epl?nid=gbennett">Login</a>
+    </td>
+    </tr>
+    </tbody></table>
+  </td>
+</tr>
+<tr>
+  <td></td>
+  <td><img src="/images/spacer.gif" width="450" height="1"></td>
+</tr>
+
+<tr>
+  <td style="width: 250px;" align="center" valign="top">
+    <img src="https://myrecord.cehd.tamu.edu/Docs/gG/gbennett.jpg" height="250">
+    </td>
+  <td valign="top">
+
+    <table border="0">
+    <tbody><tr>
+      <td></td>
+      <td colspan="2">
+        <div style="font-size: 150%; font-weight: bold">
+          GREGG BENNETT </div>
+        <div style="font-size: 120%; font-weight: bold">
+          Professor,
+          <a href="http://hlknweb.tamu.edu/" target="_blank">Health and Kinesiology</a>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td class="item-title" valign="top"><b>Office#:</b></td>
+      <td style="font-size: 10pt;">
+      338 <a href="http://aggiemap.tamu.edu/?Bldg=0524" target="_blank">Blocker</a>
+        </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="item-title">Mail Stop:</td>
+      <td>
+        4243 </td>
+    </tr>
+  <tr>
+    <td></td>
+    <td class="item-title" nowrap="">Office Phone:</td>
+    <td>
+      (979) 845-0156 </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td class="item-title">E-mail:</td>
+    <td>
+      <script language="JavaScript" type="text/javascript">
+document.write( unescapeStr("3C6120687265663D226D61696C746F3A6762656E6E6574744074616D752E656475223E6762656E6E6574744074616D752E6564753C2F613E") )
+</script><a href="mailto:gbennett@tamu.edu">gbennett@tamu.edu</a>
+ </td>
+  </tr>
+  <tr>
+      <td></td>
+      <td class="item-title" nowrap=""><b>Primary Emphasis Area:</b></td>
+      <td><a href="./?sortby=program#Sport Management">Sport Management</a></td>
+    </tr>
+  <tr>
+      <td></td>
+      <td style="font-size: 10pt;"><b>Vita:</b></td>
+      <td><a href="https://myrecord.cehd.tamu.edu/Docs/N7/sPl4a6YIVUpi6NBEIKDk6jDK.pdf" target="_blank" style="font-size: 10pt;">View Document</a></td>
+    </tr>
+  </tbody></table>
+
+</td>
+</tr>
+
+
+<tr>
+<td colspan="2">
+<div id="tab_research" style="display: inline;">
+  <ul id="tabnav">
+    <li class="tab-selected"><a href="javascript:donothing()" onclick="selectTab('research')">Research</a></li>
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('teaching')">Teaching</a></li>
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('service')">Service</a></li>
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('other')">Other</a></li>
+    </ul>
+  <div class="tab-content">
+  <div class="sectionheading">Area(s) of Emphasis</div>
+  <div id="Section">
+Sport Marketing<br>
+</div>
+
+  <div class="sectionheading"><a name="ResearchInterests"></a>Research Interests</div>
+  <div id="Section">
+Branding<br>
+Effective Event Marketing<br>
+Sporting Events<br>
+Sport Marketing<br>
+</div>
+
+<script>
+function donothing() { }
+function publications_ShowAll() {
+  document.getElementById('PubLong').style.display='inline';
+  document.getElementById('PubShort').style.display='none';
+}
+function publications_ShowShort() {
+  document.getElementById('PubLong').style.display='none';
+  document.getElementById('PubShort').style.display='inline';
+}
+</script>
+<div class="sectionheading">Publications (journal articles, books, book chapters)<sup><a href="#" onmouseover="ddrivetip('The ten most recent publications are shown.  Publications cited in the same year are then alphabetized.','#E0E0E0',175)" onmouseout="hideddrivetip()" style="text-decoration: none;">*</a></sup>
+</div>
+<div id="PubShort" style="display: inline;">
+<div id="Section">
+<p id="HangingIndent">1. Kang, C., Bennett, G., &amp; Welty-Peachy, J. (2016). Five dimensions of brand personality traits in sport. Sport Management Review, 19(4), 441-453
+ </p><p id="HangingIndent">2. Wakefield, L., &amp; Bennett, G. (2016). How do fans feel? A case analysis of measuring and modeling attitudes using partial least squares structural equation modeling. Case Studies in Sport Management, 5, X[48]13X. doi:10.1123/cssm.2015-0053
+ </p><p id="HangingIndent">3. Reese, J. D., Brown, B., &amp; Bennett, G. (2015). Required donations: An empirical test of Prospect Theory &amp; framing of per-seat contributions in intercollegiate athletics. Global Sport Business Journal, 3(1), 43-62.
+ </p><p id="HangingIndent">4. Kang, C., Lee, J., &amp; Bennett, G. (2014). Comparative analysis of sport consumer motivation affecting sport consumption behavior between American and Asian international students. International Journal of Sport Management, 15, 286-310.
+ </p><p id="HangingIndent">5. Ballouli, K., Bennett, G. (2014). New (sound)waves in sport marketing: Do semantic differences in analogous music impact shopping behaviors of sport consumers? Sport Marketing Quarterly.
+ </p><p id="HangingIndent">6. Reese, J. D., &amp; Bennett, G. (2013). Fan satisfaction with the season ticket sales process. Journal of Contemporary Athletics, 7(2), 1-15
+<sup>*</sup> </p><p id="HangingIndent">7. Petrick, J.F., Bennett, G. &amp; Tsuji, Y. (2013). Measuring Event Attendees Evaluations of a Sporting Event to Determine Loyalty. Event Management
+<sup>*</sup> </p><p id="HangingIndent">8. Hutchinson, M., &amp; Bennett, G. (2012). Core values brand building in sport: Stakeholder attitudes towards intercollegiate athletics and university brand congruency. Sport Management Review, 15(4), 434-447
+ </p><p id="HangingIndent">9. Ballouli, K., &amp; Bennett, G. (2012). Creating a sonic identity for the University of Houston. Sport Marketing Quarterly, 21, 53-60
+<sup>*</sup> </p><p id="HangingIndent">10. Tsuji, Y., Bennett, G., &amp; Dees, W. (2011). Exploring the effects of sportscape at a professional tennis tournament. International Journal of Sport Management, 12(1), 33-49
+<sup>*</sup> </p>
+<a href="javascript:donothing()" onclick="publications_ShowAll()">Show All</a>
+</div>
+</div>
+<div id="PubLong" style="display: none;">
+<div id="Section">
+<p id="HangingIndent">1. Kang, C., Bennett, G., &amp; Welty-Peachy, J. (2016). Five dimensions of brand personality traits in sport. Sport Management Review, 19(4), 441-453
+ </p><p id="HangingIndent">2. Wakefield, L., &amp; Bennett, G. (2016). How do fans feel? A case analysis of measuring and modeling attitudes using partial least squares structural equation modeling. Case Studies in Sport Management, 5, X[48]13X. doi:10.1123/cssm.2015-0053
+ </p><p id="HangingIndent">3. Reese, J. D., Brown, B., &amp; Bennett, G. (2015). Required donations: An empirical test of Prospect Theory &amp; framing of per-seat contributions in intercollegiate athletics. Global Sport Business Journal, 3(1), 43-62.
+ </p><p id="HangingIndent">4. Kang, C., Lee, J., &amp; Bennett, G. (2014). Comparative analysis of sport consumer motivation affecting sport consumption behavior between American and Asian international students. International Journal of Sport Management, 15, 286-310.
+ </p><p id="HangingIndent">5. Ballouli, K., Bennett, G. (2014). New (sound)waves in sport marketing: Do semantic differences in analogous music impact shopping behaviors of sport consumers? Sport Marketing Quarterly.
+ </p><p id="HangingIndent">6. Reese, J. D., &amp; Bennett, G. (2013). Fan satisfaction with the season ticket sales process. Journal of Contemporary Athletics, 7(2), 1-15
+<sup>*</sup> </p><p id="HangingIndent">7. Petrick, J.F., Bennett, G. &amp; Tsuji, Y. (2013). Measuring Event Attendees Evaluations of a Sporting Event to Determine Loyalty. Event Management
+<sup>*</sup> </p><p id="HangingIndent">8. Hutchinson, M., &amp; Bennett, G. (2012). Core values brand building in sport: Stakeholder attitudes towards intercollegiate athletics and university brand congruency. Sport Management Review, 15(4), 434-447
+ </p><p id="HangingIndent">9. Ballouli, K., &amp; Bennett, G. (2012). Creating a sonic identity for the University of Houston. Sport Marketing Quarterly, 21, 53-60
+<sup>*</sup> </p><p id="HangingIndent">10. Tsuji, Y., Bennett, G., &amp; Dees, W. (2011). Exploring the effects of sportscape at a professional tennis tournament. International Journal of Sport Management, 12(1), 33-49
+<sup>*</sup> </p><p id="HangingIndent">11. Bouchet, A., Ballouli, K., &amp; Bennett, G. (2011). Implementing a ticket sales force in college athletics: A decade of challenges. Sport Marketing Quarterly, 20(1), 84-92
+<sup>*</sup> </p><p id="HangingIndent">12. Bennett, G., Ballouli, K., &amp; Sosa, J. (2011). Sometimes good, sometimes not so good: Student satisfaction with exchange programs. Sport Management Education Journal. 5(1), 19-31
+ </p><p id="HangingIndent">13. Wakefield, K., &amp; Bennett, G. (2010). Affective intensity and sponsorship identification. Journal of Advertising, 39(3), 99-111.
+ </p><p id="HangingIndent">14. Dees, W., Hall, T., Tsuji, Y., &amp; Bennett, G. (2010). Examining the effects of fan loyalty and goodwill on consumer perceptions of brands at an action sports event. Journal of Sponsorship, 4(1), 38-50.
+<sup>*</sup> </p><p id="HangingIndent">15. Dees, W., Bennett, G., Ferreria, M. (2010). Personality fit in NASCAR: An evaluation of driver-sponsor congruence and its impact on sponsorship effectiveness outcomes. Sport Marketing Quarterly, 18(2), 25-35.
+<sup>*</sup> </p><p id="HangingIndent">16. Ballouli, K., &amp; Bennett, G. (2010). Sport in the International Arena. In Cunningham and Singer (eds) Sociology of Sport and Physical Activity. pp. 163-191.
+ </p><p id="HangingIndent">17. Tsuji, Y., Bennett, G. &amp; Leigh, J. (2009). Investigating factors affecting brand awareness of virtual advertising. Journal of Sport Management, 23(4), 511-544.
+ </p><p id="HangingIndent">18. Bennett, G., Ferreira, Lee, J. &amp; Polite, F. (2009). The role of involvement in sports and sport spectatorship in sponsorÃ¢Â€Â™s brand use: The case of Mountain Dew and action sports sponsorship. Sport Marketing Quarterly, 18(1), 14-24.
+<sup>*</sup> </p><p id="HangingIndent">19. Ferreira, M., Hall, T., &amp; Bennett, G. (2008). Exploring brand positioning in the context of sponsorship: A correspondence analysis of the Dew Action Sport Tour. Journal of Sport Management, 22(6).
+<sup>*</sup> </p><p id="HangingIndent">20. Tsuji, Y., Bennett, G., &amp; Dees, W. (2008). Factors affecting repeat attendance intentions: The case of a state sports event. International Journal of Sport Management, 9(1), 1-14.
+<sup>*</sup> </p><p id="HangingIndent">21. Dees, W., Bennett, G., &amp; Villegas, J. (2008). Measuring the effectiveness of commercial sponsorships of an elite intercollegiate football program. Sport Marketing Quarterly 17(2),79-89.
+<sup>*</sup> </p><p id="HangingIndent">22. Dees, W.,  &amp; Bennett, G. (2008). The effect of fan involvement on consumersÂ’ response to sponsorship at a professional tennis tournament. International Journal of Sport Management, 9(3), 328-342.
+<sup>*</sup> </p><p id="HangingIndent">23. Gwinner, K., &amp; Bennett, G. (2008). The impact of brand cohesiveness and sport identification on brand fit in a sponsorship context. Journal of Sport Management, 22(4), 410-426.
+ </p><p id="HangingIndent">24. Dees, W., Bennett, G., &amp; Tsuji, Y. (2007). Attitudes toward sponsorship at a state sports festival. Event Management, 10(2), 89-101.
+<sup>*</sup> </p><p id="HangingIndent">25. Tsuji, Y., Bennett, G., &amp; Zhang, J. (2007). Consumer satisfaction with an action sports event. Sport Marketing Quarterly, 16(4), 199-208.
+<sup>*</sup> </p><p id="HangingIndent">26. Bennett, G., Ferreira, M., Tsuji, Y., Siders, R., &amp; Cianfrone, B. (2006). Analyzing the effects of advertising type and antecedents on attitude toward advertising in sport. International Journal of Sports Marketing and Sponsorship. 8(1), 62-81.
+<sup>*</sup> </p><p id="HangingIndent">27. Bennett, G., Cunningham, G., Sagas, M., &amp; Dees, W. (2006). Measuring the marketing communication activations of a professional tennis tournament. Sport Marketing Quarterly, 15, 91-101.
+<sup>*</sup> </p><p id="HangingIndent">28. Bennett, G., Sagas, M., &amp; Dees, W. (2006). Media preferences of action sports consumers: Differences between Generation X and Y. Sport Marketing Quarterly, 15 (1), 40-49
+<sup>*</sup> </p><p id="HangingIndent">29. Cianfrone, B., Bennett, G., Siders, R., &amp; Tsuji, Y. (2006). Virtual advertising and brand awareness. International Journal of Sport Management and Marketing, 1(4), 289-310.
+<sup>*</sup> </p><p id="HangingIndent">30. Zhang, J.J., Lam, E.T., Connaughton, D.P., Bennett, G., &amp; Smith, D.W.  (2005).  Development of a scale measuring spectator satisfaction toward support programs of minor league hockey games.  International Journal of Sport Management, 6 (1), 47-70.
+ </p><p id="HangingIndent">31. Bennett, G.B., Sagas, M., Fleming, D., &amp; Roenn, S.V. (2005). On being a living contradiction: The struggle of an elite Christian coach. Journal of Beliefs and Values, 26, 289-300.
+<sup>*</sup> </p><p id="HangingIndent">32. Von Roenn, S., Zhang, J., &amp; Bennett, G. (2004). Dimensions of ethical misconduct in contemporary sports and their association with the backgrounds of stakeholders. International Sports Journal, 37-54.
+<sup>*</sup> </p><p id="HangingIndent">33. Tillman, M.D., Hass, C.J., Brunt, D., &amp; Bennett, G.  (2004).  Jumping and landing strategies in women's volleyball.  Journal of Sports Science &amp; Medicine, 3, 30-36.
+ </p><p id="HangingIndent">34. Bennett, G., &amp; Lachowetz, T. (2004). Marketing to lifestyles: Action sports and Generation Y. Sport Marketing Quarterly, 13 (4), 239-243
+ </p><p id="HangingIndent">35. Bennett, G. &amp; Cox, J.  (2004).  Rock Solid: The History of Southern Mississippi Football.  University Press of Mississippi.
+ </p><p id="HangingIndent">36. Zhang, J.J., Lam, E.T., Connaughton, D.P., Bennett, G., Pease, D.G., Pham, U.L., et al.  (2004).  Variables affecting spectator enjoyment of minor league hockey games.  International Journal of Sport Management, 5(2), 157-182.
+ </p><p id="HangingIndent">37. McGuire, J., Drummond, J.L., &amp; Bennett, G.  (2003).  Adolescent smoking and physical activity: Practices and perceptions.  Community Education Journal.
+ </p><p id="HangingIndent">38. Zhang, J.J., Lam, E.T.C., Bennett, G., &amp; Connaughton, D.P.  (2003).  Confirmatory factor analysis of the spectator decision making inventory.  Measurement in Physical Education and Exercise Science, 7(2), 57-70.
+ </p><p id="HangingIndent">39. Bennett, G., Henson, R., &amp; Zhang, J.  (2003).  Generation Y perceptions of the action sports industry segment.  Journal of Sport Management, 17(2), 95-115.
+ </p><p id="HangingIndent">40. Bennett, G. &amp; Henson, R.  (2003).  Status of the action sports segment among college students.  International Sports Journal, 7(1), 124-138.
+ </p><p id="HangingIndent">41. Bennett, G., Henson, R., &amp; Drane, D.  (2003).  Student experiences with service learning in a sport management class.  Journal of Experiential Education, 26(2), 61-69.
+ </p><p id="HangingIndent">42. Bennett, G., Phillips, J., Drane, D., &amp; Sagas, M.  (2003).  The coaching carousel: Turnover effects on professional sport.  International Journal of Sport Management, 4(3), 192-204.
+ </p><p id="HangingIndent">43. Bennett, G., Henson, R., &amp; Zhang, J.  (2002).  Action sport sponsorship recognition.  Sport Marketing Quarterly, 11(3), 185-196.
+ </p><p id="HangingIndent">44. Bennett, G. &amp; Pharr, T.  (2002).  Controlling the running game.  Strategies: A Journal for Physical and Sport Educators, 15(5), 7-10.
+ </p><p id="HangingIndent">45. Hardin, B. &amp; Bennett, G.  (2002).  Instructional attributes of a successful baseball coach.  Applied Research Annual in Coaching and Athletics, 17, 43-62.
+ </p><p id="HangingIndent">46. Bennett, G. &amp; Hardin, B.  (2002).  Management behaviors of an elite intercollegiate baseball coach.  International Journal of Sport Management, 3(3), 199-214.
+ </p><p id="HangingIndent">47. Drummond, J.L., McGuire, J.G., &amp; Bennett, G.  (2002).  Student perceptions of exercise role modelling by secondary health educators.  Health Education, 61(1), 78-86.
+ </p><p id="HangingIndent">48. Bennett, G. &amp; Cyree, K.  (2002).  Team payroll and performance in baseball: Are championships purchased?  International Journal of Sport Management, 3(1), 74-84.
+ </p><p id="HangingIndent">49. Bennett, G.  (2002).  Web-based instruction in sport management.  Sport Management Review, 5(1), 45-68.
+ </p><p id="HangingIndent">50. Connaughton, D., Spengler, J., &amp; Bennett, G.  (2001).  Crisis planning and management for physical activity programs.  Journal of Physical Education, Recreation, and Dance, 72(7), 27-29.
+ </p><p id="HangingIndent">51. Beck, J., Bennett, G., Maneval, M., &amp; Hayes, H.  (2001).  Faculty perceptions of the academic perfformance of student-athletes.  Applied Research in Coaching and Athletics Annual, 16, 125-143.
+ </p><p id="HangingIndent">52. Bennett, G. &amp; Green, R.  (2001).  Service learning via online instruction.  College Student Journal, 35(4), 491-497.
+ </p><p id="HangingIndent">53. Bennett, G. &amp; Green, F.  (2001).  Student learning in the online environment: No significant difference?  Quest, 53, 1-13.
+ </p><p id="HangingIndent">54. Bennett, G., Henson, R., &amp; Connaughton, D.  (2001).  Student perceptions of an online course in sport management.  International Journal of Sport Management, 2(3), 205-215.
+ </p><p id="HangingIndent">55. Bennett, G. &amp; Maneval, M.  (2000).  An axiom in baseball.  Applied Research in Coaching and Athletics Annual, 14, 196-203.
+ </p><p id="HangingIndent">56. Bennett, G.  (2000).  Sport education as an alternative for the basic instruction program.  Chronicle of Physical Education in Higher Education, 11(3), 9-11.
+ </p><p id="HangingIndent">57. Bennett, G.  (2000).  Students' participation styles in two university weight training classes.  Journal of Teaching in Physical Education, 19(2), 182-205.
+ </p><p id="HangingIndent">58. Bennett, G. &amp; Yeager, C.  (2000).  The stride is key in hitting.  Strategies, 13(4), 5-7.
+ </p><p id="HangingIndent">59. Bennett, G. &amp; Phillips, J.  (2000).  Web-based instruction in physical education.  Chronicle of Physical Education in Higher Education, 11(3), 13-15.
+ </p><p id="HangingIndent">60. Bennett, G. &amp; Maneval, M.  (1999).  Accreditation: A solution for the basic instruction program?  Chronicle of Physical Education in Higher Education, 10(2), 15-16.
+ </p><p id="HangingIndent">61. Bennett, G. &amp; Hastie, P.  (1999).  Student perceptions of two university weight training classes.  Journal of Sport Pedagogy, 5(2), 13-32.
+ </p><p id="HangingIndent">62. Bennett, G. &amp; Maack, M.  (1999).  The importance of first-pitch strikes.  Applied Research in Coaching and Athletics Annual, 14, 196-203.
+ </p><p id="HangingIndent">63. Bennett, G. &amp; Maneval, M.  (1998).  Leadership styles of elite Dixie Youth baseball coaches.  Perceptual and Motor Skills, 87, 754.
+ 
+<br><a href="javascript:donothing()" onclick="publications_ShowShort()">Show Top 10</a>
+</p></div>
+</div>
+<p>
+<sup>*</sup> Publication was joint-authored with students<br>
+<sup>Diss</sup> Publication was from a dissertation<br>
+<sup>ROS</sup> Publication was from a record of study
+</p>
+</div>
+
+<div id="GrantsOldShow" style="display: none;">
+<div class="sectionheading">College of Education and Human Development Grants and Contracts (Former)</div>
+<div id="Section">
+<br>Data Collection at Sunshine State Games. (PI)<br>
+Florida Sports Foundation                                                                                                        (State)<br>
+2008/06/01 - 2009/09/01<br>
+
+Total Funding:       13,000.<br>
+<br>Fusion Arts Exchange on Sports Management. (PI)<br>
+Department of State                                                                                                              (Federal)<br>
+2008/03/05 - 2008/12/31<br>
+
+Total Funding:      300,000.<br>
+<br>Data Collection at Sunshine State Games. (PI)<br>
+Florida Sports Foundation                                                                                                        (State)<br>
+2007/06/01 - 2007/07/01<br>
+
+Total Funding:        6,500.<br>
+<br>The American Sport Brand International Exchange. (Co-PI)<br>
+Department of State                                                                                                              (Federal)<br>
+2007/05/22 - 2007/12/31<br>
+
+Total Funding:      279,987.<br>
+<br>Data Collection at Sunshine State Games 2006. (PI)<br>
+Florida Sports Foundation                                                                                                        (State)<br>
+2006/06/01 - 2006/06/30<br>
+
+Total Funding:        4,500.<br>
+<br>Research Work between Florida Sports Foundation and TAMU. (PI)<br>
+Florida Sports Foundation                                                                                                        (State)<br>
+2005/06/01 - 2005/07/01<br>
+
+Total Funding:        6,500.<br>
+<br>Research Work. (PI)<br>
+Dew Action Sports                                                                                                                (Private)<br>
+2005/06/01 - 2005/12/01<br>
+
+Total Funding:        2,500.<br>
+</div>
+<script>
+function ExternalFunding_donothing() { }
+function ExternalFunding_ShowOld() {
+  document.getElementById('GrantsOldShow').style.display='inline';
+  document.getElementById('GrantsOldHide').style.display='none';
+}
+function ExternalFunding_HideOld() {
+  document.getElementById('GrantsOldShow').style.display='none';
+  document.getElementById('GrantsOldHide').style.display='inline';
+}
+</script>
+
+<a href="javascript:ExternalFunding_donothing()" onclick="ExternalFunding_HideOld()">Hide Completed Grants/Contracts</a>
+<br><br>
+</div>
+<div id="GrantsOldHide" style="display: inline; margin-bottom: 15px;">
+<div class="sectionheading">College of Education and Human Development Grants and Contracts</div>
+<i>No current grants/contracts</i><br>
+<a href="javascript:ExternalFunding_donothing()" onclick="ExternalFunding_ShowOld()">Show Completed Grants/Contracts</a>
+<br><br>
+</div>
+</div>
+  
+
+<div id="tab_teaching">
+  <ul id="tabnav">
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('research')">Research</a></li>
+    <li class="tab-selected"><a href="javascript:donothing()" onclick="selectTab('teaching')">Teaching</a></li>
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('service')">Service</a></li>
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('other')">Other</a></li>
+    </ul>
+  <div class="tab-content"><div class="sectionheading">Courses Taught</div>
+
+    <div id="Section">
+    <dl style="margin-top: 0in;">
+<dt>2016 - 2017</dt>
+<dd><a href="javascript:openPage('course.epl?cid=SPMT423')">SPMT&nbsp;423</a>, <a href="javascript:openPage('course.epl?cid=SPMT615')">SPMT&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=SPMT683')">SPMT&nbsp;683</a>, <a href="javascript:openPage('course.epl?cid=SPMT685')">SPMT&nbsp;685</a></dd>
+<dt>2015 - 2016</dt>
+<dd><a href="javascript:openPage('course.epl?cid=SPMT423')">SPMT&nbsp;423</a>, <a href="javascript:openPage('course.epl?cid=SPMT483')">SPMT&nbsp;483</a>, <a href="javascript:openPage('course.epl?cid=SPMT485')">SPMT&nbsp;485</a>, <a href="javascript:openPage('course.epl?cid=SPMT615')">SPMT&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=SPMT682')">SPMT&nbsp;682</a>, <a href="javascript:openPage('course.epl?cid=SPMT683')">SPMT&nbsp;683</a>, <a href="javascript:openPage('course.epl?cid=SPMT691')">SPMT&nbsp;691</a></dd>
+<dt>2014 - 2015</dt>
+<dd><a href="javascript:openPage('course.epl?cid=SPMT423')">SPMT&nbsp;423</a>, <a href="javascript:openPage('course.epl?cid=SPMT483')">SPMT&nbsp;483</a>, <a href="javascript:openPage('course.epl?cid=SPMT485')">SPMT&nbsp;485</a>, <a href="javascript:openPage('course.epl?cid=SPMT615')">SPMT&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=SPMT683')">SPMT&nbsp;683</a>, <a href="javascript:openPage('course.epl?cid=SPMT684')">SPMT&nbsp;684</a>, <a href="javascript:openPage('course.epl?cid=SPMT685')">SPMT&nbsp;685</a>, <a href="javascript:openPage('course.epl?cid=SPMT691')">SPMT&nbsp;691</a></dd>
+<dt>2013 - 2014</dt>
+<dd><a href="javascript:openPage('course.epl?cid=SPMT337')">SPMT&nbsp;337</a>, <a href="javascript:openPage('course.epl?cid=SPMT423')">SPMT&nbsp;423</a>, <a href="javascript:openPage('course.epl?cid=SPMT485')">SPMT&nbsp;485</a>, <a href="javascript:openPage('course.epl?cid=SPMT615')">SPMT&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=SPMT682')">SPMT&nbsp;682</a>, <a href="javascript:openPage('course.epl?cid=SPMT683')">SPMT&nbsp;683</a>, <a href="javascript:openPage('course.epl?cid=SPMT684')">SPMT&nbsp;684</a>, <a href="javascript:openPage('course.epl?cid=SPMT685')">SPMT&nbsp;685</a>, <a href="javascript:openPage('course.epl?cid=SPMT691')">SPMT&nbsp;691</a>, <a href="javascript:openPage('course.epl?cid=SPMT483')">SPMT&nbsp;483</a></dd>
+<dt>2012 - 2013</dt>
+<dd><a href="javascript:openPage('course.epl?cid=SPMT337')">SPMT&nbsp;337</a>, <a href="javascript:openPage('course.epl?cid=SPMT684')">SPMT&nbsp;684</a>, <a href="javascript:openPage('course.epl?cid=SPMT685')">SPMT&nbsp;685</a>, <a href="javascript:openPage('course.epl?cid=SPMT691')">SPMT&nbsp;691</a>, <a href="javascript:openPage('course.epl?cid=SPMT423')">SPMT&nbsp;423</a>, <a href="javascript:openPage('course.epl?cid=SPMT615')">SPMT&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=SPMT683')">SPMT&nbsp;683</a></dd>
+<dt>2011 - 2012</dt>
+<dd><a href="javascript:openPage('course.epl?cid=SPMT337')">SPMT&nbsp;337</a>, <a href="javascript:openPage('course.epl?cid=SPMT615')">SPMT&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=SPMT682')">SPMT&nbsp;682</a>, <a href="javascript:openPage('course.epl?cid=SPMT683')">SPMT&nbsp;683</a>, <a href="javascript:openPage('course.epl?cid=SPMT684')">SPMT&nbsp;684</a>, <a href="javascript:openPage('course.epl?cid=SPMT685')">SPMT&nbsp;685</a>, <a href="javascript:openPage('course.epl?cid=SPMT691')">SPMT&nbsp;691</a></dd>
+<dt>2010 - 2011</dt>
+<dd><a href="javascript:openPage('course.epl?cid=SPMT337')">SPMT&nbsp;337</a>, <a href="javascript:openPage('course.epl?cid=SPMT423')">SPMT&nbsp;423</a>, <a href="javascript:openPage('course.epl?cid=SPMT482')">SPMT&nbsp;482</a>, <a href="javascript:openPage('course.epl?cid=SPMT483')">SPMT&nbsp;483</a>, <a href="javascript:openPage('course.epl?cid=SPMT485')">SPMT&nbsp;485</a>, <a href="javascript:openPage('course.epl?cid=SPMT615')">SPMT&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=SPMT682')">SPMT&nbsp;682</a>, <a href="javascript:openPage('course.epl?cid=SPMT683')">SPMT&nbsp;683</a>, <a href="javascript:openPage('course.epl?cid=SPMT684')">SPMT&nbsp;684</a>, <a href="javascript:openPage('course.epl?cid=SPMT685')">SPMT&nbsp;685</a>, <a href="javascript:openPage('course.epl?cid=SPMT691')">SPMT&nbsp;691</a></dd>
+<dt>2009 - 2010</dt>
+<dd><a href="javascript:openPage('course.epl?cid=SPMT217')">SPMT&nbsp;217</a>, <a href="javascript:openPage('course.epl?cid=SPMT337')">SPMT&nbsp;337</a>, <a href="javascript:openPage('course.epl?cid=SPMT482')">SPMT&nbsp;482</a>, <a href="javascript:openPage('course.epl?cid=SPMT601')">SPMT&nbsp;601</a>, <a href="javascript:openPage('course.epl?cid=SPMT615')">SPMT&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=SPMT682')">SPMT&nbsp;682</a>, <a href="javascript:openPage('course.epl?cid=SPMT683')">SPMT&nbsp;683</a>, <a href="javascript:openPage('course.epl?cid=SPMT684')">SPMT&nbsp;684</a>, <a href="javascript:openPage('course.epl?cid=SPMT685')">SPMT&nbsp;685</a>, <a href="javascript:openPage('course.epl?cid=SPMT691')">SPMT&nbsp;691</a></dd>
+<dt>2008 - 2009</dt>
+<dd><a href="javascript:openPage('course.epl?cid=KINE601')">KINE&nbsp;601</a>, <a href="javascript:openPage('course.epl?cid=KINE615')">KINE&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=KINE682')">KINE&nbsp;682</a>, <a href="javascript:openPage('course.epl?cid=KINE683')">KINE&nbsp;683</a>, <a href="javascript:openPage('course.epl?cid=KINE684')">KINE&nbsp;684</a>, <a href="javascript:openPage('course.epl?cid=KINE685')">KINE&nbsp;685</a>, <a href="javascript:openPage('course.epl?cid=SPMT217')">SPMT&nbsp;217</a>, <a href="javascript:openPage('course.epl?cid=SPMT337')">SPMT&nbsp;337</a>, <a href="javascript:openPage('course.epl?cid=SPMT482')">SPMT&nbsp;482</a></dd>
+<dt>2007 - 2008</dt>
+<dd><a href="javascript:openPage('course.epl?cid=KINE337')">KINE&nbsp;337</a>, <a href="javascript:openPage('course.epl?cid=KINE482')">KINE&nbsp;482</a>, <a href="javascript:openPage('course.epl?cid=KINE483')">KINE&nbsp;483</a>, <a href="javascript:openPage('course.epl?cid=KINE615')">KINE&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=KINE681')">KINE&nbsp;681</a>, <a href="javascript:openPage('course.epl?cid=KINE682')">KINE&nbsp;682</a>, <a href="javascript:openPage('course.epl?cid=KINE683')">KINE&nbsp;683</a>, <a href="javascript:openPage('course.epl?cid=KINE684')">KINE&nbsp;684</a>, <a href="javascript:openPage('course.epl?cid=KINE685')">KINE&nbsp;685</a>, <a href="javascript:openPage('course.epl?cid=KINE485')">KINE&nbsp;485</a></dd>
+<dt>2006 - 2007</dt>
+<dd><a href="javascript:openPage('course.epl?cid=KINE337')">KINE&nbsp;337</a>, <a href="javascript:openPage('course.epl?cid=KINE402')">KINE&nbsp;402</a>, <a href="javascript:openPage('course.epl?cid=KINE482')">KINE&nbsp;482</a>, <a href="javascript:openPage('course.epl?cid=KINE484')">KINE&nbsp;484</a>, <a href="javascript:openPage('course.epl?cid=KINE485')">KINE&nbsp;485</a>, <a href="javascript:openPage('course.epl?cid=KINE615')">KINE&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=KINE681')">KINE&nbsp;681</a>, <a href="javascript:openPage('course.epl?cid=KINE682')">KINE&nbsp;682</a>, <a href="javascript:openPage('course.epl?cid=KINE683')">KINE&nbsp;683</a>, <a href="javascript:openPage('course.epl?cid=KINE684')">KINE&nbsp;684</a>, <a href="javascript:openPage('course.epl?cid=KINE685')">KINE&nbsp;685</a>, <a href="javascript:openPage('course.epl?cid=KINE691')">KINE&nbsp;691</a></dd>
+<dt>2005 - 2006</dt>
+<dd><a href="javascript:openPage('course.epl?cid=KINE285')">KINE&nbsp;285</a>, <a href="javascript:openPage('course.epl?cid=KINE319')">KINE&nbsp;319</a>, <a href="javascript:openPage('course.epl?cid=KINE482')">KINE&nbsp;482</a>, <a href="javascript:openPage('course.epl?cid=KINE485')">KINE&nbsp;485</a>, <a href="javascript:openPage('course.epl?cid=KINE489')">KINE&nbsp;489</a>, <a href="javascript:openPage('course.epl?cid=KINE615')">KINE&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=KINE681')">KINE&nbsp;681</a>, <a href="javascript:openPage('course.epl?cid=KINE682')">KINE&nbsp;682</a>, <a href="javascript:openPage('course.epl?cid=KINE683')">KINE&nbsp;683</a>, <a href="javascript:openPage('course.epl?cid=KINE684')">KINE&nbsp;684</a>, <a href="javascript:openPage('course.epl?cid=KINE685')">KINE&nbsp;685</a>, <a href="javascript:openPage('course.epl?cid=KINE691')">KINE&nbsp;691</a></dd>
+<dt>2004 - 2005</dt>
+<dd><a href="javascript:openPage('course.epl?cid=KINE484')">KINE&nbsp;484</a>, <a href="javascript:openPage('course.epl?cid=KINE615')">KINE&nbsp;615</a>, <a href="javascript:openPage('course.epl?cid=KINE682')">KINE&nbsp;682</a>, <a href="javascript:openPage('course.epl?cid=KINE685')">KINE&nbsp;685</a></dd>
+
+    </dl>
+    </div>
+
+<div class="sectionheading">Former Doctoral Students</div>
+<div id="Section">
+Yosuke Tsuji (Spring, 2007), Ph.D.<br>
+Windy L. Dees (Fall, 2007), Ph.D.<br>
+Michael Hutchinson (Summer, 2010), Ph.D.<br>
+Khalid Ballouli (Summer, 2011), Ph.D.<br>
+Jason Reese (Fall, 2012), Ph.D.<br>
+Brandon Brown (Summer, 2013), Ph.D.<br>
+Chanho Kang (Summer, 2013), phd  <br>
+Jami Lobpries (Summer, 2014), Ph.D.<br>
+Joseph Arthur Pederson (Summer, 2016), Ph.D.<br>
+Lane Taylor Wakefield (Summer, 2016), Ph.D.<br>
+</div></div>
+  </div>
+
+<div id="tab_service">
+  <ul id="tabnav">
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('research')">Research</a></li>
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('teaching')">Teaching</a></li>
+    <li class="tab-selected"><a href="javascript:donothing()" onclick="selectTab('service')">Service</a></li>
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('other')">Other</a></li>
+    </ul>
+  <div class="tab-content">
+<div class="sectionheading">Editorial Positions</div>
+<div id="Section">
+<p id="HangingIndent">Editorial Board Member                             (1999 - 1999). <i>International Journal of Sport Management                                                                                                                                                                                                                 </i></p>
+</div>
+
+<div class="sectionheading">Professional Leadership/Service (International/National)</div>
+<div id="Section">
+<p id="HangingIndent">(2005). Conference Committtee Chair.&nbsp; Sport Marketing Association</p>
+</div></div>
+  </div>
+
+<div id="tab_other">
+  <ul id="tabnav">
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('research')">Research</a></li>
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('teaching')">Teaching</a></li>
+    <li class="tab"><a href="javascript:donothing()" onclick="selectTab('service')">Service</a></li>
+    <li class="tab-selected"><a href="javascript:donothing()" onclick="selectTab('other')">Other</a></li>
+  </ul>
+  <div class="tab-content">
+<div class="sectionheading">Awards</div>
+<div id="Section">
+<p id="HangingIndent">(2010). Professor of Excellence.&nbsp; ING Professor of Excellence, 2010 TAMU</p>
+<p id="HangingIndent">(2005-2006). Research Poster Presentation Award.&nbsp; Sport Marketing Association</p>
+<p id="HangingIndent">(2002). Teacher of the Year, College of Health.&nbsp; University of Florida</p>
+</div></div>
+  </div>
+
+</td>
+</tr>
+
+  <tr>
+  <td colspan="2" align="center">
+    <a href="./?dept=HLKN&amp;g=10">HLKN Faculty</a>
+    &nbsp; | &nbsp;
+    <a href="./?dept=HLKN&amp;g=2">HLKN Staff</a>
+<br><br>
+  </td>
+</tr>
+</tbody></table>
+
+
+              </div>
+            </div>
+            <!-- /.section, /#content -->
+          </div>
+        </div>
+        <!-- /#main, /#main-wrapper -->
+        <div id="footer">
+          <div id="footer-links">
+            <p>
+            <a href="/logout.epl" target="_blank">Logout</a> |
+            <a href="http://www.tamu.edu/" target="_blank">TAMU</a> |
+            <a href="http://itaccessibility.tamu.edu/" target="_blank">Web Accessibility</a> |
+            <a href="mailto:webmaster@education.tamu.edu">Webmaster</a>
+            </p>
+          </div>
+          <div id="copyright"><p>© 2016 College of Education and Human Development</p></div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+
+
+
+
+</body></html>

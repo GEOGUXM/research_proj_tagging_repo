@@ -1,0 +1,871 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Title -->
+    <title>
+	Staff Profile, City University of Hong Kong
+</title>
+    <!-- /Title -->
+    <!-- Meta -->
+    <meta name="author" content="City University of Hong Kong"><meta name="description" content="City University of Hong Kong Staff Profile."><meta name="keywords" content="City University of Hong Kong, City University of HK, City University HK, CityU Hong Kong, CityU HK, CityUHK, City University, CityU"><meta name="robots" content="index, follow"><meta name="viewport" content="width=720, initial-scale=0.72">
+    <!-- /Meta -->
+    <!-- Icon -->
+    
+    <!-- /Icon -->
+    <!-- CSS -->
+    
+    <!--rc <link rel="stylesheet" type="text/css" href="css/cityu.base.custom.css" />-->
+    <link rel="shortcut icon" href="https://www.cityu.edu.hk/favicon.ico" type="text/css"><link rel="stylesheet" href="https://template.cityu.edu.hk/template/css/cityu.base.css" type="text/css"><link rel="stylesheet" href="https://template.cityu.edu.hk/template/css/jquery.ddsmoothmenu.css" type="text/css"><link rel="stylesheet" href="https://template.cityu.edu.hk/template/css/jquery.nivo.slider.css" type="text/css"><link id="SiteCSS" href="Css/Publication.css" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="http://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PZF4343"></script><script type="text/javascript" src="https://template.cityu.edu.hk/template/js/jquery/jquery.min.js"></script><script type="text/javascript" src="https://template.cityu.edu.hk/template/js/cityu.base.js"></script><script type="text/javascript" src="https://template.cityu.edu.hk/template/js/jquery/ddsmoothmenu/jquery.ddsmoothmenu.js"></script><script type="text/javascript" src="https://template.cityu.edu.hk/template/js/jquery/ddsmoothmenu/jquery.ddsmoothmenu.ready.js"></script><script type="text/javascript" src="https://template.cityu.edu.hk/template/js/jquery/nivo.slider/jquery.nivo.slider.js"></script><script type="text/javascript" src="https://template.cityu.edu.hk/template/js/jquery/nivo.slider/jquery.nivo.slider.ready.js"></script><link href="Scripts/themes/default/easyui.css" rel="stylesheet" type="text/css"><link href="Scripts/themes/icon.css" rel="stylesheet" type="text/css"><link href="Css/basic.css" rel="stylesheet" type="text/css">
+    
+    <!-- /CSS -->
+    <!-- JS -->
+    <script type="text/javascript" src="Scripts/jquery.simplemodal.js"></script>
+    
+    
+    
+    <!-- /JS -->
+    <!-- jQuery Plugins -->
+    
+    
+    
+    
+    
+
+    
+    <!-- /jQuery Plugins -->
+    <!-- ADD YOUR JAVASCRIPTS HERE -->
+    <!-- <script src="Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+		<link rel="stylesheet" href="Styles/colorbox/colorbox.css" type="text/css" />
+		<script src="Scripts/colorbox/jquery.colorbox-min.js" type="text/javascript"></script>
+		<script src="Scripts/easydrag/jquery.easydrag.js" type="text/javascript"></script> -->
+    <!-- The following scripts were added by MP consultant 2011 -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            // Show PDF and Doc sign on screen when PDF / Doc link is found in Brief Bio section //
+            $(".BriefBioDetail a:[href$=.pdf]").addClass("cityu-link-pdf");
+
+            $(".BriefBioDetail a:[href$=.doc]").addClass("cityu-link-word");
+
+            // KP 20120822
+            // Add target='_blank' for the links of Bio, Other section
+            //$(".BriefBioDetail a").attr('target', '_blank');
+
+
+            // $("#colorbox").easydrag();
+
+            // Toggle the hightlight function when a list line is clicked //
+            //remove the highlight before set it.Then only one hightlight on screen
+            $('li').click(function () {
+
+
+                $('li').removeClass("highlight");
+
+            });
+
+
+            $('li:has(a)').click(function () {
+
+                $(this).addClass("highlight");
+
+            });
+
+        });
+        //
+        $(document).ready(function () {
+            // Adjust the page min-height based on type of browser //
+            if (navigator.userAgent.indexOf("Gecko") == -1) {
+                $("#cityu-content").css("min-height", "620px");
+            }
+            else {
+                $("#cityu-content").css("min-height", "700px");
+            }
+        });
+
+    </script>
+    <!-- end 2011 -->
+    <style type="text/css">
+        #cityu-content
+        {
+            min-height: 620px;
+        }
+        
+        .Edit
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: lighter;
+            font-size: 10px;
+            font-style: normal;
+            margin-left: 20px;
+            color: #006699;
+        }
+        
+        /*KP 20120821*/
+        .SortDone
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: lighter;
+            font-size: 10px;
+            font-style: normal;
+            margin-left: 20px;
+            color: #006699;
+            background: #fbf9ee !important;
+            border: 1.5px #069 solid !important;
+        }
+        
+        .BriefBioDetail
+        {
+            margin-bottom: 15px;
+        }
+        
+        .PictImg
+        {
+            /*  width:140px;
+            height:175px; */
+        }
+        
+        .ShowHide
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: lighter;
+            font-size: 10px;
+            font-style: normal;
+            margin-left: 20px;
+            color: #006699;
+        }
+        
+        .ShowHideTxt
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: lighter;
+            font-size: 10px;
+            font-style: normal;
+            margin-left: 20px;
+            color: #006699;
+        }
+        
+        .EditDone
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: lighter;
+            font-size: 10px;
+            font-style: normal;
+            margin-left: 20px;
+            color: #006699;
+            background: #fbf9ee !important;
+            border: 1.5px #069 solid !important;
+        }
+        
+        
+        /* KP 20120827 */
+        /*****************
+        #cityu-content .cityu-page-sub
+        {
+            width: 230px;
+        }
+        ******************/
+        /*end KP 20120827*/
+        
+        #cityu-content .cityu-page-main
+        {
+            width: 620px;
+        }
+        
+        /*
+        .Doclink:hover
+        {
+            color:#202020;
+            text-decoration:underline;
+        }
+    
+        .Doclink
+        {
+            color:#202020;
+            color: blue;
+            text-decoration:underline;
+        }
+        */
+        
+        .AddPhoto
+        {
+            display: block;
+            position: relative;
+            top: -160px;
+            left: -50px;
+            padding: 2px 0;
+            font-size: 11px;
+            text-align: center;
+            color: #006699;
+        }
+        
+        /* KP 20120924 */
+        .wordwrap
+        {
+            word-wrap: break-word;
+            word-break: break-all;
+            display: inline-block;
+            overflow: auto;
+            white-space: pre-wrap; /* css-3 */
+            white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+            white-space: -pre-wrap; /* Opera 4-6 */
+            white-space: -o-pre-wrap; /* Opera 7 */
+            width: 160px;
+        }
+        /* end KP 20120924 */
+        
+        /* KP 20121004 Display icons */
+        #cityu-content .cityu-page-sub .cityu-staff-icons
+        {
+            line-height: 20px;
+            text-align: left;
+        }
+        /* end KP 20121004 */
+        
+        /*  KP 20121004 Workflow */
+        .progress_arrow
+        {
+            position: relative;
+            float: left;
+            width: 23%;
+            height: 100%;
+        }
+        
+        .progress_arrow img
+        {
+            width: 100%;
+            height: 110%;
+            display: block;
+        }
+        
+        .progress_arrow div
+        {
+            position: absolute;
+            top: 20%;
+            left: 10%;
+            width: 80%;
+            color: white;
+            text-align: center;
+            font-family: Arial;
+            font-size: small;
+        }
+        /* end KP 20121004 */
+        
+        /* KP 20120924 */
+        .SummaryField, .ShowHideTxt
+        {
+            color: red;
+            font-weight: bold;
+            font-size: 12px;
+        }
+        /* end KP 20120924 */
+
+    </style>
+    
+    <style type="text/css">
+        #cityu-content .cityu-staff-qualification ul > li
+        {
+            background: none;
+        }
+        
+        #cityu-content A.cityu-link-download
+        {
+            padding-top: 6px;
+        }
+        
+        #ContentPlaceHolder1_PrintSection
+        {
+            /* width: 45%; */
+            position: relative;
+            float: right;
+        }
+        
+        .cityu-staff-link
+        {
+            /* width: 70%; */
+            width: 60%;
+        }
+    </style>
+    <!-- The following scripts were added by MP consultant 2011 -->
+    <script type="text/javascript">
+
+        // Pop up a window to preview the page //
+        function winpop(loc, w, h) {
+            var lt = screen.width / 2 - w / 2;
+            var tp = screen.height / 2 - h / 2;
+            var win = window.open(loc, "arropopup", "top=" + tp + ",left=" + lt + ",width=" + w + ",height=" + h + ",toolbar=no,status=no,location=no,resizable=yes,scrollbars=yes");
+            win.focus();
+
+        }
+        // Call system print function //
+        if (getParameterByName('PrintMode') == "Y") {
+            window.print();
+        }
+
+        // Get QueryString by name //
+        function getParameterByName(name) {
+            name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+            var regexS = "[\\?&]" + name + "=([^&#]*)";
+            var regex = new RegExp(regexS);
+            var results = regex.exec(window.location.href);
+            if (results == null)
+                return "";
+            else {
+                return decodeURIComponent(results[1].replace(/\+/g, " "));
+            }
+        }
+
+        function getAlert() {
+            var publishAlert = 'Are you sure to publish profile to public?';
+            var agree = confirm(publishAlert);
+            if (agree)
+                return true;
+            else
+                return false;
+        }
+    </script>
+    <script type="text/javascript">
+        /* apply css style when print PDF file*/
+        $(document).ready(function () {
+            var PDFMode = 'N';
+            var BatchMode = 'Y';
+            var FontSize = '0';
+
+            var EnableSummary = 'N';
+            var ShowDetailsMode = 'N';
+
+            if (PDFMode == "Y") {
+
+                /* cater for simplified characters*/
+                // comment for testing PDF
+                $("#ContentPlaceHolder1_StaffName").css('font-family', 'Microsoft JhengHei, Helvetica, Arial, sans-serif');
+                $("#ContentPlaceHolder1_BriefBioSection").css('font-family', 'Microsoft JhengHei, Helvetica, Arial, sans-serif');
+                $("#cityu-content").css('font-family', 'Microsoft JhengHei, Helvetica, Arial, sans-serif');
+
+                //$("#ContentPlaceHolder1_BriefBioSection").css('font-family','Segoe UI, PT Sans, Helvetica, Arial, sans-serif');
+                //$("#cityu-content").css('font-family', 'Segoe UI, PT Sans, Helvetica, Arial, sans-serif');
+
+                //$("#ContentPlaceHolder1_BriefBioSection").css('font-family',  'SimSun, Helvetica, Arial, sans-serif');
+                //$("#cityu-content").css('font-family', 'SimSun, Helvetica, Arial, sans-serif');
+
+                $("#cityu-header").css('-moz-box-shadow', '0px 2px 6px white');
+                $("#cityu-header").css('-webkit-box-shadow', '0px 2px 6px white');
+                $("#cityu-header").css('box-shadow', '0px 2px 6px white');
+
+                $("#cityu-content").css('-moz-box-shadow', '0px 2px 6px white');
+                $("#cityu-content").css('-webkit-box-shadow', '0px 2px 6px white');
+                $("#cityu-content").css('box-shadow', '0px 2px 6px white');
+
+                $("#cityu-footer").css('visibility', 'hidden');
+                $("#cityu-header-search").css('visibility', 'hidden');
+
+                /* KP 20130205 */
+                $("body #cityu-header-wa").css('-moz-box-shadow', '0px 2px 6px white');
+                $("body #cityu-header-wa").css('-moz-box-shadow', '0px 2px 6px white');
+                $("body #cityu-header-wa").css('-webkit-box-shadow', '0px 2px 6px white');
+
+                $("#ContentPlaceHolder1_ProgressPanel").css('visibility', 'hidden');
+                $("#ContentPlaceHolder1_PrintSection").css('visibility', 'hidden');
+                $("#cityu-header-links").css('visibility', 'hidden');
+                $("#cityu-header-search").css('visibility', 'hidden');
+
+                // Adjust font size
+                cityu.util.setCookie('fontsize', FontSize, 365);
+                /* end KP 20130205 */
+
+                // Display summary of selected publications
+                if (EnableSummary == "Y") {
+                    if (ShowDetailsMode == "Y") {
+                        // $("li.ListItemHide").css('visibility', 'visible');
+                        $("li.ListItemHide").show();
+                        $("div.ListItemHide").show();
+
+                        $("a#PublicaHide").show(); // "hide"
+                        $("a#PublicaShow").hide(); // "show details"
+                    }
+                    else {
+                        // $("li.ListItemHide").css('visibility', 'hidden');
+                        $("li.ListItemHide").hide();
+                        $("div.ListItemHide").hide();
+
+                        $("a#PublicaHide").hide(); // "hide"
+                        $("a#PublicaShow").show(); // "show details"
+                    }
+                }
+                else {
+                    // $("li.ListItemHide").css('visibility', 'visible');
+                    $("li.ListItemHide").show();
+                    $("div.ListItemHide").show();
+
+                    $("a#PublicaHide").hide();
+                    $("a#PublicaShow").hide();
+                }
+            }
+            else {
+            // For other modes
+                 $("li.ListItemHide").hide();
+                 $("div.ListItemHide").hide();
+
+                if (EnableSummary == "Y") {
+                    $("a#PublicaHide").hide();
+                }
+                else {
+                    $("a#PublicaHide").hide();
+                    $("a#PublicaShow").hide();
+                }
+            }
+
+            /** KP 20130205 Get department list from DB instead of Runtime **/
+            /** KP 20121109 Runtime to get department list **/
+            /* if (BatchMode == "Y") {
+            $.ajax({
+            type: "post",
+            url: "ListDept.ashx/chungtin",
+            data: "",
+            success: function (str) {
+            $("#ContentPlaceHolder1_CollegeTitle").html(str);
+            },
+            error: function () {
+            $("#ContentPlaceHolder1_CollegeTitle").html("FAIL");
+            }
+            });
+            return false;
+            } */
+        });
+    </script>
+    <script type="text/javascript">
+        /** update value of query string **/
+        function updateQueryStringParameter(uri, key, value) {
+            var re = new RegExp("([?|&])" + key + "=.*?(&|$)", "i");
+            separator = uri.indexOf('?') !== -1 ? "&" : "?";
+            if (uri.match(re)) {
+                return uri.replace(re, '$1' + key + "=" + value + '$2');
+            }
+            else {
+                return uri + separator + key + "=" + value;
+            }
+        }
+
+        $(document).ready(function () {
+            //	When visitor clicks "show details", toggle the items in the list
+            $("a#PublicaShow").click(function () {
+
+                // $("li.ListItemHide").show();
+                // $("li.ListItemHide").css('visibility', 'visible');
+
+                $("li.ListItemHide").toggle("slow");
+                $("div.ListItemHide").toggle("slow");
+
+                // KP 20130702 Hide the ViewPDF button
+                // var url = document.getElementById("ContentPlaceHolder1_ViewPDF").href.toString();
+                // url = updateQueryStringParameter(url, 'ShowDetails', 'Y');
+                // document.getElementById("ContentPlaceHolder1_ViewPDF").href = url;
+
+                $("a#PublicaHide").show();
+                // $("a#PublicaHide").css('visibility', 'visible');
+
+                $("a#PublicaShow").hide();
+            });
+
+            //	When visitor clicks "hide", toggle the items in the list
+            $("a#PublicaHide").click(function () {
+
+                // $("li.ListItemHide").hide();
+                // $("li.ListItemHide").css('visibility', 'hidden');
+
+                $("li.ListItemHide").toggle("slow");
+                $("div.ListItemHide").toggle("slow");
+                // document.getElementById("ContentPlaceHolder1_ShowDetails").value = "N";
+
+                // KP 20130702 Hide the ViewPDF button
+                //                var url = document.getElementById("ContentPlaceHolder1_ViewPDF").href.toString();
+                //                url = updateQueryStringParameter(url, 'ShowDetails', 'N');
+                //                document.getElementById("ContentPlaceHolder1_ViewPDF").href = url;
+
+                $("a#PublicaHide").hide();
+                // $("a#PublicaHide").css('visibility', 'hidden');
+
+                $("a#PublicaShow").show();
+            });
+
+        });
+    </script>
+    <!-- End -->
+<link rel="stylesheet" type="text/css" media="print" href="http://template.cityu.edu.hk/template/css/cityu.print.css"></head>
+<body id="CityULayoutFullContent" class="cityu cityu-layout-fullcontent">
+    <!-- Header -->
+    <div id="cityu-header" class="cityu-outer cityu-bg-clear" role="banner">
+        <div class="cityu-inner">
+            <!-- Global -->
+            <div id="cityu-header-global">
+                <!-- CityU Logo -->
+                <div id="cityu-header-cityulogo">
+                    <a href="http://www.cityu.edu.hk/">
+                        <img src="https://template.cityu.edu.hk/template/img/logos/cityu_subpage.png" id="CityuHeaderImg" alt="City University of Hong Kong"></a>
+                </div>
+                <!-- /CityU Logo -->
+                <!-- Skip Links -->
+                <div class="cityu-skiplink">
+                    <a href="#cityu-content">Skip to content</a>
+                </div>
+                <!-- /Skip Links -->
+                <!-- Toolbar -->
+                <div id="cityu-header-toolbar">
+                    <!-- Links -->
+                    <div id="cityu-header-links">
+                        
+                        
+                        <a href="https://spe.ad.cityu.edu.hk:443/StaffProfile/StaffProfile.aspx?GoToPage=Edit&amp;Action=Login" id="StaffLogin">Staff Login</a>
+                    </div>
+                    <!-- /Links -->
+                    <!-- Search -->
+                
+                    <div id="cityu-header-search" role="search">
+                        <div id="CityUHeaderSearch">
+                            <form method="get" action="http://www6.cityu.edu.hk/cityusearch">
+                            <fieldset>
+                                <legend class="cityu-hidden">Search</legend>
+                                <div class="cityu-search-type-wrapper">
+                                    <label class="cityu-hidden" for="cityu-search-type">
+                                        Search Type</label>
+                                    <select id="cityu-search-type" style="width: 100%;" name="sitesearch" title="Search options">
+                                        <option value="cityu.edu.hk" selected="selected">CityU</option>
+                                        <option value="people">Staff</option>
+                                    </select>
+                                </div>
+                                <div class="cityu-search-text-wrapper">
+                                    <label class="cityu-hidden" for="cityu-search-text">
+                                        Search Keywords</label>
+                                    <input id="cityu-search-text" name="q" placeholder="Search" type="text">
+                                    <label class="cityu-hidden" for="cityu-search-button">
+                                        Submit Search</label>
+                                    <input id="cityu-search-button" class="cityu-search-button" value="" type="submit">
+                                </div>
+                            </fieldset>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- /Search -->
+                    <!-- Language -->
+                    <div id="cityu-header-wa"><div class="cityu-wa-fontsize"><button class="cityu-wa-fontsize-0 disabled" title="Smaller Font Size">-</button><button class="cityu-wa-fontsize-1" title="Default Font Size"><i class="icon-font"></i></button><button class="cityu-wa-fontsize-2" title="Larger Font Size">+</button></div></div><div id="cityu-header-lang" class="cityu-hidden">
+                        <a href="">Eng</a> · <a href="">繁體</a> · <a href="">简体</a>
+                    </div>
+                    <!-- /Language -->
+                </div>
+                <!-- /Toolbar -->
+            </div>
+            <!-- /Global -->
+        </div>
+    </div>
+    <!-- /Header -->
+    <!-- Main -->
+    <!-- Content -->
+    <div>
+        
+        <!-- KP 20120831 -->
+        <form method="post" action="./CityU_ProfileOnline.aspx?BatchMode=Y&amp;PIDM=863058" id="form1">
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODIzNDEyODM3D2QWAmYPZBYCAgMPZBYMAgEPFgIeA3NyYwVCaHR0cHM6Ly90ZW1wbGF0ZS5jaXR5dS5lZHUuaGsvdGVtcGxhdGUvaW1nL2xvZ29zL2NpdHl1X3N1YnBhZ2UucG5nZAIDDw8WBB4EVGV4dGUeB1Zpc2libGVoZGQCBQ8WAh8CZ2QCBg8WBB4EaHJlZgUsU3RhZmZQcm9maWxlLmFzcHg/R29Ub1BhZ2U9RWRpdCZBY3Rpb249Q2xvc2UfAmhkAgoPZBYEAgEPZBYCAgEPZBY2AgEPFgIfAmhkAgMPFgIeCWlubmVyaHRtbAXJAQ0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIA0KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0nY2l0eXUtc3RhZmYtbGluayc+PGEgaHJlZj0naHR0cDovL3d3dy5jaXR5dS5lZHUuaGsvbWJlJyB0YXJnZXQ9J19ibGFuayc+RGVwYXJ0bWVudCBvZiBNZWNoYW5pY2FsIGFuZCBCaW9tZWRpY2FsIEVuZ2luZWVyaW5nPC9hPjwvZGl2PmQCBQ9kFhACAQ8WBB8DBRVTdGFmZlByb2ZpbGVNYWluLmFzcHgfAmhkAgIPFgIfAmhkAgQPFgIfAmhkAgUPFgIfAmhkAgcPFgIfAAVCaHR0cHM6Ly90ZW1wbGF0ZS5jaXR5dS5lZHUuaGsvdGVtcGxhdGUvaW1nL2ljb25zL3dlYi9zbWFsbC9wZGYucG5nZAIJDxYCHwMFMENpdHlVX1Byb2ZpbGVPbmxpbmUuYXNweD9WaWV3UERGPVkmU2hvd0RldGFpbHM9TmQCCw8WAh8CaGQCDQ8WAh8ABT5odHRwczovL3RlbXBsYXRlLmNpdHl1LmVkdS5oay90ZW1wbGF0ZS9pbWcvaWNvbnMvd2ViL3ByaW50LnBuZ2QCBw8PFgIfAQUcRHIuIFRJTiBDaHVuZyAo55Sw57+A5Y2a5aOrKWRkAgkPFgIfBAVhDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSdMaXN0SXRlbSc+QkVuZyhIS1UpLCBNUyhNSVQpLCBQaEQoTUlUKTwvc3Bhbj48L2JyPmQCDQ8WAh8EBToNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDI+QXNzaXN0YW50IFByb2Zlc3NvcjwvaDI+ZAIPDxYGHgV3aWR0aAUDMjAwHgZoZWlnaHQFAzIwMB8ABQ44NjMwNThfU1RGLmpwZ2QCEQ9kFgoCAQ8WAh8CZxYCAgEPZBYEAgEPFgIfBAUFUDY0MTZkAgMPFgIfBAUDQUMxZAIDDxYCHwJnFgICAQ9kFgICAQ8WAh8EBQgzNDQyNTE0NWQCBw8WAh8CZxYCAgEPZBYCAgEPFgIfAwUcbWFpbHRvOmNodW5ndGluQGNpdHl1LmVkdS5oaxYCZg8WAh8EBRVjaHVuZ3RpbkBjaXR5dS5lZHUuaGtkAgkPFgIfAmcWAgIBD2QWAgIBDxYCHwMFJ2h0dHA6Ly9wZXJzb25hbC5jaXR5dS5lZHUuaGsvfmNodW5ndGluLxYCZg8WAh8EBQtMYWIgV2VicGFnZWQCCw8WAh8CaBYWAgEPFgIfAmgWAgIBDxYEHwAFRGh0dHBzOi8vdGVtcGxhdGUuY2l0eXUuZWR1LmhrL3RlbXBsYXRlL2ltZy9pY29ucy9zb2NpYWwvZmFjZWJvb2sucG5nHwJoZAIDDxYCHwJoFgICAQ8WBB8ABUNodHRwczovL3RlbXBsYXRlLmNpdHl1LmVkdS5oay90ZW1wbGF0ZS9pbWcvaWNvbnMvc29jaWFsL2Jsb2dnZXIucG5nHwJoZAIFDxYCHwJoFgICAQ8WBB8ABURodHRwczovL3RlbXBsYXRlLmNpdHl1LmVkdS5oay90ZW1wbGF0ZS9pbWcvaWNvbnMvc29jaWFsL2xpbmtlZGluLnBuZx8CaGQCBw8WAh8CaBYCAgEPFgQfAAVDaHR0cHM6Ly90ZW1wbGF0ZS5jaXR5dS5lZHUuaGsvdGVtcGxhdGUvaW1nL2ljb25zL3NvY2lhbC90d2l0dGVyLnBuZx8CaGQCCQ8WAh8CaBYCAgEPFgQfAAVCaHR0cHM6Ly90ZW1wbGF0ZS5jaXR5dS5lZHUuaGsvdGVtcGxhdGUvaW1nL2ljb25zL3NvY2lhbC90dW1ibHIucG5nHwJoZAILDxYCHwJoFgICAQ8WBB8ABUFodHRwczovL3RlbXBsYXRlLmNpdHl1LmVkdS5oay90ZW1wbGF0ZS9pbWcvaWNvbnMvc29jaWFsL2lzc3V1LnBuZx8CaGQCDQ8WAh8CaBYCAgEPFgQfAAU/aHR0cHM6Ly90ZW1wbGF0ZS5jaXR5dS5lZHUuaGsvdGVtcGxhdGUvaW1nL2ljb25zL3NvY2lhbC9yc3MucG5nHwJoZAIPDxYCHwJoFgICAQ8WBB8ABUJodHRwczovL3RlbXBsYXRlLmNpdHl1LmVkdS5oay90ZW1wbGF0ZS9pbWcvaWNvbnMvc29jaWFsL2ZsaWNrci5wbmcfAmhkAhEPFgIfAmgWAgIBDxYEHwAFQmh0dHBzOi8vdGVtcGxhdGUuY2l0eXUuZWR1LmhrL3RlbXBsYXRlL2ltZy9pY29ucy9zb2NpYWwvZmxpY2tyLnBuZx8CaGQCEw8WAh8CaBYCAgEPFgQfAAVCaHR0cHM6Ly90ZW1wbGF0ZS5jaXR5dS5lZHUuaGsvdGVtcGxhdGUvaW1nL2ljb25zL3NvY2lhbC9mbGlja3IucG5nHwJoZAIVDxYCHwJoFgICAQ8WBB8ABUJodHRwczovL3RlbXBsYXRlLmNpdHl1LmVkdS5oay90ZW1wbGF0ZS9pbWcvaWNvbnMvc29jaWFsL2ZsaWNrci5wbmcfAmhkAhMPZBYCAgEPFgIfBAWfAQ0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPk5ldXJhbCBQcm9zdGhldGljczwvbGk+PGxpPkJyYWluLW1hY2hpbmUgaW50ZXJmYWNlPC9saT48bGk+TmV1cmFsIENvbXB1dGF0aW9uPC9saT48bGk+TW90b3IgbGVhcm5pbmcgYW5kIGNvbnRyb2w8L2xpPmQCFQ8WAh8CaGQCFw8WAh8CaGQCGQ8WAh8CaGQCGw8WAh8CaGQCHQ9kFgICAQ8WAh8EBbQGQ2h1bmcgVGluIGlzIGN1cnJlbnRseSBhbiBBc3Npc3RhbnQgUHJvZmVzc29yIGluIERlcGFydG1lbnQgb2YgTWVjaGFuaWNhbCBhbmQgQmlvbWVkaWNhbCBFbmdpbmVlcmluZyBhdCBDaXR5IFVuaXZlcnNpdHkgb2YgSG9uZyBLb25nLiBIZSByZWNlaXZlZCBoaXMgQkVuZy4gZGVncmVlICgxc3QgQ2xhc3MpIGZyb20gVW5pdmVyc2l0eSBvZiBIb25nIEtvbmcgaW4gTWVjaGFuaWNhbCBFbmdpbmVlcmluZyBpbiAyMDAyLiBIZSB0aGVuIG1vdmVkIHRvIHRoZSBVbml0ZWQgU3RhdGVzIGFuZCBvYnRhaW5lZCBoaXMgUy5NLiBhbmQgUGhELiBkZWdyZWVzLCBib3RoIGluIE1lY2hhbmljYWwgRW5naW5lZXJpbmcsIGZyb20gTWFzc2FjaHVzZXR0cyBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSwgaW4gMjAwNCBhbmQgMjAxMSwgcmVzcGVjdGl2ZWx5LiBIZSBjb250aW51ZXMgYXMgYSBwb3N0ZG9jdG9yYWwgYXNzb2NpYXRlIGluIE1JVCB1bnRpbCBoZSByZXR1cm5lZCB0byBIb25nIEtvbmcgaW4gMjAxMi4gSGUgaGFzIGJlZW4gYXdhcmRlZCBDcm91Y2hlciBGb3VuZGF0aW9uIFNjaG9sYXJzaGlwIChISyksIEFtZXJpY2FuIEhlYXJ0IEFzc29jaWF0aW9uIFByZWRvY3RvcmFsIEZlbGxvd3NoaXAsIGFuZCBFYXJseSBDYXJlZXIgQXdhcmQgKFJlc2VhcmNoIEdyYW50IENvdW5jaWwsIEhvbmcgS29uZykuIEhpcyByZXNlYXJjaCBpbnRlcmVzdHMgaW5jbHVkZSBuZXVyYWwgcHJvc3RoZXRpYyBzeXN0ZW1zLCBicmFpbi1tYWNoaW5lIGludGVyZmFjZSwgbmV1cmFsIGNvbXB1dGF0aW9uIGFuZCBzZW5zb3JpbW90b3IgbGVhcm5pbmcgYW5kIGNvbnRyb2wuIGQCHw9kFgICAQ8WAh8EBZkFDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0nTGlzdEl0ZW0nPiAyMDEzIDxiPiZsZHF1bztFYXJseSBDYXJlZXIgQXdhcmQmcmRxdW87PC9iPiA8aT5SZXNlYXJjaCBHcmFudCBDb3VuY2lsLCBIb25nIEtvbmcgU0FSPC9pPi48L2xpPjxsaSBjbGFzcz0nTGlzdEl0ZW0nPiAyMDA4IDxiPiZsZHF1bztQcmVkb2N0b3JhbCBGZWxsb3dzaGlwJnJkcXVvOzwvYj4gPGk+QW1lcmljYW4gSGVhcnQgQXNzb2NpYXRpb24gPC9pPi48L2xpPjxsaSBjbGFzcz0nTGlzdEl0ZW0nPiAyMDA5IDxiPiZsZHF1bztQcmVzaWRlbnQgQXdhcmQmcmRxdW87PC9iPiA8aT5YSXRoIE94Zm9yZCBDb25mZXJlbmNlIG9uIE1vZGVsaW5nIGFuZCBDb250cm9sIG9mIEJyZWF0aGluZzwvaT4uPC9saT48bGkgY2xhc3M9J0xpc3RJdGVtJz4gMjAwMiA8Yj4mbGRxdW87VGhlIENyb3VjaGVyIEZvdW5kYXRpb24gU2Nob2xhcnNoaXAmcmRxdW87PC9iPiA8aT5Dcm91Y2hlciBGb3VuZGF0aW9uLCBIb25nIEtvbmc8L2k+LjwvbGk+PGxpIGNsYXNzPSdMaXN0SXRlbSc+IDIwMDIgPGI+JmxkcXVvO1NpciBFZHdhcmQgWW91ZGUgTWVtb3JpYWwgU2Nob2xhcnNoaXAmcmRxdW87PC9iPiA8aT5TaXIgRWR3YXJkIFlvdWRlIE1lbW9yaWFsIEZ1bmQsIEhvbmcgS29uZzwvaT4uPC9saT5kAiEPZBYCAgEPFgIfBAWUAQ0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+IEp1biAyMDExIC0gSnVuIDIwMTIsIFBvc3Rkb2N0b3JhbCBBc3NvY2lhdGUsIEhhcnZhcmQvTUlUIERpdmlzaW9uIG9mIEhlYWx0aCBTY2llbmNlIGFuZCBUZWNobm9sb2d5LCBNSVQuPC9saT5kAiMPFgIfAmhkAiUPFgIfAmhkAicPZBYSAgEPZBYCAgEPFgIfBAW0KA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7Ij48YSBpZD0nUHVibGljYTI0Jz48L2E+PGI+WmhhaSwgWGlhb2xvbmcuIDwvYj4sIEplbGZzLCBCZXRoLiAsIENoYW4sIFJvc2EgSC5NLiAgJiA8Yj5UaW4sIENodW5nLiA8L2I+ICgyMDE3KS4gPHNwYW4gID5BIFNlbGYtcmVjYWxpYnJhdGluZyBNeW9lbGVjdHJpYyBDbGFzc2lmaWVyIG9mIEhhbmQgTW92ZW1lbnRzIGJhc2VkIG9uIENvbnZvbHV0aW9uYWwgTmV1cmFsIE5ldHdvcmtzPC9zcGFuPi4gPHNwYW4gY2xhc3MgPSJBUEE2VGl0bGUiPnN1Ym1pdHRlZDwvc3Bhbj4uIDwvbGk+PGxpIHN0eWxlPSJwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7Ij48YSBpZD0nUHVibGljYTI1Jz48L2E+TGF1LCBDaWEtSGluLiAsIEhvLCBKb25hdGhhbiBXLiAsIFhpYW8sIE5hLiAsIERhaSwgWml3ZW4uICwgQ2hhbiwgTWl1IFNoYW4uICwgVGFtLCBEaWNrIFlhbi4gLCBMbywgUGlrIEt3YW4uICAmIDxiPlRpbiwgQ2h1bmcuIDwvYj4gKDIwMTcpLiA8c3BhbiAgPlJld2lyZSBDYW1rMmEgR2VuZSBFeHByZXNzaW9uIGJ5IE1vZHVsYXRpbmcgU3VwZXItZW5oYW5jZXI8L3NwYW4+LiA8c3BhbiBjbGFzcyA9IkFQQTZUaXRsZSI+c3VibWl0dGVkPC9zcGFuPi4gPC9saT48bGkgc3R5bGU9InBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsiPjxhIGlkPSdQdWJsaWNhMyc+PC9hPlRhbSwgRGljayBZYW4uICwgRGFpLCBaaXdlbi4gLCBDaGFuLCBNaXUgU2hhbi4gLCBMaXUsIExpbmcgU3VtLiAsIENoZXVuZywgTWFuIENoaW5nLiAsIEJvbHplLCBGcmVkZXJpYy4gLCA8Yj5UaW4sIENodW5nLiA8L2I+ICYgTG8sIFBpayBLd2FuKi4gKDIwMTYpLiA8c3BhbiAgPkEgUmV2ZXJzaWJsZSBETkEgTG9naWMgR2F0ZSBQbGF0Zm9ybSBPcGVyYXRlZCBieSBPbmUtIGFuZCBUd28tUGhvdG9uIEV4Y2l0YXRpb25zPC9zcGFuPi4gPHNwYW4gY2xhc3MgPSJBUEE2VGl0bGUiPkFuZ2V3YW5kdGUgQ2hlbWllIEludGVybmF0aW9uYWwgRWRpdGlvbjwvc3Bhbj4uIDxzcGFuIGNsYXNzID0gIkFQQTZWb2wiPjU1KDEpPC9zcGFuPi4gMTY0Jm5ic3A7LSAxNjguIDwvbGk+PGxpIHN0eWxlPSJwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7Ij48YSBpZD0nUHVibGljYTEnPjwvYT5BdSwgTi5QLiAsIEt1bWFyLCBHLiAsIEFzdGhhbmEsIFAuICwgPGI+VGluLCBDLiA8L2I+LCBNYWssIFkuTC4gLCBDaGFuLCBMLkwuICwgTGFtLCBQLksuUy4gICYgTWEsIEMuSC4gKDIwMTYpLiA8c3BhbiAgPkNpZ3VhdG94aW4gcmVkdWNlcyByZWdlbmVyYXRpdmUgY2FwYWNpdHkgb2YgYXhvdG9taXplZCBwZXJpcGhlcmFsIG5ldXJvbnMgYW5kIGRlbGF5cyBmdW5jdGlvbmFsIHJlY292ZXJ5IGluIHByZS1leHBvc2VkIG1pY2UgYWZ0ZXIgcGVyaXBoZXJhbCBuZXJ2ZSBpbmp1cnk8L3NwYW4+LiA8c3BhbiBjbGFzcyA9IkFQQTZUaXRsZSI+U2NpZW50aWZpYyBSZXBvcnRzPC9zcGFuPi4gPHNwYW4gY2xhc3MgPSAiQVBBNlZvbCI+NjogMjY4MDk8L3NwYW4+LiA8L2xpPjxsaSBzdHlsZT0icGFnZS1icmVhay1pbnNpZGU6IGF2b2lkOyI+PGEgaWQ9J1B1YmxpY2EyJz48L2E+Q2hhbiwgTWl1IFNoYW4uICwgVGFtLCBEaWNrIFlhbi4gLCBEYWksIFppd2VuLiAsIExpdSwgTGluZyBTdW0uICwgSG8sIEpvbmF0aGFuIFdlbmctVGhpbS4gLCBDaGFuLCBNYW4gTGVlLiAsIFh1LCBEaS4gLCBXb25nLCBNYW4gU2hpbmcuICwgPGI+VGluLCBDaHVuZyouIDwvYj4gJiBMbywgUGlrIEt3YW4qLiAoMjAxNikuIDxzcGFuICA+TWl0b2Nob25kcmlhbCBEZWxpdmVyeSBvZiBUaGVyYXBldXRpYyBBZ2VudHMgYnkgQW1waGlwaGlsaWMgRE5BIE5hbm9jYXJyaWVyczwvc3Bhbj4uIDxzcGFuIGNsYXNzID0iQVBBNlRpdGxlIj5TbWFsbDwvc3Bhbj4uIDxzcGFuIGNsYXNzID0gIkFQQTZWb2wiPjEyKDYpPC9zcGFuPi4gNzcwJm5ic3A7LSA3ODEuIDwvbGk+PGxpIHN0eWxlPSJwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7Ij48YSBpZD0nUHVibGljYTYnPjwvYT5Tb25nLCBHLiAsIDxiPlRpbiwgQy4gPC9iPiAmIFBvb24sIEMuLVMuKi4gKDIwMTUpLiA8c3BhbiAgPk11bHRpc2NhbGUgZmluZ2VycHJpbnRpbmcgb2YgbmV1cm9uYWwgZnVuY3Rpb25hbCBjb25uZWN0aXZpdHk8L3NwYW4+LiA8c3BhbiBjbGFzcyA9IkFQQTZUaXRsZSI+QnJhaW4gU3RydWN0dXJlIGFuZCBGdW5jdGlvbjwvc3Bhbj4uIDxzcGFuIGNsYXNzID0gIkFQQTZWb2wiPjIyMCg1KTwvc3Bhbj4uIDI5NjcmbmJzcDstIDI5ODIuIDwvbGk+PGxpIHN0eWxlPSJwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7Ij48YSBpZD0nUHVibGljYTQnPjwvYT5MdW8sIEouICwgQ29hcGVzLCBHLiAsIE1haywgVC4gLCBZYW1hemFraSwgVC4gLCA8Yj5UaW4sIEMuKi4gPC9iPiAmIERlZ2VuYWFyLCBQLiouICgyMDE1KS4gPHNwYW4gID5SZWFsLVRpbWUgU2ltdWxhdGlvbiBvZiBQYXNzYWdlLW9mLVRpbWUgRW5jb2RpbmcgaW4gQ2VyZWJlbGx1bSBVc2luZyBhIFNjYWxhYmxlICBGUEdBLWJhc2VkIFN5c3RlbTwvc3Bhbj4uIDxzcGFuIGNsYXNzID0iQVBBNlRpdGxlIj5JRUVFIFRyYW5zLiBCaW9tZWRpY2FsIENpcmN1aXRzIGFuZCBTeXN0ZW1zPC9zcGFuPi4gPHNwYW4gY2xhc3MgPSAiQVBBNlZvbCI+MTAoMyk8L3NwYW4+LiA3NDImbmJzcDstIDc1My4gPC9saT48bGkgc3R5bGU9InBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsiPjxhIGlkPSdQdWJsaWNhNSc+PC9hPlBvb24sIEMuLVMuKi4gLCA8Yj5UaW4sIEMuIDwvYj4gJiBTb25nLCBHLiAoMjAxNSkuIDxzcGFuICA+U3VibWlzc2l2ZSBoeXBlcmNhcG5pYTogV2h5IENPUEQgcGF0aWVudHMgYXJlIG1vcmUgcHJvbmUgdG8gQ08yIHJldGVudGlvbiB0aGFuIGhlYXJ0IGZhaWx1cmUgcGF0aWVudHM8L3NwYW4+LiA8c3BhbiBjbGFzcyA9IkFQQTZUaXRsZSI+UmVzcGlyYXRvcnkgUGh5c2lvbG9neSBhbmQgTmV1cm9iaW9sb2d5PC9zcGFuPi4gPHNwYW4gY2xhc3MgPSAiQVBBNlZvbCI+MjE2PC9zcGFuPi4gODYmbmJzcDstIDkzLiA8L2xpPjxsaSBzdHlsZT0icGFnZS1icmVhay1pbnNpZGU6IGF2b2lkOyI+PGEgaWQ9J1B1YmxpY2E3Jz48L2E+UG9vbiwgQy4tUy4qLiAgJiA8Yj5UaW4sIEMuIDwvYj4gKDIwMTMpLiA8c3BhbiAgPk1lY2hhbmlzbSBvZiBhdWdtZW50ZWQgZXhlcmNpc2UgaHlwZXJwbmVhIGluIGNocm9uaWMgaGVhcnQgZmFpbHVyZSBhbmQgZGVhZCBzcGFjZSBsb2FkaW5nPC9zcGFuPi4gPHNwYW4gY2xhc3MgPSJBUEE2VGl0bGUiPlJlc3BpcmF0b3J5IFBoeXNpb2xvZ3kgYW5kIE5ldXJvYmlvbG9neTwvc3Bhbj4uIDxzcGFuIGNsYXNzID0gIkFQQTZWb2wiPjE4NigxKTwvc3Bhbj4uIDExNCZuYnNwOy0gMTMwLiA8L2xpPjxsaSBzdHlsZT0icGFnZS1icmVhay1pbnNpZGU6IGF2b2lkOyI+PGEgaWQ9J1B1YmxpY2E4Jz48L2E+PGI+VGluLCBDLiA8L2I+LCBTb25nLCBHLiAgJiBQb29uLCBDLi1TLiouICgyMDEyKS4gPHNwYW4gID5IeXBlcmNhcG5pYSBhdHRlbnVhdGVzIGluc3BpcmF0b3J5IGFtcGxpdHVkZSBhbmQgZXhwaXJhdG9yeSB0aW1lIHJlc3BvbnNpdmVuZXNzIHRvIGh5cG94aWEgaW4gdmFnb3RvbWl6ZWQgYW5kIHZhZ2FsLWludGFjdCByYXRzPC9zcGFuPi4gPHNwYW4gY2xhc3MgPSJBUEE2VGl0bGUiPlJlc3BpcmF0b3J5IFBoeXNpb2xvZ3kgYW5kIE5ldXJvYmlvbG9neTwvc3Bhbj4uIDxzcGFuIGNsYXNzID0gIkFQQTZWb2wiPjE4MSgxKTwvc3Bhbj4uIDc5Jm5ic3A7LSA4Ny4gPC9saT48bGkgc3R5bGU9InBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsiPjxhIGlkPSdQdWJsaWNhOSc+PC9hPlNvbmcsIEcuICwgPGI+VGluLCBDLiA8L2I+LCBHaWFjb21ldHRpLCBNLiAgJiBQb29uLCBDLi1TLiouICgyMDExKS4gPHNwYW4gID5IYWJpdHVhdGlvbiB3aXRob3V0IE5NREEgcmVjZXB0b3ItZGVwZW5kZW50IGRlc2Vuc2l0aXphdGlvbiBvZiBIZXJpbmctQnJldWVyIGFwbmVhIHJlZmxleCBpbiBhIG1lY3AyKy8tIG11dGFudCBtb3VzZSBtb2RlbCBvZiBSZXR0IHN5bmRyb21lPC9zcGFuPi4gPHNwYW4gY2xhc3MgPSJBUEE2VGl0bGUiPkZyb250aWVycyBpbiBJbnRlZ3JhdGl2ZSBOZXVyb3NjaWVuY2U8L3NwYW4+LiA1OjYmbmJzcDsuIDwvbGk+PGxpIHN0eWxlPSJwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7Ij48YSBpZD0nUHVibGljYTEwJz48L2E+TWFjRG9uYWxkLCBTLiMuIEAuICwgPGI+VGluLCBDLiMuIEAuPC9iPiAsIFNvbmcsIEcuICAmIFBvb24sIEMuLVMuKi4gKDIwMDkpLiA8c3BhbiAgPlVzZS1EZXBlbmRlbnQgTGVhcm5pbmcgYW5kIE1lbW9yeSBvZiBIZXJpbmctQnJldWVyIEluZmxhdGlvbiBSZWZsZXggaW4gUmF0PC9zcGFuPi4gPHNwYW4gY2xhc3MgPSJBUEE2VGl0bGUiPkV4cGVyaW1lbnRhbCBQaHlzaW9sb2d5PC9zcGFuPi4gPHNwYW4gY2xhc3MgPSAiQVBBNlZvbCI+OTQoMik8L3NwYW4+LiAyNjkmbmJzcDstIDI3OC4gPC9saT48bGkgc3R5bGU9InBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsiPjxhIGlkPSdQdWJsaWNhMTEnPjwvYT5Qb29uLCBDLi1TLiouICwgPGI+VGluLCBDLiA8L2I+ICYgWXUsIFkuICgyMDA3KS4gPHNwYW4gID5Ib21lb3N0YXNpcyBvZiBleGVyY2lzZSBoeXBlcnBuZWEgYW5kIG9wdGltYWwgc2Vuc29yaW1vdG9yIGludGVncmF0aW9uOiBUaGUgaW50ZXJuYWwgbW9kZWwgcGFyYWRpZ208L3NwYW4+LiA8c3BhbiBjbGFzcyA9IkFQQTZUaXRsZSI+UmVzcGlyYXRvcnkgUGh5c2lvbG9neSBhbmQgTmV1cm9iaW9sb2d5PC9zcGFuPi4gPHNwYW4gY2xhc3MgPSAiQVBBNlZvbCI+MTU5KDEpPC9zcGFuPi4gMSZuYnNwOy0gMTMuIDwvbGk+PGxpIHN0eWxlPSJwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7Ij48YSBpZD0nUHVibGljYTEyJz48L2E+PGI+VGluLCBDLiA8L2I+ICYgUG9vbiwgQy4tUy4qLiAoMjAwNSkuIDxzcGFuICA+SW50ZXJuYWwgTW9kZWxzIGluIFNlbnNvcmltb3RvciBJbnRlZ3JhdGlvbjogUGVyc3BlY3RpdmVzIGZyb20gQWRhcHRpdmUgQ29udHJvbCBUaGVvcnk8L3NwYW4+LiA8c3BhbiBjbGFzcyA9IkFQQTZUaXRsZSI+Sm91cm5hbCBvZiBOZXVyYWwgRW5naW5lZXJpbmc8L3NwYW4+LiA8c3BhbiBjbGFzcyA9ICJBUEE2Vm9sIj4yKDMpPC9zcGFuPi4gUzE0NyZuYnNwOy0gMTYzLiA8L2xpPmQCAw9kFgICAQ8WAh8EBasVDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgc3R5bGU9InBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsiPjxhIGlkPSdQdWJsaWNhMTcnPjwvYT5KZWxmcywgQi4gLCBMaSwgTC4gLCA8Yj5UaW4sIEMuIDwvYj4gJiBDaGFuLCBSLiBILi1NLiAoMjAxNikuIDxzcGFuIGNsYXNzID0iQVBBNlRpdGxlIj5GdXp6eSBFbnRyb3B5IEJhc2VkIE5vbm5lZ2F0aXZlIE1hdHJpeCBGYWN0b3JpemF0aW9uIEZvciBNdXNjbGUgU3luZXJneSBFeHRyYWN0aW9uPC9zcGFuPi4gSUNBU1NQLiBTaGFuZ2hhaS4gQ2hpbmE6Jm5ic3A7LiA8L2xpPjxsaSBzdHlsZT0icGFnZS1icmVhay1pbnNpZGU6IGF2b2lkOyI+PGEgaWQ9J1B1YmxpY2ExNic+PC9hPlpoYWksIFguICwgSmVsZnMsIEIuICwgQ2FobiwgUi4gSC4tTS4gICYgPGI+VGluLCBDLiA8L2I+ICgyMDE2KS4gPHNwYW4gY2xhc3MgPSJBUEE2VGl0bGUiPlNob3J0IGxhdGVuY3kgaGFuZCBtb3ZlbWVudCBjbGFzc2lmaWNhdGlvbiBiYXNlZCBvbiBzdXJmYWNlIEVNRyBzcGVjdHJvZ3JhbSB3aXRoIFBDQTwvc3Bhbj4uIDM4dGggQW5udWFsICBJbnRlcm5hdGlvbmFsIElFRUXCoEVNQlMgQ29uZmVyZW5jZS4gRmxvcmlkYS4gVVNBOiZuYnNwOy4gPC9saT48bGkgc3R5bGU9InBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsiPjxhIGlkPSdQdWJsaWNhMTgnPjwvYT5KZWxmcywgQi4gLCBaaG91LCBTLiAsIFdvbmcsIEIuIEsuIFkuICwgPGI+VGluLCBDLiA8L2I+ICYgQ2hhbiwgUi5ILk0uICgyMDE1KS4gPHNwYW4gY2xhc3MgPSJBUEE2VGl0bGUiPlJlY3J1aXRtZW50IG9mIFNtYWxsIFN5bmVyZ2lzdGljIE1vdmVtZW50IE1ha2VzIGEgR29vZCBQaWFuaXN0PC9zcGFuPi4gMzd0aCBBbm51YWwgIEludGVybmF0aW9uYWwgSUVFRcKgRU1CUyBDb25mZXJlbmNlLiBNaWxhbi4gSXRhbHk6Jm5ic3A7LiA8L2xpPjxsaSBzdHlsZT0icGFnZS1icmVhay1pbnNpZGU6IGF2b2lkOyI+PGEgaWQ9J1B1YmxpY2ExOSc+PC9hPkx1bywgSi4gLCBDb2FwZXMsIEcuICwgRGVnZW5hYXIsIFAuICwgWWFtYXpha2ksIFQuICwgTWFrLCBULiAgJiA8Yj5UaW4sIEMuIDwvYj4gKDIwMTQpLiA8c3BhbiBjbGFzcyA9IkFQQTZUaXRsZSI+QSByZWFsLXRpbWUgc2lsaWNvbiBjZXJlYmVsbHVtIHNwaWtpbmcgbmV1cmFsIG1vZGVsIGJhc2VkIG9uIEZQR0E8L3NwYW4+LiAxNHRoIEludGVybmF0aW9uYWwgU3ltcG9zaXVtIG9uIEludGVncmF0ZWQgQ2lyY3VpdHMgKElTSUMpLiA8c3BhbiBjbGFzcyA9ICJBUEE2Vm9sIj4oaW52aXRlZCk8L3NwYW4+LiBTaW5nYXBvcmU6Jm5ic3A7LiA8L2xpPjxsaSBzdHlsZT0icGFnZS1icmVhay1pbnNpZGU6IGF2b2lkOyI+PGEgaWQ9J1B1YmxpY2EyMCc+PC9hPkx1bywgSi4gLCBDb2FwZXMsIEcuICwgTWFrLCBULiAsIFlhbWF6YWtpLCBULiAsIDxiPlRpbiwgQy4gPC9iPiAmIERlZ2VuYWFyLCBQLiAoMjAxNCkuIDxzcGFuIGNsYXNzID0iQVBBNlRpdGxlIj5BIFNjYWxhYmxlIEZQR0EtYmFzZWQgQ2VyZWJlbGx1bSBmb3IgUGFzc2FnZS1vZi1UaW1lIFJlcHJlc2VudGF0aW9uPC9zcGFuPi4gMzZ0aCBBbm51YWwgIEludGVybmF0aW9uYWwgSUVFRcKgRU1CUyBDb25mZXJlbmNlLiBDaGljYWdvLiBVU0E6Jm5ic3A7LiA8L2xpPjxsaSBzdHlsZT0icGFnZS1icmVhay1pbnNpZGU6IGF2b2lkOyI+PGEgaWQ9J1B1YmxpY2EyMic+PC9hPlNvbmcsIEcuICwgPGI+VGluLCBDLiA8L2I+ICYgUG9vbiwgQy4tUy4gKDIwMTApLiA8c3BhbiBjbGFzcyA9IkFQQTZUaXRsZSI+QmlsYXRlcmFsIGxlc2lvbnMgb2YgcG9udGluZSBrzIhsbGlrZXItZnVzZSBudWNsZWkgcHJvdm9rZSBhcG5lYSBpbnN0ZWFkIG9mIGFwbmV1c2lzIGluIGFuZXN0aGV0aXplZCBhZHVsdCByYXQ8L3NwYW4+LiBBZHYuIEV4cC4gTWVkLiBCaW9sLiA8c3BhbiBjbGFzcyA9ICJBUEE2Vm9sIj42Njk8L3NwYW4+LiAocHAuIDE4NSZuYnNwOy0gMTg4KS4gTmFyYS4gSmFwYW46Jm5ic3A7LiA8L2xpPjxsaSBzdHlsZT0icGFnZS1icmVhay1pbnNpZGU6IGF2b2lkOyI+PGEgaWQ9J1B1YmxpY2EyMSc+PC9hPjxiPlRpbiwgQy4gPC9iPiwgV2Fzc2VybWFuLCBLLlcuICwgQ2hlcm5pYWNrLCBOLlMuICAmIFBvb24sIEMuLVMuICgyMDEwKS4gPHNwYW4gY2xhc3MgPSJBUEE2VGl0bGUiPlBhcmFkb3hpY2FsIFBvdGVudGlhdGlvbiBvZiBFeGVyY2lzZSBIeXBlcnBuZWEgaW4gQ29uZ2VzdGl2ZSBIZWFydCBGYWlsdXJlIENvbnRyYWRpY3RzIFNoZXJyaW5ndG9uIENoZW1vcmVmbGV4IE1vZGVsIGFuZCBTdXBwb3J0cyBhIFJlc3BpcmF0b3J5IE9wdGltaXphdGlvbiBNb2RlbDwvc3Bhbj4uIEFkdi4gRXhwLiBNZWQuIEJpb2wuIDxzcGFuIGNsYXNzID0gIkFQQTZWb2wiPjY2OTwvc3Bhbj4uIChwcC4gNjkmbmJzcDstIDcyKS4gTmFyYS4gSmFwYW46Jm5ic3A7LiA8L2xpPjxsaSBzdHlsZT0icGFnZS1icmVhay1pbnNpZGU6IGF2b2lkOyI+PGEgaWQ9J1B1YmxpY2EyMyc+PC9hPkZlbmcsIEouICwgPGI+VGluLCBDLiA8L2I+ICYgUG9vbiwgQy4tUy4gKDIwMDkpLiA8c3BhbiBjbGFzcyA9IkFQQTZUaXRsZSI+QSBEdWFsIEFkYXB0aXZlIENvbnRyb2wgVGhlb3J5IEluc3BpcmVkIGJ5IEhlYmJpYW4gQXNzb2NpYXRpdmUgTGVhcm5pbmc8L3NwYW4+LiBQcm9jZWVkaW5ncyBvZiB0aGUgSUVFRSBDb25mZXJlbmNlIG9uIERlY2lzaW9uIGFuZCBDb250cm9sLiAocHAuIDQ1MDUmbmJzcDstIDQ1MTApLiA8L2xpPmQCBQ8WAh8CaGQCBw9kFgICAQ8WAh8EBeIHDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgc3R5bGU9InBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsiPjxhIGlkPSdQdWJsaWNhMTMnPjwvYT48Yj5UaW4sIEMuIDwvYj4gJiBQb29uLCBDLi1TLiAoMjAxNCkuIENvbnRyb2wgb2YgQnJlYXRoaW5nLCBJbnRlZ3JhdGlvbiBvZiBBZGFwdGl2ZSBSZWZsZXhlcy4gPHNwYW4gY2xhc3MgPSAiQVBBNlRpdGxlIj5FbmN5Y2xvcGVkaWEgb2YgQ29tcHV0YXRpb25hbCBOZXVyb3NjaWVuY2U8L3NwYW4+LiBTcHJpbmdlci4gPC9saT48bGkgc3R5bGU9InBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsiPjxhIGlkPSdQdWJsaWNhMTQnPjwvYT5DaGFuLCBSLiBILi1NLiAsIE1haywgVC4gICYgPGI+VGluLCBDLiA8L2I+ICgyMDE0KS4gQ29tcHV0YXRpb25hbCBNb2RlbHMgYW5kIEhhcmR3YXJlIEltcGxlbWVudGF0aW9ucyBmb3IgUmVhbC1UaW1lIE5ldXJvbuKAk01hY2hpbmUgSW50ZXJhY3Rpb25zLiA8c3BhbiBjbGFzcyA9ICJBUEE2VGl0bGUiPk5ldXJhbCBDb21wdXRhdGlvbiwgTmV1cmFsIERldmljZXMsIGFuZCBOZXVyYWwgUHJvc3RoZXNpczwvc3Bhbj4uIChwcC4gMjg5Jm5ic3A7LSAzMTEpLiBTcHJpbmdlci4gPC9saT48bGkgc3R5bGU9InBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDsiPjxhIGlkPSdQdWJsaWNhMTUnPjwvYT48Yj5UaW4sIEMuIDwvYj4gJiBQb29uLCBDLi1TLiAoMjAxMykuIEludGVncmF0aXZlIGFuZCBSZWR1Y3Rpb25pc3QgQXBwcm9hY2hlcyB0byBNb2RlbGluZyBvZiBDb250cm9sIG9mIEJyZWF0aGluZy4gPHNwYW4gY2xhc3MgPSAiQVBBNlRpdGxlIj5NYXRoZW1hdGljYWwgTW9kZWxpbmcgYW5kIFZhbGlkYXRpb24gaW4gUGh5c2lvbG9neTogQXBwbGljYXRpb25zIHRvIHRoZSBDYXJkaW92YXNjdWxhciBhbmQgUmVzcGlyYXRvcnkgU3lzdGVtczwvc3Bhbj4uIChwcC4gODkmbmJzcDstIDEwMykuIFNwcmluZ2VyIEJlcmxpbiBIZWlkZWxiZXJnLiA8L2xpPmQCCQ8WAh8CaGQCCw8WAh8CaGQCDQ8WAh8CaGQCDw8WAh8CaGQCEQ8WAh8CaGQCKQ9kFgwCAQ8WAh8CaGQCAw9kFgICAQ8WAh8EBW4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT4gMjAxNiAtIE5vdywgQ2hhaXJtYW4sIElFRUUgRU1CUyBIb25nIEtvbmctTWFjYXUgSm9pbnQgQ2hhcHRlci48L2xpPmQCBQ8WAh8CaGQCBw8WAh8CaGQCCQ8WAh8CaGQCCw8WAh8CaGQCKw8WAh8CaBYIAgMPFgIfAmhkAgUPFgIfAmhkAgcPFgIfAmhkAgkPFgIfAmhkAi0PFgIfAmgWAgIBDw8WAh8BBQROZXdzZGQCLw8WAh8CaGQCMQ8WAh8CaGQCMw8WAh8CaGQCNQ8WAh8CaGQCNw9kFgICAQ8WAh8BBQswNSBKYW4gMjAxN2QCAw8WAh8CaBYCAgMPDxYCHgpUaW1lb3V0VXJsBQtMb2dvdXQuYXNweGRkAgwPZBYCAgEPFgIfAAVBaHR0cHM6Ly90ZW1wbGF0ZS5jaXR5dS5lZHUuaGsvdGVtcGxhdGUvaW1nL2xvZ29zL2NpdHl1X2Zvb3Rlci5wbmdkZF4+kOLUbVzMAcgNkyEOOPo9TsHmgSD/F5Y7wMW+AktS" type="hidden">
+
+
+<script src="/StaffProfile/ScriptResource.axd?d=-0cxs--GUiyro3QEtJrSKHWpKw-YHn66odhAGYNpjSJZkIO_eUvVw7LyaqMmDoE9euTeW4Y9lre9gqbd6sebRaPT3EiKqe5lmJ-hzLxEVLk6ZYhzRLsYdMdB1afDrkr40&amp;t=ffffffffdc32f924" type="text/javascript"></script>
+<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2F84FA19" type="hidden">
+        <div class="FormPlaceHolder">
+            
+    <div id="ContentPlaceHolder1_CityUMain">
+        <!-- Main -->
+        <div id="cityu-main" class="cityu-outer" style="font-size: 14px;">
+            <div class="cityu-inner">
+                <!-- Content -->
+                <div id="cityu-content" class="CityUContent-zh" style="min-height: 700px;" role="main">
+                    <div class="cityu-content-page" style="min-height: 0px;">
+                        <!-- Links -->
+                        
+                        <!-- KP 20121004 Workflow step -->
+                        
+                        <br>
+                        <div id="ContentPlaceHolder1_CollegeTitle">
+                            
+                        <div class="cityu-staff-link"><a href="http://www.cityu.edu.hk/mbe" target="_blank">Department of Mechanical and Biomedical Engineering</a></div></div>
+                        <div id="ContentPlaceHolder1_PrintSection" align="right">
+                            <span>&nbsp;[&nbsp;</span> 
+                            
+                            
+                            
+                            
+                            <!-- KP 20130618
+                            <img src="https://template.cityu.edu.hk/template/img/icons/web/small/pdf.png" id="ContentPlaceHolder1_PdfLogo" width="20" height="20" border="0" alt="pdf" title="view pdf" />
+                            <a href="http://spe.ad.cityu.edu.hk/GeneratePDF/GeneratePDF.aspx?id=chungtin&ShowDetails=N" id="ContentPlaceHolder1_ViewPDF" class="ViewButton" target="_blank" style="margin-right: 15px">
+                                View PDF</a>
+                             -->
+
+                            
+                            <a href="javascript:winpop('chungtin.htm',680,720)">
+                                <img src="https://template.cityu.edu.hk/template/img/icons/web/print.png" id="ContentPlaceHolder1_PrintLogo" alt="print" title="print this page" width="24" height="24" border="0"></a>
+                            <span>&nbsp;]&nbsp;</span>
+                            
+                        </div>
+                        <!-- /Links -->
+                        <!-- Info -->
+                        <div class="cityu-staff-info">
+                            
+                            <h1>
+                                <span id="ContentPlaceHolder1_StaffName">Dr. TIN Chung (田翀博士)</span></h1>
+                            <div class="cityu-staff-qualification">
+                                <div id="ContentPlaceHolder1_ABList" class="ListItem">
+                                <span class="ListItem">BEng(HKU), MS(MIT), PhD(MIT)</span><br></div>
+                                <div id="ContentPlaceHolder1_PQList" class="ListItem">
+                                </div>
+                                
+                                
+                            </div>
+                            
+                            <div id="ContentPlaceHolder1_TitleList">
+                            <h2>Assistant Professor</h2></div>
+                            
+                            
+                        </div>
+                        <!-- /Info -->
+                        <!-- Aside -->
+                        <div class="cityu-page-sub">
+                            <!-- Photo -->
+                            <div class="cityu-staff-photo">
+                                <img src="chungtin_STF.jpg" id="ContentPlaceHolder1_StaffPhoto" class="PictImg" width="200" height="200">
+                            </div>
+                            <!-- /Photo -->
+                            <!-- Contact -->
+                            <div id="ContentPlaceHolder1_ContactSection" class="cityu-sub-box">
+                                <h2>
+                                    <span>Contact Information</span></h2>
+                                <table>
+                                    <tbody>
+                                        <tr id="ContentPlaceHolder1_OfficeLine">
+	<th>
+                                                Office:
+                                            </th>
+	<td>
+                                                <span id="ContentPlaceHolder1_RoomContent" class="FieldValue">P6416</span>&nbsp;<span id="ContentPlaceHolder1_OfficeContent" class="FieldValue">AC1</span>
+                                            </td>
+</tr>
+
+                                        <tr id="ContentPlaceHolder1_PhoneLine">
+	<th>
+                                                Phone:
+                                            </th>
+	<td>
+                                                <span id="ContentPlaceHolder1_PhoneContent" class="FieldValue">34425145</span>
+                                            </td>
+</tr>
+
+                                        
+                                        <tr id="ContentPlaceHolder1_EmailLine">
+	<th>
+                                                Email:
+                                            </th>
+	<td>
+                                                <a href="mailto:chungtin@cityu.edu.hk" id="ContentPlaceHolder1_EmailAnchor"><span id="ContentPlaceHolder1_EmailContent" class="wordwrap FieldValue">chungtin@cityu.edu.hk</span></a>
+                                            </td>
+</tr>
+
+                                        <tr id="ContentPlaceHolder1_WebLine">
+	<th>
+                                                Web:
+                                            </th>
+	<td>
+                                                <a href="http://personal.cityu.edu.hk/~chungtin/" id="ContentPlaceHolder1_UrlAnchor" target="_blank"><span id="ContentPlaceHolder1_UrlContent" class="wordwrap Fieldlink">Lab Webpage</span></a>
+                                            </td>
+</tr>
+
+                                    </tbody>
+                                </table>
+                                
+                            </div>
+                            <!-- /Contact -->
+                            <!-- Research -->
+                            <div id="ContentPlaceHolder1_ResInterestSection" class="cityu-sub-box">
+                                <h2>
+                                    <span>Research Interests</span></h2>
+                                <div class="SubSection">
+                                    <ul id="ContentPlaceHolder1_ResList" class="ListItem">
+                                    <li>Neural Prosthetics</li><li>Brain-machine interface</li><li>Neural Computation</li><li>Motor learning and control</li></ul>
+                                </div>
+                            </div>
+                            <!-- /Research -->
+                            <!-- Others -->
+                            
+                            <!-- /Others -->
+                            <!-- KP 20120924 Others Two -->
+                            
+                            <!-- /Others Two -->
+                            <!-- KP 20121004 Others Three -->
+                            
+                            <!-- /Others Three -->
+                            <!-- KP 20121004 Others Four -->
+                            
+                            <!-- /Others Four -->
+                        </div>
+                        <!-- /Aside -->
+                        <!-- Main -->
+                        <div class="cityu-page-main">
+                            
+                            <div id="ContentPlaceHolder1_BriefBioSection" class="BriefBioDetail">
+                                <span id="ContentPlaceHolder1_BriefBioDetail">Chung Tin is currently an Assistant Professor in Department of Mechanical and Biomedical Engineering at City University of Hong Kong. He received his BEng. degree (1st Class) from University of Hong Kong in Mechanical Engineering in 2002. He then moved to the United States and obtained his S.M. and PhD. degrees, both in Mechanical Engineering, from Massachusetts Institute of Technology, in 2004 and 2011, respectively. He continues as a postdoctoral associate in MIT until he returned to Hong Kong in 2012. He has been awarded Croucher Foundation Scholarship (HK), American Heart Association Predoctoral Fellowship, and Early Career Award (Research Grant Council, Hong Kong). His research interests include neural prosthetic systems, brain-machine interface, neural computation and sensorimotor learning and control. </span>
+                            </div>
+                            <div id="ContentPlaceHolder1_AwardSection" class="SubSection">
+                                <br>
+                                <br>
+                                <h2>
+                                    <a id="Award"></a><span>Award and Achievement</span></h2>
+                                <ul id="ContentPlaceHolder1_AAList" class="ListItem">
+                                <li class="ListItem"> 2013 <b>“Early Career Award”</b> <i>Research Grant Council, Hong Kong SAR</i>.</li><li class="ListItem"> 2008 <b>“Predoctoral Fellowship”</b> <i>American Heart Association </i>.</li><li class="ListItem"> 2009 <b>“President Award”</b> <i>XIth Oxford Conference on Modeling and Control of Breathing</i>.</li><li class="ListItem"> 2002 <b>“The Croucher Foundation Scholarship”</b> <i>Croucher Foundation, Hong Kong</i>.</li><li class="ListItem"> 2002 <b>“Sir Edward Youde Memorial Scholarship”</b> <i>Sir Edward Youde Memorial Fund, Hong Kong</i>.</li></ul>
+                            </div>
+                            <div id="ContentPlaceHolder1_PrevWorkSection" class="SubSection">
+                                <br>
+                                <br>
+                                <h2>
+                                    <a id="PW"></a><span>Previous Experience</span></h2>
+                                <ul id="ContentPlaceHolder1_PWList" class="ListItem">
+                                <li> Jun 2011 - Jun 2012, Postdoctoral Associate, Harvard/MIT Division of Health Science and Technology, MIT.</li></ul>
+                            </div>
+                            
+                            
+                            
+                            
+                            
+                            
+                            <div id="ContentPlaceHolder1_PublicaSection" class="SubSection">
+                                <br>
+                                <br>
+                                <h2>
+                                    <a id="Publication"></a><span>Publication</span> <a class="ShowHide" id="PublicaShow" style="display: none;">
+                                        Show All Publications</a> <a class="ShowHide" id="PublicaHide" style="display: none;">Show Prominent Publications</a></h2>
+                                
+                                <div id="ContentPlaceHolder1_JOUSection">
+                                    <br>
+                                    <h4>
+                                        <a id="JOU"></a><span>Journal</span></h4>
+                                    <ul id="ContentPlaceHolder1_JOUList" class="ListItem">
+                                    <li style="page-break-inside: avoid;"><a id="Publica24"></a><b>Zhai, Xiaolong. </b>, Jelfs, Beth. , Chan, Rosa H.M.  &amp; <b>Tin, Chung. </b> (2017). <span>A Self-recalibrating Myoelectric Classifier of Hand Movements based on Convolutional Neural Networks</span>. <span class="APA6Title">submitted</span>. </li><li style="page-break-inside: avoid;"><a id="Publica25"></a>Lau, Cia-Hin. , Ho, Jonathan W. , Xiao, Na. , Dai, Ziwen. , Chan, Miu Shan. , Tam, Dick Yan. , Lo, Pik Kwan.  &amp; <b>Tin, Chung. </b> (2017). <span>Rewire Camk2a Gene Expression by Modulating Super-enhancer</span>. <span class="APA6Title">submitted</span>. </li><li style="page-break-inside: avoid;"><a id="Publica3"></a>Tam, Dick Yan. , Dai, Ziwen. , Chan, Miu Shan. , Liu, Ling Sum. , Cheung, Man Ching. , Bolze, Frederic. , <b>Tin, Chung. </b> &amp; Lo, Pik Kwan*. (2016). <span>A Reversible DNA Logic Gate Platform Operated by One- and Two-Photon Excitations</span>. <span class="APA6Title">Angewandte Chemie International Edition</span>. <span class="APA6Vol">55(1)</span>. 164&nbsp;- 168. </li><li style="page-break-inside: avoid;"><a id="Publica1"></a>Au, N.P. , Kumar, G. , Asthana, P. , <b>Tin, C. </b>, Mak, Y.L. , Chan, L.L. , Lam, P.K.S.  &amp; Ma, C.H. (2016). <span>Ciguatoxin reduces regenerative capacity of axotomized peripheral neurons and delays functional recovery in pre-exposed mice after peripheral nerve injury</span>. <span class="APA6Title">Scientific Reports</span>. <span class="APA6Vol">6: 26809</span>. </li><li style="page-break-inside: avoid;"><a id="Publica2"></a>Chan, Miu Shan. , Tam, Dick Yan. , Dai, Ziwen. , Liu, Ling Sum. , Ho, Jonathan Weng-Thim. , Chan, Man Lee. , Xu, Di. , Wong, Man Shing. , <b>Tin, Chung*. </b> &amp; Lo, Pik Kwan*. (2016). <span>Mitochondrial Delivery of Therapeutic Agents by Amphiphilic DNA Nanocarriers</span>. <span class="APA6Title">Small</span>. <span class="APA6Vol">12(6)</span>. 770&nbsp;- 781. </li><li style="page-break-inside: avoid;"><a id="Publica6"></a>Song, G. , <b>Tin, C. </b> &amp; Poon, C.-S.*. (2015). <span>Multiscale fingerprinting of neuronal functional connectivity</span>. <span class="APA6Title">Brain Structure and Function</span>. <span class="APA6Vol">220(5)</span>. 2967&nbsp;- 2982. </li><li style="page-break-inside: avoid;"><a id="Publica4"></a>Luo, J. , Coapes, G. , Mak, T. , Yamazaki, T. , <b>Tin, C.*. </b> &amp; Degenaar, P.*. (2015). <span>Real-Time Simulation of Passage-of-Time Encoding in Cerebellum Using a Scalable  FPGA-based System</span>. <span class="APA6Title">IEEE Trans. Biomedical Circuits and Systems</span>. <span class="APA6Vol">10(3)</span>. 742&nbsp;- 753. </li><li style="page-break-inside: avoid;"><a id="Publica5"></a>Poon, C.-S.*. , <b>Tin, C. </b> &amp; Song, G. (2015). <span>Submissive hypercapnia: Why COPD patients are more prone to CO2 retention than heart failure patients</span>. <span class="APA6Title">Respiratory Physiology and Neurobiology</span>. <span class="APA6Vol">216</span>. 86&nbsp;- 93. </li><li style="page-break-inside: avoid;"><a id="Publica7"></a>Poon, C.-S.*.  &amp; <b>Tin, C. </b> (2013). <span>Mechanism of augmented exercise hyperpnea in chronic heart failure and dead space loading</span>. <span class="APA6Title">Respiratory Physiology and Neurobiology</span>. <span class="APA6Vol">186(1)</span>. 114&nbsp;- 130. </li><li style="page-break-inside: avoid;"><a id="Publica8"></a><b>Tin, C. </b>, Song, G.  &amp; Poon, C.-S.*. (2012). <span>Hypercapnia attenuates inspiratory amplitude and expiratory time responsiveness to hypoxia in vagotomized and vagal-intact rats</span>. <span class="APA6Title">Respiratory Physiology and Neurobiology</span>. <span class="APA6Vol">181(1)</span>. 79&nbsp;- 87. </li><li style="page-break-inside: avoid;"><a id="Publica9"></a>Song, G. , <b>Tin, C. </b>, Giacometti, M.  &amp; Poon, C.-S.*. (2011). <span>Habituation without NMDA receptor-dependent desensitization of Hering-Breuer apnea reflex in a mecp2+/- mutant mouse model of Rett syndrome</span>. <span class="APA6Title">Frontiers in Integrative Neuroscience</span>. 5:6&nbsp;. </li><li style="page-break-inside: avoid;"><a id="Publica10"></a>MacDonald, S.#. @. , <b>Tin, C.#. @.</b> , Song, G.  &amp; Poon, C.-S.*. (2009). <span>Use-Dependent Learning and Memory of Hering-Breuer Inflation Reflex in Rat</span>. <span class="APA6Title">Experimental Physiology</span>. <span class="APA6Vol">94(2)</span>. 269&nbsp;- 278. </li><li style="page-break-inside: avoid;"><a id="Publica11"></a>Poon, C.-S.*. , <b>Tin, C. </b> &amp; Yu, Y. (2007). <span>Homeostasis of exercise hyperpnea and optimal sensorimotor integration: The internal model paradigm</span>. <span class="APA6Title">Respiratory Physiology and Neurobiology</span>. <span class="APA6Vol">159(1)</span>. 1&nbsp;- 13. </li><li style="page-break-inside: avoid;"><a id="Publica12"></a><b>Tin, C. </b> &amp; Poon, C.-S.*. (2005). <span>Internal Models in Sensorimotor Integration: Perspectives from Adaptive Control Theory</span>. <span class="APA6Title">Journal of Neural Engineering</span>. <span class="APA6Vol">2(3)</span>. S147&nbsp;- 163. </li></ul>
+                                    
+                                </div>
+                                <div id="ContentPlaceHolder1_CPASection">
+                                    <br>
+                                    <h4>
+                                        <a id="CPA"></a><span>Conference Paper</span></h4>
+                                    <ul id="ContentPlaceHolder1_CPAList" class="ListItem">
+                                    <li style="page-break-inside: avoid;"><a id="Publica17"></a>Jelfs, B. , Li, L. , <b>Tin, C. </b> &amp; Chan, R. H.-M. (2016). <span class="APA6Title">Fuzzy Entropy Based Nonnegative Matrix Factorization For Muscle Synergy Extraction</span>. ICASSP. Shanghai. China:&nbsp;. </li><li style="page-break-inside: avoid;"><a id="Publica16"></a>Zhai, X. , Jelfs, B. , Cahn, R. H.-M.  &amp; <b>Tin, C. </b> (2016). <span class="APA6Title">Short latency hand movement classification based on surface EMG spectrogram with PCA</span>. 38th Annual  International IEEE&nbsp;EMBS Conference. Florida. USA:&nbsp;. </li><li style="page-break-inside: avoid;"><a id="Publica18"></a>Jelfs, B. , Zhou, S. , Wong, B. K. Y. , <b>Tin, C. </b> &amp; Chan, R.H.M. (2015). <span class="APA6Title">Recruitment of Small Synergistic Movement Makes a Good Pianist</span>. 37th Annual  International IEEE&nbsp;EMBS Conference. Milan. Italy:&nbsp;. </li><li style="page-break-inside: avoid;"><a id="Publica19"></a>Luo, J. , Coapes, G. , Degenaar, P. , Yamazaki, T. , Mak, T.  &amp; <b>Tin, C. </b> (2014). <span class="APA6Title">A real-time silicon cerebellum spiking neural model based on FPGA</span>. 14th International Symposium on Integrated Circuits (ISIC). <span class="APA6Vol">(invited)</span>. Singapore:&nbsp;. </li><li style="page-break-inside: avoid;"><a id="Publica20"></a>Luo, J. , Coapes, G. , Mak, T. , Yamazaki, T. , <b>Tin, C. </b> &amp; Degenaar, P. (2014). <span class="APA6Title">A Scalable FPGA-based Cerebellum for Passage-of-Time Representation</span>. 36th Annual  International IEEE&nbsp;EMBS Conference. Chicago. USA:&nbsp;. </li><li style="page-break-inside: avoid;"><a id="Publica22"></a>Song, G. , <b>Tin, C. </b> &amp; Poon, C.-S. (2010). <span class="APA6Title">Bilateral lesions of pontine k̈lliker-fuse nuclei provoke apnea instead of apneusis in anesthetized adult rat</span>. Adv. Exp. Med. Biol. <span class="APA6Vol">669</span>. (pp. 185&nbsp;- 188). Nara. Japan:&nbsp;. </li><li style="page-break-inside: avoid;"><a id="Publica21"></a><b>Tin, C. </b>, Wasserman, K.W. , Cherniack, N.S.  &amp; Poon, C.-S. (2010). <span class="APA6Title">Paradoxical Potentiation of Exercise Hyperpnea in Congestive Heart Failure Contradicts Sherrington Chemoreflex Model and Supports a Respiratory Optimization Model</span>. Adv. Exp. Med. Biol. <span class="APA6Vol">669</span>. (pp. 69&nbsp;- 72). Nara. Japan:&nbsp;. </li><li style="page-break-inside: avoid;"><a id="Publica23"></a>Feng, J. , <b>Tin, C. </b> &amp; Poon, C.-S. (2009). <span class="APA6Title">A Dual Adaptive Control Theory Inspired by Hebbian Associative Learning</span>. Proceedings of the IEEE Conference on Decision and Control. (pp. 4505&nbsp;- 4510). </li></ul>
+                                    
+                                </div>
+                                
+                                <div id="ContentPlaceHolder1_BKCSection">
+                                    <br>
+                                    <h4>
+                                        <a id="BKC"></a><span>Book Chapter</span></h4>
+                                    <ul id="ContentPlaceHolder1_BKCList" class="ListItem">
+                                    <li style="page-break-inside: avoid;"><a id="Publica13"></a><b>Tin, C. </b> &amp; Poon, C.-S. (2014). Control of Breathing, Integration of Adaptive Reflexes. <span class="APA6Title">Encyclopedia of Computational Neuroscience</span>. Springer. </li><li style="page-break-inside: avoid;"><a id="Publica14"></a>Chan, R. H.-M. , Mak, T.  &amp; <b>Tin, C. </b> (2014). Computational Models and Hardware Implementations for Real-Time Neuron–Machine Interactions. <span class="APA6Title">Neural Computation, Neural Devices, and Neural Prosthesis</span>. (pp. 289&nbsp;- 311). Springer. </li><li style="page-break-inside: avoid;"><a id="Publica15"></a><b>Tin, C. </b> &amp; Poon, C.-S. (2013). Integrative and Reductionist Approaches to Modeling of Control of Breathing. <span class="APA6Title">Mathematical Modeling and Validation in Physiology: Applications to the Cardiovascular and Respiratory Systems</span>. (pp. 89&nbsp;- 103). Springer Berlin Heidelberg. </li></ul>
+                                    
+                                </div>
+                                
+                                
+                                
+                                
+                                
+                            </div>
+                            
+                            <div id="ContentPlaceHolder1_ExtServicesSection" class="SubSection">
+                                <br>
+                                <br>
+                                <h2>
+                                    <a id="ExtServices"></a><span>External Services</span></h2>
+                                
+                                <div id="ContentPlaceHolder1_PFSection">
+                                    <br>
+                                    <h4>
+                                        <a id="PF"></a><span>Professional Activity</span></h4>
+                                    <ul id="ContentPlaceHolder1_PFList" class="ListItem">
+                                    <li> 2016 - Now, Chairman, IEEE EMBS Hong Kong-Macau Joint Chapter.</li></ul>
+                                </div>
+                                
+                                
+                                
+                                
+                            </div>
+                            
+                            
+                            
+                            
+                            <!-- KP 20121004 Add three additional 'Others' session -->
+                            
+                            
+                            
+                            
+                            <div id="ContentPlaceHolder1_UpdateDate">
+                                <br>
+                                <br>
+                                <span>Last update date :
+                                    05 Jan 2017</span>
+                            </div>
+                        </div>
+                        <!-- /Main -->
+                    </div>
+                </div>
+                <!-- /Content -->
+            </div>
+        </div>
+        <!-- /Main -->
+    </div>
+
+        </div>
+        
+        </form>
+        <!--End KP 20120831 -->
+    </div>
+    <!-- /Main -->
+    <!-- KP 20120831 -->
+    <script type="text/javascript">
+        if (typeof AjaxControls != 'undefined') {   // (won't be here if disabled/invisible)
+            AjaxControls.Timeout.prototype.hide = function () { $.modal.close(); }
+            AjaxControls.Timeout.prototype.show = function () { $('#basic-modal-content').modal(); }
+        }
+    </script>
+    <!--End KP 20120831 -->
+    <!-- Footer -->
+    <div id="cityu-footer" class="cityu-outer" role="contentinfo">
+        <div id="CityUFooter">
+            <div class="cityu-inner">
+                <!-- Column -->
+                <div id="cityu-footer-column">
+                    <!-- Notes -->
+                    <div id="cityu-footer-notes">
+                        <!-- Links -->
+                        <!--<div id="cityu-footer-links" class="cityu-hidden">
+                    </div>-->
+                        <!-- /Links -->
+                        <!-- Nav -->
+                        <div id="cityu-footer-links">
+                            <a href="http://www.cityu.edu.hk/cityu/geninfo/privacy.htm">Privacy Policy</a> |
+                            <a href="http://www.cityu.edu.hk/cityu/copyright/index.htm#copyright">Copyright</a>
+                            | <a href="http://www.cityu.edu.hk/cityu/disclaimer/index.htm#disclaimer">Disclaimer</a>
+                            | <a href="http://www.cityu.edu.hk/cityu/geninfo/siteinfo.htm#accessibility">Accessibility</a>
+                            | <a href="http://wikisites.cityu.edu.hk/sites/upolicies/corpid/Wiki%20Pages/University%20Policy%20and%20Guidelines%20for%20the%20Use%20of%20the%20University's%20Name%20and%20Visual%20Identity.aspx">
+                                University Logo/Name Policy</a> | <a href="http://www.cityu.edu.hk/cityu/geninfo/siteinfo.htm#webmaster">
+                                    Contact Us</a> | <a href="http://www.adobe.com/" target="_blank">Download Acrobat Reader</a>
+                        </div>
+                        <!-- /Nav -->
+                        <!-- Credits -->
+                        <div id="cityu-footer-credits">
+                            © 2017 City University of Hong Kong. All Rights Reserved.
+                        </div>
+                        <!-- /Credits -->
+                    </div>
+                    <!-- /Notes -->
+                    <!-- Icons -->
+                    <div id="cityu-footer-icons">
+                        <a href="http://www.cityu.edu.hk/">
+                            <img src="https://template.cityu.edu.hk/template/img/logos/cityu_footer.png" id="CityuFooterImg" alt="City University of Hong Kong"></a>
+                    </div>
+                    <!-- /Icons -->
+                </div>
+                <!-- /Column -->
+            </div>
+        </div>
+    </div>
+    <!-- /Footer -->
+
+
+<a class="cityu-backtotop" style="display: none;"><i class="icon-arrow-up">Back to Top</i></a></body></html>

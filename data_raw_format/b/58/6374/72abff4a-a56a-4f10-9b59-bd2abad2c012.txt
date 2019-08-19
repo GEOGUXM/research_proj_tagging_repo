@@ -1,0 +1,69 @@
+Home > People
+People  
+dr. Arta Dilo
+Postdoc
+
+Name Dilo, dr. A. (Arta)
+
+
+
+Scholar https://scholar.google.nl/citations?user=hrSlOZoAAAAJ&hl=nl
+LinkedIn
+Publications
+2016
+Seraj, F. and van der Zwaag, B.J. and Dilo, A. and Luarasi, T. and Havinga, P.J.M. (2016) RoADS: A road pavement monitoring system for anomaly detection using smart phones. In: Big Data Analytics in the Social and Ubiquitous Context. Lecture Notes in Computer Science 9546. Springer Verlag, Berlin, pp. 128-146. ISSN 0302-9743 ISBN 978-3-319-29008-9
+2014
+Gogu, A. and Nace, D. and Chatterjea, S. and Dilo, A. (2014) Max-Min Fair Link Quality in WSN Based on SINR. Journal of Applied Mathematics, 2014. pp. 1-11. ISSN 1110-757X
+Seraj, F. and van der Zwaag, B.J. and Dilo, A. and Luarasi, T. and Havinga, P.J.M. (2014) RoADS: A road pavement monitoring system for anomaly detection using smart phones. In: Proceedings of the 1st International Workshop on Machine Learning for Urban Sensor Data, SenseML 2014, 15 Sep 2014, Nancy, France. Springer Verlag. ISBN not assigned
+Zand, P. and Mathews, E. and Das, K. and Dilo, A. and Havinga, P.J.M. (2014) ISA100.11a*: The ISA100.11a extension for supporting energy-harvested I/O devices. In: IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2014), 16-19 Jun 2014, Sydney, Australia. pp. 1-8. IEEE Computer Society. ISBN not assigned
+2013
+Gogu, A. and Chatterjea, S. and Nace, D. and Dilo, A. (2013) The problem of joint scheduling and power assignment in wireless sensor networks. In: 27th IEEE International Conference on Advanced Information Networking and Applications (AINA 2013) , 25-28 March 2013, Barcelona, Spain. pp. 348-355. IEEE Computer Society. ISSN 1550-445X
+van Hoesel, L.F.W. and Erman-Tüysüz, A. and Dilo, A. and Havinga, P.J.M. (2013) Geo-casting of queries combined with coverage area reporting for wireless sensor networks. Ad Hoc Networks, 11 (1). pp. 104-123. ISSN 1570-8705 *** ISI Impact 1,660 ***
+Zand, P. and Dilo, A. and Havinga, P.J.M. (2013) D-MSR: A Distributed Network Management Scheme for Real-Time Monitoring and Process Control Applications in Wireless Industrial Automation. Sensors, 13 (7). pp. 8239-8284. ISSN 1424-8220 *** ISI Impact 2,033 ***
+2012
+Erman-Tüysüz, A. and Dilo, A. and Havinga, P.J.M. (2012) A virtual infrastructure based on honeycomb tessellation for data dissemination in multi-sink mobile wireless sensor networks. EURASIP Journal on Wireless Communications and Networking, 2012. 17:1-17:27. ISSN 1687-1499 *** ISI Impact 0,627 ***
+Erman-Tüysüz, A. and Schwartz, R.S. and Dilo, A. and Scholten, J. and Havinga, P.J.M. (2012) Infrastructure Assisted Data Dissemination for Vehicular Sensor Networks in Metropolitan Areas. In: Roadside Networks for Vehicular Communications: Architectures, Applications, and Test Fields. IGI Global, Hershey, PA, USA, pp. 264-287. ISBN 978-1-46662-223-4
+Gogu, A. and Nace, D. and Dilo, A. and Meratnia, N. (2012) Review of Optimization Problems in Wireless Sensor Networks. In: Telecommunications Networks - Current Status and Future Trends. InTech, Rijeka, Croatia, pp. 153-180. ISBN 978-953-51-0341-7
+Rulinda, C.M and Dilo, A. and Bijker, W. and Stein, A. (2012) Characterising and quantifying vegetative drought in East Africa using fuzzy modelling and NDVI data. Journal of Arid Environments, 78. pp. 169-178. ISSN 0140-1963 *** ISI Impact 1,623 ***
+Zand, P. and Dilo, A. and Havinga, P.J.M. (2012) Implementation of WirelessHART in NS-2 simulator. In: Proceedings of the 17th IEEE International Conference on Emerging Technologies and Factory Automation, ETFA 2012, 17-21 Sep 2012, Krakow, Poland. pp. 1-8. IEEE Industrial Electronics Society. ISSN 1946-0740 ISBN 978-1-4673-4737-2
+2011
+Bandishoev, M and Dilo, A. and Stein, A. (2011) Assessing the debris around glaciers using remote sensing and random sets. In: Proceedings of the 7th International Symposium on Spatial Data Quality, ISSDQ'11, 12-14 Oct 2011, Coimbra, Portugal. pp. 27-32. Instituto de Engenharia de Sistemas e Computadores de Coimbra (INESC Coimbra). ISBN 978-989-95055-8-2
+Dilo, A. and Zlatanova, S. (2011) A data model for operational and situational information in emergency response: The Dutch case. Applied Geomatics, 3 (4). pp. 207-218. ISSN 1866-9298
+Erman-Tüysüz, A. and Dilo, A. and van Hoesel, L.F.W. and Havinga, P.J.M. (2011) On Mobility Management in Multi-Sink Sensor Networks for Geocasting of Queries. Sensors, 11 (12). pp. 11415-11446. ISSN 1424-8220 *** ISI Impact 2,033 ***
+Gogu, A. and Nace, D. and Dilo, A. and Meratnia, N. (2011) Optimization Problems in Wireless Sensor Networks. In: Proceedings of the International Conference on Complex, Intelligent and Software Intensive Systems, CISIS 2011, 30 June - 2 July 2011, Seoul, South Korea. pp. 302-309. IEEE Computer Society. ISBN 978-1-61284-709-2
+Masoum, A. and Meratnia, N. and Dilo, A. and Taghikhaki, Z. and Havinga, P.J.M. (2011) Cross-layer analyses of QoS parameters in wireless sensor networks. In: Proceedings of the First International Conference on Computer Science and Information Technology, CCSIT, 2-4 Jan 2011, Bangalore, India. pp. 595-605. Communications in Computer and Information Science 132. Springer Verlag. ISSN 1865-0929 ISBN 978-3-642-17878-8
+2010
+Dilo, A. and Zlatanova, S. (2010) Data modelling for emergency response. Technical Report GISt Report No. 54 Delft University of Technology, Delft. ISSN 1569-0245
+Erman-Tüysüz, A. and Dilo, A. and Havinga, P.J.M. (2010) A Fault-Tolerant Data Dissemination Based on Honeycomb Architecture for Mobile Multi-Sink Wireless Sensor Networks. In: Proceedings of the Sixth International Conference on Intelligent Sensors, Sensor Networks and Information Processing, ISSNIP 2010, 7-10 Dec 2010, Brisbane, Australia. pp. 97-102. IEEE Computer Society. ISBN 978-1-4244-7176-8
+Zlatanova, S. and Dilo, A. (2010) A data model for operational and situational information in emergency response: the Dutch case. In: Proceedings of the International Symposium on Geo-information for Disaster Management (Gi4DM), 2-4 Feb 2010, Torino, Italy. Geomatics for Crisis Management. ISPRS. ISBN 978-88-903132-3-3
+Zlatanova, S. and Dilo, A. and de Vries, M. and Fichtinger, A. (2010) Models of Dynamic Data for Emergency Response: A Comparative Study. In: Joint Symposium of ISPRS Technical Commission IV & AutoCarto 2010 Symposium on Geospatial Data and Geovisualisation: Environment, Security and Society, 15-19 November 2010, Orlando, Florida, USA. 95. American Society for Photogrammetry and Remote Sensing, International Society for Photogrammetry and Remote Sensing, and Cartography and Geographic Information Society. ISBN 1-57083-094-0
+2009
+Aydinoglu, A. C. and Yomralioglu, T. and Quak, W. and Dilo, A. (2009) Modeling emergency management data by UML as an extension of geographic data sharing model: ASAT approach. In: Proceedings of the International Emergency Management Society (TIEMS) 16th Annual Conference, 9-11 June 2009, Istanbul, Turkey. pp. 87-98. TIEMS society. ISBN 978-9-490-29700-8
+Dilo, A. and van Oosterom, P. and Hofman, A. (2009) Constrained tGAP for generalisation between scales: the case of Dutch topographic data. Computers, Environment and Urban Systems, 33 (5). pp. 388-402. ISSN 0198-9715 *** ISI Impact 2,092 ***
+Haunert, J. H. and Dilo, A. and van Oosterom, P. (2009) Constrained set-up of the tGAP structure for progressive vector data transfer. Computers & Geosciences, 35 (11). pp. 2191-2203. ISSN 0098-3004 *** ISI Impact 2,474 ***
+Hengl, T. and Sierdsema, H. and Radovic, A. and Dilo, A. (2009) Spatial prediction of species’ distributions from occurrence-only records: combining point pattern analysis, ENFA and regression-kriging. Ecological Modelling, 220 (24). pp. 3499-3511. ISSN 0304-3800 *** ISI Impact 2,275 ***
+Vision
+About
+Research
+Research Lines
+Projects
+Seminars
+Smart eXperience Lab
+Publications
+Spin-Offs
+Collaboration
+Academic collaborations
+Industrial collaborations
+Education
+Student assignments
+Wise Graduate School
+People
+Blog
+Data sets
+Videos
+Vacancies
+
+Contact
+
+Top 
+Last modified on 12-10-2015 © Universiteit Twente

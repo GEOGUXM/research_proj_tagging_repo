@@ -1,0 +1,303 @@
+<html dir="ltr" mozdisallowselectionprint="" moznomarginboxes=""><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>updatedMAP.pdf</title>
+
+<!-- This snippet is used in the Firefox extension (included from viewer.html) -->
+<base href="resource://pdf.js/web/">
+<script src="l10n.js"></script>
+<script src="../build/pdf.js"></script>
+
+
+    <link rel="stylesheet" href="viewer.css">
+
+
+
+
+
+    <script src="viewer.js"></script>
+
+  <style id="PDFJS_FONT_STYLE_TAG_d0"></style></head>
+
+  <body tabindex="1" class="">
+    <div id="outerContainer">
+
+      <div id="sidebarContainer">
+        <div id="toolbarSidebar">
+          <div class="splitToolbarButton toggled">
+            <button id="viewThumbnail" class="toolbarButton group toggled" title="Show Thumbnails" tabindex="2" data-l10n-id="thumbs">
+               <span data-l10n-id="thumbs_label">Thumbnails</span>
+            </button>
+            <button id="viewOutline" class="toolbarButton group" title="Show Document Outline (double-click to expand/collapse all items)" tabindex="3" data-l10n-id="document_outline" disabled="">
+               <span data-l10n-id="document_outline_label">Document Outline</span>
+            </button>
+            <button id="viewAttachments" class="toolbarButton group" title="Show Attachments" tabindex="4" data-l10n-id="attachments" disabled="">
+               <span data-l10n-id="attachments_label">Attachments</span>
+            </button>
+          </div>
+        </div>
+        <div id="sidebarContent">
+          <div id="thumbnailView"><a href="http://www.vms.missouri.edu/updatedMAP.pdf#page=1" title="Page 1"><div id="thumbnailContainer1" class="thumbnail selected"><div class="thumbnailSelectionRing" style="width: 100px; height: 128px;"></div></div></a></div>
+          <div id="outlineView" class="hidden">
+          </div>
+          <div id="attachmentsView" class="hidden">
+          </div>
+        </div>
+      </div>  <!-- sidebarContainer -->
+
+      <div id="mainContainer">
+        <div class="findbar hidden doorHanger hiddenSmallView" id="findbar">
+          <label for="findInput" class="toolbarLabel" data-l10n-id="find_label">Find:</label>
+          <input id="findInput" class="toolbarField" tabindex="91">
+          <div class="splitToolbarButton">
+            <button class="toolbarButton findPrevious" title="Find the previous occurrence of the phrase" id="findPrevious" tabindex="92" data-l10n-id="find_previous">
+              <span data-l10n-id="find_previous_label">Previous</span>
+            </button>
+            <div class="splitToolbarButtonSeparator"></div>
+            <button class="toolbarButton findNext" title="Find the next occurrence of the phrase" id="findNext" tabindex="93" data-l10n-id="find_next">
+              <span data-l10n-id="find_next_label">Next</span>
+            </button>
+          </div>
+          <input id="findHighlightAll" class="toolbarField" tabindex="94" type="checkbox">
+          <label for="findHighlightAll" class="toolbarLabel" data-l10n-id="find_highlight">Highlight all</label>
+          <input id="findMatchCase" class="toolbarField" tabindex="95" type="checkbox">
+          <label for="findMatchCase" class="toolbarLabel" data-l10n-id="find_match_case_label">Match case</label>
+          <span id="findResultsCount" class="toolbarLabel hidden"></span>
+          <span id="findMsg" class="toolbarLabel"></span>
+        </div>  <!-- findbar -->
+
+        <div id="secondaryToolbar" class="secondaryToolbar hidden doorHangerRight">
+          <div id="secondaryToolbarButtonContainer">
+            <button id="secondaryPresentationMode" class="secondaryToolbarButton presentationMode visibleLargeView" title="Switch to Presentation Mode" tabindex="51" data-l10n-id="presentation_mode">
+              <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+            </button>
+
+            <button id="secondaryOpenFile" class="secondaryToolbarButton openFile visibleLargeView" title="Open File" tabindex="52" data-l10n-id="open_file" hidden="true">
+              <span data-l10n-id="open_file_label">Open</span>
+            </button>
+
+            <button id="secondaryPrint" class="secondaryToolbarButton print visibleMediumView" title="Print" tabindex="53" data-l10n-id="print">
+              <span data-l10n-id="print_label">Print</span>
+            </button>
+
+            <button id="secondaryDownload" class="secondaryToolbarButton download visibleMediumView" title="Download" tabindex="54" data-l10n-id="download">
+              <span data-l10n-id="download_label">Download</span>
+            </button>
+
+            <a href="http://www.vms.missouri.edu/updatedMAP.pdf#page=1&amp;zoom=auto,-74,792" id="secondaryViewBookmark" class="secondaryToolbarButton bookmark visibleSmallView" title="Current view (copy or open in new window)" tabindex="55" data-l10n-id="bookmark">
+              <span data-l10n-id="bookmark_label">Current View</span>
+            </a>
+
+            <div class="horizontalToolbarSeparator visibleLargeView"></div>
+
+            <button id="firstPage" class="secondaryToolbarButton firstPage" title="Go to First Page" tabindex="56" data-l10n-id="first_page" disabled="">
+              <span data-l10n-id="first_page_label">Go to First Page</span>
+            </button>
+            <button id="lastPage" class="secondaryToolbarButton lastPage" title="Go to Last Page" tabindex="57" data-l10n-id="last_page" disabled="">
+              <span data-l10n-id="last_page_label">Go to Last Page</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="pageRotateCw" class="secondaryToolbarButton rotateCw" title="Rotate Clockwise" tabindex="58" data-l10n-id="page_rotate_cw">
+              <span data-l10n-id="page_rotate_cw_label">Rotate Clockwise</span>
+            </button>
+            <button id="pageRotateCcw" class="secondaryToolbarButton rotateCcw" title="Rotate Counterclockwise" tabindex="59" data-l10n-id="page_rotate_ccw">
+              <span data-l10n-id="page_rotate_ccw_label">Rotate Counterclockwise</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="toggleHandTool" class="secondaryToolbarButton handTool" title="Enable hand tool" tabindex="60" data-l10n-id="hand_tool_enable">
+              <span data-l10n-id="hand_tool_enable_label">Enable hand tool</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="documentProperties" class="secondaryToolbarButton documentProperties" title="Document Properties…" tabindex="61" data-l10n-id="document_properties">
+              <span data-l10n-id="document_properties_label">Document Properties…</span>
+            </button>
+          </div>
+        </div>  <!-- secondaryToolbar -->
+
+        <div class="toolbar">
+          <div id="toolbarContainer">
+            <div id="toolbarViewer">
+              <div id="toolbarViewerLeft">
+                <button id="sidebarToggle" class="toolbarButton" title="Toggle Sidebar" tabindex="11" data-l10n-id="toggle_sidebar">
+                  <span data-l10n-id="toggle_sidebar_label">Toggle Sidebar</span>
+                </button>
+                <div class="toolbarButtonSpacer"></div>
+                <button id="viewFind" class="toolbarButton group hiddenSmallView hidden" title="Find in Document" tabindex="12" data-l10n-id="findbar">
+                   <span data-l10n-id="findbar_label">Find</span>
+                </button>
+                <div class="splitToolbarButton">
+                  <button class="toolbarButton pageUp" title="Previous Page" id="previous" tabindex="13" data-l10n-id="previous" disabled="">
+                    <span data-l10n-id="previous_label">Previous</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator"></div>
+                  <button class="toolbarButton pageDown" title="Next Page" id="next" tabindex="14" data-l10n-id="next" disabled="">
+                    <span data-l10n-id="next_label">Next</span>
+                  </button>
+                </div>
+                <input id="pageNumber" class="toolbarField pageNumber" title="Page" value="1" size="4" min="1" tabindex="15" data-l10n-id="page" max="1" type="number">
+                <span id="numPages" class="toolbarLabel">of 1</span>
+              </div>
+              <div id="toolbarViewerRight">
+                <button id="presentationMode" class="toolbarButton presentationMode hiddenLargeView" title="Switch to Presentation Mode" tabindex="31" data-l10n-id="presentation_mode">
+                  <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+                </button>
+
+                <button id="openFile" class="toolbarButton openFile hiddenLargeView" title="Open File" tabindex="32" data-l10n-id="open_file" hidden="true">
+                  <span data-l10n-id="open_file_label">Open</span>
+                </button>
+
+                <button id="print" class="toolbarButton print hiddenMediumView" title="Print" tabindex="33" data-l10n-id="print">
+                  <span data-l10n-id="print_label">Print</span>
+                </button>
+
+                <button id="download" class="toolbarButton download hiddenMediumView" title="Download" tabindex="34" data-l10n-id="download">
+                  <span data-l10n-id="download_label">Download</span>
+                </button>
+                <a href="http://www.vms.missouri.edu/updatedMAP.pdf#page=1&amp;zoom=auto,-74,792" id="viewBookmark" class="toolbarButton bookmark hiddenSmallView" title="Current view (copy or open in new window)" tabindex="35" data-l10n-id="bookmark">
+                  <span data-l10n-id="bookmark_label">Current View</span>
+                </a>
+
+                <div class="verticalToolbarSeparator hiddenSmallView"></div>
+
+                <button id="secondaryToolbarToggle" class="toolbarButton" title="Tools" tabindex="36" data-l10n-id="tools">
+                  <span data-l10n-id="tools_label">Tools</span>
+                </button>
+              </div>
+              <div id="toolbarViewerMiddle">
+                <div class="splitToolbarButton">
+                  <button id="zoomOut" class="toolbarButton zoomOut" title="Zoom Out" tabindex="21" data-l10n-id="zoom_out">
+                    <span data-l10n-id="zoom_out_label">Zoom Out</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator"></div>
+                  <button id="zoomIn" class="toolbarButton zoomIn" title="Zoom In" tabindex="22" data-l10n-id="zoom_in">
+                    <span data-l10n-id="zoom_in_label">Zoom In</span>
+                   </button>
+                </div>
+                <span id="scaleSelectContainer" class="dropdownToolbarButton" style="min-width: 121px; max-width: 121px;">
+                  <select id="scaleSelect" title="Zoom" tabindex="23" data-l10n-id="zoom" style="min-width: 143px;">
+                    <option id="pageAutoOption" title="" value="auto" selected="selected" data-l10n-id="page_scale_auto">Automatic Zoom</option>
+                    <option id="pageActualOption" title="" value="page-actual" data-l10n-id="page_scale_actual">Actual Size</option>
+                    <option id="pageFitOption" title="" value="page-fit" data-l10n-id="page_scale_fit">Page Fit</option>
+                    <option id="pageWidthOption" title="" value="page-width" data-l10n-id="page_scale_width">Page Width</option>
+                    <option id="customScaleOption" title="" value="custom" disabled="disabled" hidden="true"></option>
+                    <option title="" value="0.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 50 }">50%</option>
+                    <option title="" value="0.75" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 75 }">75%</option>
+                    <option title="" value="1" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 100 }">100%</option>
+                    <option title="" value="1.25" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 125 }">125%</option>
+                    <option title="" value="1.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 150 }">150%</option>
+                    <option title="" value="2" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 200 }">200%</option>
+                    <option title="" value="3" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 300 }">300%</option>
+                    <option title="" value="4" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 400 }">400%</option>
+                  </select>
+                </span>
+              </div>
+            </div>
+            <div id="loadingBar" class="hidden" style="width: calc(100% - 14px);">
+              <div class="progress" style="height: 100%; width: 100%;">
+                <div class="glimmer">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <menu type="context" id="viewerContextMenu">
+          <menuitem id="contextFirstPage" label="Go to First Page" data-l10n-id="first_page" title="Go to First Page"></menuitem>
+          <menuitem id="contextLastPage" label="Go to Last Page" data-l10n-id="last_page" title="Go to Last Page"></menuitem>
+          <menuitem id="contextPageRotateCw" label="Rotate Clockwise" data-l10n-id="page_rotate_cw" title="Rotate Clockwise"></menuitem>
+          <menuitem id="contextPageRotateCcw" label="Rotate Counterclockwise" data-l10n-id="page_rotate_ccw" title="Rotate Counterclockwise"></menuitem>
+        </menu>
+
+        <div id="viewerContainer" tabindex="0">
+          <div id="viewer" class="pdfViewer"><div id="pageContainer1" class="page" style="width: 1019px; height: 1319px;" data-page-number="1" data-loaded="true"><div style="width: 1019px; height: 1319px;" class="canvasWrapper"><canvas id="page1" moz-opaque="" width="1020" height="1320" style="width: 1020px; height: 1320px;"></canvas></div><div class="textLayer" style="width: 1019px; height: 1319px;"><div style="left: 325.057px; top: 56.4946px; font-size: 15px; font-family: sans-serif; transform: scaleX(1.12089);">College of Veterinary MediCine</div><div style="left: 582.862px; top: 56.4946px; font-size: 15px; font-family: sans-serif; transform: scaleX(1.4235);"> |</div><div style="left: 601.252px; top: 56.4946px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.99697);">Campus Map</div><div style="left: 493.729px; top: 759.551px; font-size: 12.1167px; font-family: sans-serif; transform: rotate(-93.0514deg) scaleX(0.870628);">Old 63</div><div style="left: 352.163px; top: 727.725px; font-size: 12.1167px; font-family: sans-serif; transform: scaleX(0.814789);">ROLLINS</div><div style="left: 139.74px; top: 680.403px; font-size: 12.1167px; font-family: sans-serif; transform: rotate(89.5642deg) scaleX(0.871279);">STADIUM</div><div style="left: 381.127px; top: 639.304px; font-size: 12.1167px; font-family: sans-serif; transform: rotate(-89.9488deg) scaleX(0.822624);">RANGELI NE</div><div style="left: 192.224px; top: 611.472px; font-size: 12.1167px; font-family: sans-serif; transform: rotate(4.5419deg) scaleX(0.778);">WORLEY      ST</div><div style="left: 399.614px; top: 738.904px; font-size: 12.1167px; font-family: sans-serif; transform: rotate(-89.8132deg) scaleX(0.796711);">COLLEGE  A V</div><div style="left: 468.075px; top: 674.685px; font-size: 12.1168px; font-family: sans-serif; transform: rotate(9.86371deg) scaleX(0.839115);">EAST  BROADWAY</div><div style="left: 153.036px; top: 656.234px; font-size: 12.1167px; font-family: sans-serif; transform: rotate(5.64174deg) scaleX(0.871689);">BROADWAY</div><div style="left: 329.862px; top: 715.05px; font-size: 12.1168px; font-family: sans-serif; transform: rotate(-90.5982deg) scaleX(0.802899);"> PROVI  DENCE </div><div style="left: 287.54px; top: 757.007px; font-size: 12.1167px; font-family: sans-serif; transform: scaleX(0.871278);">STADIUM</div><div style="left: 423.389px; top: 729.195px; font-size: 12.1167px; font-family: sans-serif; transform: rotate(-87.4268deg) scaleX(0.823614);">WILLIAM  ST</div><div style="left: 231.359px; top: 731.211px; font-size: 12.1167px; font-family: sans-serif; transform: rotate(-92.6025deg) scaleX(0.741103);">WEST              BLVD</div><div style="left: 577.361px; top: 575.403px; font-size: 12.1168px; font-family: sans-serif; transform: rotate(-0.306573deg) scaleX(0.839553);">CLARK LN</div><div style="left: 355.139px; top: 797.177px; font-size: 10.0973px; font-family: sans-serif; transform: scaleX(0.941332);">Faurot</div><div style="left: 355.139px; top: 806.264px; font-size: 10.0973px; font-family: sans-serif; transform: scaleX(0.951344);">Field</div><div style="left: 439.888px; top: 765.608px; font-size: 9.0875px; font-family: sans-serif; transform: scaleX(0.85173);">College of </div><div style="left: 439.888px; top: 775.704px; font-size: 9.0875px; font-family: sans-serif; transform: scaleX(0.838497);">Veterinary </div><div style="left: 439.888px; top: 785.8px; font-size: 9.0875px; font-family: sans-serif; transform: scaleX(0.84556);">Medicine</div><div style="left: 76.6725px; top: 549.095px; font-size: 12.1168px; font-family: sans-serif; transform: rotate(5.26642deg) scaleX(0.856989);">to/from</div><div style="left: 61.5872px; top: 565.957px; font-size: 12.1168px; font-family: sans-serif; transform: rotate(5.26642deg) scaleX(0.936858);">Kansas City</div><div style="left: 587.524px; top: 591.397px; font-size: 12.1168px; font-family: sans-serif; transform: rotate(-0.306573deg) scaleX(0.855752);">to/from </div><div style="left: 584.58px; top: 609.588px; font-size: 12.1168px; font-family: sans-serif; transform: rotate(-0.306573deg) scaleX(0.906666);">St. Louis</div><div style="left: 565.28px; top: 977.335px; font-size: 12.7468px; font-family: sans-serif; transform: scaleX(0.885905);">63</div><div style="left: 566.29px; top: 559.309px; font-size: 12.7468px; font-family: sans-serif; transform: scaleX(0.885905);">63</div><div style="left: 304.296px; top: 874.475px; font-size: 16.1557px; font-family: sans-serif; transform: scaleX(0.898255);">163</div><div style="left: 308.914px; top: 1021.02px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(1.00865);">Clydesdale</div><div style="left: 321.093px; top: 1029.5px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(0.997155);">Hall</div><div style="left: 301.826px; top: 994.279px; font-size: 6.05833px; font-family: sans-serif; transform: scaleX(0.73854);">Small Animal</div><div style="left: 301.826px; top: 1001.55px; font-size: 6.05833px; font-family: sans-serif; transform: scaleX(0.776876);">Client Parking</div><div style="left: 383.575px; top: 1083.62px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(1.00477);">Animal Science</div><div style="left: 381.611px; top: 1092.11px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(0.985575);">Research Center</div><div style="left: 397.33px; top: 1100.59px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(0.989261);">(ASRC)</div><div style="left: 329.144px; top: 1200.16px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(1.02966);">Trowbridge</div><div style="left: 324.953px; top: 931.825px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(0.976619);">Veterinary</div><div style="left: 326.925px; top: 940.307px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(1.00816);">Medicine</div><div style="left: 327.914px; top: 948.789px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(1.04714);">Building</div><div style="left: 321.716px; top: 871.244px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(0.967251);">Vet </div><div style="left: 314.64px; top: 878.312px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(1.0276);">Science</div><div style="left: 313.87px; top: 885.38px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(1.04714);">Building</div><div style="left: 241.655px; top: 838.639px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(1.00994);">Connaway</div><div style="left: 252.843px; top: 847.12px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(0.997155);">Hall</div><div style="left: 357.295px; top: 1005.72px; font-size: 6.05833px; font-family: sans-serif; transform: scaleX(0.917315);">Veterinary Medical</div><div style="left: 351.752px; top: 1011.78px; font-size: 6.05833px; font-family: sans-serif; transform: scaleX(0.945456);">Diagnostic Laboratory</div><div style="left: 266px; top: 894.374px; font-size: 5.04867px; font-family: sans-serif; transform: scaleX(1.02444);">EAST ROLLINS RD.</div><div style="left: 285.733px; top: 966.366px; font-size: 5.04867px; font-family: sans-serif; transform: rotate(-90.0359deg) scaleX(1.04092);">EAST CAMPUS DR.</div><div style="left: 353.551px; top: 884.684px; font-size: 5.04872px; font-family: sans-serif; transform: rotate(-90.2591deg) scaleX(1.05083);">WILLIAM ST.</div><div style="left: 298.996px; top: 1171.55px; font-size: 5.0486px; font-family: sans-serif; transform: rotate(-43.9045deg) scaleX(1.06235);">BURCH DRIVE</div><div style="left: 328.347px; top: 1121.56px; font-size: 5.04867px; font-family: sans-serif; transform: rotate(47.6076deg) scaleX(1.04092);">EAST CAMPUS DR.</div><div style="left: 278.43px; top: 1183.69px; font-size: 5.04861px; font-family: sans-serif; transform: rotate(69.6662deg) scaleX(1.01342);">ASHLAND GRAVEL RD.</div><div style="left: 351.336px; top: 990.107px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(1.00121);">VMDL</div><div style="left: 238.887px; top: 900.083px; font-size: 5.04867px; font-family: sans-serif; transform: scaleX(0.950787);">To College Ave.</div><div style="left: 240.373px; top: 1139.91px; font-size: 5.04867px; font-family: sans-serif; transform: rotate(-0.0945724deg) scaleX(0.950788);">To College Ave.</div><div style="left: 257.13px; top: 1252.35px; font-size: 5.04867px; font-family: sans-serif; transform: rotate(0.0624178deg) scaleX(0.926246);">To Stadium Blvd.</div><div style="left: 404.684px; top: 1253.41px; font-size: 5.04856px; font-family: sans-serif; transform: rotate(-0.718784deg) scaleX(0.926227);">To Stadium Blvd.</div><div style="left: 443.275px; top: 956.361px; font-size: 6.05833px; font-family: sans-serif; transform: scaleX(0.762917);">AV-9</div><div style="left: 395.675px; top: 891.555px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(0.92158);">Adams </div><div style="left: 395.675px; top: 898.623px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(0.961457);">Conference</div><div style="left: 395.675px; top: 905.691px; font-size: 7.06817px; font-family: sans-serif; transform: scaleX(0.922242);">Center</div><div style="left: 680.341px; top: 701.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.939635);">Highway 63 to Stadium Boulevard</div><div style="left: 680.341px; top: 737.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.913599);">West  on  Stadium  Boulevard  to  Col-</div><div style="left: 680.341px; top: 755.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(1.01);">lege avenue</div><div style="left: 680.341px; top: 791.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.941114);">north (right turn) on College </div><div style="left: 887.206px; top: 791.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(1.00549);">avenue </div><div style="left: 680.341px; top: 809.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.929095);">to rollins Street</div><div style="left: 680.341px; top: 845.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.878946);">east  (right  turn)  on </div><div style="left: 829.711px; top: 845.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.906985);">rollins  Street  to </div><div style="left: 680.341px; top: 863.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.957148);">east Campus drive</div><div style="left: 680.341px; top: 899.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.895056);">South  (right  turn)  on </div><div style="left: 844.936px; top: 899.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.950367);">east  Campus </div><div style="left: 680.341px; top: 917.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.966711);">drive</div><div style="left: 680.341px; top: 953.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.974508);">→   The </div><div style="left: 743.686px; top: 953.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.960183);">Veterinary </div><div style="left: 826.321px; top: 953.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(1.03089);">Medical </div><div style="left: 894.151px; top: 953.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(1.07714);">Teach</div><div style="left: 939.3908333333333px; top: 953.4042760416667px; font-size: 14.999999999999998px; font-family: sans-serif;">-</div><div style="left: 710.326px; top: 971.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.902216);">ing  Hospital  (Clydesdale  Hall)  is </div><div style="left: 710.326px; top: 989.404px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.949017);">the second building on the left.</div><div style="left: 680.326px; top: 1025.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(1.06417);">→ </div><div style="left: 710.341px; top: 1025.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.874427);">The </div><div style="left: 738.727px; top: 1025.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.874494);">Small </div><div style="left: 779.372px; top: 1025.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.9408);">Animal </div><div style="left: 832.527px; top: 1025.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.962687);">Clinic </div><div style="left: 875.392px; top: 1025.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.93911);">is   located </div><div style="left: 710.341px; top: 1043.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.913908);">on the north side of the building.</div><div style="left: 680.341px; top: 1079.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.974508);">→   The </div><div style="left: 746.131px; top: 1079.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(1.00866);">Food </div><div style="left: 793.831px; top: 1079.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.96);">Animal </div><div style="left: 854.911px; top: 1079.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.994853);">and </div><div style="left: 895.096px; top: 1079.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.937632);">Equine </div><div style="left: 710.356px; top: 1097.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.932059);">clinics </div><div style="left: 758.056px; top: 1097.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.988448);">are </div><div style="left: 786.886px; top: 1097.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.96375);">on </div><div style="left: 810.181px; top: 1097.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.938);">the </div><div style="left: 838.486px; top: 1097.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.899063);">south </div><div style="left: 881.791px; top: 1097.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.906219);">side. </div><div style="left: 919.111px; top: 1097.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.892273);">The </div><div style="left: 710.356px; top: 1115.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.985556);">gate will open automatically.</div><div style="left: 727.921px; top: 1151.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.917935);">900 East Campus Drive,</div><div style="left: 736.321px; top: 1169.4px; font-size: 15px; font-family: sans-serif; transform: scaleX(0.944721);">Columbia, MO 65211</div><div style="left: 680.3408333333333px; top: 666.8828124999998px; font-size: 20px; font-family: sans-serif;">P</div><div style="left: 691.542px; top: 672.918px; font-size: 14px; font-family: sans-serif; transform: scaleX(1.06305);">referred</div><div style="left: 754.267px; top: 666.883px; font-size: 20px; font-family: sans-serif; transform: scaleX(1.22857);"> r</div><div style="left: 771.464px; top: 672.918px; font-size: 14px; font-family: sans-serif; transform: scaleX(1.05875);">oute</div><div style="left: 130.465px; top: 815.515px; font-size: 15px; font-family: serif; transform: scaleX(0.733667);">North</div><div style="left: 388.207px; top: 322.9802916666666px; font-size: 13.333333333333332px; font-family: sans-serif;">L</div><div style="left: 393.702px; top: 326.832px; font-size: 9.33333px; font-family: sans-serif; transform: scaleX(1.036);">arge</div><div style="left: 416.497px; top: 322.98px; font-size: 13.3333px; font-family: sans-serif; transform: scaleX(0.976667);"> a</div><div style="left: 428.222px; top: 326.832px; font-size: 9.33333px; font-family: sans-serif; transform: scaleX(0.869931);">nimaL</div><div style="left: 398.3171666666666px; top: 338.9802916666666px; font-size: 13.333333333333332px; font-family: sans-serif;">e</div><div style="left: 405.01px; top: 342.832px; font-size: 9.33333px; font-family: sans-serif; transform: scaleX(1.036);">ntrance</div><div style="left: 403.2148333333333px; top: 346.7685475260415px; font-size: 39.53766666666667px; font-family: sans-serif;">g</div><div style="left: 88.79883333333332px; top: 202.04145833333322px; font-size: 13.333333333333332px; font-family: sans-serif;">S</div><div style="left: 94.9968px; top: 205.893px; font-size: 9.33333px; font-family: sans-serif; transform: scaleX(0.83888);">maLL</div><div style="left: 115.974px; top: 202.041px; font-size: 13.3333px; font-family: sans-serif; transform: scaleX(0.976667);"> a</div><div style="left: 127.699px; top: 205.893px; font-size: 9.33333px; font-family: sans-serif; transform: scaleX(0.869931);">nimaL</div><div style="left: 98.34533333333333px; top: 222.04145833333322px; font-size: 13.333333333333332px; font-family: sans-serif;">e</div><div style="left: 105.044px; top: 225.893px; font-size: 9.33333px; font-family: sans-serif; transform: scaleX(1.036);">ntrance</div><div style="left: 594.3715px; top: 402.8154583333331px; font-size: 13.333333333333332px; font-family: sans-serif;">a</div><div style="left: 602.334px; top: 406.667px; font-size: 9.33333px; font-family: sans-serif; transform: scaleX(0.952651);">utomatic</div><div style="left: 647.065px; top: 406.667px; font-size: 9.33333px; font-family: sans-serif; transform: scaleX(0.940121);">gate</div><div style="left: 603.3236666666666px; top: 374.79554752604145px; font-size: 39.53766666666667px; font-family: sans-serif;">f</div><div style="left: 125.701px; top: 303.494px; font-size: 39.5376px; font-family: sans-serif; transform: rotate(-165deg);">f</div><div class="endOfContent"></div></div></div></div>
+        </div>
+
+        <div id="errorWrapper" hidden="true">
+          <div id="errorMessageLeft">
+            <span id="errorMessage"></span>
+            <button id="errorShowMore" data-l10n-id="error_more_info">More Information</button>
+            <button id="errorShowLess" data-l10n-id="error_less_info" hidden="true">Less Information</button>
+          </div>
+          <div id="errorMessageRight">
+            <button id="errorClose" data-l10n-id="error_close">Close</button>
+          </div>
+          <div class="clearBoth"></div>
+          <textarea id="errorMoreInfo" readonly="readonly" hidden="true"></textarea>
+        </div>
+      </div> <!-- mainContainer -->
+
+      <div id="overlayContainer" class="hidden">
+        <div id="passwordOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <p id="passwordText" data-l10n-id="password_label">Enter the password to open this PDF file.</p>
+            </div>
+            <div class="row">
+              <!-- The type="password" attribute is set via script, to prevent warnings in Firefox for all http:// documents. -->
+              <input id="password" class="toolbarField">
+            </div>
+            <div class="buttonRow">
+              <button id="passwordCancel" class="overlayButton"><span data-l10n-id="password_cancel">Cancel</span></button>
+              <button id="passwordSubmit" class="overlayButton"><span data-l10n-id="password_ok">OK</span></button>
+            </div>
+          </div>
+        </div>
+        <div id="documentPropertiesOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <span data-l10n-id="document_properties_file_name">File name:</span> <p id="fileNameField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_file_size">File size:</span> <p id="fileSizeField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_title">Title:</span> <p id="titleField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_author">Author:</span> <p id="authorField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_subject">Subject:</span> <p id="subjectField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_keywords">Keywords:</span> <p id="keywordsField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creation_date">Creation Date:</span> <p id="creationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_modification_date">Modification Date:</span> <p id="modificationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creator">Creator:</span> <p id="creatorField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_producer">PDF Producer:</span> <p id="producerField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_version">PDF Version:</span> <p id="versionField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_page_count">Page Count:</span> <p id="pageCountField">-</p>
+            </div>
+            <div class="buttonRow">
+              <button id="documentPropertiesClose" class="overlayButton"><span data-l10n-id="document_properties_close">Close</span></button>
+            </div>
+          </div>
+        </div>
+      </div>  <!-- overlayContainer -->
+
+    </div> <!-- outerContainer -->
+    <div id="printContainer"></div>
+  
+
+
+</body></html>

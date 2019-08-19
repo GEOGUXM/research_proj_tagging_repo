@@ -1,0 +1,2450 @@
+<html lang="en"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">   
+    <title>
+        CQUni Handbook:
+        Profiles    </title>
+    <link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" type="text/css" href="/bootstrap3/css/bootstrap.min.css" media="screen"><link rel="stylesheet" type="text/css" href="/bootstrap3/css/datepicker/datepicker3.css"><link rel="stylesheet" type="text/css" href="/bootstrap3/css/handbook_bs3.css"><link rel="stylesheet" type="text/css" href="/bootstrap3/css/print.css" media="print"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript"><!-- //
+        !window.jQuery && document.write(unescape('%3Cscript src="//handbook.cqu.edu.au/js/jquery-1.10.2.min.local.js"%3E%3C/script%3E'));
+    // --></script>
+
+    <script type="text/javascript" src="/bootstrap3/js/bootstrap.min.js"></script><script type="text/javascript" src="/js/common_helpers.js"></script><script type="text/javascript" src="/bootstrap3/js/bootstrap-datepicker.js"></script>
+    
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="/js/html5.js"></script>        <script type='text/javascript' src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+    <![endif]-->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <script>
+    jQuery(function(){  
+        $('#prevProgramCarat').tooltip({placement: 'right', title: 'Search for a previously offered course'});
+        $('#prevCourseCarat').tooltip({placement: 'right', title: 'Search for a previously offered unit'});
+    });
+    </script>
+
+</head>
+<body>
+    
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container" style="padding: 0">
+            <div class="navbar-header col-md-12" style="padding: 0">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                                    <!-- CQU Main site header -->
+                    <div id="header">
+                        <a href="http://www.cqu.edu.au" id="site-logo"><img src="/img/cqu_logo.png" alt="CQUniversity Logo" class="tool-tip hidden-xs hidden-sm" width="133" height="80"></a>
+                        <a href="http://www.cqu.edu.au" style="width:66px; height:40px;"><img src="/img/cqu_logo.png" alt="CQUniversity Logo" class="cqu-logo visible-xs visible-sm" width="66" height="40"></a>
+
+                        <span class="brand"><a href="/">CQUni Staff Profile</a></span>
+
+                        <ul id="header-links" class="pull-right">
+                                          
+                            <li><a href="http://www.cqu.edu.au/about-us/structure/organisation/university-contacts">Contacts</a></li>
+                            <li><a href="https://www.cqu.edu.au/faqs" target="_blank">Ask CQUni</a></li>
+                            <li><a href="http://my.cqu.edu.au">MyCQU</a></li>
+                            <li><a href="http://www.cqu.edu.au/library">Library</a></li>
+                            <li><a href="http://www.cqu.edu.au/about-us/structure/organisation/work/vacancies">Jobs</a></li>
+                            <li class="last">
+                                
+<form id="search-area" action="/search/index" method="post" style="margin-top:0px;" class="search-hidden">
+            <i class="glyphicon glyphicon-search"></i>
+        <input placeholder="Search" id="search-box" name="keywords-lg" value="Search" class="search-hidden">
+    <input value="" name="keywords-xs" type="hidden">
+    <input value="on" name="preparatory" type="hidden">
+    <input value="on" name="shortCourses" type="hidden">
+    <input value="on" name="certs" type="hidden">
+    <input value="on" name="diplomas" type="hidden"> 
+    <input value="on" name="courses" type="hidden">
+    <input value="on" name="undergrad" type="hidden">
+    <input value="on" name="postgrad" type="hidden">
+    <input value="on" name="research" type="hidden">
+</form>
+
+<script>
+jQuery(function(){ 
+    $('#search-box').val("Search");
+    $('#search-area').addClass('search-hidden');
+    $('#search-box').addClass('search-hidden');
+
+    $('#search-area i').on('click',function(){
+        $("#search-box").trigger("focus");
+    });
+
+    $('#search-box').on('focus',function(){
+        $('#search-area').addClass('search-expanded');
+        $('#search-area').removeClass('search-hidden');
+        $('#search-box').removeClass('search-hidden');
+        $(this).attr("placeholder","Search the Handbook");
+        $(this).val("");
+
+    });
+    $('#search-box').on('focusout',function(){
+        $('#search-area').addClass('search-hidden');
+        $('#search-area').removeClass('search-expanded');
+        $('#search-box').addClass('search-hidden');
+        $(this).attr("placeholder","Search");
+        $(this).val("Search");
+    });
+});
+</script>
+
+
+<style>
+#header-links{
+        padding:0;
+}
+#header-links li
+{
+    display: table;
+    float:left;
+    box-sizing: border-box;
+    vertical-align: middle;
+    top: 50%;
+    transform: translateY(-50%);
+    margin:0 0 0 0;
+}
+#search-area{
+    clear: left;
+    padding: 5%;
+    margin-left:0px;
+    margin:0 !important;
+    background-color:#363636;
+    color:#FFF;
+    -webkit-transition: width 0.2s;
+    -moz-transition: width 0.2s;
+    -ms-transition: width 0.2s;
+    -o-transition: width 0.2s;
+    transition: width 0.2s;
+    text-align:right;
+    overflow:hidden;
+    white-space: nowrap;
+    height:100%;
+    line-height: 0px;
+    vertical-align: center !important;
+
+}
+#search-area span{
+    width:10%;
+    float:left;
+    height:50%;
+    vertical-align: center !important;
+}
+
+.search-expanded{
+    padding: 0%;
+    width:250px;
+    text-align: left;
+    line-height: 0px;
+}
+.search-hidden{
+    width:90px;
+    text-align:center;
+    line-height: 0px;
+
+}
+
+#search-box{
+
+    color:black;
+    background-color:#363636;
+    color:#FFF;
+    width:80%;
+
+    border:none;
+    background-color:none;
+    outline: none;    
+
+    -webkit-transition: ease-in-out width  0.2s;
+    -moz-transition: ease-in-out width 0.2s;
+    -ms-transition: ease-in-out  width 0.2s;
+    -o-transition: ease-in-out width 0.2s;
+    transition: ease-in-out width 0.2s;
+    line-height: 0px;
+    vertical-align: center;
+}
+
+
+</style>                            </li>
+                        </ul>
+
+                        <img src="/img/tagline.png" alt="Be everything you want to be" id="site-tagline" class="pull-right" width="186" height="10">
+                    </div>   
+                            
+                <div id="navbar" class="navbar-collapse collapse">
+
+                    <!-- BS3 -->
+                    
+                    <ul class="nav navbar-nav navbar-right">
+                          
+                        <form class="navbar-form pull-right sign-in-form">
+                            <a href="/saml/login" class="btn btn-primary loginTooltip" title="Students and Staff can sign in to see more personalised information and functionality">Students and Staff Sign In</a>              
+                        </form>
+                    </ul>
+                <ul id="navbar_profile" class="nav navbar-nav">
+
+
+				<li><a href="/profiles/index" title="List staff member expertise">Search Profiles</a></li>
+
+
+				
+				<li><a href="/profiles/index/expertise" title="List staff member expertise">Find An Expert</a></li>
+
+                			    			  
+				<li class="dropdown">
+	            	<a href="#" class="dropdown-toggle" title="Click to view links to other useful CQUniversity systems and resources" data-toggle="dropdown">Useful Links <b class="caret"></b></a>
+	                	<ul class="dropdown-menu  multi-column columns-2" id="usefulProfileLinks">
+<div class="row">
+	<div class="col-sm-6">
+		<ul class="multi-column-dropdown">
+			    <li class="dropdown-header">General Links</li>
+                                  
+        <li class="eforms"><a href="/eforms/index"><i class="glyphicon glyphicon-inbox"></i> eForms</a></li>
+                                      
+        <li class="eforms"><a href="/phonebook/index"><i class="glyphicon glyphicon-book"></i> Phonebook</a></li>
+          
+
+                               
+        <li class="eforms"><a href="/profiles/index"><i class="glyphicon glyphicon-user"></i> Staff Profiles</a></li>
+      
+
+            <li>
+            <a href="http://www.cqu.edu.au/about-us/service-and-facilities/academic-learning-centre" target="_blank">Academic Learning Centre</a>
+        </li>
+            <li>
+            <a href="http://bookshop.cqu.edu.au/" target="_blank">Bookshop</a>
+        </li>
+            <li>
+            <a href="https://www.cqu.edu.au/student-life/new-students/getting-started/planners-and-profiles/changes-and-planners" target="_blank">Changes and Planners</a>
+        </li>
+            <li>
+            <a href="http://www.cqu.edu.au/student-life/new-students/getting-started/planners-and-profiles/" target="_blank">First Year Planners</a>
+        </li>
+            <li>
+            <a href="http://www.cqu.edu.au/about-us/structure/governance/glossary" target="_blank">Glossary</a>
+        </li>
+            <li>
+            <a href="http://www.library.cqu.edu.au" target="_blank">Library </a>
+        </li>
+            <li>
+            <a href="https://mycentre.cqu.edu.au/" target="_blank">MyCentre</a>
+        </li>
+            <li>
+            <a href="http://policy.cqu.edu.au/" target="_blank">Policies and Procedures</a>
+        </li>
+            <li>
+            <a href="http://handbook.cqu.edu.au/previous_editions" target="_blank">Previous Handbooks (2013 - 2001)</a>
+        </li>
+            <li>
+            <a href="https://my.cqu.edu.au/" target="_blank">Student Portal</a>
+        </li>
+            <li>
+            <a href="http://www.ucroo.com.au" target="_blank">UCROO (social network)</a>
+        </li>
+            <li>
+            <a href="http://nexus.cqu.edu.au/courseprofile" target="_blank">Unit Profiles</a>
+        </li>
+            <li>
+            <a href="https://sportal.cqu.edu.au/learning-support/it-help" target="_blank">IT Services</a>
+        </li>
+        
+		</ul>
+	</div>
+
+	</div>
+
+<style>
+	li.eforms a {
+		font-weight: bold  !important;
+		font-size: 14px !important;
+	}	
+</style></ul>
+	            </li>
+					
+			</ul></div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="main-content">
+            <!-- File: /app/View/Profiles/view.ctp -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+
+<div class="row">
+    <div class="col-md-12">
+
+        <h2 style="margin: 5px 0 15px 0; border-bottom: 1px solid #000">
+
+            
+                            Dr                Catherine                O'Mullan            
+            <span style="font-size:10px;" class="pull-right">
+                Psychology and Public Health / School of Health, Medical and Applied Sciences            </span>
+        </h2>
+    </div>
+</div>
+
+<div id="response-msg"></div>
+
+<div class="row">
+    <div class="col-md-2 text-center" id="staffImage" style="padding-right: 0">
+        <div class="thumbnail" id="staff-photo" style="margin-bottom: 0; padding: 8px 4px">
+            <img src="/file/viewFile/profiles/837/portrait.jpg" alt="">             
+        </div>
+    </div>
+
+            
+    <div class="col-md-10">
+
+        <div class="panel panel-success">
+
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <span id="override_title" data-type="text" data-pk="837" data-url="/profiles/updateProfileData" data-title="Enter your position title">
+                          Senior Lecturer/DL Health Promotion                    </span>
+
+                    <div class="pull-right">
+                                                                    </div> 
+
+                </h4>
+            </div>
+
+            <div class="panel-body">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <p id="qualifications" data-type="text" data-pk="837" data-url="/profiles/updateProfileData" data-title="Enter your qualifications">
+                            BA (Hons); MSc (Health Promotion); DrPH (Curtin University)                        </p>
+                    </div>
+                </div>  
+
+
+                <div class="row">
+                    <div class="col-md-6 profile-header-box">
+                                                <h6 class="subTitle pull-right">Contact Details</h6>
+
+                        <div class="row" id="contactDetails">
+                            <div class="col-md-12" style="margin-top: -15px">
+ 
+                                                                <p style="clear:right;">
+                                    <strong>Email:</strong> 
+                                    <a href="mailto:c.omullan@cqu.edu.au" class="derivedText">c.omullan@cqu.edu.au                                    </a>
+                                </p>
+                                                                
+                                
+                                <p>
+                                    <strong>Phone:</strong> 
+                                    (07) 4150 7153 - Ext: 57153                                </p>
+                                
+                                <ul class="list-unstyled alt-contacts">
+                                                                    </ul>
+
+                            </div>
+                        </div>                        
+                    </div>
+
+                    <div class="col-md-6 profile-header-box" style="border-right: none;">
+
+                                                <h6 class="subTitle pull-right">Office Location</h6>
+
+                        <div role="tabpanel">
+                            <ul class="nav nav-tabs" role="tablist" id="campus-tabs">
+                                                                    <li id="campusTab_3296" class="active">
+                                        <a href="#campus-tabs-3296" aria-controls="campus-tabs-3296" role="tab" data-toggle="tab" aria-expanded="true">
+                                            Bundaberg                                        </a>
+                                    </li>
+                                                          
+
+                                
+                                
+                            </ul>
+
+                            <div class="tab-content">
+                                                            
+                                <div id="campus-tabs-3296" class="tab-pane active" role="tabpanel">
+
+                                    
+                                    <div class="panel panel-default" style="border-top:none; margin-bottom: 3px">
+                                        <div class="panel-body" style="padding:5px">
+
+                                            <p class="campus_fields" data-name="room_location" data-pk="3296" data-title="Please enter your room number" data-placeholder="Enter your room number">
+                                                                                            </p>
+                                            <p class="campus_fields" data-name="building_location" data-pk="3296" data-title="Please enter your building number" data-placeholder="Enter your building number">
+                                                                                            </p>
+                                            <p class="campus_fields" data-name="additional_comments" data-pk="3296" data-title="Please enter additional information" data-placeholder="Enter additional information">
+                                                                                            </p>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                                        </div> <!-- end campus tabs -->
+                            
+                        </div>
+                    </div>
+
+                </div> <!-- end row -->
+            </div> <!-- end panel-body -->
+        </div> <!-- end panel panel-success --> 
+    </div> <!-- end col-md-10 -->
+</div> <!-- End row ... Top section -->
+
+
+<!-- Main Information section -->
+
+<div class="row">
+    <div class="col-md-12">
+
+        <div class="panel panel-info">
+
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    About Me
+                </h4>
+            </div>
+
+            <div class="panel-body">
+                                
+                <div role="tabpanel">
+                    <!-- Nav tabs -->
+                    <ul id="profile-tabs" class="nav nav-tabs" role="tablist">
+                                                    <li class="active">
+                                <a href="#tabs-6" aria-controls="home" role="tab" data-toggle="tab" aria-expanded="true">
+                                    About Me                                </a>
+                            </li>
+                                                    <li>
+                                <a href="#tabs-2" aria-controls="home" role="tab" data-toggle="tab">
+                                    General                                </a>
+                            </li>
+                                                    <li>
+                                <a href="#tabs-1" aria-controls="home" role="tab" data-toggle="tab">
+                                    Research                                </a>
+                            </li>
+                        
+                                      
+                            <li>
+                                <a href="#tabs-expertise" aria-controls="home" role="tab" data-toggle="tab">Expertise</a>
+                            </li>
+                                  
+                            <li>
+                                <a href="#tabs-interests" aria-controls="home" role="tab" data-toggle="tab">Interests</a>
+                            </li>
+                                                  
+                            <li>
+                                <a href="#tabs-publications" aria-controls="home" role="tab" data-toggle="tab">Publications</a>
+                            </li>
+                             
+                          
+                            <li>
+                                <a href="#tabs-teaching" aria-controls="home" role="tab" data-toggle="tab">Teaching</a>
+                            </li>
+                                                                          
+                            <li>
+                                <a href="#tabs-links" aria-controls="home" role="tab" data-toggle="tab">Links</a>
+                            </li>
+                                            </ul>
+
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+                    
+                                            <div id="tabs-6" class="tab-pane active">
+
+                        
+                            <div class="sectionHeader" id="section-id-98">
+                                            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                            <div class="profileSectionData" id="profileSection-211297">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="211297">
+                                                    <p>
+	Cathy O'Mullan has worked as a health promotion practitioner for over 20 years both here in Australia and in the UK. She has managed diverse programs within a number of government and non-government organisations across areas such as chronic disease, cancer, mental health and sexual health. Over the past 10 years, Cathy has specialised in the area of sexual health and she is passionate about improving the health of vulnerable and marginalised populations. Her Doctoral research explored women's experiences of coping with the sexual side effects of antidepressants.
+</p>
+<p>
+	Cathy was appointed as a Lecturer (Public Health) in 2010, promoted to Senior Lecturer in 2017, and she is currently the Discipline Lead for Health Promotion.
+</p>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                            </div> <!-- end row -->
+                            
+                                                </div> <!-- end div tabs  -->
+                        
+                                            <div id="tabs-2" class="tab-pane">
+
+                        
+                            <div class="sectionHeader" id="section-id-2">
+                                Awards            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <div class="profileSectionData" id="profileSection-212915">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="212915">
+                                                    
+                            	<p>2015 CQ University Bundaberg Prize for Excellence in Research (Emerging Researcher)&nbsp;</p><p>2013 Opal Award - Excellence in Engagement Finalist (Engaged Research and Innovation) </p><p>2013 Student Voice Award (Distance Educator of the Year)<br></p><p>2012 Opal Award -Excellence in Engagement Finalist (Engaged Research and Innovation)<br></p><p>2011 Healthy Queensland Awards - State Finalist (Workplace Category $10,000 funding)&nbsp;&nbsp;</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-102">
+                                Media Citations            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                <div class="profileSectionData" id="profileSection-211296">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="211296">
+                                                    <ul>
+	<li>
+		<strong style="font-weight: bold;">April 2016</strong> - Sexuality Expert Says "Sexuality Education is All of Our Concern" (the Morning Bulletin, Rockhampton)
+	</li>
+</ul>
+<ul>
+	<li>
+		<strong style="font-weight: bold;">December 2015</strong> - Eight Ways to Boost Your Libido (Good Health Magazine, Australia)
+	</li>
+</ul>
+<ul>
+	<li>
+		 <span style="font-weight: 700;">August 2013</span> - Orgasms and Brain Health (Radio Interview Tropical North ABC; Radio Interview Newcastle ABC; Radio interview Capricornia ABC)
+	</li>
+</ul>
+<ul>
+	<li>
+		<span style="line-height: 1.42857; font-weight: 700;">August 2013</span> <span style="line-height: 1.42857;">- The Female Orgasm (Radio interview, Saturday Night Live, 4BC Brisbane)</span>
+	</li>
+</ul>
+
+<ul>
+	<li>
+		 <strong>November 2012</strong> - Antidepressants and sexual difficulties (Radio interview Bay FM 99.9)
+	</li>
+</ul>
+<ul>
+	<li>
+		<strong>October 2012</strong> - Study checks links between antidepressants and sexual difficulties (Radio interview Hitz FM 93.9)
+	</li>
+</ul>
+<ul>
+	<li>
+		<strong>May 2012</strong> - The Naked Truth - Skin Cancer (Radio Interview 4BU AM)<br><br><br><br>
+	</li>
+</ul>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-85">
+                                Professional Experience            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                        <div class="profileSectionData" id="profileSection-207663">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="207663">
+                                                    <p>
+	2014 - Present <strong>Discipline Lead (Health Promotion)</strong>
+</p>
+<p>
+	2010 - Present <strong>Lecturer (Public Health</strong>). Course co ordination, lecturing and research supervision.
+</p><hr><br>2009 - 2010 <strong>Health Promotion Co ordinator,</strong> GP Links Wide Bay. Program manager for Healthy Lifesyles and Mental Health<br>in Drought Affected Communities<br><br>2007 - 2009 <strong>Strategy Co ordinator - HIV, Hepatitis and Sexual Health Promotion</strong>, Queensland Health. Coordination and evaluation of public health programs across 3 health service districts (Cairns, Cape York and Torres Strait)<br><br>2001 - 2007 <strong>Health Promotion Co ordinator (Sexual Health</strong>), Family Planning Queensland. Co ordination of sexuality based health promotion projects including youth, disability and early childhood programs.<br><br>1996 - 2000 <strong>Prevention &amp; Early Detection Co ordinator, Queensland Cancer Fund.</strong> Responsible for planning and delivery of cancer prevention and early detection programs including skin, breast, prostate cancer.<br><br>1992 - 1996 <strong>Health Promotion Officer, National Health Service, UK.</strong> Co ordination of health promotion programs aimed at reducing chronic disease (physical activity, nutrition, alcohol) within workplace and primary care settings.<br>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-20">
+                                Professional Memberships            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                                                                                        <div class="profileSectionData" id="profileSection-207664">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="207664">
+                                                    
+                            	
+                            	<p>Public Health Association Australia (PHAA) </p>
+<p>Society of Australian Sexologists (SAS)</p><p>Chair - Management Committee&nbsp;(Phoenix House - Sexual Assault Service) <br></p>                        	                        	                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-9">
+                                Responsibilities            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div class="profileSectionData" id="profileSection-209166">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="209166">
+                                                    <p>Discipline Lead (Health Promotion)<br><br>Course Co ordination and Lecturing </p>
+<p>Supervision of&nbsp; Higher Degree by Research Students (Honours and Masters Degree )&nbsp; </p>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-30">
+                                Professional Interests            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <div class="profileSectionData" id="profileSection-207783">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="207783">
+                                                    <p>Holistic Sexuality </p>
+<p>Sexuality and Disability </p>
+<p>Community Capacity Building </p>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-46">
+                                Industry Reports            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                    <div class="profileSectionData" id="profileSection-218821">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="218821">
+                                                    2016 - Parent/Carer Experiences of an Intensive Early Childhood Visiting program. (Prepared for Phoenix House Sexual Assault Service)                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+                            </div> <!-- end row -->
+                            
+                                                </div> <!-- end div tabs  -->
+                        
+                                            <div id="tabs-1" class="tab-pane">
+
+                        
+                            <div class="sectionHeader" id="section-id-81">
+                                Theses            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="profileSectionData" id="profileSection-217635">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="217635">
+                                                    <p>
+	 <strong style="font-weight: bold;">Doctoral Thesis (2016)</strong>
+</p>
+<p>
+	Coping with Sexual Difficulties: The Lived Experience of Women Taking Selective Serotonin Reuptake Inhibitor (SSRI) Medication.
+</p>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                                                            
+                                        <span class="publishedInText">Published in:</span>
+                                        <span class="updatePublishInfo pPublication" id="publication_year-217635">2016</span>
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-21">
+                                Invited Papers/Speaker            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div class="profileSectionData" id="profileSection-218065">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="218065">
+                                                    <span style="font-size: 12px;"></span><span style="font-size: 12px;"></span><span style="font-size: 12px;"></span>
+<p>
+	<span style="line-height: 1.42857; text-align: center; font-family: Arial;"><span style="font-size: 12px;"><strong>July 2016</strong> - SSRIs and Sexual Side Effects: Implications for Primary Care. (</span></span><span style="text-align: center; font-family: Arial; font-size: 12px; line-height: 17.1429px;">PHN Conference, Cairns)</span>
+</p>
+<p>
+	<span style="color: rgb(79, 79, 79); font-size: 12px; line-height: 16.8px; font-family: Arial;"><span style="padding-bottom: 3px; margin: 1px; font-weight: 700; line-height: 1.4 !important;">February 2016</span> - Women, Sexual Dysfunction, and Antidepressants (Bundaberg Nurses Conference)</span>
+</p>
+<p>
+	<span style="color: rgb(79, 79, 79); font-size: 12px; line-height: 16.8px; font-family: Arial;"><span style="padding-bottom: 3px; margin: 1px; font-weight: 700; line-height: 1.4 !important;">February 2016</span> - Female Sexuality: The Hunt for a Pink Viagra.</span><span style="color: rgb(79, 79, 79); font-size: 12px; line-height: 16.8px; font-family: Arial;"></span><span style="color: inherit; font-family: inherit; line-height: 1.1;"></span> <span style="font-family: inherit; color: rgb(79, 79, 79); font-size: 12px; line-height: 16.8px;">(</span><span style="color: rgb(79, 79, 79); font-size: 12px; line-height: 16.8px; font-family: Arial;">Bundaberg Nurses Conference)</span>
+</p>
+<p>
+	<span style="color: rgb(79, 79, 79); font-size: 12px; line-height: 16.8px; font-family: Arial;"><span style="padding-bottom: 3px; margin: 1px; font-weight: 700; line-height: 1.4 !important;">November 2015</span> Interpretive Phenomenological Analysis - The Lived Experience of a Doctoral Student (IPA Research Symposium, CQU Brisbane)</span>
+</p>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                        </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-60">
+                                Completed Supervisions            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <div class="profileSectionData" id="profileSection-216231">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="216231">
+                                                    <p>
+	<strong style="font-weight: bold;">2015</strong> Aryal, Saraswati. Title 'Vitamin D and Sun Protection Knowledge and Behaviour of Australian Born Queenslanders and Migrant Queenslanders'. Master of Health Science (Co-supervision with Professor Fiona Coulson) 2015.
+</p>
+
+
+<p>
+	<strong style="font-weight: bold;">2015</strong> Hughes, Denise. Title ' Motivations of Aboriginal Maternal and Infant Health Service (AMIHS) midwives to deliver tobacco brief interventions to Clients'. Master of Health Promotion.
+</p>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                                                            
+                                        <span class="publishedInText">Published in:</span>
+                                        <span class="updatePublishInfo pPublication" id="publication_year-216231">2015</span>
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-3">
+                                Grants            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <div class="profileSectionData" id="profileSection-211242">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="211242">
+                                                    <p>
+	 <strong style="line-height: 1.42857;">2016</strong> <span style="line-height: 1.42857; text-decoration: underline;">O'Mullan C,</span> <span style="line-height: 1.42857;">Signal T, Banks S &amp;</span> Stiler <span style="line-height: 1.42857;">J - Phoenix House Sexual Assault Service : Program Impact and Evaluation (CQ University Engaged Research Grant</span> <strong style="line-height: 1.42857;">$8000</strong><span style="line-height: 1.42857;">)</span>
+</p>
+<p>
+	 <strong style="font-weight: bold;">2016</strong> <span style="text-decoration: underline;">O'Mullan C,</span> Parkinson L, Debatistta J &amp; Gorton C - Sexual Health in Midlife (C<span style="line-height: 1.42857;">Q University Engaged Research Grant</span> <span style="font-weight: 700; line-height: 1.42857;">$8000</span><span style="line-height: 1.42857;">)</span>
+</p>
+<p>
+	 <strong style="font-weight: bold;">2013</strong> <span style="text-decoration: underline;">O'Mullan C,</span> Debattista J &amp; Russell D <strong>-</strong> Risky business: Service providers perceptions and experiences of risk taking behaviours in CQ mining towns. (<span style="line-height: 1.42857;">Queensland Council for Social Science Innovation <strong style="font-weight: bold;">$29,831</strong>)</span>
+</p>
+<p>
+	 <strong>2012</strong> <span style="text-decoration: underline;">O'Mullan C</span> &amp; Debatistta J - F<span style="line-height: 1.42857;">actors influencing sexual practices and illicit/licit drug use in mining populations (</span><span style="line-height: 1.42857;">Queensland Health <strong style="font-weight: bold;">$20,000</strong>)</span>
+</p>
+<p>
+	 <span style="line-height: 1.42857;"><strong style="font-weight: bold;">2012</strong> Madsen, W, <span style="text-decoration: underline;">O' Mullan C</span> &amp; Atfield, M - Theodore in our own Words: Tales from a Resilient Community (Foundation for Rural and Regional Renewal <strong style="font-weight: bold;">$12,679</strong>)</span>
+</p>
+<p>
+	 <strong>2012</strong> Madsen, W &amp; <span style="text-decoration: underline;">O'Mullan C</span> -Understanding the impact of a rural leadership program for a rural community (<span style="line-height: 1.42857;">Learning and Teaching Research Centre (LTERC) <strong style="font-weight: bold;">$2800</strong>)</span>
+</p>
+<p>
+	 <strong style="font-weight: bold;">2011</strong> Madsen W, <span style="text-decoration: underline;">O'Mullan C,</span> Rockloff M, Rockloff S &amp; Hopkinson S - S<span style="line-height: 1.42857;">howing and growing community resilience in Theodore (</span><span style="line-height: 1.42857;">Vice Chancellor's Engaged Research Grant <strong style="font-weight: bold;">$44,627</strong>)</span>
+</p>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                    </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-7">
+                                Conference Presentations            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div class="profileSectionData" id="profileSection-211240">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="211240">
+                                                    <p>
+	Madsen W &amp; <span style="text-decoration: underline;">O'Mullan C</span> (2016) 'Power, Partnerships and Participation: Reflections on the Co-creation of Knowledge", Narrative Health and Wellbeing Conference,CQ University, Noosa.
+</p>
+
+
+<p>
+	 <span style="line-height: 1.42857;"><span style="text-decoration: underline;">O'Mullan C,</span> Doherty, M, Coates, R &amp; Tilley M (2014) ' Suffering in Silence: Stigma, SSRIs and Sexual Difficulties'. Asia Oceania Federation of Sexology Conference, Brisbane. October 2014.</span>
+</p>
+<p>
+	<br><span style="text-decoration: underline;">O'Mullan C</span>, Debattista J &amp; Browne, M (2014) 'Risky Business or Not? Sex and the Mining Boom. Australasian Sexual Health Conference, Sydney, October 2014.<br><br><span style="text-decoration: underline;">O'Mullan C,</span> Doherty, M, Coates, R &amp; Tilley M (2013) 'Antidepressants, Sexual Difficulties and Coping Strategies'. Society for Scientific Study of Sexuality Annual Conference, San Diego. November 2013.<br><br><span style="text-decoration: underline;">O'Mullan C</span> (2013) 'Suffering in Silence: How can we help women to better manage the sexual side effects of SSRI medication?' Australasian Sexual Health Conference, Darwin. October 2013.<br><br><span style="text-decoration: underline;">O'Mullan C</span>, Doherty, M, Coates, R &amp; Tilley M (2013) 'Antidepressants and Sexual Difficulties : Raising Up Women's Voices', World Association for Sexual Health Congress, Brazil. September 2013.<br><br>Madsen W, <span style="text-decoration: underline;">O'Mullan C</span> &amp; Langham E (2013) 'Exploring the synergies between health promotion and community resilience: a regional Australian case study', International union of Health Promotion and Education Conference, Thailand August 2013. <span style="FONT-FAMILY: Symbol; COLOR: black; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore"><span style="FONT: 7pt 'Times New Roman'"></span></span></span><br><br><span style="text-decoration: underline;">O'Mullan</span> C &amp; Madsen, W (2013) 'Tales from a Resilient Community', ANZ National Disaster Management Conference,<br>Brisbane. May 2013.<br><br><span style="text-decoration: underline;">O'Mullan C</span> (2012) 'Raising up Women's Voices : Using IPA to Explore Sexual Difficulties', ASSERT National Conference, Melbourne. November 2012<br><br><span style="text-decoration: underline;">O'Mullan C &amp;</span> Gorton, C ' (2012) Tracing the Footprints: Capturing the Growth of Sexual and Reproductive Health in Australia' National Sexual and Reproductive Health Conference, Melbourne.November 2012<br><br><span style="text-decoration: underline;">O'Mullan C</span> (2012) 'Sex and Academia: Unlikely Bed Fellows' <em>Engagement Australia conference.</em> Brisbane. July 2012<br><br>Madsen W &amp; <span style="text-decoration: underline;">O'Mullan C</span> (2012) 'Showing and Growing Community Resilience in the Aftermath of the Floods' <em>Engagement Australia conference.</em> Brisbane. July 2012<br><br><span style="text-decoration: underline;">O'Mullan C</span>, Madsen W, Schmidt J, Field D, Sorbello C (2010) ‘Getting Things Done: A Partnership Approach to Healthy Lifestyles' <em>Australian Health Promotion Association National Conference</em>. Melbourne. June 2010
+</p>
+<p>
+	<br>Lewis R, Gorton C, Russell D, Pajo M, <span style="text-decoration: underline;">O'Mullan C</span> (2008) ‘A Collaborative Approach to Hepatitis C Education, Prevention and Testing at Lotus Glen Correctional Centre' Oral Poster presentation. <em>National Viral Hepatitis Conference,</em> Brisbane. October 2008.<br><br>Harper R, Russell D, <span style="text-decoration: underline;">O'Mullan C</span> (2008)' The Far North Qld Travellers HIV Project' <em>Australasian Sexual Health Conference</em>, Perth. September 2008.<br><br><span style="text-decoration: underline;">O'Mullan C</span> (2006) ‘Every Body Needs to Know: Sexuality and Disability' <em>Australian Association Special Education Specialists (ASASES) State Conference,</em> Cairns. November 2006.<br><br><span style="text-decoration: underline;">O'Mullan</span> C (2004)' Cape Capers: Promoting School Based Sexual Health in a Remote Community on Cape York' <em>FPQ State Conference</em>, Brisbane. May 2004<br><br>O'Mullan C ( 2004) ‘Sexual Suicide: The Impact of Mental Health on Sexuality<em>' Australia/NZ Community Mental Health Nurse ( ANZCMHN) 6<sup>th</sup> Annual Tropical Symposium.</em> Cairns 2004<em>.</em>
+</p>
+<p>
+	<span style="text-decoration: underline;">O'Mullan C</span> (2003) ‘Performance Anxiety: Using the Performing Arts as a Sexual Health Promotion Strategy' <em>FPQ State Conference</em>, Brisbane. May 2003.<br><br><span style="text-decoration: underline;">O'Mullan C</span> (2002) ‘Responding to Sexually Inappropriate and Abusive Behaviour: The IMPROVE Model' <em>Sharing the Road Disability State Conference,</em> Mackay.
+</p>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                <div class="profileSectionData" id="profileSection-212575">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="212575">
+                                                    <p>&nbsp;</p>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-54">
+                                Refereed Conference Abstracts            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <div class="profileSectionData" id="profileSection-211239">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="211239">
+                                                    <p>Edit content here</p>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                            </div>
+                            </div> <!-- end row -->
+                            
+                        
+                            <div class="sectionHeader" id="section-id-92">
+                                Research Seminars            
+                                                            </div>
+
+                            
+
+
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <div class="profileSectionData" id="profileSection-211241">
+
+                                    
+                                        <div class="row">
+                                            <div class="col-md-10">
+                                                <div class="pInformation section-data" data-name="information_details" data-pk="211241">
+                                                    <p>
+	 <strong style="line-height: 1.42857; text-decoration: underline;">Invited Research Seminars</strong>
+</p>
+<p>
+	<strong style="font-weight: bold;">December 2014</strong> Risky Business or Not: Sex and the Mining Industry (HIV Foundation, Qld) UQ, Brisbane.
+</p>
+<p>
+	 <strong>December 2012</strong> Research Update: Antidepressants and sexual desire in females (Australian Society Sexuality Educators, Researchers, and Therapists (ASSERT)) Queensland State Meeting, Brisbane.
+</p>                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2 editable-buttons" style="padding-left:0; margin-left:0; display:none">
+                                                <button type="submit" class="btn btn-primary btn-sm editable-submit saveEditInformation">
+                                                    <i class="glyphicon glyphicon-ok"></i>
+                                                </button>
+                                                <button type="button" class="btn btn-default btn-sm editable-cancel cancelEditInformation">
+                                                    <i class="glyphicon glyphicon-remove"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+
+                                    
+                                    </div> <!-- end profileSectionData -->
+                                                                                                                                                                                                                                                                                                                                                                                    </div>
+                            </div> <!-- end row -->
+                            
+                                                </div> <!-- end div tabs  -->
+                        
+                    
+                                            		
+		
+		<div id="tabs-expertise" class="tab-pane">
+
+
+            
+							
+			<div>
+								
+				<div class="sectionHeader">
+					<span class="expertiseDescription" style="display:none">
+						11    				</span>
+    					MEDICAL AND HEALTH SCIENCES
+    			</div>
+    			    			
+    			<div class="profileSectionData" style="min-height: 32px; clear: both">
+					      
+					<div class="subjectDescription" style="color: #2E618C; padding-bottom: 4px;">
+						
+													<span class="glyphicon glyphicon-education" title="This person is a recognised research supervisor for this field"></span>
+
+												
+    					Public Health and Health Services 
+    					 - Health Promotion    				</div>
+
+					<div class="updateExpertData" id="misc_description" data-pk="1460">
+						Sexual Health, Working with Marginalised Populations, Qualitative Research Methodology 					</div>
+					
+    			</div>
+    		</div>
+    		
+    		    	</div> <!-- end tabs-expertise -->
+
+		
+		
+		<div id="tabs-interests" class="tab-pane">
+
+            
+							
+			<div>
+								
+				<div class="sectionHeader">
+					<span class="expertiseDescription" style="display:none">
+						11    				</span>
+    					MEDICAL AND HEALTH SCIENCES
+    			</div>
+    			    			
+    			<div class="profileSectionData">
+					      
+					<div class="subjectDescription" style="color: #2E618C; padding-bottom: 4px">
+    					Public Health and Health Services 
+    					 - Health Promotion    				</div>
+
+					<div class="updateExpertData" id="misc_description" data-pk="196">
+						Sexual Health, Working with Marginalised Populations, Qualitative Research Methodology					</div>
+					
+    			</div>
+    		</div>
+    		
+    		    	</div> <!-- end tabs-expertise -->
+
+                    
+                                                 
+    <div id="tabs-publications" class="tab-pane">
+            <div>
+                  
+                    <div class="sectionHeader">Book Chapter</div>
+          
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>Madsen, W, McNicol, S &amp; O'Mullan, C 2015, 'Engaging with the past: reflecting on resilience from community oral history projects', W, Madsen, L Costigan &amp; S McNicol (eds.), Community Resilience, Universities and Engaged Research for Today's World, Palgrave Macmillan, Hampshire, UK, <a href="http://dx.doi.org/10.1057/9781137481054.0008">http://dx.doi.org/10.1057/9781137481054.0008</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1072009">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:12661">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="sectionHeader">Journal Article</div>
+          
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>Prentice, K, Blair, B &amp; O��Mullan, C 2016, 'Sexual and family violence: overcoming barriers to service access for Aboriginal and Torres Strait Islander clients', Australian Social Work, published online 17 July 2016, <a href="http://dx.doi.org/10.1080/0312407X.2016.1187184">http://dx.doi.org/10.1080/0312407X.2016.1187184</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1250435">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:13738">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>Madsen, W &amp; O'Mullan, C 2016, 'Perceptions of community resilience after natural disaster in a rural Australian town', Journal of Community Psychology, vol. 44, no. 3, pp. 277-292, <a href="http://dx.doi.org/10.1002/jcop.21764">http://dx.doi.org/10.1002/jcop.21764</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1250428">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:13731">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>O'Mullan, C, Doherty, M, Coates, R &amp; Tilley, PJM 2015, '��Accepting what is��: an approach for managing the long-term sexual side effects of selective serotonin reuptake inhibitors (SSRIs) in women', Sexual and Relationship Therapy, vol. 30, no. 3, pp. 325-337, <a href="http://dx.doi.org/10.1080/14681994.2015.1032236">http://dx.doi.org/10.1080/14681994.2015.1032236</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1072042">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:12657">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>O'Mullan, C, Debattista, J &amp; Browne, M 2015, 'Risky business or not?: FIFOs, sexual risk taking and the Australian mining industry', Health Promotion Journal of Australia, published online 25 November 2015, <a href="http://dx.doi.org/10.1071/HE15011">http://dx.doi.org/10.1071/HE15011</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1216706">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:13049">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>Madson, W &amp; O��Mullan, C 2014, 'Knowing me, knowing you: exploring the effects of a rural leadership program on community resilience', Rural Society, vol. 23, no. 2, pp. 4390-4402, <a href="http://dx.doi.org/10.5172/rsj.2014.23.2.151">http://dx.doi.org/10.5172/rsj.2014.23.2.151</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1054033">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:11853">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>Madsen, W, O'Mullan, C &amp; Keen-Dyer, H 2014, 'Learning and leadership: evaluation of an Australian rural leadership program', Australian Journal of Adult Learning, vol. 54, no. 1, pp. 30-49.</p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1054065">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:11854">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>O��Mullan, C, Doherty, M, Coates, R &amp; Tilley, PJ 2014, 'Women��s experiences of coping with the sexual side effects of antidepressant medication', Psychology &amp; Health, vol. 29, no. 12, pp. 1388-1406, <a href="http://dx.doi.org/10.1080/08870446.2014.940951">http://dx.doi.org/10.1080/08870446.2014.940951</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1053988">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:11852">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>O'Mullan, C, Doherty, M, Coates, R &amp; Tilley, PJ 2014, 'Searching for answers and validation: Australian women', Australian Journal of Primary Health, published online 23 May 2014, <a href="http://dx.doi.org/10.1071/PY13172">http://dx.doi.org/10.1071/PY13172</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1053993">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:11851">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>O'Mullan, C, Doherty, M, Tilley, PJM &amp; Coates, R 2013, 'Antidepressants, sexual difficulties and coping strategies: raising up women��s voices', Journal of Sexual Medicine, vol. 10, supplement. 5, pp. 305-305, <a href="http://dx.doi.org/10.1111/jsm.12304">http://dx.doi.org/10.1111/jsm.12304</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1238867">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:13611">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>Madsen, W, O'Mullan, C 2013, 'Responding to disaster: applying the lens of social memory', Australian Journal of Communication, vol. 40, no. 1, pp. 57-70, <a href="http://austjourcomm.org/index.php/ajc/article/view/18">http://austjourcomm.org/index.php/ajc/article/view/18</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1002870">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:10259">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>Madsen, W, O'Mullan, C, Rockloff, M, Rockloff, S &amp; Hopkinson, S 2012, 'Learning from the floods: lessons for understanding community resilience in the town of Theodore', The Australasian Journal of University-Community Engagement, vol. 7, no. 2, pp. 70-85, <a href="http://www.engagementaustralia.org.au/ajuce_journal.html">http://www.engagementaustralia.org.au/ajuce_journal.html</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=1048547">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:11718">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                  
+                    <div class="sectionHeader">Research Dataset</div>
+          
+                    <div class="profileSectionData">
+                        <div class="pInformation">
+                            <p>Madsen, W 2012, Showing and Growing Community Resilience in Theodore : community based participatory research project into community resilience in the wake of the 2010/11 floods project, Central Queensland University, Rockhampton, Qld., <a href="http://hdl.cqu.edu.au/10018/923645">http://hdl.cqu.edu.au/10018/923645</a></p>
+                        </div> 
+
+                        <span class="libraryLinks">
+                            <a target="_blank" class="externalIco" href="http://library.cqu.edu.au/cgi-bin/provider.pl?bibid=953955">Link to Catalogue</a> 
+                            <a target="_blank" class="externalIco" href="http://acquire.cqu.edu.au:8080/vital/access/manager/Repository/cqu:8721">Link to ACQUIRE</a>               
+                        </span>
+                    </div> <!-- end profileSectionData -->  
+                </div>
+    
+    </div>
+                              
+                                            		
+		<div id="tabs-teaching" class="tab-pane">
+			
+									<div class="sectionHeader">
+						Term 2 - 2017					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							PBHL13004 - Public Health in Practice B							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=PBHL13004&amp;termcode=2172" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							PBHL12002 - Public Health Interventions							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=PBHL12002&amp;termcode=2172" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11029 - Health Promotion Concepts							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH11029&amp;termcode=2172" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 1 - 2017					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							PBHL13003 - Public Health in Practice A							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=PBHL13003&amp;termcode=2171" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH12030 - Drugs in Society							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH12030&amp;termcode=2171" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lead Lecturer										- Distance - HLTH12030 - Term 1 - 2017						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 2 - 2016					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							PBHL13004 - Public Health in Practice B							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=PBHL13004&amp;termcode=2162" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							PBHL12002 - Public Health Interventions							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=PBHL12002&amp;termcode=2162" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 1 - 2016					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							PBHL13003 - Public Health in Practice A							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=PBHL13003&amp;termcode=2161" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lecturer										- Distance - PBHL13003 - Term 1 - 2016						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							PBHL12001 - Communicable Diseases and Public Health							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=PBHL12001&amp;termcode=2161" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lecturer										- Distance - PBHL12001 - Term 1 - 2016						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH12030 - Drugs in Society							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH12030&amp;termcode=2161" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11031 - Healthy Lifestyles							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH11031&amp;termcode=2161" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lecturer										- Bundaberg - HLTH11031 - Term 1 - 2016						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 2 - 2015					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH13033 - Health Promotion in Practice B							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH13033&amp;termcode=2152" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH12028 - Health Promotion Strategies							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH12028&amp;termcode=2152" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 1 - 2015					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							PBHL12001 - Communicable Diseases and Public Health							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=PBHL12001&amp;termcode=2151" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lecturer										- Distance - PBHL12001 - Term 1 - 2015						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH13032 - Health Promotion in Practice A							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH13032&amp;termcode=2151" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lead Lecturer										- Distance - HLTH13032 - Term 1 - 2015						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11031 - Healthy Lifestyles							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH11031&amp;termcode=2151" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lead Lecturer										- Bundaberg - HLTH11031 - Term 1 - 2015						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 3 - 2014					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH23002 - Health Promotion Project C							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH23002&amp;termcode=2143" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 2 - 2014					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH23001 - Health Promotion Project B							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH23001&amp;termcode=2142" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lead Lecturer										- Distance - HLTH23001 - Term 2 - 2014						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH13033 - Health Promotion in Practice B							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH13033&amp;termcode=2142" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lead Lecturer										- Distance - HLTH13033 - Term 2 - 2014						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH12028 - Health Promotion Strategies							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH12028&amp;termcode=2142" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lead Lecturer										- Bundaberg - HLTH12028 - Term 2 - 2014						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11029 - Health Promotion Concepts							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH11029&amp;termcode=2142" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lead Lecturer										- Bundaberg - HLTH11029 - Term 2 - 2014						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 1 - 2014					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH22001 - Health Promotion Project A							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH22001&amp;termcode=2141" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lead Lecturer										- Distance - HLTH22001 - Term 1 - 2014						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH13032 - Health Promotion in Practice A							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH13032&amp;termcode=2141" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lead Lecturer										- Distance - HLTH13032 - Term 1 - 2014						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11031 - Healthy Lifestyles							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH11031&amp;termcode=2141" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lead Lecturer										- Distance - HLTH11031 - Term 1 - 2014						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11028 - Community Needs Assessment							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH11028&amp;termcode=2141" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lead Lecturer										- Distance - HLTH11028 - Term 1 - 2014						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 2 - 2013					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH21008 - Building Community Partnerships							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH21008&amp;termcode=2132" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH13033 - Health Promotion in Practice B							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH13033&amp;termcode=2132" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH12028 - Health Promotion Strategies							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH12028&amp;termcode=2132" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 1 - 2013					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							HMSC12026 - Teaching, Learning and Health Promotion							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HMSC12026&amp;termcode=2131" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH21009 - Health Promotion Policy and Project Development							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH21009&amp;termcode=2131" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH13032 - Health Promotion in Practice A							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH13032&amp;termcode=2131" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11031 - Healthy Lifestyles							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH11031&amp;termcode=2131" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11028 - Community Needs Assessment							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH11028&amp;termcode=2131" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 2 - 2012					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH13033 - Health Promotion in Practice B							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH13033&amp;termcode=2122" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH12028 - Health Promotion Strategies							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH12028&amp;termcode=2122" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11029 - Health Promotion Concepts							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH11029&amp;termcode=2122" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Lecturer										- Lecture A / 1						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 1 - 2012					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							HMSC12026 - Teaching, Learning and Health Promotion							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HMSC12026&amp;termcode=2121" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH13032 - Health Promotion in Practice A							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH13032&amp;termcode=2121" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11031 - Healthy Lifestyles							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH11031&amp;termcode=2121" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11028 - Community Needs Assessment							
+														<div style="float:right; font-size:10px !important">
+								<a href="http://nexus.cqu.edu.au/courseprofile/view?coursecode=HLTH11028&amp;termcode=2121" target="_blank" class="externalIco">View Unit Profile</a>
+							</div>
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 2 - 2011					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH13033 - Health Promotion in Practice B							
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH12028 - Health Promotion Strategies							
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+									<div class="sectionHeader">
+						Term 1 - 2011					</div>
+					
+						
+							
+						<div class="courseRowHeader">
+							HMSC12026 - Teaching, Learning and Health Promotion							
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH13032 - Health Promotion in Practice A							
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+					
+						
+							
+						<div class="courseRowHeader">
+							HLTH11028 - Community Needs Assessment							
+													</div>
+
+									<div class="profileSectionData">
+						<div class="roleDescription">
+							Unit Coordinator						
+						</div>
+					</div>
+
+			
+		</div>
+                    
+
+                                              
+                        <div id="tabs-links" class="tab-pane">
+                                
+                                  
+
+                                                    <div class="link-row sectionHeader">
+                                   
+                                    <a class="urlLink" target="_blank" href="http://www.researchgate.net/profile/Cathy_Omullan/publications">
+                                                                            </a>
+                                                  
+                                    
+                                    <div class="updateUserUrlData" id="url_link" data-pk="342">
+                                         http://www.researchgate.net/profile/Cathy_Omullan/publications                                     </div>
+
+                                                     
+                                    <div class="updateUserUrlData" id="url_description" data-pk="342">
+                                                                              </div>
+                            </div>
+                        
+                    </div> <!-- end tabs-links -->
+                    
+                    </div> <!-- end tab-content -->                    
+                </div> <!-- end tabpanel -->
+            </div> <!-- end panel-body -->
+        </div> <!-- end panel panel-info -->
+    </div> <!-- end col-md-12 -->
+</div> <!-- end row -->
+
+                                
+
+<script>
+jQuery(function(){ 
+    /* ***************
+     *  TAB Handling
+     * ***************
+     */
+    $('#campus-tabs a:first').tab('show'); // Select first tab
+
+    $('#profile-tabs a:first').tab('show'); // Select first tab
+    
+    $('#profile-tabs a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+        //show selected tab / active
+        $(".hiddenSelectedTab").val( $(e.target).attr('href') );
+    });
+
+    //Navbar hack, moves the nav bar from the bottom of the page to the navbar area.
+
+
+
+    $("span.brand a").html("CQUni Staff Profile");
+
+});
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="/bootstrap3/css/profiles_bs3.css">
+<!-- Staff profiles //-->
+<!-- Details for Funnelback //-->
+<meta name="title" content="Catherine O'Mullan">
+<meta name="DC.Title" content="Catherine O'Mullan">
+<meta name="dcterms.title" content="Catherine O'Mullan">
+<meta name="og:title" content="Catherine O'Mullan">
+<meta name="twitter:title" content="Catherine O'Mullan">
+
+<meta name="profileId" content="837">
+<meta name="titleDesc" content="Dr">
+<meta name="firstname" content="Catherine">
+<meta name="surname" content="O'Mullan">
+<meta name="override_title" content="Senior Lecturer/DL Health Promotion">
+<meta name="media_spokesperson" content="1">
+
+<meta name="email" content="c.omullan@cqu.edu.au">
+<meta name="fullPhoneNumber" content="(07) 4150 7153">
+<meta name="extension" content="57153">
+
+<!-- Search //-->
+<meta name="cqu.titleDesc" content="Dr">
+<meta name="cqu.firstname" content="Catherine">
+<meta name="cqu.surname" content="O'Mullan">
+<meta name="cqu.overrideTitle" content="Senior Lecturer/DL Health Promotion">
+<meta name="cqu.email" content="c.omullan@cqu.edu.au">
+<meta name="cqu.fullPhoneNumber" content="(07) 4150 7153">
+
+<meta name="deptdesc" content="Psychology and Public Health">
+<meta name="facdivdesc" content="School of Health, Medical and Applied Sciences">
+<meta name="teamdesc" content="Psychology and Public Health">
+<meta name="cqu.facdivdesc" content="School of Health, Medical and Applied Sciences">
+
+<meta name="campus_name" content="Bundaberg">
+<meta name="cqu.campus" content="Bundaberg">           
+
+<meta name="expertise_areas" content="MEDICAL AND HEALTH SCIENCES, Public Health and Health Services, Health Promotion; ">
+<meta name="supervisor" content="MEDICAL AND HEALTH SCIENCES, Public Health and Health Services, Health Promotion; ">
+
+<meta name="school_research_areas" content="">
+
+<meta name="position_weighting" content="0">
+
+<meta name="profile_photo" content="https://handbook.cqu.edu.au/file/viewFile/profiles/837/portrait.jpg">
+<!-- END META DATA for FUNNEL //-->
+    <script>
+        jQuery(function(){
+            $('#navbar').find('ul').first().remove();
+            jQuery("#navbar_profile").detach().appendTo($('#navbar'));
+        });
+    </script>
+         </div>
+    </div> <!-- /container -->
+
+    <footer>
+        <div class="fat-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 column footer-schools hidden-sm hidden-xs">
+                <h4>SCHOOLS</h4>
+                <ul>
+                  <li><a href="https://www.cqu.edu.au/about-us/structure/schools/bl">Business and Law</a></li>
+                  <li><a href="https://www.cqu.edu.au/about-us/structure/schools/ea">Education and the Arts</a></li>
+                  <li><a href="https://www.cqu.edu.au/about-us/structure/schools/et">Engineering and Technology</a></li>
+                  <li><a href="https://www.cqu.edu.au/about-us/structure/schools/hhss">Human, Health and Social Sciences</a></li>
+                  <li><a href="https://www.cqu.edu.au/about-us/structure/schools/mas">Medical and Applied Sciences</a></li>
+                  <li><a href="https://www.cqu.edu.au/about-us/structure/schools/nm">Nursing and Midwifery</a></li>
+                  <li><a href="https://www.cqu.edu.au/about-us/structure/schools/vocational-engineering-and-trades">Vocational Engineering and Trades</a></li>
+                  <li><a href="https://www.cqu.edu.au/about-us/structure/schools/vocational-business-and-humanities">Vocational Business and Humanities</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 column footer-courses hidden-sm hidden-xs">
+                <h4 class="text-nowrap">COURSES AND UNITS</h4>
+                <ul>
+                  <li><a href="https://www.cqu.edu.au/courses-and-programs/study-areas/work-and-study-preparation">English, Study and Work Preparation</a></li>
+                  <li><a href="https://www.cqu.edu.au/courses-and-programs/tafe-training/short-courses">Short courses</a></li>
+                  <li><a href="https://www.cqu.edu.au/industry-and-partnerships/apprenticeships-and-traineeships">Apprenticeships, Trades and Training</a></li>
+                  <li><a href="https://www.cqu.edu.au/courses-and-programs/tafe-training">Vocational training</a></li>
+                  <li><a href="https://www.cqu.edu.au/courses-and-programs/undergraduate">Undergraduate</a></li>
+                  <li><a href="https://www.cqu.edu.au/courses-and-programs/postgraduate">Postgraduate</a></li>
+                  <li><a href="https://www.cqu.edu.au/courses-and-programs/research">Research</a></li>
+                  <li><a href="https://www.cqu.edu.au/industry-and-partnerships/professional-development-courses">Professional Development</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 column footer-locations hidden-sm hidden-xs">
+                <h4>LOCATIONS</h4>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <span class="column-heading">QLD</span>
+                        <ul class="flat-list">
+                            <li><a href="https://www.cqu.edu.au/about-us/locations/biloela">Biloela</a></li>
+                            <li><a href="https://www.cqu.edu.au/about-us/locations/brisbane">Brisbane</a></li>
+                            <li><a href="https://www.cqu.edu.au/about-us/locations/bundaberg">Bundaberg</a></li>
+                            <li><a href="https://www.cqu.edu.au/about-us/locations/cairns">Cairns</a></li>
+                            <li><a href="https://www.cqu.edu.au/about-us/locations/emerald">Emerald</a></li>
+                            <li><a href="https://www.cqu.edu.au/about-us/locations/gladstone">Gladstone</a></li>
+                            <li><a href="https://www.cqu.edu.au/about-us/locations/mackay">Mackay</a></li>
+                            <li><a href="https://www.cqu.edu.au/about-us/locations/noosa">Noosa</a></li>  
+                            <li><a href="https://www.cqu.edu.au/about-us/locations/rockhampton">Rockhampton</a></li> 
+                            <li><a href="https://www.cqu.edu.au/about-us/locations/townsville">Townsville</a></li>
+                            <li class="last"><a href="https://www.cqu.edu.au/about-us/locations/yeppoon">Yeppoon</a></li>       
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="mini-column">
+                            <span class="column-heading">NSW</span>
+                              <ul class="flat-list">
+                                <li class="last"><a href="https://www.cqu.edu.au/about-us/locations/sydney">Sydney</a></li>
+                              </ul>
+                        </div>                        
+                    </div>                    
+                    <div class="col-sm-4">
+                        <div class="mini-column">
+                            <span class="column-heading">SA</span>
+                              <ul class="flat-list">
+                                <li class="last"><a href="https://www.cqu.edu.au/about-us/locations/adelaide">Adelaide</a></li>
+                              </ul>
+                        </div>                        
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="mini-column">
+                            <span class="column-heading">VIC</span>
+                              <ul class="flat-list">
+                                <li class="last"><a href="https://www.cqu.edu.au/about-us/locations/melbourne">Melbourne</a></li>
+                              </ul>
+                        </div>                        
+                    </div>
+                </div>
+                <div class="row">      
+                    <div class="col-sm-4">
+                        <div class="mini-column">
+                            <span class="column-heading">WA</span>
+                              <ul class="flat-list">
+                                <li class="last"><a href="https://www.cqu.edu.au/about-us/locations/perth">Perth</a></li>
+                              </ul>
+                        </div>                        
+                    </div>       
+                    <div class="col-sm-8">
+                        <span class="column-heading">Other</span>
+                        <ul class="flat-list">
+                            <li class="last">
+                                <a href="https://www.cqu.edu.au/about-us/locations/centres,-hubs-and-sites">Centres, Hubs and Sites</a>
+                            </li>
+                        </ul>                        
+                    </div>
+                </div>
+                <div class="row" style="margin-bottom:10px;">             
+                    <div class="col-sm-12">
+                        <span class="column-heading"><a href="https://www.cqu.edu.au/student-life/distance-education">Distance Education</a></span>                                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 column footer-connect">
+                <h4>CONNECT</h4>
+                <div class="row" style="margin-bottom:10px;">             
+                    <div class="col-sm-12">
+                        <span class="column-heading">Phone</span>
+                        <p class="connect-phone"><a href="tel:132786">13 27 86</a></p>
+                        <p>From overseas <a href="tel:+61749309000">+61 7 4930 9000</a></p>
+                    </div>
+                </div>
+                <div class="row" style="margin-bottom:10px;">             
+                    <div class="col-sm-12">
+                        <span class="column-heading"><a href="https://www.cqu.edu.au/about-us/connect-with-the-vc">Connect with the VC</a></span>
+                    </div>
+                </div>               
+
+                <div class="row" style="margin-bottom:10px;">             
+                    <div class="col-sm-12">
+                        <span class="column-heading"><a href="https://www.cqu.edu.au/about-us/giving-to-cquni">Give to CQUni</a></span>
+                        <!--<span class="column-heading"><a href="https://www.cqu.edu.au/student-life/indigenous-engagement/welcome-to-country">Welcome to Country</a></span>-->                        
+                    </div>
+                </div>          
+                <div class="row">             
+                    <div class="col-md-12 col-sm-3 col-xs-6">
+                        <div class="footer-slogan">
+                            <img class="img-responsive" src="https://www.cqu.edu.au/__data/assets/image/0008/106964/Be-What-You-want-to-be.png" alt="">
+                        </div>
+                    </div>
+                </div>    
+            </div>
+        </div>  
+    </div>
+</div>
+
+<div class="final-footer">  
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 hidden-sm hidden-xs">
+                <a href="http://www.run.edu.au/" target="_blank"><img src="https://www.cqu.edu.au/__data/assets/image/0011/106976/run-logo.png" alt="Regional Universities Network logo" class="run-logo img-responsive"></a>
+            </div>
+            <div class="footer-text col-md-7">
+                <div class="footer-acknowledgement">CQUniversity Australia acknowledges the traditional owners of the land upon which we stand.</div>
+                <ul class="footer-site-links flat-list">
+                  <li><a href="https://www.cqu.edu.au/sitemap">Sitemap</a></li>
+                  <li><a href="https://www.cqu.edu.au/copyright">Copyright</a></li>
+                  <li><a href="https://www.cqu.edu.au/disclaimer">Disclaimer</a></li>
+                  <li><a href="https://www.cqu.edu.au/accessibility">Accessibility</a></li>
+                  <li><a href="https://www.cqu.edu.au/feedback">Feedback</a></li>
+                  <li><a href="http://policy.cqu.edu.au">Policy</a></li>
+                  <li><a href="https://www.cqu.edu.au/privacy">Privacy</a></li>
+                  <li><a href="https://www.cqu.edu.au/about-us/structure/governance/right-to-information">Right to Information</a></li>
+                  <li><a href="https://www.cqu.edu.au/about-us/structure/governance/asqa-vet-quality-framework">ASQA VET Quality Framework</a></li>   
+                  <li>CRICOS Provider Code: 00219C</li>     
+                  <li class="last">ASQA National Provider Number 40939</li>
+                </ul>
+                <div class="footer-trade-name">CQUniversity Australia is a trading name of Central Queensland University.</div>
+            </div>
+            <div class="col-md-3 social-wrapper">
+                <ul class="footer-social">
+                    <li><a href="https://www.facebook.com/CQUniversityAustralia" target="_blank" class="facebook-icon"><span class="visuallyhidden">Facebook</span></a></li>
+                    <li><a href="https://twitter.com/CQUni" target="_blank" class="twitter-icon"><span class="visuallyhidden">Twitter</span></a></li>
+                    <li><a href="http://www.linkedin.com/company/cquniversity" target="_blank" class="linkedin-icon"><span class="visuallyhidden">LinkedIn</span></a></li>
+                    <li><a href="http://www.youtube.com/user/CQUni" target="_blank" class="youtube-icon"><span class="visuallyhidden">Youtube</span></a></li>
+                    <li><a href="http://instagram.com/cquniversity#" target="_blank" class="instagram-icon"><span class="visuallyhidden">Instagram</span></a></li>
+                    <li><a href="http://vc-cquniversity.blogspot.com.au/" target="_blank" class="blogger-icon"><span class="visuallyhidden">Blogger</span></a></li>
+                </ul>  
+            </div>
+        </div>
+    </div>
+</div>
+            </footer>   
+
+
+
+
+                             
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1804159-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- END GOOGLE STATS -->
+<style>
+body {
+    padding-top: 125px;
+}
+
+</style></body></html>

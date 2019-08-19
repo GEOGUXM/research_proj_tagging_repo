@@ -1,0 +1,361 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" class="js"><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" src="https://bam.nr-data.net/1/3132ed34d6?a=70694301&amp;v=1039.bef6007&amp;to=YFRUNUpZDUdUUEddV1kedwJMUQxaGl1cUF1oQVcGXWcVXVBE&amp;rst=4213&amp;ref=http://ohns.ucsf.edu/ivan-el-sayed&amp;ap=646&amp;be=1299&amp;fe=4205&amp;dc=3348&amp;perf=%7B%22timing%22:%7B%22of%22:1498014748613,%22n%22:0,%22f%22:0,%22dn%22:2,%22dne%22:183,%22c%22:183,%22ce%22:407,%22rq%22:407,%22rp%22:1291,%22rpe%22:1291,%22dl%22:1292,%22di%22:3319,%22ds%22:3347,%22de%22:3360,%22dc%22:4204,%22l%22:4204,%22le%22:4205%7D,%22navigation%22:%7B%7D%7D&amp;at=TBNXQwJDHkk%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="http://ohns.ucsf.edu/sites/ohns.ucsf.edu/files/ucsf-ico.ico" type="image/vnd.microsoft.icon">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="http://ohns.ucsf.edu/ivan-el-sayed">
+<link rel="shortlink" href="http://ohns.ucsf.edu/ivan-el-sayed">
+  <title>Ivan El-Sayed, MD | Otolaryngology | Head and Neck Surgery</title>
+  <style type="text/css" media="all">
+@import url("http://ohns.ucsf.edu/modules/system/system.base.css?ornk20");
+@import url("http://ohns.ucsf.edu/modules/system/system.messages.css?ornk20");
+@import url("http://ohns.ucsf.edu/modules/system/system.theme.css?ornk20");
+</style>
+<style type="text/css" media="all">
+@import url("http://ohns.ucsf.edu/modules/comment/comment.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/all/modules/patched/date/date_api/date.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/all/modules/patched/date/date_popup/themes/datepicker.1.7.css?ornk20");
+@import url("http://ohns.ucsf.edu/modules/field/theme/field.css?ornk20");
+</style>
+<style type="text/css" media="screen">
+@import url("http://ohns.ucsf.edu/sites/all/modules/contrib/flexslider/assets/css/flexslider_img.css?ornk20");
+</style>
+<style type="text/css" media="all">
+@import url("http://ohns.ucsf.edu/modules/node/node.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/all/modules/contrib/picture/picture_wysiwyg.css?ornk20");
+@import url("http://ohns.ucsf.edu/modules/search/search.css?ornk20");
+@import url("http://ohns.ucsf.edu/modules/user/user.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/ohns.ucsf.edu/modules/contrib/youtube/css/youtube.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/all/modules/contrib/views/css/views.css?ornk20");
+</style>
+<style type="text/css" media="all">
+@import url("http://ohns.ucsf.edu/sites/all/modules/contrib/ctools/css/ctools.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/all/modules/contrib/ldap/ldap_servers/ldap_servers.admin.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/all/modules/contrib/nice_menus/nice_menus.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/all/modules/contrib/nice_menus/nice_menus_default.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/all/modules/contrib/panels/css/panels.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/ohns.ucsf.edu/modules/custom/y3ti_admin_menu/css/y3ti_admin_menu.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/all/modules/contrib/addressfield/addressfield.css?ornk20");
+</style>
+<style type="text/css" media="all">
+@import url("http://ohns.ucsf.edu/sites/all/modules/custom/ucsf_webedit/ucsf_webedit.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/all/modules/custom/ucsf_images/ucsf-images-universal.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/all/modules/custom/ucsf_starterkit_images/ucsf-starterkit-images-responsive.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/ohns.ucsf.edu/themes/custom/ohns_reskin/js/vendor/slick/slick.css?ornk20");
+@import url("http://ohns.ucsf.edu/sites/ohns.ucsf.edu/themes/custom/ohns_reskin/css/screen.css?ornk20");
+</style>
+  <script type="text/javascript" src="http://ohns.ucsf.edu/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script type="text/javascript" src="http://ohns.ucsf.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://ohns.ucsf.edu/misc/drupal.js?ornk20"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://ohns.ucsf.edu/sites/all/modules/contrib/nice_menus/superfish/js/superfish.js?ornk20"></script>
+<script type="text/javascript" src="http://ohns.ucsf.edu/sites/all/modules/contrib/nice_menus/superfish/js/jquery.bgiframe.min.js?ornk20"></script>
+<script type="text/javascript" src="http://ohns.ucsf.edu/sites/all/modules/contrib/nice_menus/superfish/js/jquery.hoverIntent.minified.js?ornk20"></script>
+<script type="text/javascript" src="http://ohns.ucsf.edu/sites/all/modules/contrib/nice_menus/nice_menus.js?ornk20"></script>
+<script type="text/javascript" src="http://ohns.ucsf.edu/sites/ohns.ucsf.edu/modules/custom/y3ti_admin_menu/js/y3ti_admin_menu.js?ornk20"></script>
+<script type="text/javascript" src="http://ohns.ucsf.edu/sites/ohns.ucsf.edu/themes/custom/ohns_reskin/js/vendor/slick/slick.min.js?ornk20"></script>
+<script type="text/javascript" src="http://ohns.ucsf.edu/sites/ohns.ucsf.edu/themes/custom/ohns_reskin/js/script.js?ornk20"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ohns_reskin","theme_token":"EqBw_1eeQzy8WzcgZzS4X3GxdIf0kKiSIIbfZRNhAXc","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"0":1,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/contrib\/nice_menus\/nice_menus.js":1,"sites\/ohns.ucsf.edu\/modules\/custom\/y3ti_admin_menu\/js\/y3ti_admin_menu.js":1,"sites\/ohns.ucsf.edu\/themes\/custom\/ohns_reskin\/js\/vendor\/slick\/slick.min.js":1,"sites\/ohns.ucsf.edu\/themes\/custom\/ohns_reskin\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/patched\/date\/date_api\/date.css":1,"sites\/all\/modules\/patched\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/ohns.ucsf.edu\/modules\/contrib\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/contrib\/nice_menus\/nice_menus.css":1,"sites\/all\/modules\/contrib\/nice_menus\/nice_menus_default.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/ohns.ucsf.edu\/modules\/custom\/y3ti_admin_menu\/css\/y3ti_admin_menu.css":1,"sites\/all\/modules\/contrib\/addressfield\/addressfield.css":1,"sites\/all\/modules\/custom\/ucsf_webedit\/ucsf_webedit.css":1,"sites\/all\/modules\/custom\/ucsf_images\/ucsf-images-universal.css":1,"sites\/all\/modules\/custom\/ucsf_starterkit_images\/ucsf-starterkit-images-responsive.css":1,"sites\/ohns.ucsf.edu\/themes\/custom\/ohns_reskin\/js\/vendor\/slick\/slick.css":1,"sites\/ohns.ucsf.edu\/themes\/custom\/ohns_reskin\/css\/screen.css":1}},"nice_menus_options":{"delay":"800","speed":"slow"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-276 node-type-ucsf-person domain-ohns-ucsf-edu page-has-no-hero-image section--about">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+      <div class="tabs"></div>    
+  <div id="page-wrapper" class=" page"><div id="page">
+
+    <div id="header">
+      <div class="section clearfix">
+        <a class="logo-ucsf" href="https://www.ucsf.edu/"></a>
+        <h1><a href="/"><span>Otolaryngology</span><span class="delimiter"> | </span><span>Head and Neck Surgery</span></a></h1><div id="mobile-nav"><span></span><span></span><span></span><span></span></div>
+          <div class="region region-header">
+    <div id="block-menu-block-4" class="block block-menu-block news">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-734 link--patient-care"><a href="javascript:void(0)" class="toggle-expand"></a><a href="/patient-care" class="prim">Patient Care</a><ul class="menu"><li class="first leaf menu-mlid-735"><a href="/adult-ear-nose-and-throat" title="The Division of General Otolaryngology - Head and Neck Surgery provides care for patients with symptoms involving the ear, nose, throat, head and neck.">Adult Ear, Nose, and Throat</a></li>
+<li class="leaf menu-mlid-846"><a href="/airway-voice-and-swallowing" title="The Division of Airway, Voice, and Swallowing provides care of voice and speech complaints, swallowing difficulties, and other disorders of the larynx and trachea.">Airway, Voice, and Swallowing</a></li>
+<li class="leaf menu-mlid-806"><a href="/cancers-and-tumors" title="The Division of Head and Neck Surgical Oncology provides multidisciplinary care for cancers and tumors affecting the head and neck, thyroid and parathyroid, salivary glands, and skull base.">Cancers and Tumors</a></li>
+<li class="leaf menu-mlid-826"><a href="/facial-plastic-and-reconstructive-surgery" title="The Division of Facial Plastic and Reconstructive Surgery provides expertise in facial cosmetic surgery, in-office injections, facial nerve surgery, facial reconstruction, and head and neck microvascular reconstruction.">Facial Plastic Surgery</a></li>
+<li class="leaf menu-mlid-816"><a href="/hearing-and-balance" title="The Division of Otology, Neurotology, and Skull Base Surgery is committed to providing comprehensive care to adults and children with hearing loss, balance issues, and tumors of the ear and lateral skull base.">Hearing and Balance</a></li>
+<li class="leaf menu-mlid-831"><a href="/nose-and-sinus" title="The Division of Rhinology and Sinus Surgery provides care for disorders affecting the nose and sinuses, including treatment of chronic sinus infections and growths/tumors involving the sinuses.">Nose and Sinus</a></li>
+<li class="last leaf menu-mlid-821"><a href="/pediatric-ear-nose-and-throat" title="The Division of Pediatric Otolaryngology-Head and Neck Surgery provides specialty care for children with problems affecting the ear, nose, throat, head, and neck.">Pediatric Ear, Nose, and Throat</a></li>
+</ul></li>
+<li class="expanded menu-mlid-737 link--research"><a href="javascript:void(0)" class="toggle-expand"></a><a href="/research" class="prim">Research</a><ul class="menu"><li class="first leaf menu-mlid-916"><a href="/clinical-trials">Clinical Trials For Patients</a></li>
+<li class="leaf has-children menu-mlid-1046"><a href="/clinical-research">Clinical Research</a></li>
+<li class="last leaf has-children menu-mlid-739"><a href="/laboratory-research">Laboratory Research</a></li>
+</ul></li>
+<li class="expanded menu-mlid-736 link--education"><a href="javascript:void(0)" class="toggle-expand"></a><a href="/education" class="prim">Education</a><ul class="menu"><li class="first leaf has-children menu-mlid-738"><a href="/residency-program">Residency Program</a></li>
+<li class="leaf has-children menu-mlid-881"><a href="/fellowships">Fellowships</a></li>
+<li class="leaf menu-mlid-886"><a href="/clerkships">Clerkships</a></li>
+<li class="leaf menu-mlid-27281"><a href="/diversity">Diversity</a></li>
+<li class="leaf menu-mlid-876"><a href="/alumni">Alumni</a></li>
+<li class="last leaf has-children menu-mlid-508"><a href="/events">Events/CME</a></li>
+</ul></li>
+<li class="expanded active-trail menu-mlid-752 link--about openMobile"><a href="javascript:void(0)" class="toggle-expand"></a><a href="/about" class="active-trail">About</a><ul class="menu"><li class="first leaf menu-mlid-926"><a href="/message-chairman">Chairman's Address</a></li>
+<li class="leaf active-trail menu-mlid-753"><a href="/people" class="active-trail active">People</a></li>
+<li class="leaf has-children menu-mlid-499"><a href="/news">News</a></li>
+<li class="leaf menu-mlid-941"><a href="/locations">Locations</a></li>
+<li class="last leaf has-children menu-mlid-748"><a href="/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-7091 link--search"><a href="javascript:void(0)" class="toggle-expand"></a><a href="/search/node">Search</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+              </div>
+    </div>
+
+          <div id="header-bottom">
+        <div class="section">
+            <div class="region region-header-bottom help-text-processed">
+    <div id="block-menu-block-5" class="block block-menu-block block--main-menu-2">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-926"><a href="/message-chairman">Chairman's Address</a></li>
+<li class="leaf active-trail menu-mlid-753"><a href="/people" class="active-trail active">People</a></li>
+<li class="leaf has-children menu-mlid-499"><a href="/news">News</a></li>
+<li class="leaf menu-mlid-941"><a href="/locations">Locations</a></li>
+<li class="last leaf has-children menu-mlid-748"><a href="/contact-us">Contact Us</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-block-456" class="block block-block block--take-action show--patient-care">
+
+    <h2>Take Action</h2>
+  
+  <div class="content">
+    <p><a href="/make-appointment">Schedule an Appointment</a></p>
+
+<p><a href="/contact-us">Refer a Patient</a></p>
+
+<p><a href="/make-gift">Make a Gift</a></p>
+  </div>
+</div>
+<div id="block-block-466" class="block block-block block--take-action show--about">
+
+    <h2>Take Action</h2>
+  
+  <div class="content">
+    <p><a href="/make-appointment">Schedule an Appointment</a></p>
+
+<p><a href="/contact-us">Refer a Patient</a></p>
+
+<p><a href="/make-gift">Make a Gift</a></p>
+  </div>
+</div>
+  </div><div class="menu-helptext"></div>
+        </div>
+      </div>
+    
+    <div id="hero">
+      <div class="section">
+        <div class="title-container">
+          <div class="title-container-inside">
+            <h1 class="title" id="page-title">Ivan El-Sayed, MD</h1>                      </div>
+        </div> <!-- Title Container -->
+                            </div> <!-- Section -->
+          </div> <!-- Hero -->
+    
+    
+    <div id="main-wrapper"><div id="main" class="clearfix">
+
+      <div id="content" class="column"><div class="section">
+        <a id="main-content"></a>
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-276" class="node node-ucsf-person clearfix" about="/ivan-el-sayed" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Ivan El-Sayed, MD" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-field-person-headshot-photo field-type-image field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><img typeof="foaf:Image" src="/sites/ohns.ucsf.edu/files/styles/headshot/public/person/photo/Ivan_El-Sayed.jpg?itok=96zKVA4a"></div>
+      </div>
+</div>
+<div class="field field-name-field-person-title-override field-type-text field-label-inline clearfix">
+      <div class="field-label">Title&nbsp;</div>
+    <div class="field-items">
+          <div class="field-item even">Professor </div>
+      </div>
+</div>
+<div class="field field-name-field-person-eds-degrees field-type-text field-label-inline clearfix">
+      <div class="field-label">Degrees&nbsp;</div>
+    <div class="field-items">
+          <div class="field-item even">MD</div>
+      </div>
+</div>
+<div class="field field-name-field-campus-phone field-type-text field-label-inline clearfix">
+      <div class="field-label">Phone&nbsp;</div>
+    <div class="field-items">
+          <div class="field-item even">+1 415 353-2757</div>
+      </div>
+</div>
+<div class="field field-name-field-person-fax field-type-text field-label-inline clearfix">
+      <div class="field-label">Fax&nbsp;</div>
+    <div class="field-items">
+          <div class="field-item even">+1 415 353-2603</div>
+      </div>
+</div>
+<div class="field field-name-field-person-email field-type-email field-label-inline clearfix">
+      <div class="field-label">Email&nbsp;</div>
+    <div class="field-items">
+          <div class="field-item even"><a href="mailto:Ivan.El-Sayed@ucsf.edu">Ivan.El-Sayed@ucsf.edu</a></div>
+      </div>
+</div>
+<div class="field field-name-field-person-address-postal field-type-addressfield field-label-inline clearfix">
+      <div class="field-label">Address&nbsp;</div>
+    <div class="field-items">
+          <div class="field-item even"><div class="street-block"><div class="thoroughfare">2233 Post Street, Rm 349</div><div class="premise">UCSF Box 0342</div></div><div class="addressfield-container-inline locality-block country-US"><span class="locality">San Francisco</span>, <span class="state">CA</span> <span class="postal-code">94115</span></div><span class="country">United States</span></div>
+      </div>
+</div>
+<div class="field field-name-field-profiles-link field-type-link-field field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="link-external"><a href="http://profiles.ucsf.edu/ivan.el-sayed" target="_blank">Visit External Site<span class="more-infos">For more information</span></a></div></div>
+      </div>
+</div>
+<div class="field field-name-field-person-research-biography field-type-text-long field-label-inline clearfix">
+      <div class="field-label">About Me&nbsp;</div>
+    <div class="field-items">
+          <div class="field-item even"><p>Ivan H. El-Sayed, MD, is Professor of Clinical Otolaryngology and the Director of the Otolaryngology Minimally Invasive Skill Base Surgery program and center in the Department of Otolaryngology – Head and Neck Surgery (OHNS) at the University of California, San Francisco.  As of 2015, he has been elected to the North American Skull Base Society Directors Board, and he is recently named the Vice Chair of the American Academy of Otolaryngology Head and Neck Surgery Skull Base Committee. He has also been the Co-Course Director for Stryker-UCSF Resident Skull Base Approaches Course since 2009.   Dr. El-Sayed completed his medical degree and internship from Boston University School of Medicine in Massachusetts.  He completed his otolaryngology residency from Boston University, followed by a head and neck surgical oncology fellowship from UCSF.  He lectures nationally and internationally on various topics related to head and neck oncology. </p>
+<p>Dr. El-Sayed’s clinical focus is skull base surgery and he has developed the minimally invasive program into a nationally recognized program along with his neurosurgical colleagues.  The program and center offers a unique capability of providing both endoscopic and open approaches to tailor the approach to the lesion.  He has a broad surgical experience having performed over 500 surgical procedures on tumors of the nasal cavity/paranasal sinuses, infratemporal fossa, skull base and pituitary glands in over a decade of experience. He is also interested in the outcomes of research and clinical innovations through novel approach development.  His research program goal is to develop 1) novel endoscopic surgical approaches and 2) nanotechnologies as multifunctional theranostic devices for the detection, destruction, and monitoring of oral cancer.  </p>
+<p>Dr. El-Sayed has published as first or senior author on topics in literature including skull base repair, endoscopic approaches to the maxilla and infratemporal fossa, surgical planning and approaches to the clivus and craniovertebral junction, as well as lesions of the clivus and sella.  He is a reviewer for a variety of scientific journals, and he has contributed to over 50 peer-reviewed articles, 10 book chapters, and 2 patents.  As of 2015, his work has been cited over 11,000 times in the literature.</p>
+<p>Specialty:<br>
+Head and Neck Surgical Oncology, Minimally Invasive Skull Base Surgery, Salivary Gland Surgery, Sinus Surgery and Rhinology (tumors)</p>
+<p>Expertise:<br>
+Skull base malignancy, oral cancer, paranasal sinus tumors, parapharyngeal space tumors (schwannomas, carotid body tumor, paraganglioma), oral cancer, parotid gland cancer, advanced skin  cancers,  tumors of the paranasal sinuses, nasopharynx, clivus, and endoscopic surgery</p>
+<p>Professional Interests:<br>
+Oral cancer, tumors of the salivary gland, neck and jaw and skull base surgery. Skull base surgery is a branch of head and neck oncology. Dr. El-Sayed’s research interests is in developing, techniques to treat oral cancer with nanotechnology and minimally invasive surgical approaches to remove tumors from complex anatomic regions in the skull base which include the parotid gland, the nasal cavity and paranasal sinuses, the parapharyngeal space and infratemporal fossa (which includes mandibular tumors, salivary tumors, schwannomas, carotid body tumor, paragangliomas etc).  A variety of tumors occur in the nasal cavity that may require endoscopic surgery or an open surgical approach such as sinonasal squamous cell carcinoma, adenocarcinoma, adenoid cystic cancer, esthesioneuroblastoma, sinonasal undifferentiated carcinoma, chondrosarcoma, osteosarcoma, sinonasal melanoma, recurrent nasopharynx cancers,  and others. Several nonmalignant tumors occur in this area that are amenable to endoscopic resections such as juvenile nasopharyngeal angiofibroma and inverted papilloma.  Dr. El-Sayed frequently cares for patients requiring multidisciplinary teams such as otologic surgery for tumors involving the temporal bone, and neurological surgery for tumors crossing into the intracranial cavity.  Dr. El-Sayed also is expert in closure of defects of the skull base (CSF leaks)</p>
+<p>Education and Training:<br>
+• Medical School: Boston University School of Medicine, MA<br>
+• Internship: Boston Medical Center, MA<br>
+• Residency: Boston Medical Center, MA - Otolaryngology<br>
+• Fellowship: University California San Francisco, CA - Head and Neck Surgical Oncology</p>
+<p>Awards and Honors:<br>
+• 1995 Alpha Omega Alpha Medical Honor Society.<br>
+• 2002 U.S. Patent Office - Spectroscopic Diagnostics for Bacteria in Biologic Samples<br>
+• 2003 University of California, San Francisco Medical Center - Thanks Star Award<br>
+• 2007 Otolaryngology - Head and Neck Surgery, University of California, San Francisco - Outstanding Productive Physician and Surgeon, Certificate of Accomplishment<br>
+• 2007 ScienceWatch- Number 1 cited article in entire field of chemistry. . J Am Chem Soc. 2006 Feb 15;128(6):2115-2120.<br>
+• 2007 Most Accessed Article for the 3rd quarter of 2007 for article, American Chemical Society Publications<br>
+• 2007 Hot Paper- Nano Lett. 2005.<br>
+• 2008 Most Accessed Article for first quarter 2008. J. Phys. Chem. B., 2006.<br>
+• 2008 Editor Seleced Paper. Bioconjug Chem. 2007 Sep-Oct;18(5):1490-7.<br>
+• 2008 Most Cited Author. Top 20 articles cited in Cancer Letters for 2007. Cancer Letters. 2006 Jul 28;239(1):129-35.<br>
+• 2009 Top 25 Hottest Articles Cancer Letters in 2008- 2009: #14.  Cancer Letters, Volume 269, Issue 1, September 2008, Pages 57-66<br>
+• 2009 UCSF Academy of Medical Educators - Excellence In Teaching<br>
+• 2010 Guangzhou Medical University - Honorary Professor<br>
+• 2010-2014 Castle Connolly - America's Top Doctors<br>
+• 2012 Number 1 Cited Paper from 2007 through May 2012. NanoToday.<br>
+• 2011-2014 Marine Magazine - 415 Top Doctors<br>
+• 2015 Director’s Board-North American Skull Base Society<br>
+• 2015-2017 Vice Chair American Academy Otolaryngology Head and Neck Surgery Skull Base Committee.</p>
+</div>
+      </div>
+</div>
+  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      </div></div>
+
+      
+    </div></div>
+
+          <div id="footer-top">
+        <div class="section">
+            <div class="region region-footer-top">
+    <div id="block-block-441" class="block block-block block--footer-cta">
+
+    
+  <div class="content">
+    <p><a class="icon--agenda" href="/make-appointment">Make Appointment</a> <a class="icon--gift" href="/make-gift">Make a Gift</a> <a class="icon--refer" href="/contact-us">Refer a Patient</a></p>
+  </div>
+</div>
+  </div>
+        </div>
+      </div>
+    
+
+    <div id="footer"><div class="section">
+        <div class="region region-footer">
+    <div id="block-menu-footer" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/press-kit" class="press">Press Kit</a></li>
+<li class="leaf"><a href="/contact-us" class="contact">Contact Us</a></li>
+<li class="leaf"><a href="/terms-use" class="terms">Terms of Use</a></li>
+<li class="last leaf"><a href="https://teamcentral.ucsf.edu/sites/medctr/ohns/default.aspx" class="intranet" target="_blank">Intranet</a></li>
+</ul>  </div>
+</div>
+<div id="block-block-461" class="block block-block">
+
+    
+  <div class="content">
+    <style>
+<!--/*--><![CDATA[/* ><!--*/
+
+
+.front .block--welcome  h1,
+.front h2,
+.front h3,
+.view-display-id-homepage_row_block .views-row a.link--video--big,
+#hero #page-title {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.link--search {
+  font-family: FontAwesome;
+  visibility: hidden;
+}
+.link--search a:before {
+  content: "\f002";
+  visibility: visible;
+}
+.page-search #header-bottom {
+  display: none;
+}
+.node-ucsf-person .field-name-field-person-what-i-do-text .field-items {
+  clear:both;
+}
+@media (min-width: 768px) {
+  .node-ucsf-person .field-name-field-link-external {
+    margin-left: 430px;
+    margin-bottom: 15px;
+  }
+}
+
+
+/*--><!]]>*/
+</style>  </div>
+</div>
+  </div>
+    </div></div>
+
+  </div></div>
+  <script type="text/javascript" src="http://ohns.ucsf.edu/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.0"></script>
+<script type="text/javascript" src="http://ohns.ucsf.edu/sites/all/modules/contrib/picture/picture.min.js?v=7.54"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3132ed34d6","applicationID":"70694301","transactionName":"YFRUNUpZDUdUUEddV1kedwJMUQxaGl1cUF1oQVcGXWcVXVBE","queueTime":0,"applicationTime":646,"atts":"TBNXQwJDHkk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>

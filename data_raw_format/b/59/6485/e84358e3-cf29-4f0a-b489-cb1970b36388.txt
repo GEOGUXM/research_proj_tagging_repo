@@ -1,0 +1,112 @@
+NEWS & EVENTS
+PEOPLE
+ABOUT
+GIVE
+INSTITUTE FOR MEDICAL ENGINEERING & SCIENCE
+RESEARCH
+INITIATIVES
+ACADEMICS
+PHONE: (617) 324-5670
+EMAIL: shalek@mit.edu
+WEBSITE: Shalek Lab
+LAB PHONE: (617) 324-5670
+ROOM: E25-348A
+MIT ADDRESS: 77 Massachusetts Ave., Cambridge, MA 02139
+ADMINISTRATIVE ASSISTANT: Michelle Morrison
+ASSISTANT PHONE: (617) 715-2247
+ASSISTANT EMAIL: mmorri35@mit.edu
+ALEX K. SHALEK
+CORE FACULTY
+TITLE(S)
+Hermann L.F. von Helmholtz Career Development Assistant Professor of Health Sciences and Technology (HST), MIT
+Core Member, Institute for Medical Engineering and Science, MIT
+Assistant Professor, Chemistry, MIT
+Associate Member, Ragon Institute of MGH, MIT, and Harvard
+Associate Member, Broad Institute of MIT and Harvard
+Assistant in Immunology, MGH
+Instructor, Harvard Sciences and Technology
+BIO
+Alex K. Shalek received his bachelor’s degree summa cum laude from Columbia University and his PhD from Harvard University in chemical physics under the guidance of Hongkun Park. To date, his interdisciplinary research has focused on developing and utilizing nanoscale manipulation and measurement technologies to understand how small components (molecules, cells) drive systems of vast complexity (cellular responses, population behaviors). As a graduate student, Alex developed arrays of nanowires as cellular-scale syringes and electrochemical probes (Shalek et al, PNAS, 2010; Robinson et al, Nature Nanotechology, 2012) and used them to study how biochemical perturbations alter cellular responses en masse (Chevrier et al, Cell, 2011; Shalek et al, Nano Letters, 2012;  Yosef et al, Nature, 2013). While these studies yielded important insights, they also highlighted how population-level measurements can mask underlying differences between individual cells in these systems. As an alternative approach, as a postdoctoral fellow, he developed a strategy that uses single-cell RNA-Seq to identify distinct cell states and circuits from the natural variation that exists between seemingly identical cells (Shalek et al, Nature, 2013). Since then, he has dramatically increased the throughput and control of his methods with microdevice cell preparation and isolation schemes. This has enabled him to uncover how responses to pathogens are structured within dendritic cell (DC) populations, and how cell-to-cell variability arises from intra- and inter-cellular regulatory circuits (Shalek et al, Nature, 2014), as well as to explore the causes and consequences of cellular heterogeneity in additional systems of interest (Lohr et al, Nature Biotechnology, 2014; Patel et al, Science, 2014).
+DEGREES
+PhD in Chemical Physics, Harvard University, 2011
+AM in Chemical Physics, Harvard University, 2006
+BA in Chemical Physics, Columbia University, 2004
+SELECTED AWARDS/SOCIETIES
+NIH New Innovator, 2015
+Beckman Young Investigator, 2015
+Searle Scholar, 2015
+“Follow That Cell” Competition First Place (Team Member), 2015
+Hermann L.F. Von Helmholtz Career Development Professor, MIT (2014–Present)
+Broad Institute-Israel Partnership for Cell Circuit Research Collaborative Grant, 2013
+Excellence Award, Broad Institute, 2013
+Dudley R. Herschbach Teaching Award, Harvard University, 2006
+Certificate of Distinction in Teaching, Harvard University, 2005
+National Science Foundation Graduate Research Fellowship, 2005-2008
+Phi Beta Kappa, Columbia University, 2004
+John Jay Scholar, Columbia University, 2000-2004
+Dean’s List, Columbia University, 2000-2004
+RESEARCH
+Research in the Shalek Lab is directed towards the development and application of new technologies that will facilitate understanding of how cells collectively perform systems-level functions in healthy and diseased states. With respect to technology development, the group is leveraging recent advances in nanotechnology and chemical biology to establish a host of core, cross-disciplinary platforms that will collectively enable them to extensively profile and precisely control cells and their interactions within the context of complex systems. With respect to biological applications, the group is focusing on how cellular heterogeneity and cell-to-cell communication drive ensemble-level decision-making in the immune system, with an emphasis on “two-body” interactions (e.g., host cell-virus interactions, innate immune control of adaptive immunity, tumor infiltration by immune cells). The goal is to not only provide broadly applicable experimental tools but also help transform the way in which we think about single cells, cell-cell interactions, diseased cellular states and therapeutics so as to create a new paradigm for understanding and designing systems-level cellular behaviors in multicellular organisms.
+SELECTED PUBLICATIONS
+E. Z. Macosko, A. Basu, R. Satija, J. Nemesh, K. Shekhar,
+M. Goldman, I. Tirosh, A. R. Bialas, N. Kamitaki,
+E. M. Martersteck, J. J. Trombetta, D. A. Weitz, J. R. Sanes,
+A. K. Shalek, A. Regev, and S. A. McCarroll. “Genome-wide expression profiling of thousands of individual cells using nanoliter droplets.” Cell 161 (2015): 1202-14.
+A. P. Patel*, I. Tirosh*, J. J. Trombetta, A. K. Shalek,
+S. M. Gillespie, H. Wakimoto, D. P. Cahill, B. V. Nahed, W. T. Curry, R. L. Martuza, D. N. Louis, O. Rosenblatt-Rosen, M. L. Suvà, A. Regev, and B. E. Bernstein. “Single Cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma.” Science 344 (2014): 1396-1401.
+A. K. Shalek*, R. Satija*, J. Shuga*, J. J. Trombetta, D. Lu,
+D. Gennert, P. Chen, R. S. Gertner, J. T. Gaublomme, N. Yosef,
+S. Schwartz, B. Fowler, S. Weaver, J. Wang, X. Wang, R. Ding,
+R. Raychowdhury, N. Friedman, N. Hacohen, H. Park, A. P. May, and A. Regev. “Large-Scale Single-Cell RNA-Seq Reveals Strategies for Regulating Cell-to-Cell Dynamic Variability through Paracrine Signaling.” Nature 510 (2014): 363.
+A. K. Shalek*, R. Satija*, X. Adiconis, R. S. Gertner, J. T. Gaublomme, R. Raychowdhury, S. Schwartz, N. Yosef, C. Malboeuf, D. Lu, J. J. Trombetta, D. Gennert, A. Gnirke, A. Goren, N. Hacohen, J. Z. Levin, H. Park, and A. Regev. “Single-Cell Transcriptomics Reveals Bimodality in Expression and Splicing in Immune Cells.” Nature 498 (2013): 236-40.
+N. Yosef*, A. K. Shalek*, J. T. Gaublomme*, H. Jin, Y. Lee,
+A. Awasthi, C. Wu, K. Karwacz, S. Xiao, M. Jorgolli, D. Gennert,
+R. Satija, A. Shakya, D. Y. Lu, J. J. Trombetta, M. Pillai, P. J. Ratcliffe, M. L. Coleman, M. Bix, D. Tantin, H. Park,
+V. K. Kuchroo, and A. Regev. “Dynamic Regulatory Network Controlling Th17 Cell Differentiation.” Nature 496 (2013): 461-68.
+A full list of Professor Shalek’s publications can be found on his website.
+COURSES TAUGHT
+5.60 – Fall 2014 – Thermodynamics & Kinetics
+5.60 – Fall 2015 – Thermodynamics & Kinetics
+FACULTY
+Elfar Adalsteinsson
+Daniel Anderson
+Sangeeta Bhatia
+Brett Bouma
+Lydia Bourouiba
+Emery Brown
+Arup K. Chakraborty
+Kwanghun Chung
+Richard J. Cohen
+James J. Collins
+Elazer Edelman
+Joseph J. Frassica
+John Gabrieli
+Lee Gehrke
+Polina Golland
+Martha Gray
+Julie Greenberg
+Thomas Heldt
+Robert S. Langer
+Tami Lieberman
+Roger Mark
+Leonid Mirny
+Ellen Roche
+Alex K. Shalek
+Phillip Sharp
+Charles Sodini
+David Sontag
+Leia Stirling
+Collin Stultz
+Peter Szolovits
+Bruce Walker
+Laurence Young
+RESEARCH STAFF
+STAFF
+FACULTY AWARDS & HONORS
+DIRECTORY
+IMES@MIT.EDU
+GIVE
+CONTACT
+LOGIN
+© COPYRIGHT IMES 2017
+DESIGN BY OPUS DEVELOPMENT BY DESYDE

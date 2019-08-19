@@ -1,0 +1,332 @@
+Skip to main content
+UH Department of Electrical and Computer Engineering
+UH HOMEEGR HOMEDIRECTORYCONTACT US
+Search form
+ABOUT
+Message From the Chair
+Giving
+Contact Us
+NEWS
+ECE Connections
+eNewsletters
+UNDERGRADUATE
+General Information
+Degree Programs
+Accreditation
+Admissions
+Advising
+Scholarships & Careers
+Forms & FAQs
+Academic/Professional Assistance
+First Year Experience
+GRADUATE
+Degree Programs
+Admission Guidelines
+Degree Requirements
+Admission Procedures
+Procedures
+Graduate Courses
+Graduate Calendar
+Forms
+Financial Aid & Related Info
+Fellowship Opportunities
+FAQs
+Online Learning
+UH Graduate School
+Certificate Programs
+RESEARCH
+Laboratories & Centers
+Machine Shop
+Dissertation
+Seminars
+ECE Speaker Series
+Nano Speaker Series
+Cadence
+News
+Undergraduate Research
+PEOPLE
+Faculty
+Staff
+Students
+Alumni
+Industry Advisory Board
+NSF Career Award Winners
+RESOURCES
+Fellowship Opportunities
+Academic Forms
+Image Gallery
+Resources for Faculty & Staff
+HOME
+Faculty
+Dr. Haluk Ogmen
+Adjunct Appointment
+Office Location: W312-D3 Engineering Building 2
+Phone: 713-743-4428 | Fax: 713-743-4444
+Email: ogmen@uh.edu
+Education: 
+B.Sc.A. Electrical Engineering, Université Laval, Québec, Canada
+Ph.D. Electrical Engineering, Université Laval, Québec, Canada
+Professional Experience: 
+Senior Associate Dean, University of Denver, 2016-present
+Professor of Electrical & Computer Engineering, University of Denver, 2016-present
+Honorary Visiting Professor of Computational Neuroscience, University of Bradford, Bradford, U.K., 2005-Present
+Professor and the Executive Director of the Center for Neuro-Engineering and Cognitive Science, 1988-2016
+Department Chair, Department of Electrical & Computer Engineering, University of Houston, 2004-2009
+Visiting Scientist, Department of Human Neurobiology, University of Bremen, Bremen, German, 2004
+Visiting Scientist at Smith-Kettlewell Eye Research Institute, San Francisco , CA, 1995-1996
+Awards & Honors: 
+Honorary Visiting Professor of Computational Neuroscience, University of Bradford, Bradford, UK, 2005-present
+Choice Outstanding Academic Title Award for the book “Experimental Phenomena of Consciousness: A Brief Dictionary” Oxford University Press: New York, N.Y. (2007), co-authored with B. G. Breitmeyer and T. Bachmann., American Library Association, 2008
+Member, Central Visual Processing Study Section (CVP), Center for Scientific Review, National Institutes of Health, 2005-2009
+Fellow, Hanse Institute for Advanced Study (Hanse Wissenschaftskolleg), Germany, 2004
+Senior Faculty Research Award, College of Engineering, 2003
+College of Engineering W.T. Kittenger Outstanding Teacher Award, College of Engineering, 1998
+Junior Faculty Research Award, College of Engineering, 1994
+Research Interests: 
+Neuro-engineering, vision, visual psychophysics, visual memory, attention, computational neuroscience.
+Our long-term goal is to reverse-engineer the human brain in order to understand how a system can construct the complex phenomena that we call vision. We also collaborate with our industrial partner intuVision to apply these concepts to automated video analytics.
+Many approaches to vision focus on the static aspects of vision and analyze how the three-dimensional structure of the world is estimated from the two-dimensional images on the retina. However, due to the movements of the observer, movements of the eyes, and the movements of objects, it is clear that natural vision is highly dynamic, as emphasized by various researchers  such as Joseph Ternus, Gunnar Johansson and James J. Gibson. The projection of the three-dimensional world on our retinae (proximal stimulus) undergoes complex real-time changes that are dependent on both the properties of our environment (distal stimulus) and our own movements.
+REFERENCE-FRAMES AND THE METRIC OF VISUAL REPRESENTATIONS
+Thus, the visual system needs to select in real-time appropriate reference-frames and metrics in order to disentangle the properties of the environment from those that result from our own actions.
+Retinotopy, the initial representation in the visual system: The optics of the eyes map the three-dimensional environment into two dimensional images on the retina. These two-dimensional representations, known as retinotopy, are preserved in early visual areas in the cortex.
+EXAMPLE OF RETINOTOPY: Spatially neighboring stimuli are mapped on neighboring regions in early visual cortex. Top panels: Stimuli viewed by the observer; bottom panels: Areas activated by each stimulus (color coded) in early visual cortex.
+Most approaches to vision build perceptual representations by spatial and motion mechanisms that operate on these retinotopic representations. However, it has been long known that that a retinotopic image is neither necessary nor sufficient for the perception of form: When a moving object is viewed behind a narrow slit cut out of an opaque surface (anorthoscopic perception), all information about the moving object’s shape collapses temporally on a narrow retinotopic locus in a fragmented manner, i.e. there is no spatially extended retinotopic image of the shape. Yet, observers perceive a spatially extended and perceptually integrated shape moving behind the slit instead of a series of fragmented patterns that is confined to the region of the slit. Anorthoscopic perception shows that a retinotopic image is not necessary for the perception of form.
+ANORTHOSCOPIC PERCEPTION
+  The visibility of a “target stimulus” can be completely suppressed by a retinotopically non-overlapping “mask stimulus” that is presented in the spatio-temporal vicinity of the target stimulus, phenomena known as para- and metacontrast masking (Bachmann, 1984; Breitmeyer & Öğmen, 2006). These masking effects indicate that the existence of a retinotopic image is not a sufficient condition for the perception of form and that the dynamic context within which the stimulus is embedded plays a major role in determining whether form perception will take place.
+NON-RETINOTOPIC VISION
+Our research shows that many phenomena such as form, motion perception, visual search, attention, hitherto thought to occur in retinotopic representations, occur instead in non-retinotopic representations.
+WHY NON-RETINOTOPIC VISION? THE PROBLEMS OF MOTION BLUR AND MOVING GHOSTS
+The visible persistence of a briefly presented stationary stimulus is approximately 120 ms under normal viewing conditions (e.g., Haber & Standing, 1970; see also Coltheart, 1980). Based on this duration of visible persistence, one would expect moving objects to appear highly blurred. For example, a target moving at a speed of 10 deg/s should generate a comet-like trailing smear of 1.2 deg extent. The situation is similar to pictures of moving objects taken at an exposure duration that mimics visible persistence. As illustrated below, in such a picture, stationary objects are relatively clear but moving objects exhibit extensive blur.
+ILLUSTRATION OF MOTION BLUR AND MOVING GHOSTS PROBLEMS (Reproduced from Ogmen (2007) Adv Cogn Psychol., 3(1-2): 67–84. Original photo from FreeFoto.com by permission). 
+Unlike photographic images, however, visual objects in motion typically appear relatively sharp and clear (e.g., Bex, Edgar, & Smith, 1995; Burr & Morgan, 1997; Farrell, Pavel, & Sperling, 1990; Hammett, 1997; Hogben & Di Lollo, 1985; Ramachandran, Rao, & Vidyasagar, 1974; Westerink & Teunissen, 1995).
+Our research suggests that the extent of motion blur is controlled by visual masking mechanisms in retinotopic representations.
+However, masking mechanisms solve only partly the motion blur problem. If we consider the example shown in the picture above, masking mechanisms would make the motion streaks appear shorter thereby reducing the amount of blur in the picture. Yet, although deblurred, moving objects would still suffer from having a ghost-like appearance. For example, notice the appearances of targets moving fast, those that are moving more slowly, and the stationary objects. Rapidly moving objects have a ghost-like appearance without any significant form information while slowly moving objects have a more developed form, and finally static objects possess the clearest form. This is because static objects remain long enough on a fixed region of the film to expose sufficiently the chemicals while moving objects expose each part of the film only briefly thus failing to provide sufficient exposure to any specific part of the film. Similarly, in the retinotopic space, a moving object will stimulate each retinotopically localized receptive-field briefly and an incompletely processed form information would spread across the retinotopic space just like the ghost-like appearances. We call this the “problem of moving ghosts”. We hypothesize that information about the form of moving targets is conveyed to a non-retinotopic space where it can accrue over time to allow neural processing to synthesize shape information.
+COPERNICAN REVOLUTIONS IN THE BRAIN: REFERENCE FRAMES AND IMPLIED PERCEPTUAL AND COGNITIVE REVOLUTIONS
+If retinotopic representations are mapped to non-retinotopic representations, what are then the appropriate representations to be used in non-retinotopic spaces? Since the problem itself arises from a variety of motions, its solution can be found in reference frames built according to motion patterns.
+To appreciate this, consider the problem faced by astronomers prior to 16th century. They used the earth as the center of their system and tried to express planetary motions according to this reference frame. This resulted in an overly complex system containing epicycles. A fundamental revolution occurred when Copernicus proposed a system where the reference frame shifted from earth to the sun.
+In developmental psychology, Jean Piaget used the Copernican revolution analogy to highlight the shift of children’s perceptual and cognitive structures from self-centered (egocentric) reference frames to exocentric reference frames: “the child eventually comes to regard himself as an object among others in a universe that is made up of permanent objects (that is, structured in a spatio-temporal manner) and in which there is at work a causality  that is both localized in space and objectified in things”.
+Our research investigates the nature of non-retinotopic reference frames and their implications on perceptual and cognitive processes. Our recent and past findings can be found in the Publications page.
+Books: 
+T. Bachmann, B. G. Breitmeyer, H. Ogmen "Experimental Phenomena of Consciousness: A Brief Dictionary ", Oxford University Press: New York, N.Y. (2007). [Received the American Library Association 2008 Choice Outstanding Academic Title Award]
+H. Ogmen, B. G. Breitmeyer (Eds.) "The First Half Second: The Microgenesis and Temporal Dynamics of Unconscious and Conscious Visual Processes", MIT Press: Cambridge, MA (2006).
+B. G. Breitmeyer, H. Ogmen "Visual Masking: Time Slices through Conscious and Unconscious Vision", (2nd edition), Oxford University Press: Oxford, U.K. (2006).
+H. Kafaligonul, B. G. Breitmeyer, H. Ogmen (Eds.) "Feedforward and Feedback Processes in Vision", Frontiers in Psychology (2015).
+Encyclopedia/Handbook Entries: 
+H. Ogmen, M. H. Herzog, “Apparent Motion and Reference Frames”, in J. Wagemans (Ed.) Oxford Handbook of Perceptual Organization, Chapter 23, pp. 487-503, Oxford University Press (2015).
+H. Ogmen, T. U. Otto, M. H. Herzog, “Microstructure of motion correspondence”, in: S. Gepshtein and L. Maloney (Eds) The Oxford Handbook of Computational Perceptual Organization, (in press).
+H. Ogmen, B. G. Breitmeyer, "Visual Masking". in: H. Pashler (Ed) The Encyclopedia of the Mind, Sage Press (2013).
+B. G. Breitmeyer, H. Ogmen, “Visual masking”,  SCHOLARPEDIA, vol. 2, p. 3330, 2007. 
+http://www.scholarpedia.org/article/Visual_masking
+Articles/Book Chapters: 
+2017
+A. Jacot-Guillarmod, Y. Wang, C. Pedroza, H. Ogmen, K. Josic, Z. Kilpatrick. “Extending Levelt’s propositions to perceptual multistability involving interocular grouping”, VISION RESEARCH (in press).
+D. Huynh, S. P. Tripathy, H. E. Bedell, H. Ogmen “The Reference Frame for Encoding and Retention of Motion Depends on Stimulus Set-size”, ATTENTION, PERCEPTION & PSYCHOPHYSICS, (in press).
+F. F. Gonen, H. Ogmen, (2017). “Exogenous attention during perceptual group formation and dissolution”, ATTENTION, PERCEPTION & PSYCHOPHYSICS, vol. 79, pp. 593-602.
+2016
+M. Lauffs, A. Shaqiri, A. Brand, M. Roinishvili, E. Chkonia, H. Ogmen , M. H. Herzog. (2016). “Local versus global and retinotopic versus non-retinotopic motion processing in schizophrenia patients”, PSYCHIATRY RESEARCH, vol. 246, pp. 461-465.
+M. N. Agaoglu, H. Ogmen, S. T. L. Chung. (2016). “Unmasking saccadic uncrowding”, VISION RESEARCH, vol. 127, pp. 152-164.
+H. Ogmen, M. H. Herzog. (2016).  “A new conceptualization of human visual sensory memory"  FRONTIERS IN PSYCHOLOGY PERCEPTION SCIENCE, 7:830. doi: 10.3389/fpsyg.2016.00830.
+M. N. Agaoglu, A. M. Clarke, M. H. Herzog, H. Ogmen. (2016).  “Motion-based nearest-vector metric for reference-frame selection in the perception of motion"  JOURNAL OF VISION, Vol.16, 14. doi:10.1167/16.7.14.
+S. Agaoglu, B. Breitmeyer, H. Ogmen. (2016).  “Metacontrast masking and attention do not interact"  ATTENTION, PERCEPTION, & PSYCHOPHYSICS, vol. 78, pp. 1363-1380.  
+E. Thunell, M. H. Herzog, H. Ogmen. (2016).  “Putting low-level vision into global context: Can we reduce vision to basic circuits? ”, VISION RESEARCH, vol. 126, pp. 9-18.
+A. M. Clarke, H. Ogmen, M. H. Herzog. (2016). “A computational model for reference-frame synthesis with applications to motion perception”, VISION RESEARCH, vol. 126, pp. 242-253.
+E. Thunell, W. van der Zwaag, H. Ogmen, G. Plomp, M. H. Herzog. (2016).  “Retinotopic encoding of the Ternus-Pikler display reflected in the early visual areas”, JOURNAL OF VISION, Vol.16, 26. doi:10.1167/16.3.26.
+E. Thunell, G. Plomp, H. Ogmen, M. H. Herzog. (2016).  “EEG correlates of relative motion encoding”, BRAIN TOPOGRAPHY, vol. 29, pp. 273-282.
+2015
+M. N. Agaoglu, M. H. Herzog, H. Ogmen. (2015). “Field-like interactions between motion-based reference frames”, ATTENTION, PERCEPTION & PSYCHOPHYSICS, vol. 77, pp. 2082-2097.
+D. Huyhn, S. P. Tripathy, H. E. Bedell, H. Ogmen. (2015). “Stream specificity and asymmetries in feature-binding and content-addressable access in visual encoding and memory”, JOURNAL of VISION, Vol.15, 14. doi:10.1167/15.13.14.
+B. Noory, M. H. Herzog, H. Ogmen. (2015). “Spatial properties of non-retinotopic reference frames in human vision”, VISION RESEARCH, vol. 113, pp. 44-54.
+S. Agaoglu, M. N. Agaoglu, B. G. Breitmeyer, H. Ogmen. (2015). “A statistical perspective to visual masking”, VISION RESEARCH, vol. 115, pp. 23-39.
+B. Noory, M. H. Herzog, H. Ogmen. (2015). “Retinotopy of visual masking and non-retinotopic perception during masking”, ATTENTION, PERCEPTION & PSYCHOPHYSICS, vol. 77, pp. 1263-1284.
+H. Kafaligonul, B. G. Breitmeyer, H. Ogmen. (2015). "Feedforward and feedback processes in vision". FRONTIERS IN PSYCHOLOGY, 6:279. doi: 10.3389/fpsyg.2015.00279(editorial article).
+M. N. Agaoglu, M. H. Herzog, H. Ogmen. (2015). “The effective reference frame in perceptual judgments of motion direction”, VISION RESEARCH, vol. 107, pp. 101-112.
+2014
+M. H. Herzog, F. Hermens, H. Ogmen, (2014). "Invisibility and interpretation" FRONTIERS IN PSYCHOLOGY, vol. 5, article number: 975, doi: 10.3389/fpsyg.2014.00975.
+M. Akselrod, M. H. Herzog, H. Ogmen, (2014). "Tracing path-guided apparent motion in human primary visual cortex V1" SCIENTIFIC REPORTS, 4, Article number:6063, doi:10.1038/srep06063.
+F. F. Gonen, H. Hallal, H. Ogmen, (2014). "Facilitation by Exogenous Attention for Static and Dynamic Gestalt Groups" ATTENTION, PERCEPTION & PSYCHOPHYSICS, vol. 76, pp. 1709-1720, DOI 10.3758/s13414-014-0679-2.
+H. Ogmen, M.H. Herzog, (2014). “Attention, grouping, and non-retinotopic representations”, in A. Geremek, M. Greenlee, & S. Magnussen (Eds) Perception Beyond Gestalt: Neural Foundations of Visual Perception, Psychology Press, Routledge Publishers.
+2013
+H. Ogmen, O. Ekiz, D. Huynh, H. E. Bedell, S. P. Tripathy (2013). "Bottlenecks of Motion Processing during a Visual Glance: The Leaky Flask Model". PLoS ONE 8(12): e83671. doi:10.1371/journal.pone.0083671.
+A. M. Clarke, M. Repnow, H. Ogmen, M. H. Herzog (2013). “Does spatio-temporal filtering account for non-retinotopic motion perception? Comment on Pooresmaeilli, Cicchini, Morrone, and Burr (2012)”, JOURNAL OF VISION, 13(10): 25; doi:10.1167/13.10.25.
+H. Ogmen, (2013).  “An Analysis of Human Visual Perception based on Real-time Constraints of Ecological Vision” in:  R. Lukac (Ed) Perceptual Digital Imaging: Methods and Applications, CRC Press.
+2012
+M.N. Agaoglu, M.H. Herzog, H. Ogmen. (2012). "Non-retinotopic feature processing in the absence of retinotopic spatial layout and the construction of perceptual space from motion". VISION RESEARCH, vol. 71, pp. 10-17.
+O. Yilmaz, S.P. Tripathy, H. Ogmen. "Misperceptions in the trajectories of objects undergoing curvilinear motion". PLoS ONE 7(5): e36511. doi:10.1371/journal.pone.0036511
+M.H. Herzog, T.U. Otto, H. Ogmen. "The fate of visible features of invisible elements". FRONTIERS IN PSYCHOLOGY, 3:119. doi: 10.3389/fpsyg.2012.00119. (2012).  
+M.H. Herzog, T.U. Otto, M. Boi, H. Ogmen. (2012). "When Gestalt processing meets low-level feature integration. GESTALT THEORY, vol. 34, pp. 315-328.
+2011
+M. Boi, M. Vergeer, H. Ogmen, M. H. Herzog “Non-retinotopic exogenous attention”, CURRENT BIOLOGY, vol. 21, pp. 1732-1737, 2011. PDF
+M. Aydin, M. H. Herzog, H. Ogmen, “Barrier Effects in Non-retinotopic Feature Attribution”, VISION RESEARCH, vol. 51, pp. 1861-1871, 2011.
+M. Boi, H. Ogmen, M. H. Herzog “Motion and tilt aftereffects occur largely in retinal, not in object coordinates, in the Ternus-Pikler display”, JOURNAL OF VISION, 11(3):7, 1–11, doi: 10.1167/11.3.7, 2011. PDF
+M. Aydin, M. H. Herzog, H. Ogmen, “Attention Modulates Spatio-temporal Grouping ”, VISION RESEARCH, vol. 51, pp. 435-446, 2011.
+S. P. Tripathy, H. Ogmen, S. Narasimhan, (2011).  “Multiple-Object Tracking: A Serial Attentional Process?” in: C. Mole, D. Smithies, and W. Wu (Eds) Attention: Philosophical and Psychological Essays, Oxford University Press.
+2010
+T. Otto, H. Ogmen, M. H. Herzog “Perceptual learning in a non-retinotopic reference frame”, PSYCHOLOGICAL SCIENCE, vol. 21, pp. 1058-1063, 2010. PDF
+H. Ogmen, M. H. Herzog “The Geometry of Visual Perception: Retinotopic and Non-retinotopic Representations in the Human Visual System”, PROCEEDINGS OF THE IEEE, vol. 98, pp. 479-492, 2010. PDF
+C. Shooner, S. P. Tripathy, H. E. Bedell, H. Ogmen, “High capacity, transient retention of direction-of-motion information for multiple moving objects”, JOURNAL OF VISION, 10(6):8, 1–20, doi:10.1167/10.6.8, 2010. PDF
+T. Otto, H. Ogmen, M. H. Herzog “Attention and non-retinotopic feature integration”, JOURNAL OF VISION, 10(12):8, 1–13, doi:10.1167/10.12.8, 2010. PDF
+H. Kafaligonul, S. S. Patel, H. Ogmen, H. E. Bedell, G. Purushothaman, (2010).  "Perceptual Asynchronies and the Dual-channel Differential Latency Hypothesis", in: R. Nijhawan and B. Khurana (Eds) Space and Time in Perception and Action, Cambridge University Press.
+2009
+M. Boi, H. Ogmen, J. Krummenacher, T. U. Otto, M. H. Herzog “A (fascinating) litmus test for human retino- vs. non-retinotopic processing”, JOURNAL OF VISION, 9(13):5, 1-11, doi:10.1167/9.13.5. 2009. PDF
+H. Kafaligonul, B. G. Breitmeyer, H. Ogmen, “Effects of Contrast Polarity in Paracontrast Masking”, ATTENTION, PERCEPTION, & PSYCHOPHYSICS, vol. 71, pp. 1576-1587, 2009. PDF
+M. Aydin, M. H. Herzog, H. Ogmen, “Shape Distortions and Gestalt Grouping in Anorthoscopic Perception”, JOURNAL OF VISION, 9(3):8, 1–8, doi:10.1167/9.3.8. 2009. PDF
+T. Otto, H. Ogmen, M. H. Herzog “Feature Integration across Space, Orientation, and Time”, JOURNAL OF EXPERIMENTAL PSYCHOLOGY: HUMAN PERCEPTION AND PERFORMANCE , vol. 35, pp. 1670-1686, 2009. PDF
+2008
+B. G. Breitmeyer, E. Tapia, H. Kafaligonul, H. Ogmen, “Metacontrast Masking and Stimulus Contrast Polarity”, VISION RESEARCH, vol. 48, pp. 2433-2438, 2008.
+H. Ogmen, G. Purushothaman, B. G. Breitmeyer, “Metacontrast, Target Recovery, and the Magno- and Parvocellular Systems: A Reply to the Perspective”, VISUAL NEUROSCIENCE, vol. 25, pp. 611-616, 2008.
+B. G. Breitmeyer, M. H. Herzog, H. Ogmen, “Motion, not Masking, Provides the Medium for Feature Attribution”, PSYCHOLOGICAL SCIENCE, vol. 19, pp.  823-829, 2008.
+T. Otto, H. Ogmen, M. H. Herzog “Assessing the Microstructure of Motion Correspondences with Non-retinotopic Feature Attribution”, JOURNAL OF VISION, vol. 8, pp. 1-15, 2008.
+M. Aydin, M. H. Herzog, H. Ogmen, “Perceived Speed differences Explain Apparent Compression in Slit Viewing”, VISION RESEARCH, vol. 48, pp. 1603-1612, 2008.
+B. G. Breitmeyer, A. Koc, H. Ogmen, R. Ziegler “Functional Hierarchies of Nonconscious Visual Processing”, VISION RESEARCH, vol. 48, pp. 1509-1513, 2008.
+H. Ogmen, S. S. Patel, G. Purushothaman, H. E. Bedell, “Moving Backward through Perceptual Compensation”, BEHAVIORAL AND BRAIN SCIENCES, vol. 31, pp. 212-213, 2008.
+G. Purushothaman, H. E. Bedell, H. Ogmen, S. S. Patel, “Neurophysiology of Compensation for Time Delays: Visual Prediction is Off Track”, BEHAVIORAL AND BRAIN SCIENCES, vol. 31, p. 214, 2008.
+2007
+H. Ogmen, “A Theory of Moving Form Perception: Synergy between Masking, Perceptual Grouping, and Motion Computation in Retinotopic and Non-retinotopic Representations”, ADVANCES IN COGNITIVE PSYCHOLOGY, vol. 3, pp. 67-84, 2007. PDF
+O. Yilmaz, S. P. Tripathy, S. S. Patel, H. Ogmen, “Attraction of flashes to moving dots”, VISION RESEARCH, vol.  47, pp. 2603-2615, 2007.
+U. Ansorge, G. Francis, M. H. Herzog, H. Ogmen, “Visual Masking and the Dynamics of Human Perception, Cognition, and Consciousness: A Century of Progress, a Contemporary Synthesis, and Future Directions. ADVANCES IN COGNITIVE PSYCHOLOGY, vol. 3, pp.  1-8, 2007.
+B. G. Breitmeyer, T. Ro, H. Ogmen, S. Todd "Unconscious, Stimulus-dependent and Conscious, Percept-dependent Priming with Chromatic Stimuli", PERCEPTION & PSYCHOPHYSICS, vol. 69, pp. 550-557, 2007. 
+F. Scharnowski, F. Hermens, T. Kammer, H. Ogmen, M. H. Herzog “Feature Fusion Reveals Slow and Fast Memories”, JOURNAL OF COGNITIVE NEUROSCIENCE, vol. 19, pp.  632-641, 2007.
+H. Fotowat, H. Ogmen, H. E. Bedell, B. G. Breitmeyer "Probing the Oscillatory Visual Dynamics at the Perceptual Level", in: M. Akay (Ed) Handbook of Neural Engineering, Chapter 38, pp. 615-625, Hoboken, NJ, Wiley-IEEE Press, 2007.
+2006
+H. Ogmen, B. G. Breitmeyer, S. Todd, L. Mardon, “Target Recovery in Metacontrast : The Effect of Contrast”, VISION RESEARCH, vol. 46, pp. 4726-4734, 2006.
+T. Otto, H. Ogmen, M. H. Herzog “The Flight Path of the Phoenix: The Visible Trace of Invisible Elements in Human Vision”, JOURNAL OF VISION, vol. 6, pp. 1079-1086. PDF
+H. Ogmen, T. Otto, M. H. Herzog “Perceptual Grouping Induces Non-retinotopic Feature Attribution in Human Vision”, VISION RESEARCH, vol. 46, pp. 3234-3242, 2006.
+B. G. Breitmeyer, H. Kafaligonul, H. Ogmen, L. Mardon, S. Todd, R. Ziegler “Meta- and Paracontrast Reveal Differences Between Contour- and Contrast-Processing Mechanisms", VISION RESEARCH, vol. 46, pp. 2645-2658, 2006.
+B. G. Breitmeyer, H. Ogmen "Visual Masking Reveals Differences between the Unconscious and Conscious Processing of Form and Surface Attributes". in: H. Ogmen B. G. Breitmeyer (Eds) The First Half Second: The Microgenesis and Temporal Dynamics of Unconscious and Conscious Visual Processes, MIT Press (2006).
+H. E. Bedell, S. S. Patel, S. T. l. Chung, H. Ogmen "Perceptual Consequences of Timing Differences within Parallel Feature-Processing Systems in Human Vision", in: H.Ogmen B. G. Breitmeyer (Eds) The First Half Second: The Microgenesis and Temporal Dynamics of Unconscious and Conscious Visual Processes, MIT Press (2006).
+H. Ogmen, B. G. Breitmeyer. H. E. Bedell "Dynamics of Perceptual Epochs Probed by Dissociation Phenomena in Masking", in: H. Ogmen B. G. Breitmeyer (Eds) The First Half Second: The Microgenesis and Temporal Dynamics of Unconscious and Conscious Visual Processes, MIT Press (2006).
+2005
+B. G. Breitmeyer, H. Ogmen, J. Ramon, J. Chen "Unconscious Priming by Form and their Parts", VISUAL COGNITION, vol. 12, pp. 720-736, 2005.
+H. Ogmen "Spatio-temporal Dynamics of Visual Perception across Neural Maps and Pathways", in: E. Bayro-Corrochano (Ed) Handbook of Geometric Computing: Applications in Pattern Recognition, Computer Vision, Neural Computing, and Robotics, Chapter 1, pp. 3-27, Springer Verlag (2005).
+2004
+H. Ogmen, S. S. Patel, H. E. Bedell, K. Camuz "Differential Latencies and the Dynamics of the Position Computation Process for Moving Targets, Assessed with the Flash-Lag Effect", VISION RESEARCH, vol. 44, pp. 2109-2128, 2004. 
+B. G. Breitmeyer, T. Ro, H. Ogmen "A Comparison of Masking by Visual and Transcranial Magnetic Stimulation: Implications for the Study of Conscious and Unconscious Visual Processing", CONSCIOUSNESS AND COGNITION, vol. 13, pp. 829-843, 2004.
+B. G. Breitmeyer, H. Ogmen, J. Chen "Unconscious Priming by Color and Form: Different Processes and Levels", CONSCIOUSNESS AND COGNITION, vol. 13, pp. 138-157, 2004.
+2003
+G. Purushothaman, H. Ogmen, H. E. Bedell "Suprathreshold Intrinsic Dynamics of the Human Visual System", NEURAL COMPUTATION, vol. 15, pp. 2883-2908, 2003.
+S. S. Patel, M. T. Ukwade, S. B. Stevenson, H. E. Bedell, V. Sampath, H. Ogmen, "Stereoscopic Depth Perception from Oblique Phase Disparities", VISION RESEARCH, 43, pp 2479-2492, 2003.
+H. E. Bedell, S. T. Chung, H. Ogmen, S. S. Patel "Color and Motion: Which is the Tortoise and which is the Hare?", VISION RESEARCH, vol. 43, pp. 2403-2412, 2003.
+H. Ogmen, B. G. Breitmeyer, R. Melvin "The What and Where in Visual Masking", VISION RESEARCH, vol. 43, pp. 1337-1350, 2003.
+S. X. Yang, H. Ogmen, G. Maguire "Neural Computations in the Tiger Salamander and Mudpuppy Retinae and an Analysis of GABA Action from Horizontal Cells", BIOLOGICAL CYBERNETICS, vol. 88, pp. 450-458, 2003.
+2002
+G. Purushothaman, D. Lacassagne, H. E. Bedell, H. Ogmen "Effect of Exposure Duration, Contrast and Base Blur on Coding and Discrimination of Edges", SPATIAL VISION, vol. 15, pp. 341-376, 2002.
+2001
+G. Zhang, G. Bayramoglu, J. Liu, H. Ogmen "Analogue Integrated-Circuit Design for Sustained Neurons in a Fly", ELECTRONICS LETTERS, vol. 37, pp. 867-868, 2001.
+S. S. Patel, B. Jiang, H. Ogmen "Vergence Dynamics Predicts Fixation Disparity", NEURAL COMPUTATION, vol. 13, pp. 1495-1525, 2001.
+2000
+S. S. Patel, H. Ogmen, H. E. Bedell, V. Sampath "Flash-lag Effect: Differential Latency, Not Postdiction", SCIENCE, vol. 290, p. 1051a, 2000. PDF
+G. Purushothaman, H. Ogmen, H. E. Bedell "Gamma-range Oscillations in Backward-masking Functions and their Putative Neural Correlates", PSYCHOLOGICAL REVIEW, vol. 107, pp. 556-577, 2000.
+B. G. Breitmeyer, H. Ogmen "Recent Models and Findings in Backward Visual Masking: A Comparison, Review, and Update", PERCEPTION & PSYCHOPHYSICS, vol. 62, pp. 1572-1595, 2000.
+J. Carvajal, G. Chen, H. Ogmen "Fuzzy PID Controller: Design, Performance Evaluation, and Stability Analysis", INFORMATION SCIENCES, vol. 123, pp. 249-270, 2000.
+1999
+S. S. Patel, B. Jiang, J. M. White, H. Ogmen "Nonlinear Alteration of Transient Vergence Dynamics after Prolonged Convergence", OPTOMETRY AND VISION SCIENCE, vol. 76, pp. 656-663, 1999.
+1998
+G. Purushothaman, S. S. Patel, H. E. Bedell, H. Ogmen "Moving Ahead Through Differential Visual Latency", NATURE, vol. 396, p. 424, 1998.
+M. Sarikaya, W. Wang, H. Ogmen "Neural Network Model of On-Off Units in the Fly Visual System: Simulations of Dynamic Behavior", BIOLOGICAL CYBERNETICS, vol. 78, pp. 399-412, 1998.
+G. Purushothaman, H. Ogmen, S. Chen, H. E. Bedell "Motion Deblurring in a Neural Network Model of Retino-Cortical Dynamics", VISION RESEARCH, vol. 38, pp. 1827-1842, 1998.
+R. V. Prakash, H. Ogmen "Self-organization via Active Exploration: Hardware Implementation of a Neural Robot", ROBOTICA, vol. 16, pp. 127-141, 1998.
+1997
+G. Chen, Y. Chen, H. Ogmen "Identifying Chaotic Dynamical Systems via a Wiener-type Cascade Model", IEEE CONTROL SYSTEMS MAGAZINE, vol. 17, pp. 29-36, 1997.
+S. S. Patel, H. Ogmen, J. M. White, B. Jiang "Neural Network Model of Short-Term Horizontal Disparity Vergence Dynamics", VISION RESEARCH, vol. 37, pp. 1383-1400, 1997.
+H. Ogmen "Sensorial Nonassociative Learning and its Implications for Visual Perception", in: O. Omidvar, C. L. Wilson (Eds) Progress in Neural Networks, Volume 5: Architecture, Chapter 7, pp. 177-204, Ablex Publishing: New Jersey, (1997).
+H. Ogmen, R. V. Prakash "A Developmental Perspective to Neural Models of lntelligence and Learning" in: D. S. Levine, W. R. Elsberry (Eds) Optimality in Biological and Artificial Neural Networks?, Chapter 18, pp. 363-395, Lawrence Erlbaum Associates: New Jersey, (1997).
+1996
+S. P. Tripathy, D. M. Levi, H. Ogmen "Two-dot Alignment across the Physiological Blind Spot", VISION RESEARCH, vol. 36, pp. 1585-1596, 1996.
+S. Azizi, H. Ogmen. B. H. Jansen "A Unified Analysis of Fast Synchronized Oscillations, Alpha Rhythm, and Flash Visual Evoked Potentials", NEURAL NETWORKS, vol. 9, pp. 223-242, 1996.
+1995
+S. Chen, H. E. Bedell, H. Ogmen "A Target in Real Motion Appears Blurred in the Absence of Other Proximal Moving Targets", VISION RESEARCH, vol. 35, pp. 2315-2328, 1995.
+J. M. Harris, H. Ogmen "Dynamic Asymmetry in the Receptive Fields of Shunting Networks for Continuous-time Early Vision", NEURAL, PARALLEL, AND SCIENTIFIC COMPUTATIONS, vol. 3, pp. 163-172, 1995.
+S. P. Tripathy, D. M. Levi, H. Ogmen, C. Harden "Perceived Length across the Physiological Blind Spot", VISUAL NEUROSCIENCE, vol. 12, pp. 385-402, 1995.
+1994
+H. Ogmen, L. Garnier "Quantitative Studies of Fly Visual Sustained Neurons", INTERNATIONAL JOURNAL OF BIO-MEDICAL COMPUTING, vol. 36, pp. 299-310, 1994.
+1993
+H. Ogmen "A Neural Theory of Retino-Cortical Dynamics", NEURAL NETWORKS, vol. 6, pp. 245-273, 1993.
+H. Ogmen, M. Moussa "A Neural Model for Nonassociative Learning in a Prototypical Sensory-motor Scheme: The Landing Reaction in Flies" BIOLOGICAL CYBERNETICS, vol. 68, pp. 351-361, 1993.
+G. Chen, H. Ogmen "Modified Extended Kalman Filtering for Supervised Learning" INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE, vol. 24, pp. 1207-1214, 1993.
+H. Ogmen "Continuous-time Global Computer Vision with Analog, Specialized, and Interacting Neural Networks", INFORMATION SCIENCES, vol. 70, pp. 5-25, 1993.
+1992
+K. V. K. Iyer, H. Ogmen, C. K. Koc "Landscape Reshaping Algorithm for Additive Neural Networks with Application to Graph Mapping Problems" ELECTRONICS LETTERS, vol. 28, pp. 109-111, 1992.
+1991
+ H. Ogmen "On the Mechanisms Underlying Directional Selectivity", NEURAL COMPUTATION, vol 3, pp. 333-349, 1991.
+H. Ogmen, S. Gagne "Parallel Information Processing in Biological Systems: From Phototransduction to Neural Networks", in: D.L. Wise (Ed.) Bioinstrumentation and Biosensors, Chapter 5, pp. 121-145, Marcel Dekker: New York, (1991).
+1990
+H. Ogmen, S. Gagne "Neural Network Architectures for Motion Perception and Elementary Motion Detection in the Fly Visual System", NEURAL NETWORKS, vol. 3, pp. 487-505, 1990.
+H. Ogmen, S. Gagne "Neural Models for Sustained and On-Off Units of Insect Lamina". BIOLOGICAL CYBERNETICS, vol. 63, pp. 51-60, 1990.
+1987
+H. Ogmen, S. Gagne "Phototransduction in Invertebrates: The Prolonged Depolarizing Afterpotential", BIOLOGICAL CYBERNETICS, vol. 56, pp. 27-36, 1987.
+PEOPLE
+Faculty
+Staff
+Students
+Alumni
+Industry Advisory Board
+NSF Career Award Winners
+LOCATION
+Dept. of Electrical & Computer Engineering
+N308 Engineering Bldg 1
+4726 Calhoun Rd
+Houston, TX 77204-4005
+Phone: 713-743-4400
+Fax: 713-743-4444
+Department: ece@egr.uh.edu
+Campus Map
+UH Parking & Routes
+Google Map
+ABOUT
+Message From the Chair
+Giving
+Contact Us
+NEWS
+News
+ECE Connections
+eNewsletters
+UNDERGRADUATE
+General Information
+Degree Programs
+Accreditation
+Admissions
+Advising
+Scholarships & Careers
+Forms & FAQs
+Academic / Professional Assistance
+First Year Experience
+GRADUATE
+Degree Programs
+Admission Guidelines
+Degree Requirements
+Admission Procedures
+Procedures
+Graduate Courses
+Graduate Calendar
+Forms
+Financial Aid & Related Info
+Fellowship Opportunities
+FAQs
+Online Learning
+UH Graduate School
+Certificate Programs
+RESEARCH
+Laboratories and Centers
+Machine Shop
+Dissertation
+Seminars
+ECE Speaker Series
+Nano Speaker Series
+Cadence
+News
+Undergraduate Research
+PEOPLE
+Faculty
+Staff
+Students
+Alumni
+Industry Advisory Board
+NSF Career Award Winners
+RESOURCES
+Fellowship Opportunities
+Academic Forms
+Image Gallery
+Resources for Faculty & Staff
+©2017 University of Houston Cullen College of Engineering, Department of Electrical & Computer Engineering
+Get Driving Directions   713-743-4400
+UH System | State of Texas | Policies | Emergency | Title IX — Sexual Misconduct

@@ -1,0 +1,45 @@
+Faculty of Environment
+Leeds.ac.uk Portal Contact Us
+School of Earth and Environment
+HOME ADMISSIONS & STUDY RESEARCH BUSINESS & CONSULTANCY PEOPLE INTRANET
+You are here: Earth and Environment > People > Person detail
+Dr Annette Miltenberger
+Research Fellow
+Email address: A.Miltenberger@leeds.ac.uk
+Room: 10.115
+Affiliation: Institute for Climate and Atmospheric Science
+Biography
+Annette Miltenberger recently completed her PhD at ETH Zurich with Heini Wernli and Hanna Joos. In her thesis she developed a novel module for the regional numerical weather model COSMO, which allows to calculate trajectories at a very high temporal resolution during the model integration. The Lagrangian perspective was then utilized to better understand the precipitation formation in stable orographic clouds and to investigate the non-dimensional numbers governing their precipitation efficiency. The high temporally resolved trajectories proved additionally very beneficial in case studies of foehn flow over the Swiss Alps, which revisited the question of foehn air warming. Besides Annette was involved in study on cirrus cloud formation in collaboration with Erika Kienast, Luo Beiping and Thomas Peter.
+Currently Annette is working as research fellow in the Aerosol and Cloud Group lead by Paul Field at ICAS, where she will investigate the interaction of cloud microphysical and dynamical processes in ice-phase clouds.
+Qualifications
+2009 BSc ETH in Earth Science, ETH Zurich, Switzerland
+2011 MSc ETH in Atmospheric and Climate Science, ETH Zurich, Switzer1and
+2011 - 2014 PhD studies in the Atmospheric Dynamics Group at IAC ETH Zurich, thesis title: Lagrangian Perspective on Dynamic and Microphysical Processes in Orographically Forced Flows
+Research Interests
+Cirrus cloud formation: role of small-scale temperature fluctuations; large-scale dynamic forcing; transport, origin and processing of ice nuclei and moisture
+Interaction of dynamical and microphysical processes in cloud systems and a formalized descripition and characterization of precipitation formation
+Lagrangian perspective on atmospheric phenomena (online-trajectories)
+Orographic flows and precipitation, especially Alpine foehn flow and foehn air warming
+Publications
+Lebo ZJ; Shipway BJ; Fan J; Geresdi I; Hill A; Miltenberger A; Morrison H; Rosenberg P; Varble A; Xue L (2017) Challenges for cloud modeling in the context of aerosol-cloud-precipitation interactions, Bulletin of the American Meteorological Society, . doi: 10.1175/BAMS-D-16-0291.1
+Miltenberger AK; Reynolds S; Sprenger M (2016) Revisiting the latent heating contribution to foehn warming - Lagrangian analysis of two foehn events over the Swiss Alps, Quarterly Journal of the Royal Meteorological Society, 142, pp.2194-2204. doi: 10.1002/qj.2816
+Wernli H; Boettcher M; Joos H; Miltenberger AK; Spichtinger P (2016) A trajectory-based classification of ERA-Interim ice clouds in the region of the North Atlantic storm track, Geophysical Research Letters, 43, pp.6657-6664. doi: 10.1002/2016GL068922
+Field PR; Lawson RP; Brown PRA; Lloyd G; Westbrook C; Moisseev D; Miltenberger A; Nenes A; Blyth A; Choularton T; Connolly P; Buehl J; Crosier J; Cui Z; Dearden C; DeMott P; Flossmann A; Heymsfield A; Huang Y; Kalesse H; Kanji ZA; Korolev A; Kirchgaessner A; Lasher-Trapp S; Leisner T; McFarquhar G; Phillips V; Stith J; Sullivan S (2016) Chapter 7. Secondary Ice Production - current state of the science and recommendations for the future, Meteorological Monographs. Ice Formation and Evolution in Clouds and Precipitation: Measurement and Modeling Challenges, . doi: 10.1175/AMSMONOGRAPHS-D-16-0014.1
+Miltenberger AK; Seifert A; Joos H; Wernli H (2015) A scaling relation for warm-phase orographic precipitation: a Lagrangian analysis for 2D mountains, QUARTERLY JOURNAL OF THE ROYAL METEOROLOGICAL SOCIETY, 141, pp.2185-2198. doi: 10.1002/qj.2514
+Kienast-Sjögren E; Miltenberger AK; Luo BP; Peter T (2015) Sensitivities of Lagrangian modeling of mid-latitude cirrus clouds to trajectory data quality, Atmospheric Chemistry and Physics, 15, pp.7429-7447. doi: 10.5194/acp-15-7429-2015
+Miltenberger AK; Roches A; Pfahl S; Wernli H (2014) Online Trajectory Module in COSMO - A short user guide, .
+Miltenberger AK; Pfahl S; Roches A; Wernli H (2014) An Online Trajectory Module for the COSMO-model, .
+Miltenberger AK; Pfahl S; Wernli H (2013) An online trajectory module (version 1.0) for the non-hydrostatic numerical weather prediction model COSMO, Geoscientific Model Development, 6, pp.1989-2004. doi: 10.5194/gmd-6-1989-2013
+Miltenberger AK () Lagrangian Perspective on Dynamic and Microphysical Processes in Orographically Forced Flows, .
+Miltenberger AK () Trajectory analysis of orographic precipitation, .
+Miltenberger AK () Evaluation of the capability of ECMWF to predict upper-level PV-anomalies playing a fundamental role in polar low genesis, .
+Search site
+Faculty Support Staff & Key Academic Leads
+People
+Alumni
+Contact Us
+News
+Faculties and schools Staff A-Z Library LUU University jobs Find an expert News The Portal
+Back to the top | Terms and conditions | Accessibility | Privacy | Freedom of Information
+© 2016 University of Leeds, Leeds, LS2 9JT.
+ 

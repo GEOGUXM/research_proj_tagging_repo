@@ -1,0 +1,85 @@
+skip to main content
+TAMHSC
+DENTISTRY
+NURSING
+PHARMACY
+PUBLIC HEALTH
+SEARCH
+About
+Education
+Departments
+Administration
+Campuses
+Research & Graduate Studies
+Alumni
+Giving
+Medicine Insider
+
+Home » Neuroscience and Experimental Therapeutics » Faculty » William H. Griffith, Ph.D.
+William H. Griffith, Ph.D.
+Professor and Department Chair
+
+Department of Neuroscience and Experimental Therapeutics, Interdisciplinary Program in Neuroscience (TAMU/TAMHSC)
+8447 Riverside Pkwy
+1010 Medical Research and Education Building
+Bryan, TX   77807-3260
+
+Phone: 979-436-0315
+Fax: 979-436-0086
+griffith@medicine.tamhsc.edu
+Education
+Ph.D., Department of Pharmacology and Toxicology, University of Texas Medical Branch, Galveston (1980)
+Research Associate, Department of Pharmacology, School of Pharmacy, University of London.
+Postdoctoral Fellow, Department of Neurology, Baylor College of Medicine, Houston, Texas.
+Research Interests
+Rapid (non-genomic) actions of estrogens during aging and reproductive senescence.
+Estrogen plays a fundamental role in neuronal physiology during aging, and declining estrogens at menopause increase the incidence of stroke, cognitive impairment and inflammation. While estrogen therapy (ET) is beneficial in young females or following surgical menopause, ET is detrimental in older, postmenopausal females. Our long term research goals are to identify the cellular and molecular mechanisms responsible for age- and hormonal-related changes in cellular function that contribute to detrimental aging.  We utilize a rodent model of ovarian aging and menopause to test non-genomic estrogenic mechanisms that control calcium signaling and synaptic function against a background of long-term estrogen therapy and cognitive status. We utilize this rodent model coupled with a variety of techniques including, patch-clamp electrophysiology, measurements of intracellular calcium concentration ([Ca2+]i), laser confocal fluorescent microscopy, and single-cell reverse transcription/polymerase chain reaction (scRT-PCR). We focus on the rapid, non-genomic actions of estrogens and our experiments define how these actions are modulated by ovarian aging and ET. Identification of aberrant estrogen signaling will provide an important first step in identifying potential targets for future drug therapies.
+Selected Publications
+ Damborsky JC, Griffith WH,  Winzer-Serhan UH. Neonatal nicotine exposure increases excitatory synaptic transmission and attenuates nicotine-stimulated GABA release in the adult rat hippocampus.  Neuropharmacology, 88:187-198, 2015.
+ Damborsky JC, Griffith WH, Winzer-Serhan UH.  Neonatal nicotine exposure increases excitatory synaptic transmission and attenuates nicotine-stimulated GABA release in the adult rat hippocampus, Neuropharmacology, 2014 in press [Epub ahead of print] PubMed PMID: 24950455.
+Griffith WH, DuBois DW, Fincher A, Peebles KA, Bizon JL, Murchison, D. Characterization of age-related changes in synaptic transmission onto F344 basal forebrain cholinergic neurons using a reduced synaptic preparation. J. Neurophysiology, 111: 273-286, 2014 [PMID: 24133226]
+Wang H-Y, DuBois DW, Tobery, AN, Griffith WH, Brandt P, Frye GD. Long-lasting distortion of GABA signaling in MS/DB neurons after binge-like ethanol exposure during initial synaptogenesis. Brain Research 1520:36-50, 2013. [PMID: 23685190]
+Damborsky, J, Griffith, WH, Winzer-Serhan, UH. Chronic neonatal nicotine exposure increases excitation in the young adult rat hippocampus in a sex-dependent manner. Brain Research.1430: 8-17, 2012.
+[PMID: 22119395]
+Murchison, D, McDermott, AN, Bizon JL, Peebles, KA, Griffith, WH. Enhanced Calcium Buffering in F344 Rat Cholinergic Basal Forebrain Neurons is Associated with Age-related Cognitive Impairment. Journal of Neurophysiology102:2194-2207, 2009. [PMID: 19675291]
+Bizon, JL, LaSarge, CL, Montgomery, KS, McDermott, AN, Setlow, B, Griffith, WH . Spatial reference and working memory across the lifespan of male Fischer 344 rats. Neuroboiology of Aging, 30 (4), 646-655, 2009. [PMID: 17889407]
+Huang L.Z., Liu X., Griffith W.H., Winzer-Serhan U.H. Chronic neonatal nicotine increases anxiety but does not impair cognition in adult rats. Behavioral Neuroscience 121(6), 1342-1352, 2007. [PMID: 18085887]
+LaSarge CL, Montgomery KS, Tucker C, Slaton S, Griffith WH, Setlow B, Jennifer L. Bizon. Deficits across multiple cognitive domains in a subset of aged Fischer 344 rats. Neurobiology of Aging, 28:928-936, 2007. [PMID: 16806587]
+Etheredge JA, Murchison D, Abbott LC, Griffith W.H. Functional compensation by other voltage gated Ca2+ channels in mouse basal forebrain neurons with Cav2.1 mutations Brain Research, 1140: 105-119, 2007. [PMID: 16364258]
+Nahm S-S., Jung K-Y., Enger M.K., Griffith, W.H. and Abbott L.C. Differential expression of T-type calcium channels in P/Q-type calcium channel mutant mice with ataxia and absence epilepsy. Journal of Neurobiolgy, 62: 352-360, 2005. [PMID: 15514988]
+Nahm, S-S., Farnell Y.Z., Griffith, W. and Earnest, D.J. Circadian Regulation and Function of Voltage-Dependent Calcium Channels in the Suprachiasmatic Nucleus. Journal of Neuroscience, 25: 9304-9308, 2005. [PMID: 16207890]
+Jung K-Y., Dean D., Jiang J., Gaylor S., Griffith, W.H., Burghardt RC. And Parrish A.R. Loss of N-cadherin and a- catenin in the proximal tubules of aging male Fischer 344 RATS. Mechanisms of Ageing and Development, 125: 445-453, 2004. [PMID: 15178134]
+Murchison, D., Zawieja, D.C. and Griffith, W.H. Changes in mitochondrial function affect calcium homeostasis in aged rat basal forebrain. Cell Calcium, 36: 61-75, 2004.
+Murchison D, Zawieja DC, Griffith WH. Reduced mitochondrial buffering of voltage-gated calcium influx in aged rat basal forebrain neurons. Cell Calcium. 36(1):61-75, 2004. [PubMed PMID: 15126057].
+Han, S-H., McCool, B.A., Murchison,D., Nahm, S-S.,Parrish, A.R. and Griffith, W.H. Single-cell RT-PCR detects shifts in the mRNA expression profiles of basal forebrain neurons during aging. Mol. Brain Research 98:67-80, 2002. [PMID: 11834297]
+Dove, L.S., Nahm, S-S., Murchison, D., Abbott, L.C. and Griffith, W.H. Altered calcium homeostasis in cerebellar purkinje cells of leaner mutant mice. J. Neurophysiol. 84: 513-524, 2000. [PMID: 10899223]
+
+Quick Links
+Texas A&M Physicians
+Howdy
+Email
+Blackboard
+Medical Sciences Library
+Incident & Accident Reporting
+Centers, Institutes & Labs
+Wellness with a Purpose
+Dean & Leadership
+Policies
+Campus Maps
+Veterans
+Clinical Partners
+Information
+Contact Us
+FAQs
+Press & Media
+Contact Webmaster
+IT Help Desk
+HSC Alert
+Affiliations
+Texas A&M College of Medicine
+3050 Health Professions Education Building
+8447 Riverside Pkwy
+Bryan, TX 77807
+979-436-0200 | 979-436-0092
+State of Texas · Texas Homeland Security · Public Information Act · Risk, Fraud & Misconduct Hotline · Statewide Search · State Link Policy
+Security · Equal Opportunity/Nondiscrimination · Employment Opportunities · Texas Veterans Portal · Site Policies · Web Accessibility

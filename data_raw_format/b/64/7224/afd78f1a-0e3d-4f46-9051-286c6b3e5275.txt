@@ -1,0 +1,143 @@
+最新公告
+系所簡介
+系所成員
+系所組織
+課程介紹
+研究概況
+學生手冊
+相關連結
+自訂網頁 : 左上圖01
+演講公告
+招生網站
+相關就業情報
+獎助學金申請
+會議室查詢
+機械系影片欣賞
+台大機械電子報
+國際學術合作
+自訂網頁 : 連結圖
+自訂網頁 : 連結項目
+ 高中生園地
+ 認識台大機械系
+ 機械系學生會
+ 新能源中心
+ 機器人中心
+ 台大機械系友會
+    　 自訂網頁 : 訪客數
+訪客人數
+目前線上人數：8
+總瀏覽人數：2,887,892
+自訂網頁 : 站內搜尋
+Google站內搜尋器
+搜尋
+  　   姓名Name
+陳湘鳳 Shana Smith
+職稱Title
+教授 Professor
+辦公室Office
+工學院綜合大樓, Engineering Building
+電話Phone
+3366-2692
+傳真Fax
+電子郵件E-mail
+ssmith@ntu.edu.tw
+實驗室Lab
+先進產品實現與互動實驗室
+(Advanced Product Realization and Interaction Lab, APRILab @ NTU )
+位置：新數學館205-3室
+電話：3366-9538
+自傳
+Short Biography
+學歷 (Education):
+‧Ph.D. in Mechanical Engineering, Iowa State University, Ames, Iowa
+愛荷華州立大學博士
+‧M.S. in Mechanical Engineering, Iowa State University, Ames, Iowa
+愛荷華州立大學碩士
+‧B.S. in Mechanical Engineering, National Chiao-Tung University, Hsin-Chu, Taiwan
+國立交通大學
+
+經歷(WORKING EXPERIENCES):
+‧Associate Professor, Iowa State University (with tenure)
+‧Assistant Professor, Hong Kong University of Science and Technology
+研究領域
+Research Interests
+Haptics technology 力回饋技術
+Human-computer interaction 人機互動
+Assembly/ disassembly planning 產品裝配/ 拆卸規劃
+Virtual reality 虛擬實境
+Augmented reality 擴增實境
+User-centered design 以使用者為中心的設計
+Kansei engineering 感性工程
+Green design 綠色設計
+教學課程
+Teaching Courses
+工程圖學 Engineering Graphics
+
+機械設計原理 Machine Design Theory
+研究著作
+Publications
+期刊論文 (Journal Papers)：
+Smith, S., & Hsu, L.Y. (December, 2016). Partial disassembly sequence planning based on cost-benefit analysis, Journal of Cleaner Production, 139, 729-739. (SCI)
+You, Z. H., & Smith, S. (April, 2016). A multi-objective modular design method for creating highly distinct independent modules. Research in Engineering Design. 27(2), 179-191. (SCI)
+Kuo, T.C., Smith, S., & Huang, S.H. (Jan 2016). A predictive product attribute driven eco-design process using depth-first search. Journal of Cleaner Production. 112(4), 3201-3210. (SCI)
+Smith S., & P.Y. Hung. (October 2015). A novel selective parallel disassembly planning method for green design. Journal of Engineering Design, 26(10-12), 283-301. (SCI)
+Wu, C.M., & Smith, S., (June 2015). A haptic keypad design with a novel interactive haptic feedback method. Journal of Engineering Design, 26(4-6), 169-186. (SCI)
+Smith, S., & Lee, J.L. (March 2015). The effects of realistic tactile haptic feedback on user surface texture perception. Journal of Vibroengineering, 17(2), 1004-1016. (SCI)
+Smith, S., & Wang, W. Z., (Sep 2014). Green modular design by the concept of chemical activation energy. International Journal of Automation Technology, 8(5), 716-722. (EI)
+Smith, S., Smith, G.C., & Huang, W.N. (2013). A green quality function deployment method for business management. Journal of Integrated Design and Process Science, 17(2), 35-56. (EI)
+Smith, S., Jiao, R., Chu, C.H. (2013). Advances in mass customization. Journal of Intelligent Manufacturing, 24(5), 873-876. (SCI)
+Smith, S., Smith, G., Jiao, R., Chu, C.H. (2013). Mass customization in the product life cycle. Journal of Intelligent Manufacturing, 24(5), 877-885. (SCI)
+Smith, S., Smith, G., & Chen, Y.R. (2013). A KE-LSA approach for user-centered design. Journal of Intelligent Manufacturing, 24(5), 919-933. (SCI)
+Smith, G., & Smith S. (April 2012). Latent semantic engineering – a new conceptual approach to user-centered product design. Advanced Engineering Informatics, 26(2), 456-473. (SCI)
+Smith, S., Smith, G., & Chen, W.H. (April 2012). Disassembly sequence structure graphs: an optimal approach for multiple-target selective disassembly sequence planning. Advanced Engineering Informatics, 26(2), 306-316. (SCI)
+Smith, S., Smith, G., & Shen, Y. T. (March 2012). Redesign for product innovation. Design Studies, 33(2), 160-184. (SCI)
+國際會議論文 (International Conference Papers)：
+Young, Z.-Q., & Smith, S. (July, 2016). An interactive augmented reality furniture customization system. International Conference on Virtual, Augmented and Mixed Reality, Toronto, Canada, 662-668.
+Yang, F.Y., & Smith, S. (27-31, July, 2016).  Development of a Hybrid Haptic Feedback Virtual Assembly System with Natural User Interface. The 7th International Conference on Applied Human Factors and Ergonomics, Orlando, Florida.
+Hsu, T.-K., Chang, E.-C., Hsu, C.-W., & Smith, S. (December 2-4, 2015). An augmented reality disassembly system with a wearable haptic interface. EcoDesign 2015, Tokyo, Japan.
+Kuo, C.-H., Wu, C.-M., & Smith, S. (November 13-15, 2015). The development of a ferrofluid haptic device with dynamic feedback. Automation 2015, Taipei, Taiwan.
+Chao, C.-K., Lin, Y.-J., Yang, Z.-Q., Wu, C.-M., & Smith, S. (October 25-30, 2015). A prediction model for estimating the resonance frequencies and displacements of unimorph cantilever piezoelectric plates. 2015 IFToMM World Congress, The 14th International Federation for the Promotion of Mechanism and Machine Science World Congress, Taipei, Taiwan, 25-30 October, 2015.
+Hsu, T.-K., & Smith, S. (August 23-26, 2015). An augmented reality- based assembly training system. ISWA Beacon, The 3rd International Conference on Final Sinks, Taipei, Taiwan. (Abstract only)
+Wu, C.-M., Hsu, C.-W., & Smith, S. (August 2-7, 2015). A virtual reality keyboard with realistic key click haptic feedback. HCI International 2015, The 17th International Conference on Human-Computer Interaction, Los Angeles, CA.
+Leung, C.-L., & Smith, S. (July 26-30, 2015). A novel biofeature-based compound-Kansei engineering method for wearable product design. The 6th International Conference on Applied Human Factors and Ergonomics 2015, Las Vegas, Nevada. (Abstract only)
+Smith, G. C. & Smith, S. S. (May 19-23, 2014). A cyber-physical system for mass customization. Proceedings of TMCE 2014, Budapest, Hungary, Edited by I. Horváth and Z. Rusák.
+Smith, G. C. & Smith, S. S. (December 4-6, 2013). Trends in EcoDesign. EcoDesign 2013, the 8th International Symposium on Environmentally Conscious Design and Inverse Manufacturing, Jeju Island, Korea, O-D-1.
+Smith, S. S. & Wang, W. Z. (December 4-6, 2013). Green Design by the Concept of Chemical Activation Energy. 2013, the 8th International Symposium on Environmentally Conscious Design and Inverse Manufacturing, Jeju Island, Korea, O-D-2.
+Smith, S., & Smith, G. (September 26-30, 2013). The semantic approach and emotional engineering. the International Congress of International Association of Societies of Design Research (IASDR), Tokyo, Japan.
+Smith, S., & Hung, P. Y. (September 9-12, 2012). A parallel disassembly method for green product design. Electronics Goes Green 2012, Berlin Germany.
+Lee, C.W, Smith, S., & Liu, Y.L. (December 12-14, 2012). An enhanced traffic sign recognition system. International Conference on Innovative Design and Manufacturing, Taipei, Taiwan.
+Lin, Y.W., & Smith, S. (December 12-14, 2012). A mixed reality selective disassembly planning system. International Conference on Innovative Design and Manufacturing, Taipei, Taiwan.
+Smith, S., & Chen, W. H. (August 12-15, 2012). A new graph-based selective disassembly sequence planning. Proceedings of the ASME 2012 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, IDETC/CIE 2012, Chicago, IL, USA.
+Smith, S., Smith, G, Lee, J. L. (May 7-11, 2012). A realistic portable tactile haptic device. Proceedings of TMCE 2012, Karlsruhe, Germany, Edited by I. Horváth, A. Albers, M. Behrendt and Z. Rusák.
+國內會議論文 (Domestic Conference Papers)：
+楊芳雲、許家維、柯柏年、陳湘鳳 (March, 2016). 建立一個具有自然使用者介面的複合式力回饋虛擬組裝系統，2016永續性產品與產業管理研討會, 嘉南藥理大學.
+李子魁、陳湘鳳 (March 2015). 一個具有擬真多點觸覺力回饋的虛擬實境組裝系統，2015永續性產品與產業管理研討會, 大葉大學. 優秀論文獎 (Excellent Paper Award)
+黃士函、陳湘鳳 (March 2014). SolidWorks二次開發用於拆卸序列規劃, 2014 Symposium on Sustainable Products and Industrial Management, 2014永續性產品與產業管理研討會, 台北世貿.
+徐立彥、陳湘鳳 (March 2013). 基於成本與收益的產品拆卸序列規化, 2013 Symposium on Sustainable Products and Industrial Management, 2013永續性產品與產業管理研討會, 義守大學. 優秀論文獎 (Excellent Paper Award)
+王偉哲、陳湘鳳 (March 2012). 基於原子理論及生命週期性質之產品綠色模組化方法, 2012 Symposium on Sustainable Products and Industrial Management, 2012永續性產品與產業管理研討會, 國立成功大學.
+洪珮瑜、陳湘鳳(March 2012). 以原子理論及遞迴規則為基礎之平行拆卸方法, 2012 Symposium on Sustainable Products and Industrial Management, 2012永續性產品與產業管理研討會, 國立成功大學.
+得獎紀錄 (Honors)：
+Best Paper Award, 2015永續性產品與產業管理研討會,大葉大學. 優秀論文獎
+Best Paper Award, 2013永續性產品與產業管理研討會,義守大學. 優秀論文獎
+US Patent 8,340,420, Method for recognizing objects in images
+研究計畫 (Research Projects) :
+可攜式觸覺手套與遠端觸覺感測機器人在虛擬實境中提供擬真的紋理觸覺回饋，主持人，計畫期間：2015/08/01~2017/07/31，委任單位：科技部。
+遠端擬真觸覺回饋系統開發，主持人，計畫期間：2014/08/01~2015/07/31，委任單位：科技部。
+開發創新之綠色設計方法，主持人，計畫期間：2013/08/01~2014/07/31，委任單位：科技部。
+產品綠色模組化設計，主持人，計畫期間：2013/01/01~2013/12/31，委任單位：宗倬章教育基金會。
+應用於Haptics技術之材料、裝置與演算法之研究開發(II)，主持人，計畫期間：2013/10/01~2014/09/30，委任單位：達方電子。
+應用於Haptics技術之材料、裝置與演算法之研究開發(I)，主持人，計畫期間：2012/06/01~2013/05/31，委任單位：達方電子。
+用公理化設計理論解決綠色產品配置設計問題，主持人，計畫期間：2012/08/01~2013/07/31，委任單位：行政院國家科學委員會。
+Using the axiomatic theory of design to solve green product configuration design problems
+利用力回饋及擴充實境進行產品拆卸評估，主持人，計畫期間：2011/08/01~2012/07/31，委任單位：行政院國家科學委員會。
+Product disassembly evaluation using haptic augmented reality
+專利
+Method for recognizing objects in images, US Patent 8,340,420
+在影像中辨識物體的方法，中華民國專利，發明第 I 417796號
+Realistic tactile haptic feedback device and realistic tactile haptic feedback method thereof, US Patent US 8,902,051
+擬真觸覺力回饋裝置及其方法，中華民國專利，發明第 I 501109號
+   
+    地址：台灣台北市106 羅斯福路四段1號工學院綜合大樓508室
+電話：(02)3366-2744                   傳真：(02)2363-1755
+mail：meoffice@ntu.edu.tw
+ 

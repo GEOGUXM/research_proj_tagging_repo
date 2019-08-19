@@ -1,0 +1,53 @@
+Skip to Content
+Rajesh Kumar
+Postdoctoral Research Scientist
+Department of Physics
+rajesh.kumar@ntnu.no
+rajesh.kumar@jpl.nasa.gov
+Rajesh Kumar has extensive experience in Biophysics and Medical Photonics. At present he is deputed in NASA/JPL, USA. He obtained PhD degree in Physics (Medical Technology), Master's and Bachelor's degree in Photonics. He worked in MIT, USA and, as Marie-Curie Researcher in UK (EU/FP7). Previously, he also worked as Visiting Research Fellow in Sungkyunkwan University (SKKU-South Korea), Tata Institute of Fundamental Research (TIFR-Mumbai), Indian Institute of Technology (IIT-Madras) and Indian Institute of Science (IISc-Bangalore).  He is the recipient of HMN-Mobility Research Grant (2017), Health Authority of Central Norway-Research Grant (2015-2018), Internationalization of Medical Technology Grant (2013) and, Medical Imaging Research and Travel Grant (MedIm-2012). He is also the recipient of a few other Research Fellowships and Awards in Norway, UK, South-Korea and in India including The SPIE-International award, USA. He has achieved the professional status of Associate Fellow of the Higher Education Academy (HEA), United Kingdom. He serves as a peer reviewer for several International Scientific Journals, Research Grants and Judge member of Intel-ISEF Grand Award in Los-Angeles.
+  Research area:
+Biophysics and Medical-Photonics, Medical Technology.
+Nonlinear Optical Microscopy, Raman/IR-Spectroscopy.
+Molecular imaging and Optical diagnostics.
+Design and Development of Optical Device and Setup.
+Statistical data analysis, Image analysis.
+Osteo-arthritis, Cartilage and Bone disease (pre-clinical).
+    Publications
+  "Multiphoton microscopy of osteoarthritic articular cartilage". Rajesh Kumar, Catharina L. Davies, Jon O. Drogset and Magnus B. Lilledahl. Optics in the Life Sciences, OSA Technical Digest ISBN: 978-1-943580-25-5, Optical Society of America (2017), DOI.org/10.1364/NTM.2017.NW4C.4
+  “Automated Polarization Second Harmonic Generation.” Elisabeth I. Romijn, Andreas Finnøy, Rajesh Kumar, and Magnus B. Lilledahl. SCANDEM, Nordic Microscopy Society (2016), Trondheim, Norway.
+  "Nonlinear optical microscopy of early stage (ICRS Grade-I) osteoarthritic human cartilage." Rajesh Kumar, Kirsten M. Grønhaug, Catharina L. Davies, Jon O. Drogset, and Magnus B. Lilledahl. Biomedical Optics Express 2015, 6(5), 1895-1903. DOI: 10.1364/BOE.6.001895
+  "Polarization second harmonic generation microscopy provides quantitative enhanced molecular specificity for tissue diagnostics". Rajesh Kumar, Kirsten M. Grønhaug, Elisabeth I. Romijn, Andreas Finnøy, Catharina L. Davies, Jon O. Drogset and Magnus B. Lilledahl. Journal of Biophotonics, Wiley-VCH, 8(9):730-9 (2015), DOI: 10.1002/jbio.201400086
+  “High resolution pictures reveal signs of osteoarthritis. Høyoppløste bilder avslører tegn på slitasjegikt.” Rajesh Kumar. Popular Science Article, published in http://forskning.no/ and http://www.gemini.no  (October-2015)
+  "Single Cell Confocal Raman Spectroscopy of Human Osteoarthritic Chondrocytes: A Preliminary Study" . Rajesh Kumar, Gajendra P. Singh, Kirsten M. Grønhaug, Nils Afseth, Catharina L. Davies, Jon O. Drogset and Magnus B. Lilledahl. International Journal of Molecular Sciences 2015, 16(5), 9341-9353; DOI:10.3390/ijms16059341
+  "Optical investigation of osteoarthritic human cartilage (ICRS Grade) by confocal Raman spectroscopy: A pilot study". Rajesh Kumar, Kirsten M. Grønhaug, Nils K. Afseth, Vidar Isaksen, Catharina de Lange Davies, Jon O. Drogset and Magnus B. Lilledahl, Analytical and Bioanalytical Chemistry (Springer)), 407(26):8067-77 (2015). DOI: 10.1007/s00216-015-8979-5
+  “Mueller matrix three-dimensional directional imaging of collagen fibers”. Pål G Ellingsen, Lars M Sandvik Aas, Vegard S Hagen, Rajesh Kumar, Magnus B Lilledahl, Morten Kildemo. Journal of Biomedical Optics 19(2), 026002 (2014).
+  “Analysis of human knee osteoarthritic cartilage using polarization sensitive second harmonic generation microscopy”. Rajesh Kumar, Kirsten M. Grønhaug, Elisabeth I. Romijn,Jon O. Drogset‎,Magnus B. Lilledahl. Proc. of SPIE- the international society for optical engineering. Vol. 9129, 91292Z (2014). DOI: 10.1117/12.2051989.
+  “A facile and real-time spectroscopic method for biofluid analysis in point-of-care diagnostics”. Rajesh Kumar, Singh GP, Barman I, Dingari NC, Nabi G. Bioanalysis, Journal of Future Science Group (fsg). 5(15):1853-61 (2013). DOI: 10.4155/bio.13.126.
+  “Mueller Matrix imaging on biomedical samples - collagen fibers and atherosclerotic plaques”. Pål Gunnar Ellingsen, Lars Martin Sandvik Aas, Vegard Hagen, Rajesh Kumar, Håkan Gustafsson, Magnus Borstad Lilledahl, Morten Kildemo, Mikael Lindgren. 6th International Conference on Spectroscopic Ellipsometry, May 26-31, 2013 Kyoto, Japan.
+  "Selective sampling using confocal Raman spectroscopy provides enhanced specificity for urinary bladder cancer diagnosis". Barman I, Dingari NC, Singh GP, Rajesh Kumar, Lang S, Nabi G. Journal of Analytical and Bioanalytical Chemistry. 2012; 404(10):3091-9. doi: 10.1007/s00216-012-6424-6.
+  “Multi-Photon Microscopy: Adding prospective new dimensions to Osteoarthritis”. Rajesh Kumar and Magnus Borstad Lilledahl. The 4th National PhD Conference in Medical Imaging, 28 - 29 Nov 2012,Trondheim, Norway.
+  “Characterization of collagen fiber in cartilage tissue by Müller matrix and non-linear optical imaging”. Rajesh Kumar, Pål Gunnar Ellingsen, Morten Kildemo and Magnus B. Lilledahl. 5th Annual Norwegian Molecular Imaging Consortium(NorMIC), 25-26 October 2012, University of Bergen, Norway.
+  “Intra-operative photonic diagnosis”. Rajesh Kumar, Giardini. M, Melzer. A. and Dholakia. K. 23rd Conference of the Society for Medical Innovation and Technology (SMIT), Israel (2011).
+  “Bio-photonic techniques: Physical principles, current and potential applications in radiology”. Kumar. Rajesh, Giardini. M, Samuel. I, Melzer. A. and Dholakia. K. RSNA- 2010, Radiological Society of North America, Chicago, USA.
+  Integration of Bio-photonic techniques with imaging modalities: Potential application in Medical Science. Rajesh Kumar, Giardini. M, Melzer. A. and Dholakia. K. Euroscience Open Forum(ESOF) International conference, 3 July 2010, Italy.
+  “Fabrication and fluorescence characterization of dye doped graded index polymer optical fibre preform”. M.Kailasnath, T.S.Sreejaya, Rajesh Kumar, P.Radhakrishnan, VPN.Nampoori and CPG. VaIlabhan. Journal of Optics and Laser Technology 40,687,2008. doi: 10.1016/j.optlastec.2007.10.015.
+  “Fluorescence characterization of dye doped polymer optical fibre preform.” M. Kailasnath, Rajesh Kumar, PR John, P. Radhakrishnan, VPN,Nampoori and CPG .Vallabhan. International Conerence on Optical materials and Thin films advanced Technology, (OMTAT-2005), October 24-27,2005, Kochi, India.
+  “Fabrication and fluorescence characterization of Rhodamine B doped graded index polymer optical fibre preform.” M. Kailasnath, Rajesh Kumar, PR John, P. Radhakrishnan, VPN. Nampoori and CPG .Vallabhan. International Conference on Optics and Lasers (ICOL-200S), December 12-15, 2005, Dehradun, India.
+  "An LED based evanescent-wave fiber optic sensor for the trace detection of Fe2+ ions in water". M.Kailasnath, Rajesh Kumar, P. Radhakrishnan, VPN. Nampoori a nd CPG. Vallabhan. National conference on Optics December,21-22, 2006, IIT Chennai.
+  "Fabrication of a compact polymer optical fibre drawing machine". M. Kailasnath, Rajesh Kumar, P. Radhakrishnan, VPN. Nampoori, Notional Laser symposium. December, 17-20,2007, M.S. University, Vadodara.
+Scientific, academic and artistic work
+Displaying a selection of activities. See all publications in the database
+Others
+Kumar, Rajesh; Lilledahl, Magnus Borstad. (2012) Multi-Photon Microscopy: Adding prospective new dimensions to Osteoarthritis. The 4th National PhD Conference in Medical Imaging ; 2012-11-28 - 2012-11-29.
+Competencies
+Physics
+Biophysics
+Photonics
+Medical Technology
+Applied Optics
+Norwegian University of Science and Technology
+Contact us
+Search for employees
+Studies A to Z
+About cookies
+Sign in
